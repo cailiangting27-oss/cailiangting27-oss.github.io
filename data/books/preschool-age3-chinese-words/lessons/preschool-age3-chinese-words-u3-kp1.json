@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age3-chinese-words-u3-kp1",
+  "title": "认识汉字 3",
+  "bookId": "preschool-age3-chinese-words",
+  "unitNumber": 3,
+  "unitTitle": "认识汉字 3",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 9,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：田",
+      "answer": "田",
+      "options": [],
+      "explanation": "示范读音：田。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "田",
+        "say": "田",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 3"
+    },
+    {
+      "id": 10,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：土",
+      "answer": "土",
+      "options": [],
+      "explanation": "示范读音：土。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "土",
+        "say": "土",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 3"
+    },
+    {
+      "id": 11,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：火",
+      "answer": "火",
+      "options": [],
+      "explanation": "示范读音：火。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "火",
+        "say": "火",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 3"
+    },
+    {
+      "id": 12,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：木",
+      "answer": "木",
+      "options": [],
+      "explanation": "示范读音：木。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "木",
+        "say": "木",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 3"
+    }
+  ],
+  "knowledge": null
+}

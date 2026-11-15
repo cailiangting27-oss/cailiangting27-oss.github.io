@@ -1,0 +1,150 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u1-kp1",
+  "title": "单韵母",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 1,
+  "unitTitle": "单韵母",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：a",
+      "answer": "a",
+      "options": [],
+      "explanation": "嘴巴张大 ā ā ā",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "a",
+        "say": "啊",
+        "ok": [
+          "a*"
+        ],
+        "emoji": "😮",
+        "hint": "嘴巴张大 ā ā ā",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    },
+    {
+      "id": 2,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：o",
+      "answer": "o",
+      "options": [],
+      "explanation": "公鸡叫 ō ō ō",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "o",
+        "say": "喔",
+        "ok": [
+          "o*"
+        ],
+        "emoji": "🐓",
+        "hint": "公鸡叫 ō ō ō",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    },
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：e",
+      "answer": "e",
+      "options": [],
+      "explanation": "白鹅 é é é",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "e",
+        "say": "鹅",
+        "ok": [
+          "e*"
+        ],
+        "emoji": "🦢",
+        "hint": "白鹅 é é é",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    },
+    {
+      "id": 4,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：i",
+      "answer": "i",
+      "options": [],
+      "explanation": "衣服 yī yī yī",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "i",
+        "say": "衣",
+        "ok": [
+          "yi*"
+        ],
+        "emoji": "👕",
+        "hint": "衣服 yī yī yī",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    },
+    {
+      "id": 5,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：u",
+      "answer": "u",
+      "options": [],
+      "explanation": "乌鸦 wū wū wū",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "u",
+        "say": "乌",
+        "ok": [
+          "wu*"
+        ],
+        "emoji": "🐦‍⬛",
+        "hint": "乌鸦 wū wū wū",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    },
+    {
+      "id": 6,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ü",
+      "answer": "ü",
+      "options": [],
+      "explanation": "小鱼吐泡泡 ǖ ǖ ǖ",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ü",
+        "say": "鱼",
+        "ok": [
+          "yu*"
+        ],
+        "emoji": "🐟",
+        "hint": "小鱼吐泡泡 ǖ ǖ ǖ",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母"
+    }
+  ],
+  "knowledge": null
+}

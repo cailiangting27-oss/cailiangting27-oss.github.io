@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u6-kp1",
+  "title": "风",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 6,
+  "unitTitle": "风",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 11,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：解落三秋叶，能开二月花",
+      "answer": "解落三秋叶，能开二月花",
+      "options": [],
+      "explanation": "示范读音：解落三秋叶，能开二月花。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "解落三秋叶，能开二月花",
+        "say": "解落三秋叶，能开二月花",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "风"
+    },
+    {
+      "id": 12,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：过江千尺浪，入竹万竿斜",
+      "answer": "过江千尺浪，入竹万竿斜",
+      "options": [],
+      "explanation": "示范读音：过江千尺浪，入竹万竿斜。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "过江千尺浪，入竹万竿斜",
+        "say": "过江千尺浪，入竹万竿斜",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "风"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u3-kp1",
+  "title": "春晓",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 3,
+  "unitTitle": "春晓",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：春眠不觉晓，处处闻啼鸟",
+      "answer": "春眠不觉晓，处处闻啼鸟",
+      "options": [],
+      "explanation": "示范读音：春眠不觉晓，处处闻啼鸟。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "春眠不觉晓，处处闻啼鸟",
+        "say": "春眠不觉晓，处处闻啼鸟",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "春晓"
+    },
+    {
+      "id": 6,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：夜来风雨声，花落知多少",
+      "answer": "夜来风雨声，花落知多少",
+      "options": [],
+      "explanation": "示范读音：夜来风雨声，花落知多少。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "夜来风雨声，花落知多少",
+        "say": "夜来风雨声，花落知多少",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "春晓"
+    }
+  ],
+  "knowledge": null
+}

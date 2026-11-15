@@ -1,0 +1,75 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u6-kp2",
+  "title": "两拼音节 · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 6,
+  "unitTitle": "两拼音节",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 25,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：dà",
+      "answer": "dà",
+      "options": [],
+      "explanation": "大",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "dà",
+        "say": "大",
+        "ok": null,
+        "emoji": "🐘",
+        "hint": "大",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第2课"
+    },
+    {
+      "id": 26,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：pà",
+      "answer": "pà",
+      "options": [],
+      "explanation": "怕",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "pà",
+        "say": "怕",
+        "ok": null,
+        "emoji": "😨",
+        "hint": "怕",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第2课"
+    },
+    {
+      "id": 27,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：mǎ",
+      "answer": "mǎ",
+      "options": [],
+      "explanation": "马",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "mǎ",
+        "say": "马",
+        "ok": null,
+        "emoji": "🐴",
+        "hint": "马",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第2课"
+    }
+  ],
+  "knowledge": null
+}

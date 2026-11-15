@@ -1,0 +1,52 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u7-kp4",
+  "title": "拼字 · 第4课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "拼字",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 40,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：宝宝",
+      "answer": "宝宝",
+      "options": [],
+      "explanation": "示范读音：宝宝。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "宝宝",
+        "say": "宝宝",
+        "ok": null,
+        "emoji": "🍼",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第4课"
+    },
+    {
+      "id": 41,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：猫",
+      "answer": "猫",
+      "options": [],
+      "explanation": "示范读音：猫。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "猫",
+        "say": "猫",
+        "ok": null,
+        "emoji": "🐱",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第4课"
+    }
+  ],
+  "knowledge": null
+}

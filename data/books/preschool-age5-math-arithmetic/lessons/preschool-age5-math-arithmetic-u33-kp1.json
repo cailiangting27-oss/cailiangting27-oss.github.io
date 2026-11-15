@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age5-math-arithmetic-u33-kp1",
+  "title": "从 18 减一减",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 33,
+  "unitTitle": "从 18 减一减",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 138,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：18 − 1 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "18 − 1 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "从 18 减一减"
+    },
+    {
+      "id": 139,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：18 − 2 = ?",
+      "answer": "16",
+      "options": [],
+      "explanation": "示范读音：16。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "18 − 2 = ?",
+        "say": "16",
+        "type": "math",
+        "ans": 16
+      },
+      "knowledge_point": "从 18 减一减"
+    },
+    {
+      "id": 140,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：18 − 3 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "18 − 3 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "从 18 减一减"
+    },
+    {
+      "id": 141,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：18 − 4 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "18 − 4 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "从 18 减一减"
+    }
+  ],
+  "knowledge": null
+}

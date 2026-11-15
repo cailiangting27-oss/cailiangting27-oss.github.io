@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-chinese-words-u13-kp1",
+  "title": "认字小课 13",
+  "bookId": "preschool-age5-chinese-words",
+  "unitNumber": 13,
+  "unitTitle": "认字小课 13",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 61,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：去",
+      "answer": "去",
+      "options": [],
+      "explanation": "示范读音：去。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "去",
+        "say": "去",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 13"
+    },
+    {
+      "id": 62,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：见",
+      "answer": "见",
+      "options": [],
+      "explanation": "示范读音：见。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "见",
+        "say": "见",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 13"
+    },
+    {
+      "id": 63,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：有",
+      "answer": "有",
+      "options": [],
+      "explanation": "示范读音：有。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "有",
+        "say": "有",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 13"
+    },
+    {
+      "id": 64,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：无",
+      "answer": "无",
+      "options": [],
+      "explanation": "示范读音：无。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "无",
+        "say": "无",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 13"
+    },
+    {
+      "id": 65,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：好",
+      "answer": "好",
+      "options": [],
+      "explanation": "示范读音：好。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "好",
+        "say": "好",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 13"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u4-kp1",
+  "title": "声母 d t n l · 第1课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 4,
+  "unitTitle": "声母 d t n l",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：d",
+      "answer": "d",
+      "options": [],
+      "explanation": "马蹄声 dē dē dē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "d",
+        "say": "得",
+        "ok": [
+          "de*"
+        ],
+        "emoji": "🥁",
+        "hint": "马蹄声 dē dē dē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l · 第1课"
+    },
+    {
+      "id": 16,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：t",
+      "answer": "t",
+      "options": [],
+      "explanation": "一把伞 tē tē tē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "t",
+        "say": "特",
+        "ok": [
+          "te*"
+        ],
+        "emoji": "☂️",
+        "hint": "一把伞 tē tē tē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l · 第1课"
+    }
+  ],
+  "knowledge": null
+}

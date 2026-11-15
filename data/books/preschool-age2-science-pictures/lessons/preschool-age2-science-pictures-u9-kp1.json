@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-science-pictures-u9-kp1",
+  "title": "听动物叫",
+  "bookId": "preschool-age2-science-pictures",
+  "unitNumber": 9,
+  "unitTitle": "听动物叫",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 33,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "汪汪叫的小动物是哪个？",
+      "answer": "🐶",
+      "options": [
+        "🐶",
+        "🐱"
+      ],
+      "explanation": "一起再听一遍：🐶。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "小狗",
+        "小猫"
+      ],
+      "knowledge_point": "听动物叫"
+    },
+    {
+      "id": 34,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "喵喵叫的小动物是哪个？",
+      "answer": "🐱",
+      "options": [
+        "🐱",
+        "🐶"
+      ],
+      "explanation": "一起再听一遍：🐱。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "小猫",
+        "小狗"
+      ],
+      "knowledge_point": "听动物叫"
+    },
+    {
+      "id": 35,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哞哞叫的小动物是哪个？",
+      "answer": "🐮",
+      "options": [
+        "🐮",
+        "🐑"
+      ],
+      "explanation": "一起再听一遍：🐮。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "小牛",
+        "小羊"
+      ],
+      "knowledge_point": "听动物叫"
+    },
+    {
+      "id": 36,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "咩咩叫的小动物是哪个？",
+      "answer": "🐑",
+      "options": [
+        "🐑",
+        "🐮"
+      ],
+      "explanation": "一起再听一遍：🐑。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "小羊",
+        "小牛"
+      ],
+      "knowledge_point": "听动物叫"
+    }
+  ],
+  "knowledge": null
+}

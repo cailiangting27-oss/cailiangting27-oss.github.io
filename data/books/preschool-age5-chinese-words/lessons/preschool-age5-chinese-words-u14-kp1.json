@@ -1,0 +1,30 @@
+{
+  "id": "preschool-age5-chinese-words-u14-kp1",
+  "title": "认字小课 14",
+  "bookId": "preschool-age5-chinese-words",
+  "unitNumber": 14,
+  "unitTitle": "认字小课 14",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 66,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：学",
+      "answer": "学",
+      "options": [],
+      "explanation": "示范读音：学。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "学",
+        "say": "学",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 14"
+    }
+  ],
+  "knowledge": null
+}

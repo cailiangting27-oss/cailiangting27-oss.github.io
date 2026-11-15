@@ -1,0 +1,104 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u3-kp3",
+  "title": "声母 · 第3课",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "声母",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 43,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：q",
+      "answer": "q",
+      "options": [],
+      "explanation": "气球 qī qī qī",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "q",
+        "say": "七",
+        "ok": [
+          "qi*"
+        ],
+        "emoji": "🎈",
+        "hint": "气球 qī qī qī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 44,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：x",
+      "answer": "x",
+      "options": [],
+      "explanation": "西瓜 xī xī xī",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "x",
+        "say": "西",
+        "ok": [
+          "xi*"
+        ],
+        "emoji": "🍉",
+        "hint": "西瓜 xī xī xī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 45,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：y",
+      "answer": "y",
+      "options": [],
+      "explanation": "衣服 yī yī yī",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "y",
+        "say": "衣",
+        "ok": [
+          "yi*"
+        ],
+        "emoji": "👕",
+        "hint": "衣服 yī yī yī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 46,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：w",
+      "answer": "w",
+      "options": [],
+      "explanation": "乌鸦 wū wū wū",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "w",
+        "say": "乌",
+        "ok": [
+          "wu*"
+        ],
+        "emoji": "🐦‍⬛",
+        "hint": "乌鸦 wū wū wū",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

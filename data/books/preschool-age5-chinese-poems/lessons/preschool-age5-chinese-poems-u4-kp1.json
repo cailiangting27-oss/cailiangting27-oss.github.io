@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u4-kp1",
+  "title": "悯农",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 4,
+  "unitTitle": "悯农",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 7,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：锄禾日当午，汗滴禾下土",
+      "answer": "锄禾日当午，汗滴禾下土",
+      "options": [],
+      "explanation": "示范读音：锄禾日当午，汗滴禾下土。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "锄禾日当午，汗滴禾下土",
+        "say": "锄禾日当午，汗滴禾下土",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "悯农"
+    },
+    {
+      "id": 8,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：谁知盘中餐，粒粒皆辛苦",
+      "answer": "谁知盘中餐，粒粒皆辛苦",
+      "options": [],
+      "explanation": "示范读音：谁知盘中餐，粒粒皆辛苦。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "谁知盘中餐，粒粒皆辛苦",
+        "say": "谁知盘中餐，粒粒皆辛苦",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "悯农"
+    }
+  ],
+  "knowledge": null
+}

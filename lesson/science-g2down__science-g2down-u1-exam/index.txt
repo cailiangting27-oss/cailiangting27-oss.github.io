@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+13:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","science-g2down__science-g2down-u1-exam",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","science-g2down__science-g2down-u1-exam","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lc","$Ld"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Le"]}]}]}]}]]}]]}],{"children":["lesson","$Lf",{"children":[["lesson","science-g2down__science-g2down-u1-exam","d"],"$L10",{"children":["__PAGE__","$L11",{},null,false]},null,false]},null,false]},null,false],"$L12",false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+16:I[15104,[],"OutletBoundary"]
+18:I[94777,[],"AsyncMetadataOutlet"]
+1a:I[15104,[],"ViewportBoundary"]
+1c:I[15104,[],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+c:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+d:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+e:["$","$L14",null,{}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L15",null,["$","$L16",null,{"children":["$L17",["$","$L18",null,{"promise":"$@19"}]]}]]}]
+12:["$","$1","h",{"children":[null,[["$","$L1a",null,{"children":"$L1b"}],null],["$","$L1c",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1d",null,{"fallback":null,"children":"$L1e"}]}]}]]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+17:null
+1f:I[36505,[],"IconMark"]
+19:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1f","8",{}]],"error":null,"digest":"$undefined"}
+1e:"$19:metadata"
+20:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+21:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+15:["$","$L20",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"第 1 单元挑战"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/science-g2down/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L21",null,{"lesson":{"id":"science-g2down-u1-exam","title":"第 1 单元挑战","bookId":"science-g2down","unitNumber":1,"unitTitle":"磁铁","kpIndex":6,"kpTotal":6,"questions":[{"id":1,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"磁铁能吸引什么","question":"磁铁是可以被人工制造出来的。","options":[],"answer":"对","explanation":"除了天然磁石，现代磁铁多为人工磁性材料制造。"},{"id":2,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"磁铁的两极及其磁力分布","question":"环形磁铁也有两个磁极。","options":[],"answer":"对","explanation":"无论形状如何，磁铁一定有两个磁极。"},{"id":4,"type":"true_false","score":2,"difficulty":3,"knowledge_point":"制作简易水浮式指南针","question":"自制指南针中的钢针在磁化后必须能够自由转动，否则无法指示方向。","options":[],"answer":"对","explanation":"自由转动是受磁场作用力定向的前提。"},{"id":5,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"磁极的指向与指南针原理","question":"指南针一定要水平放置才能正常指示方向。","options":[],"answer":"对","explanation":"倾斜会导致磁针受阻或不平衡，影响灵敏度。"},{"id":7,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁铁的两极及其磁力分布","question":"在观察条形磁铁吸附回形针的实验中，我们看到（    ）。","options":["回形针均匀分布在各处","回形针全部在中间","回形针大量吸在两端","中间吸得比两端多"],"answer":"回形针大量吸在两端","explanation":"磁极磁力最强，吸引的回形针最多。"},{"id":8,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁铁的非接触吸引与隔物吸铁","question":"磁铁能隔着（    ）吸住铁钉。","options":["一本书","一块大砖头","一叠厚磁垫","一根铝管"],"answer":"一本书","explanation":"一本书属于非磁性物体且厚度适中，磁力可以穿透。"},{"id":10,"type":"choice","score":5,"difficulty":3,"knowledge_point":"磁极间的相互作用规律","question":"两个磁极靠近时，如果它们排斥，我们可以确定它们是（    ）。","options":["都是N极","都是S极","同名磁极","异名磁极"],"answer":"同名磁极","explanation":"排斥说明是两个N或两个S，即同名磁极（或称同极）。"},{"id":11,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁铁能吸引什么","question":"家里冰箱门能自动关严，是因为门边条里装有（    ）。","options":["发条","磁铁","胶水","弹簧"],"answer":"磁铁","explanation":"冰箱密封条内有磁吸装置，确保门能紧贴铁质箱体。"},{"id":13,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁极间的相互作用规律","question":"悬挂的两个条形磁铁，N极靠近另一个磁铁的S极，它们会（    ）。","options":["不动","推开","靠近吸住","左右旋转"],"answer":"靠近吸住","explanation":"异极相吸规律的应用。"},{"id":14,"type":"choice","score":5,"difficulty":3,"knowledge_point":"制作简易水浮式指南针","question":"制作水浮式指南针时，磁化钢针时应该（    ）。","options":["来回反复摩擦","单向摩擦多次","在火上烤一烤","放在盐水里泡"],"answer":"单向摩擦多次","explanation":"单向摩擦能排列钢针内部分子磁畴，形成磁性。"},{"id":16,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁铁能吸引什么","question":"硬币在生活中常用。我国的一元硬币（新版）能被磁铁吸起来，说明它含有（    ）。","options":["铝片","铁或镍","塑料","纯金"],"answer":"铁或镍","explanation":"我国现行一元硬币为钢芯镀镍，属于磁性物质。"},{"id":17,"type":"choice","score":5,"difficulty":2,"knowledge_point":"磁铁的两极及其磁力分布","question":"蹄形磁铁的磁极在（    ）。","options":["圆弧形中间","靠近弯角处","直的两端","没有磁极"],"answer":"直的两端","explanation":"蹄形磁铁的两端是磁力的聚集点。"},{"id":19,"type":"fill_blank","score":5,"difficulty":2,"knowledge_point":"制作简易水浮式指南针","question":"将钢针磁化时，通常需要朝一个方向反复摩擦（    ）次以上效果才明显。","options":[],"answer":"20","explanation":"实验经验显示，20-30次摩擦能使钢针磁性较稳定。"},{"id":20,"type":"fill_blank","score":5,"difficulty":2,"knowledge_point":"磁极的指向与指南针原理","question":"现代指南针的刻度盘通常将圆周平分为（    ）度以便精确读数。","options":[],"answer":"360","explanation":"圆周度数为360度。"},{"id":22,"type":"fill_blank_text","score":5,"difficulty":1,"knowledge_point":"磁极的指向与指南针原理","question":"磁铁指北的一端用字母（    ）表示。","options":[],"answer":"N","explanation":"N是North（北）的首字母。"}],"knowledge":null},"chestSlot":null,"requiredPriorLessons":[]}]}]

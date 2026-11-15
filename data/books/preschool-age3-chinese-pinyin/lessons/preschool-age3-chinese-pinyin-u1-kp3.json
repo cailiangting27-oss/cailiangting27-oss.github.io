@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u1-kp3",
+  "title": "单韵母 · 第3课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 1,
+  "unitTitle": "单韵母",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：u",
+      "answer": "u",
+      "options": [],
+      "explanation": "乌鸦 wū wū wū",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "u",
+        "say": "乌",
+        "ok": [
+          "wu*"
+        ],
+        "emoji": "🐦‍⬛",
+        "hint": "乌鸦 wū wū wū",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 · 第3课"
+    },
+    {
+      "id": 6,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ü",
+      "answer": "ü",
+      "options": [],
+      "explanation": "小鱼吐泡泡 ǖ ǖ ǖ",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "ü",
+        "say": "鱼",
+        "ok": [
+          "yu*"
+        ],
+        "emoji": "🐟",
+        "hint": "小鱼吐泡泡 ǖ ǖ ǖ",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

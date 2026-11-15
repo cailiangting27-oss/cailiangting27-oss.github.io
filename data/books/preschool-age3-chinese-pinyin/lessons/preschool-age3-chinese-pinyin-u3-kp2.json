@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u3-kp2",
+  "title": "声母 b p m f · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "声母 b p m f",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 13,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：m",
+      "answer": "m",
+      "options": [],
+      "explanation": "两个门洞 mō mō mō",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "m",
+        "say": "摸",
+        "ok": [
+          "mo*"
+        ],
+        "emoji": "🚪",
+        "hint": "两个门洞 mō mō mō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 b p m f · 第2课"
+    },
+    {
+      "id": 14,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：f",
+      "answer": "f",
+      "options": [],
+      "explanation": "一根拐杖 fó fó fó",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "f",
+        "say": "佛",
+        "ok": [
+          "fo*"
+        ],
+        "emoji": "🦯",
+        "hint": "一根拐杖 fó fó fó",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 b p m f · 第2课"
+    }
+  ],
+  "knowledge": null
+}

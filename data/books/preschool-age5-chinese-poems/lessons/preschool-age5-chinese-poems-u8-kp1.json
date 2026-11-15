@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u8-kp1",
+  "title": "相思",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 8,
+  "unitTitle": "相思",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：红豆生南国，春来发几枝",
+      "answer": "红豆生南国，春来发几枝",
+      "options": [],
+      "explanation": "示范读音：红豆生南国，春来发几枝。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "红豆生南国，春来发几枝",
+        "say": "红豆生南国，春来发几枝",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "相思"
+    },
+    {
+      "id": 16,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：愿君多采撷，此物最相思",
+      "answer": "愿君多采撷，此物最相思",
+      "options": [],
+      "explanation": "示范读音：愿君多采撷，此物最相思。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "愿君多采撷，此物最相思",
+        "say": "愿君多采撷，此物最相思",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "相思"
+    }
+  ],
+  "knowledge": null
+}

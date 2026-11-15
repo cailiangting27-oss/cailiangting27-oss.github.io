@@ -1,0 +1,52 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u7-kp6",
+  "title": "拼字 · 第6课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "拼字",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 44,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：大",
+      "answer": "大",
+      "options": [],
+      "explanation": "示范读音：大。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "大",
+        "say": "大",
+        "ok": null,
+        "emoji": "🐘",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第6课"
+    },
+    {
+      "id": 45,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小",
+      "answer": "小",
+      "options": [],
+      "explanation": "示范读音：小。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小",
+        "say": "小",
+        "ok": null,
+        "emoji": "🐣",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第6课"
+    }
+  ],
+  "knowledge": null
+}

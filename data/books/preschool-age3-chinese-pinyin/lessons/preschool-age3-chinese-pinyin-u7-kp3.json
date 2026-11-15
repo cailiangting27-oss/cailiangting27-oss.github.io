@@ -1,0 +1,52 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u7-kp3",
+  "title": "拼字 · 第3课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "拼字",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 38,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：弟弟",
+      "answer": "弟弟",
+      "options": [],
+      "explanation": "示范读音：弟弟。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "弟弟",
+        "say": "弟弟",
+        "ok": null,
+        "emoji": "👶",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第3课"
+    },
+    {
+      "id": 39,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：妹妹",
+      "answer": "妹妹",
+      "options": [],
+      "explanation": "示范读音：妹妹。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "妹妹",
+        "say": "妹妹",
+        "ok": null,
+        "emoji": "👧",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

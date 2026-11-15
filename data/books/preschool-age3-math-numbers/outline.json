@@ -1,0 +1,132 @@
+{
+  "textbook": "3-4 岁（小班/中班） · 数数与比较",
+  "metadata": {
+    "grade": -2,
+    "bookId": "preschool-age3-math-numbers",
+    "courseName": "数数与比较",
+    "sequential": false
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "数数 1 到 5",
+      "knowledge_points": [
+        {
+          "name": "数数 1 到 5",
+          "description": "听、看、说，一起学习数数 1 到 5",
+          "difficulty": 1,
+          "question_types": [
+            "choice"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "数数 6 到 10",
+      "knowledge_points": [
+        {
+          "name": "数数 6 到 10",
+          "description": "听、看、说，一起学习数数 6 到 10",
+          "difficulty": 1,
+          "question_types": [
+            "choice"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "认识数字 1 到 5",
+      "knowledge_points": [
+        {
+          "name": "认识数字 1 到 5",
+          "description": "听、看、说，一起学习认识数字 1 到 5",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "认识数字 6 到 10",
+      "knowledge_points": [
+        {
+          "name": "认识数字 6 到 10",
+          "description": "听、看、说，一起学习认识数字 6 到 10",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "比一比",
+      "knowledge_points": [
+        {
+          "name": "比一比",
+          "description": "听、看、说，一起学习比一比",
+          "difficulty": 1,
+          "question_types": [
+            "choice"
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "preschool-age3-math-numbers",
+  "grade": -2,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "preschool-age3-math-numbers-u1-kp1",
+      "title": "数数 1 到 5",
+      "unitNumber": 1,
+      "unitTitle": "数数 1 到 5",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    },
+    {
+      "id": "preschool-age3-math-numbers-u2-kp1",
+      "title": "数数 6 到 10",
+      "unitNumber": 2,
+      "unitTitle": "数数 6 到 10",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    },
+    {
+      "id": "preschool-age3-math-numbers-u3-kp1",
+      "title": "认识数字 1 到 5",
+      "unitNumber": 3,
+      "unitTitle": "认识数字 1 到 5",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    },
+    {
+      "id": "preschool-age3-math-numbers-u4-kp1",
+      "title": "认识数字 6 到 10",
+      "unitNumber": 4,
+      "unitTitle": "认识数字 6 到 10",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    },
+    {
+      "id": "preschool-age3-math-numbers-u5-kp1",
+      "title": "比一比",
+      "unitNumber": 5,
+      "unitTitle": "比一比",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    }
+  ]
+}

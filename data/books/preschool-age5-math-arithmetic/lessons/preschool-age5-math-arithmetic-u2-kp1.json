@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-math-arithmetic-u2-kp1",
+  "title": "加法，和是 3",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 2,
+  "unitTitle": "加法，和是 3",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 2,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 2 = ?",
+      "answer": "3",
+      "options": [],
+      "explanation": "示范读音：3。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 2 = ?",
+        "say": "3",
+        "type": "math",
+        "ans": 3
+      },
+      "knowledge_point": "加法，和是 3"
+    },
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 1 = ?",
+      "answer": "3",
+      "options": [],
+      "explanation": "示范读音：3。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 1 = ?",
+        "say": "3",
+        "type": "math",
+        "ans": 3
+      },
+      "knowledge_point": "加法，和是 3"
+    }
+  ],
+  "knowledge": null
+}

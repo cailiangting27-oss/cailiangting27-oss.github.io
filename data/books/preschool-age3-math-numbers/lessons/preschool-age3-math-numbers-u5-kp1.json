@@ -1,0 +1,94 @@
+{
+  "id": "preschool-age3-math-numbers-u5-kp1",
+  "title": "比一比",
+  "bookId": "preschool-age3-math-numbers",
+  "unitNumber": 5,
+  "unitTitle": "比一比",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 21,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一条线更长？",
+      "answer": "━━━━━━",
+      "options": [
+        "━━━━━━",
+        "━━"
+      ],
+      "explanation": "一起再听一遍：━━━━━━。",
+      "preschoolGrade": -2,
+      "knowledge_point": "比一比"
+    },
+    {
+      "id": 22,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪个数字更大？",
+      "answer": "7",
+      "options": [
+        "3",
+        "7",
+        "5"
+      ],
+      "explanation": "一起再听一遍：7。",
+      "preschoolGrade": -2,
+      "knowledge_point": "比一比"
+    },
+    {
+      "id": 23,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一边小花更多？",
+      "answer": "🌸🌸🌸🌸",
+      "options": [
+        "🌸🌸",
+        "🌸🌸🌸🌸"
+      ],
+      "explanation": "一起再听一遍：🌸🌸🌸🌸。",
+      "preschoolGrade": -2,
+      "knowledge_point": "比一比"
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪个数字更小？",
+      "answer": "2",
+      "options": [
+        "2",
+        "8",
+        "5"
+      ],
+      "explanation": "一起再听一遍：2。",
+      "preschoolGrade": -2,
+      "knowledge_point": "比一比"
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个动物更高？",
+      "answer": "🦒",
+      "options": [
+        "🦒",
+        "🐇"
+      ],
+      "explanation": "一起再听一遍：🦒。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "长颈鹿",
+        "兔子"
+      ],
+      "knowledge_point": "比一比"
+    }
+  ],
+  "knowledge": null
+}

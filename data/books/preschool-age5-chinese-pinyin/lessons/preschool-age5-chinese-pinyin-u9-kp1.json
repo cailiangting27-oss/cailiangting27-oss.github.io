@@ -1,0 +1,106 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u9-kp1",
+  "title": "后鼻韵母",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 9,
+  "unitTitle": "后鼻韵母",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 68,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ang",
+      "answer": "ang",
+      "options": [],
+      "explanation": "示范读音：昂。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ang",
+        "say": "昂",
+        "ok": [
+          "ang*"
+        ],
+        "emoji": "🦒",
+        "hint": "",
+        "tag": "",
+        "kind": "后鼻韵母"
+      },
+      "knowledge_point": "后鼻韵母"
+    },
+    {
+      "id": 69,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：eng",
+      "answer": "eng",
+      "options": [],
+      "explanation": "示范读音：鞥。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "eng",
+        "say": "鞥",
+        "ok": [
+          "eng*",
+          "en*"
+        ],
+        "emoji": "💡",
+        "hint": "",
+        "tag": "",
+        "kind": "后鼻韵母"
+      },
+      "knowledge_point": "后鼻韵母"
+    },
+    {
+      "id": 70,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ing",
+      "answer": "ing",
+      "options": [],
+      "explanation": "示范读音：英。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ing",
+        "say": "英",
+        "ok": [
+          "ying*"
+        ],
+        "emoji": "🦅",
+        "hint": "",
+        "tag": "",
+        "kind": "后鼻韵母"
+      },
+      "knowledge_point": "后鼻韵母"
+    },
+    {
+      "id": 71,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ong",
+      "answer": "ong",
+      "options": [],
+      "explanation": "示范读音：翁。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ong",
+        "say": "翁",
+        "ok": [
+          "weng*",
+          "ong*"
+        ],
+        "emoji": "🔔",
+        "hint": "",
+        "tag": "",
+        "kind": "后鼻韵母"
+      },
+      "knowledge_point": "后鼻韵母"
+    }
+  ],
+  "knowledge": null
+}

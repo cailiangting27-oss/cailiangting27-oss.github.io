@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-science-pictures-u7-kp1",
+  "title": "认识身体",
+  "bookId": "preschool-age2-science-pictures",
+  "unitNumber": 7,
+  "unitTitle": "认识身体",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 25,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是眼睛？",
+      "answer": "👀",
+      "options": [
+        "👀",
+        "👂"
+      ],
+      "explanation": "一起再听一遍：👀。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "眼睛",
+        "耳朵"
+      ],
+      "knowledge_point": "认识身体"
+    },
+    {
+      "id": 26,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是耳朵？",
+      "answer": "👂",
+      "options": [
+        "✋",
+        "👂"
+      ],
+      "explanation": "一起再听一遍：👂。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "手",
+        "耳朵"
+      ],
+      "knowledge_point": "认识身体"
+    },
+    {
+      "id": 27,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是手？",
+      "answer": "✋",
+      "options": [
+        "✋",
+        "🦶"
+      ],
+      "explanation": "一起再听一遍：✋。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "手",
+        "脚"
+      ],
+      "knowledge_point": "认识身体"
+    },
+    {
+      "id": 28,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是脚？",
+      "answer": "🦶",
+      "options": [
+        "👀",
+        "🦶"
+      ],
+      "explanation": "一起再听一遍：🦶。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "眼睛",
+        "脚"
+      ],
+      "knowledge_point": "认识身体"
+    }
+  ],
+  "knowledge": null
+}

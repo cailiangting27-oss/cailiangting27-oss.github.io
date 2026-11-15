@@ -1,0 +1,96 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u9-kp1",
+  "title": "两拼音节 3",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 9,
+  "unitTitle": "两拼音节 3",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 30,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：lā",
+      "answer": "lā",
+      "options": [],
+      "explanation": "拉",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "lā",
+        "say": "拉",
+        "ok": null,
+        "emoji": "🤝",
+        "hint": "拉",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 3"
+    },
+    {
+      "id": 31,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：mǐ",
+      "answer": "mǐ",
+      "options": [],
+      "explanation": "米",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "mǐ",
+        "say": "米",
+        "ok": null,
+        "emoji": "🍚",
+        "hint": "米",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 3"
+    },
+    {
+      "id": 32,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：yú",
+      "answer": "yú",
+      "options": [],
+      "explanation": "鱼",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "yú",
+        "say": "鱼",
+        "ok": null,
+        "emoji": "🐟",
+        "hint": "鱼",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 3"
+    },
+    {
+      "id": 33,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：māo",
+      "answer": "māo",
+      "options": [],
+      "explanation": "猫",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "māo",
+        "say": "猫",
+        "ok": null,
+        "emoji": "🐱",
+        "hint": "猫",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 3"
+    }
+  ],
+  "knowledge": null
+}

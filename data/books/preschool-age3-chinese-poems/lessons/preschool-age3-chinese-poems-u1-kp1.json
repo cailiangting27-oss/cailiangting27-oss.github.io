@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age3-chinese-poems-u1-kp1",
+  "title": "咏鹅",
+  "bookId": "preschool-age3-chinese-poems",
+  "unitNumber": 1,
+  "unitTitle": "咏鹅",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：鹅，鹅，鹅，曲项向天歌",
+      "answer": "鹅，鹅，鹅，曲项向天歌",
+      "options": [],
+      "explanation": "示范读音：鹅，鹅，鹅，曲项向天歌。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "鹅，鹅，鹅，曲项向天歌",
+        "say": "鹅，鹅，鹅，曲项向天歌",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "咏鹅"
+    },
+    {
+      "id": 2,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：白毛浮绿水，红掌拨清波",
+      "answer": "白毛浮绿水，红掌拨清波",
+      "options": [],
+      "explanation": "示范读音：白毛浮绿水，红掌拨清波。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "白毛浮绿水，红掌拨清波",
+        "say": "白毛浮绿水，红掌拨清波",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "咏鹅"
+    }
+  ],
+  "knowledge": null
+}

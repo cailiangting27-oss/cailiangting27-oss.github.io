@@ -1,0 +1,80 @@
+{
+  "id": "preschool-age3-english-first-words-u2-kp1",
+  "title": "英语小词 2",
+  "bookId": "preschool-age3-english-first-words",
+  "unitNumber": 2,
+  "unitTitle": "英语小词 2",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：rabbit",
+      "answer": "rabbit",
+      "options": [],
+      "explanation": "示范读音：rabbit。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "rabbit",
+        "say": "rabbit",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 2"
+    },
+    {
+      "id": 6,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：bear",
+      "answer": "bear",
+      "options": [],
+      "explanation": "示范读音：bear。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "bear",
+        "say": "bear",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 2"
+    },
+    {
+      "id": 7,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：cow",
+      "answer": "cow",
+      "options": [],
+      "explanation": "示范读音：cow。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "cow",
+        "say": "cow",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 2"
+    },
+    {
+      "id": 8,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：pig",
+      "answer": "pig",
+      "options": [],
+      "explanation": "示范读音：pig。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "pig",
+        "say": "pig",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 2"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u10-kp1",
+  "title": "拼字 1",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 10,
+  "unitTitle": "拼字 1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 34,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：爸爸",
+      "answer": "爸爸",
+      "options": [],
+      "explanation": "示范读音：爸爸。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "爸爸",
+        "say": "爸爸",
+        "ok": null,
+        "emoji": "👨",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 1"
+    },
+    {
+      "id": 35,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：妈妈",
+      "answer": "妈妈",
+      "options": [],
+      "explanation": "示范读音：妈妈。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "妈妈",
+        "say": "妈妈",
+        "ok": null,
+        "emoji": "👩",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 1"
+    },
+    {
+      "id": 36,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：哥哥",
+      "answer": "哥哥",
+      "options": [],
+      "explanation": "示范读音：哥哥。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "哥哥",
+        "say": "哥哥",
+        "ok": null,
+        "emoji": "👦",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 1"
+    },
+    {
+      "id": 37,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：姐姐",
+      "answer": "姐姐",
+      "options": [],
+      "explanation": "示范读音：姐姐。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "姐姐",
+        "say": "姐姐",
+        "ok": null,
+        "emoji": "👧",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 1"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u5-kp1",
+  "title": "加法，和是 6",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 5,
+  "unitTitle": "加法，和是 6",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 11,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 5 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 5 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "加法，和是 6"
+    },
+    {
+      "id": 12,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 4 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 4 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "加法，和是 6"
+    },
+    {
+      "id": 13,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 3 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 3 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "加法，和是 6"
+    },
+    {
+      "id": 14,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 2 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 2 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "加法，和是 6"
+    },
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 1 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 1 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "加法，和是 6"
+    }
+  ],
+  "knowledge": null
+}

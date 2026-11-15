@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u16-kp1",
+  "title": "加法，和是 17",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 16,
+  "unitTitle": "加法，和是 17",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 66,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 16 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 16 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "加法，和是 17"
+    },
+    {
+      "id": 67,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 15 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 15 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "加法，和是 17"
+    },
+    {
+      "id": 68,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 14 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 14 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "加法，和是 17"
+    },
+    {
+      "id": 69,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 13 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 13 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "加法，和是 17"
+    },
+    {
+      "id": 70,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 12 = ?",
+      "answer": "17",
+      "options": [],
+      "explanation": "示范读音：17。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 12 = ?",
+        "say": "17",
+        "type": "math",
+        "ans": 17
+      },
+      "knowledge_point": "加法，和是 17"
+    }
+  ],
+  "knowledge": null
+}

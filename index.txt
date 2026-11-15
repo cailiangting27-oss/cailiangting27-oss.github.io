@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+10:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$Lc"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Ld"]}]}]}]}]]}]]}],{"children":["__PAGE__","$Le",{},null,false]},null,false],"$Lf",false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+13:I[15104,[],"OutletBoundary"]
+15:I[94777,[],"AsyncMetadataOutlet"]
+17:I[15104,[],"ViewportBoundary"]
+19:I[15104,[],"MetadataBoundary"]
+1a:"$Sreact.suspense"
+c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+d:["$","$L11",null,{}]
+e:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$L14",["$","$L15",null,{"promise":"$@16"}]]}]]}]
+f:["$","$1","h",{"children":[null,[["$","$L17",null,{"children":"$L18"}],null],["$","$L19",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1a",null,{"fallback":null,"children":"$L1b"}]}]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+14:null
+1c:I[36505,[],"IconMark"]
+16:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1c","8",{}]],"error":null,"digest":"$undefined"}
+1b:"$16:metadata"
+1d:I[64743,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","1864","static/chunks/1864-4bcda765e2890f01.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","8974","static/chunks/app/page-af92716feb2ca904.js"],"default"]
+1e:I[16586,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","1864","static/chunks/1864-4bcda765e2890f01.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","8974","static/chunks/app/page-af92716feb2ca904.js"],"HomeClient"]
+12:["$","$L1d",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center px-4 pt-10 pb-12","children":[["$","h1",null,{"className":"text-3xl font-extrabold text-ink","children":"聪聪学堂"}],["$","p",null,{"className":"mt-2 text-sm text-ink-light text-center max-w-md","children":["全科免费，人人可学。共 ",165," 册教材 · ",3039," 节小课 ·"," ",8890," 道题。"]}],["$","div",null,{"className":"mt-8 grid grid-cols-2 sm:grid-cols-3 gap-3 w-full max-w-2xl","children":[["$","a","-3",{"href":"/grade/-3/","className":"btn-chunky-primary text-center py-3","children":"2 岁（托班）"}],["$","a","-2",{"href":"/grade/-2/","className":"btn-chunky-primary text-center py-3","children":"3-4 岁（小班/中班）"}],["$","a","-1",{"href":"/grade/-1/","className":"btn-chunky-primary text-center py-3","children":"5-6 岁（大班）"}],["$","a","1",{"href":"/grade/1/","className":"btn-chunky-primary text-center py-3","children":"一年级"}],["$","a","2",{"href":"/grade/2/","className":"btn-chunky-primary text-center py-3","children":"二年级"}],["$","a","3",{"href":"/grade/3/","className":"btn-chunky-primary text-center py-3","children":"三年级"}],["$","a","4",{"href":"/grade/4/","className":"btn-chunky-primary text-center py-3","children":"四年级"}],["$","a","5",{"href":"/grade/5/","className":"btn-chunky-primary text-center py-3","children":"五年级"}],["$","a","6",{"href":"/grade/6/","className":"btn-chunky-primary text-center py-3","children":"六年级"}],["$","a","7",{"href":"/grade/7/","className":"btn-chunky-primary text-center py-3","children":"七年级"}],["$","a","8",{"href":"/grade/8/","className":"btn-chunky-primary text-center py-3","children":"八年级"}],["$","a","9",{"href":"/grade/9/","className":"btn-chunky-primary text-center py-3","children":"九年级"}],["$","a","10",{"href":"/grade/10/","className":"btn-chunky-primary text-center py-3","children":"高一年级"}],["$","a","11",{"href":"/grade/11/","className":"btn-chunky-primary text-center py-3","children":"高二年级"}],["$","a","13",{"href":"/grade/13/","className":"btn-chunky-primary text-center py-3","children":"大学"}]]}],["$","a",null,{"href":"/textbooks/","className":"mt-6 text-sm font-bold text-[#1CB0F6]","children":"浏览官方教材 →"}]]}],"children":["$","$L1e",null,{"grades":[-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,13],"byGrade":{"1":11,"2":8,"3":16,"4":10,"5":10,"6":10,"7":14,"8":22,"9":14,"10":18,"11":11,"13":5,"-3":3,"-2":7,"-1":6},"totalBooks":165,"totalLessons":3039,"totalQuestions":8890,"validBookIds":["preschool-age3-math-numbers","preschool-age5-math-arithmetic","g1up","math-beishida-g1up","math-sujiao-g1up","g2up","g3up","g4up","g5up","g6up","g7up","math-beishida-g7up","math-zhejiao-g7up","g8up","math-beishida-g8up","math-zhejiao-g8up","math-sujiao-g8up","g9up","g10up","g11up","college-math-linear-algebra","college-math-advanced-math","g1down","g2down","g3down","g4down","g5down","g6down","g7down","g8down","g9down","g10down","g11down","preschool-age2-chinese-pinyin","preschool-age2-chinese-songs","preschool-age3-chinese-pinyin","preschool-age3-chinese-poems","preschool-age3-chinese-words","preschool-age5-chinese-pinyin","preschool-age5-chinese-poems","preschool-age5-chinese-words","primary-g1-chinese-pinyin","chinese-g1up","chinese-g2up","chinese-g3up","chinese-g4up","chinese-g5up","chinese-g6up","chinese-g7up","chinese-g8up","chinese-g9up","chinese-g10up","chinese-g11up","chinese-g1down","chinese-g2down","chinese-g3down","chinese-g4down","chinese-g5down","chinese-g6down","chinese-g8down","chinese-g9down","chinese-g10down","chinese-g11down","preschool-age3-english-first-words","preschool-age5-english-words-sentences","english-g3up","english-waiyan-g3up","english-hujiao-g3up","english-g4up","english-g5up","english-g6up","english-renjiao-g7up","english-waiyan-g7up","english-hujiao-g7up","english-yilin-g7up","english-renjiao-g8up","english-waiyan-g8up","english-hujiao-g8up","english-yilin-g8up","english-renjiao-g9up","english-renjiao-g10up","english-beishida-g10up","english-waiyan-g10up","english-yilin-g10up","english-renjiao-g11up","college-english-comprehensive","english-g3down","english-beishida-g3down","english-waiyan-g3down","english-hujiao-g3down","english-yilin-g3down","english-g4down","english-g5down","english-g6down","english-renjiao-g8down","english-renjiao-g9down","english-renjiao-g10down","preschool-age2-science-pictures","preschool-age3-science-world","science-g1up","science-g2up","science-g3up","science-g4up","science-g5up","science-g6up","science-g1down","science-g2down","science-g3down","science-g4down","science-g5down","science-g6down","preschool-age3-moral-safety","preschool-age5-moral-safety","moral-g1up","moral-g2up","moral-g3up","moral-g4up","moral-g5up","moral-g6up","moral-g7up","biology-g7up","history-g7up","geography-g7up","moral-g8up","physics-g8up","biology-g8up","history-g8up","geography-g8up","moral-g9up","physics-g9up","chemistry-g9up","history-g9up","physics-g10up","chemistry-g10up","biology-g10up","history-g10up","geography-g10up","politics-g10up","physics-g11up","chemistry-g11up","biology-g11up","history-g11up","geography-g11up","politics-g11up","college-physics-mechanics-electromagnetism","college-computer-python-programming","moral-g1down","moral-g2down","moral-g3down","moral-g4down","moral-g5down","moral-g6down","biology-g7down","moral-g8down","physics-g8down","biology-g8down","history-g8down","geography-g8down","moral-g9down","physics-g9down","chemistry-g9down","history-g9down","physics-g10down","chemistry-g10down","biology-g10down"]}]}]

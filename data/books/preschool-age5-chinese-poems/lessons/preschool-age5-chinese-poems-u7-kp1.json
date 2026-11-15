@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u7-kp1",
+  "title": "登鹳雀楼",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 7,
+  "unitTitle": "登鹳雀楼",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 13,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：白日依山尽，黄河入海流",
+      "answer": "白日依山尽，黄河入海流",
+      "options": [],
+      "explanation": "示范读音：白日依山尽，黄河入海流。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "白日依山尽，黄河入海流",
+        "say": "白日依山尽，黄河入海流",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "登鹳雀楼"
+    },
+    {
+      "id": 14,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：欲穷千里目，更上一层楼",
+      "answer": "欲穷千里目，更上一层楼",
+      "options": [],
+      "explanation": "示范读音：欲穷千里目，更上一层楼。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "欲穷千里目，更上一层楼",
+        "say": "欲穷千里目，更上一层楼",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "登鹳雀楼"
+    }
+  ],
+  "knowledge": null
+}

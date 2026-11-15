@@ -1,0 +1,35 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u7-kp1",
+  "title": "特殊韵母 er",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "特殊韵母 er",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 62,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：er",
+      "answer": "er",
+      "options": [],
+      "explanation": "特殊韵母：只能自己当音节",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "er",
+        "say": "儿",
+        "ok": [
+          "er*"
+        ],
+        "emoji": "👂",
+        "hint": "特殊韵母：只能自己当音节",
+        "tag": "特殊韵母",
+        "kind": "特殊韵母"
+      },
+      "knowledge_point": "特殊韵母 er"
+    }
+  ],
+  "knowledge": null
+}

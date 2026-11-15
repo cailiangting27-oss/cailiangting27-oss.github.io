@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+12:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","g5down__g5down-u4-kp6",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","g5down__g5down-u4-kp6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$Lc"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Ld"]}]}]}]}]]}]]}],{"children":["lesson","$Le",{"children":[["lesson","g5down__g5down-u4-kp6","d"],"$Lf",{"children":["__PAGE__","$L10",{},null,false]},null,false]},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+15:I[15104,[],"OutletBoundary"]
+17:I[94777,[],"AsyncMetadataOutlet"]
+19:I[15104,[],"ViewportBoundary"]
+1b:I[15104,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+d:["$","$L13",null,{}]
+e:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],null],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+16:null
+1e:I[36505,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1e","8",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"
+1f:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+20:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+14:["$","$L1f",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"通分与最小公倍数"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/g5down/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L20",null,{"lesson":{"id":"g5down-u4-kp6","title":"通分与最小公倍数","bookId":"g5down","unitNumber":4,"unitTitle":"分数的意义和性质","kpIndex":5,"kpTotal":7,"questions":[{"id":5,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"通分与最小公倍数","question":"通分时，分数的值变大了。","options":[],"answer":"错","explanation":"通分是根据分数的基本性质，将异分母分数化成大小相等的同分母分数，分数的大小保持不变。"},{"id":11,"type":"choice","score":5,"difficulty":1,"knowledge_point":"通分与最小公倍数","question":"比较 7/12 和 5/8 的大小，结果是：","options":[">","<"," =","≈"],"answer":"<","explanation":"通分：12和8的最小公倍数是24。$7/12 = 14/24$，$5/8 = 15/24$。因为 $14/24 < 15/24$，所以 $7/12 < 5/8$。"},{"id":16,"type":"choice","score":5,"difficulty":2,"knowledge_point":"通分与最小公倍数","question":"两个数的公倍数有：","options":["1个","2个","有限个","无限个"],"answer":"无限个","explanation":"两个数的公倍数是在最小公倍数的基础上不断乘 2, 3, 4... 得到的，所以有无限多个。"},{"id":21,"type":"fill_blank","score":5,"difficulty":2,"knowledge_point":"通分与最小公倍数","question":"已知两路公共汽车，3 路车每 6 分钟发一次车，5 路车每 8 分钟发一次车。它们同时出发后，下一次同时发车至少要过 ___ 分钟。","options":[],"answer":"24","explanation":"求 6 和 8 的最小公倍数。$6 = 2 \\times 3$，$8 = 2 \\times 2 \\times 2$。最小公倍数是 $2 \\times 2 \\times 2 \\times 3 = 24$。验算：$24 \\div 6 = 4$, $24 \\div 8 = 3$ ✓。"}],"knowledge":{"point":"通分与最小公倍数","core_concept":"两个数公有的倍数叫公倍数，其中最小的一个叫最小公倍数。把异分母分数分别化成和原来分数相等的同分母分数，叫做通分。通常取分母的最小公倍数作为公分母。","key_formula":"通分：找分母的最小公倍数 $\\rightarrow$ 利用基本性质转化","common_mistakes":["通分时只把分母变了，分子忘了根据扩大倍数进行计算","求最小公倍数时与最大公因数的计算方法弄混"],"tips":"通分主要用于比较大小和异分母分数加减法。"}},"chestSlot":null,"requiredPriorLessons":[]}]}]

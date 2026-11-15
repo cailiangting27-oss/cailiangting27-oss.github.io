@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+12:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","guide","g1down__4",""],"i":false,"f":[[["",{"children":["guide",{"children":[["bookUnit","g1down__4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$Lc"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Ld"]}]}]}]}]]}]]}],{"children":["guide","$Le",{"children":[["bookUnit","g1down__4","d"],"$Lf",{"children":["__PAGE__","$L10",{},null,false]},null,false]},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+15:I[15104,[],"OutletBoundary"]
+17:I[94777,[],"AsyncMetadataOutlet"]
+19:I[15104,[],"ViewportBoundary"]
+1b:I[15104,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+d:["$","$L13",null,{}]
+e:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],null],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+16:null
+1e:I[36505,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1e","8",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"
+1f:I[64743,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","5588","static/chunks/5588-c23aed90a710b62e.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","4131","static/chunks/4131-c85d894bee8a6da1.js","8695","static/chunks/app/guide/bookUnit/page-83641d9e0ca7afa6.js"],"default"]
+20:I[1172,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","5588","static/chunks/5588-c23aed90a710b62e.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","4131","static/chunks/4131-c85d894bee8a6da1.js","8695","static/chunks/app/guide/bookUnit/page-83641d9e0ca7afa6.js"],"GuideClient"]
+14:["$","$L1f",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":["一年级下册"," · 第 ",4," 单元"]}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"知识点导读组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/g1down/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L20",null,{"book":{"id":"g1down","grade":1,"semester":"down","subject":"math","gradeName":"一年级","semesterName":"下册","subjectName":"数学","textbookName":"一年级下册","fullName":"人教版小学数学一年级下册","publisher":"renjiao","publisherName":"人教版","unitsCount":8,"lessonsCount":24,"stage":"primary"},"unit":{"unit_number":4,"title":"100以内数的认识","knowledge_points":[{"name":"100以内数的数数与组成","description":"理解计数单位“十”和“百”，掌握几十由几个十组成，能正确数出拐弯数。","difficulty":2,"question_types":["填空","选择"]},{"name":"数的读法、写法与位值意义","description":"理解个位、十位、百位的排列，掌握从高位起读写数的方法。","difficulty":2,"question_types":["填空","判断","操作题"]},{"name":"100以内数的大小比较与描述","description":"掌握比较规则，并能用“多一些、多得多、少一些、少得多”描述数的关系。","difficulty":3,"question_types":["排序/比较","填空","规律探索"]}],"examLessonId":"g1down-u4-exam","examQuestionCount":15},"summaries":[{"point":"100以内数的数数与组成","core_concept":"10个一是1个十，10个十是1个百。两位数由几个十和几个一组成。数数时，数到几十九（如39）后，下一个数是整十数（如40），这叫“拐弯数”。","key_formula":"几十几 = 几个十 + 几个一","common_mistakes":["数数时忽略拐弯数，如数完39跳到30。","混淆10个十和10个一的关系。"],"tips":"数数时可以借助手指或小棒，每满10根捆成一捆，帮助理解“十”的概念。"},{"point":"数的读法、写法与位值意义","core_concept":"读数和写数都应从高位起。十位上的数表示几个十，个位上的数表示几个一。如果一个数位上一个珠子也没有，写数时要用‘0’占位。","key_formula":"读数规则：从最高位起，十位是几读几十，个位是几读几。","common_mistakes":["写数时把“三十”写成“3”，漏掉0。","读数时加上单位，如把35读作“3个十5个一”。"],"tips":"画一个数位表：左边是百位，中间是十位，右边是个位，把数字填进去就不会错。"},{"point":"100以内数的大小比较与描述","core_concept":"比较两位数大小，先看十位，十位大的数就大；十位相同，再看个位。可以用“多一些、少一些（差距小）”和“多得多、少得多（差距大）”来描述关系。","key_formula":"比较规则：十位不同看十位，十位相同看个位。","common_mistakes":["看到个位数字大就认为这个数大，如认为49小于39。","分不清“多一些”和“多得多”的区别。"],"tips":"把数看成钱，50元比10元多得多，而12元只比10元多一些。"}]}]}]

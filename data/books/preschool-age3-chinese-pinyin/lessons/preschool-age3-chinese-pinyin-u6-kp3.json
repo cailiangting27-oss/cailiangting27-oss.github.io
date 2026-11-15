@@ -1,0 +1,75 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u6-kp3",
+  "title": "两拼音节 · 第3课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 6,
+  "unitTitle": "两拼音节",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 28,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：tā",
+      "answer": "tā",
+      "options": [],
+      "explanation": "他",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "tā",
+        "say": "他",
+        "ok": null,
+        "emoji": "🙋",
+        "hint": "他",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第3课"
+    },
+    {
+      "id": 29,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ná",
+      "answer": "ná",
+      "options": [],
+      "explanation": "拿",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "ná",
+        "say": "拿",
+        "ok": null,
+        "emoji": "🤲",
+        "hint": "拿",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第3课"
+    },
+    {
+      "id": 30,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：lā",
+      "answer": "lā",
+      "options": [],
+      "explanation": "拉",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "lā",
+        "say": "拉",
+        "ok": null,
+        "emoji": "🤝",
+        "hint": "拉",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

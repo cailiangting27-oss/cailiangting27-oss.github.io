@@ -1,0 +1,107 @@
+{
+  "id": "preschool-age3-math-numbers-u4-kp1",
+  "title": "认识数字 6 到 10",
+  "bookId": "preschool-age3-math-numbers",
+  "unitNumber": 4,
+  "unitTitle": "认识数字 6 到 10",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 16,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：6",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "6",
+        "say": "6",
+        "type": "math",
+        "ans": 6,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 6 到 10"
+    },
+    {
+      "id": 17,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：7",
+      "answer": "7",
+      "options": [],
+      "explanation": "示范读音：7。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "7",
+        "say": "7",
+        "type": "math",
+        "ans": 7,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 6 到 10"
+    },
+    {
+      "id": 18,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：8",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "8",
+        "say": "8",
+        "type": "math",
+        "ans": 8,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 6 到 10"
+    },
+    {
+      "id": 19,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：9",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "9",
+        "say": "9",
+        "type": "math",
+        "ans": 9,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 6 到 10"
+    },
+    {
+      "id": 20,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：10",
+      "answer": "10",
+      "options": [],
+      "explanation": "示范读音：10。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "10",
+        "say": "10",
+        "type": "math",
+        "ans": 10,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 6 到 10"
+    }
+  ],
+  "knowledge": null
+}

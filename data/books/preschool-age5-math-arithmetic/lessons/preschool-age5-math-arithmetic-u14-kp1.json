@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u14-kp1",
+  "title": "加法，和是 15",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 14,
+  "unitTitle": "加法，和是 15",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 56,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 14 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 14 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "加法，和是 15"
+    },
+    {
+      "id": 57,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 13 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 13 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "加法，和是 15"
+    },
+    {
+      "id": 58,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 12 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 12 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "加法，和是 15"
+    },
+    {
+      "id": 59,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 11 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 11 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "加法，和是 15"
+    },
+    {
+      "id": 60,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 10 = ?",
+      "answer": "15",
+      "options": [],
+      "explanation": "示范读音：15。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 10 = ?",
+        "say": "15",
+        "type": "math",
+        "ans": 15
+      },
+      "knowledge_point": "加法，和是 15"
+    }
+  ],
+  "knowledge": null
+}

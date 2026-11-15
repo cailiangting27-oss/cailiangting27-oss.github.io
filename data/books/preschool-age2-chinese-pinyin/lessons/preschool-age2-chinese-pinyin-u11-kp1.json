@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u11-kp1",
+  "title": "拼字 2",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 11,
+  "unitTitle": "拼字 2",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 38,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：弟弟",
+      "answer": "弟弟",
+      "options": [],
+      "explanation": "示范读音：弟弟。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "弟弟",
+        "say": "弟弟",
+        "ok": null,
+        "emoji": "👶",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 2"
+    },
+    {
+      "id": 39,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：妹妹",
+      "answer": "妹妹",
+      "options": [],
+      "explanation": "示范读音：妹妹。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "妹妹",
+        "say": "妹妹",
+        "ok": null,
+        "emoji": "👧",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 2"
+    },
+    {
+      "id": 40,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：宝宝",
+      "answer": "宝宝",
+      "options": [],
+      "explanation": "示范读音：宝宝。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "宝宝",
+        "say": "宝宝",
+        "ok": null,
+        "emoji": "🍼",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 2"
+    },
+    {
+      "id": 41,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：猫",
+      "answer": "猫",
+      "options": [],
+      "explanation": "示范读音：猫。",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "猫",
+        "say": "猫",
+        "ok": null,
+        "emoji": "🐱",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 2"
+    }
+  ],
+  "knowledge": null
+}

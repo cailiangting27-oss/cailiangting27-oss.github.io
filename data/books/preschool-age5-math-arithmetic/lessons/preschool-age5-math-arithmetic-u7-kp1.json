@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u7-kp1",
+  "title": "加法，和是 8",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 7,
+  "unitTitle": "加法，和是 8",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 21,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 7 = ?",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 7 = ?",
+        "say": "8",
+        "type": "math",
+        "ans": 8
+      },
+      "knowledge_point": "加法，和是 8"
+    },
+    {
+      "id": 22,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 6 = ?",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 6 = ?",
+        "say": "8",
+        "type": "math",
+        "ans": 8
+      },
+      "knowledge_point": "加法，和是 8"
+    },
+    {
+      "id": 23,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 5 = ?",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 5 = ?",
+        "say": "8",
+        "type": "math",
+        "ans": 8
+      },
+      "knowledge_point": "加法，和是 8"
+    },
+    {
+      "id": 24,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 4 = ?",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 4 = ?",
+        "say": "8",
+        "type": "math",
+        "ans": 8
+      },
+      "knowledge_point": "加法，和是 8"
+    },
+    {
+      "id": 25,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 3 = ?",
+      "answer": "8",
+      "options": [],
+      "explanation": "示范读音：8。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 3 = ?",
+        "say": "8",
+        "type": "math",
+        "ans": 8
+      },
+      "knowledge_point": "加法，和是 8"
+    }
+  ],
+  "knowledge": null
+}

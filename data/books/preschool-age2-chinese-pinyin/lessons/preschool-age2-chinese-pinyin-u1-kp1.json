@@ -1,0 +1,81 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u1-kp1",
+  "title": "单韵母 1",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 1,
+  "unitTitle": "单韵母 1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：a",
+      "answer": "a",
+      "options": [],
+      "explanation": "嘴巴张大 ā ā ā",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "a",
+        "say": "啊",
+        "ok": [
+          "a*"
+        ],
+        "emoji": "😮",
+        "hint": "嘴巴张大 ā ā ā",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 1"
+    },
+    {
+      "id": 2,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：o",
+      "answer": "o",
+      "options": [],
+      "explanation": "公鸡叫 ō ō ō",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "o",
+        "say": "喔",
+        "ok": [
+          "o*"
+        ],
+        "emoji": "🐓",
+        "hint": "公鸡叫 ō ō ō",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 1"
+    },
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：e",
+      "answer": "e",
+      "options": [],
+      "explanation": "白鹅 é é é",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "e",
+        "say": "鹅",
+        "ok": [
+          "e*"
+        ],
+        "emoji": "🦢",
+        "hint": "白鹅 é é é",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 1"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u6-kp1",
+  "title": "两拼音节 · 第1课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 6,
+  "unitTitle": "两拼音节",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 22,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：bà",
+      "answer": "bà",
+      "options": [],
+      "explanation": "爸",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "bà",
+        "say": "爸",
+        "ok": null,
+        "emoji": "👨",
+        "hint": "爸",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第1课"
+    },
+    {
+      "id": 23,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：mā",
+      "answer": "mā",
+      "options": [],
+      "explanation": "妈",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "mā",
+        "say": "妈",
+        "ok": null,
+        "emoji": "👩",
+        "hint": "妈",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第1课"
+    },
+    {
+      "id": 24,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：gē",
+      "answer": "gē",
+      "options": [],
+      "explanation": "哥",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "gē",
+        "say": "哥",
+        "ok": null,
+        "emoji": "👦",
+        "hint": "哥",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 · 第1课"
+    }
+  ],
+  "knowledge": null
+}

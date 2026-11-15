@@ -1,0 +1,696 @@
+{
+  "textbook": "一年级 · 完整拼音互动课",
+  "metadata": {
+    "grade": 1,
+    "bookId": "primary-g1-chinese-pinyin",
+    "courseName": "完整拼音互动课",
+    "sequential": true
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "单韵母",
+      "knowledge_points": [
+        {
+          "name": "单韵母",
+          "description": "听、看、说，一起学习单韵母",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "单韵母四声",
+      "knowledge_points": [
+        {
+          "name": "单韵母四声 · 第1课",
+          "description": "听、看、说，一起学习单韵母四声 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "单韵母四声 · 第2课",
+          "description": "听、看、说，一起学习单韵母四声 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "单韵母四声 · 第3课",
+          "description": "听、看、说，一起学习单韵母四声 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "声母",
+      "knowledge_points": [
+        {
+          "name": "声母 · 第1课",
+          "description": "听、看、说，一起学习声母 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "声母 · 第2课",
+          "description": "听、看、说，一起学习声母 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "声母 · 第3课",
+          "description": "听、看、说，一起学习声母 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "平舌音 z c s",
+      "knowledge_points": [
+        {
+          "name": "平舌音 z c s",
+          "description": "听、看、说，一起学习平舌音 z c s",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "翘舌音 zh ch sh r",
+      "knowledge_points": [
+        {
+          "name": "翘舌音 zh ch sh r",
+          "description": "听、看、说，一起学习翘舌音 zh ch sh r",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "复韵母",
+      "knowledge_points": [
+        {
+          "name": "复韵母 · 第1课",
+          "description": "听、看、说，一起学习复韵母 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "复韵母 · 第2课",
+          "description": "听、看、说，一起学习复韵母 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "特殊韵母 er",
+      "knowledge_points": [
+        {
+          "name": "特殊韵母 er",
+          "description": "听、看、说，一起学习特殊韵母 er",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "前鼻韵母",
+      "knowledge_points": [
+        {
+          "name": "前鼻韵母",
+          "description": "听、看、说，一起学习前鼻韵母",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "后鼻韵母",
+      "knowledge_points": [
+        {
+          "name": "后鼻韵母",
+          "description": "听、看、说，一起学习后鼻韵母",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 10,
+      "title": "整体认读音节",
+      "knowledge_points": [
+        {
+          "name": "整体认读音节 · 第1课",
+          "description": "听、看、说，一起学习整体认读音节 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "整体认读音节 · 第2课",
+          "description": "听、看、说，一起学习整体认读音节 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "整体认读音节 · 第3课",
+          "description": "听、看、说，一起学习整体认读音节 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 11,
+      "title": "平翘舌对比",
+      "knowledge_points": [
+        {
+          "name": "平翘舌对比 · 第1课",
+          "description": "听、看、说，一起学习平翘舌对比 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "平翘舌对比 · 第2课",
+          "description": "听、看、说，一起学习平翘舌对比 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 12,
+      "title": "两拼音节",
+      "knowledge_points": [
+        {
+          "name": "两拼音节 · 第1课",
+          "description": "听、看、说，一起学习两拼音节 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第2课",
+          "description": "听、看、说，一起学习两拼音节 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第3课",
+          "description": "听、看、说，一起学习两拼音节 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第4课",
+          "description": "听、看、说，一起学习两拼音节 · 第4课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第5课",
+          "description": "听、看、说，一起学习两拼音节 · 第5课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第6课",
+          "description": "听、看、说，一起学习两拼音节 · 第6课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "两拼音节 · 第7课",
+          "description": "听、看、说，一起学习两拼音节 · 第7课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 13,
+      "title": "三拼音节",
+      "knowledge_points": [
+        {
+          "name": "三拼音节 · 第1课",
+          "description": "听、看、说，一起学习三拼音节 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "三拼音节 · 第2课",
+          "description": "听、看、说，一起学习三拼音节 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "三拼音节 · 第3课",
+          "description": "听、看、说，一起学习三拼音节 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "三拼音节 · 第4课",
+          "description": "听、看、说，一起学习三拼音节 · 第4课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 14,
+      "title": "拼字",
+      "knowledge_points": [
+        {
+          "name": "拼字 · 第1课",
+          "description": "听、看、说，一起学习拼字 · 第1课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "拼字 · 第2课",
+          "description": "听、看、说，一起学习拼字 · 第2课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "拼字 · 第3课",
+          "description": "听、看、说，一起学习拼字 · 第3课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "拼字 · 第4课",
+          "description": "听、看、说，一起学习拼字 · 第4课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        },
+        {
+          "name": "拼字 · 第5课",
+          "description": "听、看、说，一起学习拼字 · 第5课",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "primary-g1-chinese-pinyin",
+  "grade": 1,
+  "semester": "up",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "primary-g1-chinese-pinyin-u1-kp1",
+      "title": "单韵母",
+      "unitNumber": 1,
+      "unitTitle": "单韵母",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u2-kp1",
+      "title": "单韵母四声 · 第1课",
+      "unitNumber": 2,
+      "unitTitle": "单韵母四声",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 8
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u2-kp2",
+      "title": "单韵母四声 · 第2课",
+      "unitNumber": 2,
+      "unitTitle": "单韵母四声",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 8
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u2-kp3",
+      "title": "单韵母四声 · 第3课",
+      "unitNumber": 2,
+      "unitTitle": "单韵母四声",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 8
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u3-kp1",
+      "title": "声母 · 第1课",
+      "unitNumber": 3,
+      "unitTitle": "声母",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u3-kp2",
+      "title": "声母 · 第2课",
+      "unitNumber": 3,
+      "unitTitle": "声母",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u3-kp3",
+      "title": "声母 · 第3课",
+      "unitNumber": 3,
+      "unitTitle": "声母",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u4-kp1",
+      "title": "平舌音 z c s",
+      "unitNumber": 4,
+      "unitTitle": "平舌音 z c s",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 3
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u5-kp1",
+      "title": "翘舌音 zh ch sh r",
+      "unitNumber": 5,
+      "unitTitle": "翘舌音 zh ch sh r",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u6-kp1",
+      "title": "复韵母 · 第1课",
+      "unitNumber": 6,
+      "unitTitle": "复韵母",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u6-kp2",
+      "title": "复韵母 · 第2课",
+      "unitNumber": 6,
+      "unitTitle": "复韵母",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u7-kp1",
+      "title": "特殊韵母 er",
+      "unitNumber": 7,
+      "unitTitle": "特殊韵母 er",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 1
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u8-kp1",
+      "title": "前鼻韵母",
+      "unitNumber": 8,
+      "unitTitle": "前鼻韵母",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 5
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u9-kp1",
+      "title": "后鼻韵母",
+      "unitNumber": 9,
+      "unitTitle": "后鼻韵母",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u10-kp1",
+      "title": "整体认读音节 · 第1课",
+      "unitNumber": 10,
+      "unitTitle": "整体认读音节",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u10-kp2",
+      "title": "整体认读音节 · 第2课",
+      "unitNumber": 10,
+      "unitTitle": "整体认读音节",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u10-kp3",
+      "title": "整体认读音节 · 第3课",
+      "unitNumber": 10,
+      "unitTitle": "整体认读音节",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u11-kp1",
+      "title": "平翘舌对比 · 第1课",
+      "unitNumber": 11,
+      "unitTitle": "平翘舌对比",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u11-kp2",
+      "title": "平翘舌对比 · 第2课",
+      "unitNumber": 11,
+      "unitTitle": "平翘舌对比",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp1",
+      "title": "两拼音节 · 第1课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 0,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp2",
+      "title": "两拼音节 · 第2课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 1,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp3",
+      "title": "两拼音节 · 第3课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 2,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp4",
+      "title": "两拼音节 · 第4课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 3,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp5",
+      "title": "两拼音节 · 第5课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 4,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp6",
+      "title": "两拼音节 · 第6课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 5,
+      "kpTotal": 7,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u12-kp7",
+      "title": "两拼音节 · 第7课",
+      "unitNumber": 12,
+      "unitTitle": "两拼音节",
+      "kpIndex": 6,
+      "kpTotal": 7,
+      "questionCount": 4
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u13-kp1",
+      "title": "三拼音节 · 第1课",
+      "unitNumber": 13,
+      "unitTitle": "三拼音节",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u13-kp2",
+      "title": "三拼音节 · 第2课",
+      "unitNumber": 13,
+      "unitTitle": "三拼音节",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u13-kp3",
+      "title": "三拼音节 · 第3课",
+      "unitNumber": 13,
+      "unitTitle": "三拼音节",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u13-kp4",
+      "title": "三拼音节 · 第4课",
+      "unitNumber": 13,
+      "unitTitle": "三拼音节",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u14-kp1",
+      "title": "拼字 · 第1课",
+      "unitNumber": 14,
+      "unitTitle": "拼字",
+      "kpIndex": 0,
+      "kpTotal": 5,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u14-kp2",
+      "title": "拼字 · 第2课",
+      "unitNumber": 14,
+      "unitTitle": "拼字",
+      "kpIndex": 1,
+      "kpTotal": 5,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u14-kp3",
+      "title": "拼字 · 第3课",
+      "unitNumber": 14,
+      "unitTitle": "拼字",
+      "kpIndex": 2,
+      "kpTotal": 5,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u14-kp4",
+      "title": "拼字 · 第4课",
+      "unitNumber": 14,
+      "unitTitle": "拼字",
+      "kpIndex": 3,
+      "kpTotal": 5,
+      "questionCount": 6
+    },
+    {
+      "id": "primary-g1-chinese-pinyin-u14-kp5",
+      "title": "拼字 · 第5课",
+      "unitNumber": 14,
+      "unitTitle": "拼字",
+      "kpIndex": 4,
+      "kpTotal": 5,
+      "questionCount": 6
+    }
+  ]
+}

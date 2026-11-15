@@ -1,0 +1,80 @@
+{
+  "id": "preschool-age3-chinese-poems-u4-kp1",
+  "title": "一起唱儿歌",
+  "bookId": "preschool-age3-chinese-poems",
+  "unitNumber": 4,
+  "unitTitle": "一起唱儿歌",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 7,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小手拍拍，小手拍拍。",
+      "answer": "小手拍拍，小手拍拍。",
+      "options": [],
+      "explanation": "示范读音：小手拍拍，小手拍拍。。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小手拍拍，小手拍拍。",
+        "say": "小手拍拍，小手拍拍。",
+        "type": "poem"
+      },
+      "knowledge_point": "一起唱儿歌"
+    },
+    {
+      "id": 8,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小星星，亮晶晶。",
+      "answer": "小星星，亮晶晶。",
+      "options": [],
+      "explanation": "示范读音：小星星，亮晶晶。。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小星星，亮晶晶。",
+        "say": "小星星，亮晶晶。",
+        "type": "poem"
+      },
+      "knowledge_point": "一起唱儿歌"
+    },
+    {
+      "id": 9,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小白兔，白又白。",
+      "answer": "小白兔，白又白。",
+      "options": [],
+      "explanation": "示范读音：小白兔，白又白。。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小白兔，白又白。",
+        "say": "小白兔，白又白。",
+        "type": "poem"
+      },
+      "knowledge_point": "一起唱儿歌"
+    },
+    {
+      "id": 10,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小宝宝，爱洗手。",
+      "answer": "小宝宝，爱洗手。",
+      "options": [],
+      "explanation": "示范读音：小宝宝，爱洗手。。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小宝宝，爱洗手。",
+        "say": "小宝宝，爱洗手。",
+        "type": "poem"
+      },
+      "knowledge_point": "一起唱儿歌"
+    }
+  ],
+  "knowledge": null
+}

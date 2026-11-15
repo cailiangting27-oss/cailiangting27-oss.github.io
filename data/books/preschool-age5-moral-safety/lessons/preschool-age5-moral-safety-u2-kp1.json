@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age5-moral-safety-u2-kp1",
+  "title": "安全知识 2",
+  "bookId": "preschool-age5-moral-safety",
+  "unitNumber": 2,
+  "unitTitle": "安全知识 2",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "热水壶很烫，手应该怎样？",
+      "answer": "🙅✋",
+      "options": [
+        "🙅✋",
+        "🤲♨️"
+      ],
+      "explanation": "一起再听一遍：🙅✋。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "不碰热水壶",
+        "伸手碰热水壶"
+      ],
+      "knowledge_point": "安全知识 2"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "坐汽车时要系什么？",
+      "answer": "💺🔒",
+      "options": [
+        "💺🔒",
+        "🧣"
+      ],
+      "explanation": "一起再听一遍：💺🔒。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "安全带",
+        "围巾"
+      ],
+      "knowledge_point": "安全知识 2"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "迷路时找谁帮忙？",
+      "answer": "👮",
+      "options": [
+        "👮",
+        "🏃"
+      ],
+      "explanation": "一起再听一遍：👮。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "警察",
+        "自己乱跑"
+      ],
+      "knowledge_point": "安全知识 2"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "药片和水果，哪个可以在大人帮助下当点心吃？",
+      "answer": "🍎",
+      "options": [
+        "💊",
+        "🍎"
+      ],
+      "explanation": "一起再听一遍：🍎。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "药片不能当糖吃",
+        "苹果"
+      ],
+      "knowledge_point": "安全知识 2"
+    }
+  ],
+  "knowledge": null
+}

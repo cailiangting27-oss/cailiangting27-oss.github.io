@@ -1,0 +1,52 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u7-kp2",
+  "title": "拼字 · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "拼字",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 36,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：哥哥",
+      "answer": "哥哥",
+      "options": [],
+      "explanation": "示范读音：哥哥。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "哥哥",
+        "say": "哥哥",
+        "ok": null,
+        "emoji": "👦",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 37,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：姐姐",
+      "answer": "姐姐",
+      "options": [],
+      "explanation": "示范读音：姐姐。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "姐姐",
+        "say": "姐姐",
+        "ok": null,
+        "emoji": "👧",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    }
+  ],
+  "knowledge": null
+}

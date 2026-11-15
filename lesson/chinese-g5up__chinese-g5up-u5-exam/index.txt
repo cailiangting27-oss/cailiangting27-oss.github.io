@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+13:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","chinese-g5up__chinese-g5up-u5-exam",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","chinese-g5up__chinese-g5up-u5-exam","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lc","$Ld"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Le"]}]}]}]}]]}]]}],{"children":["lesson","$Lf",{"children":[["lesson","chinese-g5up__chinese-g5up-u5-exam","d"],"$L10",{"children":["__PAGE__","$L11",{},null,false]},null,false]},null,false]},null,false],"$L12",false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+16:I[15104,[],"OutletBoundary"]
+18:I[94777,[],"AsyncMetadataOutlet"]
+1a:I[15104,[],"ViewportBoundary"]
+1c:I[15104,[],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+c:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+d:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+e:["$","$L14",null,{}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L15",null,["$","$L16",null,{"children":["$L17",["$","$L18",null,{"promise":"$@19"}]]}]]}]
+12:["$","$1","h",{"children":[null,[["$","$L1a",null,{"children":"$L1b"}],null],["$","$L1c",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1d",null,{"fallback":null,"children":"$L1e"}]}]}]]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+17:null
+1f:I[36505,[],"IconMark"]
+19:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1f","8",{}]],"error":null,"digest":"$undefined"}
+1e:"$19:metadata"
+20:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+21:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+15:["$","$L20",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"第 5 单元挑战"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/chinese-g5up/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L21",null,{"lesson":{"id":"chinese-g5up-u5-exam","title":"第 5 单元挑战","bookId":"chinese-g5up","unitNumber":5,"unitTitle":"介绍一种事物","kpIndex":3,"kpTotal":3,"questions":[{"id":1,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"词语的褒贬义辨析","question":"“顽强”是一个褒义词，可以用来形容战士的意志。","options":[],"answer":"对","explanation":"顽强形容坚强不屈，是褒义词。"},{"id":2,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"常用说明方法的辨析与运用","question":"“它不仅长得漂亮，还非常聪明。”这句话运用了打比方的说明方法。","options":[],"answer":"错","explanation":"这只是普通的拟人化描写，没有喻体，不是打比方。"},{"id":4,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"常用说明方法的辨析与运用","question":"“不少人看到过象”中的“不少”体现了说明文语言的准确性。","options":[],"answer":"对","explanation":"“不少”限制了范围，比直接说“所有人都见过”更符合事实。"},{"id":5,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"词语的褒贬义辨析","question":"“勾结”和“团结”是一对感情色彩相反的近义词。","options":[],"answer":"对","explanation":"勾结是贬义，团结是褒义。"},{"id":7,"type":"choice","score":5,"difficulty":2,"knowledge_point":"常用说明方法的辨析与运用","question":"“如果说大象是庞然大物，那么鲸就是海里的巨人。”本句运用的说明方法有：","options":["打比方和作比较","举例子和列数字","作比较和下定义","分类别和打比方"],"answer":"打比方和作比较","explanation":"将鲸比作巨人（打比方），同时与象相比（作比较）。"},{"id":8,"type":"choice","score":5,"difficulty":1,"knowledge_point":"词语的褒贬义辨析","question":"填入句子中最合适的词：“他正（   ）地想出一个坏主意。”","options":["挖空心思","废寝忘食","孜孜不倦","精益求精"],"answer":"挖空心思","explanation":"“坏主意”需要贬义词“挖空心思”。"},{"id":10,"type":"choice","score":5,"difficulty":2,"knowledge_point":"常用说明方法的辨析与运用","question":"“鲸的种类很多，总的来说可以分为两大类：一类是须鲸，没有牙齿；一类是齿鲸，有锋利的牙齿。”使用的说明方法是：","options":["列数字","分类别","打比方","举例子"],"answer":"分类别","explanation":"根据有无牙齿将鲸分成两类说明。"},{"id":11,"type":"choice","score":5,"difficulty":3,"knowledge_point":"说明文的语言风格与条理","question":"在介绍一种现代科技产品（如手机）时，最不适合采用的顺序是：","options":["从外观到功能的逻辑顺序","从主件到配件的空间顺序","从过去到未来的时间顺序","随机抽样写喜欢的特点"],"answer":"随机抽样写喜欢的特点","explanation":"说明文严禁逻辑混乱、随机书写。"},{"id":13,"type":"choice","score":5,"difficulty":3,"knowledge_point":"说明文的语言风格与条理","question":"关于《松鼠》和《太阳》两文的表述，正确的是：","options":["两篇都是通过神话引出","《松鼠》更生动，《太阳》更平实","都主要运用了列数字的方法","都没有介绍生活习性"],"answer":"《松鼠》更生动，《太阳》更平实","explanation":"《松鼠》是文艺性说明文，描写生动；《太阳》是科普说明文，语言平实。"},{"id":14,"type":"choice","score":5,"difficulty":1,"knowledge_point":"词语的褒贬义辨析","question":"下列词语属于贬义词的是：","options":["成果","结果","后果","结局"],"answer":"后果","explanation":"后果多指坏的结局，含贬义。"},{"id":16,"type":"fill_blank_text","score":5,"difficulty":1,"knowledge_point":"常用说明方法的辨析与运用","question":"一棵向日葵像一个金灿灿的盘子。这里运用了（___）的说明方法。","options":[],"answer":"打比方","explanation":"比作盘子。"},{"id":17,"type":"fill_blank_text","score":5,"difficulty":2,"knowledge_point":"说明文的语言风格与条理","question":"《太阳》一课共有8个自然段，第4段到第8段主要讲太阳和（___）的关系。","options":[],"answer":"人类","explanation":"后半部分侧重太阳对人类地球的重要性。"},{"id":19,"type":"matching","score":5,"difficulty":2,"knowledge_point":"常用说明方法的辨析与运用","question":"请将句子与其突出运用的说明方法对应：","options":["目前已知最大的鲸。","它的表面温度有五千多度。","它像一把撑开的伞。","比起猫来它更温顺。","列数字","举例子","打比方","作比较"],"answer":"A-2,B-1,C-3,D-4","explanation":"A最大鲸是例子；B五千多度是列数字；C像伞是打比方；D比猫是作比较。"},{"id":20,"type":"matching","score":5,"difficulty":2,"knowledge_point":"词语的褒贬义辨析","question":"请将反义词组进行连线（情感色彩相反）：","options":["团结","赞扬","忠诚","坚强","诽谤","背叛","软弱","勾结"],"answer":"A-4,B-1,C-2,D-3","explanation":"团结-勾结；赞扬-诽谤；忠诚-背叛；坚强-软弱。"},{"id":22,"type":"word_order","score":5,"difficulty":2,"knowledge_point":"说明文的语言风格与条理","question":"请通过排序组成一个符合说明文特征的句子：","options":["说明文","真实的","必须给","提供","读者","信息"],"answer":"说明文,必须给,读者,提供,真实的,信息","explanation":"考查对说明文科学性定义的理解。"}],"knowledge":null},"chestSlot":null,"requiredPriorLessons":[]}]}]

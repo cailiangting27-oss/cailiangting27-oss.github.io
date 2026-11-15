@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age3-chinese-poems-u2-kp1",
+  "title": "静夜思",
+  "bookId": "preschool-age3-chinese-poems",
+  "unitNumber": 2,
+  "unitTitle": "静夜思",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：床前明月光，疑是地上霜",
+      "answer": "床前明月光，疑是地上霜",
+      "options": [],
+      "explanation": "示范读音：床前明月光，疑是地上霜。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "床前明月光，疑是地上霜",
+        "say": "床前明月光，疑是地上霜",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "静夜思"
+    },
+    {
+      "id": 4,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：举头望明月，低头思故乡",
+      "answer": "举头望明月，低头思故乡",
+      "options": [],
+      "explanation": "示范读音：举头望明月，低头思故乡。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "举头望明月，低头思故乡",
+        "say": "举头望明月，低头思故乡",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "静夜思"
+    }
+  ],
+  "knowledge": null
+}

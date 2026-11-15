@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u19-kp1",
+  "title": "加法，和是 20",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 19,
+  "unitTitle": "加法，和是 20",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 81,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 19 = ?",
+      "answer": "20",
+      "options": [],
+      "explanation": "示范读音：20。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 19 = ?",
+        "say": "20",
+        "type": "math",
+        "ans": 20
+      },
+      "knowledge_point": "加法，和是 20"
+    },
+    {
+      "id": 82,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 18 = ?",
+      "answer": "20",
+      "options": [],
+      "explanation": "示范读音：20。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 18 = ?",
+        "say": "20",
+        "type": "math",
+        "ans": 20
+      },
+      "knowledge_point": "加法，和是 20"
+    },
+    {
+      "id": 83,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 17 = ?",
+      "answer": "20",
+      "options": [],
+      "explanation": "示范读音：20。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 17 = ?",
+        "say": "20",
+        "type": "math",
+        "ans": 20
+      },
+      "knowledge_point": "加法，和是 20"
+    },
+    {
+      "id": 84,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 16 = ?",
+      "answer": "20",
+      "options": [],
+      "explanation": "示范读音：20。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 16 = ?",
+        "say": "20",
+        "type": "math",
+        "ans": 20
+      },
+      "knowledge_point": "加法，和是 20"
+    },
+    {
+      "id": 85,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 15 = ?",
+      "answer": "20",
+      "options": [],
+      "explanation": "示范读音：20。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 15 = ?",
+        "say": "20",
+        "type": "math",
+        "ans": 20
+      },
+      "knowledge_point": "加法，和是 20"
+    }
+  ],
+  "knowledge": null
+}

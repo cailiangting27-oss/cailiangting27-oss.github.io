@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u9-kp1",
+  "title": "寻隐者不遇",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 9,
+  "unitTitle": "寻隐者不遇",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 17,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：松下问童子，言师采药去",
+      "answer": "松下问童子，言师采药去",
+      "options": [],
+      "explanation": "示范读音：松下问童子，言师采药去。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "松下问童子，言师采药去",
+        "say": "松下问童子，言师采药去",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "寻隐者不遇"
+    },
+    {
+      "id": 18,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：只在此山中，云深不知处",
+      "answer": "只在此山中，云深不知处",
+      "options": [],
+      "explanation": "示范读音：只在此山中，云深不知处。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "只在此山中，云深不知处",
+        "say": "只在此山中，云深不知处",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "寻隐者不遇"
+    }
+  ],
+  "knowledge": null
+}

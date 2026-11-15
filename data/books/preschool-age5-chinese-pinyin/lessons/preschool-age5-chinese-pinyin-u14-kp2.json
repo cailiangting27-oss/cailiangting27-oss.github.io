@@ -1,0 +1,132 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u14-kp2",
+  "title": "拼字 · 第2课",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 14,
+  "unitTitle": "拼字",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 170,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：上",
+      "answer": "上",
+      "options": [],
+      "explanation": "示范读音：上。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "上",
+        "say": "上",
+        "ok": null,
+        "emoji": "⬆️",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 171,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：下",
+      "answer": "下",
+      "options": [],
+      "explanation": "示范读音：下。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "下",
+        "say": "下",
+        "ok": null,
+        "emoji": "⬇️",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 172,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：大",
+      "answer": "大",
+      "options": [],
+      "explanation": "示范读音：大。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "大",
+        "say": "大",
+        "ok": null,
+        "emoji": "🐘",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 173,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小",
+      "answer": "小",
+      "options": [],
+      "explanation": "示范读音：小。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "小",
+        "say": "小",
+        "ok": null,
+        "emoji": "🐣",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 174,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：多",
+      "answer": "多",
+      "options": [],
+      "explanation": "示范读音：多。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "多",
+        "say": "多",
+        "ok": null,
+        "emoji": "➕",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    },
+    {
+      "id": 175,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：少",
+      "answer": "少",
+      "options": [],
+      "explanation": "示范读音：少。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "少",
+        "say": "少",
+        "ok": null,
+        "emoji": "➖",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第2课"
+    }
+  ],
+  "knowledge": null
+}

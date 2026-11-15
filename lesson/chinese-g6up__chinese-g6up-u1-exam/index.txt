@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+13:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","chinese-g6up__chinese-g6up-u1-exam",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","chinese-g6up__chinese-g6up-u1-exam","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lc","$Ld"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Le"]}]}]}]}]]}]]}],{"children":["lesson","$Lf",{"children":[["lesson","chinese-g6up__chinese-g6up-u1-exam","d"],"$L10",{"children":["__PAGE__","$L11",{},null,false]},null,false]},null,false]},null,false],"$L12",false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+16:I[15104,[],"OutletBoundary"]
+18:I[94777,[],"AsyncMetadataOutlet"]
+1a:I[15104,[],"ViewportBoundary"]
+1c:I[15104,[],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+c:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+d:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+e:["$","$L14",null,{}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L15",null,["$","$L16",null,{"children":["$L17",["$","$L18",null,{"promise":"$@19"}]]}]]}]
+12:["$","$1","h",{"children":[null,[["$","$L1a",null,{"children":"$L1b"}],null],["$","$L1c",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1d",null,{"fallback":null,"children":"$L1e"}]}]}]]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+17:null
+1f:I[36505,[],"IconMark"]
+19:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1f","8",{}]],"error":null,"digest":"$undefined"}
+1e:"$19:metadata"
+20:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+21:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+15:["$","$L20",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"第 1 单元挑战"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/chinese-g6up/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L21",null,{"lesson":{"id":"chinese-g6up-u1-exam","title":"第 1 单元挑战","bookId":"chinese-g6up","unitNumber":1,"unitTitle":"从所读的内容想开去","kpIndex":3,"kpTotal":3,"questions":[{"id":1,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"排比修辞与分号用法","question":"“我是亲友间交往的礼品，我是婚礼上的冠冕……”这句排比句增强了语言的节奏感。","options":[],"answer":"对","explanation":"排比能够增强语言气势，使节奏明快。"},{"id":2,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"情景交融与物我象征","question":"《宿建德江》中“移舟泊烟渚”的“烟渚”指烟雾蒙蒙的小洲。","options":[],"answer":"对","explanation":"渚指水中小洲，烟指烟雾，解释正确。"},{"id":3,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"联想与想象的阅读策略","question":"只有文学作品需要联想，科学阅读不需要联想。","options":[],"answer":"错","explanation":"根据新课标要求，阅读任何文本都可以联系生活实际进行深度思考。"},{"id":5,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"排比修辞与分号用法","question":"“这种境界，既使人惊叹，又叫人舒服。”这句话中不应使用逗号。","options":[],"answer":"错","explanation":"此处为关联词带动的两个分句，使用逗号是正确的停顿。"},{"id":6,"type":"choice","score":5,"difficulty":1,"knowledge_point":"情景交融与物我象征","question":"《西江月·夜行黄沙道中》的作者是？","options":["苏轼","辛弃疾","孟浩然","王维"],"answer":"辛弃疾","explanation":"这是课本明确要求背诵的偏目及其作者。"},{"id":8,"type":"choice","score":5,"difficulty":2,"knowledge_point":"情景交融与物我象征","question":"《丁香结》中，作者为什么说“丁香结”是解不完的？","options":["因为丁香花太多了","因为作者不会解绳子","意指人生总会有忧愁，应乐观面对","因为丁香花的花期太长"],"answer":"意指人生总会有忧愁，应乐观面对","explanation":"象征意义解析：结是解不完的，生活才有趣味，这是作者的豁达见解。"},{"id":9,"type":"choice","score":5,"difficulty":1,"knowledge_point":"排比修辞与分号用法","question":"下列词语书写完全正确的一项是？","options":["群马 襟飘带舞","境界 翠色欲留","彩虹 孤芳自赏","断断续续 庞然大树"],"answer":"彩虹 孤芳自赏","explanation":"A项群马应为骏马；B项欲留应为欲流；D项大树应为大物（庞然大物）。"},{"id":11,"type":"choice","score":5,"difficulty":2,"knowledge_point":"排比修辞与分号用法","question":"选择合适的一组关联词：( )我闭上眼睛，( )会看见那一望无际的草原。","options":["因为...所以","只要...就","不仅...而且","即使...也"],"answer":"只要...就","explanation":"此处表达充分条件关系最为恰当。"},{"id":12,"type":"choice","score":5,"difficulty":2,"knowledge_point":"情景交融与物我象征","question":"《草原》中“蒙汉情深何忍别，天涯碧草话斜阳。”中“话”的意思是？","options":["说话","倾诉","神话","话题"],"answer":"倾诉","explanation":"在这里指蒙汉同胞依依惜别，互道深情。"},{"id":14,"type":"choice","score":5,"difficulty":3,"knowledge_point":"联想与想象的阅读策略","question":"在《丁香结》中，为什么作者要把丁香花放在雨中描写？","options":["因为作者喜欢淋雨","为了增加朦胧哀伤的意境，衬托“结”的含蓄","因为雨后的丁香花长得快","为了说明丁香花怕旱"],"answer":"为了增加朦胧哀伤的意境，衬托“结”的含蓄","explanation":"雨中的丁香更显妩媚与愁怨，符合全文借景抒情的基调。"},{"id":15,"type":"choice","score":5,"difficulty":2,"knowledge_point":"情景交融与物我象征","question":"诗句“野旷天低树，江清月近人”中，作者通过联想，将月亮变成了能理解自己的？","options":["敌人","邻居","亲人知己","过客"],"answer":"亲人知己","explanation":"“近人”二字赋予月亮情感，在孤独的旅途中，月亮仿佛成了唯一的伴侣。"},{"id":17,"type":"fill_blank_text","score":5,"difficulty":2,"knowledge_point":"排比修辞与分号用法","question":"“我是亲友之间交往的礼品；我是婚礼上的（___）。”","options":[],"answer":"冠冕","explanation":"考查《花之歌》中的重点词汇记忆。"},{"id":18,"type":"fill_blank_text","score":5,"difficulty":1,"knowledge_point":"联想与想象的阅读策略","question":"《草原》选自现代著名作家（___）的作品《草原》。","options":[],"answer":"老舍","explanation":"考查文学常识。"},{"id":20,"type":"matching","score":5,"difficulty":1,"knowledge_point":"情景交融与物我象征","question":"将下列诗词名句与作者对应。","options":["七八个星天外","野旷天低树","蒙汉情深","芭蕉不展","孟浩然","老舍","李商隐","辛弃疾"],"answer":"A-4,B-1,C-2,D-3","explanation":"A-辛弃疾，B-孟浩然，C-老舍，D-李商隐（咏丁香）。"},{"id":21,"type":"matching","score":5,"difficulty":1,"knowledge_point":"排比修辞与分号用法","question":"请连接近义词。","options":["惊叹","拘束","妩媚","渲染","拘谨","美艳","烘托","赞叹"],"answer":"A-4,B-1,C-2,D-3","explanation":"考查本单元重点词语理解。"}],"knowledge":null},"chestSlot":null,"requiredPriorLessons":[]}]}]

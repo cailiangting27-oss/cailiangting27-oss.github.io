@@ -1,0 +1,80 @@
+{
+  "id": "preschool-age3-english-first-words-u1-kp1",
+  "title": "英语小词 1",
+  "bookId": "preschool-age3-english-first-words",
+  "unitNumber": 1,
+  "unitTitle": "英语小词 1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：cat",
+      "answer": "cat",
+      "options": [],
+      "explanation": "示范读音：cat。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "cat",
+        "say": "cat",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 1"
+    },
+    {
+      "id": 2,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：dog",
+      "answer": "dog",
+      "options": [],
+      "explanation": "示范读音：dog。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "dog",
+        "say": "dog",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 1"
+    },
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：bird",
+      "answer": "bird",
+      "options": [],
+      "explanation": "示范读音：bird。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "bird",
+        "say": "bird",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 1"
+    },
+    {
+      "id": 4,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：fish",
+      "answer": "fish",
+      "options": [],
+      "explanation": "示范读音：fish。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "fish",
+        "say": "fish",
+        "type": "en"
+      },
+      "knowledge_point": "英语小词 1"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,109 @@
+{
+  "textbook": "3-4 岁（小班/中班） · 短诗与儿歌",
+  "metadata": {
+    "grade": -2,
+    "bookId": "preschool-age3-chinese-poems",
+    "courseName": "短诗与儿歌",
+    "sequential": false
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "咏鹅",
+      "knowledge_points": [
+        {
+          "name": "咏鹅",
+          "description": "听、看、说，一起学习咏鹅",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "静夜思",
+      "knowledge_points": [
+        {
+          "name": "静夜思",
+          "description": "听、看、说，一起学习静夜思",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "春晓",
+      "knowledge_points": [
+        {
+          "name": "春晓",
+          "description": "听、看、说，一起学习春晓",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "一起唱儿歌",
+      "knowledge_points": [
+        {
+          "name": "一起唱儿歌",
+          "description": "听、看、说，一起学习一起唱儿歌",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "preschool-age3-chinese-poems",
+  "grade": -2,
+  "semester": "up",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "preschool-age3-chinese-poems-u1-kp1",
+      "title": "咏鹅",
+      "unitNumber": 1,
+      "unitTitle": "咏鹅",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 2
+    },
+    {
+      "id": "preschool-age3-chinese-poems-u2-kp1",
+      "title": "静夜思",
+      "unitNumber": 2,
+      "unitTitle": "静夜思",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 2
+    },
+    {
+      "id": "preschool-age3-chinese-poems-u3-kp1",
+      "title": "春晓",
+      "unitNumber": 3,
+      "unitTitle": "春晓",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 2
+    },
+    {
+      "id": "preschool-age3-chinese-poems-u4-kp1",
+      "title": "一起唱儿歌",
+      "unitNumber": 4,
+      "unitTitle": "一起唱儿歌",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    }
+  ]
+}

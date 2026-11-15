@@ -1,0 +1,144 @@
+{
+  "id": "primary-g1-chinese-pinyin-u3-kp1",
+  "title": "声母 · 第1课",
+  "bookId": "primary-g1-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "声母",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 31,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：b",
+      "answer": "b",
+      "options": [],
+      "explanation": "像收音机 bō bō bō",
+      "speak": {
+        "show": "b",
+        "say": "玻",
+        "ok": [
+          "bo*"
+        ],
+        "emoji": "📻",
+        "hint": "像收音机 bō bō bō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    },
+    {
+      "id": 32,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：p",
+      "answer": "p",
+      "options": [],
+      "explanation": "小坡 pō pō pō",
+      "speak": {
+        "show": "p",
+        "say": "坡",
+        "ok": [
+          "po*"
+        ],
+        "emoji": "⛰️",
+        "hint": "小坡 pō pō pō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    },
+    {
+      "id": 33,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：m",
+      "answer": "m",
+      "options": [],
+      "explanation": "两个门洞 mō mō mō",
+      "speak": {
+        "show": "m",
+        "say": "摸",
+        "ok": [
+          "mo*"
+        ],
+        "emoji": "🚪",
+        "hint": "两个门洞 mō mō mō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    },
+    {
+      "id": 34,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：f",
+      "answer": "f",
+      "options": [],
+      "explanation": "一根拐杖 fó fó fó",
+      "speak": {
+        "show": "f",
+        "say": "佛",
+        "ok": [
+          "fo*"
+        ],
+        "emoji": "🦯",
+        "hint": "一根拐杖 fó fó fó",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    },
+    {
+      "id": 35,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：d",
+      "answer": "d",
+      "options": [],
+      "explanation": "马蹄声 dē dē dē",
+      "speak": {
+        "show": "d",
+        "say": "得",
+        "ok": [
+          "de*"
+        ],
+        "emoji": "🥁",
+        "hint": "马蹄声 dē dē dē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    },
+    {
+      "id": 36,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：t",
+      "answer": "t",
+      "options": [],
+      "explanation": "一把伞 tē tē tē",
+      "speak": {
+        "show": "t",
+        "say": "特",
+        "ok": [
+          "te*"
+        ],
+        "emoji": "☂️",
+        "hint": "一把伞 tē tē tē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第1课"
+    }
+  ],
+  "knowledge": null
+}

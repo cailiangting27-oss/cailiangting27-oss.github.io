@@ -1,0 +1,46 @@
+{
+  "id": "preschool-age5-english-words-sentences-u12-kp1",
+  "title": "英语跟读 12",
+  "bookId": "preschool-age5-english-words-sentences",
+  "unitNumber": 12,
+  "unitTitle": "英语跟读 12",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 45,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：It is red",
+      "answer": "It is red",
+      "options": [],
+      "explanation": "示范读音：It is red。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "It is red",
+        "say": "It is red",
+        "type": "en"
+      },
+      "knowledge_point": "英语跟读 12"
+    },
+    {
+      "id": 46,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：I love my family",
+      "answer": "I love my family",
+      "options": [],
+      "explanation": "示范读音：I love my family。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "I love my family",
+        "say": "I love my family",
+        "type": "en"
+      },
+      "knowledge_point": "英语跟读 12"
+    }
+  ],
+  "knowledge": null
+}

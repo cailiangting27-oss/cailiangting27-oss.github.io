@@ -1,0 +1,100 @@
+{
+  "id": "primary-g1-chinese-pinyin-u6-kp2",
+  "title": "复韵母 · 第2课",
+  "bookId": "primary-g1-chinese-pinyin",
+  "unitNumber": 6,
+  "unitTitle": "复韵母",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 58,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ou",
+      "answer": "ou",
+      "options": [],
+      "explanation": "示范读音：欧。",
+      "speak": {
+        "show": "ou",
+        "say": "欧",
+        "ok": [
+          "ou*"
+        ],
+        "emoji": "🌊",
+        "hint": "",
+        "tag": "",
+        "kind": "复韵母"
+      },
+      "knowledge_point": "复韵母 · 第2课"
+    },
+    {
+      "id": 59,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：iu",
+      "answer": "iu",
+      "options": [],
+      "explanation": "示范读音：优。",
+      "speak": {
+        "show": "iu",
+        "say": "优",
+        "ok": [
+          "you*"
+        ],
+        "emoji": "🏅",
+        "hint": "",
+        "tag": "",
+        "kind": "复韵母"
+      },
+      "knowledge_point": "复韵母 · 第2课"
+    },
+    {
+      "id": 60,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ie",
+      "answer": "ie",
+      "options": [],
+      "explanation": "示范读音：耶。",
+      "speak": {
+        "show": "ie",
+        "say": "耶",
+        "ok": [
+          "ye*"
+        ],
+        "emoji": "🥥",
+        "hint": "",
+        "tag": "",
+        "kind": "复韵母"
+      },
+      "knowledge_point": "复韵母 · 第2课"
+    },
+    {
+      "id": 61,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：üe",
+      "answer": "üe",
+      "options": [],
+      "explanation": "示范读音：约。",
+      "speak": {
+        "show": "üe",
+        "say": "约",
+        "ok": [
+          "yue*"
+        ],
+        "emoji": "🌙",
+        "hint": "",
+        "tag": "",
+        "kind": "复韵母"
+      },
+      "knowledge_point": "复韵母 · 第2课"
+    }
+  ],
+  "knowledge": null
+}

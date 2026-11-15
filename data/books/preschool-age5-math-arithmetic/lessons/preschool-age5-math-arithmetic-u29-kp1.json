@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age5-math-arithmetic-u29-kp1",
+  "title": "从 14 减一减",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 29,
+  "unitTitle": "从 14 减一减",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 122,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：14 − 1 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "14 − 1 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "从 14 减一减"
+    },
+    {
+      "id": 123,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：14 − 2 = ?",
+      "answer": "12",
+      "options": [],
+      "explanation": "示范读音：12。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "14 − 2 = ?",
+        "say": "12",
+        "type": "math",
+        "ans": 12
+      },
+      "knowledge_point": "从 14 减一减"
+    },
+    {
+      "id": 124,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：14 − 3 = ?",
+      "answer": "11",
+      "options": [],
+      "explanation": "示范读音：11。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "14 − 3 = ?",
+        "say": "11",
+        "type": "math",
+        "ans": 11
+      },
+      "knowledge_point": "从 14 减一减"
+    },
+    {
+      "id": 125,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：14 − 4 = ?",
+      "answer": "10",
+      "options": [],
+      "explanation": "示范读音：10。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "14 − 4 = ?",
+        "say": "10",
+        "type": "math",
+        "ans": 10
+      },
+      "knowledge_point": "从 14 减一减"
+    }
+  ],
+  "knowledge": null
+}

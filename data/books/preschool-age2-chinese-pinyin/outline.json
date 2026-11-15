@@ -1,0 +1,293 @@
+{
+  "textbook": "2 岁（托班） · 拼音跟读入门",
+  "metadata": {
+    "grade": -3,
+    "bookId": "preschool-age2-chinese-pinyin",
+    "courseName": "拼音跟读入门",
+    "sequential": true
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "单韵母 1",
+      "knowledge_points": [
+        {
+          "name": "单韵母 1",
+          "description": "听、看、说，一起学习单韵母 1",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "单韵母 2",
+      "knowledge_points": [
+        {
+          "name": "单韵母 2",
+          "description": "听、看、说，一起学习单韵母 2",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "单韵母四声 a",
+      "knowledge_points": [
+        {
+          "name": "单韵母四声 a",
+          "description": "听、看、说，一起学习单韵母四声 a",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "声母 b p m f",
+      "knowledge_points": [
+        {
+          "name": "声母 b p m f",
+          "description": "听、看、说，一起学习声母 b p m f",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "声母 d t n l",
+      "knowledge_points": [
+        {
+          "name": "声母 d t n l",
+          "description": "听、看、说，一起学习声母 d t n l",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "声母 g k h",
+      "knowledge_points": [
+        {
+          "name": "声母 g k h",
+          "description": "听、看、说，一起学习声母 g k h",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "两拼音节 1",
+      "knowledge_points": [
+        {
+          "name": "两拼音节 1",
+          "description": "听、看、说，一起学习两拼音节 1",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "两拼音节 2",
+      "knowledge_points": [
+        {
+          "name": "两拼音节 2",
+          "description": "听、看、说，一起学习两拼音节 2",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "两拼音节 3",
+      "knowledge_points": [
+        {
+          "name": "两拼音节 3",
+          "description": "听、看、说，一起学习两拼音节 3",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 10,
+      "title": "拼字 1",
+      "knowledge_points": [
+        {
+          "name": "拼字 1",
+          "description": "听、看、说，一起学习拼字 1",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 11,
+      "title": "拼字 2",
+      "knowledge_points": [
+        {
+          "name": "拼字 2",
+          "description": "听、看、说，一起学习拼字 2",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 12,
+      "title": "拼字 3",
+      "knowledge_points": [
+        {
+          "name": "拼字 3",
+          "description": "听、看、说，一起学习拼字 3",
+          "difficulty": 1,
+          "question_types": [
+            "speak"
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "preschool-age2-chinese-pinyin",
+  "grade": -3,
+  "semester": "up",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "preschool-age2-chinese-pinyin-u1-kp1",
+      "title": "单韵母 1",
+      "unitNumber": 1,
+      "unitTitle": "单韵母 1",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 3
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u2-kp1",
+      "title": "单韵母 2",
+      "unitNumber": 2,
+      "unitTitle": "单韵母 2",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 3
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u3-kp1",
+      "title": "单韵母四声 a",
+      "unitNumber": 3,
+      "unitTitle": "单韵母四声 a",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u4-kp1",
+      "title": "声母 b p m f",
+      "unitNumber": 4,
+      "unitTitle": "声母 b p m f",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u5-kp1",
+      "title": "声母 d t n l",
+      "unitNumber": 5,
+      "unitTitle": "声母 d t n l",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u6-kp1",
+      "title": "声母 g k h",
+      "unitNumber": 6,
+      "unitTitle": "声母 g k h",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 3
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u7-kp1",
+      "title": "两拼音节 1",
+      "unitNumber": 7,
+      "unitTitle": "两拼音节 1",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u8-kp1",
+      "title": "两拼音节 2",
+      "unitNumber": 8,
+      "unitTitle": "两拼音节 2",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u9-kp1",
+      "title": "两拼音节 3",
+      "unitNumber": 9,
+      "unitTitle": "两拼音节 3",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u10-kp1",
+      "title": "拼字 1",
+      "unitNumber": 10,
+      "unitTitle": "拼字 1",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u11-kp1",
+      "title": "拼字 2",
+      "unitNumber": 11,
+      "unitTitle": "拼字 2",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "preschool-age2-chinese-pinyin-u12-kp1",
+      "title": "拼字 3",
+      "unitNumber": 12,
+      "unitTitle": "拼字 3",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    }
+  ]
+}

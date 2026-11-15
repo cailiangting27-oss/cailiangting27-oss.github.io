@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+12:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","guide","g5up__3",""],"i":false,"f":[[["",{"children":["guide",{"children":[["bookUnit","g5up__3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$Lc"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Ld"]}]}]}]}]]}]]}],{"children":["guide","$Le",{"children":[["bookUnit","g5up__3","d"],"$Lf",{"children":["__PAGE__","$L10",{},null,false]},null,false]},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+15:I[15104,[],"OutletBoundary"]
+17:I[94777,[],"AsyncMetadataOutlet"]
+19:I[15104,[],"ViewportBoundary"]
+1b:I[15104,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+d:["$","$L13",null,{}]
+e:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],null],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+16:null
+1e:I[36505,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1e","8",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"
+1f:I[64743,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","5588","static/chunks/5588-c23aed90a710b62e.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","4131","static/chunks/4131-c85d894bee8a6da1.js","8695","static/chunks/app/guide/bookUnit/page-83641d9e0ca7afa6.js"],"default"]
+20:I[1172,["8070","static/chunks/8070-c442cf74d0e5907b.js","9289","static/chunks/9289-f0c79e12f499535e.js","5588","static/chunks/5588-c23aed90a710b62e.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","4131","static/chunks/4131-c85d894bee8a6da1.js","8695","static/chunks/app/guide/bookUnit/page-83641d9e0ca7afa6.js"],"GuideClient"]
+14:["$","$L1f",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":["五年级上册"," · 第 ",3," 单元"]}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"知识点导读组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/g5up/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L20",null,{"book":{"id":"g5up","grade":5,"semester":"up","subject":"math","gradeName":"五年级","semesterName":"上册","subjectName":"数学","textbookName":"五年级上册","fullName":"人教版小学数学五年级上册","publisher":"renjiao","publisherName":"人教版","unitsCount":8,"lessonsCount":31,"stage":"primary"},"unit":{"unit_number":3,"title":"小数除法","knowledge_points":[{"name":"除数是整数的小数除法","description":"掌握商的小数点与被除数小数点对齐的规则，以及整数部分不够除、除到末尾需添0的情况。","difficulty":2,"question_types":["竖式计算","填空"]},{"name":"一个数除以小数的计算方法","description":"利用商不变的性质将除数是小数的除法转化为除数是整数的除法进行计算。","difficulty":3,"question_types":["竖式计算","判断"]},{"name":"商的近似数（进一法与去尾法）","description":"根据实际生活需要，灵活运用“进一法”或“去尾法”取商的近似值。","difficulty":3,"question_types":["应用题","选择"]},{"name":"循环小数的相关概念","description":"理解循环小数、循环节的概念，掌握循环小数的简便记法。","difficulty":2,"question_types":["填空","选择","判断"]},{"name":"用计算器探索规律","description":"借助计算器发现小数除法中商的规律，并能根据规律写出相关的商。","difficulty":4,"question_types":["填空","规律探索"]}],"examLessonId":"g5up-u3-exam","examQuestionCount":15},"summaries":[{"point":"除数是整数的小数除法","core_concept":"计算小数除以整数时，按照整数除法的法则计算。关键是商的小数点要与被除数的小数点对齐。如果被除数的整数部分不够除，要在商的个位商0，点上小数点继续除；如果除到末尾有余数，要在余数后面添0继续除。","key_formula":"商的小数点与被除数的小数点对齐","common_mistakes":["商的小数点点错位置","整数部分不够商1时忘了在个位写0"],"tips":"竖式计算时，先点好商的小数点，再开始计算，防止遗漏。"},{"point":"一个数除以小数的计算方法","core_concept":"利用“商不变的性质”，将除数和被除数同时扩大相同的倍数，使除数变成整数。除数扩大几倍（看除数有几位小数），被除数的小数点就向右移动几位。位数不够时，在被除数的末尾用0补足。","key_formula":"$$a \bdiv b = (a \times n) \bdiv (b \times n)$ ($n \neq 0$)","common_mistakes":["被除数和除数扩大的倍数不一致","被除数位数不够移动小数点时忘了添0"],"tips":"一看：看除数有几位小数；二移：移动除数小数点变整数，被除数跟着移；三算：按除数是整数的除法算。"},{"point":"商的近似数（进一法与去尾法）","core_concept":"在实际应用中，取商的近似值不仅可以用“四舍五入法”，还要根据实际需要使用“进一法”（如装油需要瓶子）或“去尾法”（如布料做衣服）。“进一法”是无论余数是多少都向前进一；“去尾法”是无论余数是多少都舍去。","key_formula":"根据实际情况取近似数","common_mistakes":["机械使用四舍五入，忽略生活情境","计算精确位数时没有多算一位便直接取值"],"tips":"分东西、做衣服用“去尾法”；装东西、载人用“进一法”。"},{"point":"循环小数的相关概念","core_concept":"一个数的小数部分，从某一位起，一个数字或者几个数字依次不断重复出现，这样的小数叫循环小数。重复出现的数字叫循环节。可以只写一个循环节，在首位和末位数字上面点上小圆点表示。","key_formula":"循环小数记法：$0.333... = 0.\bdot{3}$","common_mistakes":["把有限小数误认为是循环小数","写循环记法时点错了位置"],"tips":"循环小数必须是无限的。循环节是指最先开始重复的一段数字。"},{"point":"用计算器探索规律","core_concept":"利用计算器计算出一系列算式，通过观察商的位数、循环节、数字组成的变化，发现其中的数学规律，并能运用这些规律预测并写出后续复杂算式的结果。","key_formula":"观察 $\to$ 比较 $\to$ 发现规律 $\to$ 应用规律","common_mistakes":["观察不细致导致找错规律","应用规律时数错了数字的个数"],"tips":"找出算式中变与不变的部分，通常规律与项数或数字的个数有关。"}]}]}]

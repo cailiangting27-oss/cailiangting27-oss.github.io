@@ -1,0 +1,100 @@
+{
+  "id": "preschool-age3-science-world-u6-kp1",
+  "title": "哪个不一样",
+  "bookId": "preschool-age3-science-world",
+  "unitNumber": 6,
+  "unitTitle": "哪个不一样",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 27,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个不是水果？",
+      "answer": "🚗",
+      "options": [
+        "🍎",
+        "🍌",
+        "🚗"
+      ],
+      "explanation": "一起再听一遍：🚗。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "苹果",
+        "香蕉",
+        "汽车"
+      ],
+      "knowledge_point": "哪个不一样"
+    },
+    {
+      "id": 28,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个不是动物？",
+      "answer": "🪑",
+      "options": [
+        "🐱",
+        "🐶",
+        "🪑"
+      ],
+      "explanation": "一起再听一遍：🪑。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "小猫",
+        "小狗",
+        "椅子"
+      ],
+      "knowledge_point": "哪个不一样"
+    },
+    {
+      "id": 29,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个不是交通工具？",
+      "answer": "🍚",
+      "options": [
+        "🚗",
+        "✈️",
+        "🍚"
+      ],
+      "explanation": "一起再听一遍：🍚。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "汽车",
+        "飞机",
+        "米饭"
+      ],
+      "knowledge_point": "哪个不一样"
+    },
+    {
+      "id": 30,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个不是红色？",
+      "answer": "🔵",
+      "options": [
+        "🍎",
+        "🔴",
+        "🔵"
+      ],
+      "explanation": "一起再听一遍：🔵。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "红苹果",
+        "红圆圈",
+        "蓝圆圈"
+      ],
+      "knowledge_point": "哪个不一样"
+    }
+  ],
+  "knowledge": null
+}

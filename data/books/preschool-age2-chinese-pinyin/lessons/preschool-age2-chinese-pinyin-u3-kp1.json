@@ -1,0 +1,104 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u3-kp1",
+  "title": "单韵母四声 a",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "单韵母四声 a",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 7,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ā",
+      "answer": "ā",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "ā",
+        "say": "啊",
+        "ok": [
+          "a1"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a"
+    },
+    {
+      "id": 8,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：á",
+      "answer": "á",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "á",
+        "say": "啊",
+        "ok": [
+          "a2"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a"
+    },
+    {
+      "id": 9,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ǎ",
+      "answer": "ǎ",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "ǎ",
+        "say": "啊",
+        "ok": [
+          "a3"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a"
+    },
+    {
+      "id": 10,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：à",
+      "answer": "à",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "à",
+        "say": "啊",
+        "ok": [
+          "a4"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a"
+    }
+  ],
+  "knowledge": null
+}

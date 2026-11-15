@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u1-kp2",
+  "title": "单韵母 · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 1,
+  "unitTitle": "单韵母",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：e",
+      "answer": "e",
+      "options": [],
+      "explanation": "白鹅 é é é",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "e",
+        "say": "鹅",
+        "ok": [
+          "e*"
+        ],
+        "emoji": "🦢",
+        "hint": "白鹅 é é é",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 · 第2课"
+    },
+    {
+      "id": 4,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：i",
+      "answer": "i",
+      "options": [],
+      "explanation": "衣服 yī yī yī",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "i",
+        "say": "衣",
+        "ok": [
+          "yi*"
+        ],
+        "emoji": "👕",
+        "hint": "衣服 yī yī yī",
+        "tag": "",
+        "kind": "单韵母"
+      },
+      "knowledge_point": "单韵母 · 第2课"
+    }
+  ],
+  "knowledge": null
+}

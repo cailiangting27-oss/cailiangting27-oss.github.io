@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age5-math-arithmetic-u22-kp1",
+  "title": "从 7 减一减",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 22,
+  "unitTitle": "从 7 减一减",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 94,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：7 − 1 = ?",
+      "answer": "6",
+      "options": [],
+      "explanation": "示范读音：6。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "7 − 1 = ?",
+        "say": "6",
+        "type": "math",
+        "ans": 6
+      },
+      "knowledge_point": "从 7 减一减"
+    },
+    {
+      "id": 95,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：7 − 2 = ?",
+      "answer": "5",
+      "options": [],
+      "explanation": "示范读音：5。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "7 − 2 = ?",
+        "say": "5",
+        "type": "math",
+        "ans": 5
+      },
+      "knowledge_point": "从 7 减一减"
+    },
+    {
+      "id": 96,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：7 − 3 = ?",
+      "answer": "4",
+      "options": [],
+      "explanation": "示范读音：4。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "7 − 3 = ?",
+        "say": "4",
+        "type": "math",
+        "ans": 4
+      },
+      "knowledge_point": "从 7 减一减"
+    },
+    {
+      "id": 97,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：7 − 4 = ?",
+      "answer": "3",
+      "options": [],
+      "explanation": "示范读音：3。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "7 − 4 = ?",
+        "say": "3",
+        "type": "math",
+        "ans": 3
+      },
+      "knowledge_point": "从 7 减一减"
+    }
+  ],
+  "knowledge": null
+}

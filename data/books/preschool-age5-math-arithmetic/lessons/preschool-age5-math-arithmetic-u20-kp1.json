@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age5-math-arithmetic-u20-kp1",
+  "title": "从 5 减一减",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 20,
+  "unitTitle": "从 5 减一减",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 86,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 − 1 = ?",
+      "answer": "4",
+      "options": [],
+      "explanation": "示范读音：4。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 − 1 = ?",
+        "say": "4",
+        "type": "math",
+        "ans": 4
+      },
+      "knowledge_point": "从 5 减一减"
+    },
+    {
+      "id": 87,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 − 2 = ?",
+      "answer": "3",
+      "options": [],
+      "explanation": "示范读音：3。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 − 2 = ?",
+        "say": "3",
+        "type": "math",
+        "ans": 3
+      },
+      "knowledge_point": "从 5 减一减"
+    },
+    {
+      "id": 88,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 − 3 = ?",
+      "answer": "2",
+      "options": [],
+      "explanation": "示范读音：2。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 − 3 = ?",
+        "say": "2",
+        "type": "math",
+        "ans": 2
+      },
+      "knowledge_point": "从 5 减一减"
+    },
+    {
+      "id": 89,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 − 4 = ?",
+      "answer": "1",
+      "options": [],
+      "explanation": "示范读音：1。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 − 4 = ?",
+        "say": "1",
+        "type": "math",
+        "ans": 1
+      },
+      "knowledge_point": "从 5 减一减"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age3-math-numbers-u2-kp1",
+  "title": "数数 6 到 10",
+  "bookId": "preschool-age3-math-numbers",
+  "unitNumber": 2,
+  "unitTitle": "数数 6 到 10",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "数一数，有几个小星星？⭐⭐⭐⭐⭐⭐",
+      "answer": "6",
+      "options": [
+        "6",
+        "7",
+        "5"
+      ],
+      "explanation": "一起再听一遍：6。",
+      "preschoolGrade": -2,
+      "knowledge_point": "数数 6 到 10"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "数一数，有几个小星星？⭐⭐⭐⭐⭐⭐⭐",
+      "answer": "7",
+      "options": [
+        "7",
+        "8",
+        "6"
+      ],
+      "explanation": "一起再听一遍：7。",
+      "preschoolGrade": -2,
+      "knowledge_point": "数数 6 到 10"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "数一数，有几个小星星？⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer": "8",
+      "options": [
+        "8",
+        "9",
+        "7"
+      ],
+      "explanation": "一起再听一遍：8。",
+      "preschoolGrade": -2,
+      "knowledge_point": "数数 6 到 10"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "数一数，有几个小星星？⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer": "9",
+      "options": [
+        "9",
+        "10",
+        "8"
+      ],
+      "explanation": "一起再听一遍：9。",
+      "preschoolGrade": -2,
+      "knowledge_point": "数数 6 到 10"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "数一数，有几个小星星？⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer": "10",
+      "options": [
+        "10",
+        "11",
+        "9"
+      ],
+      "explanation": "一起再听一遍：10。",
+      "preschoolGrade": -2,
+      "knowledge_point": "数数 6 到 10"
+    }
+  ],
+  "knowledge": null
+}

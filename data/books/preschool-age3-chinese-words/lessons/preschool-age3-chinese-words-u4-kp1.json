@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age3-chinese-words-u4-kp1",
+  "title": "认识汉字 4",
+  "bookId": "preschool-age3-chinese-words",
+  "unitNumber": 4,
+  "unitTitle": "认识汉字 4",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 13,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：禾",
+      "answer": "禾",
+      "options": [],
+      "explanation": "示范读音：禾。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "禾",
+        "say": "禾",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 4"
+    },
+    {
+      "id": 14,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：上",
+      "answer": "上",
+      "options": [],
+      "explanation": "示范读音：上。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "上",
+        "say": "上",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 4"
+    },
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：下",
+      "answer": "下",
+      "options": [],
+      "explanation": "示范读音：下。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "下",
+        "say": "下",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 4"
+    },
+    {
+      "id": 16,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：大",
+      "answer": "大",
+      "options": [],
+      "explanation": "示范读音：大。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "大",
+        "say": "大",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 4"
+    }
+  ],
+  "knowledge": null
+}

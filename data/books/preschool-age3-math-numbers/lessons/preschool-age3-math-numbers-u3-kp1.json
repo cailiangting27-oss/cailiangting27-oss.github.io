@@ -1,0 +1,107 @@
+{
+  "id": "preschool-age3-math-numbers-u3-kp1",
+  "title": "认识数字 1 到 5",
+  "bookId": "preschool-age3-math-numbers",
+  "unitNumber": 3,
+  "unitTitle": "认识数字 1 到 5",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 11,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1",
+      "answer": "1",
+      "options": [],
+      "explanation": "示范读音：1。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "1",
+        "say": "1",
+        "type": "math",
+        "ans": 1,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 1 到 5"
+    },
+    {
+      "id": 12,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2",
+      "answer": "2",
+      "options": [],
+      "explanation": "示范读音：2。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "2",
+        "say": "2",
+        "type": "math",
+        "ans": 2,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 1 到 5"
+    },
+    {
+      "id": 13,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3",
+      "answer": "3",
+      "options": [],
+      "explanation": "示范读音：3。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "3",
+        "say": "3",
+        "type": "math",
+        "ans": 3,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 1 到 5"
+    },
+    {
+      "id": 14,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4",
+      "answer": "4",
+      "options": [],
+      "explanation": "示范读音：4。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "4",
+        "say": "4",
+        "type": "math",
+        "ans": 4,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 1 到 5"
+    },
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5",
+      "answer": "5",
+      "options": [],
+      "explanation": "示范读音：5。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "5",
+        "say": "5",
+        "type": "math",
+        "ans": 5,
+        "emoji": "🔢"
+      },
+      "knowledge_point": "认识数字 1 到 5"
+    }
+  ],
+  "knowledge": null
+}

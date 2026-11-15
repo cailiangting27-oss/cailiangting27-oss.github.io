@@ -1,0 +1,127 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u8-kp1",
+  "title": "前鼻韵母",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 8,
+  "unitTitle": "前鼻韵母",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 63,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：an",
+      "answer": "an",
+      "options": [],
+      "explanation": "示范读音：安。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "an",
+        "say": "安",
+        "ok": [
+          "an*"
+        ],
+        "emoji": "🏠",
+        "hint": "",
+        "tag": "",
+        "kind": "前鼻韵母"
+      },
+      "knowledge_point": "前鼻韵母"
+    },
+    {
+      "id": 64,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：en",
+      "answer": "en",
+      "options": [],
+      "explanation": "示范读音：恩。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "en",
+        "say": "恩",
+        "ok": [
+          "en*"
+        ],
+        "emoji": "🙏",
+        "hint": "",
+        "tag": "",
+        "kind": "前鼻韵母"
+      },
+      "knowledge_point": "前鼻韵母"
+    },
+    {
+      "id": 65,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：in",
+      "answer": "in",
+      "options": [],
+      "explanation": "示范读音：音。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "in",
+        "say": "音",
+        "ok": [
+          "yin*"
+        ],
+        "emoji": "🎵",
+        "hint": "",
+        "tag": "",
+        "kind": "前鼻韵母"
+      },
+      "knowledge_point": "前鼻韵母"
+    },
+    {
+      "id": 66,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：un",
+      "answer": "un",
+      "options": [],
+      "explanation": "示范读音：温。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "un",
+        "say": "温",
+        "ok": [
+          "wen*"
+        ],
+        "emoji": "🌡️",
+        "hint": "",
+        "tag": "",
+        "kind": "前鼻韵母"
+      },
+      "knowledge_point": "前鼻韵母"
+    },
+    {
+      "id": 67,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ün",
+      "answer": "ün",
+      "options": [],
+      "explanation": "示范读音：晕。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ün",
+        "say": "晕",
+        "ok": [
+          "yun*"
+        ],
+        "emoji": "☁️",
+        "hint": "",
+        "tag": "",
+        "kind": "前鼻韵母"
+      },
+      "knowledge_point": "前鼻韵母"
+    }
+  ],
+  "knowledge": null
+}

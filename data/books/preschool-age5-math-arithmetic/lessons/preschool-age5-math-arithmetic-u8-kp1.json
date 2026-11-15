@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u8-kp1",
+  "title": "加法，和是 9",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 8,
+  "unitTitle": "加法，和是 9",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 26,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 8 = ?",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 8 = ?",
+        "say": "9",
+        "type": "math",
+        "ans": 9
+      },
+      "knowledge_point": "加法，和是 9"
+    },
+    {
+      "id": 27,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 7 = ?",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 7 = ?",
+        "say": "9",
+        "type": "math",
+        "ans": 9
+      },
+      "knowledge_point": "加法，和是 9"
+    },
+    {
+      "id": 28,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 6 = ?",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 6 = ?",
+        "say": "9",
+        "type": "math",
+        "ans": 9
+      },
+      "knowledge_point": "加法，和是 9"
+    },
+    {
+      "id": 29,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 5 = ?",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 5 = ?",
+        "say": "9",
+        "type": "math",
+        "ans": 9
+      },
+      "knowledge_point": "加法，和是 9"
+    },
+    {
+      "id": 30,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 4 = ?",
+      "answer": "9",
+      "options": [],
+      "explanation": "示范读音：9。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 4 = ?",
+        "say": "9",
+        "type": "math",
+        "ans": 9
+      },
+      "knowledge_point": "加法，和是 9"
+    }
+  ],
+  "knowledge": null
+}

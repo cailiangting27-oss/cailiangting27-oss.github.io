@@ -1,0 +1,52 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u7-kp5",
+  "title": "拼字 · 第5课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "拼字",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 42,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：狗",
+      "answer": "狗",
+      "options": [],
+      "explanation": "示范读音：狗。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "狗",
+        "say": "狗",
+        "ok": null,
+        "emoji": "🐶",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第5课"
+    },
+    {
+      "id": 43,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：鱼",
+      "answer": "鱼",
+      "options": [],
+      "explanation": "示范读音：鱼。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "鱼",
+        "say": "鱼",
+        "ok": null,
+        "emoji": "🐟",
+        "kind": "拼字",
+        "word": true
+      },
+      "knowledge_point": "拼字 · 第5课"
+    }
+  ],
+  "knowledge": null
+}

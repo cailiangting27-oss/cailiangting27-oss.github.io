@@ -1,0 +1,104 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u5-kp1",
+  "title": "声母 d t n l",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 5,
+  "unitTitle": "声母 d t n l",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 15,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：d",
+      "answer": "d",
+      "options": [],
+      "explanation": "马蹄声 dē dē dē",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "d",
+        "say": "得",
+        "ok": [
+          "de*"
+        ],
+        "emoji": "🥁",
+        "hint": "马蹄声 dē dē dē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l"
+    },
+    {
+      "id": 16,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：t",
+      "answer": "t",
+      "options": [],
+      "explanation": "一把伞 tē tē tē",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "t",
+        "say": "特",
+        "ok": [
+          "te*"
+        ],
+        "emoji": "☂️",
+        "hint": "一把伞 tē tē tē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l"
+    },
+    {
+      "id": 17,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：n",
+      "answer": "n",
+      "options": [],
+      "explanation": "一个门洞 nē nē nē",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "n",
+        "say": "讷",
+        "ok": [
+          "ne*"
+        ],
+        "emoji": "🚪",
+        "hint": "一个门洞 nē nē nē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l"
+    },
+    {
+      "id": 18,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：l",
+      "answer": "l",
+      "options": [],
+      "explanation": "一根小棍 lē lē lē",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "l",
+        "say": "勒",
+        "ok": [
+          "le*"
+        ],
+        "emoji": "🥢",
+        "hint": "一根小棍 lē lē lē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l"
+    }
+  ],
+  "knowledge": null
+}

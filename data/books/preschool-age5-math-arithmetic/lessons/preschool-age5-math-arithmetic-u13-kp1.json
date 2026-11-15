@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u13-kp1",
+  "title": "加法，和是 14",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 13,
+  "unitTitle": "加法，和是 14",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 51,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 13 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 13 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "加法，和是 14"
+    },
+    {
+      "id": 52,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 12 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 12 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "加法，和是 14"
+    },
+    {
+      "id": 53,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 11 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 11 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "加法，和是 14"
+    },
+    {
+      "id": 54,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 10 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 10 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "加法，和是 14"
+    },
+    {
+      "id": 55,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 9 = ?",
+      "answer": "14",
+      "options": [],
+      "explanation": "示范读音：14。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 9 = ?",
+        "say": "14",
+        "type": "math",
+        "ans": 14
+      },
+      "knowledge_point": "加法，和是 14"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "preschool-age5-chinese-poems-u5-kp1",
+  "title": "画",
+  "bookId": "preschool-age5-chinese-poems",
+  "unitNumber": 5,
+  "unitTitle": "画",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 9,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：远看山有色，近听水无声",
+      "answer": "远看山有色，近听水无声",
+      "options": [],
+      "explanation": "示范读音：远看山有色，近听水无声。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "远看山有色，近听水无声",
+        "say": "远看山有色，近听水无声",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "画"
+    },
+    {
+      "id": 10,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：春去花还在，人来鸟不惊",
+      "answer": "春去花还在，人来鸟不惊",
+      "options": [],
+      "explanation": "示范读音：春去花还在，人来鸟不惊。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "春去花还在，人来鸟不惊",
+        "say": "春去花还在，人来鸟不惊",
+        "type": "poem",
+        "emoji": "📜"
+      },
+      "knowledge_point": "画"
+    }
+  ],
+  "knowledge": null
+}

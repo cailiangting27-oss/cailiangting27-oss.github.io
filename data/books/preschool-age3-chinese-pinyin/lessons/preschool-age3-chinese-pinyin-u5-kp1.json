@@ -1,0 +1,81 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u5-kp1",
+  "title": "声母 g k h",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 5,
+  "unitTitle": "声母 g k h",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 19,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：g",
+      "answer": "g",
+      "options": [],
+      "explanation": "鸽子 gē gē gē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "g",
+        "say": "哥",
+        "ok": [
+          "ge*"
+        ],
+        "emoji": "🕊️",
+        "hint": "鸽子 gē gē gē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 g k h"
+    },
+    {
+      "id": 20,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：k",
+      "answer": "k",
+      "options": [],
+      "explanation": "蝌蚪 kē kē kē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "k",
+        "say": "科",
+        "ok": [
+          "ke*"
+        ],
+        "emoji": "🐸",
+        "hint": "蝌蚪 kē kē kē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 g k h"
+    },
+    {
+      "id": 21,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：h",
+      "answer": "h",
+      "options": [],
+      "explanation": "一把椅子 hē hē hē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "h",
+        "say": "喝",
+        "ok": [
+          "he*"
+        ],
+        "emoji": "🪑",
+        "hint": "一把椅子 hē hē hē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 g k h"
+    }
+  ],
+  "knowledge": null
+}

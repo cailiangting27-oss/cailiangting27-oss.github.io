@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u2-kp2",
+  "title": "单韵母四声 a · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 2,
+  "unitTitle": "单韵母四声 a",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 9,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ǎ",
+      "answer": "ǎ",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "ǎ",
+        "say": "啊",
+        "ok": [
+          "a3"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a · 第2课"
+    },
+    {
+      "id": 10,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：à",
+      "answer": "à",
+      "options": [],
+      "explanation": "注意声调",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "à",
+        "say": "啊",
+        "ok": [
+          "a4"
+        ],
+        "emoji": "",
+        "hint": "注意声调",
+        "kind": "单韵母·四声",
+        "tag": ""
+      },
+      "knowledge_point": "单韵母四声 a · 第2课"
+    }
+  ],
+  "knowledge": null
+}

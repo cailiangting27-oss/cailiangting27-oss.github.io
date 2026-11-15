@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-chinese-words-u9-kp1",
+  "title": "认字小课 9",
+  "bookId": "preschool-age5-chinese-words",
+  "unitNumber": 9,
+  "unitTitle": "认字小课 9",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 41,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：书",
+      "answer": "书",
+      "options": [],
+      "explanation": "示范读音：书。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "书",
+        "say": "书",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 9"
+    },
+    {
+      "id": 42,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：本",
+      "answer": "本",
+      "options": [],
+      "explanation": "示范读音：本。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "本",
+        "say": "本",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 9"
+    },
+    {
+      "id": 43,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：子",
+      "answer": "子",
+      "options": [],
+      "explanation": "示范读音：子。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "子",
+        "say": "子",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 9"
+    },
+    {
+      "id": 44,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：女",
+      "answer": "女",
+      "options": [],
+      "explanation": "示范读音：女。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "女",
+        "say": "女",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 9"
+    },
+    {
+      "id": 45,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：一",
+      "answer": "一",
+      "options": [],
+      "explanation": "示范读音：一。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "一",
+        "say": "一",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 9"
+    }
+  ],
+  "knowledge": null
+}

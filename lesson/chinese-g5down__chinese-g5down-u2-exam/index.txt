@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+13:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","chinese-g5down__chinese-g5down-u2-exam",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","chinese-g5down__chinese-g5down-u2-exam","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lc","$Ld"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Le"]}]}]}]}]]}]]}],{"children":["lesson","$Lf",{"children":[["lesson","chinese-g5down__chinese-g5down-u2-exam","d"],"$L10",{"children":["__PAGE__","$L11",{},null,false]},null,false]},null,false]},null,false],"$L12",false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+16:I[15104,[],"OutletBoundary"]
+18:I[94777,[],"AsyncMetadataOutlet"]
+1a:I[15104,[],"ViewportBoundary"]
+1c:I[15104,[],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+c:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+d:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+e:["$","$L14",null,{}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L15",null,["$","$L16",null,{"children":["$L17",["$","$L18",null,{"promise":"$@19"}]]}]]}]
+12:["$","$1","h",{"children":[null,[["$","$L1a",null,{"children":"$L1b"}],null],["$","$L1c",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1d",null,{"fallback":null,"children":"$L1e"}]}]}]]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+17:null
+1f:I[36505,[],"IconMark"]
+19:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1f","8",{}]],"error":null,"digest":"$undefined"}
+1e:"$19:metadata"
+20:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+21:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+15:["$","$L20",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"第 2 单元挑战"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/chinese-g5down/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L21",null,{"lesson":{"id":"chinese-g5down-u2-exam","title":"第 2 单元挑战","bookId":"chinese-g5down","unitNumber":2,"unitTitle":"古典名著之旅","kpIndex":3,"kpTotal":3,"questions":[{"id":1,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"古典名著的阅读策略","question":"读古典名著应逐字逐句查阅字典，否则无法理解其意境。","options":[],"answer":"错","explanation":"古典名著阅读应掌握策略，遇到不影响理解的生词可猜测，追求“不求甚解”的连贯性。"},{"id":2,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"《景阳冈》中武松打虎前喝了十五碗酒。","options":[],"answer":"错","explanation":"文中描写店家说“三碗不过岗”，武松总共喝了十八碗。"},{"id":4,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"鲁肃在诸葛亮借箭的过程中，始终是一个“老实人”的角色。","options":[],"answer":"对","explanation":"鲁肃忠厚守信，在周瑜和诸葛亮之间起到了平衡作用。"},{"id":5,"type":"true_false","score":2,"difficulty":3,"knowledge_point":"分析人物性格特点","question":"《红楼春趣》通过放风筝描写了贾宝玉和林黛玉等人的生活情趣。","options":[],"answer":"对","explanation":"本文选自《红楼梦》，描写了封建大家庭中青少年活泼的生活片段。"},{"id":7,"type":"choice","score":5,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"诸葛亮下令：“把船掉过来，船头朝东，船尾朝西，仍旧擂鼓呐喊”。这是为了：","options":["扰乱敌方视线","让受箭面积更大","两面受箭且平稳受力","准备弃船逃跑"],"answer":"两面受箭且平稳受力","explanation":"这样不仅能均匀受箭，还能保持船体平衡，同时方便顺水返回。"},{"id":8,"type":"choice","score":5,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"武松在喝完酒后，不听劝告。这种行为体现了他：","options":["不爱惜生命","狂傲自大的一面","完全的自信","固执己见"],"answer":"狂傲自大的一面","explanation":"明知山有虎偏向虎山行，除勇气外，也有其性格张扬狂傲的成分。"},{"id":10,"type":"choice","score":5,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"石猴在众猴面前承诺：“若能钻进去寻个源头出来，不伤身体者，我等即拜他为王。”体现了石猴：","options":["心思缜密","勇于挑重担","贪图名利","喜欢显摆"],"answer":"勇于挑重担","explanation":"作为石猴，他在生死未卜面前敢于尝试，体现了英雄气概。"},{"id":11,"type":"choice","score":5,"difficulty":3,"knowledge_point":"古典名著的阅读策略","question":"阅读古典名著时，对于不理解或难懂的长诗、赞词，比较合理的做法是：","options":["必须全部背诵下来","反复查字典直到弄通每一个字","跳过去先读后面情节","撕掉以免干扰阅读"],"answer":"跳过去先读后面情节","explanation":"名著中常穿插诗词，初学阅读策略建议先略过，抓住主线情节。"},{"id":13,"type":"choice","score":5,"difficulty":1,"knowledge_point":"古典名著的阅读策略","question":"“美猴王”这个称号是在什么时候得到的？","options":["大闹天宫后","跟随唐僧后","跳入水帘洞称王后","取经成功后"],"answer":"跳入水帘洞称王后","explanation":"石猴进洞后，众猴履行诺言，拜他为千岁大王，遂称美猴王。"},{"id":14,"type":"choice","score":5,"difficulty":2,"knowledge_point":"古典名著的阅读策略","question":"下列哪个故事不是出自《三国演义》？","options":["火烧赤壁","空城计","武松打虎","三顾茅庐"],"answer":"武松打虎","explanation":"武松打虎属于《水浒传》的情节。"},{"id":16,"type":"fill_blank_text","score":5,"difficulty":1,"knowledge_point":"古典名著的阅读策略","question":"“齐天大圣”是《西游记》中（___）获得的封号。","options":[],"answer":"孙悟空","explanation":"这是孙悟空在花果山时期为自己争取到的称号。"},{"id":17,"type":"fill_blank_text","score":5,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"武松因酒后不听劝上山，是因为他在店里喝了（___）碗酒。","options":[],"answer":"十八","explanation":"课文及原著明确记载武松连喝十八碗后上山。"},{"id":19,"type":"matching","score":5,"difficulty":2,"knowledge_point":"分析人物性格特点","question":"请将人物与其经典语言（心理）连线：","options":["诸葛亮","武松","周瑜","鲁肃","不如诸葛亮","哪有老虎","我自带船","不知深浅"],"answer":"A-3,B-2,C-1,D-4","explanation":"周瑜叹“难胜诸葛亮”，武松认为没虎，诸葛亮自信带船，鲁肃不知虚实。"},{"id":20,"type":"matching","score":5,"difficulty":2,"knowledge_point":"古典名著的阅读策略","question":"请将古代计量词语与现代释义连线：","options":["一里","一两","一更","一旬","重量单位","距离单位","十天","时间段"],"answer":"A-2,B-1,C-4,D-3","explanation":"里为长度，两为重量，更为时间单元，旬为十天。"},{"id":22,"type":"word_order","score":5,"difficulty":2,"knowledge_point":"古典名著的阅读策略","question":"请按照武松在景阳冈上的动态变化排序：","options":["喝酒","见画贴","上冈","打虎"],"answer":"喝酒,上冈,见画贴,打虎","explanation":"武松先在店里喝酒，然后上冈，看到告示（画贴），最后打虎。"}],"knowledge":null},"chestSlot":null,"requiredPriorLessons":[]}]}]

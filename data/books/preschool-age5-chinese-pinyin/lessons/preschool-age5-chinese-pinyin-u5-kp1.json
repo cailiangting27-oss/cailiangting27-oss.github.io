@@ -1,0 +1,104 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u5-kp1",
+  "title": "翘舌音 zh ch sh r",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 5,
+  "unitTitle": "翘舌音 zh ch sh r",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 50,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：zh",
+      "answer": "zh",
+      "options": [],
+      "explanation": "翘舌音：舌尖翘起来",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "zh",
+        "say": "知",
+        "ok": [
+          "zhi*"
+        ],
+        "emoji": "🕷️",
+        "hint": "翘舌音：舌尖翘起来",
+        "tag": "翘舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "翘舌音 zh ch sh r"
+    },
+    {
+      "id": 51,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：ch",
+      "answer": "ch",
+      "options": [],
+      "explanation": "翘舌音：舌尖翘起来",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "ch",
+        "say": "吃",
+        "ok": [
+          "chi*"
+        ],
+        "emoji": "🍽️",
+        "hint": "翘舌音：舌尖翘起来",
+        "tag": "翘舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "翘舌音 zh ch sh r"
+    },
+    {
+      "id": 52,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：sh",
+      "answer": "sh",
+      "options": [],
+      "explanation": "翘舌音：舌尖翘起来",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "sh",
+        "say": "诗",
+        "ok": [
+          "shi*"
+        ],
+        "emoji": "🦁",
+        "hint": "翘舌音：舌尖翘起来",
+        "tag": "翘舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "翘舌音 zh ch sh r"
+    },
+    {
+      "id": 53,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：r",
+      "answer": "r",
+      "options": [],
+      "explanation": "翘舌音：舌尖翘起来",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "r",
+        "say": "日",
+        "ok": [
+          "ri*"
+        ],
+        "emoji": "☀️",
+        "hint": "翘舌音：舌尖翘起来",
+        "tag": "翘舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "翘舌音 zh ch sh r"
+    }
+  ],
+  "knowledge": null
+}

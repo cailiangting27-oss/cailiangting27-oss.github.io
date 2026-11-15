@@ -1,0 +1,96 @@
+{
+  "id": "preschool-age2-chinese-pinyin-u7-kp1",
+  "title": "两拼音节 1",
+  "bookId": "preschool-age2-chinese-pinyin",
+  "unitNumber": 7,
+  "unitTitle": "两拼音节 1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 22,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：bà",
+      "answer": "bà",
+      "options": [],
+      "explanation": "爸",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "bà",
+        "say": "爸",
+        "ok": null,
+        "emoji": "👨",
+        "hint": "爸",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 1"
+    },
+    {
+      "id": 23,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：mā",
+      "answer": "mā",
+      "options": [],
+      "explanation": "妈",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "mā",
+        "say": "妈",
+        "ok": null,
+        "emoji": "👩",
+        "hint": "妈",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 1"
+    },
+    {
+      "id": 24,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：gē",
+      "answer": "gē",
+      "options": [],
+      "explanation": "哥",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "gē",
+        "say": "哥",
+        "ok": null,
+        "emoji": "👦",
+        "hint": "哥",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 1"
+    },
+    {
+      "id": 25,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：dà",
+      "answer": "dà",
+      "options": [],
+      "explanation": "大",
+      "preschoolGrade": -3,
+      "speak": {
+        "show": "dà",
+        "say": "大",
+        "ok": null,
+        "emoji": "🐘",
+        "hint": "大",
+        "kind": "两拼音节",
+        "syllable": true
+      },
+      "knowledge_point": "两拼音节 1"
+    }
+  ],
+  "knowledge": null
+}

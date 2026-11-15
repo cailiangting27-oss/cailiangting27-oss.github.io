@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age5-moral-safety-u1-kp1",
+  "title": "安全知识 1",
+  "bookId": "preschool-age5-moral-safety",
+  "unitNumber": 1,
+  "unitTitle": "安全知识 1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "过马路，什么灯亮了才可以牵大人的手走？",
+      "answer": "🟢",
+      "options": [
+        "🔴",
+        "🟢"
+      ],
+      "explanation": "一起再听一遍：🟢。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "红灯",
+        "绿灯"
+      ],
+      "knowledge_point": "安全知识 1"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "看到插座和玩具，要玩哪一个？",
+      "answer": "🧸",
+      "options": [
+        "🔌",
+        "🧸"
+      ],
+      "explanation": "一起再听一遍：🧸。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "插座不能碰",
+        "玩具熊"
+      ],
+      "knowledge_point": "安全知识 1"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "吃东西前，应该先做什么？",
+      "answer": "🧼🤲",
+      "options": [
+        "🧼🤲",
+        "🛌"
+      ],
+      "explanation": "一起再听一遍：🧼🤲。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "洗手",
+        "睡觉"
+      ],
+      "knowledge_point": "安全知识 1"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "下雨出门应该带什么？",
+      "answer": "☂️",
+      "options": [
+        "☂️",
+        "🕶️"
+      ],
+      "explanation": "一起再听一遍：☂️。",
+      "preschoolGrade": -1,
+      "pictureOptions": true,
+      "optionLabels": [
+        "雨伞",
+        "墨镜"
+      ],
+      "knowledge_point": "安全知识 1"
+    }
+  ],
+  "knowledge": null
+}

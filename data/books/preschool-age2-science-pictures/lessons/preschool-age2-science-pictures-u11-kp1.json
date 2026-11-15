@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-science-pictures-u11-kp1",
+  "title": "找形状",
+  "bookId": "preschool-age2-science-pictures",
+  "unitNumber": 11,
+  "unitTitle": "找形状",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 41,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是圆形？",
+      "answer": "🔴",
+      "options": [
+        "🔴",
+        "🟦"
+      ],
+      "explanation": "一起再听一遍：🔴。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "圆形",
+        "正方形"
+      ],
+      "knowledge_point": "找形状"
+    },
+    {
+      "id": 42,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是正方形？",
+      "answer": "🟦",
+      "options": [
+        "🟦",
+        "🔺"
+      ],
+      "explanation": "一起再听一遍：🟦。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "正方形",
+        "三角形"
+      ],
+      "knowledge_point": "找形状"
+    },
+    {
+      "id": 43,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是三角形？",
+      "answer": "🔺",
+      "options": [
+        "🔺",
+        "▬"
+      ],
+      "explanation": "一起再听一遍：🔺。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "三角形",
+        "长方形"
+      ],
+      "knowledge_point": "找形状"
+    },
+    {
+      "id": 44,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是长方形？",
+      "answer": "▬",
+      "options": [
+        "▬",
+        "🔴"
+      ],
+      "explanation": "一起再听一遍：▬。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "长方形",
+        "圆形"
+      ],
+      "knowledge_point": "找形状"
+    }
+  ],
+  "knowledge": null
+}

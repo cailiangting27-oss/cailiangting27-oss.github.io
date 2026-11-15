@@ -1,0 +1,81 @@
+{
+  "id": "preschool-age5-chinese-pinyin-u4-kp1",
+  "title": "平舌音 z c s",
+  "bookId": "preschool-age5-chinese-pinyin",
+  "unitNumber": 4,
+  "unitTitle": "平舌音 z c s",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 47,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：z",
+      "answer": "z",
+      "options": [],
+      "explanation": "平舌音：舌尖平平的",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "z",
+        "say": "资",
+        "ok": [
+          "zi*"
+        ],
+        "emoji": "✍️",
+        "hint": "平舌音：舌尖平平的",
+        "tag": "平舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "平舌音 z c s"
+    },
+    {
+      "id": 48,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：c",
+      "answer": "c",
+      "options": [],
+      "explanation": "平舌音：舌尖平平的",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "c",
+        "say": "刺",
+        "ok": [
+          "ci*"
+        ],
+        "emoji": "🦔",
+        "hint": "平舌音：舌尖平平的",
+        "tag": "平舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "平舌音 z c s"
+    },
+    {
+      "id": 49,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：s",
+      "answer": "s",
+      "options": [],
+      "explanation": "平舌音：舌尖平平的",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "s",
+        "say": "丝",
+        "ok": [
+          "si*"
+        ],
+        "emoji": "🐛",
+        "hint": "平舌音：舌尖平平的",
+        "tag": "平舌音",
+        "kind": "声母"
+      },
+      "knowledge_point": "平舌音 z c s"
+    }
+  ],
+  "knowledge": null
+}

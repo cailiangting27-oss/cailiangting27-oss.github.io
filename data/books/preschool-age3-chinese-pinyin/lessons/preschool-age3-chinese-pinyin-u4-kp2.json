@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u4-kp2",
+  "title": "声母 d t n l · 第2课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 4,
+  "unitTitle": "声母 d t n l",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 17,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：n",
+      "answer": "n",
+      "options": [],
+      "explanation": "一个门洞 nē nē nē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "n",
+        "say": "讷",
+        "ok": [
+          "ne*"
+        ],
+        "emoji": "🚪",
+        "hint": "一个门洞 nē nē nē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l · 第2课"
+    },
+    {
+      "id": 18,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：l",
+      "answer": "l",
+      "options": [],
+      "explanation": "一根小棍 lē lē lē",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "l",
+        "say": "勒",
+        "ok": [
+          "le*"
+        ],
+        "emoji": "🥢",
+        "hint": "一根小棍 lē lē lē",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 d t n l · 第2课"
+    }
+  ],
+  "knowledge": null
+}

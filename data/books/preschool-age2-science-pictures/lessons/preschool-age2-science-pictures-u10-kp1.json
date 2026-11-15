@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age2-science-pictures-u10-kp1",
+  "title": "找颜色",
+  "bookId": "preschool-age2-science-pictures",
+  "unitNumber": 10,
+  "unitTitle": "找颜色",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 37,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是红色？",
+      "answer": "🔴",
+      "options": [
+        "🔴",
+        "🟡"
+      ],
+      "explanation": "一起再听一遍：🔴。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "红色",
+        "黄色"
+      ],
+      "knowledge_point": "找颜色"
+    },
+    {
+      "id": 38,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是黄色？",
+      "answer": "🟡",
+      "options": [
+        "🟡",
+        "🔵"
+      ],
+      "explanation": "一起再听一遍：🟡。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "黄色",
+        "蓝色"
+      ],
+      "knowledge_point": "找颜色"
+    },
+    {
+      "id": 39,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是蓝色？",
+      "answer": "🔵",
+      "options": [
+        "🔵",
+        "🟢"
+      ],
+      "explanation": "一起再听一遍：🔵。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "蓝色",
+        "绿色"
+      ],
+      "knowledge_point": "找颜色"
+    },
+    {
+      "id": 40,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "哪一个是绿色？",
+      "answer": "🟢",
+      "options": [
+        "🟢",
+        "🔴"
+      ],
+      "explanation": "一起再听一遍：🟢。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "绿色",
+        "红色"
+      ],
+      "knowledge_point": "找颜色"
+    }
+  ],
+  "knowledge": null
+}

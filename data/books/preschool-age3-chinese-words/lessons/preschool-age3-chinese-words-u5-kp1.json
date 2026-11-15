@@ -1,0 +1,84 @@
+{
+  "id": "preschool-age3-chinese-words-u5-kp1",
+  "title": "认识汉字 5",
+  "bookId": "preschool-age3-chinese-words",
+  "unitNumber": 5,
+  "unitTitle": "认识汉字 5",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 17,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：小",
+      "answer": "小",
+      "options": [],
+      "explanation": "示范读音：小。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "小",
+        "say": "小",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 5"
+    },
+    {
+      "id": 18,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：多",
+      "answer": "多",
+      "options": [],
+      "explanation": "示范读音：多。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "多",
+        "say": "多",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 5"
+    },
+    {
+      "id": 19,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：少",
+      "answer": "少",
+      "options": [],
+      "explanation": "示范读音：少。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "少",
+        "say": "少",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 5"
+    },
+    {
+      "id": 20,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：中",
+      "answer": "中",
+      "options": [],
+      "explanation": "示范读音：中。",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "中",
+        "say": "中",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认识汉字 5"
+    }
+  ],
+  "knowledge": null
+}

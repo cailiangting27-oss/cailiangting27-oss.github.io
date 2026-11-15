@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-chinese-words-u5-kp1",
+  "title": "认字小课 5",
+  "bookId": "preschool-age5-chinese-words",
+  "unitNumber": 5,
+  "unitTitle": "认字小课 5",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 21,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：开",
+      "answer": "开",
+      "options": [],
+      "explanation": "示范读音：开。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "开",
+        "say": "开",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 5"
+    },
+    {
+      "id": 22,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：门",
+      "answer": "门",
+      "options": [],
+      "explanation": "示范读音：门。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "门",
+        "say": "门",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 5"
+    },
+    {
+      "id": 23,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：目",
+      "answer": "目",
+      "options": [],
+      "explanation": "示范读音：目。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "目",
+        "say": "目",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 5"
+    },
+    {
+      "id": 24,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：耳",
+      "answer": "耳",
+      "options": [],
+      "explanation": "示范读音：耳。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "耳",
+        "say": "耳",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 5"
+    },
+    {
+      "id": 25,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：头",
+      "answer": "头",
+      "options": [],
+      "explanation": "示范读音：头。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "头",
+        "say": "头",
+        "word": true,
+        "type": "word"
+      },
+      "knowledge_point": "认字小课 5"
+    }
+  ],
+  "knowledge": null
+}

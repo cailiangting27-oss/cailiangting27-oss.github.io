@@ -1,0 +1,58 @@
+{
+  "id": "preschool-age3-chinese-pinyin-u3-kp1",
+  "title": "声母 b p m f · 第1课",
+  "bookId": "preschool-age3-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "声母 b p m f",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 11,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：b",
+      "answer": "b",
+      "options": [],
+      "explanation": "像收音机 bō bō bō",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "b",
+        "say": "玻",
+        "ok": [
+          "bo*"
+        ],
+        "emoji": "📻",
+        "hint": "像收音机 bō bō bō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 b p m f · 第1课"
+    },
+    {
+      "id": 12,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：p",
+      "answer": "p",
+      "options": [],
+      "explanation": "小坡 pō pō pō",
+      "preschoolGrade": -2,
+      "speak": {
+        "show": "p",
+        "say": "坡",
+        "ok": [
+          "po*"
+        ],
+        "emoji": "⛰️",
+        "hint": "小坡 pō pō pō",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 b p m f · 第1课"
+    }
+  ],
+  "knowledge": null
+}

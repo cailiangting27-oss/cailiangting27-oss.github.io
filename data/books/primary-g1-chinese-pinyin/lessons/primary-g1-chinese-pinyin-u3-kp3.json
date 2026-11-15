@@ -1,0 +1,100 @@
+{
+  "id": "primary-g1-chinese-pinyin-u3-kp3",
+  "title": "声母 · 第3课",
+  "bookId": "primary-g1-chinese-pinyin",
+  "unitNumber": 3,
+  "unitTitle": "声母",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 43,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：q",
+      "answer": "q",
+      "options": [],
+      "explanation": "气球 qī qī qī",
+      "speak": {
+        "show": "q",
+        "say": "七",
+        "ok": [
+          "qi*"
+        ],
+        "emoji": "🎈",
+        "hint": "气球 qī qī qī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 44,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：x",
+      "answer": "x",
+      "options": [],
+      "explanation": "西瓜 xī xī xī",
+      "speak": {
+        "show": "x",
+        "say": "西",
+        "ok": [
+          "xi*"
+        ],
+        "emoji": "🍉",
+        "hint": "西瓜 xī xī xī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 45,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：y",
+      "answer": "y",
+      "options": [],
+      "explanation": "衣服 yī yī yī",
+      "speak": {
+        "show": "y",
+        "say": "衣",
+        "ok": [
+          "yi*"
+        ],
+        "emoji": "👕",
+        "hint": "衣服 yī yī yī",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    },
+    {
+      "id": 46,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：w",
+      "answer": "w",
+      "options": [],
+      "explanation": "乌鸦 wū wū wū",
+      "speak": {
+        "show": "w",
+        "say": "乌",
+        "ok": [
+          "wu*"
+        ],
+        "emoji": "🐦‍⬛",
+        "hint": "乌鸦 wū wū wū",
+        "tag": "",
+        "kind": "声母"
+      },
+      "knowledge_point": "声母 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

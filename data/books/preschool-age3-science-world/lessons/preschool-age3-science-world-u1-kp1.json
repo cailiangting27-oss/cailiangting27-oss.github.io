@@ -1,0 +1,92 @@
+{
+  "id": "preschool-age3-science-world-u1-kp1",
+  "title": "家里的东西",
+  "bookId": "preschool-age3-science-world",
+  "unitNumber": 1,
+  "unitTitle": "家里的东西",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是杯子？",
+      "answer": "🥤",
+      "options": [
+        "🥤",
+        "🛏️"
+      ],
+      "explanation": "一起再听一遍：🥤。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "杯子",
+        "床"
+      ],
+      "knowledge_point": "家里的东西"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是床？",
+      "answer": "🛏️",
+      "options": [
+        "🪑",
+        "🛏️"
+      ],
+      "explanation": "一起再听一遍：🛏️。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "椅子",
+        "床"
+      ],
+      "knowledge_point": "家里的东西"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是椅子？",
+      "answer": "🪑",
+      "options": [
+        "🪑",
+        "🚪"
+      ],
+      "explanation": "一起再听一遍：🪑。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "椅子",
+        "门"
+      ],
+      "knowledge_point": "家里的东西"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "找一找，哪一个是门？",
+      "answer": "🚪",
+      "options": [
+        "🥤",
+        "🚪"
+      ],
+      "explanation": "一起再听一遍：🚪。",
+      "preschoolGrade": -2,
+      "pictureOptions": true,
+      "optionLabels": [
+        "杯子",
+        "门"
+      ],
+      "knowledge_point": "家里的东西"
+    }
+  ],
+  "knowledge": null
+}

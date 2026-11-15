@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+3:I[76701,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"default"]
+4:I[76811,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ThemeProvider"]
+5:I[41312,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"ToastProvider"]
+6:I[6753,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"StoreHydrator"]
+7:I[65881,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"DailyRewardWatcher"]
+8:I[92812,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"AchievementWatcher"]
+9:I[19392,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"LeagueWatcher"]
+a:I[85341,[],""]
+b:I[90025,[],""]
+12:I[34431,[],""]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/5ff6c35f4f0e98ce.css","style"]
+2:T879,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    // 原生 App（Capacitor: https://localhost / Tauri: tauri.localhost）资源已随包本地打包，
+    // Service Worker 只会带来「APK 更新后旧缓存残留 + 静态 chunk / 导航请求被 SW 拦截」
+    // 导致白屏卡死（安卓真机复现：首页卡住不动）。故原生端：立即注销遗留 SW 并清空缓存，
+    // 且不再注册。Web 端（真实域名 / 离线包 LAN IP）才注册，保留离线能力。
+    var host = location.hostname;
+    var proto = location.protocol;
+    var isNativeApp =
+      proto === "capacitor:" ||
+      proto === "file:" ||
+      (proto === "https:" && host === "localhost") ||
+      host === "tauri.localhost" ||
+      host === "appassets.androidplatform.net";
+    if (isNativeApp) {
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (keys) {
+          keys.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  }
+
+})();
+0:{"P":null,"b":"kTUdOV0gt5IaXbe7HmURo","p":"","c":["","lesson","g5up__g5up-u7-exam",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","g5up__g5up-u7-exam","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/5ff6c35f4f0e98ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$Lc"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Ld"]}]}]}]}]]}]]}],{"children":["lesson","$Le",{"children":[["lesson","g5up__g5up-u7-exam","d"],"$Lf",{"children":["__PAGE__","$L10",{},null,false]},null,false]},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[77273,["8070","static/chunks/8070-c442cf74d0e5907b.js","3764","static/chunks/3764-28cd65ff6bbb6be9.js","1763","static/chunks/1763-aa4afa09b69ddf45.js","8951","static/chunks/8951-4f6ebb564030ec39.js","2907","static/chunks/2907-ef97126ac2ebb8ef.js","7177","static/chunks/app/layout-88a2ed35c734bc7a.js"],"BottomNav"]
+15:I[15104,[],"OutletBoundary"]
+17:I[94777,[],"AsyncMetadataOutlet"]
+19:I[15104,[],"ViewportBoundary"]
+1b:I[15104,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+c:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+d:["$","$L13",null,{}]
+e:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],null],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+16:null
+1e:I[36505,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L1e","8",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"
+1f:I[64743,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+20:I[48694,["5058","static/chunks/5058-ab95f26b4d4d9065.js","8951","static/chunks/8951-4f6ebb564030ec39.js","356","static/chunks/app/lesson/lesson/page-2c852f2a8bd58923.js"],"default"]
+14:["$","$L1f",null,{"fallback":["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 text-center","children":[["$","h1",null,{"className":"text-2xl font-extrabold text-ink","children":"第 7 单元挑战"}],["$","p",null,{"className":"mt-3 text-sm text-ink-light","children":"课程组件加载失败，可返回教材页重试。"}],["$","a",null,{"href":"/book/g5up/","className":"btn-chunky-primary mt-6 px-8","children":"返回教材"}]]}],"children":["$","$L20",null,{"lesson":{"id":"g5up-u7-exam","title":"第 7 单元挑战","bookId":"g5up","unitNumber":7,"unitTitle":"数学广角——植树问题","kpIndex":3,"kpTotal":3,"questions":[{"id":1,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"在一条直线上植树，如果两端都不栽，棵数比间隔数少 1。","options":[],"answer":"对","explanation":"这是两端不栽的典型特征。例如 2 个间隔中间只有 1 棵树。"},{"id":2,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"封闭路线的植树规律","question":"周长 100 米的圆和周长 100 米的正方形，按相同间隔植树，棵数一样多。","options":[],"answer":"对","explanation":"无论是什么形状，只要是封闭曲线，棵数都等于全长除以间隔长度。"},{"id":4,"type":"true_false","score":2,"difficulty":3,"knowledge_point":"植树问题的综合转化","question":"把 10 根短绳结成一个大圆圈，一共要打 10 个结。","options":[],"answer":"对","explanation":"绳子结成圈属于封闭植树模型，绳子数 = 打结数。"},{"id":5,"type":"true_false","score":2,"difficulty":2,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"马拉松比赛，每 5 千米设一个饮水站（起点设，终点不设），15 千米的路程共设 3 个饮水站。","options":[],"answer":"对","explanation":"一端种一端不种的情况下，站数 = 间隔数 = $15 \\div 5 = 3$ 个。"},{"id":7,"type":"choice","score":5,"difficulty":1,"knowledge_point":"植树问题的综合转化","question":"时钟 4 点钟敲 4 下，6 秒钟敲完。那么 12 点钟敲 12 下，需要多少秒？","options":["18","22","24","12"],"answer":"22","explanation":"敲 4 下有 3 个间隔，$6 \\div 3 = 2$ 秒/个。敲 12 下有 11 个间隔，$11 \\times 2 = 22$ 秒。"},{"id":8,"type":"choice","score":5,"difficulty":2,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"在一段 600 米长的公路一侧，每隔 5 米种一棵柳树（两端都种），一共要种多少棵？","options":["120","121","119","242"],"answer":"121","explanation":"间隔数 = $600 \\div 5 = 120$。两端都种：$120 + 1 = 121$ 棵。"},{"id":10,"type":"choice","score":5,"difficulty":3,"knowledge_point":"植树问题的综合转化","question":"广场上的大钟 5 时敲 5 下，8 秒敲完。10 时敲 10 下，需要几秒？","options":["16","18","20","15"],"answer":"18","explanation":"5下 4 个间隔，每个间隔 $8 \\div 4 = 2$ 秒。10下 9 个间隔，$9 \\times 2 = 18$ 秒。"},{"id":11,"type":"choice","score":5,"difficulty":2,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"同学们在全长 100 米的小路一边植树，每隔 5 米栽一棵（两端都不栽）。一共需树苗几棵？","options":["20","21","19","22"],"answer":"19","explanation":"间隔数 = $100 \\div 5 = 20$。两端都不栽 = $20 - 1 = 19$ 棵。"},{"id":13,"type":"choice","score":5,"difficulty":3,"knowledge_point":"封闭路线的植树规律","question":"一个圆形跑道长 400 米，每隔 10 米插一面红旗，每两面红旗中间插一面黄旗。黄旗有多少面？","options":["40","39","41","80"],"answer":"40","explanation":"红旗数 = $400 \\div 10 = 40$。在圆周上，红旗间的间隔数等于红旗数，所以也是 40 个间隔。每个间隔插 1 面黄旗，共 40 面。"},{"id":14,"type":"choice","score":5,"difficulty":2,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"两座楼房之间相距 40 米，每隔 4 米栽一棵树，一共栽几棵？","options":["11","10","9","8"],"answer":"9","explanation":"两楼之间意味着两端都不能种树。间隔数 = $40 \\div 4 = 10$。棵数 = $10 - 1 = 9$ 棵。"},{"id":16,"type":"choice","score":5,"difficulty":2,"knowledge_point":"封闭路线的植树规律","question":"一个五边形水池，五条边共长 50 米。在池边每隔 2 米摆一盆花，包括五个角，一共需多少盆？","options":["25","26","24","50"],"answer":"25","explanation":"封闭多边形，棵数 = 间隔数。$50 \\div 2 = 25$ 盆。"},{"id":17,"type":"choice","score":5,"difficulty":1,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"在一个路口处有 11 根电线杆，相邻两根间距 20 米，第一根到最后一根距离多少米？","options":["200","220","180","110"],"answer":"200","explanation":"间隔数 = $11 - 1 = 10$ 个。距离 = $10 \\times 20 = 200$ 米。"},{"id":19,"type":"fill_blank","score":5,"difficulty":1,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"一条走廊长 24 米，每隔 3 米放一盆花（两端都放），一共要放 ___ 盆。","options":[],"answer":"9","explanation":"间隔数：$24 \\div 3 = 8$。两端都放：$8 + 1 = 9$ 盆。验算：$(9-1) \\times 3 = 24$✓。"},{"id":20,"type":"fill_blank","score":5,"difficulty":2,"knowledge_point":"封闭路线的植树规律","question":"一个圆形花坛在四周摆了 12 盆花，每两盆花之间间隔 3 米。这个花坛的周长是 ___ 米。","options":[],"answer":"36","explanation":"封闭图形中，间隔数 = 棵数 = 12 个。周长 = $12 \\times 3 = 36$ 米。验算：$36 \\div 3 = 12$✓。"},{"id":22,"type":"calculation","score":5,"difficulty":2,"knowledge_point":"直线上的植树问题（两端都栽 / 两端不栽）","question":"计算：$(36 \\div 4) - 1 = ?$","options":[],"answer":"8","explanation":"$$36 \\div 4 = 9, 9 - 1 = 8$。验算：$(8 + 1) \\times 4 = 36$✓。"}],"knowledge":null},"chestSlot":null,"requiredPriorLessons":[]}]}]

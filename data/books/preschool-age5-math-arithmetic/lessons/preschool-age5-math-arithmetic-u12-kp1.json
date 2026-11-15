@@ -1,0 +1,102 @@
+{
+  "id": "preschool-age5-math-arithmetic-u12-kp1",
+  "title": "加法，和是 13",
+  "bookId": "preschool-age5-math-arithmetic",
+  "unitNumber": 12,
+  "unitTitle": "加法，和是 13",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 46,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：1 + 12 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "1 + 12 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "加法，和是 13"
+    },
+    {
+      "id": 47,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：2 + 11 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "2 + 11 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "加法，和是 13"
+    },
+    {
+      "id": 48,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：3 + 10 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "3 + 10 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "加法，和是 13"
+    },
+    {
+      "id": 49,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：4 + 9 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "4 + 9 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "加法，和是 13"
+    },
+    {
+      "id": 50,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "算一算，说出答案：5 + 8 = ?",
+      "answer": "13",
+      "options": [],
+      "explanation": "示范读音：13。",
+      "preschoolGrade": -1,
+      "speak": {
+        "show": "5 + 8 = ?",
+        "say": "13",
+        "type": "math",
+        "ans": 13
+      },
+      "knowledge_point": "加法，和是 13"
+    }
+  ],
+  "knowledge": null
+}

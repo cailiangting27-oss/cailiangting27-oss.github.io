@@ -1,0 +1,100 @@
+{
+  "id": "primary-g1-chinese-pinyin-u10-kp3",
+  "title": "整体认读音节 · 第3课",
+  "bookId": "primary-g1-chinese-pinyin",
+  "unitNumber": 10,
+  "unitTitle": "整体认读音节",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 84,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：yuán",
+      "answer": "yuán",
+      "options": [],
+      "explanation": "整体认读，不用拼",
+      "speak": {
+        "show": "yuán",
+        "say": "圆",
+        "ok": [
+          "yuan2"
+        ],
+        "emoji": "⭕",
+        "hint": "整体认读，不用拼",
+        "tag": "",
+        "kind": "整体认读音节"
+      },
+      "knowledge_point": "整体认读音节 · 第3课"
+    },
+    {
+      "id": 85,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：yīn",
+      "answer": "yīn",
+      "options": [],
+      "explanation": "整体认读，不用拼",
+      "speak": {
+        "show": "yīn",
+        "say": "音",
+        "ok": [
+          "yin1"
+        ],
+        "emoji": "🎵",
+        "hint": "整体认读，不用拼",
+        "tag": "",
+        "kind": "整体认读音节"
+      },
+      "knowledge_point": "整体认读音节 · 第3课"
+    },
+    {
+      "id": 86,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：yún",
+      "answer": "yún",
+      "options": [],
+      "explanation": "整体认读，不用拼",
+      "speak": {
+        "show": "yún",
+        "say": "云",
+        "ok": [
+          "yun2"
+        ],
+        "emoji": "☁️",
+        "hint": "整体认读，不用拼",
+        "tag": "",
+        "kind": "整体认读音节"
+      },
+      "knowledge_point": "整体认读音节 · 第3课"
+    },
+    {
+      "id": 87,
+      "type": "speak",
+      "score": 1,
+      "difficulty": 1,
+      "question": "听一听，跟着读：yīng",
+      "answer": "yīng",
+      "options": [],
+      "explanation": "整体认读，不用拼",
+      "speak": {
+        "show": "yīng",
+        "say": "鹰",
+        "ok": [
+          "ying1"
+        ],
+        "emoji": "🦅",
+        "hint": "整体认读，不用拼",
+        "tag": "",
+        "kind": "整体认读音节"
+      },
+      "knowledge_point": "整体认读音节 · 第3课"
+    }
+  ],
+  "knowledge": null
+}

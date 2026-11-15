@@ -1,0 +1,72 @@
+{
+  "id": "preschool-age2-science-pictures-u14-kp1",
+  "title": "一起数数 4、5、1",
+  "bookId": "preschool-age2-science-pictures",
+  "unitNumber": 14,
+  "unitTitle": "一起数数 4、5、1",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 52,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "请点有4个苹果的图片。",
+      "answer": "🍎🍎🍎🍎",
+      "options": [
+        "🍎🍎🍎🍎",
+        "🍎🍎🍎🍎🍎"
+      ],
+      "explanation": "一起再听一遍：🍎🍎🍎🍎。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "4个苹果",
+        "5个苹果"
+      ],
+      "knowledge_point": "一起数数 4、5、1"
+    },
+    {
+      "id": 53,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "请点有5个苹果的图片。",
+      "answer": "🍎🍎🍎🍎🍎",
+      "options": [
+        "🍎🍎🍎🍎🍎",
+        "🍎🍎"
+      ],
+      "explanation": "一起再听一遍：🍎🍎🍎🍎🍎。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "5个苹果",
+        "2个苹果"
+      ],
+      "knowledge_point": "一起数数 4、5、1"
+    },
+    {
+      "id": 54,
+      "type": "choice",
+      "score": 1,
+      "difficulty": 1,
+      "question": "请点有1个苹果的图片。",
+      "answer": "🍎",
+      "options": [
+        "🍎",
+        "🍎🍎"
+      ],
+      "explanation": "一起再听一遍：🍎。",
+      "preschoolGrade": -3,
+      "pictureOptions": true,
+      "optionLabels": [
+        "1个苹果",
+        "2个苹果"
+      ],
+      "knowledge_point": "一起数数 4、5、1"
+    }
+  ],
+  "knowledge": null
+}
