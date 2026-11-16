@@ -23,14 +23,12 @@
       "answer": "three",
       "explanation": "3 = three。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/da/dac9097c80470ed7cdccbd6af15775a86e421068.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b8/b802f384302cb24fbab0a44997e820bf2e8507bb.mp3",
           "https://api.clthuanxie.cn/cc-audio/80/80655da8d80aaaf92ce5357e7828dc09adb00993.mp3",
           "https://api.clthuanxie.cn/cc-audio/34/34fb3300b9a77bebdc988ec3edd0d4a6a42a26f9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/4f/4ff88aaddbd209d8026924c2cc2836b408698823.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19741884aa7e0a42be4aa52c8e98bb819bab339d.mp3"
+          null
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "Good night",
       "explanation": "Good night = 晚安。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c15f6429176d81257b949f17a93ae57c0d17f8b.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
           "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
           "https://api.clthuanxie.cn/cc-audio/6a/6a4f54efe3b40734df6708630f3050c409c709a5.mp3",
           "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/50/503cb640667f7995de69fa847a7d9ae78a96d505.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "nine 的意思是 9。",
       "options": [],
       "answer": "对",
-      "explanation": "9 = nine。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d7/d78aabec59534e6034d81de8b5e279a3626cd621.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c4cfc1f086310916864fcb75a00b9ad7d20919c.mp3"
-      }
+      "explanation": "9 = nine。"
     },
     {
       "id": 8,
@@ -83,11 +75,7 @@
       "question": "Good afternoon 用于下午问候。",
       "options": [],
       "answer": "对",
-      "explanation": "按时段。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/97/97c8ca2e17f2860f3a4816f22743ae0af6f82b42.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/51/514f2e2610b06950deb0f15edae67521043e269d.mp3"
-      }
+      "explanation": "按时段。"
     }
   ],
   "knowledge": null

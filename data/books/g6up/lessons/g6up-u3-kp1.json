@@ -18,8 +18,8 @@
       "answer": "对",
       "explanation": "乘积为 1 的两个数互为倒数。因为 $0.25 \\times 4 = 1$，符合定义。验算：$1/4 \\times 4 = 1$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/26/264990916780909da0620484615e22c7109f6626.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2049f7d132a0987d58c5c11d4727a1ce28c77e4.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/02/026c37884def3e33ce6f6d73c612b394422e24c9.edge-5466033158df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9c1e344c0bb9a5812a861415f93ee7a3ecdd2c6.edge-fa33e6f1c2fa.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
       "explanation": "$1 \\times 1 = 1$，所以 1 的倒数是 1；但 0 不能作除数，且找不到任何数与之相乘得 1，所以 0 没有倒数。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/1f/1f082b22e13dcee1cf0f767bb701605d8b3cd4cb.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/98/988aff055de644f18120ce0f40446e69c931fbb2.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0faa41cdbe0048706dc156895e1974cc02b53717.edge-bc423466e47e.mp3"
       }
     },
     {
@@ -55,12 +55,12 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/0e/0eb9b249e97e7f768160c4add5b2f02f9bb2ea4b.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/ef/efdb2df60e7b8c11324ec281a94c3e56600ce1bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b1df21e29fa4421de0a04e881e47c9315aef4c6.edge-e59bd6ef0484.mp3",
           "https://api.clthuanxie.cn/cc-audio/1a/1a54fa05edf8037c8a8fbeeb2678d2990ec9ea44.mp3",
           "https://api.clthuanxie.cn/cc-audio/8e/8e86c3ec7ff790af9662d0dac2dbf79e231588e2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c6/c64f5086f928f48049582fe4a41d6b6cb6c70cbf.mp3"
+          "https://api.clthuanxie.cn/cc-audio/4a/4affbe06b530714ac8cd862641bbf171f96bdcd4.edge-eba6ed82edca.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b090a246291bd5095315ca45780a66b8596fa44.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6768f2355912a0090a13cbf2f61173ea64196b5.edge-3ab8f1744858.mp3"
       }
     },
     {
@@ -86,7 +86,7 @@
           "https://api.clthuanxie.cn/cc-audio/d1/d1513415ffa8c65e5dfe8f349a5613fd974664a5.mp3",
           "https://api.clthuanxie.cn/cc-audio/58/58306b30f4f6a32b0fec21dfda7e01442b10ec9e.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8cb4a027badd94297a89019395d241852468ccb.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da1a8a5bcf4b91a8a0a78e48021b68389b5acbdd.edge-50ecca199e59.mp3"
       }
     },
     {
@@ -112,7 +112,7 @@
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/9588c3fcb43fc86f5ac79164cedf59e8e7b9e7ec.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aef4ff24d5bbccf1f1e630452bbd45b147efe237.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f61f8ddb176e24fc26701efdb546deb36966c0b1.edge-9875a7f1a2fa.mp3"
       }
     },
     {
@@ -127,7 +127,7 @@
       "explanation": "任何非零数与其倒数积为 1，$1 + 9 = 10$。验算：$1 \\times 1 + 9 = 10$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/b9/b930c6fb7c2355d58e94fdc0fb0b1f026ff5308e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa81221503efaa6819bf60c130e67a95a41b0681.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed1c3594285e1baf156a2737477c622b1d69e36f.edge-5ef1e07c6a96.mp3"
       }
     }
   ],
@@ -143,11 +143,11 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/87/872a72f35c066e6399084fe4cf2dcb61044696a4.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/d0/d0379f8882c7686ebb088d19a1162575be944a2c.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f0c4dace1422e0a1960b8b1922c318d00ee982ed.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9b/9bb3694fcbd346ba495a5475e0040b60b727b64d.edge-69f8d30e1718.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/e9/e9a41165f979821ad5871688f217c1d2a10e0a7a.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/38/38d3ee9bb26858d6a95f413eb6c9cbc2609d4620.mp3",
-        "https://api.clthuanxie.cn/cc-audio/4d/4d41fb7c175137a2c46b02a3f4e40676d150fd41.mp3"
+        "https://api.clthuanxie.cn/cc-audio/4f/4f3bae0d134bcf899b3b0c5a71dc232919db0355.edge-7fef528ad484.mp3"
       ]
     }
   }

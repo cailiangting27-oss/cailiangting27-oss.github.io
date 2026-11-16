@@ -25,11 +25,7 @@
         "小猪",
         "小牛"
       ],
-      "knowledge_point": "农场动物",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/77/771ce100eb1666da6e4c4d2a577c2d776638080c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7aa3dcdc9222e1d42b088c5ddbb7dcd936c4ec12.mp3"
-      }
+      "knowledge_point": "农场动物"
     },
     {
       "id": 18,
@@ -49,11 +45,7 @@
         "小鸡",
         "小牛"
       ],
-      "knowledge_point": "农场动物",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/93/93e647edd69e5c4dd9fb9ff407630f7bdc780278.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e4a717b7267246342befaeebd77222dd6b9b7b3.mp3"
-      }
+      "knowledge_point": "农场动物"
     },
     {
       "id": 19,
@@ -75,12 +67,10 @@
       ],
       "knowledge_point": "农场动物",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe9bb14697292dc33d64f54c45923e95faf23f12.mp3",
         "options": [
           null,
-          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74eeeb6f3f2a2f14e139c3cebefcac4579ca155f.mp3"
+          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.edge-7f1070f4f9ce.mp3"
+        ]
       }
     },
     {
@@ -103,12 +93,10 @@
       ],
       "knowledge_point": "农场动物",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/66/66120fd412eeef45dd227884e67d8f1c4fb8c8a6.mp3",
         "options": [
           null,
-          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02ba3a4b1bc89c9c7e1cc02759e14a08cadf6234.mp3"
+          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.edge-7f1070f4f9ce.mp3"
+        ]
       }
     }
   ],

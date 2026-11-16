@@ -19,7 +19,7 @@
       "explanation": "不一定。例如两个微小的锐角相加可能还是锐角。验算：$10^{\\circ} + 20^{\\circ} = 30^{\\circ}$，仍是锐角。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/b1/b1b7beb31d853ea9a06f86974942729b9a757825.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f80ad2d00254ed335876d8da9982723216ce6d7.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1bd0864f404f51abcd1c331b5ad07efee1954aa.edge-a4510abd805b.mp3"
       }
     },
     {
@@ -40,12 +40,12 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/ca/cae677fa4fce11d12aea574bbbf2500399944ef6.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.mp3",
-          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.edge-b07f9403a30c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.edge-c26827c6ee45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.edge-0c444259d23f.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95737e0a8320a69ae286b7a31bfb661f7127978c.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b17199d84593e2d96aaca728ccc213672e8e78da.edge-1a38bcdbee24.mp3"
       }
     },
     {
@@ -71,7 +71,7 @@
           "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
           "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/14/149760a42ff20c6f0753e4747541c2776637522d.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34b391bb665f8c14a9a080596f642ddfefd9ceb3.edge-2b036b0c8e45.mp3"
       }
     },
     {
@@ -93,7 +93,7 @@
         "question": "https://api.clthuanxie.cn/cc-audio/9e/9ea6d9fb17b0b408ce40909a41d3379193f7d8d0.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0c/0c3dc148b971537304eaadc4fec855bbba3858c0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3a/3a63be43f91f633ecba74ba00d86941b0537fa57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a63be43f91f633ecba74ba00d86941b0537fa57.edge-1d663e5f8549.mp3",
           "https://api.clthuanxie.cn/cc-audio/46/46b0dd860c1c7cdec3a512ea8ca000cc7a0734bc.mp3",
           "https://api.clthuanxie.cn/cc-audio/7f/7f4cb440872a92b78ad6b4fb5c2413188d167af8.mp3"
         ],
@@ -111,8 +111,8 @@
       "answer": "150",
       "explanation": "一副三角尺中最大的两个角分别是 $90^{\\circ}$ 和 $60^{\\circ}$。拼在一起：$90 + 60 = 150$。验算：$90+45=135$，$60+45=105$，均比150小。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/44/44a07d19bb38a4be3127800d8cc9fb870fac287e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8eb0188858717c7adbdc5890ac0118b1bf48c2d2.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae871f44d1b67f3a8691aa47e60a3845244cb1c1.edge-b0fa489a3085.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/677f5f028ff29e5ea75be5839959a3c0db882a1b.edge-099f568fd2aa.mp3"
       }
     },
     {
@@ -126,8 +126,8 @@
       "answer": "90",
       "explanation": "$45 + 45 = 90$。验算：$90 - 45 = 45$ ✓。这代表两个 $45^{\\circ}$ 的角可以拼成一个直角。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/36/36de513c1b0ff4429ebddef7699704de9a433fab.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae64d6e26f1673bd69f8221650f367eabaf828db.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3ac438586e324cdad0438e4509f5279eb436792b.edge-8526306496dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/237ce69ee3cafa3e0b2a83efeb08a5942b812735.edge-bf4c0e00c5d6.mp3"
       }
     }
   ],

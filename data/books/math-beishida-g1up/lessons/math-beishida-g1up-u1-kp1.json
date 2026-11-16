@@ -21,17 +21,7 @@
         "跳着数"
       ],
       "answer": "按顺序一个一个地数",
-      "explanation": "按顺序数才不漏。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/91/91a985dd8d810757524a1247aaaf0d93e56523f0.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/d0/d07ad2c222cd465f82d14451fa79c91af3baff21.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b2/b2664fbfa14b071794bd410ee71c71828f9a1328.mp3",
-          "https://api.clthuanxie.cn/cc-audio/fc/fc688eb6363c7c0222a846bf5df90f8e23fdfc06.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ff/ff140f80bf4d019c38d53900d44dd1cf9c5fb7ec.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/77/772d3882bb03f9d877388c62292c53aae7a00342.mp3"
-      }
+      "explanation": "按顺序数才不漏。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "3 添上 1 是几？",
       "options": [],
       "answer": "4",
-      "explanation": "3 + 1 = 4。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/66/66a84858f974433a3837816886e5bbe16a51b2ee.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/45/455cac7e0662bdaa461a0d43f17b8199d4563c16.mp3"
-      }
+      "explanation": "3 + 1 = 4。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "数数时漏数或重复数。"
     ],
-    "tips": "数一个做一个标记。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/e2/e2e793622cc3187ea65795c4edbd35f3927224a4.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f1/f178d0a3d74146138413713827d502cd2e39c7de.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/7d/7da82563fedc278e632989c59c1474f602056f56.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/41/41d2b2780e67773ec79e1dee9332936e38bc9ba0.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/16/160ba1e002798f7fd782059311a3caca8b10a409.mp3"
-      ]
-    }
+    "tips": "数一个做一个标记。"
   }
 }

@@ -24,7 +24,7 @@
       "explanation": "单数用 this is。",
       "audio": {
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.edge-1a8a69533d7e.mp3",
           null,
           null,
           null
@@ -47,7 +47,6 @@
       "answer": "these",
       "explanation": "复近 these。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/95/95d8142091edc4ee2125f03fa5f1cb1d859eb3ec.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
           "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
@@ -65,11 +64,7 @@
       "question": "this 指近处的单个事物。",
       "options": [],
       "answer": "对",
-      "explanation": "单近 this。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d32ac05242fb72856680b7c5a38da8f4fd9e3c4.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04ed573f23b7f08cef786c52904da03544d7f423.mp3"
-      }
+      "explanation": "单近 this。"
     }
   ],
   "knowledge": {

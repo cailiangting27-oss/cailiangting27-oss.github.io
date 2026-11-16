@@ -23,14 +23,12 @@
       "answer": "apple",
       "explanation": "apple = 苹果。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef772f1172196ae2e49355d027af3ab08851a48e.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
           "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3",
           "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3",
           "https://api.clthuanxie.cn/cc-audio/3e/3e2bf5faa2c3fec1f84068a073b7e51d7ad44a35.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9550777677c37a2d52fd9f5233a9d8109d6baa8.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "banana",
       "explanation": "banana = 香蕉。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1d64439ef5b29e8c2ede849213f980143472eaf.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3",
           "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
           "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3",
           "https://api.clthuanxie.cn/cc-audio/3e/3e2bf5faa2c3fec1f84068a073b7e51d7ad44a35.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af9c6d9d545d08330c2210514dc2e47f919ee18d.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "orange 的意思是「橙子」。",
       "options": [],
       "answer": "对",
-      "explanation": "orange = 橙子。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/22/224510eb9955257af374749c793fe8f7955c9d69.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/88/882a2e943221cdb57789d010809eacca1bb75770.mp3"
-      }
+      "explanation": "orange = 橙子。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "an apple 写成 a apple。"
     ],
-    "tips": "元音音素前用 an。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/7f/7fa2c1722e6329e340f13470b92abf5b860553f7.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f6/f619131a8f0adcbd3304d5699f251725133c8793.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/3b/3b2a19e874488fa5423bc07567be5ad5a5bafc24.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/9d/9d86ebca59d9d11c9490d26d06ecad8037d56003.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/4d/4d40652f976f984c5e6dda7131d983837bca1717.mp3"
-      ]
-    }
+    "tips": "元音音素前用 an。"
   }
 }

@@ -21,7 +21,15 @@
         "胰液"
       ],
       "answer": "胆汁",
-      "explanation": "胆汁不含消化酶，起乳化脂肪作用。"
+      "explanation": "胆汁不含消化酶，起乳化脂肪作用。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a538a022afd47de3db9da02390efd5c12836257.edge-f016c924c17b.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 6,

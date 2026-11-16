@@ -23,14 +23,12 @@
       "answer": "60",
       "explanation": "1 时 = 60 分。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/75/75cd834257a57b16138fc8699cfbfa116d6e0cfe.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
           "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
           "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
           "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f288d768af29309383ccfc778daf4d5db4f2843.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "一天有 24 小时。",
       "options": [],
       "answer": "对",
-      "explanation": "24 小时制。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/01/0166517d66156fc3c295d842296ad172f1b3f895.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/03/0397d2b645dbe69c58ee574a4ae557217c5eb766.mp3"
-      }
+      "explanation": "24 小时制。"
     },
     {
       "id": 7,
@@ -64,14 +58,12 @@
       "answer": "8:00",
       "explanation": "时针定小时。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/86/864216f42199751fc3471330b9a601121bf23239.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/6e/6e27659738a247ae38b4929ce20f69e9019fea89.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8c/8c20031e8dc0d39d8d672eb0aba15eec2b421651.mp3",
-          "https://api.clthuanxie.cn/cc-audio/33/33fe52ea69186daae53c0710574585bf16a74b4e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/70/706e556bddc691df08c4cc674ba2695ae806eab7.mp3"
+          "https://api.clthuanxie.cn/cc-audio/6e/6e27659738a247ae38b4929ce20f69e9019fea89.edge-3d7996e112b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.edge-0e58b3b663d0.mp3",
+          null,
+          null
+        ]
       }
     },
     {
@@ -90,14 +82,12 @@
       "answer": "12",
       "explanation": "1~12 共 12 个。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/73/73eae81fa0504da79a99897ac8cc6e714bd39e67.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
           "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
           "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40e9ca3d6951ab88359af0b16a248f9de9b84cd8.mp3"
+        ]
       }
     }
   ],

@@ -16,11 +16,7 @@
       "question": "分类的标准要统一。",
       "options": [],
       "answer": "对",
-      "explanation": "一次一个标准。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c1/c177e6ab1605dbecf20ee6295064a24930711d9e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fea2d8b9d53345b6615366f3446ea5eb246e2389.mp3"
-      }
+      "explanation": "一次一个标准。"
     },
     {
       "id": 6,
@@ -36,17 +32,7 @@
         "没有好处"
       ],
       "answer": "更整齐、更好找",
-      "explanation": "分类的意义。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac1a4e654579dc6e73da85089fa1473a87f4633b.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/09/09fea23b2e4254f39d9f7f11c334c37cb1dcc7b3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9f/9f746fcb2708a2ff873291919f7d713f744ef601.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f6/f60f807b09f5fcd8368192f3988192494e14942c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/49/492a55dda6b2eeb567663b650be17ef10d02d046.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8b76ae44f45b1f0c73e3a1fd360fb42b834af8c.mp3"
-      }
+      "explanation": "分类的意义。"
     },
     {
       "id": 7,
@@ -64,14 +50,12 @@
       "answer": "形状",
       "explanation": "按形状。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/52/5226ef6586ee892a350a027c7db295ab3e7a45b9.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
           "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7c49c8f25a7a48a3971027e0c7bf263570395bfe.mp3",
           "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28e2e29ec7b4804547ea099a9b6b1ee2818ea560.mp3"
+        ]
       }
     },
     {
@@ -83,11 +67,7 @@
       "question": "同一组积木既可以按颜色分，也可以按形状分。",
       "options": [],
       "answer": "对",
-      "explanation": "标准不同结果不同。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/99649854dc7f538320f1cb9689a38a14e90c7e19.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/09/098fa93364f6a1dd70c1e4731e51f5f7a7952afa.mp3"
-      }
+      "explanation": "标准不同结果不同。"
     }
   ],
   "knowledge": null

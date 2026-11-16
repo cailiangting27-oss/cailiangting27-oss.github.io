@@ -23,14 +23,12 @@
       "answer": "《义勇军进行曲》",
       "explanation": "国歌是义勇军进行曲。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/24/245ef2415e21f79ac2dffce4bd23c151fbb89c34.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/a7/a7b50cd2c68358113f8ff0447cc1b38dc99f2882.mp3",
-          "https://api.clthuanxie.cn/cc-audio/50/50c2912164cbc1cbf88904253236ea90cb7e6f19.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c1/c1d2b43915de08e20a49ffd5b52466352de3d35c.mp3",
+          null,
+          null,
+          null,
           "https://api.clthuanxie.cn/cc-audio/1d/1dce16e62084e19e1ab773cef5aaa95f76010ab3.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a688830f44aa1a199904532a85939a3091a58bee.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "各民族一律平等。",
       "options": [],
       "answer": "对",
-      "explanation": "民族平等。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b4/b470e3364d018d17020a5951ed0bdc32682b45ac.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bb4aec0918edf385bb8501083f064b40d2e0208.mp3"
-      }
+      "explanation": "民族平等。"
     },
     {
       "id": 7,
@@ -62,17 +56,7 @@
         "起绰号"
       ],
       "answer": "尊重他们的风俗习惯",
-      "explanation": "尊重民族习俗。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/94/947f50e942fe42b86f5393a2260fe4140f53f020.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/65/655d79d987dfaffcd9c349662e94ad1776156e4a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/88/88243af840d4da29eb72e89acfe981e1776153f2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e6/e61b7db09d18e9a8ecf85ca6998479c6c6139e3e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e9/e901a5cde59e91cbc9d16b8c0ca5a4f6ea1d9d97.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d85ff014d992d6ada60e2bb2fe68965b4c7e751.mp3"
-      }
+      "explanation": "尊重民族习俗。"
     },
     {
       "id": 8,
@@ -83,11 +67,7 @@
       "question": "我国的陆地面积约 960 万平方千米。",
       "options": [],
       "answer": "对",
-      "explanation": "国土面积约 960 万 km²。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e4/e425d43d12263e1a39dc89f156709e7833599efb.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffd41accdd167177975cc662edb0eb408e2c8977.mp3"
-      }
+      "explanation": "国土面积约 960 万 km²。"
     }
   ],
   "knowledge": null

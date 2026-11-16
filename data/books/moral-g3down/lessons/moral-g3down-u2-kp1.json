@@ -23,14 +23,12 @@
       "answer": "告诉管理人员",
       "explanation": "及时报告维护。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/44/44f3056caeefb8393497fcee3d60f802a2e18f22.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/b3/b3f87399c822126fd1d05544552f4524e710c24f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e6/e63df7eb1951dfb9bccc6900af4cb58312719c01.mp3",
-          "https://api.clthuanxie.cn/cc-audio/5d/5dca0da640c3ef45fcf76bcc10b4cf18c46d9ab5.mp3",
+          null,
+          null,
+          null,
           "https://api.clthuanxie.cn/cc-audio/0f/0fa9cc13fac517f99c86815dd2ad95c5e2aa7633.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5200ac05077eca64c9b670adcabec4641d204ac6.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "公共设施是为大家服务的，要爱护。",
       "options": [],
       "answer": "对",
-      "explanation": "爱护公物。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/15/15bc8bd13e05dd3c59423fc45a2be4bc5399c724.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a370acb5ff02b238848ef18d710078421f7bf445.mp3"
-      }
+      "explanation": "爱护公物。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "在长椅上刻字。"
     ],
-    "tips": "公物为大家，爱护靠大家。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/c1/c1e7939d71a625ddf85b678223700e519ea2eac6.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/16/16b6cd4291697da6ad8a05ea4d019b32d7f99a0e.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/dd/dd1339983743153dbd42846086786dc85f63b345.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/2a/2a79f6d4811a83d7dba7d7b129f32407a80f5082.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/dc/dc628d142d6ff4f1f7607f0520bd190a93fcee13.mp3"
-      ]
-    }
+    "tips": "公物为大家，爱护靠大家。"
   }
 }

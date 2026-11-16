@@ -21,17 +21,7 @@
         "Are you go to Hong Kong?"
       ],
       "answer": "Are you going to Hong Kong?",
-      "explanation": "be 提前。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/52/5200b33af5e04324837d936e1d9eb8e8d7dc1bd2.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/19/19470b967cc0e58d93b7e6c8f49cee60833d6879.mp3",
-          "https://api.clthuanxie.cn/cc-audio/59/59d6a064b784a187d15faaddf2eb9ddb1e1563d0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/5e/5e1fd276341fa644f83126b1be611224dfada4de.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e0/e07ca3e8ea0d77331f8035ea4a69e04da6c16a06.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c92aaad65f61449c04c3491a911e2f24c13aee9c.mp3"
-      }
+      "explanation": "be 提前。"
     },
     {
       "id": 2,
@@ -49,14 +39,12 @@
       "answer": "Yes, I am.",
       "explanation": "be 问 be 答。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a194983b330c804486f34e2ca6fcf505dc607cb.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.edge-912404adc1c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.edge-993a95ed3015.mp3",
           "https://api.clthuanxie.cn/cc-audio/52/522c1f25c24af76ae6884143fe241e132d4f4a26.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c1/c13b6aed60f9ebc67b777e3e9f6dcf7792501db9.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51d2d43e15518e6f2b79b0fc0cd2ece62b81d6da.mp3"
+          null
+        ]
       }
     },
     {
@@ -68,11 +56,7 @@
       "question": "be going to 变疑问句时把 be 动词提到句首。",
       "options": [],
       "answer": "对",
-      "explanation": "be 前置。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9b917fe3a521ba5e834528d690b71dce23839d5.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/ddbee963907a92af8654ec1848e7f3fe7b2aab66.mp3"
-      }
+      "explanation": "be 前置。"
     }
   ],
   "knowledge": {
@@ -82,15 +66,6 @@
     "common_mistakes": [
       "Do you going to…（×）"
     ],
-    "tips": "有 be 就不再用 do。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/aa/aa5965b0594843dcbca205d50c12634fcb790339.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/fb/fb28c9f4f6ab69a39b6a1b2debdce0643a7ee7f0.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/7c/7c268bd19c65f33be605fe3f77ed447e2e15722f.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/e9/e9fb5fa659d806e8af4babaedcaf5d441583418d.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/fa/fa6487978b33eb3a73f840ace84ef2a1ac13cbe5.mp3"
-      ]
-    }
+    "tips": "有 be 就不再用 do。"
   }
 }

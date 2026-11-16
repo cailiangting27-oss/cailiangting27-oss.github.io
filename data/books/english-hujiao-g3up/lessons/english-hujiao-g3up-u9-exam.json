@@ -23,14 +23,12 @@
       "answer": "toy",
       "explanation": "toy = 玩具。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/21/21c691fd4e89cde945dcf2c38b5bb2f80b0c3162.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/cd/cd1933db799b8605408805474cd408cf9ae0d160.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1933db799b8605408805474cd408cf9ae0d160.edge-a9d7fb81cfc0.mp3",
           "https://api.clthuanxie.cn/cc-audio/ce/ceac9b04aced67dceaf6577b30208737b9047093.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e6/e6e87e84e0900b9db85cbdc16a3b4263eb5a4113.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c7/c7d56fc0723a766824f554c4d00f28ea16c2c36b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c5823edbf0089ba8f97997d6e656d3c77dd4caf.mp3"
+          null,
+          null
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "It's on the bed.",
       "explanation": "回答位置用 It's…",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbf7dd161b767315f04ef0db66da8311ffda27c1.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/9a/9a865873630717dcfaf40cdca3aaa0931f6fb36d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/30/300cc0b81d9e2166f42fa6df95c465ca0e886889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a865873630717dcfaf40cdca3aaa0931f6fb36d.edge-45e231e1048b.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82d5105cda02e7298700f9d47dd2943c589591ef.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "询问多个物品的位置要用 Where are…?",
       "options": [],
       "answer": "对",
-      "explanation": "复数配 are。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b2467e1df120838d1f3dfcff5d07ba624b8ef7d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c4f4e6b8b957bcdeb5c53b8c93b961261e4549c.mp3"
-      }
+      "explanation": "复数配 are。"
     },
     {
       "id": 8,
@@ -88,17 +80,7 @@
         "How's my toy?"
       ],
       "answer": "Where's my toy?",
-      "explanation": "where 问地点。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a68e0dfc165dcabdede5479e7c9a8871fabdeaa.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/86/86077671933e245ac156d8acbf820e6d8e93a1cd.mp3",
-          "https://api.clthuanxie.cn/cc-audio/36/365bcda0b54f29a981e0201a8f0f1541d83b7eac.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ee/ee8121636ee7c78c6caa70de3de1212dc1318cb4.mp3",
-          "https://api.clthuanxie.cn/cc-audio/78/78a28e67c12a594e6c80413ec10e9014be9b1d1d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5efe6b871889d462abfe1045235533ec077f0618.mp3"
-      }
+      "explanation": "where 问地点。"
     }
   ],
   "knowledge": null

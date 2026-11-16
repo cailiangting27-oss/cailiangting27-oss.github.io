@@ -23,14 +23,12 @@
       "answer": "一个也没有",
       "explanation": "0 表示没有。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/53/5384c36b35d6f3e75e1534a3a3eb580e07cfd2d4.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/1d/1d07d0211d7fad1a2e84977176d447d2867f7804.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/4a/4a077c83c695f4d6b9e568c8defe224ca036f3a7.mp3",
           "https://api.clthuanxie.cn/cc-audio/43/432d02cc21564ba0f0255a4068f10b72de4a1721.mp3",
           "https://api.clthuanxie.cn/cc-audio/ed/ed690ebb15cc5b89ebafddca2a027d67881e5ec8.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6775702faff94bbb5b6d789fc3d21b774e4e2de.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "按顺序填数：7、8、___、10，横线上是几？",
       "options": [],
       "answer": "9",
-      "explanation": "8 后面是 9。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ca/cade06e51d6543e1771bbe7a521bf16ce7ed2c41.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/44/440b996f92eb4f893bd1fa8894dc7d3e3f56925f.mp3"
-      }
+      "explanation": "8 后面是 9。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "顺序记混。"
     ],
-    "tips": "顺着数越来越大。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/45/455bf03fa566e00fd0b7f9718d8d7b3f98d08b33.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/08/086bfb5d340e2c45131efeb9cd7662f3f4cdf84a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d2/d2d722c560af256b9f62d0d6a0a60e4c99f818bf.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/5b/5b2ca4f0a101bb9c0c1266034b36698d858a6d24.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/7f/7fb5853bbd0eec4de297b7f892693428fc5b2a32.mp3"
-      ]
-    }
+    "tips": "顺着数越来越大。"
   }
 }

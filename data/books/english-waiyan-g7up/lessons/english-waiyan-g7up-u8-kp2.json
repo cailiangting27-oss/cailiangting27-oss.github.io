@@ -21,7 +21,15 @@
         "What much is it?"
       ],
       "answer": "How much is it?",
-      "explanation": "how much 问价。"
+      "explanation": "how much 问价。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c098beb15f537d61ad1bd7de217e6985f880459a.edge-b4bae3590607.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

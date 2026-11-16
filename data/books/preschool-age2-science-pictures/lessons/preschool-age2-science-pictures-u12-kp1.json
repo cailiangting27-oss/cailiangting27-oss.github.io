@@ -27,12 +27,10 @@
       ],
       "knowledge_point": "大小和多少",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc7de4251f30eea90f01e691184ed5ff4392003c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
           "https://api.clthuanxie.cn/cc-audio/44/44897c15ed4e76872fe5cd5d0aeca31f264e8cd7.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3291070d07637a2a1e5796a05bde7bc9de617c29.mp3"
+        ]
       }
     },
     {
@@ -55,12 +53,10 @@
       ],
       "knowledge_point": "大小和多少",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb6ab63199568bd20ca0022a3d6699f95bd0bd9a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
           "https://api.clthuanxie.cn/cc-audio/44/44897c15ed4e76872fe5cd5d0aeca31f264e8cd7.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8855793aa7fb109146c42e8c411933f0eb285024.mp3"
+        ]
       }
     },
     {
@@ -83,12 +79,10 @@
       ],
       "knowledge_point": "大小和多少",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9122c962ac31fbb180e8f48b6db9654cc4e3dcf.mp3",
         "options": [
           null,
           "https://api.clthuanxie.cn/cc-audio/c4/c499198e7835d02e0e0f1f1b1a31b8a8afcd4513.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/94/943a3cea184a8f5326151189303dd205f6f549d9.mp3"
+        ]
       }
     },
     {
@@ -109,11 +103,7 @@
         "一条鱼",
         "三条鱼"
       ],
-      "knowledge_point": "大小和多少",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/98/98961296b832a90d828b2cb07d601511358194d3.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82b14c58669a517c4db1cc2017b7c57d576d363b.mp3"
-      }
+      "knowledge_point": "大小和多少"
     }
   ],
   "knowledge": null

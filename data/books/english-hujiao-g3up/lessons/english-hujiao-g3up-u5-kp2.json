@@ -23,14 +23,12 @@
       "answer": "This is my father.",
       "explanation": "介绍家人用 This is my…",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd2cfe4b886df34af599c07a856531dadbdc3be5.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/a7/a7090b835e5797027a749e91682ad4e0515517a9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7090b835e5797027a749e91682ad4e0515517a9.edge-02e7ce392536.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.edge-1a8a69533d7e.mp3",
           "https://api.clthuanxie.cn/cc-audio/6b/6b188964e48d4a94cf9fe37a39abcbba87c0b87a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8c/8cbeb61c0335c7403d0e8e5ddc10626452dee2ab.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30f6753097ee5b5b859f6c027aa513e6171c3324.mp3"
+          null
+        ]
       }
     }
   ],
@@ -41,15 +39,6 @@
     "common_mistakes": [
       "介绍多人还用 this is。"
     ],
-    "tips": "多个用 these are。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/1b/1bd41405dc177ae9d261ace8083efac5730aad4b.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/b3/b35384400df1fbce23df55d9e1609e3b8ed6b413.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/fb/fbf09b54befee8d314f68e2b11c2d5acf2cc9a39.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/ed/edd490f390cf861838602895be017e1342785dd6.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/7b/7b6a69a0a0ba791314dac276759235e16afb6667.mp3"
-      ]
-    }
+    "tips": "多个用 these are。"
   }
 }

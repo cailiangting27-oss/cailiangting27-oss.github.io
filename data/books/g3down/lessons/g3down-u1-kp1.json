@@ -133,7 +133,7 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/a5/a5515e695922e3a66194fdbb3db82d2a4136d625.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/f2/f27616abbcdb74f525f6461fcca63594076dfb9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f27616abbcdb74f525f6461fcca63594076dfb9a.edge-617139b8da6d.mp3",
           "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe55f840d9b44cdf9e25a8f569d29b8b30ce2927.mp3",
           "https://api.clthuanxie.cn/cc-audio/cb/cb2b3d3dc6b3d194fbac82fa5d91bc6b1b6a9231.mp3"
@@ -159,10 +159,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/6c/6c38f0b123a281f48d0c0d774c33112318eb80b4.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
-          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
-          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.edge-bea3089f3ae7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.edge-ea97b50102f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.edge-8c8ed52d6348.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.edge-2952b9784479.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/98/98943c7c4016019592c8933c7b4f8ef5252f8643.mp3"
       }
@@ -223,8 +223,8 @@
       "answer": "60",
       "explanation": "$15 \\times 4 = 60$。验算：$60 \\div 4 = 15$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b384962d2cac66c3548569be0d33e400ec944e4.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c063a0ac2f6e82684126cc8834707566461248d.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69b46535aa7249a72a7b73649a76e6bb765cf441.edge-8e375622b158.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d45d217a6ff21f2e6fd3dc2df6aa36e2ac5aa330.edge-df036083fac5.mp3"
       }
     },
     {
@@ -238,8 +238,8 @@
       "answer": "240",
       "explanation": "直接计算得 $240$。验算：$240 \\div 2 = 120$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/53/53b2cc302b0ee662905c49e05bbfff555c406fc4.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/70/7074a8605355787c5a8ceaefcb3733c9fd84726b.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1d0312f5f14e76239e7202fac0e9981240250fb.edge-c346461d6d57.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33715ce1003d42664e4678340096528c436e3095.edge-04dae2442b55.mp3"
       }
     }
   ],
@@ -255,7 +255,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/0a/0a790998fc9780cfd61b84fc29ef26f2f39825ef.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/47/479fba7e32c62aaa59b21f4dd29108b859f16547.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/bf/bf8df74dfb28ca7e39034885fb438e361da75309.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ba/bada64982b8772ab6351b6242db55247a085eb70.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/22/226de862d64db1689f220d92e17089bb2070cd43.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/bd/bd8efc186a486c41abcd92d0b2dd873ea91f64de.mp3",

@@ -23,12 +23,11 @@
       "answer": "spring",
       "explanation": "spring 春。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/62/62feee0f46921eb8d0d5c2e86a081b945bfcafce.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
-          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.edge-f5c786619b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.edge-b90ed7df9ce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.edge-83f5929facd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.edge-216083b61bf5.mp3"
         ]
       }
     },
@@ -65,10 +64,7 @@
       "question": "winter 的意思是「冬天」。",
       "options": [],
       "answer": "对",
-      "explanation": "winter 冬。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/99782f664dd4357ec9e8bcaa18c4d56ac9fc170e.mp3"
-      }
+      "explanation": "winter 冬。"
     }
   ],
   "knowledge": {

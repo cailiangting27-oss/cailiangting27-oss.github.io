@@ -18,8 +18,8 @@
       "answer": "错",
       "explanation": "计算 $80 \times 40 = 3200$，验算应为 $3200 \times 40$（被除数除以除数等于商，或者商乘除数等于被除数）。验算 $3200 \times 40 = 128000$，显然不对。正确验算应为 $3200 \times 40$ 是不成立的，应为 $3200 \times 40$ 为商，原题逻辑混乱。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ad5a1312678e9f395304e5772a9b98b2af2a693.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35674cb07ef67dcb54423321137cf7a54ef40265.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b316b26ef4883c730585a6bc41184a53f47bfc7a.edge-560700ff528e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77c8e327f6f3a1d35c9712cbb89ad7ecf9788960.edge-6d0da002006d.mp3"
       }
     },
     {
@@ -38,14 +38,14 @@
       "answer": "8",
       "explanation": "想乘法算除法：$30 \times 8 = 240$，所以 $240 \times 30 = 8$。或者去掉末尾相同个数的 0：$24 \times 3 = 8$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f8/f880b6afe7f671fdb534ff8a2be933e8c0e42d6d.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/71/712ed0ebad027cedaf11e86ad821c4e17da0b836.edge-429cb932ba60.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
           "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
           "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c5cea12df7460cb103b5d4d3ae813ec58cd391a.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfd992b0a9be96e2bbc335f9f1d7125520cce89c.edge-923e1d96e2be.mp3"
       }
     },
     {
@@ -64,14 +64,14 @@
       "answer": "8",
       "explanation": "把 722 看作 720，把 91 看作 90，$720 \times 90 = 8$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9a63b7511533f40162189a2782624984e308e55.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b00557f9152bd3fb08f310f7e6f92524a2d96169.edge-604fb6304f5a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
           "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
           "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd0d3163489b057030e86796923c8a45feae613d.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/142d29defc4b4fb9194b2c9acf7c6eaa05eda22f.edge-bc0d2d1a59a0.mp3"
       }
     },
     {
@@ -97,7 +97,7 @@
           "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
           "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5012f4b59de4e90f95482d4e21f63989244dce8c.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85cbda53f079a6d059db04176eac8a6364ab9af7.edge-fa147a5a01ba.mp3"
       }
     },
     {
@@ -123,7 +123,7 @@
           "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95a7be869b5fc9fd24cedc74e8b0f83e1bebe34c.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a32fde6efb3abfd7057796bad7301ee20ce03956.edge-d152c273def8.mp3"
       }
     },
     {
@@ -138,7 +138,7 @@
       "explanation": "列式：$120 \times 40 = 3$。验算：$40 \times 3 = 120$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/30/30c1f0f487f27bb02c96cf4cd954b591f55ff083.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f035ae1c2e80a525e384d8fa15a41c82090e813.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/172e3c8a47f1eebdeb16089e1ad75244259d08d6.edge-d70097f11852.mp3"
       }
     },
     {
@@ -152,8 +152,8 @@
       "answer": "9",
       "explanation": "$450 \times 50 = 9$。验算：$50 \times 9 = 450$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d4c531b6983a9779609bb3d57853a4e9463bb23.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/85/856e106eaba670d08eab7f92f87c497836d4958a.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b310c61d7fef041ba153021386b802ee56cf2404.edge-8cc08af1446b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4567bfbfbd7bbf755ed9f44dc661be0a7fa07d19.edge-276bc45efefe.mp3"
       }
     }
   ],
@@ -167,9 +167,9 @@
     ],
     "tips": "“去掉0”只是一种简便思考方式，本质是缩小了相同的倍数。",
     "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/e4/e4841c8b6a929637d75e10351f3041ecfb1bc7e8.mp3",
+      "point": "https://api.clthuanxie.cn/cc-audio/e4/e4841c8b6a929637d75e10351f3041ecfb1bc7e8.edge-ac6627b104e0.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4fc829939f7b5e7d4173f910570ca352d3dda35a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/ce/cedab8ea3fd8cf87167765109a24d5d33153e140.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f049d7f466418830ddfe18b7844d1e7529c33384.edge-0cf78aa5565a.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/d3/d3cf94637ebbbc7dcfadb83fdbea351fe067ab74.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/d8/d8029b2ff43a3d9c856ffc4475ae629aa5c78d17.mp3",

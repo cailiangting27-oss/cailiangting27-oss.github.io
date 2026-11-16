@@ -23,14 +23,12 @@
       "answer": "eleven",
       "explanation": "11 = eleven。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e8/e82573cf181d16745e2f9328fb2ac4776c92e815.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/cc/cc5a0c506761ce686f1f145da868c162f269480f.mp3",
           "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
           "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3",
           "https://api.clthuanxie.cn/cc-audio/fc/fc955a19ae4f82e14d23c25e351eb70f0c0270dd.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f89ca6120d7eb8c7fa1cb13733a7a5769876ba1.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "twelve",
       "explanation": "12 = twelve。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/11/118d6ac011eedc5711bfcc21a03032b9b97262f0.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
           "https://api.clthuanxie.cn/cc-audio/cc/cc5a0c506761ce686f1f145da868c162f269480f.mp3",
           "https://api.clthuanxie.cn/cc-audio/fc/fc955a19ae4f82e14d23c25e351eb70f0c0270dd.mp3",
           "https://api.clthuanxie.cn/cc-audio/c2/c24f5cff02c08728c9789791a4439cdb2fa10c39.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5aedd0028302df375a7669bc63b7bca07f631fc2.mp3"
+        ]
       }
     },
     {
@@ -70,8 +66,7 @@
       "answer": "对",
       "explanation": "10 = ten。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/55/55e27ec3911f60a8baa0a2b55b4eb2f0a88cfca1.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a659a5bda678641fcbcad63eaa0db6195e96b5e4.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55e27ec3911f60a8baa0a2b55b4eb2f0a88cfca1.mp3"
       }
     }
   ],
@@ -82,15 +77,6 @@
     "common_mistakes": [
       "eleven 写成 elevan。"
     ],
-    "tips": "11、12 是特殊变化，要单独记。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/1a/1a16fc9c0fef5a05a5972fd8933331d2c6f7098b.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f0/f0d157a54007f1854f59676d63a056f3c6d8c6ba.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/a6/a6a117152dca5dde9e5185482e7a01a15a5dc037.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/50/50400744f7ca437057046d2f4f19db114433aa57.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/2d/2d4365b4b4046258af2dceeeee7cc9708cf032c3.mp3"
-      ]
-    }
+    "tips": "11、12 是特殊变化，要单独记。"
   }
 }

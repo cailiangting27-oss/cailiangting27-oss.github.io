@@ -23,14 +23,13 @@
       "answer": "Good morning",
       "explanation": "早上好。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/63/633bd7b97e4b407fa77d8ed0e2e92fc5894966ef.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
           "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
           "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
           "https://api.clthuanxie.cn/cc-audio/f7/f792424064d0ca1a7d14efe0588f10c052d28e69.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec97e969055eddd965bc909798d54034076db3e4.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec97e969055eddd965bc909798d54034076db3e4.edge-a1e64325bb93.mp3"
       }
     },
     {
@@ -42,11 +41,7 @@
       "question": "Goodbye 与 Bye 都可表示告别。",
       "options": [],
       "answer": "对",
-      "explanation": "告别语。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b3/b37bb4702ba0c041c74c8d6905251e6a6320bbdd.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb974634e8f277b5e8f7dfa9c503aa01e277450b.mp3"
-      }
+      "explanation": "告别语。"
     }
   ],
   "knowledge": {
@@ -56,15 +51,6 @@
     "common_mistakes": [
       "晚上问好不用 Good night。"
     ],
-    "tips": "Good night 用于睡前道别。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/27/27398c80ec19513544a00ee3b3f4232a7885810d.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/20/203142ac9f8c7c2d84a58bb4a2c53b2f548d63e3.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/39/3984758f606bf11436510892ebdeb91689da486f.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/fe/fe1b2f8112e70eb26ec1b79ab28977ec07c41876.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/e6/e6407135322d9a63e3a5a89fe0279b53ba222f93.mp3"
-      ]
-    }
+    "tips": "Good night 用于睡前道别。"
   }
 }

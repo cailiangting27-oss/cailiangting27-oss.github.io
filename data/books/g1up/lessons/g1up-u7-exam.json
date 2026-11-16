@@ -139,10 +139,10 @@
         "options": [
           "https://api.clthuanxie.cn/cc-audio/f2/f27d6d638c1864c6596162a331b3ef267d947f68.mp3",
           "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3",
-          "https://api.clthuanxie.cn/cc-audio/64/64eb739a36712bc607d428c226bff1d7eabb563e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64eb739a36712bc607d428c226bff1d7eabb563e.edge-d4ca4f29d6c7.mp3",
           "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf9ce5090157a174803752bdbf4de3ef5b0ec4f3.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79166ba9bd4d216f36b2a3f4a48a224b9d13275e.edge-d3c320c5ecb1.mp3"
       }
     },
     {
@@ -220,7 +220,7 @@
           "https://api.clthuanxie.cn/cc-audio/8b/8bdfc4953bb68957a392d33f5c46037c815c5a79.mp3",
           "https://api.clthuanxie.cn/cc-audio/91/912bfc94ac0dc7363627b027ec481d5b21b2f56d.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e06671557978dd3c3166b8622b81093a453e2c0f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/000ac19dfc7970af39ba85147ad5d8368fcafaf6.edge-200a04cd3b18.mp3"
       }
     },
     {
@@ -242,7 +242,7 @@
         "question": "https://api.clthuanxie.cn/cc-audio/23/235c90b1c89abaae25ab85c734e4e9ea1380645b.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/f2/f27d6d638c1864c6596162a331b3ef267d947f68.mp3",
-          "https://api.clthuanxie.cn/cc-audio/64/64eb739a36712bc607d428c226bff1d7eabb563e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64eb739a36712bc607d428c226bff1d7eabb563e.edge-d4ca4f29d6c7.mp3",
           "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3",
           "https://api.clthuanxie.cn/cc-audio/8c/8cfd45ab44471e7769f21b7cb27dd6ff0193cdad.mp3"
         ],
@@ -268,9 +268,9 @@
         "question": "https://api.clthuanxie.cn/cc-audio/06/06476c950178fd2625093746cf1465cc75e1950a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/e7/e7fe1ce0ba78514cd4322dfe12809166bd993931.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.edge-0e58b3b663d0.mp3",
           "https://api.clthuanxie.cn/cc-audio/44/441b89c4b8712f600da749de0c4d5747fdb7b9ca.mp3",
-          "https://api.clthuanxie.cn/cc-audio/08/08fa928bb44ef99051da00fa4160cd8bfd982c5e.mp3"
+          "https://api.clthuanxie.cn/cc-audio/08/08fa928bb44ef99051da00fa4160cd8bfd982c5e.edge-4264a9c57ac5.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/60/604b53821025e72ad915f0809481b04453d5df8c.mp3"
       }
@@ -287,7 +287,7 @@
       "explanation": "时针每走一个大格是1小时。列式：$3 - 1 = 2$。验算：1到2是1小时，2到3是1小时，共2小时。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/f9/f97636781f7bab0c1a68ab02eadfd08a5d5b8b3c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce9edfcc58f953008ef941f77afa257fc89e00be.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/9529101429fad60d08bbebbc04318f4445bbaeae.edge-1263cafe443e.mp3"
       }
     },
     {
@@ -302,7 +302,7 @@
       "explanation": "求两个时间点的间隔。列式：$12 - 10 = 2$。验算：$10 + 2 = 12$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/de/de445b43f930653b1ace92e3d749df1d20fedd1a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a115abb07d35f8135af085ba8284e425585c38c3.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/937d7bac0e23f8984a4e8bc69788be8b7a791264.edge-9af083888899.mp3"
       }
     },
     {
@@ -317,7 +317,7 @@
       "explanation": "$12 - 5 = 7$。验算：$7 + 5 = 12$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/d4/d4792f1f4580012d7cc7d13d26bcab808c26789c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71c9c2cce60b88f2d18cadf905dc073fa1330c41.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce3513aa3abf650bd3b9eb8823609da3b56f5dfa.edge-efb2d458daab.mp3"
       }
     }
   ],

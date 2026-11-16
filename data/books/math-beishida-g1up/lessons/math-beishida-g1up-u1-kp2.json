@@ -23,14 +23,12 @@
       "answer": "0",
       "explanation": "0 表示没有。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5ae989b7c278b46fca001f20a044f2abf6eca07.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6775702faff94bbb5b6d789fc3d21b774e4e2de.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "0 也是一个数。",
       "options": [],
       "answer": "对",
-      "explanation": "0 比 1 小。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ea6b3a722236c11b3955d8cdb3be28cc618b9d6.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5378054937b57ad08266d413b4b3f6c7575041a.mp3"
-      }
+      "explanation": "0 比 1 小。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "认为 0 不是数。"
     ],
-    "tips": "0 是最小的自然数。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/5f/5fd19cf21e21f90cd0329baafb5a695c672712b2.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/58/58efc3d115bb9852cd5803ba504ea886f7809503.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/2d/2d6f23d560c19b56e5ee062258d308e9c8b13d49.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/73/7311875441e35ab2ecd52a6f200988ee7a558106.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/d5/d57e78a668737835d1a8a801e51913937ecb362b.mp3"
-      ]
-    }
+    "tips": "0 是最小的自然数。"
   }
 }

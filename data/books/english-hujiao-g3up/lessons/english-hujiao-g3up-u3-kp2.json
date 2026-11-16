@@ -23,14 +23,12 @@
       "answer": "What's your name?",
       "explanation": "问姓名用 What's your name。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/00/006cb2cdbf1fdaa739f59d626ca8f7c7c75e0ff9.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3",
           "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f5/f5e75ef9f558405e95520d9a5e1f65a77fc2321c.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/de/dec1433190d45f14c68e50a3f51a7fd3e5d2405d.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "My name is Lily.",
       "explanation": "My name is + 名字。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/28/289bb8c5a50e7d0a2a98bf36abc992656c7f9f56.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/66/66a38d4ef0b028ae40cffe64cf78a8f4a356b8f4.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1d/1dbd5d4cc134f8b92db1d08eb8dee4e2be037dda.mp3",
-          "https://api.clthuanxie.cn/cc-audio/90/90da3978634826566c83222ed0f13bff95519968.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d1/d13c2698b622cf9ed3ffc1a4679dbd31369fda27.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2a461b09d86c1a188e57f356a4e1104f673f8da.mp3"
+          null,
+          null,
+          null
+        ]
       }
     }
   ],
@@ -67,15 +63,6 @@
     "common_mistakes": [
       "回答漏掉 is：My name Lily（×）。"
     ],
-    "tips": "name 后面要有 is。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/b4/b48cb532f568d6e4de27003263dc85406cda9811.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/0d/0d2e97ad977e5ae9f66676df5ffa88d1110b83b2.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/71/71569debfc71e598277ff03e808ab2152986fa53.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/9b/9b38ab8403b56ac419c1592d617e722563f9f98c.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/1c/1ca67ab72dda5b5316edc3a8a71597c19fcf66ad.mp3"
-      ]
-    }
+    "tips": "name 后面要有 is。"
   }
 }

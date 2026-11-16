@@ -163,8 +163,8 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/7f/7f928fbfb03ef09602df14f80f0642278824cb22.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
-          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.pinyin-7276f7ec57831509.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.pinyin-193f5fdadc1b759e.mp3",
           "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
           null
         ],
@@ -319,7 +319,7 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
         "options": [
-          null,
+          "https://api.clthuanxie.cn/cc-audio/96/96e8155732e8324ae26f64d4516eb6fe696ac84f.mp3",
           "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
           "https://api.clthuanxie.cn/cc-audio/d2/d24e087f504af9366c8376d8a7143821dfd38427.mp3"
         ],

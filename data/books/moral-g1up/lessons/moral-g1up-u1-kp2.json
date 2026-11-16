@@ -16,11 +16,7 @@
       "question": "课间不能在走廊里追逐打闹。",
       "options": [],
       "answer": "对",
-      "explanation": "追逐打闹容易发生危险。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/13/13b13c59be27c0a7d573a7753b914d9e8de55c89.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d80075feeffc79f3cf1191f0c0de666b2a5e3765.mp3"
-      }
+      "explanation": "追逐打闹容易发生危险。"
     },
     {
       "id": 3,
@@ -36,17 +32,7 @@
         "不带作业本"
       ],
       "answer": "前一天晚上自己按课表整理",
-      "explanation": "自己整理书包是好习惯。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b0/b027732a6ddf7bbf2a9e7550eeeac106b0e17dc0.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/96/96abb14bc85db5f0123fd8b866fc29a91442fbb2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ba/badfa6eb58c7befa6c1769b4d4ab3483ca66872c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1f/1fa573f81c4cb548324cf7fca4e33957b2e78f70.mp3",
-          "https://api.clthuanxie.cn/cc-audio/35/354d84417f49694f28cc9b53378b8723617d37c3.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9d9e1a4224c0ce000b9dcb6c910576f5baed15e.mp3"
-      }
+      "explanation": "自己整理书包是好习惯。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "让父母代整理书包。"
     ],
-    "tips": "自己的事情学着做。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/17/17b422750668bd1384413f6899d20dced2ff02f3.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/c6/c6d97305b2d04b78f13276dc136d367418bb7879.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/20/205cc0edffd4501121c23e3d3394af790328dbec.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/8b/8b739da300e262bfc781090aa93eda747a0b6219.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/1e/1e625dc6647769b5e0da60730a983c60458eb917.mp3"
-      ]
-    }
+    "tips": "自己的事情学着做。"
   }
 }

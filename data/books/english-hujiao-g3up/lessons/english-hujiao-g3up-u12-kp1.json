@@ -23,14 +23,12 @@
       "answer": "spring",
       "explanation": "spring = 春天。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/62/62feee0f46921eb8d0d5c2e86a081b945bfcafce.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
-          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2eaa37e3a6360b1afc8afedfa9b524ad9ed3e4e2.mp3"
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.edge-f5c786619b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.edge-b90ed7df9ce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.edge-83f5929facd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.edge-216083b61bf5.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "summer",
       "explanation": "summer = 夏天。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5e9ac166f0adb540680e3657d6db3bd22942c41.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
-          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e233ff86cd2ef28042b51966e217f9460422ac23.mp3"
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.edge-b90ed7df9ce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.edge-f5c786619b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.edge-83f5929facd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.edge-216083b61bf5.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "winter 的意思是「冬天」。",
       "options": [],
       "answer": "对",
-      "explanation": "winter = 冬天。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/99782f664dd4357ec9e8bcaa18c4d56ac9fc170e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea04558af7d8d1839f57229c77b850f101471ef4.mp3"
-      }
+      "explanation": "winter = 冬天。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "autumn 与 fall 混淆（fall 是美式）。"
     ],
-    "tips": "autumn 英式，fall 美式，都对。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/43/43dc9b54d46652ff92ecd2a625e68a91644a5627.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/8d/8dd14a249546604e881cb3327e5c84154c3b50f9.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/cf/cfa4505559abdaa68c69d8016b3cebece13afd74.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/18/18e084dd248cc73998bab351949fd23a42206c85.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/d5/d5728bb43431611a923d45b839dad5d2de8cf006.mp3"
-      ]
-    }
+    "tips": "autumn 英式，fall 美式，都对。"
   }
 }

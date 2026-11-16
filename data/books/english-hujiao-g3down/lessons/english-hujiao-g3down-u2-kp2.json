@@ -23,14 +23,12 @@
       "answer": "tall",
       "explanation": "形容词原形。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/98/9849d7f9f9e5013139b35fb7c6443fa7b751e4db.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
-          "https://api.clthuanxie.cn/cc-audio/90/90e6f6dc650d18801a9279361552a166760c30f1.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/aa/aa173683618efa7bda63105e0a5070f0a53a80ea.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0b/0b6586a188f9a29fabec31ea060299b7faece3ff.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d74d16ee29661991a9e605b4f241ed0071baf383.mp3"
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "形容词作表语要放在 be 动词之后。",
       "options": [],
       "answer": "对",
-      "explanation": "表语位置。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/41/41aebf25a3ab131670a06fd3e970cb1ef2e92d99.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef0c7f150a31ca1eb29545142f8f887d616378fa.mp3"
-      }
+      "explanation": "表语位置。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "形容词位置放错。"
     ],
-    "tips": "表语放 be 后。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/bf/bf7f42ff8827dea4927782751c9c7ecfc515d489.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/9b/9b62f90553e21530971dcbed779a29581abe6892.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/80/80e118344fd0fa7267ffaf2f0f8d2b326a85316e.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/b6/b67571ea9c393ee20c3513631ba20a243fe66fb3.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/9a/9a602d8f86ecaa30d8a0c219c48b09b9f8c710de.mp3"
-      ]
-    }
+    "tips": "表语放 be 后。"
   }
 }

@@ -23,14 +23,12 @@
       "answer": "五星红旗",
       "explanation": "国旗是五星红旗。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/96/96e3154a85256aa9630d840ab5fa319ebf1e9b83.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/60/60e07af67d38c444a64ca2117a6aa563fc213ec9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ae/ae62e5a3e3301452b2dd25f00763056372418e52.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1b/1b643200c027468058b278e1959d7774e42bb36c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/dd/dd83c4a4d8944be3cf9b8e370da388b61881aa55.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/30/3036614da0a9b85a6548e60ce0c9dfe5c3e45bbe.mp3"
+          null,
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "国歌是国家的象征，要尊重。",
       "options": [],
       "answer": "对",
-      "explanation": "尊重国歌。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bae4f40bb0ddba5c10693f2737344ee2493fef0.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4df12610216e6df97c7fa051b31cf3888eafd485.mp3"
-      }
+      "explanation": "尊重国歌。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "把国歌当作普通歌曲随意改编。"
     ],
-    "tips": "尊重国家象征。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/c7/c7456ce38ebade88fbd67e256c4ebbcb68654d8f.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/a8/a8c8e3ad5b8f5aff53d4c43503862ca302851623.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/24/243da53ac972dce2f3b4e1f7eb2614a366797bd5.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/bd/bd531328fe1eae0dc9f20b9bff303addfb6c8962.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/03/0316c8a79d04c78a32c3e79e6b9e5af739eba128.mp3"
-      ]
-    }
+    "tips": "尊重国家象征。"
   }
 }

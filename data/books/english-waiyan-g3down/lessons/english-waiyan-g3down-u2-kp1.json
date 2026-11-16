@@ -23,14 +23,12 @@
       "answer": "red",
       "explanation": "红色 red。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d1d30978d563187f92681238608e3b21ab8bdde.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
           "https://api.clthuanxie.cn/cc-audio/46/466bc8cef3e71de796ec483e212724a2c2044c68.mp3",
           "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
           "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40026e408a7e3ff0f231d464d6c9d4c5495e10e0.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "yellow 的意思是黄色。",
       "options": [],
       "answer": "对",
-      "explanation": "黄色 yellow。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb03c7ceccc616678519491413110e6a35b65557.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f49c6cee28bdba22f9510fde04842587372d29a.mp3"
-      }
+      "explanation": "黄色 yellow。"
     }
   ],
   "knowledge": {
@@ -59,12 +53,7 @@
     "tips": "purple 是紫色。",
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/cb/cb5922817717fbbf743f7a18b6ef1b8790a2c8bc.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/23/23352e56ea91c4ef6ecfe58400445581615a8498.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cb5922817717fbbf743f7a18b6ef1b8790a2c8bc.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/f5/f5fc35d90ecc200b7186e6ec62f15568caa73dc2.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/8e/8eea699b136c12c0ee91b15bc3148016a4d4aef7.mp3"
-      ]
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cb5922817717fbbf743f7a18b6ef1b8790a2c8bc.mp3"
     }
   }
 }

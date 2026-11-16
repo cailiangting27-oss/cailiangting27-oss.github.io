@@ -23,14 +23,12 @@
       "answer": "=",
       "explanation": "两边相等。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb1b037229a39df817b1367ec424d19943b5a39e.mp3",
         "options": [
           null,
           null,
           null,
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7141c0fdd4473740f3b18e5c6d850c203d27f69.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "10 是 1~10 中最大的数。",
       "options": [],
       "answer": "对",
-      "explanation": "10 最大。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b07580c8d55627f8be2e7150fd32a0de5767516.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c08555138c0389660a16c7b4d0c06ca677834eba.mp3"
-      }
+      "explanation": "10 最大。"
     },
     {
       "id": 7,
@@ -64,14 +58,12 @@
       "answer": "数量",
       "explanation": "几表数量。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/00/000a5a7ea4b51f8b9471a4489884fb0e69102594.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b9/b9ae893190360ea3db36361c337f4cb15c6e4b53.mp3",
-          "https://api.clthuanxie.cn/cc-audio/20/20ee03ce779018ddd38d537422a5c64d38180b70.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/88/88c34452cc4675caed61914c821b80d5b8dc716f.mp3",
           "https://api.clthuanxie.cn/cc-audio/a8/a88d531f329efc816435486d4b8bfcc25f1d7b64.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9ac8c4dcf71bbbb0eb6f8b18cfeb9b7ebaaddc4.mp3"
+        ]
       }
     },
     {
@@ -90,14 +82,12 @@
       "answer": "10",
       "explanation": "10 最大。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/35/35a99d3d2b613507c35ac9f58970583cd9531227.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c08555138c0389660a16c7b4d0c06ca677834eba.mp3"
+        ]
       }
     }
   ],

@@ -37,7 +37,15 @@
         "famouse"
       ],
       "answer": "famous",
-      "explanation": "famous 著名。"
+      "explanation": "famous 著名。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d923de9f69455c8bcd10b2791f9668d49950e648.edge-12cd3fcabbe2.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

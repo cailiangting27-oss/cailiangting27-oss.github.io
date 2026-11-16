@@ -37,7 +37,15 @@
         "45°"
       ],
       "answer": "40°",
-      "explanation": "(180−100)/2 = 40。"
+      "explanation": "(180−100)/2 = 40。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7da2fb0f36addaa7199ccb242242c885524a009b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4a1b04f7642ed8d111808e5e9f0fff75e2d4d31.edge-32a1c18521bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad0d2b418b3ae6c3165c695893190e40bfc907c.edge-480e8f06b08b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6083b29819319ee011eca709e560851bfb3a0ce1.edge-8f41b48234cb.mp3"
+        ]
+      }
     },
     {
       "id": 7,

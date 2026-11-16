@@ -63,7 +63,7 @@
       "answer": "对",
       "explanation": "总共 4 个数，确定了 3 个，剩余的一个必然是唯一确定的。判断正确。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f8339f769203035fe897e79e8f97f4b07f6d11b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1cf800a120c755e6678a3f731985332bd7d2410.edge-79c8ee2a1745.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0cf85bebeec9723acf86ed0eb636b45b8eb4ed4.mp3"
       }
     },
@@ -85,7 +85,7 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/a8/a8b82b0c0320e2b110ba9ce76558eaa359eceee1.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/f6/f698cd81567ccbd1f00716346abb5718d7163b87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f698cd81567ccbd1f00716346abb5718d7163b87.edge-49f505ce9c37.mp3",
           "https://api.clthuanxie.cn/cc-audio/b7/b79624b8aea042288de2c9c3bff303c28adf80bc.mp3",
           "https://api.clthuanxie.cn/cc-audio/e2/e2c72f15c0caa7b53260250d1bfdb832a770f251.mp3",
           "https://api.clthuanxie.cn/cc-audio/82/82d0f5fd4e270b2c6b2b81ba0d6f3f503707cd86.mp3"
@@ -163,10 +163,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/e0/e01480ad0446d60f1215c94681319f9096644cbb.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/1b/1b85dd8d61a8cfb57f67c0971abd4763193b2f19.mp3",
-          "https://api.clthuanxie.cn/cc-audio/34/3458316756ea82e7351d0af35a972b5a81e50fd3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c7/c72e61fc706ef838b4ff8ac2a0e6776dc5f6de90.mp3",
-          "https://api.clthuanxie.cn/cc-audio/06/06add9f93571a43a7a2118fbe1a03536bfc59e59.mp3"
+          "https://api.clthuanxie.cn/cc-audio/1b/1b85dd8d61a8cfb57f67c0971abd4763193b2f19.edge-6ef3a2f82ece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3458316756ea82e7351d0af35a972b5a81e50fd3.edge-7e5868982dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72e61fc706ef838b4ff8ac2a0e6776dc5f6de90.edge-57ee4dbdc5cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06add9f93571a43a7a2118fbe1a03536bfc59e59.edge-9a73e16e35bb.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b35f06bde877d499f2bb950538a111ee0c29e9a7.mp3"
       }
@@ -213,7 +213,7 @@
       "answer": "2",
       "explanation": "第二行已有 3, 1。还缺 2。填入 2 满足行不重复。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9a/9abf191e86fba43c5a270a1280ac4ef69e9812f1.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46dfec623c000d9b517d2db1af5edf3eb2225710.edge-70810538b33c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
@@ -244,7 +244,7 @@
           "https://api.clthuanxie.cn/cc-audio/12/120555c771c4a73f4c086b6138720bd1fab84544.mp3",
           "https://api.clthuanxie.cn/cc-audio/fa/faf839242e5669603f5f54276004cd307c3de4a4.mp3",
           "https://api.clthuanxie.cn/cc-audio/6c/6ca6738e54b83abef20aca22a2507003bf266193.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/20/207dac42cef3308851d2674b261b1eb9eb15c94c.mp3"
       }
@@ -301,8 +301,8 @@
       "answer": "4",
       "explanation": "每列必须包含 1, 2, 3, 4 且不重复。现有 1, 2, 3，剩下只能是 4。验证：$4-3-2-1=0$ 不是加减法，是逻辑填空 ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a3d2dd6ab4d605a2d4db5e117f0bebb54fcf797.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26c3083a9cb4278bda0761ada27d156a09b1d3d6.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9dc23687ed12d961ea1b74c88a1dfb39038f816.edge-cb571c5cd492.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57c63cfdbb8d4f334f3ef18d49c5d34ce8ad9fe9.edge-628dd71df683.mp3"
       }
     },
     {
@@ -316,8 +316,8 @@
       "answer": "81",
       "explanation": "$81 \times 1 = 81$。任何数与 1 相乘仍得该数。验算：$81 \times 1 = 81$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d57080e7e2e8458cfd49406a917365e673d8854.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a14f71d8e60ef27d3a66f4fe7bae3714bc62d08.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a91e7a0b744c9166aa0e4ae33adcfa9752bb8720.edge-2ab6cba13fc6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6944930d5eb1d16a99822f139968d4495d0e721.edge-fd7f96e27645.mp3"
       }
     }
   ],

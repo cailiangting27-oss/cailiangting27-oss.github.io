@@ -21,17 +21,7 @@
         "相信网友借钱请求"
       ],
       "answer": "控制时间不沉迷游戏",
-      "explanation": "健康上网不沉迷。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f48db983f786d1bace3f3e335a665c1e7f753eb.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/76/7645188fcaa4418a7c9fdb47f5a25739f62544a0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ba/ba9ff42ed119429278dbb3244c2c9ececf47f891.mp3",
-          "https://api.clthuanxie.cn/cc-audio/28/28a5dce41788ed3efcb62441164a6011b81f5dec.mp3",
-          "https://api.clthuanxie.cn/cc-audio/00/008f2d6e1341631d46b56aa693c66e1b38e9a2de.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/63/630ea16ef85306d31d6e2b15e21d98e5b7cc35b7.mp3"
-      }
+      "explanation": "健康上网不沉迷。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "不能把个人信息随意透露给网友。",
       "options": [],
       "answer": "对",
-      "explanation": "保护个人隐私。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/db/dbd128ec57c489a8571ee63a88ca5af3acd45726.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92b4b96b7020250f312a59dd21fb57873889c61a.mp3"
-      }
+      "explanation": "保护个人隐私。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "把家庭住址告诉网友。"
     ],
-    "tips": "网络世界也要守规则。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/05/058fc24c9ca6b2cc43f1c3386371a1c5dcfa1f46.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/04/04f0526d4ef35a7465bb2b53582ac4462f269338.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/4a/4aba6129dd7ced7a2fc6626a47e416f01be9bfa9.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/1c/1c9f8c5b29fb53c2c30bf59037b7e42c367afeb2.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/ce/ce0462fc0500458d2256aedec69b8d752603ba6e.mp3"
-      ]
-    }
+    "tips": "网络世界也要守规则。"
   }
 }

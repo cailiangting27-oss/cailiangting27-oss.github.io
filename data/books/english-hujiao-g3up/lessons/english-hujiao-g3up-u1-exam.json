@@ -23,14 +23,12 @@
       "answer": "Nice to meet you, too.",
       "explanation": "回应加 too。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/52/5226d921caed7dea78f0dc0c5aef1f0fa8a3c854.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/be/be3a062abde27913d24e3333dfa29f9841899bca.mp3",
           "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3",
           "https://api.clthuanxie.cn/cc-audio/bf/bf8ede6939e07cccedc58ae7e701dd7e23c1fb17.mp3",
           "https://api.clthuanxie.cn/cc-audio/08/081c8777a8ae4fa6f9d519bdd586f8ee653d28f1.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b18cc728bf0e15dd9f41e6fb39f69507ff0efb6.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "Goodbye",
       "explanation": "放学道别用 Goodbye。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/84/84bc76185e8707c3174f2d1b51f5e9a5a0c57df6.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
           "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
           "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
           "https://api.clthuanxie.cn/cc-audio/6a/6a4f54efe3b40734df6708630f3050c409c709a5.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0cf63fd056362d7644a772e3fbb80be715bd426.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "Good evening 的意思是「晚上好」。",
       "options": [],
       "answer": "对",
-      "explanation": "Good evening 是晚间问候。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/49/4996d8a964c50a5557712dd2340152a2da8a94f0.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88d7068fb454e09885b0adbe9415bd4f36a9a23b.mp3"
-      }
+      "explanation": "Good evening 是晚间问候。"
     },
     {
       "id": 8,
@@ -90,14 +82,12 @@
       "answer": "Good morning, Miss Fang!",
       "explanation": "互相问候用同一用语。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6f5e66374a381f35c8c11fe4302298d060db5a7.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/da/da59e91b68650200a02b556d5810ed6e02b0174e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/15/15780c23a0b16207237f5f16f144175cf2223aa1.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/15/15780c23a0b16207237f5f16f144175cf2223aa1.edge-09cbb044b4f9.mp3",
           "https://api.clthuanxie.cn/cc-audio/8f/8f846145b726c8fec999a3bf1a01fe31c65f798d.mp3",
           "https://api.clthuanxie.cn/cc-audio/69/69342c5c39e5ae5f0077aecc32c0f81811fb8193.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3650cab7b3a309e56f4b5799528c3f26a3d8eddc.mp3"
+        ]
       }
     }
   ],

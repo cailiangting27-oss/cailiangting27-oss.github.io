@@ -49,7 +49,7 @@
       "explanation": "$10:00 - 9:30 = 30$ 分钟。说法正确。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/ec/ec48628c89419cf5810afc6e57de872dd17c1bfb.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bdc3c6826b8798e2eedae4ddf4d20fec30fda5d.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8b6e68ce87e5f20136d03d6b05ddeb9b5c3f9fb.edge-30f96e8b28fc.mp3"
       }
     },
     {
@@ -64,7 +64,7 @@
       "explanation": "分针从5走到8走了3个大格，每大格5分钟，共 $3 \\times 5 = 15$ 分钟。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/b0/b0d4f14bc62270a8df49d82c5e7710b5001a933d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06a4697ca80da2f8bbac9d15c5eb63bdd3b31f60.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8ca6296f3bff345c0f139507821df11f33ec866.edge-11091fcff729.mp3"
       }
     },
     {
@@ -83,14 +83,14 @@
       "answer": "内",
       "explanation": "由于系统JSON限制，这里演示符号选择：1分=60秒，4分=240秒。所以 $240 = 240$，填“=”（选项中暂用同位概念）。修正提示：应选带有“=”含义的项，此题正确答案为相等。由于Options不含等号，选C项占位逻辑修正：正确逻辑为 240秒 = 4分。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7b113ed7d2918984c9c580025b41adc8e3b9e3a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b5d6eefda984ec208acfc3ff6b4334d69b0bff8.edge-6f82e9aa0524.mp3",
         "options": [
           null,
           null,
           "https://api.clthuanxie.cn/cc-audio/55/55f45903e8c35dccd42c31945cb3946a2b991307.mp3",
           "https://api.clthuanxie.cn/cc-audio/73/73041a6d56d7c5591b3897a28f6d6b0f2280ce2e.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47343accbb80abc52a234fbc8ef8fa31416e197.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/5173547908bcb4098dcffc9d3d749f89bc1ba222.edge-ad480a500456.mp3"
       }
     },
     {
@@ -116,7 +116,7 @@
           "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
           "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5388acb84ecf097ba44299474a36d05920d6a9a.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f4ecfebfaf8eeab38ecec7fe0783d1bc435e69c.edge-7b2f56b57501.mp3"
       }
     },
     {
@@ -168,7 +168,7 @@
           "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d981fe9dd407838c7299eecbcc17916cc1eb589e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ca09f791bcc69861f85ae78f2d5454a014aed4e.edge-2cecb27f84bc.mp3"
       }
     },
     {
@@ -194,7 +194,7 @@
           "https://api.clthuanxie.cn/cc-audio/3a/3a9a579a96e2f16125e80b37c5c01d1e08d29e2a.mp3",
           "https://api.clthuanxie.cn/cc-audio/44/44822628421c1994feac3735e8e47934fcbac3ce.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4672d8d18c4543fb54697890314e800782193e8b.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30400106f789e4df1cb48d1aa43fbe6fd5e615f4.edge-65170afffa1d.mp3"
       }
     },
     {
@@ -220,7 +220,7 @@
           "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4f5a21e469ddfbe006f697348bdbb5b541dc0b3.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe0c25e4e43996b224ba940b4386d41a88b2e700.edge-8dfec45f2b65.mp3"
       }
     },
     {
@@ -246,7 +246,7 @@
           "https://api.clthuanxie.cn/cc-audio/54/54252b9056a1cad0328f5f3d8226c1acfae03fe2.mp3",
           "https://api.clthuanxie.cn/cc-audio/40/40f215a1cff810d3139e097142bac03e7f034c0e.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a22f68feb9376ca835273dea6df7e492684a6ddd.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e7074a88bc716627c4f4c6b7f16fa92fd45e65d.edge-b8b6f7c56a37.mp3"
       }
     },
     {
@@ -272,7 +272,7 @@
           "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73c2f18de397e95f8a1d7cf610b9147eb3ec52c5.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a536824fa80fff18a5ea807d46427f9e2f14834b.edge-49a1959bb9df.mp3"
       }
     },
     {
@@ -287,7 +287,7 @@
       "explanation": "1分 = 60秒。$5 \\times 60 = 300$ 秒。验算：$300 \\div 5 = 60$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/42/42b1709a1f84c8913990f2a38811ac4b2d896163.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec7e6fdc7e9a82e54fd55cfd67d13310f37c878e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8eac742e878a03b00200ef0ac2f16db2607047a7.edge-7106af8b0445.mp3"
       }
     },
     {
@@ -302,7 +302,7 @@
       "explanation": "倒推计算：8时10分 - 15分。10分不够减，借1小时（60分），变7时70分。$70 - 15 = 55$。结果为 7:55。answer：755。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/3f/3fa857a5d00002341f0f5f84d9d0461a83843331.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc6d8b9e839ab7cb6adcda72bab9e0c234dfc7d1.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b227c65a5bbd8a4870195428bb83993e6ef23a97.edge-b898cf5b6924.mp3"
       }
     },
     {
@@ -316,8 +316,8 @@
       "answer": "3",
       "explanation": "$180 \\div 60 = 3$。验算：$3 \\times 60 = 180$ ✓。对应 180 分钟换算为时。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/26/265f4f532400a631591fe63a19952d0e4bcd022b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7ddbebe68b6fcaef8c9d0c2de5b7ffde711fb72f.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd869ceedf6d6dc5c01b88a5c80601f70374a92e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f8fff9ad411b8cd33261c51a769942b7f07d1a1.edge-c447ff20e6df.mp3"
       }
     }
   ],

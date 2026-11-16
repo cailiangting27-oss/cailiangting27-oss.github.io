@@ -45,7 +45,15 @@
         "He liking playing football."
       ],
       "answer": "He likes playing football.",
-      "explanation": "三单 likes。"
+      "explanation": "三单 likes。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a07ffe83d17a095183d467551fc6836d5de40cf.edge-c28864a320d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f65474674c88fe99e145e4893141854d2d620c0.edge-4ddc0eaf686e.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

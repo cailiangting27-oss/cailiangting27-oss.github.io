@@ -19,7 +19,7 @@
       "explanation": "分成（3,3,3）保证次数最少是 2 次。分成（4,4,1），若前两次天平平衡，则只需 1 次；但若天平不平衡，在 4 个中找次品还需 2 次，共 3 次。保证成功的次数（3,3,3）更优。验算：$3^1 < 9 = 3^2$。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/ec/eca31c52cd3081630319a1855bbdfcb8c95ccc6d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e8a1c716d87e27f94addcd483905d27c14f2e4f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de8f612c698bcda5e70b8753fd9555b83f16211a.edge-b0f5baef4f4f.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
       "explanation": "$3 \times 3 \times 3 = 27$，即 $3^3 = 27$。对于 27 个物体，通过三分法只需要 3 次就能保证找到。4 次不是最少保证次数。验算：$3^3=27$。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/97/97cbb15915272e93a395c2c759033b7dabe5066d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/79/796c744a820b59a0268740c310088b6aa3848037.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6687d76a08b60576bf906e6f6b3d15e6d464c3b.edge-ebcdb5254972.mp3"
       }
     },
     {
@@ -60,7 +60,7 @@
           "https://api.clthuanxie.cn/cc-audio/b6/b6350c687bd070d040073c2eebe980ba3ee7e070.mp3",
           "https://api.clthuanxie.cn/cc-audio/79/79143054c9c3b220109449dd45f7f850b7931ec3.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97da6c21b38312fdf9cb69d88d9c0f99b9b23c35.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8efdc47dc56aec9ee2f018dfc2214ccac64a3799.edge-dd875e13ba19.mp3"
       }
     },
     {
@@ -86,7 +86,7 @@
           "https://api.clthuanxie.cn/cc-audio/b1/b15988bb52519a59218877097a1b3441313af51a.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7cd2ee1339f2c31fa5b67bb326a51aadc2ac7c3c.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ceecfdc369baa3813ea1c7d0e49365743f8cc16.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de270bfee79e14e45aa52cb9d1295acc2390e589.edge-db6c5f1bab16.mp3"
       }
     },
     {
@@ -112,7 +112,7 @@
           "https://api.clthuanxie.cn/cc-audio/1d/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.mp3",
           "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a043a736d8fe86496da66a2918af442538756a22.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc1b5b782961b620552aef18269d1e1805b531d9.edge-3f36f5e2a825.mp3"
       }
     },
     {
@@ -138,7 +138,7 @@
           "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
           "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/15/156a3e7e3b361c0c766f7ecac792fcf4b9a98233.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f4625e49d55e827a58d9daa8bac62a5844d6e5e.edge-6d03e98ab29b.mp3"
       }
     },
     {
@@ -164,7 +164,7 @@
           "https://api.clthuanxie.cn/cc-audio/79/79143054c9c3b220109449dd45f7f850b7931ec3.mp3",
           "https://api.clthuanxie.cn/cc-audio/99/99e775d1de1330fb16cdb9fd6ff2ab92199c5c44.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a45cbe861835d8bb89d0ae2bf34611b3437733d5.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d459942ccfcfcbbb36f7d9ab065f3344e22babd.edge-4d51e6811241.mp3"
       }
     },
     {
@@ -179,7 +179,7 @@
       "explanation": "公式 $3^n$，当 $n=4$ 时，$3 \times 3 \times 3 \times 3 = 81$。验算：$3^4 = 81$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/bd/bd2019fc33bed3e7121ef36ef80ac24f3da11c54.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b32339508383cc61f3244376d7a9aa64e82fc98.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbc82fdf650dc12628e81614d12f5aaa4588dbd1.edge-b0a66400a846.mp3"
       }
     },
     {
@@ -193,8 +193,8 @@
       "answer": "27",
       "explanation": "$3 \times 3 \times 3 = 9 \times 3 = 27$。验算：$27 \times 3 = 9$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2eb269bf87b399153d18dc264ab319c2c7a1625.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef45bd00c8f6bab7e8a157f7ee8bc2bcd20836b.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15ca889585e23bf0ec4d8df9cfd3141901e96c32.edge-776cc83a8478.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a88f191a82dcc896ad381ed8de14f00d288ba46.edge-9ca45f075bf4.mp3"
       }
     },
     {
@@ -208,8 +208,8 @@
       "answer": "12",
       "explanation": "$3+3+3+3 = 12$。验算：$3 \times 4 = 12$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e3a52490ebbb8f3e6d110e32a7d6af58edf0c00.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d2cb712c3d23fb0b32075b418e7785bfc25bfdb.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cbf81fa4378e99ec2e0e55290794260eeec0023.edge-2b9b913ab2b5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1787615ef5de4256e5324e9030de704d9dbe637.edge-92d444c5dc64.mp3"
       }
     }
   ],
@@ -224,11 +224,11 @@
     "tips": "背熟 3 的前 5 次幂：3, 9, 27, 81, 243，考试时直接对号入座找区间。",
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/88/88fb666cd5023d964f257bc3680cbaa3dfa210db.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/51/5108a8901a26f038930c086096c20eecc5bfea08.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d676000a6843f94418bf59443c17b0ed4a294e45.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/97/9782547de01307a6a19a6307fdc3627c578e6eac.edge-c59178926ff0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/18/185dd1784041997f67d3ec1ebadee4cf621f0995.edge-2eab4ec843d6.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/d2/d20d7a52f4c481af4eaf6dfb1fd2b684ef3fcccf.mp3",
       "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/08/0860aac127471adb6ef68dcfe20a513b7b698b2a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/06/0602598867eeb7fc678431f9a36c794db4e40b1a.edge-3e634bab75f9.mp3",
         "https://api.clthuanxie.cn/cc-audio/c1/c1c58110e93d4e69c741165b033e4337eb8469a4.mp3"
       ]
     }

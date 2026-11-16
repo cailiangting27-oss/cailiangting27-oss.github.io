@@ -16,11 +16,7 @@
       "question": "球没有平平的面。",
       "options": [],
       "answer": "对",
-      "explanation": "球面是曲面。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/60/606287620a0c733fd655dfb2550d2bf29b28678e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31acaef662dfc5813652154ea8237d8368704e45.mp3"
-      }
+      "explanation": "球面是曲面。"
     },
     {
       "id": 6,
@@ -38,14 +34,12 @@
       "answer": "圆柱",
       "explanation": "上下一样粗。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/25/258cd6b2e28a11b22dbde226de96a8d5035198ba.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
           "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
           "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
           "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10b12eb3f55da2c2002e194497f88441b9a2db0c.mp3"
+        ]
       }
     },
     {
@@ -64,14 +58,12 @@
       "answer": "正方体",
       "explanation": "方体有平面好堆。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b63f97396c830c59609623092528a0965779593.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
           "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
           "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8e/8e042dd5c501e10693d5b93c41c92a2fbb05dbae.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1d7b795191fe5c4cd12f6ddd3489d43206bb818.mp3"
+          null
+        ]
       }
     },
     {
@@ -83,11 +75,7 @@
       "question": "圆柱躺着放容易滚动。",
       "options": [],
       "answer": "对",
-      "explanation": "侧面是曲面。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/35/352d24ed9a9da5f77f0a2464c286bcf3585b1836.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a08c072d807d13ce1390627cec57fd0bb457aac1.mp3"
-      }
+      "explanation": "侧面是曲面。"
     }
   ],
   "knowledge": null

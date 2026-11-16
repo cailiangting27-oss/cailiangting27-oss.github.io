@@ -18,8 +18,8 @@
       "answer": "对",
       "explanation": "这是进位加法的拆分法：个位相加满十向十位进一。$8+5=13$，$30+13=43$。验算：$43-5=38$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/25/25cbf670acc0724f0e531d1d311d454b8a4f8974.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a55dc8b76c7c067b0c899374972bae8612f53d41.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b026250fd6ed58fe04bd78a0fa8062655b5b3c4.edge-c0fe521bce9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f8763a3995a757fb6d1ad88927063e699e1e7fa.edge-cf055d3da3ca.mp3"
       }
     },
     {
@@ -33,8 +33,8 @@
       "answer": "错",
       "explanation": "个位不够减，$16 - 8 = 8$，个位应该是 8。$76 - 8 = 68$。验算：$68 + 8 = 76$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e4c3206b3f3122cd9a9e4e5a5d06347e6c60884.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09cf2ee993c2ee1de71984a1e855542ec8d61dc7.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac7b11cbd902f5e07bf1ae3215397a5fbefefaf7.edge-b7dd9de28161.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31e4be2786adfc3eea6735163cdf7e5649b298e5.edge-e2e3949d02c9.mp3"
       }
     },
     {
@@ -48,8 +48,8 @@
       "answer": "对",
       "explanation": "$40 + 30 = 70$，$80 - 20 = 60$，$70 > 60$。结论正确。✓",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c4218caf82449462cb891d86a6e1a49ae662199.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8effec7fe87e78917a15a73c21bc69c1bf4d792c.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffad87c6ff236108157b8ca78f1a293f02629ff5.edge-81b34ce53d56.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08d0dabc288d3a8aeccf07a547d335f07eb8ae72.edge-735121b0d7d4.mp3"
       }
     },
     {
@@ -72,10 +72,10 @@
         "options": [
           "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
           "https://api.clthuanxie.cn/cc-audio/b3/b37f6ddcefad7e8657837d3177f9ef2462f98acf.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.edge-48c777b9b157.mp3",
           "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3e9c0b600c6c8f8600246c80345b73959238264.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88935bbefd88544f0ef99f9d3afc9c1d5c7fa231.edge-378fd1cb4d0c.mp3"
       }
     },
     {
@@ -101,7 +101,7 @@
           "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4debcc15bee4571a1977be9f7d5d8a9860109957.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/538b8fbe60b4b34d1021e3661ab633115b195883.edge-b83b8cd71858.mp3"
       }
     },
     {
@@ -120,7 +120,7 @@
       "answer": "10 + 20",
       "explanation": "含有小括号的算式，要先算小括号里面的。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b6fda08ebbbad43ae5bed97a4a3ef87f4c3d90c.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/92/922fc01b540a8032517c542354d4f76b0c5f30cd.edge-d051e7338987.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/10/1000c7bcef0bb5245d04b39e06282b48605ce978.mp3",
           "https://api.clthuanxie.cn/cc-audio/1d/1d0e28270c1e7bef2a9249951797ee5527007c4c.mp3",
@@ -153,7 +153,7 @@
           "https://api.clthuanxie.cn/cc-audio/2e/2e0335db15663f4189c5879fc9c8b0d91ff17c90.mp3",
           "https://api.clthuanxie.cn/cc-audio/17/17b8e8ec076f796268b3f1dbc35134c2d5e154be.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b026127ffac995cd764257d7b81e545cc6771e5.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da23945e83b4f8ed5cfa7e768ed4c517285f537a.edge-e6e1f92e7cd5.mp3"
       }
     },
     {
@@ -198,14 +198,14 @@
       "answer": "95",
       "explanation": "规律是依次增加 10。$85 + 10 = 95$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/18/18c64573ce781ff5d948d3c960a2703fe7d0644f.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/51/5119a124a4285f173beb36f9fc96ddcc140f4a46.edge-51936e2703c4.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.edge-48c777b9b157.mp3",
           "https://api.clthuanxie.cn/cc-audio/8e/8e63fd3e77796b102589b1ba1e4441c7982e4132.mp3",
           "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77eae72c75181bef3a6f532cffa091eb7dec6154.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b690a7faf3c0a9a607ef803cbc95eaee04fad3d.edge-4656aa1ce34d.mp3"
       }
     },
     {
@@ -249,8 +249,8 @@
       "answer": "30",
       "explanation": "第一步：$50+20=70$；第二步：$70-40=30$。验算：$30+40=70, 70-20=50$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7419fb6805a4fcce8e02e0a9573e37ba969957a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa65b8cd1394d20ca62000baa2e2738dfe065db7.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a6b5c1f23dcb3812a8130f0776e49bb2e56dab6.edge-c99f38514452.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fab2898f50673538731c98c7c3d823580784918b.edge-0bab01dd7216.mp3"
       }
     },
     {
@@ -264,8 +264,8 @@
       "answer": "36",
       "explanation": "第一步：$15-9=6$；第二步：$6+30=36$。验算：$36-30=6, 6+9=15$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4d4c070073bc96f84dfb0ddc95c85082365c14c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81aa4e99f448126517d991837e847068cdbe1d0e.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d0e669da12ed1cb846c49717f1218d01c405185.edge-1f70433ef45c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff5a91ac8df2c5c0ffceaae0c45c4c4bec45b92a.edge-6e0d8144c461.mp3"
       }
     }
   ],
@@ -281,7 +281,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/d8/d8faeea8183db44aeb0f999bac7358463cae78f0.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/9f/9f570df9dbe2b4f44d1144f426ebac6ae4a7a76d.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/ad/adac7b4ccbcc6d8168c114679410b18ff92e5342.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0f/0f33cb46c7c38b6eeeeadf685b7e4cb6de774a22.edge-8d861a83ce60.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/2a/2a2391049122d7db9349e2ca84acd9768d2766bb.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/24/24437763355fa81b68fcdfe2d7d4ef8c80164543.mp3",

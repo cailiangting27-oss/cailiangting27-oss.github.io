@@ -23,14 +23,12 @@
       "answer": "It's on the desk.",
       "explanation": "在表面用 on。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/28/2814b45e9863f3fbf5d3bf2e5dbe511ab6d692a6.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b5/b5a110b3d88b2efe7db1155e3860d10ed47e075d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/59/59ba19f342ef61bb7a33bfb99aa765f3e781f7c9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d1/d1665139f9a786dd083a12f3695c9dc3f4cf0b40.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/d1/d1665139f9a786dd083a12f3695c9dc3f4cf0b40.edge-61127297603e.mp3",
           "https://api.clthuanxie.cn/cc-audio/cb/cb93a4a99825d9f80a48165d432ee3dc27705f2d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34a6e911f5f985321598b2107374357ce947033e.mp3"
+        ]
       }
     },
     {
@@ -47,17 +45,7 @@
         "The bag is a chair."
       ],
       "answer": "The bag is under the chair.",
-      "explanation": "under = 在……下面。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/24/2470ab645fa6b1eefcfdfb863a2910ffa766acd1.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/cc/cc0cd85eaeead354f96abd4e36a2d774ae80a213.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b3/b351d2d6277b4829ada0c1c46617e0d97082110b.mp3",
-          "https://api.clthuanxie.cn/cc-audio/32/321b492756c8daf1a4a4137bba08423f86fbc1f9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/37/376975ac57c098b72d3a71233c2a2520d7e9f5da.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a20e3b1ee63bcc6508d7803167af1eec72f92204.mp3"
-      }
+      "explanation": "under = 在……下面。"
     },
     {
       "id": 4,
@@ -68,11 +56,7 @@
       "question": "in 表示「在……里面」。",
       "options": [],
       "answer": "对",
-      "explanation": "in = 在里面。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c348b90bab830e7f29bd1a9d410d9fe7eb3dcc0.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/32/322e77f207ed2fdae0cbd9b03958784f21194c26.mp3"
-      }
+      "explanation": "in = 在里面。"
     }
   ],
   "knowledge": {
@@ -82,15 +66,6 @@
     "common_mistakes": [
       "on 与 in 混用。"
     ],
-    "tips": "接触表面用 on，包在里面用 in。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/0b/0b8c7bbb12f9d7f6022da25312511964520ba092.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/59/596cef0f316069472e96166e7d93caac4e6958aa.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/da41ab8208d4720aebef797df4f8936c4e4c88e9.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/44/44628f879c6cb864916e1fdac8425b201f6f1b2e.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/ce/cebab4ea5e13e71d3260a0e6e414f6fe79a7bbd0.mp3"
-      ]
-    }
+    "tips": "接触表面用 on，包在里面用 in。"
   }
 }

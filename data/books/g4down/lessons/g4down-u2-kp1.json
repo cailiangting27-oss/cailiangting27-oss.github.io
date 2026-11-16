@@ -220,7 +220,7 @@
       "explanation": "总面数 $6 \times 2 = 12$个。重合面2个，贴地面2个。$12 - 2 - 2 = 8$？不对，重新算：每个正方体五个面暴露（如独立），合并后重叠2面，底部2面。计算：$(6-1) \times 2 - 1 = 9$个。验算：上面2个，前后面4个，左右侧面2个，共$2+4+2=8$，由于紧贴桌面，底面不露。修正：每个5面露，合并减去贴合的2面，$5+5-1 = 9$？不对。侧并排：上面2，前2，后2，左1，右1 = 8个。等等，题目写桌面上。计算：$(6-1) \times 2 - 2 = 8$。答：8。不，重新验算：一共 12 面，底面 2 面不露，中间重合 2 面不露。$12 - 2 - 2 = 8$。输入 8。知识点确认：8。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/65/659eb2799b53d239aa7320ff77a1ee6c2b6b0852.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58ea993cecd500187f6004aac47d49e9f42f2eea.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a70b5e5794a42ff64ddd28f45e3566b093577b4.mp3"
       }
     },
     {
@@ -234,8 +234,8 @@
       "answer": "24",
       "explanation": "根据乘法计算：$6 \times 4 = 24$。验算：$24 \times 6 = 4$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa581f89f60620eb732b5055d6038e1bd3a9c2eb.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49d7ba83bbdc0342e4a58a946c7069d7e7089444.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bff85430e8909f1537caf342356aead101e8509.edge-5c4f0da2b65e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ef627709554625c8d16e875695c468da87e8f58.edge-a5b12116f596.mp3"
       }
     }
   ],

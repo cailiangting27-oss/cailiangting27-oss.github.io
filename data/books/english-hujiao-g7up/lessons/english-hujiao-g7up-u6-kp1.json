@@ -37,7 +37,15 @@
         "hotals"
       ],
       "answer": "hotel",
-      "explanation": "hotel 酒店。"
+      "explanation": "hotel 酒店。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14e833557d06a77a35a73e93cc9fe9606e84c4cf.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

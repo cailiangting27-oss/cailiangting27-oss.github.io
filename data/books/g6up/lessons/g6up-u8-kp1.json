@@ -19,7 +19,7 @@
       "explanation": "$1+3+5=9=3^2$，符合前n个连续奇数和等于$n^2$的规律。验算：$9=3 \\times 3=9$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/0a/0ab560b0ca37f76bfea2bc96478a985e4be4ca37.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/38/3851fa21fbe7dab974bb02df3b819360c9131cbe.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cfa7ba4a2aa5ba7bb93678c4faf643f1a55363d.edge-e23a56f31505.mp3"
       }
     },
     {
@@ -33,8 +33,8 @@
       "answer": "错",
       "explanation": "规律要求必须是连续奇数，10是偶数，不符合前n个连续奇数和的规律。验算：$1+3+5+7+9$才是$5^2$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/47/473781f20830fb9f29b69e13947c312d8c147248.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c7a1604850a9794f0f5a64a4700922aa092d341.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f692bbdb347a175ea0fa24cc5ec4894c0a791077.edge-ce6065f64e37.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8669af8837c8a75c99a7a035a66481803200d466.edge-4f51b17fcc2e.mp3"
       }
     },
     {
@@ -48,8 +48,8 @@
       "answer": "对",
       "explanation": "这是前5个连续奇数的和，计算为$5^2 = 25$。验算：$1+3+5+7+9 = 25$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d6aa9d00b6b3f4de9daa665fbfe585afc36b126.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7fa213e5b543c041b1b2ede21442240581fbf5c.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17fc2affd769407a7e3ba82aa7e4245796701bc0.edge-a24e87b9552a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adc39e5f74da50c2ec489a7bd7adcbe38c03d41f.edge-89ad974a7d66.mp3"
       }
     },
     {
@@ -83,14 +83,14 @@
       "answer": "49",
       "explanation": "共有7个连续奇数，和为$7^2 = 49$。验算：$1+3+5+7+9+11+13 = 49$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fac64161618f2203bbf7d17b93033274be95c8f.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20d43b4dbe9bafdf78da438ccfc5a4b0977c0e50.edge-6e4663c4d03c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
-          "https://api.clthuanxie.cn/cc-audio/2e/2e01e17467891f7c933dbaa00e1459d23db3fe4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e01e17467891f7c933dbaa00e1459d23db3fe4f.edge-c89692c86cdf.mp3",
           "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3",
           "https://api.clthuanxie.cn/cc-audio/1d/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbaa453641687b94fde3e96b916b4ea241ec7236.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffe00af120ceccece5f0c7d6df2a6488e8f359af.edge-39eed39260ef.mp3"
       }
     },
     {
@@ -109,14 +109,14 @@
       "answer": "19",
       "explanation": "$100 = 10^2$，说明是前10个奇数的和。第10个奇数是$2 \\times 10 - 1 = 19$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a0034c535706f19167bc0c86463d4732f9d11c3.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23f694808729f5c37757213f4d12c633f27ab78c.edge-a9dc1387040d.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
           "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
           "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
           "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79f438a36d5b4a8be619fb355fc42e3346e9606f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02fba9ebaa02fc71fe79fcd1089afe82909e58a7.edge-a2ced623ad69.mp3"
       }
     },
     {
@@ -142,7 +142,7 @@
           "https://api.clthuanxie.cn/cc-audio/b4/b445321cbdd126dea29675fb58b4aec09fa6fc62.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8b0b5d3f68bd154dff1edcd85e33aef56fc13b7.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19c48ace75b96034898ebeef0b215db859a882d0.edge-cea087753c57.mp3"
       }
     },
     {
@@ -161,14 +161,14 @@
       "answer": "41",
       "explanation": "$1+3+5+7+9 = 5^2 = 25$，后面 $7+5+3+1 = 4^2 = 16$。$25 + 16 = 41$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5d/5df74886948ebd7beff0b1e444349512a697b114.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/67/670db4253f2042c3352f70a7f6215a4b665d980d.edge-13b687ba53c8.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f1/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.edge-ca87c652abde.mp3",
           "https://api.clthuanxie.cn/cc-audio/76/761f22b2c1593d0bb87e0b606f990ba4974706de.mp3",
           "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc5145e7868824d694f418b07e2335648d251fca.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c663466c2f33f2f01ffc21c32a244043044d19d.edge-2a84144282f2.mp3"
       }
     },
     {
@@ -194,7 +194,7 @@
           "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
           "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6aebf39d2d4a4b277cf10c8cc97fb53af6c0c9bf.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3272f16070ddcc080ea1a8f0bdd209622ba89aff.edge-f637c26e009c.mp3"
       }
     },
     {
@@ -220,7 +220,7 @@
           "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
           "https://api.clthuanxie.cn/cc-audio/8b/8bd7954c40c1e59a900f71ea3a266732609915b1.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3c2a72b4dc7694ac570801401cad4ca74d1f292.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17547b90dc73332ae7d21d8330e8ee02f4c06a2c.edge-643770720e46.mp3"
       }
     },
     {
@@ -239,14 +239,14 @@
       "answer": "75",
       "explanation": "可以看作 $(1+\\dots+19) - (1+\\dots+9) = 10^2 - 5^2 = 100 - 25 = 75$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/aa/aaff1b1128733a16c4e71615ff026d55eedfc622.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8b0dcad038551e95cb8bfe3ac9e4165059f4c6f.edge-08cce9fadf2f.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/45/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.edge-6033c6fc6714.mp3",
           "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0c/0ca9277f91e40054767f69afeb0426711ca0fddd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0ca9277f91e40054767f69afeb0426711ca0fddd.edge-4423b320d746.mp3",
           "https://api.clthuanxie.cn/cc-audio/13/13682ac418603aa0966369d46bbf282f562acf47.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8d92f2a006fcdbf803230aa1320d3197c0a758c.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/807a1c53c53f6094035a5ab92d6407dc719cae56.edge-01b1871af26e.mp3"
       }
     },
     {
@@ -265,14 +265,14 @@
       "answer": "1+3+5+7",
       "explanation": "只有连续奇数从1开始的和符合 $n^2$ 规律 ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/58/58467556a48774d9a2c01ebe789bff5af0c97736.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4aebcfa2bed06a6adfc285c47617dfeeca1a0e4d.edge-d4a81e261d55.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/d2/d26025f99ffa69580e093419ade6d918174aa024.mp3",
           "https://api.clthuanxie.cn/cc-audio/be/bed65572595fae5307cd48d6d4c3bad57c9419a3.mp3",
           "https://api.clthuanxie.cn/cc-audio/44/4466fdc770aa15ecfd7c328e55c5c50820e85531.mp3",
           "https://api.clthuanxie.cn/cc-audio/d2/d20b804063ce098553f8751bd9014e47c8229eed.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34350a92726dd7b58d49cb5724b8d8e84bd7fedf.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/409914d3861416d6b1684f727664566d8ba83e2a.edge-0150ea628ffd.mp3"
       }
     },
     {
@@ -298,7 +298,7 @@
           "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
           "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be6e6b3b47b0b1ca41330815094bd5eaaff1ce43.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13e2789a73a868c3adcbcf6d611eb565b3d8b37e.edge-d779f9ac0594.mp3"
       }
     },
     {
@@ -324,7 +324,7 @@
           "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
           "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95749e2cd90156c8b58e2d9eff5b77bc529d28af.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4332be7391ba706112526ab1c317a23aca092570.edge-f9ecfaeeea4e.mp3"
       }
     },
     {
@@ -338,8 +338,8 @@
       "answer": "64",
       "explanation": "总共有8个连续奇数，列式：$8 \\times 8 = 64$。验算：$1+3+5+7+9+11+13+15=64$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/32/32fd1bd42243c245167ee020f9a4c551a724a108.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a62a18be0e1a7faf5be206513c2befca96cd0196.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/29/2994927b30f069e7a8a5ad30815e5672a2812f3d.edge-d2769039d5bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6d6111531317b7abf869f033b8738f30c935d6e.edge-0b23d8407dab.mp3"
       }
     },
     {
@@ -354,7 +354,7 @@
       "explanation": "直接使用公式 $n^2$。列式：$15 \\times 15 = 225$。验算：$225 \\div 15 = 15$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/f7/f7a18808c1eac12ca0f339e1dcfcfdf7d30ceb5f.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/81/816765fdc2bce7146b73e3b77e81cdcb13d9f39a.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfeeadbd13ed7a45bd07457133cfd00eea2d8555.edge-53f7994992c6.mp3"
       }
     },
     {
@@ -369,7 +369,7 @@
       "explanation": "最外层点数计算公式 $(n-1) \\times 4 = 20$。列式：$20 \\div 4 + 1 = 6$。验算：$(6-1) \\times 4 = 20$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/c5/c52b47edbeda2104a2a85af13fe0a9a4b53913a8.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/42/425cfe8f894683e16c805b33863125099e133856.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a59808d5a18912a41850d0b1506b3d8ac28d98ba.edge-e9bd863f841a.mp3"
       }
     },
     {
@@ -383,8 +383,8 @@
       "answer": "81",
       "explanation": "$9 \\times 9 = 81$。验算：$81 \\div 9 = 9$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/57/5739a1c34d15637600957510a04002896337c10e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/13/1367a7daaf935a706d9e7c182765782f1d8e65be.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7caac471daafd92ffa3ebced28bcb72b23678110.edge-2efc9f94b7cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe833f73fb21385d1eb3310932289d9b2fe8120a.edge-1ba9fa4cdfd9.mp3"
       }
     },
     {
@@ -398,8 +398,8 @@
       "answer": "175",
       "explanation": "$400 - 225 = 175$。验算：$175 + 225 = 400$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ed/edb25c965bb7434611f4838a581d8516a582559d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf2371debe830ee154402c31c6e122caaa6f6c9b.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0edbc7a58e37a74558a71debfc2368b7f648c530.edge-c22abee50a81.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8cb6b1be793e49b93a3f17f7f766ca2d7530d7d.edge-e21fe7e8c8dc.mp3"
       }
     }
   ],
@@ -415,7 +415,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/e4/e402ec96bbe865d8fdf94d828292c170b078e227.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/21/213eccdea6aeba7021a4b27d78790cfd80241039.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/42/428b5a7f1172f71806062467be092a678ae02f8e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3e/3e53190bf170970bf712bf1b920973d8e046b620.edge-ffe7e3da82fb.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/a7/a70b2ab0e4f9a33c88194b9c574cdf9593393638.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/d2/d28a71340b02fbf858fc7b563a70f4cba8ab2a88.mp3",

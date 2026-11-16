@@ -25,11 +25,7 @@
         "牙刷",
         "肥皂"
       ],
-      "knowledge_point": "洗澡和穿衣",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/08/084feadd36610b06d973e61e5169a3678df9de36.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d7a2782b2e6494926218f783602435517fb7928.mp3"
-      }
+      "knowledge_point": "洗澡和穿衣"
     },
     {
       "id": 30,
@@ -51,12 +47,10 @@
       ],
       "knowledge_point": "洗澡和穿衣",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/83/839ffd7451d85f54a5d7fe38a5bfa2dcfb2138ef.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/2e/2e34963bf893fa1446ff07eb0b3e438ea2756711.mp3",
           null
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e831f041d09da5e78c9942afe4aa5e75bfc5f9b.mp3"
+        ]
       }
     },
     {
@@ -79,12 +73,10 @@
       ],
       "knowledge_point": "洗澡和穿衣",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c2c85405a8746b089176ba5c51ee5ba419c26f5.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/2e/2e34963bf893fa1446ff07eb0b3e438ea2756711.mp3",
           null
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c08da274ea1d3c57eec0c244eb137c1b055d620c.mp3"
+        ]
       }
     },
     {
@@ -105,11 +97,7 @@
         "牙刷",
         "鞋子"
       ],
-      "knowledge_point": "洗澡和穿衣",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9a8aedf6edaca7304c6cc3fc0cddb073e4d1358.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6ad997e479cd58abfaf87ad6f13428614c58f89.mp3"
-      }
+      "knowledge_point": "洗澡和穿衣"
     }
   ],
   "knowledge": null

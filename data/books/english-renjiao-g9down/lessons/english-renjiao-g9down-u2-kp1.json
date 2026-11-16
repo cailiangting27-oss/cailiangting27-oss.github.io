@@ -21,7 +21,15 @@
         "is raining"
       ],
       "answer": "rains",
-      "explanation": "主将从现。"
+      "explanation": "主将从现。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ba/baf296ea7c93aadaf2a6ce6e134d085c96df5ba0.edge-4a1b4acb45e3.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

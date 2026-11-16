@@ -23,14 +23,12 @@
       "answer": "winner",
       "explanation": "win + ner。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a43a9a0005c9082e2d1e463a312b571f69b2aa3.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/85/85f940c72d551ab70c79a22134a14dc2838d31ab.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c7/c76ac2e9cd86441713c7dfae92c451f3e6d17fdc.mp3",
-          "https://api.clthuanxie.cn/cc-audio/5d/5de8608ebfdc073b05baf9a2c9f777853a2756b2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f5/f5a597d583f2696b6d051671f4c8a7d61c221ce4.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85654aa0b208912a4ba2b907d0e0742454d96512.mp3"
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c7/c76ac2e9cd86441713c7dfae92c451f3e6d17fdc.edge-4337169aceee.mp3",
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "can't 是 cannot 的缩写。",
       "options": [],
       "answer": "对",
-      "explanation": "can't = cannot。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e2e8f4c041b4304a67e84bfd2e57c1e24f19d34.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4d208acfdd5ab8a3db96b6998363d9200e0105a.mp3"
-      }
+      "explanation": "can't = cannot。"
     },
     {
       "id": 7,
@@ -62,17 +56,7 @@
         "The bird don't fly."
       ],
       "answer": "The bird can't fly.",
-      "explanation": "否定 + 原形。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/34/3420ebc67352ca8b42760fc9836db28121e32202.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/3d/3da20f75a435c0c093f296262f90b81ff516dbf4.mp3",
-          "https://api.clthuanxie.cn/cc-audio/30/30a395dbb99ceb8c2bf2bfd750b8799ee11abb2b.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c1/c1bd06443046918d4019b53f8f93853aaccb2986.mp3",
-          "https://api.clthuanxie.cn/cc-audio/72/7216ca3bfc2ccd062fcde8b5f43b17a0c3d6846d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71b819674722c64acca28bc8b457566be7d11031.mp3"
-      }
+      "explanation": "否定 + 原形。"
     },
     {
       "id": 8,
@@ -88,17 +72,7 @@
         "I can to swim well."
       ],
       "answer": "I can swim well.",
-      "explanation": "副词 well 修饰动词。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/68/684e8642d2f02756a50c5270ec9b23834d75f7bc.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/c0/c01cdd18b9390e67c62824f74c7a05f1b01b981e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e9/e9900e9c89c2a73aa199784931810f3a85e287dc.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ac/ac925f98f8fe118b78478dac85f937417dcb9aec.mp3",
-          "https://api.clthuanxie.cn/cc-audio/15/15cd9b621b91378983ee5aa72d5478905934ff74.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf92787e51971f8edd9af49ed80e6ccc402fcab0.mp3"
-      }
+      "explanation": "副词 well 修饰动词。"
     }
   ],
   "knowledge": null

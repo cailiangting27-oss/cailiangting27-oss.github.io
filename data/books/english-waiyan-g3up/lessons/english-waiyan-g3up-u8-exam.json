@@ -21,17 +21,7 @@
         "her bag"
       ],
       "answer": "his bag",
-      "explanation": "his = 他的。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/09/091983796e45950c6538411a2fd82586851070ab.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/11/1122e4e6941b2de474b292245f395bfab3435804.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ab/abd8adf7e8fa40386e072b8bea99a1d4c1cda1be.mp3",
-          "https://api.clthuanxie.cn/cc-audio/cb/cb16aa40aa55f71af9b1fc637eb6d8dd20f09064.mp3",
-          "https://api.clthuanxie.cn/cc-audio/84/845f43eea952429325f3b64b588c0c6add6161b4.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c3ecfc98e1034a72676448f30f032bab39d3eff.mp3"
-      }
+      "explanation": "his = 他的。"
     },
     {
       "id": 6,
@@ -42,11 +32,7 @@
       "question": "Lingling's toys 的意思是「玲玲的玩具」。",
       "options": [],
       "answer": "对",
-      "explanation": "'s 表所属。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa7004dfbb7c4459f6360344fe2c2f8ab3b50078.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37f642bd94f66a9bf13da2778c8b0856a4d7e32b.mp3"
-      }
+      "explanation": "'s 表所属。"
     },
     {
       "id": 7,
@@ -62,17 +48,7 @@
         "his pen"
       ],
       "answer": "her pen",
-      "explanation": "her = 她的。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/06/0635e46a432456503b9647699b1f8c9892a43769.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/28/28f91f1dbf6690e17cb61185c4d3f3c5f2d1f10a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/6c/6c787d575fe15cd48f3327f7140fa927dd53a775.mp3",
-          "https://api.clthuanxie.cn/cc-audio/fb/fb26c6b5a737579d7eb9f0a044b3c00e2e6c2337.mp3",
-          "https://api.clthuanxie.cn/cc-audio/09/095bbb84c0e4d10d0141eb3cc53bfdd76c8f6673.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc8db5195094140b31df8fcc5f6456b9bead3428.mp3"
-      }
+      "explanation": "her = 她的。"
     },
     {
       "id": 8,
@@ -90,14 +66,12 @@
       "answer": "Yes, it is.",
       "explanation": "简答不缩写。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/11/11ecf31c7741ed857e626004735056c207ec8044.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/772a087a7633bb149858c42ef5a37fdc3596904f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/96/964b69397881cf5693b6e08e4f46dc9294b901e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/964b69397881cf5693b6e08e4f46dc9294b901e7.edge-8674e38ac8cb.mp3",
           "https://api.clthuanxie.cn/cc-audio/3d/3daf2cb4fb6da513d9de72203586f8c71e916f39.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6178e43de1b062f8787a3a7d6118ceaefc4fc5a.mp3"
+        ]
       }
     }
   ],

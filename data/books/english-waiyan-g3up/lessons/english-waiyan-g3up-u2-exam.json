@@ -21,17 +21,7 @@
         "make the room"
       ],
       "answer": "clean the room",
-      "explanation": "clean 打扫。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c67f6430351dc3072a48112a76221f0b2751ca5.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/d3/d3791163e47254d8f2b7bbc7a59c108c1af5602c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/46/46f1214ed089f5759051653dfcc99fb35ff398a9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/5a/5accb239e28236202ee6739543798ffa1a3e60be.mp3",
-          "https://api.clthuanxie.cn/cc-audio/53/53b0229689503f79052da35d0065485d6485e6fc.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/27/275a6b6eaef3230fd89ecce08a9a4e19819f130e.mp3"
-      }
+      "explanation": "clean 打扫。"
     },
     {
       "id": 6,
@@ -47,17 +37,7 @@
         "Mum are reading."
       ],
       "answer": "Mum is reading.",
-      "explanation": "第三人称单数用 is。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7bf475497dd8669635d34d70f4189c48910f2ac.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/a3/a37d65563a7618cdbb40f102468c3c1305167b22.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9b/9bbcd681031dcf74c85735425a2ac9352530891a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/64/64235670ebcef056b0b945e5fb25e4c0d5e25fb1.mp3",
-          "https://api.clthuanxie.cn/cc-audio/60/60c297863bd59e2f055564eefae62043caeba8df.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/68/688d841c9430bd7cdb638d93b659bc936d3678d1.mp3"
-      }
+      "explanation": "第三人称单数用 is。"
     },
     {
       "id": 7,
@@ -68,11 +48,7 @@
       "question": "wash 的意思是「洗」。",
       "options": [],
       "answer": "对",
-      "explanation": "wash = 洗。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dda3bb1e76935e11e944e4a1bcbbcaec8fce4c7.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef4bc6ce71a4f93b32ec9e07d9257fc6fd1f0d34.mp3"
-      }
+      "explanation": "wash = 洗。"
     },
     {
       "id": 8,
@@ -90,14 +66,12 @@
       "answer": "What are you doing?",
       "explanation": "进行时特殊疑问句。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/65/65c77dadb5bf834003d210c6f9afd1200342b744.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/99/99d1c5c12094beb9f4573229896c6578c35e02d7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ac/ace1084b5526cb18436c25976d19f706d9158d67.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a2/a2e5d0e8458042e3117d2ffd2143154acbf44fb7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8e/8efe1e34bcf3629dc1be8db48b4c2c359e8ef1b4.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dac1f238a99ef36f53a679b69705b853e4c1de1d.mp3"
+          "https://api.clthuanxie.cn/cc-audio/99/99d1c5c12094beb9f4573229896c6578c35e02d7.edge-c2386e77189e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ace1084b5526cb18436c25976d19f706d9158d67.edge-26ac0703b473.mp3",
+          null,
+          null
+        ]
       }
     }
   ],

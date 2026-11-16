@@ -18,7 +18,7 @@
       "answer": "对",
       "explanation": "任何非零数除以它本身都等于 1。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/79/79d143e97670733d23f78592054aca37cbc650e8.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3937a0becfad44fa1361efb6f24474f59a76977e.edge-ea828fd00ba1.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/da/dae1f3b7a40f929828d273f89d13516ef089ad2c.mp3"
       }
     },
@@ -33,7 +33,7 @@
       "answer": "错",
       "explanation": "该数是一个八位有限小数，没有循环节，也不是无限的。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/75/75f38e8937b4d000ac5e6db529e4834499bbe88c.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb38f2fc341f303e98c40fab05a7422522209393.edge-0e78e826cc1d.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e99d254441143ff4134d77a982f0e34c1c883e77.mp3"
       }
     },
@@ -63,8 +63,8 @@
       "answer": "错",
       "explanation": "$A \bdiv 0.1 = 10A$，$B \times 0.1 = 0.1B$。若 $10A = 0.1B$，则 $B = 100A$，所以 $B > A$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ec8c4ada34226f35945df63ccd3c2ae68fa7576.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e99d4590dbeef45b3edbf570c2849e21aeeb55e.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbee39d1bb300993096ee8a15b1517ab49a5f06e.edge-1c4dd425851a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e5064469b6e1d5e02d2bfa6859f13f691748725.edge-359b0daace80.mp3"
       }
     },
     {
@@ -83,12 +83,12 @@
       "answer": "$25.8 \bdiv 1.2$",
       "explanation": "被除数和除数同时扩大 10 倍，商不变。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/11/11fc03e4e6bab9ae3a63716d1274bbb36c25b3e9.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/04/049c3784eb3bac7b15c5449056fa1957a1857282.edge-14d863817afb.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/d9/d95e4e2858f2425d01189db45cc33c5dbba1dbed.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9c/9c96ce804c343c826006f47288d74735c3af25ec.mp3",
-          "https://api.clthuanxie.cn/cc-audio/7e/7ee2b57b59f2083508a05d25930939da51980b87.mp3",
-          "https://api.clthuanxie.cn/cc-audio/00/005dc0c9fad855cd54845b7ddc11de21f09aac45.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c1/c1b56bc0860aeaecb02a34f1af7f67290c44daf4.edge-ecd80adc4adb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34a417a234c64b587a8e8b1ed618e67708eb546a.edge-ad6ad7d48a47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca99074be039e1ab08141edd148fe0477430ab3.edge-af005f20a270.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b665427cd3f9d3abbc8d339894017e5b1b7274c.edge-d14ac9619715.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/ba/bac7be11127441299006f03c7656fd995a0f16ed.mp3"
       }
@@ -109,7 +109,7 @@
       "answer": "0.3030...",
       "explanation": "只有 0.3030... 既是无限小数又有重复的循环节。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9aea1f3d69fad8c95b4d1e95bc066ea4fff4f84.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef7d4b305a544810f2c6b00d30318b4b21894404.edge-a8b26904db6c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/21/21ab0656c4357f4201e5470485ae0020147fe2e5.mp3",
           "https://api.clthuanxie.cn/cc-audio/5d/5d056668fc6edee637ede0e25b810a177f306770.mp3",
@@ -135,14 +135,14 @@
       "answer": "20",
       "explanation": "$2.4 \bdiv 0.12 = 240 \bdiv 12 = 20$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/77/7714f6e91d64da44cd7be308bc7675d440aba11b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5de595d663d97ab22f41af484452a978289047bd.edge-61d0197a9571.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
           "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
           "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/9588c3fcb43fc86f5ac79164cedf59e8e7b9e7ec.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/45/453f768c4e61c22ef7445c2225b361bf2f869b09.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4332e3e2bc9bacf131cce9a4bb448e13f956c0ce.edge-463a42f0920f.mp3"
       }
     },
     {
@@ -161,14 +161,14 @@
       "answer": "9",
       "explanation": "$1 \bdiv 11 = 0.0909...$，循环节 09 是两位。$50 \bdiv 2 = 25$ 整除，所以是第二位数字 9。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/44/44328b8a3f549c262b0abe2240f5cc01e11d0b67.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36d5483585ac91332f2f7c80a9f99a1310c2e37d.edge-88e51fec0c0a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
           "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56da8fe234c6a0267173969f2c3270d0ae46313a.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9da18093b2b40a13bc757a7cd3989fb9220696e1.edge-6b0806f99c6c.mp3"
       }
     },
     {
@@ -187,14 +187,14 @@
       "answer": "3.33",
       "explanation": "$10 \bdiv 3 = 3.333...$，千分位是 3，四舍五入保留两位为 3.33。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/93/932a87a8852790cb6dd0fd1afd06bdcf6b2004b9.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01b669fbc54193221c1564125fcfb0472f38974f.edge-d5a4842ab097.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/fc/fc4a82c499fd4be83ec4ba1f730597b6acb6cb5f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/40/40c8092997e30f666a04af26ba8114c2decad9ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40c8092997e30f666a04af26ba8114c2decad9ae.edge-8e44c4a28972.mp3",
           "https://api.clthuanxie.cn/cc-audio/a9/a9c68c54449dd45e3ffc6d16d2e2e55125c2895d.mp3",
           "https://api.clthuanxie.cn/cc-audio/e9/e97b44801752f07b3bb1d23fefa089d50a4a8175.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb773c3df3669d19ac024a38b04ff8b5ffd95a78.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db285ea1a642951cdae7cb20e77251ae1af5c4ed.edge-d7046fe94513.mp3"
       }
     },
     {
@@ -213,14 +213,14 @@
       "answer": "80",
       "explanation": "除数缩小 10 倍，被除数不变，商扩大 10 倍。$8 \times 10 = 80$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ea/eafe7164c721d0c2ead9fe8991900608865f239b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfd5d3d2abf19e17eef5dbbb687e5c4652bba129.edge-3b2b22917576.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
           "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
           "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3",
           "https://api.clthuanxie.cn/cc-audio/48/48026248575be074288e0b8334c8383a52f12906.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5c2c46d01587f2696e162c36452dbec855b74ec.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e1fd715b648817970141e12bfe4bc9dc80e4182.edge-fe78b1de8ee0.mp3"
       }
     },
     {
@@ -239,14 +239,14 @@
       "answer": "4个",
       "explanation": "$3 \times 0.7=2.1$, $3.3 \times 6.7=22.11$, $3.33 \times 66.7=222.111$。规律是 $n$个3时整数部分有 $n$个2。故 4 个。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/51/5105545e3564a06ccbadb69a51383d25c84da7b3.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6405d994d53cc3420be859e744ea9fc06a188d72.edge-43174ace80b3.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
           "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
           "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
           "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1fc1cb388f706c23f8e7abb884b89ad30b34b2f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22e7bc28fed229a7299fd1d1898d2061c9ad78f0.edge-ad76a0b1d9d6.mp3"
       }
     },
     {
@@ -267,12 +267,12 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/42/429c17914f8d6c2843e01162ad3ea31b65f27c56.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/83/83041f3e50b81157f3b341ca097aa546900a2d0e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e4/e4c4b1a218b3e91642ab9be741fee2fbfd7d4362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b98ad241edc8a199a0dc7919992cf647a8556eeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edaf25d7aca249d87be595290c3f2d3ec7c34ded.mp3",
           "https://api.clthuanxie.cn/cc-audio/6b/6becef573ba43dfec4edaa71fec005223a4bff6f.mp3",
           "https://api.clthuanxie.cn/cc-audio/23/23049cc184903bd0e2b98f62476be246c15a22a1.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4871e3ccc18535267d67c72b8952487339aab85.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e931ad34167ef1ac2b344d74afe322dd18aae407.mp3"
       }
     },
     {
@@ -287,7 +287,7 @@
       "explanation": "$72 \bdiv 12 = 6$。验算：$6 \times 12 = 72$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/fa/fa3337fe995c0a46bea51529f0247bedc7541970.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b753d1255afc981d1ffd2af06fc08c85ad188540.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c145eb1e66d788419f5e22f401daf76a2d30f2d.edge-51ae74829da3.mp3"
       }
     },
     {
@@ -302,7 +302,7 @@
       "explanation": "$100 \bdiv 15 = 6.66...$ 个。剩下的也得装一筐，进一法得 7。验算：$6 \times 15 = 90$（不够），$7 \times 15 = 105$（够了）。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/a7/a7da53a40aadd37e21fe034d44a1d0d7f0ec4038.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5dcefed83ecc5486f8f061885c1c1b709420351.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b51ab6628c8ee79bd6641fc2e616ec65f63fd011.edge-136faf5f1e34.mp3"
       }
     },
     {
@@ -316,8 +316,8 @@
       "answer": "4",
       "explanation": "$48 \bdiv 12 = 4$。验算：$4 \times 12 = 48$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/18/18d77f2c1b8eaa94d9a2f8c054d3dc7f6cf9d3aa.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/94/940390189382ec85f0cd607b98b3d9f9bf1f22f0.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e46c9e98165951df0561432a545eb7825edea40c.edge-cde26ec22f7b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02e0f82583d8aacd564a637bcebcc4e8eeb4c91f.edge-05533610ec73.mp3"
       }
     }
   ],

@@ -21,17 +21,7 @@
         "She's my friends."
       ],
       "answer": "She's my friend.",
-      "explanation": "she's = she is。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/bc/bca17d83761fc6ed08ac197db9b1e70ce7774f7b.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/a0/a04249dba718306a2573be7dfdf00263253488eb.mp3",
-          "https://api.clthuanxie.cn/cc-audio/45/45cff53abece815c4d6d5350c0fca99f6b77e6a9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/33/335b84c3e8dfc3823a1d74cdeae715f9e2496deb.mp3",
-          "https://api.clthuanxie.cn/cc-audio/77/77ef9c9ea741d12b0b6bafced5fcfc66cfb48b5b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0669c69f0fed03b17cacf751c8906a5f436be2b4.mp3"
-      }
+      "explanation": "she's = she is。"
     },
     {
       "id": 6,
@@ -42,11 +32,7 @@
       "question": "he's 是 he is 的缩写。",
       "options": [],
       "answer": "对",
-      "explanation": "缩写规则。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5b/5be3397afafa7f6d0ff6988e2c3010446e387eb9.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/add4ccb794332c93d6a2f0f167984cdcdf6c19ba.mp3"
-      }
+      "explanation": "缩写规则。"
     },
     {
       "id": 7,
@@ -64,14 +50,12 @@
       "answer": "Nice to meet you, Amy.",
       "explanation": "被介绍后应问好。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/69/69b3eb692c28d9164f789e482e0f00fbfeb99b72.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/ed/edf38217c05409a68b12c0b952f7eb231f80c48a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/60/60f6b977a5012e013c7856cc645161baab18ef15.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/60/60f6b977a5012e013c7856cc645161baab18ef15.edge-9dee29419f96.mp3",
           "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf4712f38ecad7df36cf8d3de4e6def7fdc95d61.mp3"
+        ]
       }
     },
     {
@@ -88,17 +72,7 @@
         "She; Her"
       ],
       "answer": "He; His",
-      "explanation": "主语用主格，名词前用物主代词。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/15/150f589f7f49d3bc777747114261d1d20f51fd2e.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/86/86d38b2aa73b2711dbd50401ecab5bd0bde7a68c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/49/49396597781ab9312a5a7c380afd6e35632e1fe1.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ad/adec55b71926b2145aea97423cf6d978f0fc2856.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f8/f821cd1d04275a0211f602cdd38360ff15025c1b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d1d71f53cea5553388bb6b0d0a16967903a6ae6.mp3"
-      }
+      "explanation": "主语用主格，名词前用物主代词。"
     }
   ],
   "knowledge": null

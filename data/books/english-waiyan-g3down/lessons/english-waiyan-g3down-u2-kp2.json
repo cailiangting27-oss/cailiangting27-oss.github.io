@@ -23,14 +23,12 @@
       "answer": "This",
       "explanation": "近单用 this。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ec/eca8b21f159a0310c1068f8aae521057f964eb01.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/79/7971e6a051104074fdae0f02322417b6eb5695a2.mp3",
           "https://api.clthuanxie.cn/cc-audio/6e/6ea5dc6096c9bd173073ecde828a55eabd5d76e4.mp3",
           "https://api.clthuanxie.cn/cc-audio/8a/8a430b0436fbafd13ff3f8f793fd3a22f31a2926.mp3",
           "https://api.clthuanxie.cn/cc-audio/10/109c1f292df10ababb7f682af0006887f76102a0.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bf1e298864281c7abb0c6d7c03d8628f7b8fe6b.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "those 指远处的复数名词。",
       "options": [],
       "answer": "对",
-      "explanation": "those 远复。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c5/c505e9b8850d7412785b4adf7b3b2061065c986b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3c4b802e76a9f3d61be6a25806de3ac8d07d92f.mp3"
-      }
+      "explanation": "those 远复。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "this 与 these 混淆。"
     ],
-    "tips": "近单 this，远复 those。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/f7/f70d3e6ff0238c582fbc1580b2b5e69d77b7d1e8.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f2/f2eaeacd3dbf06385215377995be9b3e41ce99dc.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/46/46793b69eadd38eda6bb4d3db3a3367214fe39f1.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/e3/e325968d4d481190424d398c860dc995db300cb0.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/bd/bd1d43fb27d2c33c6b26109021ed7acaf32fd63d.mp3"
-      ]
-    }
+    "tips": "近单 this，远复 those。"
   }
 }

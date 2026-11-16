@@ -21,17 +21,7 @@
         "抢占座位"
       ],
       "answer": "排队上车",
-      "explanation": "乘车要排队。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/aa/aaf439e233bef87e92f7e5965d9f54297d6ec8a9.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/7d/7dde8a5e8df95d9ae365dac920335afd6aefe26a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/59/59a3f3f9154dc54c82d4dd3cb9d69647392778de.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b4/b45ba0d1d1debd5ab8b129d42e409386a739fcdb.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d5/d5a143105a18281171b940f153129d88970f69d5.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66d07eca83a73a15f2ba4adaa04af73be7a82a28.mp3"
-      }
+      "explanation": "乘车要排队。"
     },
     {
       "id": 4,
@@ -42,11 +32,7 @@
       "question": "得到帮助后要说谢谢。",
       "options": [],
       "answer": "对",
-      "explanation": "礼貌用语。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/22/22ceb22e864274a777499bc79001db2317f6ad65.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5e522bd1db515697972a7ee7f7afa9aa43b903c.mp3"
-      }
+      "explanation": "礼貌用语。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "在公交车上抢座位。"
     ],
-    "tips": "文明体现在细节。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/2d/2d4c6ce7c5c8bbc1458966fe71e26221b155d1a6.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/87/87afc91c00ea4216c2ccaf590da900c4e087e42d.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/47/47d734637caede61d83a5a8f13a5ab362bafbc81.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/15/154ab9c57ea77daae489a263505a3c2bbe96347f.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/a2/a2bd1b24981ac595ac1c148239ecc14b3f7a2793.mp3"
-      ]
-    }
+    "tips": "文明体现在细节。"
   }
 }

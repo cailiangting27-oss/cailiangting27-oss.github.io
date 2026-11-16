@@ -28,9 +28,8 @@
           "https://api.clthuanxie.cn/cc-audio/be/beac659eced816c9091692ece0fb1ba0b2e3d73d.mp3",
           "https://api.clthuanxie.cn/cc-audio/08/081c8777a8ae4fa6f9d519bdd586f8ee653d28f1.mp3",
           "https://api.clthuanxie.cn/cc-audio/fb/fb0afe2d38690910e4c58c8b4547e8c4ca0728e6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94f046df3496e3df1cb7b87a6ba90a056219d615.mp3"
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.edge-912404adc1c5.mp3"
+        ]
       }
     },
     {
@@ -49,14 +48,12 @@
       "answer": "Thank you.",
       "explanation": "对关心表示感谢。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0a9b57efe46e7519efe334d42aac1dd4fa36047.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
           "https://api.clthuanxie.cn/cc-audio/9b/9b56d519ccd9e1e5b2a725e186184cdc68de0731.mp3",
           "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3",
           "https://api.clthuanxie.cn/cc-audio/d4/d449c9de9a0543276c8bc6d9dd13d6d6e93bbb10.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8eb797b7b7ba43b61525cca818b40d37f68fdacf.mp3"
+        ]
       }
     }
   ],
@@ -67,15 +64,6 @@
     "common_mistakes": [
       "把 How are you? 当成「你是谁」。"
     ],
-    "tips": "问「好不好」不是问「是谁」。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/4f/4fbbe59c77370d40b61d9c3b874df70161b73960.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/de/de5d7089ad53f002f586c889dd73e06ca37a6a0d.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/87/877dd4a6e8bbf9345bb8aa433080df6a1651a1ae.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/be/be9d01071962047b32668c676b509f345b5fd1e3.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/49/499eb1b95334cbf4ecd9c5630559c9c79818e312.mp3"
-      ]
-    }
+    "tips": "问「好不好」不是问「是谁」。"
   }
 }

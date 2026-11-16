@@ -23,14 +23,12 @@
       "answer": "five",
       "explanation": "5 = five。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2d24494b01ddf626423d31d014e2062c04fecb7.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
           "https://api.clthuanxie.cn/cc-audio/9f/9f8f7eec5dea5ac43738721939c120318cbff1df.mp3",
           "https://api.clthuanxie.cn/cc-audio/b4/b4ddce182ecfb739a19a2b263412c2343dd4fc98.mp3",
           "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f02b6f7661076fcb1d5e76bff4ed95ebdf441046.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "eight 的意思是 8。",
       "options": [],
       "answer": "对",
-      "explanation": "8 = eight。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a3/a35e41c5e4daa0351c4099d236d6cc59087f1145.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15a2d5a79a8137c8a73efcaa808efc7d0c3f1777.mp3"
-      }
+      "explanation": "8 = eight。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "four 与 five 混淆。"
     ],
-    "tips": "跟读巩固。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/d7/d728dcd1dbb387918f80b6d73e4e32892891b4ec.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/bb/bb21a3df74a972211bfa1ff95f185eb8c7b8ca7b.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/9a/9af37b0c2155db1b780051a6e24415a4d6a6f0f2.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/2f/2f11df612bab80e4bf450983c08c48cdee1606dd.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/5b/5b375c265dbba3da0af41b480626b3433061002e.mp3"
-      ]
-    }
+    "tips": "跟读巩固。"
   }
 }

@@ -86,9 +86,9 @@
         "question": "https://api.clthuanxie.cn/cc-audio/dd/dd06a96082ac9495d69cbd20fb1cc12b251ddc6c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ac/ac60b7f331f894b29934a98e1f19f24fad783e3a.mp3"
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.edge-90d7e4711d06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.edge-bd78e6361897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac60b7f331f894b29934a98e1f19f24fad783e3a.edge-7219254fd558.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/08/08c2ade261e8c65fa3369b74ba30f0400b2462d4.mp3"
       }
@@ -137,10 +137,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/f7/f7516a362e59e0dffda8253ccaea27271dac10ab.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/70/70aa1101d805f0bd92d99eb59bc4be6fe5b83fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70aa1101d805f0bd92d99eb59bc4be6fe5b83fec.edge-7f4510fadb61.mp3",
           "https://api.clthuanxie.cn/cc-audio/70/70c2195016b7083c06a1c99b45fbcb6bc7d97c04.mp3",
-          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3"
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.edge-c0227d9c8025.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.edge-67704ef33b25.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4ab567a7b935977e9cfb89dd2507efbc270ad3b.mp3"
       }
@@ -269,8 +269,8 @@
         "options": [
           "https://api.clthuanxie.cn/cc-audio/ae/aeb4aa89caa8424e5f31b0e2c0b3b10c3bb5c2a3.mp3",
           "https://api.clthuanxie.cn/cc-audio/75/753152ed16f5813afc27e611d0c7ebd2c30b5ad5.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.edge-bd78e6361897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.edge-bf407cb97c7b.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3da5cd96a1dde33bdc3550081bde3b9202d55331.mp3"
       }
@@ -287,7 +287,7 @@
       "explanation": "列式：$6 \times 2 = 12$（个）。验算：$6 + 6 = 12$。单体面数乘以个数即可。✓",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/9f/9feee0f7c9f346f4cf6d3b0634703bbff524401c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1dd4bafda1613b15221872cef058b4c75129101e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80ca622da03539e532de1265dc165e2e29c81bb7.edge-e992fb1f6dd2.mp3"
       }
     },
     {
@@ -316,8 +316,8 @@
       "answer": "24",
       "explanation": "$6 \times 4 = 24$。验算：$24 \times 1 = 24$ 或 $4+4+4+4+4+4=24$。对应四个正方体的面数统计。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/42/427f63a21bf5f38c1d903a221c0914b68ec0522c.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1b328a9e3072a18eb128b982b051d326f778b61.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d40abccc237e09487234b47f1153b394995b196b.edge-898ae4690366.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97fedb769640173487f38535d3df1390b8b55b37.edge-170099af44ba.mp3"
       }
     }
   ],

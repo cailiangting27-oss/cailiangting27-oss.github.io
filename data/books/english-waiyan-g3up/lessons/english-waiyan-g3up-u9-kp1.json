@@ -21,16 +21,7 @@
         "I'm go to do the long jump."
       ],
       "answer": "I'm going to do the long jump.",
-      "explanation": "be going to + 原形。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/00/00b50db1e8e92cb9db69943781fd63dbe59fdaec.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/1d/1d8b78c47d15cfdb8c55ceb86d42c94eed51f193.mp3",
-          "https://api.clthuanxie.cn/cc-audio/4e/4ebaa2424018e305c1ba022879de0533da2c0f58.mp3",
-          "https://api.clthuanxie.cn/cc-audio/26/262dc1b6e3d845313c85015c846fd8cff9933071.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c2/c2e1a68b9508a4163fad9b123658171ecb644e22.mp3"
-        ]
-      }
+      "explanation": "be going to + 原形。"
     },
     {
       "id": 2,
@@ -48,12 +39,11 @@
       "answer": "动词原形",
       "explanation": "to 后接原形。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b7e6165732d79b4e001a6c20f1ebfd2b5914adc.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/31/31d9771daddcf824b155c0d5ddedd6ae91c9960c.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/97/97a44ba199140f2bc4b359d38ac9271feb19f945.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/77ce50e68ec8ee596737092e5faf17576ce49d79.mp3",
-          "https://api.clthuanxie.cn/cc-audio/6d/6dd9f5e4a3882fb88ee00447a2c63c342b676960.mp3"
+          null
         ]
       }
     },
@@ -66,11 +56,7 @@
       "question": "be going to 表示「打算、将要」。",
       "options": [],
       "answer": "对",
-      "explanation": "表将来计划。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dc7710f3d9bcd4c1f6072b12fb1e184eefbfcc0.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/52/523f90920122db079dc2bf7ee52dbfa1c4a5e3ff.mp3"
-      }
+      "explanation": "表将来计划。"
     }
   ],
   "knowledge": {
@@ -80,15 +66,6 @@
     "common_mistakes": [
       "going to 后接三单或过去式。"
     ],
-    "tips": "to 后面永远用原形。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/47/47b221fa5950bbbbd7aa38e6e5f227811e8f6aca.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/1a/1a1ad5cf4fdcd9a5e296a4df303dc6831994e1e5.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/1d/1d8b78c47d15cfdb8c55ceb86d42c94eed51f193.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/78/781041e7420c477c000081bc6779a3750900e71f.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/c7/c7db3305e6650118de6e48d43a2f9ad3a4a0b318.mp3"
-      ]
-    }
+    "tips": "to 后面永远用原形。"
   }
 }

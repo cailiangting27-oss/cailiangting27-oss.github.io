@@ -18,7 +18,7 @@
       "answer": "对",
       "explanation": "根据运算顺序，有小括号的要先算小括号里面的。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/05/055f73f77aade033bd9cf1b038ae77b6f969d9ce.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a30851b04d4779126000c25dbb86ae054e7cb692.edge-32a365b9d635.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e54e1c6a5fcff409dd5384d2c52d61054ad819d.mp3"
       }
     },
@@ -33,7 +33,7 @@
       "answer": "错",
       "explanation": "$15 - 5 - 2 = 8$，而 $15 - (5 - 2) = 15 - 3 = 12$。结果不同。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/49/490a8d9e9faad79e0228b69b1d2abfcf83d32064.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1ea7ffb0ae5aa04672bc62b77da23ab096c6e485.edge-06bdda3e9db2.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/72/729970e8196521df35b1e80c0468212da2973c1b.mp3"
       }
     },
@@ -53,7 +53,7 @@
       "answer": "3 + 4",
       "explanation": "有括号先算括号里的。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f3736c84ba79f1caaecc6a226c29796388e623a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f85932fc353a9fa9eba23bef337510717db008d.edge-3a54932bd490.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/81/81dfb776a6a34a6d663a95ea0a4997724761c2b1.mp3",
           "https://api.clthuanxie.cn/cc-audio/d6/d655d0fa69ce8f9c4286e24bfcec67d935383314.mp3",
@@ -79,10 +79,10 @@
       "answer": "20",
       "explanation": "$10 + 4 = 14$，$34 - 14 = 20$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdb805a633dd8838f638c729b337f6c9e2116aae.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f97b6b5a11e1ce8d097cb95560290b227a32b3ee.edge-bf7170f811c0.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.edge-82d70baf9a02.mp3",
           "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
           "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
         ],
@@ -126,7 +126,7 @@
     ],
     "tips": "算式里有小括号，先算括号里，再算括号外。",
     "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/8c/8c17c4c07c2b9e2b93fb7f8446e6443988d3479c.mp3",
+      "point": "https://api.clthuanxie.cn/cc-audio/8c/8c17c4c07c2b9e2b93fb7f8446e6443988d3479c.edge-662be057ce5f.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/04/043e038cd913db5489e9f0b337ac79f1ab5bbd31.mp3",
       "key_formula": "https://api.clthuanxie.cn/cc-audio/04/0445d00b4f630dd440d703d06101169362774820.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/a8/a844b12c2f79982e0489a72224d074a640e23838.mp3",

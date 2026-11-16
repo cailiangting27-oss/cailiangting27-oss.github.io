@@ -23,14 +23,12 @@
       "answer": "种类",
       "explanation": "按类型。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/04/044888955b228ea4faf1f779655ffa33b141cf6d.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/2d/2da1825912c43717d588b99cd7be1252020c4d73.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
           "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3",
           "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50b355b82988abf24d2aa53f5d7ab395bf61a98e.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "分一分可以让东西更整齐。",
       "options": [],
       "answer": "对",
-      "explanation": "整理的好处。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/50/50ebf7c314ecf5a7c871a898288a4c1d77ad6239.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d85ea0495787de1d3a2412a1494660774d3cf9e5.mp3"
-      }
+      "explanation": "整理的好处。"
     },
     {
       "id": 7,
@@ -64,14 +58,12 @@
       "answer": "形状",
       "explanation": "按形状。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b9/b945b149e6d8def87dcb0e60d197e23e12873b72.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
           "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7c49c8f25a7a48a3971027e0c7bf263570395bfe.mp3",
           "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28e2e29ec7b4804547ea099a9b6b1ee2818ea560.mp3"
+        ]
       }
     },
     {
@@ -88,17 +80,7 @@
         "不能分"
       ],
       "answer": "可以按颜色分，也可以按形状分",
-      "explanation": "标准多样。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/21/21b160d0f586ad4b4dca442b5a126c29a00b839a.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/14/14d5d4264692e80481174a74929603a5f40ca19c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/18/18c080799c906139ee442fbf3ad5ef546397db0e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3a/3a8eed937be27ffe1d76cb9a32a949a5f1f4b1b4.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d7/d72c02edac95e377dd3e390cacfd961bfe0cc2df.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b832805f5824630a84865a9be8cc287aa002acc1.mp3"
-      }
+      "explanation": "标准多样。"
     }
   ],
   "knowledge": null

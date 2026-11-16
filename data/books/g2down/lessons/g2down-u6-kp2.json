@@ -19,7 +19,7 @@
       "explanation": "在有余数的除法中，余数一定比除数小。因为 $7 > 6$，所以余数不可能是7。验算：$7 \\div 6 = 1 \\dots 1$，如果余数是7说明还没分完。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/88/881017fec762ff2ebf93716a6992b54fa0713b9a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07743a7ed3493ea4a5c42c7a2abdfb7cbc681976.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c854656adc324192a95384480dc59e973648145.edge-6c460def24b8.mp3"
       }
     },
     {
@@ -53,14 +53,14 @@
       "answer": "4",
       "explanation": "余数必须比除数小。除数是5，比5小的数字有4, 3, 2, 1, 0。最大的余数是4。验算：$4 < 5$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f4/f42be3849f70c79ccb52431e1a8aeea994d4acc0.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/15/156d9f2950f14236021385749c3545038867f63e.edge-c3be0cf10831.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
           "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/90/908fc2cf9863d05c10e63b2bef44c2b94eee6c8e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e748c76cc38b043174747dabf5ad79ef33d0e7c.edge-4bb7e14aca70.mp3"
       }
     },
     {
@@ -86,7 +86,7 @@
           "https://api.clthuanxie.cn/cc-audio/f8/f8f3d4eea62c790e21aed365ba243f1e541fb832.mp3",
           "https://api.clthuanxie.cn/cc-audio/5b/5bbe59de6154fba62ebe8a157630e53d21598052.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/04/0438c0fdca78a4361bcac98e1439d2e05fa14c46.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be5c07190df1d1f4f2b2b5f4184fdfd25abd9d61.edge-c7451abf48f5.mp3"
       }
     },
     {
@@ -112,7 +112,7 @@
           "https://api.clthuanxie.cn/cc-audio/bc/bc057959d21cafcd82f582fe066b0f4277cf7bca.mp3",
           "https://api.clthuanxie.cn/cc-audio/b4/b492aa8a700617fc045023864a36aea3b3c98fbb.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/00/007c738f2ea61a6f0dbd35b9d7440d612c94bf0a.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbfc4d1d1147ada6def7402c0fa1c44c4711067d.edge-9a28bae080a1.mp3"
       }
     },
     {
@@ -152,8 +152,8 @@
       "answer": "34",
       "explanation": "除数是7，余数 $\\triangle$ 最大是6。此时 $\\Box = 7 \\times 4 + 6 = 28 + 6 = 34$。验算：$34 \\div 7 = 4 \\dots 6$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6a7460ae1aeecfd58ca53c2b974c8aec29c8383.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d6f6c771122db0a457efe59aab0e6cafe5ea50d.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/15/151db319cbc4daf6f78e25943d29afe5e43feda1.edge-bf47e8e699c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e9f712e88885ec7b7a787bc1d8804a8546f52b1.edge-a6668e74e6b8.mp3"
       }
     },
     {
@@ -167,8 +167,8 @@
       "answer": "9",
       "explanation": "$19 \\div 2 = 9 \\dots 1$。验算：$2 \\times 9 + 1 = 18 + 1 = 19$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/33/33d78911b1031fdf9fa4b633d1bd9ecf6325226a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/35/3561feb23a41b9c2dfd32bb87348441d20a1498f.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc400bf42594b0f41b5d630cebb19ca4f912c6cc.edge-b3d60c4b9a30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9cb06ef2638e10781bf07a49b994bb591b62563.edge-1c19dded2706.mp3"
       }
     },
     {
@@ -182,8 +182,8 @@
       "answer": "5",
       "explanation": "$45 \\div 8 = 5 \\dots 5$。验算：$8 \\times 5 + 5 = 40 + 5 = 45$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fe1c17c49dd4e919c0461641e1cada732300eb1.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c30e104877073ab159b00a732e0095256a2817ff.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76e3fad9fd5aca5003227aa62f3948d467e1e35e.edge-3b129f5d5321.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cce6259bcc48c47bce8debfd04dabcd6680bc8aa.edge-0d322afd7f71.mp3"
       }
     }
   ],

@@ -23,14 +23,12 @@
       "answer": "Three.",
       "explanation": "How many 问数量答数字。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4c/4cc3f11796275ec32f003e3892998468c9fdb868.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/67/671e4e22d9dc2d712be4aea6859c92cfdab563f8.mp3",
-          "https://api.clthuanxie.cn/cc-audio/72/72b378b326f53ff16f0fbdabb152cf9b4f69de1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/671e4e22d9dc2d712be4aea6859c92cfdab563f8.edge-138986c96eef.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/c5/c53c562dab4b33b3e42f3bc4d8e5719439a9c155.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f7/f787270baf7afe251bc8c8361025700a246020c6.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70d042a3c4e65fe94f14af6e6ece0049a3f3019f.mp3"
+          "https://api.clthuanxie.cn/cc-audio/f7/f787270baf7afe251bc8c8361025700a246020c6.edge-ecde8d4b23c4.mp3"
+        ]
       }
     }
   ],
@@ -41,15 +39,6 @@
     "common_mistakes": [
       "How many 后接不可数名词。"
     ],
-    "tips": "many 后接可数名词复数。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/c9/c9988cdea97109d7dbd79fb046737f9adc15f1ce.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c2930a6e21f4a6ef34dc3d8391789eec31141a61.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/77/778737d58bb894921dcd26b3c99ae83319dd5f20.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/57/57ed6484e10493a193bb424c53fbb08a67aa7126.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/a5/a5f38c4a9ab31421438ec2f43384fcc8288b188e.mp3"
-      ]
-    }
+    "tips": "many 后接可数名词复数。"
   }
 }

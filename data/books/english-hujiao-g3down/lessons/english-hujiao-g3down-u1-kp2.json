@@ -23,14 +23,12 @@
       "answer": "seven",
       "explanation": "7 = seven。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/15/153e6177fac6c4029ef9a031391d5f09de316bdb.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
           "https://api.clthuanxie.cn/cc-audio/cc/cc5a0c506761ce686f1f145da868c162f269480f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c1/c1777d8e848654ca00348788ec9839cd0b1a0adb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1777d8e848654ca00348788ec9839cd0b1a0adb.edge-caec7ad3cddc.mp3",
           "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8772e389679875309c21c20facb7f56780805bc.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "How old 用来问年龄。",
       "options": [],
       "answer": "对",
-      "explanation": "问年龄。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7b252b3a7a201ab6390e1c5570763e5cf614c7a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07d6faecd8ad5f2337bd21816bf4b0001cfa89d1.mp3"
-      }
+      "explanation": "问年龄。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "把 seven 与 eleven 混淆。"
     ],
-    "tips": "注意 -teen 与 -ty。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/90/90a1aa799d949cd2089043dc22b2a89b298fb404.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/28/28b6d0779ff7f9e253880f2530322d4ba6282459.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/62/622affcd05937e07159e2a2a92438ff2aa882e36.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/30/30179e0d8e104595c8671021dcffb08bc432f932.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/40/40cc3089778a4c3e3a7071bbcfb7917a03c8c52a.mp3"
-      ]
-    }
+    "tips": "注意 -teen 与 -ty。"
   }
 }

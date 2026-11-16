@@ -18,8 +18,8 @@
       "answer": "错",
       "explanation": "数对中前一个数表示列，后一个数表示行。$(3, 5)$ 表示第 3 列第 5 行，$(5, 3)$ 表示第 5 列第 3 行，位置不同。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/48/482dacc4a9f6d1fb8aaf2beab07b39a73fbedfa8.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6cdaacc1392d210382e3714a7c100623b36495f.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3ce83add46b5213585aa9eda500b23f9c3be4a66.edge-4b3c14d8586f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2aef90e55c434379b040d1d199e67407000cbf4d.edge-ccfa5af7fac4.mp3"
       }
     },
     {
@@ -33,8 +33,8 @@
       "answer": "对",
       "explanation": "根据数对的书写规则（列, 行），第 2 列第 4 行应表示为 $(2, 4)$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/64/644bd81b51695daa85a671b682ca6b58bd90b336.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee6939951d44e6a3fb2e52f35bd73d0ca262a857.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d91dfd386099ebf401da03bfc13725b360080914.edge-1c055a7aea07.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed18ab09171ee3f547b79b902c069b8b41bee7af.edge-9ef2126c7e57.mp3"
       }
     },
     {
@@ -53,14 +53,14 @@
       "answer": "第 4 列",
       "explanation": "数对 $(a, b)$ 中，$a$ 表示列，$b$ 表示行。所以 $(4, 3)$ 表示第 4 列。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8b1b423025a9971c8d6c1aca89cf1cb12b4b322.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/61/618a5f49a5da87e92538c01982775c8150d1ea26.edge-7a5d53b2a072.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/a5/a54d17bf8c22869c2ab3c87711688356625b996e.mp3",
           "https://api.clthuanxie.cn/cc-audio/e4/e45ec425909639ac6c0c58f8a3aa22a0ccb86d27.mp3",
           "https://api.clthuanxie.cn/cc-audio/b3/b36f9950215fa97628dd49ed7d0b4177a4da1a5e.mp3",
           "https://api.clthuanxie.cn/cc-audio/5a/5a5279863c21524d42abdeafbc91dad8330e8010.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87440e97a7a19bd30f969ed4796f4ed853925a2d.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a38b713b476ea5c866513834b97f956a1a033dc.edge-a30c51937e84.mp3"
       }
     },
     {
@@ -79,7 +79,7 @@
       "answer": "同一列",
       "explanation": "两个数对的第一个数字都是 2，说明他们都在第 2 列。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d1/d19b386d591d987e60ca3e7e6b11c521a0f065ec.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/19/199b83e3eb6432133121f9a8af52e5e4b5e9d145.edge-743d63809b08.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/7d/7d41525d7badb9f47ab4ea048b94d42f49ec2fb0.mp3",
           "https://api.clthuanxie.cn/cc-audio/cc/ccddbd2d8e8b479952e263b9e20d0f9bb7e26943.mp3",
@@ -105,14 +105,14 @@
       "answer": "小红 (3, 4)",
       "explanation": "一行代表数对的第二个数字相同。$(a, 4)$ 表示第 4 行的所有人，小红的坐标 $(3, 4)$ 第二个数字是 4。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/94/94ac436bc0a133746f0e7d7bdd84b28bf59df122.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e7e2f11110d06060dbf32fd7a68d51286559dad.edge-914776a99ffe.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/c1/c1cd3a9dc7cdaa265906c4fc89b10854233787d6.mp3",
           "https://api.clthuanxie.cn/cc-audio/f2/f2fb08eb77afd192a8d120114e87d7b1edf3571b.mp3",
           "https://api.clthuanxie.cn/cc-audio/7a/7acb70f37ae6f63963d6cf9b4da418c5914a1dd2.mp3",
           "https://api.clthuanxie.cn/cc-audio/33/33fa2956fdd8ab491f2236c8b2497b13fb332633.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23af45b5202179fd4cec615e161aea1a66b53560.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f028cebd6c4a86e71008860d8d7654dec999a83.edge-c54d5b09ee72.mp3"
       }
     },
     {
@@ -131,14 +131,14 @@
       "answer": "(3, 3)",
       "explanation": "正后方意味着列数不变，行数增加。选项中只有 $(3, 3)$ 满足列数相同且行数更大。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/42/42cba77725c861d8c54df2569e49dff8d50ddaf6.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6c95b25b3b228f127b0eb7c246014900c58a767.edge-30f8903db3b7.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/a0/a0975468caa87203bf270355e1a6c54c2f724db7.mp3",
           "https://api.clthuanxie.cn/cc-audio/97/970db139d895be894040e1925e2366f5b6fe549b.mp3",
           "https://api.clthuanxie.cn/cc-audio/69/6966f965dfa8904bc312575d8facb921a620d84b.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b1de2ab3ef09d19dcfd47ff38d33986a106768b6.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/25/256c8a600d99c2e730d1560bec5712a4d9c3d59d.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db422f61cd370ef764030fff794ef21e176733aa.edge-b1aa18d83ad3.mp3"
       }
     },
     {
@@ -157,7 +157,7 @@
       "answer": "第 6 行",
       "explanation": "按照数对习惯，第一个数表示列，第二个数表示行。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/82/823a5587b40771c1d6b165e14ee01636b0ea64b0.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b104aebd49e5d0884bbf5e4b750e700f18e97383.edge-474a0e6990a0.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/e1/e14ed6de94a8a60457822fd4cbe2ae8909ee5edb.mp3",
           "https://api.clthuanxie.cn/cc-audio/e9/e92415d4534c27053836be339473a2c543eebad8.mp3",
@@ -178,8 +178,8 @@
       "answer": "6",
       "explanation": "小明在第 4 行，后面两排即 $4 + 2 = 6$。验算：$6 - 2 = 4$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cf/cff08ff0e40eb9dff480c084ead348bcf8c3ee70.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9a6504e12a6c4c3473143b13c6ffb3510e3f8ef.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e03bee5a71ab843f5b73d9296bcd33288ee7239c.edge-73e795044e08.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a937b64fee1a9b25a55ce519743f6098f1817658.edge-50f3d389190e.mp3"
       }
     },
     {
@@ -193,8 +193,8 @@
       "answer": "60",
       "explanation": "$12 \times 5 = 60$。验算：$60 \times 2 \times \frac{1}{2} = 60$ 或 $60 \times \frac{1}{5} = 12$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4f/4ff3176f804042d63fd3a5a6bb98c6832f716839.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52fd80e43e0ff071d7475c07adab543b71aaf083.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06865a3ce21c3e6d66aecb64ea45e63f99d12308.edge-615b0cd4acdd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e700d26d2c6c1973cd046b436e42233ca2c000d.edge-a351f8956abd.mp3"
       }
     }
   ],
@@ -210,7 +210,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/bf/bfb951e3ea2982348c1d8b00e9bf77fb5f1daf40.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/b2/b2333baadea825793ff5e707df1d0c7b2352d925.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/c3/c38b1594ae8a9bb595f233e1b06ccc40362e5fd8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/54/5432d226eb8b24b0a7aa7cb8068b2136ae8460c2.edge-87389b11de7b.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/94/947d05734b833b806635eb82dae875834f6f4c5b.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/7e/7e64194d9d047f87a2546a6b919b82acbeb796b6.mp3",

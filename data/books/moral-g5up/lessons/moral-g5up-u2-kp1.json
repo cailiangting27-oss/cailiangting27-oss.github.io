@@ -21,17 +21,7 @@
         "离家出走"
       ],
       "answer": "冷静沟通说出理由",
-      "explanation": "沟通化解代沟。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/60/60200eaec61ba0cb4741423cb0bb6fa03015664e.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/d8/d8017b6ca4e80af2776e60576a81b7e735d8c943.mp3",
-          "https://api.clthuanxie.cn/cc-audio/50/50bc9b351c46957a8ccf62990a6e47147bd3395a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/32/320378c87160bc59edd99c1fb83b455c308b87c0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8e/8e92b9a30ecd648a809ef79a46cee33d88fc0f6e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6208d1bfd429fc8aaaa929b9180b252da49dad93.mp3"
-      }
+      "explanation": "沟通化解代沟。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "父母的付出不是理所当然的。",
       "options": [],
       "answer": "对",
-      "explanation": "要懂得回报。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/23/230af6efa3d8013832546db21938109082b9642d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf5761a6a9c9c7a7f1241abbb056f606010b9ef7.mp3"
-      }
+      "explanation": "要懂得回报。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "认为父母的付出理所当然。"
     ],
-    "tips": "主动沟通增进理解。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/1a/1add8cffae678ca945aac26a3e8d651f45a35b56.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/e3/e36277ecb0a545980d3f8f8de54684c31bc5ba61.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d6ade5d512b8dae441406cffd5538b84d2e0ad86.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/fb/fbe38dd0ddda29533d211bb1f042ec6fc4adad20.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/de/ded95b3728e6c33b5d4213e5c2804deb873d3da0.mp3"
-      ]
-    }
+    "tips": "主动沟通增进理解。"
   }
 }

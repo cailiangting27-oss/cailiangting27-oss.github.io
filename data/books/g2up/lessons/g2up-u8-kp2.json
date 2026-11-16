@@ -19,7 +19,7 @@
       "explanation": "组合问题与顺序无关。3个人握手情况为：小明-小华，小明-小刚，小华-小刚，共3次。公式分析：$3 \times 2 \times 1 = 3$（次） ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/7e/7ebb0651be7cb255693197d454e59add8e129f1e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60d0237b857ea3eb6d5727155634af6ef7b80949.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0557eaa9ab913974207e5075ec41d191c8a3a380.edge-6f6d870fd8a3.mp3"
       }
     },
     {
@@ -127,7 +127,7 @@
       "explanation": "可以用连线法：1号与2,3,4打（3场），2号与3,4打（2场），3号与4打（1场）。总计：$3 + 2 + 1 = 6$。验算：$4 \times 3 \times 2 = 6$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/7f/7fa77d1c1996b6ebd1d9d8f916d2cdb44b08d13d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4adcc8b56a8809be27498ce3edf74fcd8ead415e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f997b0abbd5731310f122ac4581be184819dc1f8.edge-adbd51c54766.mp3"
       }
     },
     {
@@ -141,8 +141,8 @@
       "answer": "6",
       "explanation": "$3 + 2 + 1 = 6$。验算：$6 - 1 - 2 = 3$ ✓。此题模拟4人两两握手的组合数计算过程。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/2b/2ba7183c2fb1fc9efb8af95614ac6f89da33fdfb.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac25172c18e87eb902169c5977d61f9272ec2dc1.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55a1bdb950f8bbb9c1ba17ab7add529edb9b388d.edge-350b141e35a1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a71843c301fda380eb4d19c0326b63636d35648a.edge-8155b4219ede.mp3"
       }
     }
   ],
@@ -158,7 +158,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/89/89cc747acc2dc35674159ee267ed5c3f3ba3a4d0.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/fb/fb931b36de2c4ab92e714694b08e4e96638cbc2b.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/0d/0d4e0498fa4eb5a31fb1d28b82a214d029e7f86e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a1/a161738a480b949cf7e834a66f97ab69a1d539de.edge-4b217ced2dca.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/ab/ab3aca640b1e866e4667ab7d76f4944826e68e7b.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/fe/fea4629d1ab82b0bb0cc223d2fd9ac5a39f008ab.mp3",

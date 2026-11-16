@@ -23,14 +23,12 @@
       "answer": "Good morning!",
       "explanation": "早上问候用 Good morning。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa4e627401e3b97da1576f30c05f9fa1b50ca37c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/33/33e8886999443d76d900282c1dd8a1d0da0128aa.mp3",
-          "https://api.clthuanxie.cn/cc-audio/15/15780c23a0b16207237f5f16f144175cf2223aa1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15780c23a0b16207237f5f16f144175cf2223aa1.edge-09cbb044b4f9.mp3",
           "https://api.clthuanxie.cn/cc-audio/8f/8f846145b726c8fec999a3bf1a01fe31c65f798d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/08/0846f39cb3c64d2941b873cd5b50a8f670e758c9.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9df202a6d2f520cf33e13710c20ce70f6360b58.mp3"
+          null
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "Good afternoon",
       "explanation": "下午用 Good afternoon。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/55/5565ee9602c8ca79395400c2ce9ca8a895511390.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
           "https://api.clthuanxie.cn/cc-audio/13/13fd0a3ec7c352d01eba2942e5d9134834589b71.mp3",
           "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
           "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02a7c104aa5a3bc361f0ed0dbe6da7deda0a67ff.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "Hello 和 Hi 都可以用来打招呼。",
       "options": [],
       "answer": "对",
-      "explanation": "两者皆可，Hi 更随意。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd9e42cf33eb7498c594697caec72c3cdd24d366.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/68/6888dccc828410d645c19671a9e3f8fea1822fa1.mp3"
-      }
+      "explanation": "两者皆可，Hi 更随意。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "晚上好说成 Good night（那是睡前道别）。"
     ],
-    "tips": "问候语看时段，道别看场合。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/42/428032d8d330928c0f06afd69002a323b2d0ea74.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/05/05c5d89c4cef94ba8a2332bf4392797041bff3d8.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/1e/1ec1e9314893a830d4f9b7cd016bb24aa763d506.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/cf/cf8553b71f0e196637d2a77d7a84dc06e79898dd.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/37/37769e1d85d46c73f79779f36b640be23bcc3d36.mp3"
-      ]
-    }
+    "tips": "问候语看时段，道别看场合。"
   }
 }

@@ -23,14 +23,12 @@
       "answer": "Stand up",
       "explanation": "Stand up 起立。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/54/54617a649e1e5fe1ce4827fb2f53edd6b034a22a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/d9/d979686fcdb2fcfc2c3f5ca7b6c579111d8c981b.mp3",
           "https://api.clthuanxie.cn/cc-audio/c6/c6ca45a57c627f562fe1e32d263d5002f451a536.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0c/0ced333c514e2625dd633369e71821a0fa5d40c2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c5/c518fb067439705f3ff5fa5b4a62b9be3afa31ae.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/ebb8568bab3f88db8c643b19c8d729144d2b6196.mp3"
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "Open your book. 表示打开书。",
       "options": [],
       "answer": "对",
-      "explanation": "课堂指令。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/58/5825379c18371b48903a849acd95e2c0a5b7465a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b9508d0a0875e7f01534f6d0441b30695279907.mp3"
-      }
+      "explanation": "课堂指令。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "Sit down 说成 Stand down。"
     ],
-    "tips": "Stand up 站起来。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/07/0762b22293421b290078297d73c1dddaad89efe4.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/c9/c9dd617db31167e5cdd6cf56f904c22f208b0fe9.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/07/0762b22293421b290078297d73c1dddaad89efe4.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/b8/b8ebfc8e9fcaf53c9989c0c4c1598cbee7213162.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/7f/7fc803951c27aa0d1ddb851a26074e1710cd92fc.mp3"
-      ]
-    }
+    "tips": "Stand up 站起来。"
   }
 }

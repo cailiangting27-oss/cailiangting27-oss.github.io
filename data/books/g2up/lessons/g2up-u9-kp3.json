@@ -55,10 +55,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/4a/4a1d533c55218180cfc2d9ee37a651e2691af544.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3",
-          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.edge-306fc8aca8c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.edge-e1e00cdae1a5.mp3",
           "https://api.clthuanxie.cn/cc-audio/62/622f3c5acb0e3c96620f795bdd08896e2a5d9490.mp3",
-          "https://api.clthuanxie.cn/cc-audio/19/198631ac546ec303ed17885540ba9041d45a3136.mp3"
+          "https://api.clthuanxie.cn/cc-audio/19/198631ac546ec303ed17885540ba9041d45a3136.edge-52745f0f28f3.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/96/96f2ce140fd30f06af321c514c9ad917730f5e2e.mp3"
       }
@@ -81,9 +81,9 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/b6/b6f00c0cadcc8316374b9b77bbaa0cb2794c0894.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.mp3",
-          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.edge-b07f9403a30c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.edge-c26827c6ee45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.edge-0c444259d23f.mp3",
           "https://api.clthuanxie.cn/cc-audio/ec/ec758163cad80e6761543bbde67752ce7603130b.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3a60889e0db7a03e0113fd96595a7c25e0ab729.mp3"
@@ -112,7 +112,7 @@
           "https://api.clthuanxie.cn/cc-audio/c9/c9e72455c7ea20ff40051eb0465e0cad39c61ece.mp3",
           "https://api.clthuanxie.cn/cc-audio/98/98f69813c945a3a853b470fac3e11e67db44b9d6.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa432b238763a4426348866352bfbd0d631e1912.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fc537e48231d8448264fe17d4c6e92583f2bea8.edge-5852d5fecf81.mp3"
       }
     },
     {
@@ -136,7 +136,7 @@
           "https://api.clthuanxie.cn/cc-audio/d5/d5545b473566a1ad740bcee3be377aa618b39f38.mp3",
           "https://api.clthuanxie.cn/cc-audio/0e/0e3d246a8a7fc45c4847f9655204d1242f751849.mp3",
           "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/24/2431dc708ea5eb72fed78e12fe8d4698757fb646.mp3"
       }
@@ -153,7 +153,7 @@
       "explanation": "因为1米=100厘米，3米就是3个100厘米，即300厘米。验算：$300 \\div 100 = 3$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/3e/3e3678dfdbad03d8de82400feab8b2fa7d971c29.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02ca62a0a3caaebfe338152b0df1fee3db3938d9.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17ae12b678a78bd83387fcab698ae0c1eb9e258b.edge-4525db96ba58.mp3"
       }
     }
   ],
@@ -169,7 +169,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/bc/bcb87e8a33e8b2874c2a7f15203b3e62b4ac5ff3.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/04/04d4d72a6450d892308dbe1546fe63a3e9ad148b.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d727bc045a7cfef6ed2dfc95ad68c657e0683c9d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b8/b8b28b56c5c3d43ec83d3a15019d62794bcfc8f8.edge-72950b7b4577.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/db/db5863e575de6d0e65f70f831399675db36ca172.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/d6/d689e6495ff0a41cf151417c4cd524719089c4ca.mp3",

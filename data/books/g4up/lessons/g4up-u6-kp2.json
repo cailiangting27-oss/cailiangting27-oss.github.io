@@ -19,7 +19,7 @@
       "explanation": "三位数除以两位数，商可能是一位数（如 $100 \times 50 = 2$），也可能是两位数（如 $500 \times 20 = 25$）。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/ae/ae244f57f710f70a392bb87586790b666971422a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf7889db3c95cbc4292e851d2314f7a0888a7dd8.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95087c11a6bac3f8a35d0777e49f071ee805a262.edge-200b7dc4d3ea.mp3"
       }
     },
     {
@@ -53,14 +53,14 @@
       "answer": "偏大",
       "explanation": "把除数 62 看作 60 是“四舍”法，除数看小了，商容易偏大。验证：$62 \times 8 = 496$，大于 480，所以商 8 偏大。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/06/061d4157631260a7197bc899157b435c14401629.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2c062ababd5bb6d9df3ff666bb8a5131c73bd59.edge-360280f5f44c.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/e5/e523b6ab39473bd5fed246159a8123a9cd71201f.mp3",
           "https://api.clthuanxie.cn/cc-audio/ee/ee1f732db77307b786960cb3ef4e24924f9ff85a.mp3",
           "https://api.clthuanxie.cn/cc-audio/01/01828182045cf7803d38dc05a456e8df5cd54662.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72cca3bab17fbf906a4474bc3d98372c59d188a5.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e69c9e015c8195b6f5d2bff952b449524d1ea8e3.edge-78b476a6620d.mp3"
       }
     },
     {
@@ -105,14 +105,14 @@
       "answer": "两位数",
       "explanation": "被除数前两位是 3$\times$，大于或等于除数 33，所以最高位在十位上，商是两位数。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e38d49a2565c25a625f9081955cd56565aa7ef7.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84957d34e3de14801b832b2f68d5aeca6b433066.edge-36e7a8df1bd5.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/88/8844d99f2bc62a7a538030bf9c6efd2d23dfb204.mp3",
-          "https://api.clthuanxie.cn/cc-audio/39/39f0489f01a0b6daa07357428de01f81bfaf316d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/be/be8281696dc85ebff73e5b12aacf0036da460399.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8844d99f2bc62a7a538030bf9c6efd2d23dfb204.edge-b5557023ce10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f0489f01a0b6daa07357428de01f81bfaf316d.edge-7ef0d119e0f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be8281696dc85ebff73e5b12aacf0036da460399.edge-3cb6ab273d5c.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4da7734b1d11a508867436e7fd29e3e2cbbd9480.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b0995faa5a49bcb29f9b99a332561eb8bbfa24c.edge-dcc60eb26597.mp3"
       }
     },
     {
@@ -131,10 +131,10 @@
       "answer": "十位",
       "explanation": "被除数前两位 54 大于 27，够除，商的最高位在十位。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3d8f191a57178e52873f0aace8bc032a3f8717c.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f653ecd032c1d3c58d74b234e901914826582438.edge-b59279750a3e.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c9e7751d1c9cbbb798632f85f175bd74c555107a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.edge-c19114025575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e7751d1c9cbbb798632f85f175bd74c555107a.edge-428e78f75c72.mp3",
           "https://api.clthuanxie.cn/cc-audio/c7/c7e9838e2cdee571d816cbf3c6f3cf16e8a95e44.mp3",
           "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
         ],
@@ -157,14 +157,14 @@
       "answer": "791",
       "explanation": "$17 \times 44 + 43 = 748 + 43 = 791$。余数最大是 43。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0e7fa288f20185cf174e1f98b4e33f969cd4a2c.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/51/518d3d26ddce94fabf9828883b5e6a9c44fc45f3.edge-ed74f58e01a5.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/73/7325068e8007fede0cfd8909e0ca401be6875a5c.mp3",
           "https://api.clthuanxie.cn/cc-audio/73/732c0a1fc174dbd3f549df2e96a5dae45900b9d0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/40/404c735f21d00fee39a13210d54844f3cec069c7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/6d/6d40f903e9f072ed9ed21889e1520272247f6cc1.mp3"
+          "https://api.clthuanxie.cn/cc-audio/40/404c735f21d00fee39a13210d54844f3cec069c7.edge-33a3a5b69e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d40f903e9f072ed9ed21889e1520272247f6cc1.edge-c779d7df1292.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb4305be4fc20017866ee220dee2b703f7478916.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85c19a985a7b7c0490a85a092c9db53ce90d796b.edge-aa0e44c47257.mp3"
       }
     },
     {
@@ -178,8 +178,8 @@
       "answer": "430",
       "explanation": "根据：被除数 = 商 $\times$ 除数 + 余数。列式：$15 \times 28 + 10 = 420 + 10 = 430$。验算：$430 \times 28 = 15 \times \times 10$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a4/a48917e25236ce779f3ee453b170bc4ac7a10674.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41cbb4695d139123e0d427edd975be0f05089371.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfbef81c84feb41b2e2d6c4cf03e76b30ef24f66.edge-ede09ea2d255.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aaec75e16d7dc1d9cf4943ccc4a5341fd1508d54.edge-150a171fd83c.mp3"
       }
     },
     {
@@ -193,8 +193,8 @@
       "answer": "9",
       "explanation": "$24 \times 10 = 240$，216 比 240 小一点，试商 9。$24 \times 9 = 216$。所以结果是 9。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/36/36382012e140c4047ea4634410e0c848213f0e68.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc575c838d971f4ca031036f430d20f0ab0fbf95.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16c3c683d016960a1ea1ea5893e14f2eb4383218.edge-a9502ef57fe2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c90bcd921900e5b99e499d6e95d5c8fa06a602ff.edge-c371cff09d28.mp3"
       }
     }
   ],
@@ -210,7 +210,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/24/24edc7ddb49bc09ad519b2f23f6ae57010d7bf23.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c23c6fdf617c9232a54b769ebd048306ff65b890.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/29/291ec62e834735d0cf27a0b6bc632d564a7bfa37.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fd/fdc25ea8b9a3450ac3f73448ddfa9d42f4ab4ab0.edge-077817ca07c6.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/87/877e1dd54f25fcf6e7cfb762136599fcd97ac932.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/48/48fade0c34481060bc44d4a4ca040c2d2ef68c73.mp3",

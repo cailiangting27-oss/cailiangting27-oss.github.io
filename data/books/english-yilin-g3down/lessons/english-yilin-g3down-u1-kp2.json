@@ -28,8 +28,7 @@
           "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3",
           "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/85/856ad42c0620f637188f24612581d0bcf984c814.mp3"
+        ]
       }
     },
     {
@@ -41,11 +40,7 @@
       "question": "I'm… 可以用来介绍自己。",
       "options": [],
       "answer": "对",
-      "explanation": "自我介绍。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/58/58d67eb288e24f177ef1ee3cc37992d63f5984cc.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47576ed14f3bc31a84a384680251a542c5fe7c32.mp3"
-      }
+      "explanation": "自我介绍。"
     }
   ],
   "knowledge": {
@@ -55,14 +50,6 @@
     "common_mistakes": [
       "Nice to meet you. 回答漏掉 too。"
     ],
-    "tips": "回答加 too。",
-    "audio": {
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/df/df9f3507a459191d10a33bc1603de531c2c343a5.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/dd/dd4d3ea18661fd745f79bd4a44f181970cf5e960.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/85/856ad42c0620f637188f24612581d0bcf984c814.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/af/afc9d2a0a0738ffdc8f1b6331aac096895d839e2.mp3"
-      ]
-    }
+    "tips": "回答加 too。"
   }
 }

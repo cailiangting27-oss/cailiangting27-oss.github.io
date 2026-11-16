@@ -70,10 +70,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/eb/ebc0af621070d88b254275dfeeb0e4dc2ebebf37.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.edge-bd78e6361897.mp3",
           "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.edge-90d7e4711d06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.edge-bf407cb97c7b.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c0d64837a8ef7109c1780b5caffa37796669961.mp3"
       }
@@ -122,8 +122,8 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/af/af1ed2eec9647457dd91bb53c0ccca54ed1da834.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.edge-bd78e6361897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.edge-90d7e4711d06.mp3",
           "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
           "https://api.clthuanxie.cn/cc-audio/22/229298d292b0396426defe1bf0e5af81d2334c64.mp3"
         ],
@@ -149,7 +149,7 @@
         "question": "https://api.clthuanxie.cn/cc-audio/fa/fa3327e870f8ebe9f14f8ea843b62c91d45bc9a9.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
-          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.edge-90d7e4711d06.mp3",
           "https://api.clthuanxie.cn/cc-audio/f7/f71f37508c3c281550fd5301468fbfd1199af8e3.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
@@ -235,7 +235,7 @@
       "explanation": "长方体的成对特性：正面看到长方形，背面也一定是；侧面看到长方形，另一侧也一定是。$2 + 2 = 4$。验算：最少情况是两端是正方形，四周4个长方形。✓",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/d8/d8f625c43fd389a45ae1c581cb53076e86aa1dcf.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6dd23c60a5da0a868aa42915f1b575c8258191f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6f033b008b338a0ae24e3042ae9bf30c3b749af.edge-f7b70957c2a1.mp3"
       }
     },
     {
@@ -249,8 +249,8 @@
       "answer": "6",
       "explanation": "$3 \times 2 = 6$。验算：$2+2+2 = 6$。本题对应正方体3个面可见，若两个正方体合起来数可见面的趣味计算。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3b17edba562cc083e85e891060dbd6b05073f39.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e6e387a4222fc8e09b6e2690ab2244e6d330ef0.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c3d4b0ddc6bee819ce0f535f89f632081c08d79.edge-c9fde6dc4141.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/483b3fb2764c37665deb0dea40434042403daa28.edge-794cd9e1e236.mp3"
       }
     },
     {
@@ -264,8 +264,8 @@
       "answer": "6",
       "explanation": "$12 - 6 = 6$。验算：$6 + 6 = 12$。对应正方体棱的数目减去面的数目的算理。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/24/24c946f4f34c7d26dcd856d881dbe5480caecb08.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5347b9ed893d74d1543f407ee4efdd79cb1e3a96.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37c4d5be0ee5b624b4c989006d851176910794f8.edge-ecd2c2003ebf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f9111f2df3651278b0a39213950cfaafab2cf10.edge-a06763f62e23.mp3"
       }
     }
   ],

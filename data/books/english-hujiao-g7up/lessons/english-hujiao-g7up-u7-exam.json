@@ -21,7 +21,15 @@
         "basketball's club"
       ],
       "answer": "basketball club",
-      "explanation": "合写 basketball。"
+      "explanation": "合写 basketball。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e2f4fcadf07f94642d8100e42a57d8735831da2.edge-f482bb994bad.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "What club do you like join?"
       ],
       "answer": "What club would you like to join?",
-      "explanation": "would like to + 原形。"
+      "explanation": "would like to + 原形。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d148c614f1c15dd0a9189b25da1db2d80d684c1d.edge-add3aafbb1c8.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,
@@ -68,8 +84,8 @@
       "audio": {
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b8/b8037158ea203396742814e9dd34cd14afe9c1af.mp3",
-          null,
-          null,
+          "https://api.clthuanxie.cn/cc-audio/9a/9ab0437a651b91cba78f08068de933c108d92f9d.edge-9408f2412085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8812b0e1532f81f7bf4e28efd3aedbcb0252d0bd.edge-e65e762baea0.mp3",
           null
         ]
       }

@@ -27,12 +27,10 @@
       ],
       "knowledge_point": "家里的东西",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/99d4919f5d64be554653516abb6d5654af4a9bc3.mp3",
         "options": [
           null,
-          "https://api.clthuanxie.cn/cc-audio/a3/a30d8f6da6058eb0a4887fc0bde223d1e9846850.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc71aa8ea42480d09a7d2e7751888a349a658835.mp3"
+          "https://api.clthuanxie.cn/cc-audio/a3/a30d8f6da6058eb0a4887fc0bde223d1e9846850.edge-15305a63472b.mp3"
+        ]
       }
     },
     {
@@ -55,12 +53,10 @@
       ],
       "knowledge_point": "家里的东西",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/75/7544a2ff25e449318b2c09223983d7190dbd81a9.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/9d/9d08e4010fcbbde47f5750c4f2956a173295e785.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a3/a30d8f6da6058eb0a4887fc0bde223d1e9846850.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69452dc58f290b70b6c327a3525feb7b07e3fe03.mp3"
+          "https://api.clthuanxie.cn/cc-audio/a3/a30d8f6da6058eb0a4887fc0bde223d1e9846850.edge-15305a63472b.mp3"
+        ]
       }
     },
     {
@@ -83,12 +79,10 @@
       ],
       "knowledge_point": "家里的东西",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/63/63eb7c8eea0f1302eb3a913d7c23dc3edad7495e.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/9d/9d08e4010fcbbde47f5750c4f2956a173295e785.mp3",
           "https://api.clthuanxie.cn/cc-audio/57/57b3e135628504bdc47a2f46ec4426b82d10ed5b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d73023566e06ebcd2c51ea9a03b70986451a012c.mp3"
+        ]
       }
     },
     {
@@ -111,12 +105,10 @@
       ],
       "knowledge_point": "家里的东西",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2f2c3e7e794d51866c2d5eeb668dcbe3682c162.mp3",
         "options": [
           null,
           "https://api.clthuanxie.cn/cc-audio/57/57b3e135628504bdc47a2f46ec4426b82d10ed5b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e5a1bd90ee8697badac7a580e86c3b51f0764cc.mp3"
+        ]
       }
     }
   ],

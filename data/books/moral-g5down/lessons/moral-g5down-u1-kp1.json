@@ -21,17 +21,7 @@
         "摔东西发泄"
       ],
       "answer": "摔东西发泄",
-      "explanation": "损坏物品不是正确宣泄。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d2db387485f16572077b0b8fb8675ae7a7b5e63.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/fc/fc7439b8908426314e40835cc05485b3537e195a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/66/6631e00bd26410936853fff69d62a0af595b5f73.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d1/d175ba827cf8148f563a04ca2dd285f0b3e68eaa.mp3",
-          "https://api.clthuanxie.cn/cc-audio/fb/fb303151005e42ce4d9ac7bfc35b99e09d4bc7db.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/54/546f5c363a4782f96075488f39687a111f61c020.mp3"
-      }
+      "explanation": "损坏物品不是正确宣泄。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "情绪没有好坏之分，关键是表达与调节的方式。",
       "options": [],
       "answer": "对",
-      "explanation": "情绪需要正确表达。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/994d39785879a0493d53f1b2ecf1f9ce600669d3.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83a1eb133364d049601ae46c6eeaffb7f27aa112.mp3"
-      }
+      "explanation": "情绪需要正确表达。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "把所有情绪都压抑起来。"
     ],
-    "tips": "适度表达情绪。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/88/888eeac864d54dc23cbcee7deced3012a3fc9c4b.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/ec/ec01666d7df2003c1b7265c54eed0d6b5a119e9a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/de/de5e42a6b2f887ef3f773c4d3967e453d0f916dd.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/39/399a8abfe64018e8369ed4b1086e34f6ff11d5a6.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/a6/a69928c4d4199cac60c2955858e3e8b21d51fdfd.mp3"
-      ]
-    }
+    "tips": "适度表达情绪。"
   }
 }

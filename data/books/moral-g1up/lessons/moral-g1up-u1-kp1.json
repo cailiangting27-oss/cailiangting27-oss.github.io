@@ -21,17 +21,7 @@
         "转身跑开"
       ],
       "answer": "主动问好",
-      "explanation": "见到老师要主动问好。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/70/70c10813e7577a686a51ea9a6dcec52d9fcb3734.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/d0/d028b63fe8ade6ee8efb62563c5bfae7e65b74c8.mp3",
-          "https://api.clthuanxie.cn/cc-audio/30/304fda8af2dc42203f3636b5baa62e47eaeeda46.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c0/c0fef067a428b9b3f9acf6fb70b7056c24b043e9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/25/2586c67f7a6af5e9abf743d19440f7dc33c2256d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c92a6483a63d143b9da9eb3cfb3d9059d50c6f20.mp3"
-      }
+      "explanation": "见到老师要主动问好。"
     },
     {
       "id": 4,
@@ -42,11 +32,7 @@
       "question": "上学要按时起床，不迟到。",
       "options": [],
       "answer": "对",
-      "explanation": "按时起床才能准时上学。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/49/491913a77b83a3c62997d6cf819f71f9c364529b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81c25a8f9d62e36fb495f1704df74e5e14882b92.mp3"
-      }
+      "explanation": "按时起床才能准时上学。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "上课随便走动、说话。"
     ],
-    "tips": "上课专心，课间文明休息。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/a8/a8302b6cbe11adcc48c22c5be1cb7f4fa80634b5.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/6a/6a333ff226946f9b61d7f05bfe55015fbc1f9ad8.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/a5/a5cddd9fb2a31b9819289575d72eada0f18de4bb.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/ee/ee3da13d071cada43f56cfa94c1f782348d644c3.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/f2/f2efcc9401b72959fad0d879b52a175d9aee70f3.mp3"
-      ]
-    }
+    "tips": "上课专心，课间文明休息。"
   }
 }

@@ -21,7 +21,15 @@
         "It's hot on summer."
       ],
       "answer": "It's hot in summer.",
-      "explanation": "季节前用 in。"
+      "explanation": "季节前用 in。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df720a431e54efc9bf56afb83215a9d338acf9ea.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

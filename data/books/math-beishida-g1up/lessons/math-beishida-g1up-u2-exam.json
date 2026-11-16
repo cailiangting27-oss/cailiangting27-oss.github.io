@@ -21,17 +21,7 @@
         "随意站"
       ],
       "answer": "同一水平面上",
-      "explanation": "同一平面才公平。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b2/b242b9e642e5fc1ecc4cbba19c98e0c148456d64.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/c7/c7a115508db9246d3ff342b460aa5f6eecfd6199.mp3",
-          "https://api.clthuanxie.cn/cc-audio/44/44c72eedcbcd8f927a1e653bc11f3a9df2138c85.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ac/ac223b514931dd13e0115f6af916be2f7fe7df5d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9b/9b427ac4760b02801a595b13021d48ed88f24526.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d2cae48193ae1afeee431d876b3db0d79524ab5.mp3"
-      }
+      "explanation": "同一平面才公平。"
     },
     {
       "id": 6,
@@ -42,11 +32,7 @@
       "question": "「同样多」表示两边数量相等。",
       "options": [],
       "answer": "对",
-      "explanation": "数量相等。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/64/64dfbe55a07262a209bdec2712303e4953e1aa14.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7532fb50bd5561e37d39737fd2007955551afe1d.mp3"
-      }
+      "explanation": "数量相等。"
     },
     {
       "id": 7,
@@ -64,14 +50,12 @@
       "answer": "小树比小草高",
       "explanation": "高矮是相对比较。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1cdf4f888e894a42777fbe5d25e01b862a664e1.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/d7/d705e235e1511d0d48cb3bd8199d82f94b471227.mp3",
-          "https://api.clthuanxie.cn/cc-audio/86/86d31641632464e6a154976c6010e25357cc53d0.mp3",
+          null,
+          null,
           "https://api.clthuanxie.cn/cc-audio/da/da185e0387de8d73d3d51256a651e3efc6410782.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd3d8257588c0521a209dd57c33c5191535b1174.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
+        ]
       }
     },
     {
@@ -90,14 +74,12 @@
       "answer": "同样多",
       "explanation": "数量都是 5。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3e96e139b38aff20cda149a437e085841a52045.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/f9/f9622dd19479b702573f331f83190a32b88ee09a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/33/332200fa916960621801e315847a021af700537b.mp3",
+          null,
+          null,
           "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5eeac97b6269ba1e92c613e22354cd4bc8d7e12.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
+        ]
       }
     }
   ],

@@ -23,14 +23,12 @@
       "answer": "Yes, I can.",
       "explanation": "can 问 can 答。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/97/974b9084dfd63de75e20dbd1c97b758c39099f38.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/be/bec49420002d410a20cee0a8f2d83028249f6965.mp3",
-          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/32/32fb661488917db04ace3c04048fad1873770986.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5f225e86ef23ea55fb6ef04d2e89e88d82f9fa3.mp3"
+          "https://api.clthuanxie.cn/cc-audio/be/bec49420002d410a20cee0a8f2d83028249f6965.edge-31d2c3aa3f2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.edge-993a95ed3015.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.edge-912404adc1c5.mp3",
+          null
+        ]
       }
     },
     {
@@ -47,17 +45,7 @@
         "I don't can jump far."
       ],
       "answer": "I can't jump far.",
-      "explanation": "否定 can't + 原形。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c1/c133e9fbb88cc2c40396acc5aca01e540a9ba418.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/01/0195a1d601257eb2885b5a0e6f09058ca2d1830b.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f7/f74f32094dc6faf4f8caf95caa85f7aeaf826158.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f8/f84a46f5a5a938bb8759c4b34b10c802f06830d1.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1a/1a6a4be0c02e41eaefc292ce5c6f93eb40945c4b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/90/904d050853da761f0787f160a8ac2e5349d9bfc3.mp3"
-      }
+      "explanation": "否定 can't + 原形。"
     },
     {
       "id": 4,
@@ -68,11 +56,7 @@
       "question": "can 表示能力，意思是「能、会」。",
       "options": [],
       "answer": "对",
-      "explanation": "表能力。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1a/1af7d757cf30f253df1fdf04af0ed566c11cd4e4.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7386db8a9f1d74686b9ea25a900c7a9379560c2.mp3"
-      }
+      "explanation": "表能力。"
     }
   ],
   "knowledge": {
@@ -82,15 +66,6 @@
     "common_mistakes": [
       "can 后接 to do 或三单形式。"
     ],
-    "tips": "can 后永远用原形。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/98/9805150e3494232fb455e8b1517275bfdb18a2e1.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/ea/ea318a40c6280894e0db8f1d34f00cd8fca7c438.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/64/64f413be96f9fc1625b83e6e911e24bc90cf29ff.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/0f/0f75827a5aecfeab7081de30b0e9a3924f75b220.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/01/013e87b6fb3ef6cae9749b305016cfb8e52a61fc.mp3"
-      ]
-    }
+    "tips": "can 后永远用原形。"
   }
 }

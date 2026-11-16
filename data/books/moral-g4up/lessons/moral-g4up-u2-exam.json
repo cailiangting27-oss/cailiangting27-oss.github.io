@@ -23,14 +23,12 @@
       "answer": "视力和学习",
       "explanation": "沉迷网游伤眼误学。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d4ff26f5c3b5147b7396681e813eb360e45ee5a.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/44/44bb692c3fadce9e140ae1415500d2e81872f51c.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/36/3612a433c18058c98bb5b5f1950612e900c0d914.mp3",
-          "https://api.clthuanxie.cn/cc-audio/11/111e55564b1228fccd51ff86e8b888789400a636.mp3",
-          "https://api.clthuanxie.cn/cc-audio/20/209a60bbe5d3d2a4fb72c273d0d73a79fbe18261.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c30215967067fa8568aaba5a0f67b6ef05454189.mp3"
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "遇到可疑信息可以向家长老师求证。",
       "options": [],
       "answer": "对",
-      "explanation": "求证可靠的人。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a8/a803aed4dd730f72e5a08ecbac40fa137834a845.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb806dda9b1f0a8d045c856c01dafc044be96f9d.mp3"
-      }
+      "explanation": "求证可靠的人。"
     },
     {
       "id": 7,
@@ -62,17 +56,7 @@
         "听同学说"
       ],
       "answer": "查权威来源多方验证",
-      "explanation": "权威来源更可靠。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/77/77e2a9392c239e915a928669ee6e930025732aef.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/2f/2fea6e0f4bd1bf749155d9e2a80cb2908556b1ca.mp3",
-          "https://api.clthuanxie.cn/cc-audio/80/80144b5a6fe1ed79d088fcf93c8549a5e39c756e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a3/a3fe6f8fc958753796f5e9275f4e449f925a8af5.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ca/cae6d72051b79f7cdf874af2fdfdc71e33e77afd.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7b91c016ab2fb5a58a363ad4f145e50d0b429fe.mp3"
-      }
+      "explanation": "权威来源更可靠。"
     },
     {
       "id": 8,
@@ -83,11 +67,7 @@
       "question": "网上交友要谨慎。",
       "options": [],
       "answer": "对",
-      "explanation": "网络交友需谨慎。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab316458babbb26a55114312784a0d72cc8c5a90.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18f3f7fa9aa775b6a1b16955f65122087df09ddb.mp3"
-      }
+      "explanation": "网络交友需谨慎。"
     }
   ],
   "knowledge": null

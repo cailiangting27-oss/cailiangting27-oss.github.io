@@ -23,14 +23,12 @@
       "answer": "eraser",
       "explanation": "橡皮 eraser。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ca/caf649b7a2bed494b47c10d732189e3970928348.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/fd/fd761b6e2ada5dbe995912daf2eeb7d503f94298.mp3",
           "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
           "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3",
           "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0790e13d21f29f95b043c3fa9c18b0210ef9eb9.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "pencil 的意思是铅笔。",
       "options": [],
       "answer": "对",
-      "explanation": "铅笔。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dab730bc480d4180cf9e2df7589e37592bf6c1e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/23/234f162fb831c5b47bc2355a2c20c339d078e850.mp3"
-      }
+      "explanation": "铅笔。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "eraser 写成 eraser 的复数形式。"
     ],
-    "tips": "单数用 a/an。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/37/371c08570275e6eb7630db07eaa37024826656db.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/70/70fe1f0aeeaf2d08c8590938cfa06330d3fc64aa.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/71/714052e95802b20c260ee45b9578dce0de52a20b.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/8e/8e0591d2cc8082377164fde69da54857a9ac4925.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/e4/e4642dab00924ea871d93fa5f5a601342a678d48.mp3"
-      ]
-    }
+    "tips": "单数用 a/an。"
   }
 }

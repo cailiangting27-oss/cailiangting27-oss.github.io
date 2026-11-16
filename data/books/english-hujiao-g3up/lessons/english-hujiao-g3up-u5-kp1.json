@@ -23,14 +23,12 @@
       "answer": "father",
       "explanation": "father = 爸爸。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/70/702ba0614cd3e6d89081ab6df4795d9826990502.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3",
           "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3",
           "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
           "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e631f78ed6a60f4d1808f29bea9fa266304f355a.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "mother",
       "explanation": "mother = 妈妈。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3577c67386aac4f3f6fbaba063a5dffb94e051e.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3",
           "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
           "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e732f002e725d5ec4ffd4def1339143bf998d48.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "sister 的意思是「姐妹」。",
       "options": [],
       "answer": "对",
-      "explanation": "sister = 姐妹。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffbdd2915cc2a703a44bd4ceb8370cd3e3037c9b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63e7418c4cd08429f581b3a7abf597f1ed7fbff6.mp3"
-      }
+      "explanation": "sister = 姐妹。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "brother 与 sister 混用。"
     ],
-    "tips": "dad/mum 更口语，father/mother 更正式。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/16/1667ea53c523d984520afe11815338beaefeefc0.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c2701f973517419eab4a1e84223e88a03b356c52.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/c8/c86758a476a72d8bd6353548419e17d822abf5fb.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/35/3581f61df03cc2e905d71de5f6bea76f7b4af5ac.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/9c/9c251579ffb487fa534024a37e333ccf6d0c5d22.mp3"
-      ]
-    }
+    "tips": "dad/mum 更口语，father/mother 更正式。"
   }
 }

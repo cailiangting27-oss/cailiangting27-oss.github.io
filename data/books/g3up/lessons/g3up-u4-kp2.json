@@ -19,7 +19,7 @@
       "explanation": "例如 $100 - 99 = 1$，差是一位数；$100 - 10 = 90$，差是两位数。所以不一定。验算：$100-99=1$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/dd/dd6ca75b38277ab6f4ef7e466d59517bc1865418.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2db22418cfc4ea1020e786c2a9bd694cc95604dc.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95ca735ec0606c99c8b1feb68306b1a9474cba31.edge-a52e514640f1.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
       "explanation": "减法是加法的逆运算，利用加减互逆原理进行验算。验算：$10-3=7 \rightarrow 7+3=10$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/18/18a3316604a12a172c401624a426fde0ba0f57de.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc68278a4ff4c37c1fc194ee710fed2a23c61d39.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fba77b578afaf191fe7e14f77758b430162dbee.edge-89984ad343b5.mp3"
       }
     },
     {
@@ -56,11 +56,11 @@
         "question": "https://api.clthuanxie.cn/cc-audio/b1/b157095249d81037d3a923587488a4a4b161d346.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b0/b00168585f7b81b68f0ef02ffa919c710fb6f592.mp3",
-          "https://api.clthuanxie.cn/cc-audio/45/45cbe19f37712e7f4e2fcfe27422a2410971f95f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45cbe19f37712e7f4e2fcfe27422a2410971f95f.edge-c0023eb09bf3.mp3",
           "https://api.clthuanxie.cn/cc-audio/6d/6d363479c97439b921ad2bcba054992d8eda9a0c.mp3",
           "https://api.clthuanxie.cn/cc-audio/b6/b6e2efd8ffb991dd3ea069b7b9286d5e31f97b36.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e170619fa6c84cc8df039b6d836e9036bd0e3e76.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c1048cffb8e7b8bdf63da883c250f66bb42b35d.edge-728d4fd80dd2.mp3"
       }
     },
     {
@@ -86,7 +86,7 @@
           "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
           "https://api.clthuanxie.cn/cc-audio/a0/a071f3cf900d868205b8cc4c7e6aa7885cac3643.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e29c8fc467d663e3893a2efe02d916b406abcc99.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bb308c1e597ca8e76796afe89bfbad94b579df2.edge-6abf02890057.mp3"
       }
     },
     {
@@ -105,14 +105,14 @@
       "answer": "4",
       "explanation": "个位 $4-8$ 不够减向十位借1，十位变为 $\blacksquare-1-3=0$，则 $\blacksquare=4$。验算：$644-238=406$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d9/d98ce98ab57e7e291a06cd58487b78ef63760024.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2abde5bdf008504dd570304968889f0d44cb76bc.edge-1142740450f5.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
           "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b02a8d1a85ecaf232795b64cfac7b8d9ced5682b.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a4bf82b58ce6457075b6619177f7a12b2277117.edge-96859face207.mp3"
       }
     },
     {
@@ -133,12 +133,12 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/f0/f0ff4ec445893a6e5794ab0a06bfc647a8888132.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/63/639d67af2a68eab848d5a1febd5f8d565abb85ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/639d67af2a68eab848d5a1febd5f8d565abb85ba.edge-3f13fced180a.mp3",
           "https://api.clthuanxie.cn/cc-audio/28/28cc2209b234d9183848f1c6a8ff13e0311057b9.mp3",
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/b1/b124524c4b1ade45d1deecbcdef614fadb3ec205.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48eda7f5fb97aedd743df91c3da466d36b341ead.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5c4636452c312fdeb7e98a2d9dcb66756cc3f7a.edge-785ce6ed516b.mp3"
       }
     },
     {
@@ -157,14 +157,14 @@
       "answer": "240",
       "explanation": "估算：$400 - 160 = 240$。精确算 $402-158=244$，240最接近。验算：$244 \rightarrow 240$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/10/10bede3350c5e9d24e54d0ca2794c9183c4d7bf8.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/10/105647f69d4438abafa3ce1464516354f31570d2.edge-532ef0cee9ae.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
           "https://api.clthuanxie.cn/cc-audio/ca/cae91e45aed80f3a3fe285c3c8c1a7e78d82d473.mp3",
           "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
           "https://api.clthuanxie.cn/cc-audio/ba/ba30fd97b4127db56e9f4d3d9c030d71646fd2e7.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b3b6cbdd1f2b62ef2482a4856374e5319f1700b.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc25e0a174fa4a8652b9978a7c12920c6eb02a33.edge-9f1a621507b2.mp3"
       }
     },
     {
@@ -179,7 +179,7 @@
       "explanation": "列式：$500 - 276 = 224$。验算：$224 + 276 = 500$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/9e/9eee05a147e7b54528ea3abd0ba342b245890480.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/51/519f0ade5ef8648586e074d70fb80c12f80f1c02.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e55fd13761718920bd8a12e5108dfbbca35fa483.edge-12b361a82b75.mp3"
       }
     },
     {
@@ -194,7 +194,7 @@
       "explanation": "多看了 $8 - 3 = 5$，结果就多出了 5。正确差应为 $365 - 5 = 360$。验算：设减数为0，被减数看作8则差365，则原被减数3，差360 ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/66/6665d0ee3a963d5c1e12cccee5ae00db14e8db2b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa564bc3288034bcab6a17a9adf8365a417d6624.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9eccc30c595e43660339b00f1f9148c38084327.edge-0dbee877f0df.mp3"
       }
     },
     {
@@ -208,8 +208,8 @@
       "answer": "343",
       "explanation": "$800 - 457 = 343$。验算：$343 + 457 = 800$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/99/992733294ab37e7774fe20cf3c14fe8fbe80be2b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/39/395c1fb8e6762edb4bf08e87b4ddae1665bd4983.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/adfc836e64ee8336fa3e88e67d8dada9f93a6bf3.edge-64c054f41d5d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/986cf7157e84210c879df60d4de6a8a3e23e91e4.edge-0f650534d06e.mp3"
       }
     }
   ],

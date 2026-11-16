@@ -23,14 +23,12 @@
       "answer": "high jump",
       "explanation": "high jump 跳高。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c3/c366e692d49af9f9f4d884f5e9ee299638f3997d.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/29/29860273d1a95e4771406acad0f89686c19a84ea.mp3",
-          "https://api.clthuanxie.cn/cc-audio/2e/2e06403b358d7abadf24deda0bf906c6316bd350.mp3",
-          "https://api.clthuanxie.cn/cc-audio/16/166afb13a45445df524cc5ad2534081e06fe6f92.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ff/ff80e47cc51a97848505bfc31e2af0a64d78c48f.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a6b3f2bc17c419705a0993fd9edcf3dd5d5121c.mp3"
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ff/ff80e47cc51a97848505bfc31e2af0a64d78c48f.edge-d78507ee931f.mp3"
+        ]
       }
     },
     {
@@ -47,17 +45,7 @@
         "I'm go to be a driver."
       ],
       "answer": "I'm going to be a driver.",
-      "explanation": "be going to be 将成为。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/17/17c4aea29fde8689796550d9e69b397892d0ff02.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/b1/b14f371df0a1ce58d8bab693428433c84edec9ec.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ba/baabac69a2f77b30f51a7e0edef55d097997bab0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/50/505ac90126123ed2d39f4e2a6208e2e66042146f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1f/1f931680df3febf7cdcbca249a5320caa30d92f2.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3774618007ad4d56640918059169e85da265ec22.mp3"
-      }
+      "explanation": "be going to be 将成为。"
     },
     {
       "id": 7,
@@ -68,11 +56,7 @@
       "question": "He is going to visit his uncle. 表示他打算去看叔叔。",
       "options": [],
       "answer": "对",
-      "explanation": "表打算。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/82/82178e93d5865b919ce4b19ee0077f53d0fee9e2.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d61f2742488ce954ef68893ad46d9f220099bd1c.mp3"
-      }
+      "explanation": "表打算。"
     },
     {
       "id": 8,
@@ -88,17 +72,7 @@
         "sport's day"
       ],
       "answer": "sports day",
-      "explanation": "固定表达。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a4/a41f7506fd6139e7ccfce49ad98702848b500616.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/59/59a1b00cbcb46f516169acecad9b8d0e2b167eab.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ad/ad3935ff443bbe961e0947e9b11d899affcdc861.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1d/1d08fd72d0fb05cb62612f834435ffad4a80c2b8.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c3/c3acc81f0ddbb6070738fe33c3d7bc955f0ce7a8.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2582831863bae74df34c98e18a64cdacf374f4f1.mp3"
-      }
+      "explanation": "固定表达。"
     }
   ],
   "knowledge": null

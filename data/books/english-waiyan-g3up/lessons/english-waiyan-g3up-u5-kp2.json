@@ -23,14 +23,12 @@
       "answer": "shop",
       "explanation": "shop = 商店。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f8/f84b573e49031858aceaa4664eaec40245d08233.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/50/5042d146667518a1a5017644946b8650aafca44c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ed/ed43a8a09e9ba56d3804e6a7a1e00adc332624b1.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ca/ca0b6293f204dd5c62dd9f27e6d94ce7f68cacee.mp3",
+          null,
+          null,
           "https://api.clthuanxie.cn/cc-audio/65/6525f2e663e8d223c2f9041fefdf2dba6ca70d63.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f76d6d6288844684c2665a355cd56e42b15dc02.mp3"
+        ]
       }
     }
   ],
@@ -41,15 +39,6 @@
     "common_mistakes": [
       "ice cream 写成 icecream。"
     ],
-    "tips": "ice cream 分两词写。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/a2/a2663c137e4b671df0243460219abacdb959122d.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/9b/9b6958b1bdba033bfc49ddfd896717a2ae595d28.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/e0/e0617c93e86e3f5f471fdceab4ddc9457656f05e.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/9f/9f201f633b5509b558838077e788db28584a5580.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/ba/ba141b34a322a7ff8cb288ff5449622c9af1ab62.mp3"
-      ]
-    }
+    "tips": "ice cream 分两词写。"
   }
 }

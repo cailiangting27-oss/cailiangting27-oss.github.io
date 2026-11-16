@@ -16,11 +16,7 @@
       "question": "分一分的标准要一样。",
       "options": [],
       "answer": "对",
-      "explanation": "标准统一。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/90/9070c143d025d843e4d645aaad8fbeeb5e04a665.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15a72140b9ee9e9b33477dafa73032877a824537.mp3"
-      }
+      "explanation": "标准统一。"
     },
     {
       "id": 4,
@@ -38,14 +34,12 @@
       "answer": "分一分",
       "explanation": "整理即分类。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/16/16243b3980966aa556588c92f81a60e784d0b2da.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/08/087861441f57a7b943aa4887cfe3c358c02d2cd0.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/ea/ea175b933923fcde9f2bfcfd6d93a792adcd754c.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a7/a7ef021ba4136ca86628a53429c68a6416e18a9f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/d8/d86dee0f78b99e9f78bd9dfbab5d4cc03ae21230.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/80/8041ef800bda51ac12698bf9209cbe7403db70a7.mp3"
+          null,
+          null
+        ]
       }
     }
   ],
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "认为分一分只是游戏。"
     ],
-    "tips": "生活中处处有分类。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/af/af2efde85c94bf74ba61ef87b4cbf1fcdf651f95.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/e3/e3c27d95231871f3079a2c610807c82fbe32495f.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/2b/2b6e26ca8ebe2e4d19b562aa4b87fc59f3dcb85d.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/18/18e35feb1643ecceb199934e7da4ea08b81b8802.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/5a/5a957bf27422cba5af84ee65df11385a9cb36e55.mp3"
-      ]
-    }
+    "tips": "生活中处处有分类。"
   }
 }

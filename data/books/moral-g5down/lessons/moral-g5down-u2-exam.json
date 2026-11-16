@@ -23,14 +23,12 @@
       "answer": "排队乘车、垃圾分类",
       "explanation": "文明行为示范。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc468778f8539925aace8092e1f7c49fbce29338.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/57/57c106008ccb7c27d5e540c0a6cfb9bee3623f6b.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/4c/4c13c057cff0a2c69b27b8f86ec78fcbc585e851.mp3",
-          "https://api.clthuanxie.cn/cc-audio/45/456fefb9bf3b750a6a3f7615093fb0598a8a619d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1a/1a81c292b80759b9bc8f318a922b5dede65e5753.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bed9c503dda83a3d35e10eeabe4bfd390dc5e2e.mp3"
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "遭遇纠纷要用合法方式解决。",
       "options": [],
       "answer": "对",
-      "explanation": "依法解决纠纷。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/40/40ad2d1833410b63d46ce8064af8b5d70e06c9af.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/93/934981752d14ac168b532e5e4bd626225fc0c71f.mp3"
-      }
+      "explanation": "依法解决纠纷。"
     },
     {
       "id": 7,
@@ -62,17 +56,7 @@
         "纠集人员报复"
       ],
       "answer": "纠集人员报复",
-      "explanation": "报复是违法行为。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/44/44ddc6f41168744737f9e72e8d9578b3d383f1c8.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/39/39a232aa9d3ef98625ab66539cd1de05fa339ec9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/98/988fad42a489b5e20cd79d08eb27ed643cdf7c1e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c6/c66045aa9be24c5e5ba7b3169295057147231fb0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c6/c6b6dccf9dd52485411d137e8808ade80349f026.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b079ab117f20d31ca95d71e51b484c83b557f72f.mp3"
-      }
+      "explanation": "报复是违法行为。"
     },
     {
       "id": 8,
@@ -83,11 +67,7 @@
       "question": "尊重他人是社会公德的重要体现。",
       "options": [],
       "answer": "对",
-      "explanation": "尊重他人。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/54/5408bd00b4ed3923d199bd7d01faac71f7db55ce.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f2cafd7f08e8f3feb07a9efaf7e1fc5b93ab4e1.mp3"
-      }
+      "explanation": "尊重他人。"
     }
   ],
   "knowledge": null

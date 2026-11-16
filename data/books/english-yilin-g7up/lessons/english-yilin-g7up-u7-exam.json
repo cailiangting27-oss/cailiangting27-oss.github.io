@@ -64,7 +64,15 @@
         "going shopping"
       ],
       "answer": "go shopping",
-      "explanation": "go shopping。"
+      "explanation": "go shopping。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d01420af2136baddf7fcb093e0ecf6d7fa8662d6.edge-e2412835a04c.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

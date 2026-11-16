@@ -23,14 +23,12 @@
       "answer": "Yes, she has.",
       "explanation": "has 问 has 答。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee5549bf11c1678ec287308559446bb036132ac4.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/a7/a7e6da0f632527b314836e9baa9ea90415da6d51.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8b/8b16f31820af58c0a0388cd80078f784904d1451.mp3",
-          "https://api.clthuanxie.cn/cc-audio/96/964b69397881cf5693b6e08e4f46dc9294b901e7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/92/922632dee1529cd8c10cd5734e1782d33266f192.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe183673e8a45786ebba1dac09280ffa0547fee2.mp3"
+          null,
+          "https://api.clthuanxie.cn/cc-audio/96/964b69397881cf5693b6e08e4f46dc9294b901e7.edge-8674e38ac8cb.mp3",
+          null
+        ]
       }
     },
     {
@@ -47,17 +45,7 @@
         "tests"
       ],
       "answer": "test",
-      "explanation": "test = 考试。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/11/11a245c7bf842d4499f5ad68502c1178e81bcce9.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/a9/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/37/372ea08cab33e71c02c651dbc83a474d32c676ea.mp3",
-          "https://api.clthuanxie.cn/cc-audio/34/34fb121f6a57c84b6eb2aaddca365f1902649521.mp3",
-          "https://api.clthuanxie.cn/cc-audio/04/04d13fd0aa6f0197cf2c999019a607c36c81eb9f.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fb6758e4342eb77912af431c79589cc16c36a0a.mp3"
-      }
+      "explanation": "test = 考试。"
     },
     {
       "id": 7,
@@ -68,11 +56,7 @@
       "question": "have got 的疑问句把 have / has 提到句首。",
       "options": [],
       "answer": "对",
-      "explanation": "提前构成疑问。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/32/325eb945d3fba91acdda30a5e2bb9cd5c6b0ff96.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e53a325959df976a213759644ea9fb2dc4081e1.mp3"
-      }
+      "explanation": "提前构成疑问。"
     },
     {
       "id": 8,
@@ -88,17 +72,7 @@
         "I'm stomach ache."
       ],
       "answer": "I've got a stomach ache.",
-      "explanation": "肚子痛 stomach ache。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/79/7946e2ff4570c969243b6da3fb68da5dd19e3d9a.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/5e/5eb83908b1c729a97d4500b6d5fea05a98df755b.mp3",
-          "https://api.clthuanxie.cn/cc-audio/6d/6d4558fc926b581e464790aa6867210d884fc684.mp3",
-          "https://api.clthuanxie.cn/cc-audio/35/35a309b79501edb72e195b94041805d616b6f3ce.mp3",
-          "https://api.clthuanxie.cn/cc-audio/2f/2f8511d8ec11682694dcce60b313c8166eb678d8.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d69a5a1bbf9e8e4cef594576be5d3c41ecef64a8.mp3"
-      }
+      "explanation": "肚子痛 stomach ache。"
     }
   ],
   "knowledge": null

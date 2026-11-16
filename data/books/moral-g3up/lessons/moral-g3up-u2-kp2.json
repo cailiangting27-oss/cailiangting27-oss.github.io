@@ -21,17 +21,7 @@
         "绕过红灯"
       ],
       "answer": "停下来等绿灯",
-      "explanation": "红灯停。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8c/8cced2e04bb7f9a5de13c930c5a3f6c800d10a35.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/66/665bf46a92884da64ea124102c644c624262fe15.mp3",
-          "https://api.clthuanxie.cn/cc-audio/53/53809cafd9699fa8547a4d7965123d0316fd8bf7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/76/76df51896034b019f7ffe1aefafe6aa3c351fece.mp3",
-          "https://api.clthuanxie.cn/cc-audio/2b/2bc5e235991861b11cce871af40ed96dd28ae610.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47fc5e771e69a3ea153efa6d95b79bce991e23cf.mp3"
-      }
+      "explanation": "红灯停。"
     },
     {
       "id": 4,
@@ -42,11 +32,7 @@
       "question": "未满 12 周岁不能在道路上骑自行车。",
       "options": [],
       "answer": "对",
-      "explanation": "交通法规规定。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ac/aca7e6bee6f4009c7127ef6f841f8ccecea4ee58.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4bb107d061a5bb3197ba899f2435ead1180811d.mp3"
-      }
+      "explanation": "交通法规规定。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "在马路上追逐玩耍。"
     ],
-    "tips": "安全出行记心间。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/01/01466e77f5793bf1e9f23258e8fafb72311dc718.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/22/228a39bad21f5c0888c779b6a74a5a335c38c322.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/95/956bbc0d30a16f6fc30d4b74829e89d60e9982de.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/5f/5f9d91a6d22c5eff5a5eeafad78d3fd17f5c71a2.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/f7/f77c120f1754c8cfce8c65322486da96bfbe1e63.mp3"
-      ]
-    }
+    "tips": "安全出行记心间。"
   }
 }

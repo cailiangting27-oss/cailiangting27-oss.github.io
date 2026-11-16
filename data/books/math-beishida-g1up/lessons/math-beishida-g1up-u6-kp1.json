@@ -23,14 +23,12 @@
       "answer": "正方体",
       "explanation": "魔方是正方体。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a1/a181de7a33adec93b5a36ac935bd72c3a3104265.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
           "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
           "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
           "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/24/247e7638b54d149c9d4a70a616ce23df950af171.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "圆柱",
       "explanation": "上下一样粗是圆柱。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/25/258cd6b2e28a11b22dbde226de96a8d5035198ba.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
           "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
           "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
           "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59b640574f143de0a64e230c9b0b0d76ad2c6d2f.mp3"
+        ]
       }
     },
     {
@@ -75,14 +71,12 @@
       "answer": "球",
       "explanation": "足球是球体。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c27b8addfb8ddc78650b88918a2935646fd5ae6.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.edge-01a0c965b9fb.mp3",
           "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
           "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22b866941e6712fb14e858070ef7e1a6c0086fa6.mp3"
+        ]
       }
     },
     {
@@ -94,11 +88,7 @@
       "question": "正方体有 6 个面。",
       "options": [],
       "answer": "对",
-      "explanation": "6 个面。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/79/7982749a1c70bcec4d2e6a26095c3896b52d94b2.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66cf917de22dd42551464f4145154f64ca3b3814.mp3"
-      }
+      "explanation": "6 个面。"
     }
   ],
   "knowledge": {
@@ -108,15 +98,6 @@
     "common_mistakes": [
       "把圆柱当面是曲面就认为不能滚动描述错。"
     ],
-    "tips": "圆柱侧面是曲面。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/e1/e107434666f88a323ff963c8ee54a6f689d32304.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/d6/d623f2e6d57bf7fbf800d976e1d96bce02da153c.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d6b7c3048ef109e4dd6c3a57074c263873158297.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/8a/8a945d43391454543f8345eff905e164c0672db2.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/1b/1b09811915604d3105fcbf4b8c4daf37e6f53eb7.mp3"
-      ]
-    }
+    "tips": "圆柱侧面是曲面。"
   }
 }

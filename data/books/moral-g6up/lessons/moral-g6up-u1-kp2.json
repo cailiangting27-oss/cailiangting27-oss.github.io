@@ -21,17 +21,7 @@
         "嘲笑发言同学"
       ],
       "answer": "认真倾听并补充他人观点",
-      "explanation": "合作要有效倾听。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b97b4f24dbef064644d6f470b44d8fa6fa37075.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/7b/7bf8f9c75d04bf5e3d9bedb07759cfe6844e8b80.mp3",
-          "https://api.clthuanxie.cn/cc-audio/51/51590e5f2a4273ce412fd770d0dc2b3c8165a0e9.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f9/f9e7310eaad159363a7c6bb55a6825204b22b673.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1b/1b93cd305d525db49026b5739d1ebd138f24a633.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b081f4e0ab933f3edd87efb0ee8a47a0d0cc1450.mp3"
-      }
+      "explanation": "合作要有效倾听。"
     },
     {
       "id": 4,
@@ -42,11 +32,7 @@
       "question": "敢于提问是主动学习的表现。",
       "options": [],
       "answer": "对",
-      "explanation": "问题意识重要。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/10/102e8d9ccf740f96d959b73c11f1466d3b6ea527.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2cfd9427058977f917578956208799660bec620.mp3"
-      }
+      "explanation": "问题意识重要。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "人云亦云，不加思考。"
     ],
-    "tips": "敢于质疑是可贵品质。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/af/af98febf4b5f5dbbc0afedd3ebee4f8b0f35d9f8.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/83/8380cc862eed1fe9a99e2de5a71530feb8ba1a1c.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d68bbd69c3b86df268cad41ac2555587fdc56ef8.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/e0/e0a5beed5a0f3264c450ba7b7dd9bf3d1f3517c3.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/30/30b6ec7cd7f327e31fc4052af0527575c07eef2f.mp3"
-      ]
-    }
+    "tips": "敢于质疑是可贵品质。"
   }
 }

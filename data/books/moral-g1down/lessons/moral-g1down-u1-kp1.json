@@ -21,17 +21,7 @@
         "睡前吃糖"
       ],
       "answer": "早晚都刷牙",
-      "explanation": "早晚刷牙护牙齿。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/08/080791b6085e9edf5c57de38ba81d2048f269a00.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/83/83cbe5af0c2e2bf935628fe538c95e4f37874133.mp3",
-          "https://api.clthuanxie.cn/cc-audio/91/91951a1d6d73ddf92d2d85bab74eb56c097176ad.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f2/f292dd576c284e8544473ad0ed9a65d673006563.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0d/0d3b92901188ba057718cff5e85a5f78b168d20a.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c194ba4ad67440733373519e36bfac9232ed7de.mp3"
-      }
+      "explanation": "早晚刷牙护牙齿。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "不能挑食偏食，要样样都吃。",
       "options": [],
       "answer": "对",
-      "explanation": "挑食影响健康。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8b/8baa39eeae4241a08568b0082a02235f9f000dec.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/58/585eca3addfc40fff1c76ca43e773edb9c8e3434.mp3"
-      }
+      "explanation": "挑食影响健康。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "饭前不洗手直接吃饭。"
     ],
-    "tips": "好习惯要坚持。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/91/917018dea70591d26647d6b28dc94e0fdb2a6341.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/7b/7be8d9eb3159b45d00e62444bd056d80b1dacafc.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/15/152ebe231e150e87f9c930aa9990e52b0872d0f4.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/6e/6ec2c79e1083175c9a74169002cabe3a4fe705e0.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/8d/8d38f6a043d996d2eb97099e057dc321acc722ec.mp3"
-      ]
-    }
+    "tips": "好习惯要坚持。"
   }
 }

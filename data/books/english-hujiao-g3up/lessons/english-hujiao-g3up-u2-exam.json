@@ -23,14 +23,12 @@
       "answer": "How are you?",
       "explanation": "问身体/情绪用 How are you。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bd639da8f8879262f88465438f7d47dc1ad3b5b.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
           "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
           "https://api.clthuanxie.cn/cc-audio/c7/c71f447d1e0a63091e696422be6cb3282a5934c1.mp3",
           "https://api.clthuanxie.cn/cc-audio/b0/b0c0b74c5c4915548f169997ab1cd7913d90c53d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53a60aad73904dcf1e5ada1d97341d9aaf480db1.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "I'm fine 表示「我很好」。",
       "options": [],
       "answer": "对",
-      "explanation": "fine = 好的。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e4761e6504a81aee0eb613ae7a23137656e6473.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a099ac06e8c9e0c75d941179128e38d2dae80fc.mp3"
-      }
+      "explanation": "fine = 好的。"
     },
     {
       "id": 7,
@@ -64,14 +58,12 @@
       "answer": "I'm sad.",
       "explanation": "sad = 难过。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c2/c24686c024220d6bd1cfd78f9c86bbe997c974e7.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/79/7947bc0125e85ce2e3d80997dc8703a329cb5c4e.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/ad/ad16e53f589db3d0509aba687a94e8c3c3201b8e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/59/5972982fd30bd5eb87de7d57af7b01354f8b13c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5972982fd30bd5eb87de7d57af7b01354f8b13c8.edge-00ab49f2cca8.mp3",
           "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d205d4e3c429e82186f0f034e6d78130eb8035e8.mp3"
+        ]
       }
     },
     {
@@ -90,14 +82,12 @@
       "answer": "I'm fine too.",
       "explanation": "反问 And you? 也要回答。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9a02b28b7fa40a0e04269e5dbe5bae3a1102f5c.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/6a/6aba5db481b9eae6f7b6e42506f27619421aecd7.mp3",
+          null,
           "https://api.clthuanxie.cn/cc-audio/08/081c8777a8ae4fa6f9d519bdd586f8ee653d28f1.mp3",
           "https://api.clthuanxie.cn/cc-audio/66/66a38d4ef0b028ae40cffe64cf78a8f4a356b8f4.mp3",
           "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4cfe804bb9930884e6c71c09569c5f6489e7b071.mp3"
+        ]
       }
     }
   ],

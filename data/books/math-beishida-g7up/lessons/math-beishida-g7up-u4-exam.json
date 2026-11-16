@@ -59,7 +59,15 @@
         "360°"
       ],
       "answer": "90°",
-      "explanation": "余角和 90°。"
+      "explanation": "余角和 90°。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac4644215c4e320cdcdf09f0c50f6d81595fcd66.edge-a93eca79abdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e64df3001503ef023fa67e501a4fe7b827d00557.mp3",
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

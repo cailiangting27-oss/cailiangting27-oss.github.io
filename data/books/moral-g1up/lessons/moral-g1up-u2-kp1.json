@@ -23,14 +23,12 @@
       "answer": "靠右行",
       "explanation": "上下楼梯靠右行。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/eb/eba8d9c1d9ec04b4cecef88ee966b33a85372a39.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/8c/8c10592993882e030b3b96e384d9aa0f9aba785f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/15/155063389006c4c287976759f2a7f79a589dfd31.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b3/b3a2108ff1b239b26ff9c1ff5cdaad4c2e326fa6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/bd/bd657e148320d758a7f5aaf768ec554b829ed175.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfc5338893beb37711cabfeab7062275cf5f07db.mp3"
+          null,
+          null,
+          null
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "不能把危险物品带到学校。",
       "options": [],
       "answer": "对",
-      "explanation": "危险物品不能带。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/98/98b5d73245c82b18f2dd7a10716d07de99bf8b8e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a801b0fa56d29289850aabe2a75160d6f05f0ec9.mp3"
-      }
+      "explanation": "危险物品不能带。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "携带小刀等尖锐物品到校。"
     ],
-    "tips": "遇到危险找老师帮忙。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/6a/6aa02619f8843c0a04222f0406b7d981e05fcd0b.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/e2/e2423d7350ca881fb96cc023a7f0ed20d40549b0.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/93/93c277ac2248cf6689691ad180f383ded6b52bf4.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4caf2abfa381c3964b55126663a6d3c005ab4690.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/1c/1c9288774c417e3e22c12c9d817b68d50d220f49.mp3"
-      ]
-    }
+    "tips": "遇到危险找老师帮忙。"
   }
 }

@@ -33,8 +33,8 @@
       "answer": "对",
       "explanation": "$6 + 5 = 11$，个位满十向十位进1。故判断为对。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f9ce64d4b1b13d8410f4982bd6c87ff602e32c6.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7c6237f85411b9d259423d8efad5e392ba43448.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cc2b2765c96ad27a79170ef02691834d983e034.edge-d6643c512cb5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2a21f80d46fd5eadb55029c10f0942876ecbaf3.edge-4ef4e6a0e681.mp3"
       }
     },
     {
@@ -56,11 +56,11 @@
         "question": "https://api.clthuanxie.cn/cc-audio/3a/3a0b69b58e9b289a58a350f8ec994fe6b13541a2.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/c5/c5b76da3e608d34edb07244cd9b875ee86906328.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.edge-90a8aff1922f.mp3",
           "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.mp3"
+          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.edge-d090e454f715.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d430d2c77dd1f7acefaa8ea173f39643851aa69.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15e8c0b1fe5121a3e540075f5bc040190f2c70e8.edge-921dc879387f.mp3"
       }
     },
     {
@@ -79,14 +79,14 @@
       "answer": "2",
       "explanation": "由于十位是 $5 + 2 = 7$，若和的十位是 8，说明个位进位了。$\\square + 8 \\geq 10$，$\\square$ 最小为 2。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc3fb1034b798b5f933052e00ec116ef0e510fc0.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bcce67d180f6d19cf986692c7b9be485c0a8f595.edge-90d70d1e1aa2.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
           "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f4731be80378ff3bf90e3802657f37e50204351.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee0ef6369b26e9d8359e4e3250053c2b527101b7.edge-53168b825c7c.mp3"
       }
     },
     {
@@ -105,14 +105,14 @@
       "answer": "8",
       "explanation": "如果是 $46+28=74$（七十多）；如果是 $46+25=71$；但看选项 $46+21=67$，$46+23=69$，只有填 8 满足进位需求。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9b9b3834db22e1fd206486d6d46b44d01680e47.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4649f2faca148a231c67845e1033cfe0a7d06b8.edge-7692198cc748.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20d35a473ca1854768e334ca71dcb426a81a3ec8.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bac8ab60094cecec1919fe285efc86fbd72f937.edge-8b33c3337d26.mp3"
       }
     },
     {
@@ -127,7 +127,7 @@
       "explanation": "$16 + 24 = 40$。验算：$40 - 24 = 16$。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/e2/e2c63d046e379b1127ee18a0513dc02238edc92e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05c0ef9bff409d9da8a561de25b3bf2daccb9716.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96b44a997d3a083ad758067758b6a56a25c6ae1e.edge-67ecee3bf0f2.mp3"
       }
     },
     {
@@ -141,8 +141,8 @@
       "answer": "95",
       "explanation": "$58 + 37 = 95$。个位 $8+7=15$ 进1，十位 $5+3+1=9$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/6a/6aaa955cc0d11440c365c0df31002d28f9b12824.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44ea26f7b6f872117dfce3c15c3ec09efeb89763.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/da/dadce2da9d786389207160decfee80f762aeab79.edge-25c50cbeb370.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91d99a7647fe26e70e88d79362f30dd51b6193df.edge-c7336c067623.mp3"
       }
     }
   ],

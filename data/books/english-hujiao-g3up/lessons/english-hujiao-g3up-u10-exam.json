@@ -23,14 +23,12 @@
       "answer": "five",
       "explanation": "顺序 4 后面是 5。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5b78dcde0d794a8ed72dd976ba945f0717cdbd9.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
           "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
           "https://api.clthuanxie.cn/cc-audio/d4/d479fa0ef92542c808003731bc478f714ec1da4c.mp3",
           "https://api.clthuanxie.cn/cc-audio/b4/b4ddce182ecfb739a19a2b263412c2343dd4fc98.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/64/645daef4bbe9bd28925511ecec0306af3c0afd53.mp3"
+        ]
       }
     },
     {
@@ -47,17 +45,7 @@
         "What many students?"
       ],
       "answer": "How many students?",
-      "explanation": "可数名词用 how many。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/60/603842a14eb61ccad1413cfbae07880e4af8403f.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/94/94be8030f7dfe75681315b774e47175f3b377fa1.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c4/c47add054d0085f7439988bfb08dada50299ca51.mp3",
-          "https://api.clthuanxie.cn/cc-audio/4c/4ccb80aa08c79bd4e4dfe3deb24d9770edc18854.mp3",
-          "https://api.clthuanxie.cn/cc-audio/fa/fa3bc404f64eabb10596a3b1e102cfe6f53ae4bf.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f374cff2bf237c38b27342172234d7678f53c385.mp3"
-      }
+      "explanation": "可数名词用 how many。"
     },
     {
       "id": 7,
@@ -68,11 +56,7 @@
       "question": "eleven 比 ten 大。",
       "options": [],
       "answer": "对",
-      "explanation": "11 > 10。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d0993bca585cb3998275a92a8377a937f1c39e5.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db8c3863c04d1f66aad1e6c525308a0c9a5a7e18.mp3"
-      }
+      "explanation": "11 > 10。"
     },
     {
       "id": 8,
@@ -90,14 +74,12 @@
       "answer": "twelve",
       "explanation": "12 在 11 与 13 之间。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b61917d3387228482454cb7398c2f39276febe6.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
           "https://api.clthuanxie.cn/cc-audio/8a/8a13a01d705b372be5da08b0751c65714b10dfe0.mp3",
           "https://api.clthuanxie.cn/cc-audio/b4/b4ddce182ecfb739a19a2b263412c2343dd4fc98.mp3",
           "https://api.clthuanxie.cn/cc-audio/5c/5cf896e678bdf9519adaa8b434a1676adcf45db5.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25d5bc657057e2762a7208e421caf0199380ccd0.mp3"
+        ]
       }
     }
   ],

@@ -23,14 +23,12 @@
       "answer": "后面",
       "explanation": "前后相对。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/06/06f8456460201fe7048b0b26fccf31889dc7ebff.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.edge-c0227d9c8025.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.edge-b135684b5beb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.edge-67704ef33b25.mp3",
           "https://api.clthuanxie.cn/cc-audio/43/430dcbd9fe074160a5c4d4bc87da814b58f3d8b7.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3503227142793861e1e122802ecbf5101ac4488.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "下面",
       "explanation": "上下相对。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5a49f2182b5d2daf54406e92c1e0c970c7b8842.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/43/430dcbd9fe074160a5c4d4bc87da814b58f3d8b7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15d107d55c4eab8884ef71f134848b71d55a1a95.mp3"
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.edge-67704ef33b25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.edge-b135684b5beb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.edge-c0227d9c8025.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "上和下是相对的。",
       "options": [],
       "answer": "对",
-      "explanation": "相对位置。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fe/fea1fa705593f8b1e2fb6b7e62c9486dab1bfb6b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36dc1ce9b82aad1df50d310d907964cd7e5d0211.mp3"
-      }
+      "explanation": "相对位置。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "不先说清参照物就说前后。"
     ],
-    "tips": "先说「谁」再说位置。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/34/3439b37a4d837549eb9c0eb61cbb0af060be9f32.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/d8/d84f6946424e57c0cf057da1d1d51a8dc997353a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/b1/b1ea37b9d2045964f6c0cc8ed3d1fc41d4ca1d0b.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/aa/aa412cc404f0e37cd065b12d628f69c5a7b94ad1.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/83/83403a4e304d0e34fd2486a389a57bd6fc5e3814.mp3"
-      ]
-    }
+    "tips": "先说「谁」再说位置。"
   }
 }

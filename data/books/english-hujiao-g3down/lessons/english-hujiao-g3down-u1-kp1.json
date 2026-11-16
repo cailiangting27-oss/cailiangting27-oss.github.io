@@ -28,9 +28,8 @@
           "https://api.clthuanxie.cn/cc-audio/be/beac659eced816c9091692ece0fb1ba0b2e3d73d.mp3",
           "https://api.clthuanxie.cn/cc-audio/b5/b50b4e12572bc7177d21a352bfad95e75fdd4689.mp3",
           "https://api.clthuanxie.cn/cc-audio/02/0236008155c8de50fcb903fab37b719fafeb32c4.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f2/f261b2f4c58302cc3dfe1dfbb813e0380f2261d8.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5084b2a3d97c94fec2128680e22f8ff4e1c3e45.mp3"
+          null
+        ]
       }
     },
     {
@@ -42,11 +41,7 @@
       "question": "My name is… 用于自我介绍姓名。",
       "options": [],
       "answer": "对",
-      "explanation": "介绍姓名。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e4/e487a5bc7d093cdd7e66ed739bab5dfeb7822303.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7ab58f24addff8d9855470abf9f93a86917916ee.mp3"
-      }
+      "explanation": "介绍姓名。"
     }
   ],
   "knowledge": {
@@ -56,15 +51,6 @@
     "common_mistakes": [
       "把 Good night 当问候语。"
     ],
-    "tips": "问候按时段。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/8f/8ff1101fcd912a38f73e05017562ddd8f4973ef4.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/59/59694f999d09ef67c4466012724a68f0dbc7a973.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/cd/cd989775d07871dbb639548d5e2ce10ef78d9e74.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/2d/2d4c18f8fe78aa3e9420080481f52b86461b40b6.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/f2/f23195fef3c90bcb2c3f103818921dff7d58d3e3.mp3"
-      ]
-    }
+    "tips": "问候按时段。"
   }
 }

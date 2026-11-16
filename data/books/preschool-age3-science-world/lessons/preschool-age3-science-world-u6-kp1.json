@@ -29,13 +29,11 @@
       ],
       "knowledge_point": "哪个不一样",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b3d74f1a960bbdb605dfa42cc6c75837f8e08b7.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
           "https://api.clthuanxie.cn/cc-audio/bc/bc098b15118cf155f641b6284dbe8e523507a3ac.mp3",
-          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f23fce4beb2d00e778584e24b36a810a043fcfa.mp3"
+          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.edge-67e5c45a2daf.mp3"
+        ]
       }
     },
     {
@@ -60,13 +58,11 @@
       ],
       "knowledge_point": "哪个不一样",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe29aaf74e7a0b56828cdcaab2a88989dd2d7b4d.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/3e/3e5be3b89ae2fa683df4bc780d51dd27bb6b65a7.mp3",
           "https://api.clthuanxie.cn/cc-audio/e9/e974ae496688a19aaf0381cd63ed7190b815d681.mp3",
           "https://api.clthuanxie.cn/cc-audio/9d/9d08e4010fcbbde47f5750c4f2956a173295e785.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d73023566e06ebcd2c51ea9a03b70986451a012c.mp3"
+        ]
       }
     },
     {
@@ -91,13 +87,11 @@
       ],
       "knowledge_point": "哪个不一样",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/81/8126421b84201f3f4e86aeb6712c0f778eeb0a6e.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.edge-67e5c45a2daf.mp3",
           "https://api.clthuanxie.cn/cc-audio/0c/0cb0206b420005365d16b059ba66895a079c1860.mp3",
           "https://api.clthuanxie.cn/cc-audio/0b/0b0e3a35bfb593a8d664fc3924b5753f11348e80.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/89/893b842aa2b465f68ce6c2f3c0e0dd986a252d86.mp3"
+        ]
       }
     },
     {
@@ -120,11 +114,7 @@
         "红圆圈",
         "蓝圆圈"
       ],
-      "knowledge_point": "哪个不一样",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/78/78f6d6de2f347847c97233b3d42250d2f3b6f324.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b69fcf7c395971b75075513ceabbe909cd0ca17.mp3"
-      }
+      "knowledge_point": "哪个不一样"
     }
   ],
   "knowledge": null

@@ -23,14 +23,12 @@
       "answer": ">",
       "explanation": "5 > 3。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/69/69f4b38854c44757b0d18cd61a2a529ea32e1ab4.mp3",
         "options": [
           null,
           null,
           null,
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b9402cc6ec6e22aca0ac79ad4891b666912a6eb.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "0 比 1 小。",
       "options": [],
       "answer": "对",
-      "explanation": "0 < 1。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5378054937b57ad08266d413b4b3f6c7575041a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe81dfe60d8321c6351518cfdbfc4af5453119c7.mp3"
-      }
+      "explanation": "0 < 1。"
     }
   ],
   "knowledge": {
@@ -56,14 +50,6 @@
     "common_mistakes": [
       "> 与 < 方向写反。"
     ],
-    "tips": "开口朝大数，尖尖朝小数。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/6b/6ba94f710b64f33b4b45b90e0a3c7e5b5cba5b0a.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f3/f3fa1b33432066cd73ba0b48f59ecc91c83bed0b.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/3b/3b5c46d47a8ba2b1074193d20cb4dae84ab0867e.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/4c/4cccda94f756daedd419a2e0d4b0182887dd1ab5.mp3"
-      ]
-    }
+    "tips": "开口朝大数，尖尖朝小数。"
   }
 }

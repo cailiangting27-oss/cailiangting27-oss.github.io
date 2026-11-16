@@ -19,7 +19,7 @@
       "explanation": "百分数表示两个数之间的倍数关系，不能带单位名称。剩下的长度应该是 $1 \\times 20\\% = 0.2$ 米。验算：$80\\% + 20\\% = 100\\%$ 正确，但单位添加错误。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/1c/1c218d269ebf1e9e5c8e943d2dc4cd0522687063.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01f346585fdf03b7cf468e98f189775bacbe5207.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb121e8ea9f4bda376418e0096f6b81a1fa20b77.edge-a3e1889d4b61.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
       "explanation": "提价时的单位“1”是原价，降价时的单位“1”是提价后的价格。$1 \\times (1 + 10\\%) \\times (1 - 10\\%) = 0.99$。$0.99 < 1$，所以现价比原价低。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/a3/a3d283b20cc9424313faff1d2c35349f9d773953.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d87965e84026572fc00ee122af752e0d7d7c8e3.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0da83eff18b7e68a798391b7ac28fe697d48216b.edge-a7fa9d0948bd.mp3"
       }
     },
     {
@@ -58,9 +58,9 @@
           "https://api.clthuanxie.cn/cc-audio/5e/5e1164e36f85ec9e52c98e21dfb5546e9aac5cab.mp3",
           "https://api.clthuanxie.cn/cc-audio/ea/ea7ba4661af4f4447fe076b3c64f1e58f6f61fa6.mp3",
           "https://api.clthuanxie.cn/cc-audio/b7/b77a111bfdc31cd6f8e97fc4a429cdd806c49381.mp3",
-          "https://api.clthuanxie.cn/cc-audio/af/af29745a8ca830d820d9c4fe126552e1aa99b822.mp3"
+          "https://api.clthuanxie.cn/cc-audio/af/af29745a8ca830d820d9c4fe126552e1aa99b822.edge-aa7710a9d5bd.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/84/846da05f8c1b4bd9bc5f7eb04f87e72b389d25dd.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b548d70c48c058233367617b2f6065972078ee82.edge-ae5ecfe68fe4.mp3"
       }
     },
     {
@@ -84,9 +84,9 @@
           "https://api.clthuanxie.cn/cc-audio/a5/a563c783b3fe949072eae39e0f301d0e12abc17b.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7ce5ecacb4f997449c518e120149ef405daed488.mp3",
           "https://api.clthuanxie.cn/cc-audio/f9/f9e41f13c4260c34ea54607a0b12d8887c97734e.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d95f75815e011d5a83aa33c97330fac08f9f0633.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30a79cdaa7f1f7a58335d7db5289ad4241d095da.edge-4c891103971a.mp3"
       }
     },
     {
@@ -112,7 +112,7 @@
           "https://api.clthuanxie.cn/cc-audio/b7/b77a111bfdc31cd6f8e97fc4a429cdd806c49381.mp3",
           "https://api.clthuanxie.cn/cc-audio/53/5366a7416787051ba2a7d670f802f331e490744f.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab64f7f9f00068450fcc5ee1b7bfee73ed8409d1.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7ed0c871e28bf9d2d280f446e8fc24c9c67192b.edge-4c90b6bbaf8d.mp3"
       }
     },
     {
@@ -131,14 +131,14 @@
       "answer": "80",
       "explanation": "单位“1”未知，用除法：$20 \\div \\frac{1}{4} = 80$（千克）。验算：$80 \\times \\frac{1}{4} = 20$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b0/b091e1666e90acc78c956c866e5a60b683135279.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b9eff4339c15e259ae73b2a97d6b155b72bf588.edge-d6a8f41f2231.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
           "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
           "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
           "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05f5b95da733bd85254c40b81de65143d46f571e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9ba841a6130d5612773017bb08df2db8c2ba4952.edge-a59bc9151b24.mp3"
       }
     },
     {
@@ -157,14 +157,14 @@
       "answer": "无法确定",
       "explanation": "截去的是具体的量 $\\frac{3}{5}$ 米，剩下的是分率。如果全长是 1 米，则剩下 0.6 米，截去 0.4 米；如果全长是 2 米，剩下 1.2 米，截去 0.8 米。因此不确定。但在此题中，若全长未知则无法比较。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a5422e5f4e53e5be4d0b8bc3cad020164c112cd.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a1f51721cf56372edc99806a3afeb78377bd22f.edge-e442ff637a00.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/3d/3d1d4c0268544dd84fdcaf96437077220cefe399.mp3",
           "https://api.clthuanxie.cn/cc-audio/a7/a7b954fc88e07401afc32efb5768eb2eebbee493.mp3",
           "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4db7023aaca8a72ca1c02c6f7c741a45d1e6f32c.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1f18aea7960fb66f0084e9ca57a61c8a52d7351.edge-ec5518657317.mp3"
       }
     },
     {
@@ -178,8 +178,8 @@
       "answer": "90",
       "explanation": "$120 \\times \\frac{3}{4} = 90$。验算：$90 \\div 120 = 0.75 = \\frac{3}{4}$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/74/74c4d52c1cfdb857fb9050baed0478c44b14deb6.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb818b321a03f6891dfbcde7e71a596ebf530caa.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/67/675172fc544a79061dd6b97d0f1a88a0bd085b09.edge-0db4c32b08c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48ffd7fdef7fee35a40e5abce1a8788a7329907c.edge-8562eef7291a.mp3"
       }
     },
     {
@@ -193,8 +193,8 @@
       "answer": "60",
       "explanation": "$80 \\times 0.75 = 60$。验算：$60 \\div 0.75 = 80$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1968e0cff701226a5fef70a5d9261f5676cb2c3.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da5b02ae2447177d43f4fe245f977dde2ebd0edf.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebc816eefa61f5b408c7a7d7fd525cd196a01cea.edge-6ae67dfb93c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1520439cafc58b66c9cc0075820416b0dea78d1.edge-8ac008968f8c.mp3"
       }
     }
   ],
@@ -210,7 +210,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/72/724b0e5bf32223089fd463aa30f19182b0f510db.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/02/02e123049967b132a8402b6b7cb18fe9ea790946.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/ab/ab79782329ff0e8af76843892c76281378dae65d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8e/8ec005719c2582cf8156776a6ea470db2632d684.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/f4/f400beaeafce9a784bdfc52c159630a400f3e0a4.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/4c/4c1e9e9d2e32173c2f0b9eba9c675eb9f03fe324.mp3",

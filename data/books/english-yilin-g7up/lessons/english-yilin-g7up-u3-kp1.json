@@ -23,12 +23,11 @@
       "answer": "library",
       "explanation": "library 图书馆。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a02336897bc896dbb7e35ab0bf6d4c6047af688.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7ca481da26b82029b9918ee37c9218cb9a871261.mp3",
           "https://api.clthuanxie.cn/cc-audio/d3/d3b687403790e3d9fa2fbfee32e3c536aea73d13.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9a/9a3c5359083545f2d811a1f24f6340e335a92cea.mp3"
+          null
         ]
       }
     },

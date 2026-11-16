@@ -23,14 +23,12 @@
       "answer": "grandfather",
       "explanation": "祖父 grandfather。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a78c9bcfd35bd9433e384b81c79c5f240994b24.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/dd/dd6708dd64fabdf02d47a76472d58b726ef1566e.mp3",
           "https://api.clthuanxie.cn/cc-audio/a5/a5afc8df8baab874c14a0f776641edd16d00591f.mp3",
           "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34d191824428160d0bf0f281161aab8099f8ee8a.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "This is my father. 用于介绍父亲。",
       "options": [],
       "answer": "对",
-      "explanation": "介绍家人。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/55/55e277497685ff3c906325f975d4c3288f59888b.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88cadc315e9cb5fdec452ffa5c5c1a298882254d.mp3"
-      }
+      "explanation": "介绍家人。"
     }
   ],
   "knowledge": {
@@ -58,13 +52,7 @@
     ],
     "tips": "注意拼写。",
     "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/6f/6fc6088e92554e3a488b0da7c890b55d8363f393.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/35/35cb327bb48c6c0d726b2f2322a64405f56b754d.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/fd/fd0121a3f456683d06e3b234a1b05fd94bdd3cca.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/3e/3e16e11e0bc95b8d6198bbbde01cbef113efc7b3.mp3"
-      ]
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/09/09b696504ac8bfe05c4c21c6edd7ef1994f045ae.edge-1a8a69533d7e.mp3"
     }
   }
 }

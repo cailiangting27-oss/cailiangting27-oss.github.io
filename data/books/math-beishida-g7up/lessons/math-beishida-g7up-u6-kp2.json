@@ -21,7 +21,15 @@
         "不调查"
       ],
       "answer": "普查",
-      "explanation": "全国人口普查。"
+      "explanation": "全国人口普查。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b7/b73b8f52b0497ba1449bfdc63bce3ca71c8a0a48.edge-f73a4afcb956.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 4,

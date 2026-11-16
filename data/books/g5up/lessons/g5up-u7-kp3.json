@@ -19,7 +19,7 @@
       "explanation": "敲 3 下有 2 个间隔，每个间隔 $4 \\div 2 = 2$ 秒。敲 6 下有 5 个间隔，需要 $5 \\times 2 = 10$ 秒。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/a2/a25f33fed0ed00ab86ee3884276d95a160f406b9.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ac41d1041f2a9a144eca3530b7f15ea23de812f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/936b7aa61923139c662c88abce6edf529a2da737.edge-4a696cf305b8.mp3"
       }
     },
     {
@@ -45,7 +45,7 @@
           "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
           "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64631e804b25667af4951f964446e5a170d39fdc.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/503280db3de2106eb1f886f7efbc83ea2efddf89.edge-61f128936c35.mp3"
       }
     },
     {
@@ -67,11 +67,11 @@
         "question": "https://api.clthuanxie.cn/cc-audio/11/118eaf20fdaf96974a9f34e0c7f2dd0770135e9a.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
-          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.edge-82d70baf9a02.mp3",
           "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3",
           "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ea4dd22332ce2c298aeb6d65f95ced6b50e2327.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9eab0a0d0f014f6f8172ba9f810269c8ed5b6382.edge-7f9f290c0cab.mp3"
       }
     },
     {
@@ -97,7 +97,7 @@
           "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
           "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0002ae5855f15dc2b2f9d4cf7487ebbbc8eab34.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42b838dd127720426debd5cb8de915977b8bc478.edge-b110b941f8a2.mp3"
       }
     },
     {
@@ -112,7 +112,7 @@
       "explanation": "锯成 6 段需要锯 $6 - 1 = 5$ 次。总时间：$5 \\times 3 = 15$（分钟）。验算：$15 \\div 3 = 5$ 次，加上最后一段不需锯，共 6 段✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/05/05a1507b47722e4fa7a80e40a7e29525a0c7a4ba.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b2b9819a748f5a308b6b280a486af69d58a5ee7.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73381450f33aaa33bee4f983acb38a8ed8dd7563.edge-329516ad4bdf.mp3"
       }
     },
     {
@@ -126,8 +126,8 @@
       "answer": "135",
       "explanation": "$15 \\times (10 - 1) = 15 \\times 9 = 135$。验算：$135 \\div 9 = 15$✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a9/a95e4c976c22a9bed6305cfcee61a35b5299363e.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a25ce8960fcfc1603fc40654e2e1716c97c619e.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/58/5852fa1abedc8deab6058d8916871cfcc498711e.edge-0bc2ea2c0d00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51e5aa670024d32a46b3667550875ee2fc8c5ed2.edge-dcb296b1fc8e.mp3"
       }
     }
   ],
@@ -143,7 +143,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/48/481dfb888df34768f06fb71ed0ddcbb3df0d82bf.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/5b/5bd2389166d60f601aa8dffc0bcc2a38ffc15cd0.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/21/21471e1410356a44d7db575d61a6630db39454a8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bf/bf4f0262e904065a78791328a37fb4a6b1381191.edge-7af7420e626f.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/07/0724fed72c5ea67f0e8d6e2ffd5ffa2d7c4ac2f4.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/25/2537367219a742176f22e720a72600b67d9ad7d1.mp3",

@@ -27,12 +27,10 @@
       ],
       "knowledge_point": "交通工具",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/87/873a5fccb6859f4b01acb7230e74ba23d58d7126.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.edge-67e5c45a2daf.mp3",
           "https://api.clthuanxie.cn/cc-audio/42/42c286f6f269edb8f6a5cf21ddf4ac9695cb2b8c.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f23fce4beb2d00e778584e24b36a810a043fcfa.mp3"
+        ]
       }
     },
     {
@@ -55,12 +53,10 @@
       ],
       "knowledge_point": "交通工具",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea0a1836e4713332175d1ec5487012ca9da62b37.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0c/0cb0206b420005365d16b059ba66895a079c1860.mp3",
           "https://api.clthuanxie.cn/cc-audio/42/42c286f6f269edb8f6a5cf21ddf4ac9695cb2b8c.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88c2c03e0cb3c09d4395f9e6c19795c4efa989dd.mp3"
+        ]
       }
     },
     {
@@ -83,12 +79,10 @@
       ],
       "knowledge_point": "交通工具",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7a/7abf8fc9bfb5632cd80693d704856b9bfd39e377.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/0c/0cb0206b420005365d16b059ba66895a079c1860.mp3",
           null
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54f5e9e8bafdde40c58bbf36d625069bc10332c0.mp3"
+        ]
       }
     },
     {
@@ -111,12 +105,10 @@
       ],
       "knowledge_point": "交通工具",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/43/438ad60a534dc31a05e33127392d56b7dbe32638.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.edge-67e5c45a2daf.mp3",
           null
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1a4059b2a7f21413bf5625f318b0f2758d6a8a9.mp3"
+        ]
       }
     }
   ],

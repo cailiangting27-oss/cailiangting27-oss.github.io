@@ -23,14 +23,12 @@
       "answer": "these",
       "explanation": "复近用 these。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/95/95d8142091edc4ee2125f03fa5f1cb1d859eb3ec.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
           "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
           "https://api.clthuanxie.cn/cc-audio/33/33b82201081ec7c438cb5d9a36cd72bcb153050b.mp3",
           "https://api.clthuanxie.cn/cc-audio/6c/6ccf720ae2a65bf420d3032289d78d77e9b8739d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6a1b40bf0770bba7ede10f89f3ea1a5645e0bab.mp3"
+        ]
       }
     },
     {
@@ -49,14 +47,12 @@
       "answer": "that",
       "explanation": "单远用 that。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7fc7e726efeca07341406eda072a14c0d864c5f.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/33/33b82201081ec7c438cb5d9a36cd72bcb153050b.mp3",
           "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
           "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
           "https://api.clthuanxie.cn/cc-audio/6c/6ccf720ae2a65bf420d3032289d78d77e9b8739d.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a2530f4f08a55c53076c6fa226a93a8a1f5f3f7.mp3"
+        ]
       }
     },
     {
@@ -68,11 +64,7 @@
       "question": "these 是复数，后面接复数名词。",
       "options": [],
       "answer": "对",
-      "explanation": "these + 复数。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/07/07111c7343e74cc5ab20d362503b1b9d0275bce9.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/07/077624c6fe93f9dd48c5d9770c0480e03e0cb3a6.mp3"
-      }
+      "explanation": "these + 复数。"
     }
   ],
   "knowledge": {
@@ -82,15 +74,6 @@
     "common_mistakes": [
       "these 当成单数。"
     ],
-    "tips": "单近 this，单远 that；复近 these，复远 those。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/c5/c5d1c071ce7a0ee93d6bb16029f4ab2fc2add3ac.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/98/982496500641dcd75da388e9278728b9d7a8ea7a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/09/0909b5f7ed70cc5e9530784b2a3f4781795c11d8.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/03/032721054988fd35b9ecdc80deb9672b59b7b301.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/88/88d83b6fb133334b8343a9c7ff778d26d8dc844b.mp3"
-      ]
-    }
+    "tips": "单近 this，单远 that；复近 these，复远 those。"
   }
 }

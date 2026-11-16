@@ -19,7 +19,7 @@
       "explanation": "$0$ 除以任何非 $0$ 数都代表把 $0$ 个物品平均分，结果依然是 $0$。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/56/569840853db89dbda5d12ccddb7875eccb118a3a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e9ec99b556403167f7a84d1c409d31187c0f927.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44d2f7f49c32b50079427c6422b5eec1704ec6d5.edge-3bfccfe691ac.mp3"
       }
     },
     {
@@ -34,7 +34,7 @@
       "explanation": "任何数和 $0$ 相乘都得 $0$。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/61/61616e86c61d35a1bf2553ece82e242902e4e5f9.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cef0387e4c9abe640545cb9454ef38e686e52f74.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c18f5e9657008408f47481d0dfbe3bf30b1d4641.edge-5f4562f4fe1a.mp3"
       }
     },
     {
@@ -53,12 +53,12 @@
       "answer": "$\triangle$ 和 $\bigcirc$ 中至少有一个是 0",
       "explanation": "两个数相乘得0，说明其中必有一个因数为0。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c3a6867a638e626c04f499efbbce09ce835df40.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/83/8313a29886ea19f108f78eceb76ab0155ad2a510.edge-d0bb8e27547b.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/6e/6e3899b9662b8efd57a7e1897fda017c45131904.mp3",
-          "https://api.clthuanxie.cn/cc-audio/a1/a184bdefdd01940d89ae47d257d3c1d77f8100e0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/12/12b3ac1c8d6c79d6031434717de6faa27552cc80.mp3",
-          "https://api.clthuanxie.cn/cc-audio/9f/9f6bc011f630857a57aa4e96bd0eb53a2903bbd3.mp3"
+          "https://api.clthuanxie.cn/cc-audio/2c/2c8e545441662aacf660a24bd410b579c7874ddf.edge-f88d6b293060.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/750ebdec204e879fa33662ab297b1e8c0a8baf5c.edge-4fe9910119a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91a45fdc870bb2a110d0de14993655a26747f8aa.edge-35728f59b90c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b0ecce4015bc995fa9974a111dc9c2cb119c4a7.edge-9f73c2592be3.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/15/159a7f88cdeea945d7add1725fd7cb9ccaf55170.mp3"
       }
@@ -86,7 +86,7 @@
           "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
           "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6954e7fc3388598aa534319de5d4b50e8787034.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5f77746c27d40b8a6336e6a70e5a99ce901963e.edge-eaba6303a312.mp3"
       }
     },
     {
@@ -105,7 +105,7 @@
       "answer": "0",
       "explanation": "乘法中只要有一个因数是0，积就是0。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/32/32caefc0c7556d8687ee44d4a2ddb1a2d39d3dbb.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/46/464c18bd51b2c1aeeedfe4d3702208a4860c7877.edge-da63a9198105.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
           "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
@@ -127,7 +127,7 @@
       "explanation": "被除数 = 商 $\times$ 除数。列式：$6 \times 15 = 90$。验算：$90 \times 15 = 6$ ✓。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/d6/d65608c0d957f85c6fb44e760068b02d21677eed.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6044ceba3bde03993a09c2ed55eadf92954a9d9f.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2021cf4c9f09bb858c39e637c3eb58236093463.edge-c7c9b7c06fae.mp3"
       }
     },
     {
@@ -141,8 +141,8 @@
       "answer": "1000",
       "explanation": "$125 \times 8 = 1000$。验算：$1000 \times 8 = 125$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffcefe996b47f8cdc63ea1f6d9c731a5ed18afba.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/90/909c87f1938ddf1fd19455fa6863b3ce5172739e.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4aabdc2118182f1853102a1542d0059edb48e7d.edge-33422ea8a6b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/069be2b71a34c92e66584b2ce5fbd2e8538e66fa.edge-d0926fa808ea.mp3"
       }
     }
   ],
@@ -158,7 +158,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/a2/a21a3a273fc399711bb626afa8ee8002cdb6bdd7.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/52/5260568a11427945d7ba8581c7e8b5474d901c1f.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/8277f651e2de16021eb0bf4c6228fc4dfdb79543.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c1/c128e906977e722136977390b49bbdfba35fabe6.edge-62dcfd180923.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/aa/aa6613352bbfb5e700788f15bf97fef0ea06cbdb.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/3b/3b6fb9586fe8133bfdfbaf2384b7394b827f1f25.mp3",

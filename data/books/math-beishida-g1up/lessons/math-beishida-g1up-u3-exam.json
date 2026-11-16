@@ -23,14 +23,12 @@
       "answer": "减法",
       "explanation": "去掉一部分用减法。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dd5d6aa65d46afbb3d2aa32d468b25f288597ff.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/09/091420381a9bd8545518745e3f826ebc3581461a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/02/02c10cf93ce5605dd364d6269e023c5b8e62669d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/7e/7e8808d32ccdabb23d827bb8e9b09a6f05b59398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/091420381a9bd8545518745e3f826ebc3581461a.edge-17e8436dd9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02c10cf93ce5605dd364d6269e023c5b8e62669d.edge-0c241423f29b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e8808d32ccdabb23d827bb8e9b09a6f05b59398.edge-8eee25d4d48d.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f49d3c80bca69ab9f03744894496d1b12aaad92b.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "3 和 2 合起来是几？",
       "options": [],
       "answer": "5",
-      "explanation": "3 + 2 = 5。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/94/94da50cf9ae83f0bd597a31734cccf0a8b7ebf14.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/04/0425c90bddf6f673afdef40466055ca499cdcf0f.mp3"
-      }
+      "explanation": "3 + 2 = 5。"
     },
     {
       "id": 10,
@@ -57,11 +51,7 @@
       "question": "把两部分合起来用加法计算。",
       "options": [],
       "answer": "对",
-      "explanation": "加法意义。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a4/a458dbf96fb6920c928a9eaf6ba7c8893d24995a.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef7295d97e9496589409f7c08678079c6921382e.mp3"
-      }
+      "explanation": "加法意义。"
     },
     {
       "id": 11,
@@ -72,11 +62,7 @@
       "question": "从 5 里面去掉 3，还剩几？",
       "options": [],
       "answer": "2",
-      "explanation": "5 − 3 = 2。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/03/037d458a19c553e02509c6da8c2af430ca483119.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ea306edb894940cf88728dff02ed530a7962439.mp3"
-      }
+      "explanation": "5 − 3 = 2。"
     }
   ],
   "knowledge": null

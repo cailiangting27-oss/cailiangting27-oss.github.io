@@ -23,14 +23,12 @@
       "answer": "I like apples.",
       "explanation": "泛指用复数。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a7/a76b6b6c187d1feac94cf67c8c6e8ee607f8506b.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/a3/a3c705681bab852d0eefce6293abb62138e69b79.mp3",
-          "https://api.clthuanxie.cn/cc-audio/6b/6b9fc1afa759b924d35c19dfc056ed3fb24b098f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/42/421052714675ba0bb29af7cdd105067e6b95fdfc.mp3",
-          "https://api.clthuanxie.cn/cc-audio/f4/f4ed111d58fd24b8cddc1edbce9d7e2e183ef801.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30c182165319adb8a37dcbb3dae420049dbadf92.mp3"
+          null,
+          null,
+          null
+        ]
       }
     }
   ],
@@ -41,15 +39,6 @@
     "common_mistakes": [
       "I like apple.（泛指要复数）"
     ],
-    "tips": "泛指一类用复数。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/1c/1c7989eca140100435452db63e905e72e5833ad6.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/db/db21a10ca8b0d9d7523706b54aa7cf5d1c73d739.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/9a/9aad702c21b83686203d1aaa572d4f15883e525c.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/71/714f3e4dbd6e3176375bd998852cf928833fa030.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/6f/6f088fb01f01560dba30939f5f823aa619c46116.mp3"
-      ]
-    }
+    "tips": "泛指一类用复数。"
   }
 }

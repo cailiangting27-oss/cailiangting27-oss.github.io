@@ -38,7 +38,7 @@
       "answer": "(1, 5)",
       "explanation": "向左平移 1 格列减 1：$2-1=1$；向上平移 2 格行加 2：$3+2=5$。结果为 $(1, 5)$。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8e604c4e038d7a8148588a8aef3f8505ed38bbb.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95e95fd8cc26152b0ec39a503db0d158e4557a4d.edge-2a0f2a363add.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/76/761b2ebbc213374f95683c241936ed305b6f619d.mp3",
           "https://api.clthuanxie.cn/cc-audio/69/6966f965dfa8904bc312575d8facb921a620d84b.mp3",
@@ -90,7 +90,7 @@
       "answer": "(x+3, y-2)",
       "explanation": "向右平移列加（x+3），向下平移行减（y-2）。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ecd3eaf96277fe90f3fec5f7569b0d509dbb9c9.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/13/135621a896e321a0af098ba44ff72cfaa907456e.edge-3def16b6a7fa.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/3e/3e7cfa15be5a74d568c0536a83cc249e7ff91e0e.mp3",
           "https://api.clthuanxie.cn/cc-audio/21/2197d62f01d36dcf918b64d49b9e72f50827dbf0.mp3",
@@ -111,7 +111,7 @@
       "answer": "2",
       "explanation": "向左平移 2 格，列数减 2。列算式：$4 - 2 = 2$。验算：$2 + 2 = 4$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd3714abbe0b7d604c9277fe1b79f78f5825229b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/03/034c90a968310681cd63df326353e08a1d3f75c6.edge-e1d7ffbf3d65.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/17/17935c18350a40a198098940766645922141ae54.mp3"
       }
     }

@@ -16,11 +16,7 @@
       "question": "计算：1 + 2 = ？",
       "options": [],
       "answer": "3",
-      "explanation": "1 + 2 = 3。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/78/78ac2b57c984d625b5927fc30f7e22e9225d1485.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7dac3da4c99349a3ec4155741da64db0080939a4.mp3"
-      }
+      "explanation": "1 + 2 = 3。"
     },
     {
       "id": 2,
@@ -31,11 +27,7 @@
       "question": "计算：2 + 3 = ？",
       "options": [],
       "answer": "5",
-      "explanation": "2 + 3 = 5。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac48526174de5bb631203c465c71d29c8d6a1518.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38c76df6e5edff02ee35d052d225a7b84ef89574.mp3"
-      }
+      "explanation": "2 + 3 = 5。"
     },
     {
       "id": 3,
@@ -46,11 +38,7 @@
       "question": "计算：4 + 1 = ？",
       "options": [],
       "answer": "5",
-      "explanation": "4 + 1 = 5。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/15/15265281fca9b63681b406424bbfa87a2b158add.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab79ae309328190daf006845df388eba9d431b92.mp3"
-      }
+      "explanation": "4 + 1 = 5。"
     },
     {
       "id": 4,
@@ -68,14 +56,12 @@
       "answer": "加法",
       "explanation": "合起来用加法。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/38/38abf4ce0635abbb4f1fcb9b87a3958ece4e29fb.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/02/02c10cf93ce5605dd364d6269e023c5b8e62669d.mp3",
-          "https://api.clthuanxie.cn/cc-audio/09/091420381a9bd8545518745e3f826ebc3581461a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/7e/7e8808d32ccdabb23d827bb8e9b09a6f05b59398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02c10cf93ce5605dd364d6269e023c5b8e62669d.edge-0c241423f29b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/091420381a9bd8545518745e3f826ebc3581461a.edge-17e8436dd9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e8808d32ccdabb23d827bb8e9b09a6f05b59398.edge-8eee25d4d48d.mp3",
           "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/83/831c49e8b0ba7fc5236bd3b119b96138943ca222.mp3"
+        ]
       }
     }
   ],
@@ -86,15 +72,6 @@
     "common_mistakes": [
       "把「合起来」用成减法。"
     ],
-    "tips": "一共、合起来用加法。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/d1/d16d860426dadbb9d295ec1240ab5b4882325189.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/24/24aee9e1fb6b74a1273b3eb10ff2267007a6d60b.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/28/2844bbe4e08e7e609f81ad97cb2cf75faae34b49.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/3c/3ceb45778ca560e85f4634269f9f199f27e4e1df.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/23/23fe5d1a8ec2f32865fb3249002370e34ec7f3eb.mp3"
-      ]
-    }
+    "tips": "一共、合起来用加法。"
   }
 }

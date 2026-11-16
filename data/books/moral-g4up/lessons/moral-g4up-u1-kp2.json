@@ -21,17 +21,7 @@
         "到处说他坏话"
       ],
       "answer": "提醒他并借机谈谈信用",
-      "explanation": "借东西要还，守信重要。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c4/c41fe581a26a5ddcd17945b25a9960eea0a0b177.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/6b/6b3e497a811b43c1eff0d338ccc170287e303f00.mp3",
-          "https://api.clthuanxie.cn/cc-audio/25/25480cdd358f997d0c1dd3a5490e76f9f29be2a3.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b7/b7e4ae8efc511555098d789a47597049c29a2db7.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ff/ffca42a5271be0e28bd913a227d5ad61f8fa6476.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4688c4ac410ebc90cdd01483fc28037685a1d5de.mp3"
-      }
+      "explanation": "借东西要还，守信重要。"
     },
     {
       "id": 4,
@@ -42,11 +32,7 @@
       "question": "说谎会失去别人的信任。",
       "options": [],
       "answer": "对",
-      "explanation": "诚实换来信任。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/51/517bcf1dc5618b10623686980ad354c6c9f1d168.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/37/372dc4307724beea20c8479a2056323fbeb53df3.mp3"
-      }
+      "explanation": "诚实换来信任。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "为了一时方便说谎。"
     ],
-    "tips": "诚实是最可贵的品质。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/da/daa8a346d07c058391ec81cdbfa7b2ec19e87f0d.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/f5/f5ab36f2e6c4709041ec76d22674df0cef187797.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/4f/4f403bdb68257e076e1d8227eea89aa923cda4b0.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/c3/c3c97dea09e8627017d965fccc85a914e7035afc.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/35/35a17183151521546d3ccce5fea6ae84b5f9ec8c.mp3"
-      ]
-    }
+    "tips": "诚实是最可贵的品质。"
   }
 }

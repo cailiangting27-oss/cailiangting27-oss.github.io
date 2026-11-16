@@ -25,11 +25,7 @@
         "不碰热水壶",
         "伸手碰热水壶"
       ],
-      "knowledge_point": "安全小习惯 2",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fdf1a0af3bd1a01a421038ab003746a9659ddaf.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a35e1101ae03bb369edfa840fc3baac0ba4b5c29.mp3"
-      }
+      "knowledge_point": "安全小习惯 2"
     },
     {
       "id": 6,
@@ -51,12 +47,10 @@
       ],
       "knowledge_point": "安全小习惯 2",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/69/69853afcf8aa21889a2d2b87c2be0a741e243198.mp3",
         "options": [
           null,
           "https://api.clthuanxie.cn/cc-audio/92/925da12e8bee8106ad7de5e8b429a2fc885c3bc2.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f48e11546a2371c289827bf7f77a800d67318d88.mp3"
+        ]
       }
     },
     {
@@ -79,12 +73,10 @@
       ],
       "knowledge_point": "安全小习惯 2",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6d50fef2a82d42f63b77b3e90a376b6d97ea441.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/27/27c99021b382f095830ab6ab86df7f06984b979b.mp3",
           null
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b007da90d6d53e356ff8053c82dd1f8e245e211.mp3"
+        ]
       }
     },
     {
@@ -107,12 +99,10 @@
       ],
       "knowledge_point": "安全小习惯 2",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e2e8be030e481920b82909bc1b4cd197bc5ffc6.mp3",
         "options": [
           null,
           "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b38a445a37a4d15cec32d781e748135d58a911e9.mp3"
+        ]
       }
     }
   ],

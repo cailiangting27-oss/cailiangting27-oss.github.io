@@ -23,14 +23,12 @@
       "answer": "eye",
       "explanation": "眼睛 eye。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b1adb02b816f3c49b84b0039ca5fd57b2fab992.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/79/79df4b1718127a8c81390d4196d6cbfc976105f0.mp3",
-          "https://api.clthuanxie.cn/cc-audio/dd/ddbc6188203df73f608191f3b0a3c1faf4e7eb00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79df4b1718127a8c81390d4196d6cbfc976105f0.edge-a4d7f117cd3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddbc6188203df73f608191f3b0a3c1faf4e7eb00.edge-098bfd1e10de.mp3",
           "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
           "https://api.clthuanxie.cn/cc-audio/87/87d17825792d2d34edfa5fe12b434fc8d626ced6.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a74ece77f42438ce4421c4fc8a505d10b86bf008.mp3"
+        ]
       }
     },
     {
@@ -42,11 +40,7 @@
       "question": "foot 的复数形式是 feet。",
       "options": [],
       "answer": "对",
-      "explanation": "不规则复数。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b8de87449e932f63b764fe76de8c747fb72a61d.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a1910a3e93f2fa784ccfb0baede8ecdfbdca954.mp3"
-      }
+      "explanation": "不规则复数。"
     }
   ],
   "knowledge": {
@@ -56,15 +50,6 @@
     "common_mistakes": [
       "foot 的复数是 feet。"
     ],
-    "tips": "不规则复数。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/65/65d6b972329a78b6286d1a941762ad4560c781ef.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/a6/a621d47896badc0945ea2220b237d2c9a0ca7e6f.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/65/65d6b972329a78b6286d1a941762ad4560c781ef.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5a1910a3e93f2fa784ccfb0baede8ecdfbdca954.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/32/3214dccbb79aedcc16777f802153f3845bceb361.mp3"
-      ]
-    }
+    "tips": "不规则复数。"
   }
 }

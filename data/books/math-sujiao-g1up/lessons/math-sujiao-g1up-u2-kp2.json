@@ -21,17 +21,7 @@
         "随便比"
       ],
       "answer": "把一端对齐",
-      "explanation": "一端对齐才公平。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/29/2946a261265f093d981a39964632bdb666c41a2d.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/fa/fa417135a4a6cc7566129021fadca237eaabb977.mp3",
-          "https://api.clthuanxie.cn/cc-audio/48/48c46f4fe9c0e3a3d521623e7974a32c07f72e25.mp3",
-          "https://api.clthuanxie.cn/cc-audio/82/82b8fd91eaf321eddb868c9f61aed4b2365ace20.mp3",
-          "https://api.clthuanxie.cn/cc-audio/4f/4f30b5f132216db0ce6272aec4094d278e1e2dd7.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0ae6838844006728293b023ead4cd738505b83f.mp3"
-      }
+      "explanation": "一端对齐才公平。"
     },
     {
       "id": 3,
@@ -42,11 +32,7 @@
       "question": "比较轻重可以用手掂一掂。",
       "options": [],
       "answer": "对",
-      "explanation": "掂一掂估轻重。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/c4/c438ce9191cbe9bf20969883c385bdddbe5a52d9.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5021b73f3bb6ce8e1edde336559d0b816380388c.mp3"
-      }
+      "explanation": "掂一掂估轻重。"
     }
   ],
   "knowledge": {
@@ -56,15 +42,6 @@
     "common_mistakes": [
       "比较长短没有一端对齐。"
     ],
-    "tips": "先对齐再比较。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/16/162f0fa045c51ad53c52e41e3449644de916a430.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/5f/5f61d734258f7c241d2be1a7741a4fc2d4bf3dd6.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/f7/f7ac9123cad5aa0904c8973f5754fef05fb09850.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/0c/0c9ee1bab5a6331da7ad20f414f64d3c44e92bc5.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/4c/4c971000a155906f8eca5d1bb003f673cf67a0d9.mp3"
-      ]
-    }
+    "tips": "先对齐再比较。"
   }
 }

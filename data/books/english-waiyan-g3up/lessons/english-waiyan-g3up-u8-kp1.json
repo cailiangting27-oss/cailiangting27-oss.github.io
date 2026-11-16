@@ -21,17 +21,7 @@
         "This is book Sam."
       ],
       "answer": "This is Sam's book.",
-      "explanation": "人名 + 's。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/59/598ff517f54d6a222d3cabf811bdef11d93cfd42.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/f4/f4a25bf90b55eb83a2893b15329543a39e6783fc.mp3",
-          "https://api.clthuanxie.cn/cc-audio/13/1313fa44f6a0d00862662b87170937f8fc9a9082.mp3",
-          "https://api.clthuanxie.cn/cc-audio/84/846af8bf1aabc2268c29b441a973ce953c6801aa.mp3",
-          "https://api.clthuanxie.cn/cc-audio/1f/1fb66614fe5e98dfe27580104017873d01ea3fb2.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/66/669df7e2b9727e599090db07f74b27d55a7d921d.mp3"
-      }
+      "explanation": "人名 + 's。"
     },
     {
       "id": 3,
@@ -47,17 +37,7 @@
         "my grandma's umbrellas"
       ],
       "answer": "my grandma's umbrella",
-      "explanation": "奶奶 + 's。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/a5/a59bacf74e9d3d98502ba1acfd2d2fa79847176d.mp3",
-        "options": [
-          "https://api.clthuanxie.cn/cc-audio/38/38dfc67e91b44cfe11f5aa15f56836ba51ba8a71.mp3",
-          "https://api.clthuanxie.cn/cc-audio/8e/8e5bcb6f75ea60d16da5da8adb639e806e20a477.mp3",
-          "https://api.clthuanxie.cn/cc-audio/44/44e59e97b1feeaa6d941b250500854d987919ee8.mp3",
-          "https://api.clthuanxie.cn/cc-audio/30/3058b79c364159090dc080405a38d47f6a134159.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acfc950b6c98fc0303a845521e8e434066a28682.mp3"
-      }
+      "explanation": "奶奶 + 's。"
     },
     {
       "id": 4,
@@ -68,11 +48,7 @@
       "question": "Sam's 表示「萨姆的」。",
       "options": [],
       "answer": "对",
-      "explanation": "'s 表所属。",
-      "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fbd73aa7478325ad76816e67cdbde166068e7a4.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37f642bd94f66a9bf13da2778c8b0856a4d7e32b.mp3"
-      }
+      "explanation": "'s 表所属。"
     }
   ],
   "knowledge": {
@@ -82,15 +58,6 @@
     "common_mistakes": [
       "写成 the book of Sam 生硬。"
     ],
-    "tips": "人所有用 's 最自然。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/22/22a572e3458bed4faafe2a712ffae958842aac62.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/3f/3fa433ed39931d17818d046029a72df755e6858a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cbcb6886f2a8ae0b59c888b7f98d42bdb136e767.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/c9/c96e9b5f9744f3b2c1770d9ef49e9ff18604663b.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/84/84964fcf0232aeb9308b2aa9068f95a32b046bf4.mp3"
-      ]
-    }
+    "tips": "人所有用 's 最自然。"
   }
 }

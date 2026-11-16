@@ -23,14 +23,12 @@
       "answer": "No, I haven't.",
       "explanation": "have 问 haven't 答。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/15/153a72e5378c0e7b691222b5071b581cc113037d.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/8b/8b1cf307fbb0e787a9f5d10a8a3e6be412122a1a.mp3",
-          "https://api.clthuanxie.cn/cc-audio/28/284da0cb3a948422cae9aa2005de405f53017333.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b4/b47da5c1cce1bf6c9ef010031c53f6488fded897.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c7/c76f768db5d0c3ad9cea82349283ac4169f2f6b4.mp3"
-        ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/24/242312a9ffd9872dde99b7fe385f4ebebd1cb423.mp3"
+          "https://api.clthuanxie.cn/cc-audio/8b/8b1cf307fbb0e787a9f5d10a8a3e6be412122a1a.edge-c4e31aca5847.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/284da0cb3a948422cae9aa2005de405f53017333.edge-09820fe38cdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47da5c1cce1bf6c9ef010031c53f6488fded897.edge-78a997905dab.mp3",
+          null
+        ]
       }
     }
   ],
@@ -41,15 +39,6 @@
     "common_mistakes": [
       "回答写成 Yes, I've.（×）"
     ],
-    "tips": "简答不能缩写。",
-    "audio": {
-      "point": "https://api.clthuanxie.cn/cc-audio/c5/c5968688c683743c21419611bbad91149b9e9da3.mp3",
-      "core_concept": "https://api.clthuanxie.cn/cc-audio/1f/1f4d6a91b26adebce0dc1f10894faa41fda72aef.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0cce9d2112eba19bf75eb884d45beda6e82c3a08.mp3",
-      "tips": "https://api.clthuanxie.cn/cc-audio/bd/bd10ed23c4abb4be2d9b170592f3ea200d9d9125.mp3",
-      "common_mistakes": [
-        "https://api.clthuanxie.cn/cc-audio/70/7040afbce585c45293b657f47f300cae97cb19c0.mp3"
-      ]
-    }
+    "tips": "简答不能缩写。"
   }
 }

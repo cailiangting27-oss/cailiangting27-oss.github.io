@@ -33,7 +33,7 @@
       "answer": "对",
       "explanation": "任何数乘以 0 都得 0。虽然是从左往右计算，但最后一步结果必为 0。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/69/699e6c8a0d7a882982c4cc12d75570b58406faa9.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b1d6d3de7b5c8f2a2377e36b6a9274d04352fcc.edge-93d228f204fd.mp3",
         "explanation": "https://api.clthuanxie.cn/cc-audio/af/af4eaea7a95530e1d20335a85ef6604d60a3bfa0.mp3"
       }
     },
@@ -53,7 +53,7 @@
       "answer": "45 - 15",
       "explanation": "只有加减法属于同级运算，从左往右计算，第一步算减法。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/46/46d3188e8d3b08416b872d0d2e6a58273d239f37.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2c3e64ab4b999822b7e10ca4938404256a02b14.edge-08e85e8067ea.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/cc/cc6b3dd51b421c79767bb8c08ceca4175504d7be.mp3",
           "https://api.clthuanxie.cn/cc-audio/7c/7c79d59489341f6204d3c1f6576c43964b4e23d0.mp3",
@@ -79,7 +79,7 @@
       "answer": "从左往右",
       "explanation": "只有乘除法，按照从左向右的顺序计算。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/31/3192106831cc9a054d403dd0c4e8d61b5a8d4f4b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0e0acef7b170d859e299fdc4d4f800c0197e23f.edge-647979777fc8.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/f6/f6574e55662a93f1f5e4db849dd556dafaa33e3a.mp3",
           "https://api.clthuanxie.cn/cc-audio/63/63605eb5dde16dc02aaecf00dc4813fcd9c02c01.mp3",
@@ -105,14 +105,14 @@
       "answer": "相等",
       "explanation": "$2 \times 4 \times 8 = 64$，$2 \times (4 \times 8) = 64$，所以应填“相等”。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/1b/1ba0dc9fc1a4e3b5fb7773550b262f8887923157.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d0bd904651cb77ffc3ee45cbdef4c8da265761d.edge-b6a6fd381b84.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/6a/6a69fd718415d2c27a3b49df05e5741b095f05cd.mp3",
           "https://api.clthuanxie.cn/cc-audio/9e/9e2e25fc2d26a83bec26966707646561f8139c82.mp3",
           "https://api.clthuanxie.cn/cc-audio/b4/b445321cbdd126dea29675fb58b4aec09fa6fc62.mp3",
-          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.edge-b80593b374c5.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf1211adc1ff92f4b8ff8a5adc4dc656263900f8.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8c2bfcd47d7165ebe2dbb23033ff68a5fc750a0.edge-618e5f360a29.mp3"
       }
     },
     {
@@ -131,14 +131,14 @@
       "answer": "27",
       "explanation": "$36 \times 4 = 9$，$9 \times 3 = 27$。验算：$27 \times 3 = 9$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/d0/d08b0220d2fc310f669d8634a7fba1dedc58f84a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2ad0ac28ff4557f24a8de58734fc8ebda11b141e.edge-b5bfdb0d5344.mp3",
         "options": [
           "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
           "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
           "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
           "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
         ],
-        "explanation": "https://api.clthuanxie.cn/cc-audio/19/199eedb8e125a9d3a83e4234c3f83163e307b93e.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/135c5b25cd8b8567cc6beab3ffe981f98a5986ab.edge-f0302904d01b.mp3"
       }
     },
     {
@@ -152,8 +152,8 @@
       "answer": "60",
       "explanation": "$56 - 16 + 20 = 40 + 20 = 60$。验算：$60 - 20 = 40$，$40 + 16 = 56$ ✓。",
       "audio": {
-        "question": "https://api.clthuanxie.cn/cc-audio/f9/f90158248f5aa97339721fee3a91274fcb4cd5c1.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03802828f910d2b7dffbe23a87e672a8179ef3ed.mp3"
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d600c3afcc86ce19067aba9747ee7c9a2d1779c0.edge-cf8de5cf891f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fb204e79518a2e7418c155ed5e89d51674cab2d.edge-281467b8a327.mp3"
       }
     }
   ],
@@ -169,7 +169,7 @@
     "audio": {
       "point": "https://api.clthuanxie.cn/cc-audio/5f/5f8fe1c97dad4c4f8207aeaed56add064df9c2d3.mp3",
       "core_concept": "https://api.clthuanxie.cn/cc-audio/6a/6a5aa85046d619607a4e8d3a58d36611cff5033a.mp3",
-      "key_formula": "https://api.clthuanxie.cn/cc-audio/35/358de4e34ffba4c776931d94101c8a8c0735e7ac.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/87/8785bb06fcf9cdfa3afcd132183d028839f6d4ee.edge-e406e14c9f05.mp3",
       "tips": "https://api.clthuanxie.cn/cc-audio/97/9797a52e24322a92bad6de638dada30efb95760c.mp3",
       "common_mistakes": [
         "https://api.clthuanxie.cn/cc-audio/a6/a634bc9cc60b9d9d9a672d565a766f3a23f6caf9.mp3",

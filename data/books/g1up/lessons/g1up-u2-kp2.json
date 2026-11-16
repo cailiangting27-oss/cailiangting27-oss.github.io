@@ -55,8 +55,8 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/01/01fa825b71ef65de0afb6c63c5036a784aa52b23.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.edge-98563bda8a59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.edge-7b88d5a82e43.mp3",
           "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
           "https://api.clthuanxie.cn/cc-audio/6e/6e7739b4d291b505e4ed215b3931c557dd2ff497.mp3"
         ],
@@ -107,8 +107,8 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/61/612694e4acc89ac215ba6aa24667146bf1f6c8fb.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
-          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.edge-b135684b5beb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.edge-c0227d9c8025.mp3",
           "https://api.clthuanxie.cn/cc-audio/9c/9c4be5ac5c8064b021c8c4f06fde48cc0b928dd6.mp3",
           "https://api.clthuanxie.cn/cc-audio/5b/5b48d851c983c193f06b5b55941b6a71c99276fc.mp3"
         ],
@@ -159,9 +159,9 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/43/43483c2936e6d51117c37b5797b24d9380cc3e80.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
-          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.edge-98563bda8a59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.edge-7b88d5a82e43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.edge-67704ef33b25.mp3",
           "https://api.clthuanxie.cn/cc-audio/43/430dcbd9fe074160a5c4d4bc87da814b58f3d8b7.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/77/7728e1e9ce2aaa007bd16ff5440c1423bc30dc15.mp3"
@@ -185,10 +185,10 @@
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/60/606a6deff9fb2b06c125073f075dddf39281b5a7.mp3",
         "options": [
-          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
-          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.edge-98563bda8a59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.edge-7b88d5a82e43.mp3",
           "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
-          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3"
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.edge-c0227d9c8025.mp3"
         ],
         "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3ea51d1ef684aa74b1fcbaf473ee8a48705c7065.mp3"
       }
@@ -205,7 +205,7 @@
       "explanation": "计算中间人数。第 3 个和第 4 个是中间的水果。算式：$5 - 2 - 1 = 2$（个）。验算：2, (3, 4), 5，中间确实有 2 个。",
       "audio": {
         "question": "https://api.clthuanxie.cn/cc-audio/5b/5b3975135abc3172017fef1bab5c59ef2593a577.mp3",
-        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91594984547da4fa0021a9e8277367200b0e589.mp3"
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2a2b3fee28550f047e1fb4fb178b9e3fba342dc.edge-ed7301e613da.mp3"
       }
     }
   ],

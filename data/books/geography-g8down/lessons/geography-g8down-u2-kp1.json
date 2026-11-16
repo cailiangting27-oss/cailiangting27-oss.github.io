@@ -48,7 +48,15 @@
         "节约用水"
       ],
       "answer": "露天焚烧秸秆",
-      "explanation": "焚烧秸秆污染空气。"
+      "explanation": "焚烧秸秆污染空气。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a76d3de80979084aa996ecef8fd29a840e959bd8.edge-5dcf6f666ad3.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,
