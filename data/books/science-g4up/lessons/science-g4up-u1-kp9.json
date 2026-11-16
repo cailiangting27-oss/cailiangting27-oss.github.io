@@ -16,7 +16,11 @@
       "question": "在耳道里塞上棉花可以在声源处减弱噪声。",
       "options": [],
       "answer": "错",
-      "explanation": "在耳道塞棉花是在人耳接收处减弱噪声，不是在声源处。"
+      "explanation": "在耳道塞棉花是在人耳接收处减弱噪声，不是在声源处。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/688be5ad1dd007740b15d36f15756b462028768f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/411682d51f4b8e8f2365a90c359631558be1d0f5.mp3"
+      }
     }
   ],
   "knowledge": null

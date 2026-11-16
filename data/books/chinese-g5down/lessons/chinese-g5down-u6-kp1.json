@@ -16,7 +16,11 @@
       "question": "《自相矛盾》选自《韩非子·难一》。",
       "options": [],
       "answer": "对",
-      "explanation": "《自相矛盾》确实选自《韩非子》，这是文学常识。"
+      "explanation": "《自相矛盾》确实选自《韩非子》，这是文学常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24b1d6783aa59c85cf46c18444eea031a8108d1c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15a22e593a639512717c817febd167051dd83104.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "他不想理会围观的人"
       ],
       "answer": "他的话自相矛盾，无法自圆其说",
-      "explanation": "最锋利的矛和最坚固的盾不能同时存在。"
+      "explanation": "最锋利的矛和最坚固的盾不能同时存在。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/195431662619037875271f2ac2bb946db079cb4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/3615beaae5c47d3f4ef4a2c40846309d857704dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d156f320ee12db8d287032e4d6975d2cb56b0c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7402b7ab86d13b4300e7790abf18815e861360c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0460102d86cb1b4318c114e08cb600206ca950c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/359e5bf8f516ac63ddd11737228cb8dfe8515a6f.mp3"
+      }
     },
     {
       "id": 16,
@@ -43,7 +57,11 @@
       "question": "《自相矛盾》中，称赞盾的词语是“坚”，称赞矛的词语是（___）。",
       "options": [],
       "answer": "利",
-      "explanation": "文中提到“吾矛之利”。"
+      "explanation": "文中提到“吾矛之利”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b3e0c442cf20f724a992f178395341ef56bd222.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a05589226a3942d82554dd4ca443b6bc6c6ebf62.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "错误理解“陷”字为“掉进陷阱”，导致无法理解核心逻辑",
       "分不清是谁在问楚人问题，误以为是路人无理取闹"
     ],
-    "tips": "学习时应对比矛和盾的极度夸张之处，找到逻辑断裂点。"
+    "tips": "学习时应对比矛和盾的极度夸张之处，找到逻辑断裂点。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6c/6c74c1018f8f45fdbab26fde24fa6cb5033ee761.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ca/ca9e01ed34e4eb6356fbac2e2e1315143c078be6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e0/e039a585b1e6dc7a92884997ba5150228bde17bc.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ed/edde188db290ce20d15700892f5833a899131482.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7a/7adcb2fd1be4afcad3027ddbbc666286d31540b9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5a6c842fbae6e7fa26952e00c2c5b499a975ce00.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "一项工程，甲单独做 10 天完成，乙单独做 8 天完成。甲的工作效率比乙快。",
       "options": [],
       "answer": "错",
-      "explanation": "工作总量相同时，时间越短效率越高。甲效为 $1/10$，乙效为 $1/8$，$1/10 < 1/8$，故乙快。"
+      "explanation": "工作总量相同时，时间越短效率越高。甲效为 $1/10$，乙效为 $1/8$，$1/10 < 1/8$，故乙快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0974cac07b9e721c0f4edab216ff2ea3c144a98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afaa3dccc42ad2f9b743fbd52c317f87eb8617b4.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "3"
       ],
       "answer": "4",
-      "explanation": "$1 \\div (\\frac{1}{6} + \\frac{1}{12}) = 1 \\div \\frac{3}{12} = 4$（天）。验算：$(\\frac{1}{6} + \\frac{1}{12}) \\times 4 = 1$ ✓。"
+      "explanation": "$1 \\div (\\frac{1}{6} + \\frac{1}{12}) = 1 \\div \\frac{3}{12} = 4$（天）。验算：$(\\frac{1}{6} + \\frac{1}{12}) \\times 4 = 1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9efa75f6ff618bc6e303e7895e0898f959ac38f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36d8eb39f7d8704067e9d478d62b6f9c92d07fd6.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "9"
       ],
       "answer": "3",
-      "explanation": "甲效 $1/2 \\div 3 = 1/6$，乙效也是 $1/6$。合做：$1 \\div (1/6 + 1/6) = 1 \\div 1/3 = 3$。"
+      "explanation": "甲效 $1/2 \\div 3 = 1/6$，乙效也是 $1/6$。合做：$1 \\div (1/6 + 1/6) = 1 \\div 1/3 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6edf27e0dff6051e93a78ce49a002dfe1739036.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8f289ebe6d4db1b4a1038b8931ec8c2b5399fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff217816c097b50c1c7e82a8c215204961d11f51.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "将工作时间直接相加（如甲 3 天，乙 6 天，合做不可能是 9 天）",
       "忘记工作效率是时间的倒数"
     ],
-    "tips": "这类题目的结果一定是小于参与者中最小的时间的，因为合做肯定更快。"
+    "tips": "这类题目的结果一定是小于参与者中最小的时间的，因为合做肯定更快。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/30/303cb25d011ed34e707986100bfba9ca92f9034d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/81/81b8dc75169d8f0ba0d1eb70a6b9fe7f5794b0e5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b8/b8113f19e244d20d1a4009eded0fc735513e36b7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0b/0bb6cb5c9f4ce0ab89a72ac985d70f354fbb7c54.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/54/54f564acd173cfcf81ef6f027e7438a66c47ef13.mp3",
+        "https://api.clthuanxie.cn/cc-audio/44/44f2cd9750a154aa8994edc07205e76f5129a1cf.mp3"
+      ]
+    }
   }
 }

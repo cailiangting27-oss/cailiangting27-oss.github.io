@@ -21,7 +21,17 @@
         "备注"
       ],
       "answer": "数据内容",
-      "explanation": "统计表中的核心是数据，通过数据反映具体情况。"
+      "explanation": "统计表中的核心是数据，通过数据反映具体情况。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2dc4be2cb1f1d0a8529496ac547637e59d4d971.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/748d7dc7e3212d62e207d204624705af70ea635c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f003a05369a5c7578db3bc10f634347c815b5f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed697b08c0b4b284411d7e1fc96a347618696da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0361480e3a554658a98f060cc9675bc39920680.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac104eb01fdee7b824388ab0b4d40295bc3a2f9a.mp3"
+      }
     },
     {
       "id": 18,
@@ -37,7 +47,17 @@
         "更好填"
       ],
       "answer": "便于比较",
-      "explanation": "复式统计表将多个项目放在一张表内，最核心的优势是方便进行横向或纵向对比分析。"
+      "explanation": "复式统计表将多个项目放在一张表内，最核心的优势是方便进行横向或纵向对比分析。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fa22950fe7cc9eec4dbdb642d6b11a3492e71e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59d3a5015c6b09cddfed45962d810892c2a5c160.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaaf03622318eb454746220a2214a03794a6a4a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66f83eb60d9995df007ed1c4882724abe4ec1e1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39dabab7301ba139f5fd8c75250f7a8e5dc08e7a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79a8d1b0d44e00b52b6b2b624eeb510125cdf13c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "看错行或列，导致提取数据错误",
       "在计算合计项时发生计算失误"
     ],
-    "tips": "读表时先看标题和标题行、标题列，明确数据代表的意义，再进行计算。"
+    "tips": "读表时先看标题和标题行、标题列，明确数据代表的意义，再进行计算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d1/d15b10d96325e796ecae58018e7361d48bf8cbfe.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/97/97c0a2eeec65d30a3998d44535aedd258cd21b5c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e7/e70cc2eaa8625328970ca015c07920a98abb631a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c3/c3a21018d516e5f184d6eb285571f3f1e3792ef8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/41/4171c2eb8562b1dcb3cb6cce8861b6244c11ac7e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/eb/eb960a5c812e0dffb771055bfeba37e0c6f71d94.mp3"
+      ]
+    }
   }
 }

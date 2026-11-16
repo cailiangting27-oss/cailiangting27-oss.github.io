@@ -16,7 +16,11 @@
       "question": "在一个圆形池塘四周栽树，间隔数和棵数相等。",
       "options": [],
       "answer": "对",
-      "explanation": "在封闭路线上植树，每一棵树对应一个间隔，因此棵数 = 间隔数。"
+      "explanation": "在封闭路线上植树，每一棵树对应一个间隔，因此棵数 = 间隔数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f121266b0c0d7ae166e510ed8cca90c1008f77d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a574cb2e3bcdbee34e6d05edc2875c41560a688.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "80"
       ],
       "answer": "20",
-      "explanation": "封闭图形中，棵数 = 间隔数。间隔数 = $80 \\div 4 = 20$ 个，所以需要 20 盆。"
+      "explanation": "封闭图形中，棵数 = 间隔数。间隔数 = $80 \\div 4 = 20$ 个，所以需要 20 盆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e3683c41975b44ec5222b3e5317b73540ce1c7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2122107d43a5b822de6b705b1a0cdcc86fdc840.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "22"
       ],
       "answer": "20",
-      "explanation": "封闭路线：棵数 = 间隔数 = $120 \\div 6 = 20$ 棵。"
+      "explanation": "封闭路线：棵数 = 间隔数 = $120 \\div 6 = 20$ 棵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf092dabb2fc3e89be8d4f84008c47851e4b93db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce395d20ecd22352f81a19473fb5966bd1b51da8.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "15"
       ],
       "answer": "12",
-      "explanation": "封闭图形（三角形）中，棵数 = 间隔数。$60 \\div 5 = 12$ 根。"
+      "explanation": "封闭图形（三角形）中，棵数 = 间隔数。$60 \\div 5 = 12$ 根。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc52f0f436f78d901d61fbbef3c882d6946e8667.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fc5ef1f9addd6cbf94f118d11e66301d49ba85f.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "一个圆形花坛的周长是 40 米，每隔 8 米放一盆花，一共要放 ___ 盆花。",
       "options": [],
       "answer": "5",
-      "explanation": "封闭图形规律：棵数 = 间隔数。计算：$40 \\div 8 = 5$（盆）。验算：$5 \\times 8 = 40$✓。"
+      "explanation": "封闭图形规律：棵数 = 间隔数。计算：$40 \\div 8 = 5$（盆）。验算：$5 \\times 8 = 40$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf3e96b5aafc9c4a2be3b57bfe26cd4c928ebd01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab7668b505c15fa8a0bebebbf445b650c1a326ea.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "习惯了直线的公式，在圆形问题里也多加了1或减了1。",
       "算正方形等图形时，把四个角重复计算或漏算。"
     ],
-    "tips": "可以想象把圆环在某一点剪开拉直，原本重合的起点和终点现在只剩一个树位，所以刚好对应的就是间隔数。"
+    "tips": "可以想象把圆环在某一点剪开拉直，原本重合的起点和终点现在只剩一个树位，所以刚好对应的就是间隔数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/34/34ca5d1909240bd818e8bce55f59288ded52ec13.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/92/9279337bc6f0c0b3aedd480cbd63256122f9020c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3e6c00d601633756122fb0c6e75c1717aaa1f92.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/99/9961c4395d68b21bf52d50751bdfbe737b08f95d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b5/b5e792f968c02315e3d969fbe9a11def52cef4e5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/82/82ace86f4ec9ec74d2f63779256491a8cb6bb67d.mp3"
+      ]
+    }
   }
 }

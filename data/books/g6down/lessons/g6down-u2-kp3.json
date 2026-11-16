@@ -16,7 +16,11 @@
       "question": "存款的时间越长，银行的年利率就一定越高。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然通常情况下长期存款利率高，但利率是由国家银行规定的，并不存在“一定”的必然逻辑关系，且需看具体的金融政策。"
+      "explanation": "虽然通常情况下长期存款利率高，但利率是由国家银行规定的，并不存在“一定”的必然逻辑关系，且需看具体的金融政策。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf090d8932c71020b6a5fcc88fa1f65628199a71.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33fae3663653c467dc63c1605b0cdb3291a9e065.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "420"
       ],
       "answer": "210",
-      "explanation": "利息 = 本金 $\\times$ 利率 $\\times$ 时间。$5000 \\times 2.10\\% \\times 2 = 105 \\times 2 = 210$（元）。"
+      "explanation": "利息 = 本金 $\\times$ 利率 $\\times$ 时间。$5000 \\times 2.10\\% \\times 2 = 105 \\times 2 = 210$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d16636cc4ab6b621115e39bdfea55e7c5e406412.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/135debd4837026bf06c7bfc5d1e0c6a31611af1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecacae52b5fb785e1062b2db0471bdc945ba4c11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a95563490d87e3621966d553f06078acb822585.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cc300682124c77b45de8b4771bec5a53099d659.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "985"
       ],
       "answer": "1015",
-      "explanation": "本息合计 = $1000 + 1000 \\times 1.50\\% \\times 1 = 1000 + 15 = 1015$（元）。"
+      "explanation": "本息合计 = $1000 + 1000 \\times 1.50\\% \\times 1 = 1000 + 15 = 1015$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/1010a7d5c1bd59e86e9f933c51d85409d6ac488f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6ab9e3dd3a09945b25c4ab04a708c23b087fe7e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9a20a4af61c91b0232679bc583058b278fb2926.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9486dd60074058ff0fb315c5185d182479035c69.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc5ef0429ed955bd62e6fefe4a3c8ac697df0895.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "22750"
       ],
       "answer": "2750",
-      "explanation": "$20000 \\times 2.75\\% \\times 5 = 20000 \\times 0.0275 \\times 5 = 550 \\times 5 = 2750$（元）。"
+      "explanation": "$20000 \\times 2.75\\% \\times 5 = 20000 \\times 0.0275 \\times 5 = 550 \\times 5 = 2750$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98682e0edff06da193c5fafc21a83d67859ffef1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf94db48fb7aa4da74260da3f6c7e4722e913b72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf7739b8023e553aed3b13d785b38a7d2adea18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b124524c4b1ade45d1deecbcdef614fadb3ec205.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8add240dd22943341e7e75e75ae781671e8cb3e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/237ce9ea3c2e69e31e3dd0b3aff8f4051ceee30e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "忽视存款时间，直接用本金乘以利率",
       "求“一共取回多少钱”时漏加本金"
     ],
-    "tips": "计算本息合计时，可以用 $本金 \\times (1 + 利率 \\times 存期)$ 进行简便运算。"
+    "tips": "计算本息合计时，可以用 $本金 \\times (1 + 利率 \\times 存期)$ 进行简便运算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f7/f76676b6fa2ea2dc4695fd9fe3292084dcc3d9f2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5c/5ce26ef327d73c36508f527baa09b51a72785e93.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b5/b5bae5ce9b570224fc8ac282fd58e626239774f8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5f/5fd9778d1a331a7b786312e3b0adfdcc91ed5625.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ec/ece87602aeb88e205c3cc4d3bb489a57a9ca94b5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/96/96f007cab57da438288778e8af65cb3e6790998b.mp3"
+      ]
+    }
   }
 }

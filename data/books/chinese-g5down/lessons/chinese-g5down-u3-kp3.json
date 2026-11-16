@@ -21,7 +21,17 @@
         "引用文献"
       ],
       "answer": "形成结论",
-      "explanation": "研究报告的一般结构最后是基于资料整理后得出的结论。"
+      "explanation": "研究报告的一般结构最后是基于资料整理后得出的结论。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41d01f1233ab0887b45df2c5120ffd7ec6918bc4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e2cef43706f5ce1a9ffc74918e0f538adb43802.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2123dd20da3d730758a7b950b521c07def0f3d2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a164154034a37b3a7bc8652d04c04906ed3127d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6be16f701bbef74f3e8e3add4f5fd7dfe1ce6186.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d9e037f1ac59f47f8bd7e14a42bc183f7c8daf6.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "重新开始研究"
       ],
       "answer": "进行筛选剔除",
-      "explanation": "研究报告要求资料必须真实且与主题高度相关。"
+      "explanation": "研究报告要求资料必须真实且与主题高度相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0ad65715f06e4314bd8f5118ce93967b13d3c74c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/307d49437719483aaf5cfde16b19fd4680bcb967.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02766dbab50af23d280c6fab65ad94159a59d03b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b65609cb8b8b1237a8edc9c103c1df335ae37192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dd3bc9ef018e11af29c5ebef08d9c9577808861.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/528f1f6430d8f870ebd490b12c92e92ea04c5d35.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "结论中加入过多的个人主观情感或想象",
       "资料整理部分内容凌乱，缺乏分类"
     ],
-    "tips": "可以先用表格整理资料，然后再转化为文字展示，逻辑会更清晰。"
+    "tips": "可以先用表格整理资料，然后再转化为文字展示，逻辑会更清晰。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/37/37d36dd83c49a42f5b3d82ed2da5c79c8bf8da6a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/11/117ad20ed98eac35e5e29e0cc8dc9ada95b46c2c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4f/4f05d66b8d40c1cd6dc6e44837f3a0f582d53bcb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b4/b46e3aca4d7395439156100592e71a70e3d00ecc.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/56/56fdf2c20a55b1d56e3cf33a1301e5ec51be25ea.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c0/c0db320b043c6eb8fbf17fca7a5a0692ae2c95da.mp3"
+      ]
+    }
   }
 }

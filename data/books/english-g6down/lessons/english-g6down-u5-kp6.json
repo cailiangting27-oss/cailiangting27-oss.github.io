@@ -16,7 +16,11 @@
       "question": "'I am going to visit my uncle.' 表达的是将来打算做的事情。",
       "options": [],
       "answer": "对",
-      "explanation": "be going to结构表示计划或打算做某事。"
+      "explanation": "be going to结构表示计划或打算做某事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbc253f49b6197670182040e11f7b3fbffac8618.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b19d4a6e97aea6e71e7a36f0c85ca8cbe8099d20.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "do"
       ],
       "answer": "are",
-      "explanation": "第二人称you对应的be动词是are。"
+      "explanation": "第二人称you对应的be动词是are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d620cef346b97bf4a80d908c2dcc258e88104111.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/063fc28b3beb693a2e67233c420d5b2e0b6fa65e.mp3"
+      }
     },
     {
       "id": 16,
@@ -43,7 +57,11 @@
       "question": "We are going to ____ a film tonight.",
       "options": [],
       "answer": "see",
-      "explanation": "看电影固定搭配为see a film。"
+      "explanation": "看电影固定搭配为see a film。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8baab739e06da6adf52578209cea4f36d2219f0b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b06105b157cbebc9f11dfcc2fcda0c2b1e274fa8.mp3"
+      }
     },
     {
       "id": 19,
@@ -54,7 +72,11 @@
       "question": "Where ____ you go next Sunday?",
       "options": [],
       "answer": "will",
-      "explanation": "对将来地点的询问，可用will加动词原形。"
+      "explanation": "对将来地点的询问，可用will加动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d13b9b4b0d26ab0223e1fd34d03d47c48a8f07f4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4e3dd5d81272e0e93530f3539c2a072ab2872f7.mp3"
+      }
     },
     {
       "id": 22,
@@ -71,7 +93,18 @@
         "swim"
       ],
       "answer": "I,am,going,to,swim",
-      "explanation": "主语I + am going to + 动词原形swim。"
+      "explanation": "主语I + am going to + 动词原形swim。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b89f90f328fa7e7781c0a3e84545e96d946a0c4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62e1a342cb473c9fc89160ca712ac214271be9d3.mp3"
+      }
     },
     {
       "id": 23,
@@ -88,7 +121,18 @@
         "pilot"
       ],
       "answer": "He,will,be,a,pilot",
-      "explanation": "主语He + will be + 职业a pilot。"
+      "explanation": "主语He + will be + 职业a pilot。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37d41699bdee4fcb969ca499eb0f8b82c60d59cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eec7121ebf641c6e938d95dca3f1fa2a86010126.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/5185f729b27f364be85526c1cb16b1713d7aee36.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -100,6 +144,17 @@
       "to后面误用动词ing或过去式",
       "will后面加了to"
     ],
-    "tips": "看到tomorrow, tonight, next week等时间状语时，优先考虑将来时。"
+    "tips": "看到tomorrow, tonight, next week等时间状语时，优先考虑将来时。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2c/2cea29357d490957817edc6c19ca1731456457e1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f6/f6ac1220e18b25d0e5f5ae2e80df3067ca3dc0ff.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0c0811b37b9723088624eeb5044fb787388021b5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/87aa0bd4015acc9980351eea9d4f6d3b3d6d8139.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/18/18c3953c98683cc33b8b709c96d6268644fc013e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/37/37db490368cf0599cf072439ff357413f2274ff4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4d/4d988b1f97959acbcf1f8d300502d0dde089123d.mp3"
+      ]
+    }
   }
 }

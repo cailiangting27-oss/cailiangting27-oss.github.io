@@ -16,7 +16,11 @@
       "question": "小壁虎的尾巴断了以后，就再也长不出来了。",
       "options": [],
       "answer": "错",
-      "explanation": "壁虎的尾巴具有再生能力，断了之后可以再长出来。"
+      "explanation": "壁虎的尾巴具有再生能力，断了之后可以再长出来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d29d0914dfec8991e0a759a22efa62e4bfbbd29.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0530625861c653b390f7588fd7c62761cf5aa6b6.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "老牛甩动尾巴是为了表达快乐的心情。",
       "options": [],
       "answer": "错",
-      "explanation": "老牛甩尾巴是为了赶走背上的苍蝇。"
+      "explanation": "老牛甩尾巴是为了赶走背上的苍蝇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e28b203a34935e0f7f64cf96a91ae3b094222346.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbf722600865e05e3c956348768eb058c062f44b.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "用来睡觉"
       ],
       "answer": "掌握方向",
-      "explanation": "鱼的尾巴像舵一样，用来拨水和控制方向。"
+      "explanation": "鱼的尾巴像舵一样，用来拨水和控制方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e284201f4c1cdbedd5ef0d6883ea27e9ce82fa6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/69ecd3f639981bb14c4c9ba5d0e34690cc9d0ce7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9130f3342a7bf02405abf6bf82b1d9a178fa918.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a62466f86e44aa4c3808d5c28553490e85b3148.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61787c5c9b83ad045efbfba96f9572946e69948f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/860b997c44d88c9d61d399f179e812ebc6c4f8b9.mp3"
+      }
     },
     {
       "id": 20,
@@ -63,7 +81,21 @@
         "再生"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "考查课文中不同动物尾巴的作用。"
+      "explanation": "考查课文中不同动物尾巴的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b519f95162d0acbb0578ffdc9524a3546b6d6e3a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2e612753f5a52428ce158eb6b8b60fecba91e4b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3741228d09689a25974bc9f09e636e8bc467aaa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99927d5e2b6db64bee9c6cd8becb5349fb9ebc1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e8d2bd0fcd73a06597ea812fd5587755bf8eda7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b784cc12871ec81a9d7dc59cfa8409a2007bab84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66a340bcb20a777e89ecea44e3bb0ed388f43101.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10b3571737985ec613fa9b17c63e3229e8135a96.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -74,6 +106,16 @@
       "不理解“拨水”对鱼的作用",
       "不知道壁虎尾巴断了还能再长出来"
     ],
-    "tips": "模仿动物动作，体会尾巴的妙用，记住‘小壁虎、借尾巴、没借到、自己长’的过程。"
+    "tips": "模仿动物动作，体会尾巴的妙用，记住‘小壁虎、借尾巴、没借到、自己长’的过程。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/07/07d24a2fff559ebe905f2ffa9381d1b0ff13890c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b2/b259ddb6497431cb813adcfad9569992365313a4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8c/8ccd9eaf925a873310ddf100806634b2516208ee.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9d/9deabed5a51c360dcc5af8f873718140acecb99f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e9/e9892d6dfd5979dd38167d18fede92336048cebd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/44/4432124b81da995a2b01d749141d3e7fa0d17278.mp3"
+      ]
+    }
   }
 }

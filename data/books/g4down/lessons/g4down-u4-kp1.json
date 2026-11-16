@@ -16,7 +16,11 @@
       "question": "0.5 和 0.50 的大小相等，它们的计数单位也相同。",
       "options": [],
       "answer": "错",
-      "explanation": "0.5 的计数单位是 0.1，0.50 的计数单位是 0.01。虽然大小相等，但计数单位不同。"
+      "explanation": "0.5 的计数单位是 0.1，0.50 的计数单位是 0.01。虽然大小相等，但计数单位不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51e1e8d96e6b2c429cb18fac30c54b4c4129cd52.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bb154337d8fe58ff15e7baac5d14b7222a21fc2.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "0.1"
       ],
       "answer": "1",
-      "explanation": "$0.01 \\times 100 = 1$。100 个百分之一是一个一。"
+      "explanation": "$0.01 \\times 100 = 1$。100 个百分之一是一个一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/7814e310a1a82ec57dfd27ef31a025cf35dfc517.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b39db0a07d1c34d29db23bc2b4fc94a03679f0e.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "0.1"
       ],
       "answer": "0.125",
-      "explanation": "0.3 和 0.1 的单位是 0.1；0.25 的单位是 0.01；0.125 的单位是 0.001。0.001 最小。"
+      "explanation": "0.3 和 0.1 的单位是 0.1；0.25 的单位是 0.01；0.125 的单位是 0.001。0.001 最小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1df9020e87a562fd58e4881d4d3b37f1c77f77a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98250286db92ccc336dc6f622c10c8bc09286693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdedc3fe4985c37a90969413100c6d0faccb1f1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6363e5d617ccb718a2d35196e7bed7c1fdf09b88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34c2c4b6740a74498984b8a96b5100b73f831765.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "0.001"
       ],
       "answer": "0.01",
-      "explanation": "0.19 的计数单位是 0.01，所以它有 19 个 0.01。"
+      "explanation": "0.19 的计数单位是 0.01，所以它有 19 个 0.01。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89a4c0a9689f957d754258759011b77f8e60a05b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ae529bf5a75a6207b2f277781b8e5f5f738d512.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7905963a484552d87c6ede4a2af6b5dcf3bc49af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09ee4bfe013b7a239020e78daeff7713dfcee866.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "认为 0.5 和 0.50 的计数单位是一样的",
       "分不清数位（十分位）和计数单位（0.1）"
     ],
-    "tips": "记数位顺序表，小数点左边是整数部分（个、十...），右边是小数部分（十分位、百分位...）。"
+    "tips": "记数位顺序表，小数点左边是整数部分（个、十...），右边是小数部分（十分位、百分位...）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/37/37f64e652d7f9b47b9d138f3c3617d1f08b4f59d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f5/f5717ecd27a77dc175aa7a48af997f7db3360656.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/13/130ba622e7f57399f06e8397bbc83c775e8dd8c4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/37/37321d44625531093522c27d434b7a738597f6f2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4b/4b6ed9eb2db2fc5479327b9a9d1708acbbec9237.mp3",
+        "https://api.clthuanxie.cn/cc-audio/09/099c11493511359253ef8765170a8334f701c467.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "在相同的路程内，速度与时间成反比例关系。",
       "options": [],
       "answer": "对",
-      "explanation": "路程 = 速度 $\\times$ 时间（一定），乘积一定，所以成反比例。"
+      "explanation": "路程 = 速度 $\\times$ 时间（一定），乘积一定，所以成反比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c41775239be4fab1104d66ee308fd3599b5ecfd5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ed35da258f38010b58c6d8310287867b4b9a5ae.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "380"
       ],
       "answer": "360",
-      "explanation": "$300 \\times (1 + 20\\%) = 300 \\times 1.2 = 360$。验算：$(360 - 300) \\div 300 = 0.2 = 20\\%$。"
+      "explanation": "$300 \\times (1 + 20\\%) = 300 \\times 1.2 = 360$。验算：$(360 - 300) \\div 300 = 0.2 = 20\\%$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e5fc3ac145ff272b343a1f21849463e970c94ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cae91e45aed80f3a3fe285c3c8c1a7e78d82d473.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1773d62a609dd09e98ea1aebeddbd949b78bf83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c30749cf5bc74c7c3a7e5c8411512825e95333a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df740e4614cf68d083dd8350be45ae8c264de5a2.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "180"
       ],
       "answer": "198",
-      "explanation": "$200 \\times (1 + 10\\%) \\times (1 - 10\\%) = 200 \\times 1.1 \\times 0.9 = 198$。"
+      "explanation": "$200 \\times (1 + 10\\%) \\times (1 - 10\\%) = 200 \\times 1.1 \\times 0.9 = 198$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa958f681bf463b609fd9cbe7b060711cfd7de93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45d3ab0e12e87c80ceff887b96ac4faf984d4b7f.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "20000"
       ],
       "answer": "200",
-      "explanation": "实际距离 $= 4 \\times 5000000 = 20,000,000$ 厘米 $= 200$ 千米。"
+      "explanation": "实际距离 $= 4 \\times 5000000 = 20,000,000$ 厘米 $= 200$ 千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52b2521dab69b4b7dc83228d99c22190825056f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4ac914c09d7c097fe1f4f96b897e625b6922069.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/352bc7d47decfa6b5052a0dd871ef73d6a91c7de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d53757a6e132a63454c8ba7d3cd40126e29c95a5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "比例尺计算中单位换算不统一（厘米与千米混淆）",
       "求利息时忘记乘以存期（年份）"
     ],
-    "tips": "解决复杂应用题时，先列出已知量，通过画线段图辅助理解数量关系。"
+    "tips": "解决复杂应用题时，先列出已知量，通过画线段图辅助理解数量关系。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d1/d16b977aecd6b7af85897247b8c6e6291a7f8d85.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/59/591eeb906e228bba7eafa2d17648e67620e7a025.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/78/7846cb055255453dde97cfedf020cd54177c86bf.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/33/33769d9f446de40cc8c4f750dcd0b604f964e467.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ff/ff258e1c5f2f762a0741cf0e0d769dd9b96817ed.mp3",
+        "https://api.clthuanxie.cn/cc-audio/13/1362a1fec0810349e64577dd174d3b6ed031a5b8.mp3"
+      ]
+    }
   }
 }

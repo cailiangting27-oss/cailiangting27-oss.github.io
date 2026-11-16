@@ -25,7 +25,21 @@
         "月亮"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "根据《端午粽》课文内容及生活常识连线。"
+      "explanation": "根据《端午粽》课文内容及生活常识连线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/961968bdfc55c3fd1db997c7e8ae938dd8b71c68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6918ac62d3b16e90aa4a284a33eea63797d45c41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1943f0a474f2b8650f2bfa051a37c95c5c4c13a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b60a05df13c8f09f8147ce56d4a76bf1b9c8177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf43ea68d3932b1b6dc7a21ae29c22c4182b12a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b0381fb05ea6a913e60bb73ebfa010bb3abea8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d85975be33ff802319103e3158c4c6e752e5f8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e76ec1e50413debe1178a1ee2d1535bdc3ff99dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02b3d8ace5adff704a66bbcfd0162aad3f1a0e3d.mp3"
+      }
     }
   ],
   "knowledge": null

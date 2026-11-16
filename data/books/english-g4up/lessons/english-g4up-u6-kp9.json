@@ -21,7 +21,17 @@
         "pupil"
       ],
       "answer": "people",
-      "explanation": "people 是集合名词，本身表示“人们”，用于 How many 之后。"
+      "explanation": "people 是集合名词，本身表示“人们”，用于 How many 之后。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f8d8f1c994da025df9d121e8fc5627af2cd05d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab3ccc8dba2a0cf7a1ce4d830bb8a6238ff03833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77bb49685ade73030dddba342116ffbc0d6e62fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d39a47507bbe27c2a7948861847f3607eda8e1be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fefe45d763931a43945e6d44bc856b6151e6266.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/491a19204e5e2fa9307ac121e75fa4daed415654.mp3"
+      }
     }
   ],
   "knowledge": null

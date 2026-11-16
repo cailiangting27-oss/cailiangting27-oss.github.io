@@ -16,7 +16,11 @@
       "question": "根据前三天某商店冰淇淋销量持续上升的趋势，第四天销量一定还会增加。",
       "options": [],
       "answer": "错",
-      "explanation": "趋势可以用于预测参考，但具有随机性。第四天可能受天气变化等因素影响导致销量下降，不能用“一定”来描述。"
+      "explanation": "趋势可以用于预测参考，但具有随机性。第四天可能受天气变化等因素影响导致销量下降，不能用“一定”来描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c17a839714f6182afb326854d3e710eebda5512f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42a0cabce39f841d4452dd47642d01418f3aa23e.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "运动鞋涨价了"
       ],
       "answer": "周末商场搞活动或人们有空逛街",
-      "explanation": "根据生活常识，周末客流量大导致销量上升是合理的决策分析依据。"
+      "explanation": "根据生活常识，周末客流量大导致销量上升是合理的决策分析依据。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03545f2e5aa963b2420fa0e09ccf99f45be79348.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1feccd23b0b3c66df2474e5c92140715f2abeeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a118a52416048db717de2b6b1a45ea246536de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef591f25d666c7bb326df5a7f983c8dea9d793f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5ffe1c265366acd6ba4f4436a05e678e4e24e18.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/6817c2307729940d8719756eec433f54c4b89859.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "二班",
-      "explanation": "计算人均个数。一班：$200 \\div 5 = 40$；二班：$180 \\div 4 = 45$。$45 > 40$，二班水平更高。"
+      "explanation": "计算人均个数。一班：$200 \\div 5 = 40$；二班：$180 \\div 4 = 45$。$45 > 40$，二班水平更高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c086c90774cf1fa4a7d388f7e2e9e6eba0495f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/521b7d96441eb0116b3d7a6e898f6429e5a82e6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3107726addcdc1c9ad6f9ad1c85fe33b985973d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da185e0387de8d73d3d51256a651e3efc6410782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e43f182d0c79bdbd3ef0852b24a707caded4ab8c.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "一辆汽车前2小时行驶120千米，后3小时行驶180千米，这5小时平均每小时行 ___ 千米。",
       "options": [],
       "answer": "60",
-      "explanation": "总路程：$120 + 180 = 300$；总时间：$2 + 3 = 5$；平均速度：$300 \\div 5 = 60$。验算：$60 \\times 5 = 300$ ✓。"
+      "explanation": "总路程：$120 + 180 = 300$；总时间：$2 + 3 = 5$；平均速度：$300 \\div 5 = 60$。验算：$60 \\times 5 = 300$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0140eae3087357ec25336f79dd618c6c9c31c57f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61370fc2b543199b210b353859fee06d5c97bd57.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "预测时说话太绝对，使用“一定”而不是“可能”。",
       "脱离实际生活背景，只看数字不看具体情境。"
     ],
-    "tips": "观察最高和最低的数据，分析它们出现的原因，能帮你做出更准确的判断。"
+    "tips": "观察最高和最低的数据，分析它们出现的原因，能帮你做出更准确的判断。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/7e/7e032441687587567073e9e29b98dd4a7c1fb032.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/27/27e5780ea57747ecfc0bc742d179195c507e6f1f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/af/af667a71658e30fd88568ed30c7051b4e3fb774b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/48/483a3e66d52149d456c06ddebf075327da709296.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/aa/aaa0e06bf28b2622591f49f611b579b16c59172c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/11/11fe10f4bf37fe6dd5ef76920d8b56746375777b.mp3"
+      ]
+    }
   }
 }

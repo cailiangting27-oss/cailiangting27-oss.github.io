@@ -21,7 +21,15 @@
         "分类别"
       ],
       "answer": "列数字",
-      "explanation": "用数字说明。"
+      "explanation": "用数字说明。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af2f709edb1699008b0015294973c1db7af52339.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f8095ed829cbdd43ff03209e2590491e02d56f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c53a0e123a05cea187c233b0829222aaf727aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c60628da601881e2a05ad57267f0422234c844f1.mp3"
+        ]
+      }
     },
     {
       "id": 3,

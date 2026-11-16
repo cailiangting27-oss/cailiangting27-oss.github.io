@@ -16,7 +16,11 @@
       "question": "尼尔斯是一个从调皮捣蛋变得勇敢善良的孩子。",
       "options": [],
       "answer": "对",
-      "explanation": "尼尔斯在历险过程中性格发生了极大的正向转变。"
+      "explanation": "尼尔斯在历险过程中性格发生了极大的正向转变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/385ba6d0463abf24bdf587a24316a46447e7cd3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67e46495caedd01e557e447f5ab4e662cd2516ac.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "鲁滨逊在荒岛上只用了不到一个月的时间就把定居点建好了。",
       "options": [],
       "answer": "错",
-      "explanation": "鲁滨逊建设定居点经历了漫长且艰苦的过程，而非不到一个月。"
+      "explanation": "鲁滨逊建设定居点经历了漫长且艰苦的过程，而非不到一个月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/acf901189d58acf2369cdd1e37d36a776a097f11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dca0ebd427582e0de101a546267ffcf6a4c72488.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "怨天尤人"
       ],
       "answer": "沉着勇敢",
-      "explanation": "汤姆在困境中不仅安抚同伴，还积极寻找出口，体现了智慧和勇敢。"
+      "explanation": "汤姆在困境中不仅安抚同伴，还积极寻找出口，体现了智慧和勇敢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa51b36d62c9724308be4f8a6ac0cd08a0520c98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1765eb86a0e200c207537890b82bb3a946726a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d346b19b45c9d692f1f075d9d6910694c74bacd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4561e7e749a9a48483835d4e85199fe2c039b73f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a76a62c4957fee331b4aacf9b84d72d986728853.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47e87226581f470665409a5290a080f3c1225c2.mp3"
+      }
     },
     {
       "id": 14,
@@ -59,7 +77,17 @@
         "变得善良并舍己为人"
       ],
       "answer": "变得善良并舍己为人",
-      "explanation": "只有内心真正成长，诅咒才会解除。"
+      "explanation": "只有内心真正成长，诅咒才会解除。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9ca02e8be54fc56b516ad38bbabb0d195b2949ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d928a46a676ee7f52a34e5fcd8a7ae1724719068.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73877e3d80c98d231518cd06c39fb1f7733a47f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5711606b4e593544e7dd392caf89f4c3d6d15022.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/2763d656aea493974512f32abc6b55302dbd7a90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c60fd533d9101b205f7ee32d141d66d49613599.mp3"
+      }
     },
     {
       "id": 18,
@@ -70,7 +98,11 @@
       "question": "鲁滨逊把荒岛上的生活记录下来，把自己遇到的好处和（ ）列成两栏进行对比。",
       "options": [],
       "answer": "坏处",
-      "explanation": "通过“好处”与“坏处”的对比，他找到了生存下去的希望。"
+      "explanation": "通过“好处”与“坏处”的对比，他找到了生存下去的希望。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23b7865dfe4ea5321de3ca8772159a14d6a627b0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4531dddc0ef239a6485af34ca25daf515824ba2f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "标签化评价：只用“好人”或“坏人”来简单概括。",
       "脱离文本：评价时空喊口号，没有结合书中的具体事例。"
     ],
-    "tips": "关注人物在“两难境地”下的选择，那是性格最闪光的时刻。"
+    "tips": "关注人物在“两难境地”下的选择，那是性格最闪光的时刻。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8b/8bc34977e49aa7b90b6a099f89dc8c4203991b34.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2b/2bc312d8b3dbd2d57aab50123fab9c43c48f2112.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/44/446a22976b04fcf174229e7b265c43c4a2839e99.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/71/7180df8ce9a2c7b4e3000340613b6885447591be.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/90/904bcfc1456dbb3edd2188a6389c3061ccb35539.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9e/9e8530ad5cc0aa276a8f588be591d3a0e2450994.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "“我”字的最后一笔是“点”，这个点在右上方向，所以应该最后写。",
       "options": [],
       "answer": "对",
-      "explanation": "根据笔顺规则，点在右上或字里时，通常后写。“我”字末笔是右上角的点。"
+      "explanation": "根据笔顺规则，点在右上或字里时，通常后写。“我”字末笔是右上角的点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d08ad76191aeb49fa95a5adeb8daf4d5eb2ad3c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0842dbbc3788490291cbbd5a635a84197f8ba64e.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“主”字的第一笔是点，因为点在正上方，所以要先写。",
       "options": [],
       "answer": "对",
-      "explanation": "点在正上方或左上方时，通常先写。"
+      "explanation": "点在正上方或左上方时，通常先写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d6fb6ab6aea2fc144f5dd5245b57f2932b41379.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b125709445fd7460f20867b65cea0ddeb628e71d.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "方"
       ],
       "answer": "书",
-      "explanation": "“书”字的末笔是右上角的点；“门”和“主”的首笔是点，“方”的末笔是撇。"
+      "explanation": "“书”字的末笔是右上角的点；“门”和“主”的首笔是点，“方”的末笔是撇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7a9cb2afbbc0ba53120fa6bb54fef5eb7296a9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57b3e135628504bdc47a2f46ec4426b82d10ed5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe04274ceff3059706d742eaa9e9db3368ab0949.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbf71355e95cdcc513efef339ca8481c068f8b0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e9c5afd29ffae27771b3ce257fa7aca735084a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7bc8c6873602c78b96a196f1298c8b467a0e7ea.mp3"
+      }
     },
     {
       "id": 18,
@@ -54,7 +72,11 @@
       "question": "“成”字右上角的“点”应该第几笔写？（用汉字填）",
       "options": [],
       "answer": "六",
-      "explanation": "“成”字笔顺：横、撇、横折钩、斜钩、撇、点。末笔是点。"
+      "explanation": "“成”字笔顺：横、撇、横折钩、斜钩、撇、点。末笔是点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65bedfeac6ace0a59bf254a6418715c67bc4add0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ca2e452424ce94cb7eb61f9d85777b8239f9df4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -65,6 +87,16 @@
       "写“我”字时先点再写提",
       "写“门”字时先写左竖再点"
     ],
-    "tips": "记口诀“上左先点，右上后点”，写字时可以用红笔标出点，提醒自己顺序。"
+    "tips": "记口诀“上左先点，右上后点”，写字时可以用红笔标出点，提醒自己顺序。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ee/eef407019890cb32dea32159b7d9688aeda6a505.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3f/3fb5e05104b1535325b8423bdac13e4128d5b5f6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e5/e5726b2e16a8570db339f94c51a19ec7c83b9927.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/73/73fd0be6ca9862e78cf7ca9bad0dd94ae91bd9f6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/77/77febfba4c48708a20a9d2cd9b19a68ae05e072f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a4/a449951c308266849b01cf6d12e62c991530b411.mp3"
+      ]
+    }
   }
 }

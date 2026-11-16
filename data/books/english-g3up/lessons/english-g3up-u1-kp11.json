@@ -21,7 +21,17 @@
         "I m chen jie"
       ],
       "answer": "I'm Chen Jie",
-      "explanation": "句首字母、人名首字母需大写，且I和am缩写为I'm。"
+      "explanation": "句首字母、人名首字母需大写，且I和am缩写为I'm。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cfafb19d621dacd3dba1394ed551867d911faf8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84af02a5cc39e43b19081c3c7b0f828173e2babe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0916fbf6779862dda0bf5518fa99cf31359769d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/857aa62985a010b9848ed2d2970a9a36ecff8ec6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5012406a9803067ad0fcef8a54779e8350e03c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15f10c15add6af56c504b0d3b8be75f2df5e7c75.mp3"
+      }
     }
   ],
   "knowledge": null

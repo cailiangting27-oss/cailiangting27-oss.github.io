@@ -16,7 +16,11 @@
       "question": "青蛙最后没有卖掉泥塘，是因为他发现泥塘被他改造得很美，舍不得卖了。",
       "options": [],
       "answer": "对",
-      "explanation": "通过辛勤劳动，泥塘变成了宜居的好地方。"
+      "explanation": "通过辛勤劳动，泥塘变成了宜居的好地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/966e2435b8f0eeb14dea6c690ef0e2b8073377d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa42be86995c4ead13755b043c8a72110f6caacb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "漏掉青蛙改造泥塘的具体步骤顺序",
       "不理解青蛙最后为什么又不卖泥塘了"
     ],
-    "tips": "按顺序画出青蛙改造泥塘的示意图，能帮助梳理故事内容并理解辛勤劳动的回报。"
+    "tips": "按顺序画出青蛙改造泥塘的示意图，能帮助梳理故事内容并理解辛勤劳动的回报。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/72/720ba55f0bcda16f5a927724df84d838e58b38e0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/20/204e9ec52b084c276710182d723272cf2b68c3d2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/72/72d3dd8194fb1d5b1bc1a75067cccdca874034db.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6ffe6a15db6622cf86b4f4b1c9ba40226d0b44d8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/34/344b7e8175672a1ad4263fd927d7feb586fa3b9f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fa/fa28680103f3f085cd4f5179a3ae49014d625146.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "计算同分母分数加减法时，只需要把分子相加减，分母保持不变。",
       "options": [],
       "answer": "对",
-      "explanation": "同分母分数的分数单位相同，计算时分母不变，分子直接相加减。"
+      "explanation": "同分母分数的分数单位相同，计算时分母不变，分子直接相加减。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba0127d8703b166e0cd242cd971f7a468c44ac71.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c090d326c67ac8160881face8e8d7ef086566f4.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "8/9"
       ],
       "answer": "7/9",
-      "explanation": "$1$ 可以看作 $9/9$，计算 $9/9 - 2/9 = 7/9$。"
+      "explanation": "$1$ 可以看作 $9/9$，计算 $9/9 - 2/9 = 7/9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82d3ed074760571372f0a6b52d15ea6bb5673d5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/412d4f08582f0e06e4c4eedb0df82efb20ffaeb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fa6789c85c71004e6513e9bee98f367a656c72f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b79a45c4b0ac59d9c19a3e702e5f9784fb601b35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43a8b9fc28a1188e8ba68f086dcbeb5272a4c086.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98189c8e2c9eea557f276a3555909ab44469c653.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "1"
       ],
       "answer": "3/5",
-      "explanation": "分母不变，分子 $2+1=3$。"
+      "explanation": "分母不变，分子 $2+1=3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1df94feabe53b17d08e568ed4205bba9676c2aa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c615f89cc21ee5dff7816fcb11fc0b09a928852e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3b0da4ed7e2a74edfca9edb78aa11088a43549f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aab0c11f992f78a63bdc1caf2da7c6b632a96e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/964106f01f810903ed8013b7e38d1f665029d54a.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "1"
       ],
       "answer": "3/8",
-      "explanation": "一共吃了：$2/8 + 3/8 = 5/8$。剩下：$1 - 5/8 = 3/8$。"
+      "explanation": "一共吃了：$2/8 + 3/8 = 5/8$。剩下：$1 - 5/8 = 3/8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21ddc4f4e32eac8d93aa2c85084106be2dc661fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f17caaa6e204d510c3bb6e1fbfe0076e6e5e1e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0f3796a16b01c42cc2c64efcefd60959a6dd35f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b14b5435c67a0024c006e26532e45468f6ca207.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3347b9c3a34590b6422fe04aeae4e4bc933b72e2.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "计算：$5/9 + 2/9$ 的分子应该是多少？",
       "options": [],
       "answer": "7",
-      "explanation": "$5/9 + 2/9 = (5+2)/9 = 7/9$。结果的分子是7。验算：$7-5=2$ ✓。"
+      "explanation": "$5/9 + 2/9 = (5+2)/9 = 7/9$。结果的分子是7。验算：$7-5=2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1eb5488b3b99ba432d796f2bf61d6476300c1e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11ed34bbb69b106f4d29b66e2f8027476ee4dc64.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "计算：$1 - 4/10$ 的分子应该是多少？",
       "options": [],
       "answer": "6",
-      "explanation": "$1 - 4/10 = 10/10 - 4/10 = 6/10$。结果的分子是6。验算：$6+4=10$ ✓。"
+      "explanation": "$1 - 4/10 = 10/10 - 4/10 = 6/10$。结果的分子是6。验算：$6+4=10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b037eb9f21343f20797451122966a2fbca8f3a31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/332245251963f92954e1250a03ee1a4a63dd09ed.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "把分子和分母分别相加减，例如 $1/3 + 1/3 = 2/6$。",
       "计算 $1$ 减去分数时，不知道如何把 $1$ 进行转化。"
     ],
-    "tips": "计算时分母是“单位”，只变数量（分子），底数（分母）不动。"
+    "tips": "计算时分母是“单位”，只变数量（分子），底数（分母）不动。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/45/454006444b841a4bbe58db5623289254be13184f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d0/d0d8ccbd5928fd6e18ebcc465e57cba42f2d410c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/66/66fd74481d89e9d36033c7099ef3b6f2d834ea8d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/14/14c3d7620543039440d0d569f720ffe586959908.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ae/aecde46f8448b281da721e9b7f89a5a1e59d07ed.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d6/d664ca9c5dc5499dc07dd3a3fbd8613e85a4ce43.mp3"
+      ]
+    }
   }
 }

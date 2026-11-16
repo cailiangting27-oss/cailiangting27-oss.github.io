@@ -21,7 +21,17 @@
         "木块"
       ],
       "answer": "木块",
-      "explanation": "开关底座需要绝缘材料防止电流流失。"
+      "explanation": "开关底座需要绝缘材料防止电流流失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/7259f2cbb89e93704639571e746416fa9be52785.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/35543ea293f802329bebc1dcb10df2c7b7ee99d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fe09bb265b480f70c99e78b9bb4652f832cd90d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f33d7ff453685046b6b569ab80e311f48aa15434.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8727c284bc72c68b1583202fcfa174a1b413952d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/129c8e4fff5d5db994eb490e3329eeac627db420.mp3"
+      }
     }
   ],
   "knowledge": null

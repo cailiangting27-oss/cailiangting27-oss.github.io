@@ -21,7 +21,17 @@
         "水的多少影响蒸发"
       ],
       "answer": "表面积越大蒸发越快",
-      "explanation": "涂开增加了水与空气接触的表面积，从而加速蒸发。"
+      "explanation": "涂开增加了水与空气接触的表面积，从而加速蒸发。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6653f65e6936717b49281b7589277986a224f12d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa7b1f0390c684ddf2692f25603a742171afbcc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d00dc961c5a0cbeb099e9c10825b2bc32963669.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fb17bb504a92e031b2a660b26d4f2215e0c95b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c632e2edaa60ddc169d1b6ac99bb5904369522d6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0cc7ddb4651aa94f75b8366b1c6dd4c69c56025.mp3"
+      }
     }
   ],
   "knowledge": null

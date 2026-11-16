@@ -21,7 +21,17 @@
         "sad"
       ],
       "answer": "happy",
-      "explanation": "遵守规则老师会高兴（happy）。"
+      "explanation": "遵守规则老师会高兴（happy）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42d8a494ab1f91abb347c92d6571b8195ebea329.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1902e3d6fc4e78a0bcc50ba12b882769afbf4a8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4914600112ba18af7798b6c1a1363728ae1d96f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73ed53f235f5d943b773197266da1498d81b3abf.mp3"
+      }
     }
   ],
   "knowledge": null

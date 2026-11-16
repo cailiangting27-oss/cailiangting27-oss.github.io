@@ -16,7 +16,11 @@
       "question": "我们可以用磁铁的磁极在钢针上沿同一个方向摩擦，使钢针获得磁性。",
       "options": [],
       "answer": "对",
-      "explanation": "这是摩擦磁化钢针的正确操作方法，需注意单向摩擦。"
+      "explanation": "这是摩擦磁化钢针的正确操作方法，需注意单向摩擦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d054ee53a41554444d69fbf59dfc94c0fda1eee5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8ffc6e2d2f1e3da230a29f1c8170ce15a1714fcb.mp3"
+      }
     },
     {
       "id": 14,
@@ -32,7 +36,17 @@
         "拿在手中"
       ],
       "answer": "放在纸片上浮在水面",
-      "explanation": "为了让钢针能自由转动，必须减小摩擦力，水浮法是常用的教学手段。"
+      "explanation": "为了让钢针能自由转动，必须减小摩擦力，水浮法是常用的教学手段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2ad8e82a0e3b4958f95c4054bdb1cc0394395596.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bd6b0152e1c52082f593cee49114a15c9a58631.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/933322451acfbf862b2eb1d202518a8195a5a23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9afa3215d57b7d3a8c839022939ccb89db71358.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c02071f827611fc99909725191ade32ea109c33b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afc4a83621a3a25859dd8bba084208e14f2f4e0a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -25,7 +25,21 @@
         "run"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "此题考查单词对应关系，dance对应dancing，read对应阅读，running对应run。"
+      "explanation": "此题考查单词对应关系，dance对应dancing，read对应阅读，running对应run。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c65c3a36be6a85f016c4862f6b89023859c46e7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74b518ed5512d0ca1abf57120656a3191375da5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7afddb68260a60f86c02a021efba7f216c2e7cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c49d9cc3c0c83421a1cfb921cdd4aa35dc1ba5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b9be56907c5d36be90e52ba60135a5a0df15e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15160b8ab8f9662d18e02725361d14f3142aad87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575d491eaa8ca1f455eacd110fe599e043a908fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aac0ef6c1c6d128db97bb6899fd910284c7a4128.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c0123116bb33c33666566b0ce3a78f5325ddc38.mp3"
+      }
     }
   ],
   "knowledge": null

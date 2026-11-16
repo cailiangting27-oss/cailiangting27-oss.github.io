@@ -21,7 +21,17 @@
         "替代阅读"
       ],
       "answer": "加深理解、积累素材",
-      "explanation": "读书笔记助理解。"
+      "explanation": "读书笔记助理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b029f6c67bd15a7b7ab0223681fa842019d8fcc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b270bb1de9bf6ebea05c5c7bf9072227cb58db51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e25d0663b0c82ce93ac73426f6f1946fbad6edb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/989d2a99f9c0df395e44b26be5c97db58da2dc0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01a4b84b6125fb8d86357f3814e0a24e5d65482f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5b0d9a266bcdd0e66ec0ca8799b3a90fe1c4986.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "读书要动笔，摘抄好词好句。",
       "options": [],
       "answer": "对",
-      "explanation": "摘抄助积累。"
+      "explanation": "摘抄助积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/987f198457289d7f64a43d45e031b54b5ed74b51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08d31bbaf4d5ba7a091ee0da1a6ad0c54eb4aa21.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "读书只翻页不走心。"
     ],
-    "tips": "做读书笔记效果好。"
+    "tips": "做读书笔记效果好。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f3/f399d13e7939ab3143be7406e0756c72995ad116.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/52/52d26327d20144a7487101e1efce49554ba5ce6a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/91/9123d4d60bc4187e8f4153bd108e5aeb13b4deda.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ec/ec964089de6ee1f5fec3e51630905ee1d51d0b8f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/54/544c363a732c74cda28b88d7fa023e5bdc6ec1ae.mp3"
+      ]
+    }
   }
 }

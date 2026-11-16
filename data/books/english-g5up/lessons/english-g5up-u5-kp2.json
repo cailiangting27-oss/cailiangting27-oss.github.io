@@ -16,7 +16,11 @@
       "question": "句子 'There is a water bottle.' 语法是正确的。",
       "options": [],
       "answer": "对",
-      "explanation": "There is 后接单数名词，a water bottle 是单数。"
+      "explanation": "There is 后接单数名词，a water bottle 是单数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/798b92321339ce4f35b608126a15c5bf38affc3a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01e64caac29d70676866665b2007ce034f98e516.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "描述有很多书时，应说 'There is many books.'",
       "options": [],
       "answer": "错",
-      "explanation": "books 是复数，应该用 There are。"
+      "explanation": "books 是复数，应该用 There are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1428027b5b417ba52238880bd4bcd75c9c58b422.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/9783f16ca7be71f2dd62b1307f9e26affb49fd56.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "be"
       ],
       "answer": "is",
-      "explanation": "There be 句型遵循就近原则，紧跟的 a big bed 是单数，所以用 is。"
+      "explanation": "There be 句型遵循就近原则，紧跟的 a big bed 是单数，所以用 is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3bd44aaf0b37fff8b65b7f6ff4d77359cd9e855c.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca569b980d9d9969ad09ef86f441453c1cbc6aab.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "apple"
       ],
       "answer": "fish",
-      "explanation": "are 后接复数，fish 单复数同形，且逻辑上鱼在水里。"
+      "explanation": "are 后接复数，fish 单复数同形，且逻辑上鱼在水里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5580d68c7080da81230d463cca6624d6fda0ad1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd92815bf6273acbaf834b9faed277c722068291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6024f12494d3a99d8bda9b7a55f7d140f328a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89c8d6b854efe6b835abad87b19f0edba517bfc7.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "am"
       ],
       "answer": "are",
-      "explanation": "pictures 是复数形式，be 动词用 are。"
+      "explanation": "pictures 是复数形式，be 动词用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be961231ec0f86ea381dfe5e81c458666f42bb88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7eb4e48d88ead8005e94399a86d4b411a802e0bd.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "There ______ many plants in the garden.",
       "options": [],
       "answer": "are",
-      "explanation": "many plants 是复数，填 are。"
+      "explanation": "many plants 是复数，填 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5de98c33ae4d846b565245d39069259466961d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb3cf82e5cc79e5a0ebedefa74beec5ff4c425d9.mp3"
+      }
     },
     {
       "id": 22,
@@ -103,7 +145,18 @@
         "is"
       ],
       "answer": "There,is,a,big,bed",
-      "explanation": "There be 句型结构：There is/are + 事物。"
+      "explanation": "There be 句型结构：There is/are + 事物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/6904c69e1386fe447bf089c4786cd88cd691d889.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02a81a8e26f7dc6f0bd48a2f3603ff0f3ba706bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/452e7bc25440378503a5d505042c31fee471571f.mp3"
+      }
     }
   ],
   "knowledge": null

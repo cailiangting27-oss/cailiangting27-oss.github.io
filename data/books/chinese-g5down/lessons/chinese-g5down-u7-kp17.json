@@ -25,7 +25,21 @@
         "反问"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "像新月是比喻，思考是拟人，谁不赞美是反问，像水一样是比喻。"
+      "explanation": "像新月是比喻，思考是拟人，谁不赞美是反问，像水一样是比喻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14154b58827f87286262c3c38009d0e754badae0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c6502340ce13cd89e24e1ce6999c03d0ddc8a124.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee08ca382fe8b67566b034a1c0c28fa6df200688.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d72fc2025c182a5f782e7865da1da53059a6819d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f05e02826f31a5ef89edaa4a9994492f0cc5a8ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/847bf32e7d59edd3d0e9cd54ec12549c361e6304.mp3"
+      }
     }
   ],
   "knowledge": null

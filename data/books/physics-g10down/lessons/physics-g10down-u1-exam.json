@@ -54,7 +54,15 @@
         "椭圆"
       ],
       "answer": "抛物线",
-      "explanation": "平抛轨迹为抛物线。"
+      "explanation": "平抛轨迹为抛物线。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/229298d292b0396426defe1bf0e5af81d2334c64.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

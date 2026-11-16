@@ -16,7 +16,11 @@
       "question": "“小黑猫散步”比“那只调皮的小黑猫在草地上悠闲地散步”更生动。",
       "options": [],
       "answer": "错",
-      "explanation": "添加了形容词和修饰语的句子更具体、生动。"
+      "explanation": "添加了形容词和修饰语的句子更具体、生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0c48164ef2fcf4aa9c5a646232828b1e2adb480.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e805af6f8eb96c0239debb6a94ca16c26a0d67a2.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "红彤彤"
       ],
       "answer": "悄悄",
-      "explanation": "雾的出现往往是无声无息的。"
+      "explanation": "雾的出现往往是无声无息的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01d8338aebccbcad5fd27dd6b25e82a855616f70.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a7e09793f0387319425109d46fbf268bbf943af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e115eb39ee6c59c4f1e1eb6d3c4f9f4a8163bad6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad1bdf1221dddf460bb9e801588b2675abacda05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e67f9cb669922100a928acaef5a511448b376a51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7b5aac59d1a067410dfe616cd5ddded1e6da052.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "小白兔回家了。"
       ],
       "answer": "顽皮的小黑猫跳到了暖和的被子上。",
-      "explanation": "使用了形容词修饰，描述最清晰生动。"
+      "explanation": "使用了形容词修饰，描述最清晰生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03144a59d5a012b4d8613907321aec1fdcf6c8b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2bb536d3dcc067e177f605050c2b584d9726545.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/959dc6caf2cf5ba3b033d07c7598c769d2cacd02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fe142278ead5a496fc5542e24ded068f4d1751a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dcf2713c501b8160616cdb7f911750705948135.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7d7d91f8d561adb3cb9d89b5c77c4a5e471015f.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "（___）的雪花在空中飘舞。",
       "options": [],
       "answer": "洁白",
-      "explanation": "修饰雪花的常见形容词。"
+      "explanation": "修饰雪花的常见形容词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d8bcc2769f9eefcdbddbb8e35167a5fe0913b50.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98a64e751fd5df687d4ec8fb0a566420566d5cdc.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +103,17 @@
         "又蹦又跳地"
       ],
       "answer": "小白兔,又蹦又跳地,跳到了,地上",
-      "explanation": "修饰词“又蹦又跳地”应置于动词前。"
+      "explanation": "修饰词“又蹦又跳地”应置于动词前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b316c88a6da55ab1988645f8d651574549052c37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/683dad6e7ec803e1c90e525d7a93b29cd4b5033d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d385bb80463dcae680cb55d637e0438445547d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3291cf6a3f88271beb2204714ee869e63684c213.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/763c5602eeb14f240c1275ed86d17e9e88d69596.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87af2a2d24ec8702e872418e6f05c1fa9bcff96a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "“的”和“地”使用混淆，如把‘认真地写’写成‘认真的写’。",
       "形容词搭配不当，如‘美丽的说话’。"
     ],
-    "tips": "可以玩‘加减法游戏’，看谁能给‘小狗跑’加最多的修饰词，变成‘一只毛茸茸的小狗在草地上飞快地跑’。"
+    "tips": "可以玩‘加减法游戏’，看谁能给‘小狗跑’加最多的修饰词，变成‘一只毛茸茸的小狗在草地上飞快地跑’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5f/5f57192a0edeb3a23d5fa4ef8738dc01c6810c81.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7e/7ef14bc343b809dd41f7461f8993ee59d1120c89.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f79693a4d1ce2cee459cab3fdd5efeae7340090.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/82/826fb68d1a3c85e9a0239a5338a98bf5dad4d4f1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/63/6303c8ec7fb06973e40d80e6354f54d0ebcde6e8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/25/25aa652d4a21092ac09f07e4297ef82480193eda.mp3"
+      ]
+    }
   }
 }

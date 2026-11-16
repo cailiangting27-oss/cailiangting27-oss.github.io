@@ -21,7 +21,17 @@
         "我喜欢看，童话书。"
       ],
       "answer": "天上的云真美啊！",
-      "explanation": "感叹句结尾使用感叹号。"
+      "explanation": "感叹句结尾使用感叹号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6ccde5704ad97b4918834c06e91599ffda7a3cbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/366f011e6a0f53bf232a174e20583e0b68e29ba9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56bd3ef3734e6191dcbd015da75c669602e26666.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b5885b5566ff74b37f807a74da1dc52cda59764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/205342151aa215048151dc08545ae08fdc103282.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a7ebe36f4108ea4df4410b1204e764d23458a74.mp3"
+      }
     }
   ],
   "knowledge": null

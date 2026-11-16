@@ -16,7 +16,11 @@
       "question": "小说中的环境描写必须真实，不能带有个人的想象成分。",
       "options": [],
       "answer": "错",
-      "explanation": "小说是艺术创作，环境描写可以包含作者的修辞处理和合理想象。"
+      "explanation": "小说是艺术创作，环境描写可以包含作者的修辞处理和合理想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/308f877e1c499333270f4e0849163c9ee17d4d33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82618039bb18a524789935bec7c5482920b2e3db.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "内心独白是展现人物内心世界最直接的方法。",
       "options": [],
       "answer": "对",
-      "explanation": "直接写出人物心里在想什么，可以直观地展示其思想变迁。"
+      "explanation": "直接写出人物心里在想什么，可以直观地展示其思想变迁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14ec4e6199abb44b51d23b2a65bd5736e002f48d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e00d405a2332925690da39d7fe2d0f472cf0fc6a.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "《穷人》一文中，海上风暴的描写是为了说明渔民航海技术的落后。",
       "options": [],
       "answer": "错",
-      "explanation": "是为了渲染恶劣的生活环境，从而反衬穷人品质的珍贵。"
+      "explanation": "是为了渲染恶劣的生活环境，从而反衬穷人品质的珍贵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96a69fb3f2f8c06ec70247a89d12809c43c416f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eec1acddfbac5eb58a9e39886e4793eb1f1ca9a6.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "小说是通过人物、情节和环境来反映社会生活的。",
       "options": [],
       "answer": "对",
-      "explanation": "这是小说的基本定义，通过这三要素共同构筑文学空间。"
+      "explanation": "这是小说的基本定义，通过这三要素共同构筑文学空间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1adba5468a299e1a741231855ea6a7d6178dd9a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c5f2cac5eadc6aeb12b855a35c43ccb9a91a2c5.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "直接描写老汉"
       ],
       "answer": "环境描写及短语突显紧张感",
-      "explanation": "断促的短句加重了洪水来袭的急迫感。"
+      "explanation": "断促的短句加重了洪水来袭的急迫感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/429df1d59470f31fdc3354f53b9a71970e9cde86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2349b821efdd031bb741318598f69d1181eecc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de4dbb89c08586a1c06af95df72d2a30b33922f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a4c55c6a28d25b86ec4343e5db5b329e972457c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7ffafd5a3b3673514301fe93187e9b47c4125830.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0619ee85e29b2b7b8b663da2dcce757c48fd34f.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "在胡乱猜测，没有主见"
       ],
       "answer": "宁愿受罚也要救助他人的决心",
-      "explanation": "‘揍我一顿也好’体现了她愿意牺牲自己，是内心淳朴善良的极致体现。"
+      "explanation": "‘揍我一顿也好’体现了她愿意牺牲自己，是内心淳朴善良的极致体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/444b1b47869f2ea4bbef2ce1afc288ad0f6ab77f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e46d93a8e6a7f44998f4d18b3443732f2ec61a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56fdb578dbecfa30e0f60dce856b581f30ac553f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fbaf4ab6b0bd7d40ceef3ad87ee52c665a0bc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ed8e8068f5e11bd737271870da6b49a5e93b448.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5063274915bbcc4c7fb75a955ed061267cc3980.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "惊恐"
       ],
       "answer": "山洪",
-      "explanation": "比喻词‘像’之前的是被比喻的事物，即本体。"
+      "explanation": "比喻词‘像’之前的是被比喻的事物，即本体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dffc6e0e551369c1e8cbb1be91091f5e9eb7e592.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f930241a2871d6494c686f160c73d1feac26fb45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15f3ccae91a638b4bcf13aa19efd13cd00cbbffb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e7266d7e5be95c916442c3f6c40a9eba86a5657.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eda9121fb9ddc4a1fa46403e4cd193e4c5f912f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/106d8481811176f71b4456969ad696385ec1071d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "作者的生平介绍"
       ],
       "answer": "冲突最激烈的时刻",
-      "explanation": "高潮是情节发展的必然结果，也是最引人入胜的部分。"
+      "explanation": "高潮是情节发展的必然结果，也是最引人入胜的部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0c9531c350d4236070aa964178b322ca03b2a28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/568b3a5c8d1b06d57e7d3a535a905247a49c2eb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a90e0fd2121b4fdba56103e34c77474081d8854.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69dc4515e367f6ac401f0b795036315971f5e511.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f34ebbf1fcfb3d007e8fb00494ebfe7eb7b74ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3b93ba3a6764c390e1cc667fc50b679a8408c8b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "以上三种都有可能，视情节而定"
       ],
       "answer": "以上三种都有可能，视情节而定",
-      "explanation": "环境描写的作用需要结合具体文本分析。"
+      "explanation": "环境描写的作用需要结合具体文本分析。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6c54f9ce668e4276a9e5ca99a530fc50da83db1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e455c23c372bddc64c1813ddd1212afb1a020ca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1540ccfa0fa10709ddbe07a657e9da65216f4f5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1be1c99a2c4e56b9db5b46fc9a85a897a858eeea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2566d85632a87f1d7700efedd7ef8366010467cf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da5fdc325dc664f0237fca211df22543f23def8f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "她忘记了要说话"
       ],
       "answer": "她内心的善良战胜了对困苦的恐惧",
-      "explanation": "虽然压力大，但行为体现了内在高尚。"
+      "explanation": "虽然压力大，但行为体现了内在高尚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7d33ce756330e6a9d170a504e0e2b1390b16d78.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89e2bef8bde2ec7749ab8fbf125b829e02a4cf4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c6cbc3690da1c613741fe048d309b03d54ce96a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cc35243be2592c933adff944ff7dd17261dfead.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d8a654a14d6049befe9d0b418c7333c47573d90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7360d169b018ad072f36971bd7e64b333d87254.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "‘咆哮’这个词通常用来描写（___）发出的巨大声响。",
       "options": [],
       "answer": "江河",
-      "explanation": "原意指野兽吼叫，小说中多指江河洪水。"
+      "explanation": "原意指野兽吼叫，小说中多指江河洪水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b52b94939ff0c30f0ed960516843a75a65b982e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac1f89dfbeacaf430861090cafb8f8e8219349ef.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "《桥》中那个最后被老汉揪出来的小伙子，其实是老汉的（___）。",
       "options": [],
       "answer": "儿子",
-      "explanation": "这是文章结尾揭示的关键真相。"
+      "explanation": "这是文章结尾揭示的关键真相。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbbcc144a4fdf04df21df9a43e95a92e61184c31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5886daa3675edbccb6396c77566bd26338b57dc.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "不假思索"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "惊魂甫定对应害怕，迷迷糊糊对应神志不清等。"
+      "explanation": "惊魂甫定对应害怕，迷迷糊糊对应神志不清等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3a15e5d0776674dc5e8081866b3dfbc317a4a77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51483683e034ffa8fddab641922bbd7934944335.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a81e6045c92bbae2de5e1d8e14e9c60bf8764e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e8c365647f3a6e3e7e9e7c89a0690ffaacd781.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc58608fb70bc1a34be852823c8ae765d51ff6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/273e2d3940ec4677c01a0135795a4d1da62ee042.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bdaf3edce720e050c82063605d409ae9f26ce32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c453c7aec3adc4bf0321e05beca8c14d0acaf48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9766e56117b5b05008fbcbab302838225f4fe5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64f6986a86726a15b74f5df503a59bc805019bff.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "侧面描写"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "脸上淌水是外貌，喊道是语言，心想是心理，众人乱是侧面描写。"
+      "explanation": "脸上淌水是外貌，喊道是语言，心想是心理，众人乱是侧面描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c80462906c4f81e9663443243f042003851820b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/112ee3cb5c9ab22e6a3717fdd3cbebdb0f056dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6b611e1a99cbc5b8eeaa98b7777fa20dcf3acef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee0ba46217d5a73f3575dd2b888f64551a1cacc3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d9855947dd6a3faa854c90083c0421e9c8e492a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7fcc659c1963839dba0a4b902f6535eff51e808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8d9683681dad026da33c97e6cff8617132bd972.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3d568abdf402a96861ccf53684618a13dbbba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c657f80b22062a3e86ef506921339dfd649e1236.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20a11a4781671deb5221c22be6ed4ed97496130a.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "心灵"
       ],
       "answer": "赞扬了,桑娜和渔夫,美好的,善良的,心灵",
-      "explanation": "这是本课的中心思想句。"
+      "explanation": "这是本课的中心思想句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/8423f30179c4bed09a17e16991bbe6e5cb655634.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/8196172f3b62a9c4b32c804b2f75024ddd9ebef3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b441d4fbf3321bf34974ff62d7324fa1a05e40f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cb66b29d022ed3b58eaf6440336b48b752c784a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa9c60c9f89e1d247d2600ed3137be3a4203f07d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48068e7597a6e318c28708bce03d65fc563276dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6ec14996b3be4b8af9d32cfcff0e40bc62638ac.mp3"
+      }
     }
   ],
   "knowledge": null

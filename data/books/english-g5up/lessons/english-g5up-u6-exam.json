@@ -16,7 +16,11 @@
       "question": "'river' 的中文意思是 '河流'。",
       "options": [],
       "answer": "对",
-      "explanation": "river意为河流。"
+      "explanation": "river意为河流。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49e61cee4fa50c5af3d5a3e10934079db431937e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0f5ef2bfb7ae4c4307934d7fe9feaa30532c86d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在句子 'There are some lakes.' 的一般疑问句中，some要变成any。",
       "options": [],
       "answer": "对",
-      "explanation": "肯定句变疑问句时，some通常变any。"
+      "explanation": "肯定句变疑问句时，some通常变any。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7626cc6e097ec5f2bd548a72b3618f21950e49c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7aa77d57f8992c5def2016aac94a758cadfe3bd7.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "Are there any hills? 问的是这里有没有一些小山。",
       "options": [],
       "answer": "对",
-      "explanation": "Are there any...用于询问复数主语的存在性。"
+      "explanation": "Are there any...用于询问复数主语的存在性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bff69a64b9994d461569953fdc762a6813fcdc3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfa85136e8af8c5aa3c6da04b5a18fb6f99c5d4f.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'ground' 中字母组合 'ou' 的发音和 'mouth' 是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "都发/aʊ/。"
+      "explanation": "都发/aʊ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a33c46f98ae743dec094ba2b3ab440679bca605f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5160dd63ec7dd9f5a2dab7b9c9e5f89fd68f569.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "No, they aren't."
       ],
       "answer": "Yes, there are.",
-      "explanation": "Are there的答语中主语必须是there。"
+      "explanation": "Are there的答语中主语必须是there。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39ea8980cd4eb804fdfbbd932c7c397893509c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78463fe881d35cfd0a30cf62378725807db84ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9866db65cf69743cd9c3e75cb1b1cad8f114466.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3cdfac52de9db5a48ae50a6623759100a7d5d339.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66b35682dae5fb0e2f43192f3d532d007231697b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b2f9c1de715f8dc6673ade91e00cb768e244aa4.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "an"
       ],
       "answer": "any",
-      "explanation": "water是不可数名词，一般疑问句常用any。"
+      "explanation": "water是不可数名词，一般疑问句常用any。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b96aeb0ff65a696f4329bcece19282a1fa6e1ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5fe0200d1c7a5139bd18fd22268c4ca8bf45e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c9135c847a87220012100906116c57513848b78.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "mountain"
       ],
       "answer": "grass",
-      "explanation": "草地（grass）像绿毯子。"
+      "explanation": "草地（grass）像绿毯子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2aceb50e6d8ae3ea724a6f07b35bcfcffdae6439.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbc29b76c59b382aca12201c44929002ef1778ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c45b69bb63a924e785d3c14c0ba893c30846d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fbe5a2e401d3368934c290dfdb6e6ee5baf5d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65c013acdef39070f7b15eb57e9c1c29a3e5881b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "soup"
       ],
       "answer": "soup",
-      "explanation": "soup中ou发/uː/，其他发/aʊ/。"
+      "explanation": "soup中ou发/uː/，其他发/aʊ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f85fbd96a3d79b9c45bc6376ce3835c1d81feb2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e05e6832caffca519722b608570b8ff4935b94d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/000e793db70c59309fa6f0f36d0046d110f3be3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ad1edafafa81c496f7c2f3af2e1d5129b146ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/4031a934505c28e96404c52d451e7567d14568dd.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "hill"
       ],
       "answer": "lake",
-      "explanation": "划船（boating）需要在水域里，lake符合。"
+      "explanation": "划船（boating）需要在水域里，lake符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab60dff2304fc8e6ef284f4046e093fc4ccb46fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c45b69bb63a924e785d3c14c0ba893c30846d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8114546a306ba121b286d2755b51e26e7bdb407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce9c4dfa820636eac51590306c07609286d6609.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/235251c6c762849503feb6cdfddbb1a6bd31579a.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "Be"
       ],
       "answer": "Are",
-      "explanation": "trees是复数名词，用Are there。"
+      "explanation": "trees是复数名词，用Are there。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4510dc9d2af6dd015f96fd19c1794c781a1803db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a47109ee9df5886f4fc3501e447706767399b93d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11d1bf272c85166064dc293aee08e01772bbe27b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b78bfdb0757162ae87e569c7c902dc93ca54ad9c.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "There is a r___ in the park. The water is clean.",
       "options": [],
       "answer": "river",
-      "explanation": "根据首字母和水推断出是河流。"
+      "explanation": "根据首字母和水推断出是河流。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e046dd855b3beb549fafc90645143696e71cf1eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47440d7a7c02b086b8ad606796d1ce00dcf70d26.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "___ there a bird in the tree?",
       "options": [],
       "answer": "is",
-      "explanation": "单数一般疑问句。"
+      "explanation": "单数一般疑问句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8d3d0beb9b439c7a4aceb5a2639bcc6202e9d84.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f322f8aa01a61ddf612c96e8ad6551b0236d0e02.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "The village is small. There are no t___ buildings.",
       "options": [],
       "answer": "tall",
-      "explanation": "村庄通常没有高（tall）楼。"
+      "explanation": "村庄通常没有高（tall）楼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79671913e631f845f87626d16efcfcbfec93c6c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9cb6abe1130bfdf08918ad2488a3e007fa17808e.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "森林"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "A村庄，B森林，C小路，D建筑物。"
+      "explanation": "A村庄，B森林，C小路，D建筑物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a75d37123bdd5f6b23d82bf9a83ab91a5a12698d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3bdc3ec682bfbb471422925f9a71fc67e6c0ca3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bcd9af79f2d32e856a4ee6b99aae59c185af4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3150ecd5e0294534a81ae047ddac559de481d774.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8114546a306ba121b286d2755b51e26e7bdb407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4d0c65415ab51bb59372cb51efd95df6d9be41d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5508a1c47bd2704dd028f0ed2acff3fb0a9d12c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0ded8c870d734ac92c41bd76bfafae6eedec559e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70f4c18c327660f1edaa85614f5441eb9ddc332e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/9841a6cde52765b3560cc509e6541578f02b0e0f.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "?"
       ],
       "answer": "Is,there,a,forest,?",
-      "explanation": "单数一般疑问句结构。"
+      "explanation": "单数一般疑问句结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b66adc375acbf7d3ca694a08f620a411d96bfe96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/490528f36debf7c15cea5e9a9d1ea024cf6b2921.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bcd9af79f2d32e856a4ee6b99aae59c185af4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee14fe0123928b9e5be101c9f3931d3760697863.mp3"
+      }
     }
   ],
   "knowledge": null

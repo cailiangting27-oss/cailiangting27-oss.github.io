@@ -21,7 +21,17 @@
         "clean my room"
       ],
       "answer": "washed my clothes",
-      "explanation": "由Did提问的问题，回答需使用动词过去式。"
+      "explanation": "由Did提问的问题，回答需使用动词过去式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/411403a12ec67ac1520cdd818c19f0309fcf33c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/dfbcfb1be04803250e8e6a30d4c54117f6800fd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e8348311c0dc140680d59bcd4424b7659d0bea5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b95f6922ceb9a6795e192ebd594521c734e545.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53c6a719d518c11ea62e0930f202d581ac8a1bcb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/902db845bc28c9500936365f81f039340556ead6.mp3"
+      }
     }
   ],
   "knowledge": null

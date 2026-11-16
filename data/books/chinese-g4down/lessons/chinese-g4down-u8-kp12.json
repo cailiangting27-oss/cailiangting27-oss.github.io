@@ -21,7 +21,11 @@
         "；"
       ],
       "answer": "，",
-      "explanation": "说话人在中间，引号内是完整话语，用逗号连接。"
+      "explanation": "说话人在中间，引号内是完整话语，用逗号连接。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf6be6593661dcec72274bc817b330c850365d6c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e69c36a6f03269e86d809f48627a1de6e67188e0.mp3"
+      }
     }
   ],
   "knowledge": null

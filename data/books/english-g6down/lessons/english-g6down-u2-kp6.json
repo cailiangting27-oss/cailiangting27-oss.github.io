@@ -16,7 +16,11 @@
       "question": "动词 'read' 的过去式拼写依然是 'read'。",
       "options": [],
       "answer": "对",
-      "explanation": "read的过去式是不规则变化，拼写保持原样但读音改变。"
+      "explanation": "read的过去式是不规则变化，拼写保持原样但读音改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56c8c9cd8ce428065e80d2e985d85b974ef36f55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b0360b5e5a09a969e606b29595587ed15edb975.mp3"
+      }
     }
   ],
   "knowledge": null

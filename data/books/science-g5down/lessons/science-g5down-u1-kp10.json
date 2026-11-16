@@ -16,7 +16,11 @@
       "question": "蚯蚓喜欢生活在干燥、明亮的环境中。",
       "options": [],
       "answer": "错",
-      "explanation": "实验证明蚯蚓喜欢阴暗、潮湿的环境。"
+      "explanation": "实验证明蚯蚓喜欢阴暗、潮湿的环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/4223563cbc600f36dba29c9a96e73b95a4f6c628.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4c44d86eb9a6061527fe7bb378f7a037f8875ea.mp3"
+      }
     }
   ],
   "knowledge": null

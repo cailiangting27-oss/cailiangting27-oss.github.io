@@ -16,7 +16,11 @@
       "question": "一个小数的小数点向左移动两位，这个数就扩大到原数的 100 倍。",
       "options": [],
       "answer": "错",
-      "explanation": "小数点向左移动两位，原数缩小到原数的 $\\frac{1}{100}$；向右移动两位才是扩大到原数的 100 倍。"
+      "explanation": "小数点向左移动两位，原数缩小到原数的 $\\frac{1}{100}$；向右移动两位才是扩大到原数的 100 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c9a48f53db27aa29b0b96a24aaa77f63837a2a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69592f6d966cec715b0ca65cdc55d71fba9e1790.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "700"
       ],
       "answer": "70",
-      "explanation": "$0.07 \\times 1000$，小数点向右移动三位。移动两位是 7，再补一个 0 是 70。"
+      "explanation": "$0.07 \\times 1000$，小数点向右移动三位。移动两位是 7，再补一个 0 是 70。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3113983b45fef9762c40a5caf9afcc82ab81e2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/7177575ab52680f3b082634dbeb8d2896016e7e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e4bbea3af2e4861ad5a445aaec573e02f9aca2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/ddf10a88ef386049edcb06620478f5a7a966fbe7.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "0.048"
       ],
       "answer": "4.8",
-      "explanation": "逆向思维：0.48 先向右移三位变成 480，再向左移两位（相当于原路返回）变成 4.8。验算：$4.8 \\times 100 \\div 1000 = 480 \\div 100 = 0.48$。"
+      "explanation": "逆向思维：0.48 先向右移三位变成 480，再向左移两位（相当于原路返回）变成 4.8。验算：$4.8 \\times 100 \\div 1000 = 480 \\div 100 = 0.48$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be8b9d9501a578e6c88cd66627d1ae712d48ee5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2607f6b788649e033ce30e1a047bf49c1f5fe91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc0d5950400d4df7183f1f23d44ed27def3095df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/deee9cc3e8de71de7a0f5afa8dac2b944a2baf3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91ab56b73e63e87ce1270b5282b7ba0a005d26ae.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "把 45 缩小到原来的千分之一后，再扩大 100 倍，结果是 ___。（注：请输入计算过程最终结果的 10 倍整数值，此题特殊要求填 45 对应的最终计算结果的十分位数字，设逻辑为 4.5 则填 45，由于系统只收整数，请计算：0.45 乘以 100 是多少？）",
       "options": [],
       "answer": "45",
-      "explanation": "（注：为了符合填空题整数要求，改为计算 $0.45 \\times 100$）$45 \\div 1000 = 0.045$。$0.045 \\times 1000 = 45$。此处模拟 45 缩后再扩回 100 倍的结果乘以 10，正确逻辑应为：直接问 0.45 的 100 倍。$0.45 \\times 100 = 45$。验算：$45 \\div 100 = 0.45$ ✓。"
+      "explanation": "（注：为了符合填空题整数要求，改为计算 $0.45 \\times 100$）$45 \\div 1000 = 0.045$。$0.045 \\times 1000 = 45$。此处模拟 45 缩后再扩回 100 倍的结果乘以 10，正确逻辑应为：直接问 0.45 的 100 倍。$0.45 \\times 100 = 45$。验算：$45 \\div 100 = 0.45$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0bcff5e5b07d05d96235017365acae6672404be.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46af97c8493e840bc6b69fe3800ee7f3d9713312.mp3"
+      }
     },
     {
       "id": 22,
@@ -70,7 +98,11 @@
       "question": "$7 \\times 100 = ?$",
       "options": [],
       "answer": "700",
-      "explanation": "$7 \\times 100 = 700$。验算：$700 \\div 100 = 7$ ✓。"
+      "explanation": "$7 \\times 100 = 700$。验算：$700 \\div 100 = 7$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/433a911a8948ef3882f482ff78b6115dd4ed76d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce72a8c94d010073d688595213c750f0e8fe1738.mp3"
+      }
     },
     {
       "id": 23,
@@ -81,7 +113,11 @@
       "question": "$5000 \\div 1000 = ?$",
       "options": [],
       "answer": "5",
-      "explanation": "$5000 \\div 1000 = 5$。验算：$5 \\times 1000 = 5000$ ✓。"
+      "explanation": "$5000 \\div 1000 = 5$。验算：$5 \\times 1000 = 5000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbb56eacfa22623e958e6d9233f9fccd7d933222.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2ce33ebc407c760a913d56753b3e2b1c28479e3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -92,6 +128,16 @@
       "位数不够移时不知道补 0 占位",
       "搞混左移和右移对应的扩大/缩小方向"
     ],
-    "tips": "口诀：左小右大。像跳跳蛙一样数小数点划过的数字个数。"
+    "tips": "口诀：左小右大。像跳跳蛙一样数小数点划过的数字个数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/84/840855a01dd3f0ced88a9dc71efa4e531799444e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c5/c51e0ddc659221746fe42684ba830aae96dce5a3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a6/a6a1783e09b58f570b0af115defc2c53468c1e19.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/58/58a56d50fbc01157c4168334d7642c290f487e52.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b2/b2f4f9615bea786524d5a3832397e401f59be159.mp3",
+        "https://api.clthuanxie.cn/cc-audio/49/49f62fbc936fe5f83aa5c70bab99db99886e4134.mp3"
+      ]
+    }
   }
 }

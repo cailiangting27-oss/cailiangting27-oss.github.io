@@ -16,7 +16,11 @@
       "question": "“天”对“地”，“上”对“下”，这是一组对应的词语。",
       "options": [],
       "answer": "对",
-      "explanation": "天和地，上和下是意思相对的词语对仗。"
+      "explanation": "天和地，上和下是意思相对的词语对仗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5028bff6fa1d45bd6bdbe2a89d6843b22e807679.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c18e056d3f605e0f24ddc7c271dad3a415cfbae.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "花"
       ],
       "answer": "雨",
-      "explanation": "课文原文是：云对雨，雪对风。"
+      "explanation": "课文原文是：云对雨，雪对风。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0c5311ff814c3c5dbc419527fe39f1746a9c417.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad78952244d79b033701c81b7589bab88d0e2646.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "鱼"
       ],
       "answer": "鸟",
-      "explanation": "课文原文是：花对树，鸟对虫。"
+      "explanation": "课文原文是：花对树，鸟对虫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be670b06329f32bcc819b9ebafa4979c3db90ba1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e248e5603d3e908214e506d4c5fa3700b2ef7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9acc91a1f9a59bac594e3299200ed76f328a7204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01e3994b131c3a70c31e4aa3511e6f43a5999a8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92468fdf7c343269f7f3e4bd81e5d22a0e19980f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/68d24bbc57279d95ca4b6f4bea96276f4eab3355.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "手(sǒu)"
       ],
       "answer": "山(shān)",
-      "explanation": "“水”是shuǐ，“足”是zú，“手”是shǒu。"
+      "explanation": "“水”是shuǐ，“足”是zú，“手”是shǒu。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20dbfeebe34243cb2725cf6eb33dbceeafcfecdf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a26cc9d9412b0a83c924d871888d5161bfb06752.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1c46faba04de227a2bcabb56d0282266819af5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a1cb140925a3a23fd387be4960afcf33b06f2c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bcfc59923d6de3fd782d1ccf41138d0aeb18a4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d5db96987873ddc8e7be000b80af073cacce70b.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "天对地，上对（  ）。",
       "options": [],
       "answer": "下",
-      "explanation": "考查反义词对应。"
+      "explanation": "考查反义词对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a8cb41b798d2908e8d551a4b69b8b2532137865.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba0c8b39b96b4223fad9f86dd4235850a0623544.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "水秀"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "考查对韵歌中的固定搭配。"
+      "explanation": "考查对韵歌中的固定搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35fe9fd759ef2aea986b043b123509041207467b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2ea617b5cf83804ff7757e89269f700dce9ba1fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b59df8c44a275e9a91bb76203330bf1e311fc56e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4719e956cea57ed9dfac153f9a7f854e9c37289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8294db3a2006ae4a321f7f24d76942cf922c6c2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3eabb6258cb5a3e5791891ade3c39313ff17c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e5a1d221e2c5841605012e1a29a849b9761dd19.mp3"
+      }
     },
     {
       "id": 22,
@@ -110,7 +162,16 @@
         "古今传"
       ],
       "answer": "天地分,上下,古今传",
-      "explanation": "考查《金木水火土》课文句式。"
+      "explanation": "考查《金木水火土》课文句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a030028b6db6b7c0f77e12c292c0b1112b7ea241.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca88cf1489bc3e322519abb7338fb47905840ec4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad07983edc70678fc13916d5819637df12e6dc07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc2ba18e46c6a9c3e8e5ea57d96400feb3aec07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c4584a129a213e83cae1d7a4147222fbdb805e7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -121,6 +182,16 @@
       "把“地”写成“池”或其他形近字",
       "分不清哪些词可以直接对应（如用“天”对“水”）"
     ],
-    "tips": "可以采用师生对读、同桌拍手读的方式，在强烈的节奏中记忆韵文内容。"
+    "tips": "可以采用师生对读、同桌拍手读的方式，在强烈的节奏中记忆韵文内容。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/82/82e3fffb3d3db869a0d47e54f3b1381d6219c015.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4d/4d0f5936d0315bde656fca3a261543dee02d4240.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/aa/aa979e3c31062536b93c9186249454c2c1c96407.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/12/12c4a7c1d02381583c5cb557f0a039696296f95f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c3c526eef88422061d05c7e789fea549cf1e791d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e7/e757f0127dd36f8648b05131e3d03e7eb8238884.mp3"
+      ]
+    }
   }
 }

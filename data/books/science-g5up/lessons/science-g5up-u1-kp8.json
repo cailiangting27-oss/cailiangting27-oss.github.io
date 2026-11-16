@@ -16,7 +16,11 @@
       "question": "光从空气进入水中时，传播方向一定会发生改变。",
       "options": [],
       "answer": "错",
-      "explanation": "如果光线垂直射入水面，传播方向不发生改变。"
+      "explanation": "如果光线垂直射入水面，传播方向不发生改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19b423d6bfe7a572cd95e82e8e79862c374b070f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0d62df9f62a92136ea8ba6f11708c6b8a9302b5.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "向上折断"
       ],
       "answer": "向上折断",
-      "explanation": "这是光的折射现象，当光线从水斜射入空气时发生偏折，使水位看起来变浅，铅笔向上弯折。"
+      "explanation": "这是光的折射现象，当光线从水斜射入空气时发生偏折，使水位看起来变浅，铅笔向上弯折。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebbf7c9a4aeddb57c9359f5ffc0b9bb3185b7e36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/cec31f18b6f6727ada5d042bde8ac7a929b1e85e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/deb9982a03b7bf1ba17e599324ebac4a3f8f9bf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e893cf0c9bf5b89d86da089c24b1f3e631fa50c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d238f5bf34f2cd8a68305da5dc45ca53fadc0c9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bba8ac7dbeaa7780bcec95fb3f3102b42f5587a8.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "光线反射的位置"
       ],
       "answer": "鱼的下方",
-      "explanation": "由于折射，看到的鱼比实际位置浅，所以要向下方叉。"
+      "explanation": "由于折射，看到的鱼比实际位置浅，所以要向下方叉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/091135773be508bfd1760cca8c42c06045f72813.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2c932f5e391a785fb8d65a87f91ad2bc2071629.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d72e7c49b57c25b25b983f6870efc789a73365d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8794653b09f4dd87e4daf0fd56efbe4a1c2b262.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb4d1e649bd0034875f53b6eba62e07da969036e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f8eaf03056afa3515fe62be9b68db0db469c39d.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "光从空气斜射入水中，改变传播方向的现象叫做光的（___）。",
       "options": [],
       "answer": "折射",
-      "explanation": "折射的定义是光从一种介质进入另一种介质时方向发生偏转。"
+      "explanation": "折射的定义是光从一种介质进入另一种介质时方向发生偏转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2eb4246bc47e57a17f68127ac60ada33dc595af8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c6ed9205f9ca72ae9f44191d56df8009a08407c.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "当你想询问派对在什么时候，可以说 'When is the party?'",
       "options": [],
       "answer": "对",
-      "explanation": "When is...? 用来询问时间。"
+      "explanation": "When is...? 用来询问时间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/9642161f5c750853d51191cf4db5cf2317f8bf53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f12e15eb8e508f8c2e45e71c014b3bc90dfb6f0.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "Its"
       ],
       "answer": "It's",
-      "explanation": "It's是It is的缩写，常用于回答时间。"
+      "explanation": "It's是It is的缩写，常用于回答时间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1c986c84a238b69851567c03d86adb859870e23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/575cba7c3d2a4f05af0b23b6785df1f3c6b44a28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e870f60fa76d587536fe1503ed916c0cee8bacb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a06c46ed7c6107f842b9df4d649ecbb349607353.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00cb96db677571a95db2b6be90947678f5692057.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "China"
       ],
       "answer": "September",
-      "explanation": "回答时间时应选择表示月份的单词。"
+      "explanation": "回答时间时应选择表示月份的单词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a70db52e3fb93197509e378a324294a37f6ba2c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad8167df4b75bd9f2e165ea9f6053195cf7652b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c542e79c9b4257e640ccf72974d61fd590a5c26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2eaf2aa1512d6596e0a5bae633537c6b8e779a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8ffabdbc6f4fb79e34467f687faaf5184d9519a.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "No, they aren't"
       ],
       "answer": "No, it isn't",
-      "explanation": "根据后一句的纠正，应作否定回答。"
+      "explanation": "根据后一句的纠正，应作否定回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10c8c466cf9d267695dc83d0f62e16e5ed46e426.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45ddbbb6794ec235a7ee63d9141e09d3e24609fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4097b3e18d75f00e968ff55cad5628e0000a1488.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39c922cf2aa4d86765a2ba6a405ec27af222fac5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/568d6a8566328a74ff2beb7e6d536090b9719133.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88d39a2b5a81fb82bc0e0c182403247d6f50491c.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "— ________ is the school trip? — It's in May.",
       "options": [],
       "answer": "when",
-      "explanation": "询问时间用疑问词when。"
+      "explanation": "询问时间用疑问词when。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a732c9a0a27bf5fd3ffb97608f62c5f6387fe8e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17e0d3477ed9f89bbaef2334e1c0273498f9bed3.mp3"
+      }
     },
     {
       "id": 22,
@@ -92,7 +130,18 @@
         "?"
       ],
       "answer": "When,is,the,party,?",
-      "explanation": "特殊疑问句语序：疑问词+be动词+名词。"
+      "explanation": "特殊疑问句语序：疑问词+be动词+名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cab846c8fb1dd1e6581eb1e6637e24abd8e6249b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84beb18831cfaa4ea409293c56cd049686703ea3.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f4e90eae9c3905d644d46996b56714a699edc0c.mp3"
+      }
     },
     {
       "id": 23,
@@ -109,7 +158,18 @@
         "."
       ],
       "answer": "It,is,in,May,.",
-      "explanation": "固定句式It is in + 月份。"
+      "explanation": "固定句式It is in + 月份。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6de63411de483851595e1e9b30b8ca123c3eb541.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c94f479833c5d401cffdfa7afe6c9c2d56448019.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef6cb4c1a4e5df7c2d88dfc8ad6719577f4f471e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "bud"
       ],
       "answer": "bed",
-      "explanation": "bed = 床。"
+      "explanation": "bed = 床。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d3c26ad2208ff6f11f32c258c7b46e2bc2d8ff3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1902e3d6fc4e78a0bcc50ba12b882769afbf4a8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a65df7094b2294c7866be8d6ab8575aa9bedacfc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac9b8061312ba6add42cda53c35f468928ed0512.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e541a7dc424c74cc0b4b6b2662f6128ad2eb8a50.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "lantern"
       ],
       "answer": "lamp",
-      "explanation": "lamp = 台灯。"
+      "explanation": "lamp = 台灯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6ae5cf0982293ace94eb6b91db7ec044a8f9ec2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc4edcce8a85405e660f240a208e8e03efd3298d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f15352ed02510172ac9650569092398b3a51f83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfccc06f14414bff5a59be7fc90abf4404b47fc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/571543865d85c8113b9baffbbb8680a892462cbe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e90133e6b30213ee4b668aa59af192941d03c1a1.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "room 的意思是「房间」。",
       "options": [],
       "answer": "对",
-      "explanation": "room = 房间。"
+      "explanation": "room = 房间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8aca14956d821a8abffe0c9aa169634975364585.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b503f6b1ab645ffaef9121bf981bf65f3769f1a6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "lamp 与 light 混淆。"
     ],
-    "tips": "lamp 指灯具本身。"
+    "tips": "lamp 指灯具本身。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fc/fc7f8a87fa16afb6df2de6350d128b845f5cfb61.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f1/f1a80ea386588aafd08b0567b2115823b71b1f25.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d4/d47e96af90148079267ff3be084177f2a179e25d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/84/84a0e27816a7588deaacddf6414f67b119286f93.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e4/e463d50c6eb2cf7c516c09cb555c0ba3a6838c52.mp3"
+      ]
+    }
   }
 }

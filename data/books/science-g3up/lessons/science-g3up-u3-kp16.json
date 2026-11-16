@@ -21,7 +21,17 @@
         "球形杯子"
       ],
       "answer": "直筒透明杯子",
-      "explanation": "雨量器要求上下粗细均匀以保证刻度均匀。"
+      "explanation": "雨量器要求上下粗细均匀以保证刻度均匀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/7504ca916fdcaa55d1e000f52feb0e45a6cfddc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3ed889ba021748a4ed6f05aa7bb5fe9aa4a874.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a12af4d958bfdf4b6584bd2851f62a4f00dea38b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b50f89957ecc000acdd1023544fc455559d45bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffbd3671b4130f4ea5657ac507bea54d8399cc8d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d9c9aa7b3064533695662a66252a3496c04b0c3.mp3"
+      }
     }
   ],
   "knowledge": null

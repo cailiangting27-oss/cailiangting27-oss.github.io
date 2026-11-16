@@ -21,7 +21,17 @@
         "aunt"
       ],
       "answer": "brother",
-      "explanation": "兄弟 brother。"
+      "explanation": "兄弟 brother。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79ee64c5cc88f30b690e6bd72dffea4e09293021.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5afc8df8baab874c14a0f776641edd16d00591f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28909cfb89b135ea1bd6846e24e24a7f3215f6bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43b9f95abbd3efa8c403655f8985012a473fc598.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "mouth"
       ],
       "answer": "nose",
-      "explanation": "鼻子 nose。"
+      "explanation": "鼻子 nose。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f36ddb5fced9922bc9a1f67284baf30fc0d732c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79df4b1718127a8c81390d4196d6cbfc976105f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddbc6188203df73f608191f3b0a3c1faf4e7eb00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87d17825792d2d34edfa5fe12b434fc8d626ced6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/beae4f50690afc8c89d54edbfebf32ff96b323a7.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "uncle 指叔叔/舅舅，aunt 指姑姑/阿姨。",
       "options": [],
       "answer": "对",
-      "explanation": "亲属称呼。"
+      "explanation": "亲属称呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6218322193f4ee2ad723b48462f93a24a6f8a9f7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fbbb6a48b75a2ad20506d3bcb91d23c8c4923cb.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "eye 的复数形式是 eyes。",
       "options": [],
       "answer": "对",
-      "explanation": "复数。"
+      "explanation": "复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f22d1139d23fa5b05f9fe0a0f5db824c8d12d4c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf8381b34cac0ac6804f98d5d27af051dac3bf06.mp3"
+      }
     }
   ],
   "knowledge": null

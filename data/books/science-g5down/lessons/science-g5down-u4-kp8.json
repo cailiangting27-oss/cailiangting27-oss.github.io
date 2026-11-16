@@ -16,7 +16,11 @@
       "question": "冬天窗户玻璃上的水珠通常出现在室内的一面。",
       "options": [],
       "answer": "对",
-      "explanation": "室内温暖的水蒸气遇到冰冷的玻璃表面凝结成小水珠。"
+      "explanation": "室内温暖的水蒸气遇到冰冷的玻璃表面凝结成小水珠。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc7fa5c06f16994c7f491f9637fecda830b88e59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4c973b623c676661b6963bb85ebd526d0310b5a.mp3"
+      }
     },
     {
       "id": 14,
@@ -32,7 +36,17 @@
         "冰直接变成的"
       ],
       "answer": "空气中的水蒸气遇冷凝结的",
-      "explanation": "空气中的水蒸气遇到较冷的杯壁释放热量变成液态水。"
+      "explanation": "空气中的水蒸气遇到较冷的杯壁释放热量变成液态水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d08d3271eab7dd069ba2c465f440dbb375b2283e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e925d83bc617f953a92b69074fa0ad2cebd45005.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59140ee6fb277bef2e1a845d09b61e143b26490f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65b0393249b9f434ebb19fccc2386ccbaf04d200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3e64f464fdabd48ca2fefa0d96cd586c01b677c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae6fd195eb4db3bc884267022d52220461c56ba7.mp3"
+      }
     },
     {
       "id": 21,
@@ -43,7 +57,11 @@
       "question": "空气中的水蒸气受冷变成液态的小水珠，这种现象叫作（）。",
       "options": [],
       "answer": "凝结",
-      "explanation": "凝结是气体遇冷放热转变为液体的物理现象。"
+      "explanation": "凝结是气体遇冷放热转变为液体的物理现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/625417b40f90a649cbda65eac9378db26714cfb3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a1c5dde84a39ce68213586d28d7c1f39081a2d1.mp3"
+      }
     }
   ],
   "knowledge": null

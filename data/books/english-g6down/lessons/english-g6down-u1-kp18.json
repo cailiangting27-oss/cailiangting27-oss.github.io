@@ -16,7 +16,11 @@
       "question": "My bag is 2kg. Your bag is 3kg. Your bag is ___ than mine.",
       "options": [],
       "answer": "heavier",
-      "explanation": "3kg比2kg重，heavy的比较级是heavier。"
+      "explanation": "3kg比2kg重，heavy的比较级是heavier。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2650f3e5a139413620ffdd51866f71caf49fbdc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7c4179adfd870d126d5f83b702de3a998c616e2.mp3"
+      }
     }
   ],
   "knowledge": null

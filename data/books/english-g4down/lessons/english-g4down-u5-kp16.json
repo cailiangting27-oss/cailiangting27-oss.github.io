@@ -21,7 +21,17 @@
         "she"
       ],
       "answer": "yours",
-      "explanation": "空格后没有名词，需用名词性物主代词yours。"
+      "explanation": "空格后没有名词，需用名词性物主代词yours。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41f772cc5e717476b8a04aa7d64bd294eab39c0c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/922cce49ed1675a8618c22f7c8e384717f0e52b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/caf230d42581d1398f97e4f743c1575f57498001.mp3"
+      }
     }
   ],
   "knowledge": null

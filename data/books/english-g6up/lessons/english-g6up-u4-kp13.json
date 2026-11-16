@@ -21,7 +21,17 @@
         "teaches"
       ],
       "answer": "teaches",
-      "explanation": "主语为 She，teach 以 ch 结尾，变三单加 es。"
+      "explanation": "主语为 She，teach 以 ch 结尾，变三单加 es。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de52267cd3499f7deba19aac75ce5dcca3c74af6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4732c8ddbbe2da47dd6aa44d70d50b5f1a6e39f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbe5bb364fb35f88df5606eb529a57b373547465.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/411b089d2971d317bb2b12373873c24fc40eef0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4d8137ec22b884817cd36c141be4494241be35a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dcaede61219da2952267e2428d7d6458b1bad8b5.mp3"
+      }
     }
   ],
   "knowledge": null

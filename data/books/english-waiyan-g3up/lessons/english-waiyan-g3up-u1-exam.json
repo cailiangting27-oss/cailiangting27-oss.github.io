@@ -21,7 +21,17 @@
         "hamburg"
       ],
       "answer": "hamburger",
-      "explanation": "hamburger = 汉堡包。"
+      "explanation": "hamburger = 汉堡包。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e52116867d506da25e5dc674172be1f9abb27d57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/0428d021a98d2f4bfa2c8822c6ff480128f9e06c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8e0f7e2981cd32701a35feb3a4ef4d3b1072f03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e34dac475c60f81d0d869b44a84b4b9f6cef9a04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4c05ffb935feda5e34fabc12699fc04618b2750.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d31d2d4947277356c9ca124fe7bb4b9a3010fdd.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "played"
       ],
       "answer": "are playing",
-      "explanation": "Look! 提示此刻正在发生。"
+      "explanation": "Look! 提示此刻正在发生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/876a967db35825d3571d49167b0e699a3571c591.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/51/516626bf8a5006ecce1803eeb6a747182000d4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0effba4bd994afbbb3560b3f1129467bb17e54f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1f3e1901b94f09628c86069914d935fae5c3925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fde019bc3b85a98e590e76b2545092b3a3de284.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "英国人吃饭常用刀叉。",
       "options": [],
       "answer": "对",
-      "explanation": "knife and fork。"
+      "explanation": "knife and fork。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4baf3e58116d8e88bba38b5f2878647699f9596e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/504dcf36f1a52f587e8ee85c46c718fe24a13cc2.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "I eating an apple."
       ],
       "answer": "I'm eating an apple.",
-      "explanation": "be + eating。"
+      "explanation": "be + eating。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cded69eaa784062dfcb7d002db9ff65b12c74063.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91f372917a5cd5c2378c36e8ae6ac236bd9aa39c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73b67fa65aa20c4f31ad973e81d8d300a51f2373.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d8d22ad4ce9fb38800ab7756a48cafd687102b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52ca0cbca44d145bbbb2dc311e7f29df9ec68419.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c9fee85fb6d0716facb8be4472c8541d19e14ca.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "无所谓"
       ],
       "answer": "平视",
-      "explanation": "为了减少误差，读数时视线必须与刻度指针齐平。"
+      "explanation": "为了减少误差，读数时视线必须与刻度指针齐平。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56fecf05a9882d699357f5f7b07493efa6fbd6a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c63fe714d72b80f8d8d681df93d75872b55e6bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3a4cee5eeef8dbcace19267d9c37bbd2b43344f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0ede0edc2af8945e738fa03c76ee01b49cc5f0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42d85aa424826d6f7dc8fc1650d55a532ec04e5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b373003d671ddb1eee08fc71e79cb3e0980634b8.mp3"
+      }
     }
   ],
   "knowledge": null

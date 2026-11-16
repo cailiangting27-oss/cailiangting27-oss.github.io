@@ -16,7 +16,11 @@
       "question": "把一个圆分成4份，每一份是它的 $1/4$。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是“平均分”才能表示为分数。"
+      "explanation": "必须是“平均分”才能表示为分数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0ba4378d6623bd5df4095ca4596e9d177645fd23.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a1cf4aa28ec96c12f774b4e458fcdd96cb95c1c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$1/5$ 小于 $1/2$。",
       "options": [],
       "answer": "对",
-      "explanation": "分子相同，分母大的分数由于平均分的份数多，每一份反而小。"
+      "explanation": "分子相同，分母大的分数由于平均分的份数多，每一份反而小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e6c92a6f24d3c66c12590381b4bb804c0c3bf8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8bc4ce2493babf3f8d1ad916b0a05be9750e1fb.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "8角是1元的 $8/10$。",
       "options": [],
       "answer": "对",
-      "explanation": "1元等于10角，8角是其中的8份，即 $8/10$。"
+      "explanation": "1元等于10角，8角是其中的8份，即 $8/10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/814d54d8da5d7340f34ce54af3ed9f2ee141ca41.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/209237ccacefc4852a3c5eabdab939f9e4542a0d.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个分数比较，分子大的分数一定大。",
       "options": [],
       "answer": "错",
-      "explanation": "只有在分母相同时，分子大的才大；如果分母不同，则无法直接确定。"
+      "explanation": "只有在分母相同时，分子大的才大；如果分母不同，则无法直接确定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff6980107be90d7234fe91125227127fd8aed6de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/335c41f2ba8c378960e5ee849a761ac01cdf91b9.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "10个"
       ],
       "answer": "5个",
-      "explanation": "$1 = 5/5$，所以有5个 $1/5$。"
+      "explanation": "$1 = 5/5$，所以有5个 $1/5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aebd31f259b8af4901ccbab8d79d6413d5d337f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/707c9c7844f115336dd0a2b8fbbbfd83a8509bd3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54132d1ac6cb4777bec6418ac0077f4d449251d5.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "1"
       ],
       "answer": "5/8",
-      "explanation": "分母不变，分子加和。"
+      "explanation": "分母不变，分子加和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71987b5473c1b437e1d45613fd9f486d8503f4e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ffd98f00bada82f2527d2fb0adee168cb9894c74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b14b5435c67a0024c006e26532e45468f6ca207.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f17caaa6e204d510c3bb6e1fbfe0076e6e5e1e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d47099d0120ca9098c5fa4cbc3433a8547b41803.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "15个"
       ],
       "answer": "12个",
-      "explanation": "$20 \\div 5 = 4$（个），$4 \\times 3 = 12$（个）。"
+      "explanation": "$20 \\div 5 = 4$（个），$4 \\times 3 = 12$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e5653ee0b15dde5e35f8f3cde9188b7aa87c97d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca4f1cb00585eced5755dbe2095525b20b4d6e45.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f99fc6416487de91d213e2dc608df72ba0a27c5.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "10/3"
       ],
       "answer": "3/10",
-      "explanation": "总份数10做分母，取的份数3做分子。"
+      "explanation": "总份数10做分母，取的份数3做分子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/0368b8e01b2fb22e1ce4727eedc57cf485344049.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/803ab79310ab4c905d897e5b8b61272124906f8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3a4e2e6e60769d708591f851295a8a31f20601.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3b0da4ed7e2a74edfca9edb78aa11088a43549f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9aa9a2e90626d345205a10b58b437d966f790f52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8c6b62d514e1e4b0195c01765098965ce6ed9d7.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "10页"
       ],
       "answer": "16页",
-      "explanation": "第一天看 $30 \\div 6=5$ 页，第二天看 $30 \\div 6 \\times 2=10$ 页。一共看了 $5+10=15$ 页。第三天从 $15+1=16$ 开始看。"
+      "explanation": "第一天看 $30 \\div 6=5$ 页，第二天看 $30 \\div 6 \\times 2=10$ 页。一共看了 $5+10=15$ 页。第三天从 $15+1=16$ 开始看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/842916e7fb2021e5e6b242d393004c5a5d24424f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6ee440f41de56ffa8210d4b5735df161d92c759c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/077fb1ffaa712a0bcc8739df0508d67ae431c458.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f12588ff5bdc7950bc444902a1aa26b87fee4050.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0479af457f3eec8bc4810fd87e4f3c40a9dccc16.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f20a5925a90a954be044b695aa4e530b6bd054b5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "2/9"
       ],
       "answer": "7/9",
-      "explanation": "同分母比较，分子 7 大于 5。"
+      "explanation": "同分母比较，分子 7 大于 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a948daa543ef5f9ba7a488de0bb83a4e571b321f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bcfc2e7860e106973678487b8f88eb175b752027.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fa6789c85c71004e6513e9bee98f367a656c72f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/412d4f08582f0e06e4c4eedb0df82efb20ffaeb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b79a45c4b0ac59d9c19a3e702e5f9784fb601b35.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e7d5f20b5351248a75521ebd0266ea0109d6850.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "12个"
       ],
       "answer": "3个",
-      "explanation": "红：$18 \\div 3=6$；蓝：$18 \\div 2=9$。黄：$18-6-9=3$。"
+      "explanation": "红：$18 \\div 3=6$；蓝：$18 \\div 2=9$。黄：$18-6-9=3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1a2758d196c2e73b52233c01aa15c07c0ee150e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3ba2f914eff92d3c24f8b0aaf191949cc2491ac1.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "无法表示"
       ],
       "answer": "1/10分米",
-      "explanation": "平均分为10份，单位是分米，故每份是 $1/10$ 分米。"
+      "explanation": "平均分为10份，单位是分米，故每份是 $1/10$ 分米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c12cd5f39523518cac72d81d6c23d832af9bd75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/786d4a3f2c442118a94b7f2f0a117aa5db841b3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3e8f63623ed2973cf72ada86e53679559b1dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e88b207672b0a3f69f722374000b747ae0d49539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5bfe357c5b917f38c0c73dea18c0a8ad0e7b9b5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94d92d4097a8f0d1a8f4aafd8293d5619e366d91.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "1分米是1米的 $1/10$，那么7分米是1米的几分之几？分子应该是 ___ 。",
       "options": [],
       "answer": "7",
-      "explanation": "1米=10分米，7分米占其中的7份，即 $7/10$。分子是7。"
+      "explanation": "1米=10分米，7分米占其中的7份，即 $7/10$。分子是7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df16ea483162ee93447b156c3614c7efba115c25.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/feaf559585e240eb2ab3f8612e136a11bd9def67.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "花园里有24盆花，其中 $2/3$ 是红花。红花有 ___ 盆。",
       "options": [],
       "answer": "16",
-      "explanation": "$24 \\div 3 = 8$， $8 \\times 2 = 16$。验算：$16 \\div 2 \\times 3 = 24$ ✓。"
+      "explanation": "$24 \\div 3 = 8$， $8 \\times 2 = 16$。验算：$16 \\div 2 \\times 3 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14b74f831f1adf422d2594240f4224769ae5cb3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea5d917225f613b420bd28209cd864a6653d7029.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$1/7 + 4/7$ 的分子是多少？",
       "options": [],
       "answer": "5",
-      "explanation": "$1/7 + 4/7 = 5/7$。分子是5。验算：$5-4=1$ ✓。"
+      "explanation": "$1/7 + 4/7 = 5/7$。分子是5。验算：$5-4=1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b84b03bb887bd53a85ffc0ff605d58fee60534e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c34c37c37a67b034a4948314ce31a7ae8deb015a.mp3"
+      }
     }
   ],
   "knowledge": null

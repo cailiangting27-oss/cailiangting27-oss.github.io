@@ -16,7 +16,11 @@
       "question": "单词 'sandwich' 的复数形式是 'sandwiches'。",
       "options": [],
       "answer": "对",
-      "explanation": "以ch结尾的名词复数需加es。"
+      "explanation": "以ch结尾的名词复数需加es。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/257848f3aa9a5305a14090dba92eb81a563916df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/587c32633d77a44e5e683df369cc0c8d70808df9.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "coke"
       ],
       "answer": "salad",
-      "explanation": "salad（沙拉）通常被认为是healthy（健康的）食物。"
+      "explanation": "salad（沙拉）通常被认为是healthy（健康的）食物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52ee78e79fd47a207c4e7f885bec0fd735eff694.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f41c041baa45ef88d6c6bae6710383123541754d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e27dfca878c564a01b46ba50b705b9a47e3e6d26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c16c8188e25f3f79e47f9a04e9cf0352272e0a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/441588c2d20ae952a04d3cdafcf1268e399bad85.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c24532710cd992b5cca869b7cbfb7fc7d4777bc4.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "电源"
       ],
       "answer": "导体",
-      "explanation": "能导电的物体被称为导体。"
+      "explanation": "能导电的物体被称为导体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a57666070334eac631cbd007a249a301dca9ea5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/cafae41f4094a4168e55810bc865e3768d99f7a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9025c7c6c396b515891500a36b0a2880d2d1aab5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1a0ce113a7e2deadfd8ff2400113ffe87f70fb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2d69e9008969f76ad49ec312530121bc150b131.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40bf928a652878731c88cad948049704c550c697.mp3"
+      }
     }
   ],
   "knowledge": null

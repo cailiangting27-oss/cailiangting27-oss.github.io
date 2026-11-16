@@ -16,7 +16,11 @@
       "question": "太阳一定从东方升起。",
       "options": [],
       "answer": "对",
-      "explanation": "根据自然规律，太阳从东方升起是必然事件，所以用“一定”描述是正确的。"
+      "explanation": "根据自然规律，太阳从东方升起是必然事件，所以用“一定”描述是正确的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a355328711596cf814627419a9c529fd97c5193.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89c51424765789b2fc57a26187f552797b1401fe.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "小明明天可能会生病。",
       "options": [],
       "answer": "对",
-      "explanation": "生病是不确定事件，可能发生也可能不发生，用“可能”描述正确。"
+      "explanation": "生病是不确定事件，可能发生也可能不发生，用“可能”描述正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc05e5864134612bf7f019cd7b63a81b26e46c51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb55e58b8ca96413f4de45f4b1c96b7cfd07c2e1.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "正方形的四个角不可能都是直角。",
       "options": [],
       "answer": "错",
-      "explanation": "根据定义，正方形的四个角一定是直角。所以“不可能”描述错误。"
+      "explanation": "根据定义，正方形的四个角一定是直角。所以“不可能”描述错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25c632fa401c218d6720ccefb5f486a8284ba5ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f68dd9c6f617d2bf24b3ac49e268b734febd55c.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "不知道"
       ],
       "answer": "一定",
-      "explanation": "袋子里只有一种颜色的球，结果是确定的，摸出的必然是红球。"
+      "explanation": "袋子里只有一种颜色的球，结果是确定的，摸出的必然是红球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59fffef3b21f2574c83b1cfc80618d747ebdb999.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfe711b501651223a1e1cc100b6d9b729f1a3793.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e9a0de3e20554445770451ea5bddd217fda1d44.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "必然"
       ],
       "answer": "可能",
-      "explanation": "抛硬币结果是随机的，可能正面也可能反面。"
+      "explanation": "抛硬币结果是随机的，可能正面也可能反面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc71f9f3e468c793cfbcd5458e98f59e354a7f50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05ff0f8f879d201b14f7826e6fdf5b5371c8c52d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fc76d7750d3dcc64d06b99b26d03918c346b012.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "猫会说话"
       ],
       "answer": "一周有7天",
-      "explanation": "常识判定：下雨是可能，长生不老和猫说话是不可能，一周7天是确定的。"
+      "explanation": "常识判定：下雨是可能，长生不老和猫说话是不可能，一周7天是确定的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b148034f94a2968f836d75783f8e0d9865845327.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fcbb9e2ff205c0d697c70c2fd3c18d4d315d49c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c4b303966da3ca441292d6a4c8a2f6bca9366e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de761eeaef23c78cd80f64b0bd1460041ca9710c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83bc7ca40691e61ba6d820390ac762dad037d49c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/064da2ff845b482e40ecb171a06dea7d15382824.mp3"
+      }
     },
     {
       "id": 13,
@@ -102,7 +144,17 @@
         "也许"
       ],
       "answer": "一定",
-      "explanation": "星期的顺序是固定的。验算：周一的下一天即为周二。"
+      "explanation": "星期的顺序是固定的。验算：周一的下一天即为周二。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d93621dd5777d3a34dfa9515ae1704b4de1208c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a2aee6322b00ff7de34acabcf82dfac9ff35d7a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48982570f263a1dc335c1e0e1435a6f93e5beef7.mp3"
+      }
     },
     {
       "id": 15,
@@ -118,7 +170,17 @@
         "无法确定"
       ],
       "answer": "一定",
-      "explanation": "物理常识，石子密度大于水，必然下沉。"
+      "explanation": "物理常识，石子密度大于水，必然下沉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/310d7182b6f8c78852a819ec2aded7e317902656.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3757d19fd82a1d41107eab5a513c3e5329f14272.mp3"
+      }
     },
     {
       "id": 18,
@@ -134,7 +196,17 @@
         "或许"
       ],
       "answer": "不可能",
-      "explanation": "样本空间全是黑，不可能出现白。"
+      "explanation": "样本空间全是黑，不可能出现白。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3465204227c6867e0cc8c26742d43359a8ffd87.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb7ba2604d895d7ae2de5e2ed0cb947205ed63e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b5172e7b794f7ef88283666b4016f5baf51b499.mp3"
+      }
     },
     {
       "id": 21,
@@ -145,7 +217,11 @@
       "question": "抛出一枚硬币，可能出现的情况共有 ___ 种（假定只有正面和反面）。",
       "options": [],
       "answer": "2",
-      "explanation": "硬币有正面和反面两面，所以有 2 种可能。验算：1（正）+ 1（反） = 2 ✓。"
+      "explanation": "硬币有正面和反面两面，所以有 2 种可能。验算：1（正）+ 1（反） = 2 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9050f55a4b01d10442a1e698834c68a0134fcd69.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2684e6e7e5a9a4c6d590e256ead8902fb3857738.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +232,11 @@
       "question": "$12 \times 5 = ?$",
       "options": [],
       "answer": "60",
-      "explanation": "$12 \times 5 = 60$。验算：$60 \times \frac{1}{5} = 12$ 或 $60 \times \frac{1}{12} = 5$ ✓。"
+      "explanation": "$12 \times 5 = 60$。验算：$60 \times \frac{1}{5} = 12$ 或 $60 \times \frac{1}{12} = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35cbbb06b0459aea9141b0c20fcd661db36f7627.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7b57f9c657fc7c23e3c85baf31f05ad73797512.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -167,6 +247,16 @@
       "混淆“不可能”与“可能性小”，如认为抽奖中一等奖是“不可能”的。",
       "将偶然发生的事件描述为“一定”或“不可能”。"
     ],
-    "tips": "结合生活常识判断。如果是规律、法则类通常是确定的；如果是抽奖、比赛、天气类通常是不确定的。"
+    "tips": "结合生活常识判断。如果是规律、法则类通常是确定的；如果是抽奖、比赛、天气类通常是不确定的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cb/cb125d741108d1fe0aeacd125d986391c48e988a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a1/a19831be8055151869b04406e7ea5b7d6ea8a75b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cb133cf22f5af02ca32f55bee94498872a5f3d52.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/52/52999d79e650ca06a5776d24f3b08f91fd614860.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2c/2c370a019478358cc0e8943ed0423a88c58c4b5d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/57/578f6ae3730e70036e348241c03b01e27977043e.mp3"
+      ]
+    }
   }
 }

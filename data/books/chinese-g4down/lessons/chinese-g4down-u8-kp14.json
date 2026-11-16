@@ -21,7 +21,17 @@
         "快乐应当与大家分享"
       ],
       "answer": "快乐应当与大家分享",
-      "explanation": "当巨人拆开围墙让孩子进来，花园才恢复了春天。"
+      "explanation": "当巨人拆开围墙让孩子进来，花园才恢复了春天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3cc76139febb405ce3688776f0e0e1e1090b6f65.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad77831bde7b3aa529b2528969e12b287fc7537b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b38f06249d054c2d11334236bd0a108a059bd1c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efcfbf5d1f2f61dcdccdfdae759de10e84d6798f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c16d7ae5ba361ed055171ab5ce5dc3aeb2eb95b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8106bab7c5116daf145990114d1b3d7c24030667.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在阅读材料中，故宫博物院的正门是神武门。",
       "options": [],
       "answer": "错",
-      "explanation": "故宫博物院的正门是午门，神武门是后门。"
+      "explanation": "故宫博物院的正门是午门，神武门是后门。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/eddce0f91f05a0c33ca9b28e68f945af99808555.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3ac89dd1c15d3c5c5df15402e17995275f83fd04.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "供游人休息的地方"
       ],
       "answer": "举行重大典礼的地方",
-      "explanation": "太和殿是用来举行重要庆典的地方，体现了其核心地位。"
+      "explanation": "太和殿是用来举行重要庆典的地方，体现了其核心地位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f29331b5f2e2709591defa017b9df15f38dbd0d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aada98179202935d213a2e805c426082dd6efcee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db8d748b8d15cbbe82473c3979efbb26a7e5d2b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff9a08d4e9758b1eee7bb8d8da7fbe7975bf304b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/063f9ee0608323d3bab9d09729a982750cc8a36e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85955963a1badd9bf71b36a97e84fb5814efaf83.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "武英殿是后妃居住的"
       ],
       "answer": "故宫建筑是对称分布的",
-      "explanation": "“左文右武”的中轴对称是故宫建筑群的重要特点。"
+      "explanation": "“左文右武”的中轴对称是故宫建筑群的重要特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2775faf1b714ec04fa67436ca9ad09c6783a620.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb56170fb86ddf00c84dacc343db3d4bff6f7f1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2a232cda573d73149e47a2f0b93a462f1ee7baa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/746ee092c598b57809bae408d42a828ba95e00cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4650a19f6c12e6684243866b7f10de83e8dcdf7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f302eaee9531f0d55e264289990a45f0b4c8a166.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "北京故宫博物院以前的名字通常被称为（___）",
       "options": [],
       "answer": "紫禁城",
-      "explanation": "故宫旧称紫禁城。"
+      "explanation": "故宫旧称紫禁城。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7ac14e2f284365219406a02103782ee9e9db4d6e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1f64876c35d4ea1032705b988b6d824a078815f.mp3"
+      }
     },
     {
       "id": 19,
@@ -79,7 +107,21 @@
         "故宫后门外"
       ],
       "answer": "A-1,B-3,C-4,D-2",
-      "explanation": "太和殿举行大典，保和殿曾举行殿试，御花园靠近后门，景山可以俯瞰全景。"
+      "explanation": "太和殿举行大典，保和殿曾举行殿试，御花园靠近后门，景山可以俯瞰全景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0f8dd935de7bff7fb95764a24c00768184fb41.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/296eacd3c4639c665c1072aec0f9e26957244935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0d5ab606b3a9875cc97e6e421c0526fa6fc962b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f8ceffc8ccab9b2af5de1a2f385c9c1c416bbbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff35d42a1f2f268883b01931faf7392d7284eb8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e15b065c66ea2a50fe70185757c21b7933a368c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8592fa5d77f433803587eca23019785d8a9c5390.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd300fe05fe92eb5fa801dd7b12bf9adfecc27cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3a35b0f2ee5cc5d6054dcbe4b67b211ef247a05.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1a7630a9937d287057e0da30ee41d0e3169d1c1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -90,6 +132,16 @@
       "只看文字而忽略了关键的图表或地图信息",
       "无法将多份材料中的信息点进行整合，导致判断片面"
     ],
-    "tips": "阅读图表时，要重点关注图例（解释颜色或符号含义的地方）和方位标识。"
+    "tips": "阅读图表时，要重点关注图例（解释颜色或符号含义的地方）和方位标识。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fc/fc63c4ccbeb179cc9930be145fda32794af8d92a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ac/ac4c68f3e617a5010008de87998ddb71ab5fe99e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/49/49202b33753617b601d5a3d806a3e8a97a893bd1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2d/2dc6f0c6c433a4e2d6322137dd325fe31ac03d9f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/240ca2697c9bb83a4c136b1d2132dd6e3fec4ed2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c5518ce40c8badb0de319da7f9f45e3262b793f9.mp3"
+      ]
+    }
   }
 }

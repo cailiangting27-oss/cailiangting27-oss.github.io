@@ -16,7 +16,11 @@
       "question": "算式 $5 - 5 = 0$ 是正确的。",
       "options": [],
       "answer": "对",
-      "explanation": "相同的两个数相减，结果等于0。验算：$0 + 5 = 5$ ✓。"
+      "explanation": "相同的两个数相减，结果等于0。验算：$0 + 5 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59f7371dd59cf6708afae29913901e7487695cfb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8a084d5962a96ed5d54fafd6c3618b4508a6091.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "5块"
       ],
       "answer": "4块",
-      "explanation": "总数5减去剩下的1，得到吃掉的数量：$5 - 1 = 4$。验算：$4 + 1 = 5$ ✓。"
+      "explanation": "总数5减去剩下的1，得到吃掉的数量：$5 - 1 = 4$。验算：$4 + 1 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c2bee85858694ab64711244935d32817a6e8fdc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cb944a6705396919a4b1b2e3c953519ad669de44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5cf1058cfa85320cdedc73e1bc97c6f9965c527.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dacfa82d03511d938b19478daa647a0a2ed8270.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb21a60baaee465fe85758a74bebff2616cecea7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c49bed257d2362ba2b14da9ea71f0c8f550e56bc.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "5"
       ],
       "answer": "3",
-      "explanation": "$4 - 1 = 3$。验算：$3 + 1 = 4$ ✓。"
+      "explanation": "$4 - 1 = 3$。验算：$3 + 1 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/077f6a179405a991ce974e51c35cdd09e357f7da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b28399b4e8ce0c6d24654dc28f9dade716834bd.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "$4 - 2 = ?$",
       "options": [],
       "answer": "2",
-      "explanation": "$4 - 2 = 2$。验算：$2 + 2 = 4$ ✓。"
+      "explanation": "$4 - 2 = 2$。验算：$2 + 2 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/92ac7594701027d7b0e2f6d9a7053b5943d03fac.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b987983f961816476bcd2430b344b90ca6e28f1c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "分不清整体和部分，用小数减大数（如3-5）。",
       "看图列式时，把去掉的部分当成剩下的部分。"
     ],
-    "tips": "想象成气球飞走了、苹果被吃了、小鸟飞走了，数量在减少。"
+    "tips": "想象成气球飞走了、苹果被吃了、小鸟飞走了，数量在减少。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/43d3eee18f7a4104243f3f3f2aef7371bb8202eb.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2b/2b715b8feb26ffd21fb50f6d3dd6d240550bb5a7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1a/1a59284ce6c3927925e79fcbd5fae0adbc904374.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3e/3e19185f36ea41b2bb67ad3472140d60bc3b3350.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/43/43a6830b2365d216525e2a2118f54c3089254d66.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7b/7b705e6e1b6a8b467789674b38a8e46a404e9e70.mp3"
+      ]
+    }
   }
 }

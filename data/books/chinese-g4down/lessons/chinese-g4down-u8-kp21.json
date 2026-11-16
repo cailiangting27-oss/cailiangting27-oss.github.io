@@ -25,7 +25,21 @@
         "听话"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "慰藉对安慰，乖巧对听话，允许对答应，喧闹对吵闹。"
+      "explanation": "慰藉对安慰，乖巧对听话，允许对答应，喧闹对吵闹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf2d0ae55f6769c4ec4d564060e8fd38f8ebaf9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6985bf6c57ab84f1c15c51969291ac6e3b0d0e03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0270a7fdb3699ba8e6244143bdbf7f4699e0c9d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c0c0aed67f7b9bf4d41cbeb8ba7eca0339b8cc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b7217fa3aff2726cd16c8d7fbd6aa9510da3643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9814403cc1c078e8a188e91d5c9052d70ecffe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/618b603dbfca8e02fa558a79d5c63e36091c5963.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/529544984beee12c49653f38a50eab7b67020d9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df037b3b8094a4c64dedeb9754423dd8c1a8206f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a027fe3915c22311f9d941caabddac31516733ab.mp3"
+      }
     }
   ],
   "knowledge": null

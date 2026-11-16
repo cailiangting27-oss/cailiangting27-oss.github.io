@@ -25,7 +25,21 @@
         "护雏"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "引吭大叫显威风，屏息凝视抓老鼠，警戒护雏，狂吠是对入侵者的负责。"
+      "explanation": "引吭大叫显威风，屏息凝视抓老鼠，警戒护雏，狂吠是对入侵者的负责。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cfcc2aa4b29dd17eec9de580b0471abc6dadd36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e0429b243e6f5442a1da96c60f078ebde7a2127.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c8e8f31ea2321e5e8c83a3a9d66f4000137be56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5cb58536e5ad72d5ecce89577f6d98b60ab53748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cea9bb565646423dfa4c48d0ebf538e27a5518e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ea1ad256a6e20ad8ace10f9af2ebec5016434f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbc08d615f80cae3578986dd8c111b5f37d40ba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41ca072e1c5eccfe9f2d9b6c56e333f5cfc0b1c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c5b1296aaf9bdb1845db1d3be58be5e970074d0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b1293b8cb414a48e0b74bd9e6041e9da4a0f405.mp3"
+      }
     }
   ],
   "knowledge": null

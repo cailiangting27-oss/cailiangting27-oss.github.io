@@ -16,7 +16,11 @@
       "question": "“掰玉米”中的“掰”字，通常是用手把东西分开或折断。",
       "options": [],
       "answer": "对",
-      "explanation": "“掰”字从手，意为两手合力分物。"
+      "explanation": "“掰”字从手，意为两手合力分物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c13c2410f424a07fae49858483cbbde03f7f7f0b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8dc33da35b373f3b776d3617060b70b6fe656784.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“扛玉米”的“扛”字，部首是“扌”，表示和手的动作有关。",
       "options": [],
       "answer": "对",
-      "explanation": "“扛”是提手旁，表示用肩膀承担物品的一个动作。"
+      "explanation": "“扛”是提手旁，表示用肩膀承担物品的一个动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/279125201a290607f37cf60a94949f4db17ce54f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c1761f4f2e550b0baac50013380cf3d5bff7f42.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "扛"
       ],
       "answer": "抱",
-      "explanation": "西瓜圆且大，通常用两臂合拢的动作，即“抱”。"
+      "explanation": "西瓜圆且大，通常用两臂合拢的动作，即“抱”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1be675e24391a903da41216570977be6b35de4a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/8173936934f383a6292913c01a57a802310d68fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fb9028037d6154ee0dbed787d940554682faf9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bdef4dfd98c7430bda47559c8cb8710d7f6a62f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3ea64ca21c20b31af73b355b6017e166cd3f1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/0993312e95decfd0fce55a54115adcc0a97fd0ae.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "掰"
       ],
       "answer": "背",
-      "explanation": "书包通常是用肩带挂在背上的，动作是“背”。"
+      "explanation": "书包通常是用肩带挂在背上的，动作是“背”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eed4dea7e01bf3bbf8f9022de6c4953e147cb047.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3ea64ca21c20b31af73b355b6017e166cd3f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e072ffdd2a7913fc8675dae802b86004e70cef05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c03a17f530f66c1a9bc94e5c24ae26fd254b999.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8173936934f383a6292913c01a57a802310d68fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/134d6d301fce94928f955953eead087cb5644f00.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "空手"
       ],
       "answer": "空间",
-      "explanation": "天空中的“空”读一声，空间也是一声；空地读四声。"
+      "explanation": "天空中的“空”读一声，空间也是一声；空地读四声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1be841d53ea5f1e34be372b86abc9edcf56940ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45fa14cbbde2a60c3886685a4e1c7a1b811b7e91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b35d4e5692f3ffe580324b5dd4ca6e77580023b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/8672661af62009491b381ec29d8f654e9af204b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7261d73138f75e8319d36ebd4af5b50f0913e90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/138505cb31dd0fe893bf5379502112c2d73f58e8.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "掰"
       ],
       "answer": "摘",
-      "explanation": "从树上取下果实习惯用“摘”。"
+      "explanation": "从树上取下果实习惯用“摘”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/acae723ffec38eceb7d9d01176b8f8c676c47ff2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9cd6829d4227e48f34f6e3de2d2bf68a41d0136.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c03a17f530f66c1a9bc94e5c24ae26fd254b999.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fb9028037d6154ee0dbed787d940554682faf9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8173936934f383a6292913c01a57a802310d68fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d84ff5fec67f2dbcf16f0f75c660902d92bb4a5c.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "小猴子（ ）玉米往家走。",
       "options": [],
       "answer": "扛",
-      "explanation": "根据课文内容，小猴子掰了玉米后是“扛”着的。"
+      "explanation": "根据课文内容，小猴子掰了玉米后是“扛”着的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/decda400bbd08990209dcc0499357351753d36d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb50f5f26052974dc289f632f2858832490a2ec7.mp3"
+      }
     },
     {
       "id": 19,
@@ -122,7 +174,21 @@
         "抱"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "掰玉米，摘桃子，抱西瓜，追兔子。"
+      "explanation": "掰玉米，摘桃子，抱西瓜，追兔子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bf8dcf30c750e1e853866aa9e022411f3f04016.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8531dc2f3fb0510d992ab5a4be4898cda5322d17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/591461e76b003067149b3bbc9d1fa9a8ebf9172c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a589fa617df5e3337e051f98e1c650849af2372.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daaa92bcf8a1eca9f8fe4c1e086fe78821b0ae0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6f1c909440f8b5b256777f47bff8275e04cf8a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8173936934f383a6292913c01a57a802310d68fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fb9028037d6154ee0dbed787d940554682faf9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bdef4dfd98c7430bda47559c8cb8710d7f6a62f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5525b7984cadccf9c06612507f49634a0b3de6b9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "“掰”和“摘”运用对象混淆，如说“掰苹果”",
       "将“扛（肩挑）”和“背（后背）”的动作场景弄错"
     ],
-    "tips": "通过肢体游戏“我说你做”来练习：指明一个动作，让学生快速做出并说出对应的生字。"
+    "tips": "通过肢体游戏“我说你做”来练习：指明一个动作，让学生快速做出并说出对应的生字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/80425962715c72aac27c7c1b2bdf5311c4e626f0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/dd/ddf3214b8aad00e6ce2119e0ecd6e2b1bcf25aa9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c7/c7d05f01f3846239874849de1de43ba9f3a3698a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/eb/eb65c1b3f11d73db4abeee14db19d719b062d654.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/96/969926e84b83922749ffb39bdecf5667b85e6afe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/01/01bd3eba8c86c69cfa5b2abd5f391753d183cd5b.mp3"
+      ]
+    }
   }
 }

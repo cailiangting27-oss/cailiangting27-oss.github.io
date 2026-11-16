@@ -21,7 +21,17 @@
         "耐磨"
       ],
       "answer": "不导电",
-      "explanation": "绝缘体可以防止触电，保护使用者的安全。"
+      "explanation": "绝缘体可以防止触电，保护使用者的安全。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/173fdd21ee4cfc9ec338f0f4372f632908552c49.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a4e67e27e791d85025928ac6ecdc5d19da934d74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d85919111bcafbd32cf0277adb4fe92c4f6ad05a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86a09b7ceb1c0a3a2dbdbbf676e16aca5682ce38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d40c830beba1a9fc48c43d8e2b6f8055c1247cdd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4dd25bf453f58dfb5eb2181ad5538e0331e14ac.mp3"
+      }
     }
   ],
   "knowledge": null

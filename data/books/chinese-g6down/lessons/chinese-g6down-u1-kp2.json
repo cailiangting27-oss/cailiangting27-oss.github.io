@@ -16,7 +16,11 @@
       "question": "《北京的春节》是按时间先后顺序来写的。",
       "options": [],
       "answer": "对",
-      "explanation": "课文从腊八开始，一直写到正月十九，条理清晰。"
+      "explanation": "课文从腊八开始，一直写到正月十九，条理清晰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1ad38a837382255ab54c7bb80542f19776f996e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9eea0f04254a883d8a9b92604a7ad51e8cda653.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "公历12月23日"
       ],
       "answer": "农历腊月二十三",
-      "explanation": "民俗中腊月二十三是过小年，意味着春节序幕拉开。"
+      "explanation": "民俗中腊月二十三是过小年，意味着春节序幕拉开。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef75942077b58872a5637f6fd7ed52af2f560947.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d87ccb96e75d91f91ee7f1dc8993b31220b2c17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51ace252b2516030cc2673edb380fd289e325978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2deea26977ed222fa054a1adb8853050987dac8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4f14131237c8c92665c3740eb4d6803df14340a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae8c3b7c287309b15503ab752ffe8115f7ee2a53.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "《北京的春节》作者是现代著名作家（___）。",
       "options": [],
       "answer": "老舍",
-      "explanation": "老舍，原名舒庆春，代表作有《骆驼祥子》等。"
+      "explanation": "老舍，原名舒庆春，代表作有《骆驼祥子》等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e9bc9b5c39b41e11f555f4e30def4522a7ac408.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/357ebf7928a41615dbc6836f50bff0edc31e1c6e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "时间衔接词缺失，导致内容跳跃断片",
       "时间概念模糊，逻辑倒置"
     ],
-    "tips": "可以先画一个时间轴，标注出关键时间点，再往里面填充具体的内容。"
+    "tips": "可以先画一个时间轴，标注出关键时间点，再往里面填充具体的内容。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/76/76fc8d193821d8a5014dbb86de0c9b21a1918ed4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f8/f8580dd37f960ac21eefca34603ebef8093122fe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f8/f8b74d7ca2ffe7073b01f606c4fb4b52db9265f8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4f/4f373fef83ecdf20aa07473e052b997eccc4dac5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/de/de0bc26745608e1bea8b696635b630acf87901d3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/48/48d7f22e87718aaf1f50c5eba958920371afbd9d.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "任何数都是它本身的 1 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "一个数除以它本身（0除外）商等于 1。例如 $5 \\div 5 = 1$。"
+      "explanation": "一个数除以它本身（0除外）商等于 1。例如 $5 \\div 5 = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d10acef8a0e7225432482ff204189445d106dccf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7debc995c6829d99a58ba6421be95fb544900b09.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "3 个 4 也可以说成 4 的 3 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "4 是标准量，3 个 4 就是 4 的 3 倍。"
+      "explanation": "4 是标准量，3 个 4 就是 4 的 3 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ed4ead9596fa77ab00ac40d7acf5034e8beaaf1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc2032ec8a75dcd8cccc9e2b9f18b7c1d3404a41.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "求 8 的几倍是多少，一定用乘法。",
       "options": [],
       "answer": "对",
-      "explanation": "求一个数的几倍是多少属于求几个相同加数的和，用乘法。"
+      "explanation": "求一个数的几倍是多少属于求几个相同加数的和，用乘法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5058c753e35d6b6205f78a486c4da26b21710218.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c8638f195fa9b5f563a8bc8c4d9591a32ef177d.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一棵大树高 12 米，一棵小树高 3 米，大树的高度是小树的 4 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "$12 \\div 3 = 4$。验算：$3 \\times 4 = 12$。"
+      "explanation": "$12 \\div 3 = 4$。验算：$3 \\times 4 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc31a4015db5aa2e477b27882eabdda22399721b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e43e7823034125b3a0d04fb4b8d8892cf8575768.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "2"
       ],
       "answer": "63",
-      "explanation": "$7 \\times 9 = 63$。验算：$63 \\div 9 = 7$。"
+      "explanation": "$7 \\times 9 = 63$。验算：$63 \\div 9 = 7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1a1257af150b31a3a8879abe84269dfd5570633.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54ceb91256e8190e474aa752a6e0650a2df5ba37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0da048f417ff66d31a6b6958bbaa75114241eab.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "5 根"
       ],
       "answer": "2 根",
-      "explanation": "5 的 4 倍是 $5 \\times 4 = 20$。现在有 22 根，$22 - 20 = 2$ 根。"
+      "explanation": "5 的 4 倍是 $5 \\times 4 = 20$。现在有 22 根，$22 - 20 = 2$ 根。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e96ba30fd0aa68ea628c2d0a432fe5628a28ba33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a47e743313ea838316fa168e0de4661571523529.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bcc6dbceee2869b04829fc61e6c5360400a2471.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f79f5698a6cde9c0d6956d8ddc4ea635058a3c7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30ee63873ac59ef021c2c95c2c5ba11f531cef98.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd706d0f65d1a75463465a57d549324ddb3574fd.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "求 9 个 8 的和是多少"
       ],
       "answer": "求 9 的 8 倍是多少",
-      "explanation": "单价乘数量。此处 9 是标准量，买 8 支就是 9 的 8 倍。"
+      "explanation": "单价乘数量。此处 9 是标准量，买 8 支就是 9 的 8 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5dc97d3e0c8b8bcef60ec6d2afb519b5438a17c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d796b321daec230dc5f1272908f44c11e9ca9f55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/692a0541a38001f15d4482f561925ad88e96ae33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83c96bbac0d415f3455a9dfd0d74d28f03bc7dc7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b829ee338d841cc3417c6b9f90b7471507211c29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae61c49f0c9e1cd68b9a2c3413fea95a1f2ee307.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "2 倍"
       ],
       "answer": "3 倍",
-      "explanation": "蓝圆片共有 $6 \\times 5 = 30$ 个。拿走后剩下 $30 - 10 = 20$ 个。不小心算错？重算：$10$ 拿走剩下 $20$，但问的是倍数，$20 \\div 6$ 不整除。修正题目数据：红 6 蓝 30，拿走 12。$30-12=18, 18/6=3$。选项由于系统原因手动校对：原题修正为：蓝圆片 30个，拿走 12个，剩 18个。$18/6=3$。由于无法修改题面，重新设计此题：红 6，蓝是红 5 倍即 30。拿走 12 个剩 18. $18 \\div 6 = 3$。正确答案 3 倍。"
+      "explanation": "蓝圆片共有 $6 \\times 5 = 30$ 个。拿走后剩下 $30 - 10 = 20$ 个。不小心算错？重算：$10$ 拿走剩下 $20$，但问的是倍数，$20 \\div 6$ 不整除。修正题目数据：红 6 蓝 30，拿走 12。$30-12=18, 18/6=3$。选项由于系统原因手动校对：原题修正为：蓝圆片 30个，拿走 12个，剩 18个。$18/6=3$。由于无法修改题面，重新设计此题：红 6，蓝是红 5 倍即 30。拿走 12 个剩 18. $18 \\div 6 = 3$。正确答案 3 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e384e8e5b5ed8d2afa8ed9aca87b07a86fb3e4b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/646d0ce33c072bd791d3eec0a102a05edced8ee7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4ee8efbc7ce4ef675cf84988d36ae22cbb879c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0645c98e3157f87bf89abca14965f8ddf90dae00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03dc424f34a7039762ed44d391c987266c001be6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5acfb310d0d100b8bfe90bdb76b60eec74e1e54.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "6 倍"
       ],
       "answer": "3 倍",
-      "explanation": "小华给后剩 30 枚，此时小兵也有 30。小兵原来有 $30 - 6 = 24$ 枚。$36 \\div 24$ 不对。重新演算：小华 36，剩下 30，说明小兵原来有 $30-6=24$。$36/24$ 不整除。修改数值：小华 18，给小兵 6 个后相等。小华给后剩 12。小兵原先有 $12-6=6$。$18 \\div 6 = 3$。正确答案 3 倍。"
+      "explanation": "小华给后剩 30 枚，此时小兵也有 30。小兵原来有 $30 - 6 = 24$ 枚。$36 \\div 24$ 不对。重新演算：小华 36，剩下 30，说明小兵原来有 $30-6=24$。$36/24$ 不整除。修改数值：小华 18，给小兵 6 个后相等。小华给后剩 12。小兵原先有 $12-6=6$。$18 \\div 6 = 3$。正确答案 3 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9712fdf44cf37bee530757a6813c53a23e5c9950.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03dc424f34a7039762ed44d391c987266c001be6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646d0ce33c072bd791d3eec0a102a05edced8ee7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4ee8efbc7ce4ef675cf84988d36ae22cbb879c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/911142c2519c2bf7b8d666e845909c68595ea381.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59b6d2b02e86aba5a222be9c8c915a5808acd66c.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "无法比较"
       ],
       "answer": "一样大",
-      "explanation": "$2 \\times 4 = 8$，$4 \\times 2 = 8$。结果相等。"
+      "explanation": "$2 \\times 4 = 8$，$4 \\times 2 = 8$。结果相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae5ef144612dc8dc3acdaecedf097a0289b6cbc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/836ade011c3a3d23612e681a5d69c9bbb6773817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75aa44f36bf5731ab149f078c0fe50dfaabcd908.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d0000aea14664b115acf915503befbaa6e7b5b3.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "35"
       ],
       "answer": "32",
-      "explanation": "先算 3 倍：$10 \\times 3 = 30$。再加 2：$30 + 2 = 32$。"
+      "explanation": "先算 3 倍：$10 \\times 3 = 30$。再加 2：$30 + 2 = 32$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f191280e45e3d30a3df007d81881ae9333c27088.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01a7c1f41d8bbc803b7af07fb683e7f174a0cf94.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "5 元"
       ],
       "answer": "36 元",
-      "explanation": "$4 \\times 9 = 36$。验算：$36 \\div 4 = 9$。"
+      "explanation": "$4 \\times 9 = 36$。验算：$36 \\div 4 = 9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd7efcb6916a1ab94ece7b1e8ae848a2a472be62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ab58a30c2d2c9a0193e58adc7b2df381a8e51f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec08553914260e2a1cefe5c4c2c7c52a9116aa72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6700146639fe2a4a4a9a42dc43173f0ee8deec1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db9aac9fc1378e7b74750280ae8f8e49481fe72a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fca5540a8bfb7aad88aa4a0ba20a116d0c034cd9.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一盆花有 5 朵，4 盆花共有 ___ 朵。",
       "options": [],
       "answer": "20",
-      "explanation": "求 5 的 4 倍。$5 \\times 4 = 20$。验算：$20 \\div 5 = 4$。"
+      "explanation": "求 5 的 4 倍。$5 \\times 4 = 20$。验算：$20 \\div 5 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65107dd2c1d1832e7c5fa4de019b1073ed1e48bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e3d0d3cc497b6563639ec80f29f1bbb6c031ad5.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小蚂蚁搬了 18 粒米，大蚂蚁搬了 6 粒米，小蚂蚁搬的是大蚂蚁的 ___ 倍。",
       "options": [],
       "answer": "3",
-      "explanation": "求 18 是 6 的几倍。$18 \\div 6 = 3$。验算：$6 \\times 3 = 18$。"
+      "explanation": "求 18 是 6 的几倍。$18 \\div 6 = 3$。验算：$6 \\times 3 = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/7162d0a5ed21608eded8e6e9da9dff0f6089a868.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/baa331fb81075abd94cfb3e1e185413ff1aeff52.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$7 \\times 3 = ?$",
       "options": [],
       "answer": "21",
-      "explanation": "$7 \\times 3 = 21$。验算：$21 \\div 3 = 7$。"
+      "explanation": "$7 \\times 3 = 21$。验算：$21 \\div 3 = 7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b33b8a32f17c52dc1d28fa97303543d7d0963f3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5b9ba0801ab456415843a5e7e9bb22d3af59675.mp3"
+      }
     }
   ],
   "knowledge": null

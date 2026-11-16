@@ -21,7 +21,17 @@
         "Wait"
       ],
       "answer": "Wait",
-      "explanation": "黄灯表示等待（Wait）。"
+      "explanation": "黄灯表示等待（Wait）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03cb4ea5a973533bf5a8141173c61b6629ffd27c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2e0b45f2a456e8db55f08d7b65e87593a3e9a140.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8db6a2f1d3b7e19e518ffa8979d7ad15359af460.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e253470c876ee6d5c720eb777aeb82d4c26e28f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34dbd5c4c8a64801891d960b57133767c3104fe7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d19622ebf34a0038b1ceb1d7aed3b584e33359ba.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "look"
       ],
       "answer": "run",
-      "explanation": "不能在马路上奔跑。"
+      "explanation": "不能在马路上奔跑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/922db4f8fbcf4016ce67fb0413d686711152afd4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df06b147f778d46fad19b32b6757a3abc3af41de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8183e2d4932f421a02d3655de400ccb1baac771.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "无法判断"
       ],
       "answer": "陡",
-      "explanation": "密集表示坡陡。"
+      "explanation": "密集表示坡陡。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41a788f3f7803c9a3fb7db130823a64d34755b7c.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c3/c31c24546e914e3b2f8bf4c1f53c9a11723e6cc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ]
+      }
     },
     {
       "id": 5,

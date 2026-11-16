@@ -21,7 +21,15 @@
         "will go"
       ],
       "answer": "went",
-      "explanation": "last Sunday 是过去时间。"
+      "explanation": "last Sunday 是过去时间。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 3,
@@ -42,6 +50,9 @@
     "common_mistakes": [
       "不规则动词随便加 -ed。"
     ],
-    "tips": "不规则动词要专门记。"
+    "tips": "不规则动词要专门记。",
+    "audio": {
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/77/77ce50e68ec8ee596737092e5faf17576ce49d79.mp3"
+    }
   }
 }

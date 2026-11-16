@@ -21,7 +21,17 @@
         "x÷8=200"
       ],
       "answer": "8x=200",
-      "explanation": "数量关系：每袋重量 $\\times$ 袋数 $=$ 总重量。即 $8x = 200$。"
+      "explanation": "数量关系：每袋重量 $\\times$ 袋数 $=$ 总重量。即 $8x = 200$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e767ef989f10d09428604f931329e53f7035eab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad16b2e935a8fec050d33b0bb4c249e960a97d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3b05ed60a854ea50d501b95f9840925e5326a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f930432f93eef5b327313af795ae015b065d8856.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96684422c4829182030ac7fdeae00c6cb8c44d43.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f69e2c6c7bf97d514818ed4005e3ddccaccf88ad.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "10÷x=30"
       ],
       "answer": "10x÷2=30",
-      "explanation": "三角形面积公式：底 $\\times$ 高 $\\div 2 =$ 面积。代入得 $10 \\times x \\div 2 = 30$。"
+      "explanation": "三角形面积公式：底 $\\times$ 高 $\\div 2 =$ 面积。代入得 $10 \\times x \\div 2 = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a15585ffb7ca168ef8cf54937eefcc3fa3778ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f65a73988ab49cccd9e1f4918d11230af3d463d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40ebf769b1eb09305f1effa76e2f33c4faa6c430.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ea56fd5d4b65c874f206c8dff1464dcda65c432.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e74792a77a61deec8e0e2ff825dfb13bad4b7b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60cd1225d463220fccbf971537c83821aa4af331.mp3"
+      }
     },
     {
       "id": 18,
@@ -53,7 +73,17 @@
         "24"
       ],
       "answer": "2",
-      "explanation": "设买了 $x$ 筒。$12x + 3 = 27$，$12x = 24$，$x = 2$。"
+      "explanation": "设买了 $x$ 筒。$12x + 3 = 27$，$12x = 24$，$x = 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b75dccf086ef7166309e62b2cb5a8d7b22bf2b9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/092a085830c5f084ba662b359b48d37470f4d4a3.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "练习本每本 2 元，小明买了 $x$ 本，付给营业员 50 元，找回 30 元。小明买了 ___ 本。",
       "options": [],
       "answer": "10",
-      "explanation": "方程：$50 - 2x = 30$。$2x = 20$，$x = 10$。验算：$2 \\times 10 = 20$，$50 - 20 = 30$。符合题意。"
+      "explanation": "方程：$50 - 2x = 30$。$2x = 20$，$x = 10$。验算：$2 \\times 10 = 20$，$50 - 20 = 30$。符合题意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6719f9ca4fce1661fe7e8b6c780cc7c960023b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e18815cc970dfad2022d59aa1baeecffe8854fa.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "设未知数时忘记写单位名称",
       "列出的方程中逻辑混乱，如用总数去加分量"
     ],
-    "tips": "先找关键句，找出谁和谁相等，再用字母替代那个不知道的量。"
+    "tips": "先找关键句，找出谁和谁相等，再用字母替代那个不知道的量。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/11/1136217921753730e4e8a51a0502cd832af13106.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ee/ee456482d3686af4f2630630789f17b0bd711912.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/31/31583118344381fa32a5553a689350b1c89ce6cb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0d/0db9c927782bd643aefaa0aade5cc976319bc7c4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1e/1ed2e7399d6da2ae7121cbda72a5a30fbb99bcfa.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9e/9ead854dee0d02416efe81e6712655d7c4151da7.mp3"
+      ]
+    }
   }
 }

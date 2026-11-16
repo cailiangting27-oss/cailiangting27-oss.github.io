@@ -21,7 +21,17 @@
         "形态完全不同"
       ],
       "answer": "会有不同程度差异",
-      "explanation": "由于变异的存在，世界上没有两片完全相同的叶子。"
+      "explanation": "由于变异的存在，世界上没有两片完全相同的叶子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/628c7390253cf852c439040d92fbc77d2ec79c93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20e1ec0c900945ee5dcd859ee948cebcaf03f054.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c4d622368dd6a42b45646e5f7812f2b9618cc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e2de7ab09c2f122beb1d2407ad387498dd3da1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81250e90763b0a05bb46d7df3b5f02b3d3ca5434.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45316530028213986eca18d3936770d56b8fda59.mp3"
+      }
     },
     {
       "id": 20,
@@ -32,7 +42,11 @@
       "question": "在校园生物大搜索中，我们主要观察（ ）个方面的环境。",
       "options": [],
       "answer": "3",
-      "explanation": "通常指天上、地上（含水中）、地下三个空间。"
+      "explanation": "通常指天上、地上（含水中）、地下三个空间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f293d9560e31f924944b1d8a23d875bae9ef7d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c625146a27828f50a3afab9dcbcbafe6fe15e4a6.mp3"
+      }
     }
   ],
   "knowledge": null

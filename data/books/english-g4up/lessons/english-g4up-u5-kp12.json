@@ -21,7 +21,17 @@
         "knife"
       ],
       "answer": "knife",
-      "explanation": "切牛肉需要用小刀(knife)。"
+      "explanation": "切牛肉需要用小刀(knife)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c15a8e634fa6eae4c681bcf0366578e16eafe75a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f557e92965db8298e8e3b0ddeb9224fc4af963ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a07eca0993872febdb68d0bbeb05d6f53780c62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f673f2a8e0aacb6d0fa4504233f4f284e4a1b4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e32618ee300d43fe570b8bd0113e53c73dc5be4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08f439f7348ac9018c4ff8407e3d69aebf7c02c2.mp3"
+      }
     }
   ],
   "knowledge": null

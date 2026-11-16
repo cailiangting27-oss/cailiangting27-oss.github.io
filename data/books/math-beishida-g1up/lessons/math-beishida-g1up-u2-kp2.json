@@ -16,7 +16,11 @@
       "question": "比较两根绳子的长短时，要把一端对齐。",
       "options": [],
       "answer": "对",
-      "explanation": "一端对齐才能比。"
+      "explanation": "一端对齐才能比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d02b27329293364dddbde92fe36ec45be2543123.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac38050c96d87ec1cd8a799ed674030de4e66f14.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -26,6 +30,15 @@
     "common_mistakes": [
       "没有一端对齐就比较。"
     ],
-    "tips": "先对齐再比较。"
+    "tips": "先对齐再比较。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8b/8bdbf130edb7b9e764ad836d0dd14ad711df7b15.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/71/7156f22c7e7f48ca36f2b72445a097a765dcd14c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fb/fb6c4635a98f6b41317c10f641fc6aaa621d972b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0c/0c9ee1bab5a6331da7ad20f414f64d3c44e92bc5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c0/c000a9efa4db1ba6de4ab1b091f9a6bd6301e0de.mp3"
+      ]
+    }
   }
 }

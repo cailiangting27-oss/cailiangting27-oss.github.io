@@ -16,7 +16,11 @@
       "question": "转述句改写中，冒号通常要改成逗号。",
       "options": [],
       "answer": "对",
-      "explanation": "改转述句时需要去掉引号，冒号改为逗号。"
+      "explanation": "改转述句时需要去掉引号，冒号改为逗号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af4a24600bf7a383e1a691efac95c3ba55f6e21b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cf20494dc48111029ff81b13a313f34a598c709.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“纵身一跳”的“纵”读音是 zòng，不是 zhòng。",
       "options": [],
       "answer": "对",
-      "explanation": "纵为平舌音。"
+      "explanation": "纵为平舌音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5021de049676d0e44d1e85af6ba297c0a513b9fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd59a5801e332b10586cbde2c5db590e771de39b.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "《枣核》中，枣核虽然个子小，但他的饭量却比一般人大得多。",
       "options": [],
       "answer": "错",
-      "explanation": "枣核不仅个子小，饭量也很小，文中说他“吃得极少”。"
+      "explanation": "枣核不仅个子小，饭量也很小，文中说他“吃得极少”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65e5bcdca9535feb45ce342a0253f830000b1239.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53f445653af9652fead8a5773f3f2ca8c5655c2e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "幽默的故事往往通过一些出人意料的巧合、反转和夸张来吸引读者。",
       "options": [],
       "answer": "对",
-      "explanation": "这是民间故事和幽默童话的重要特点。"
+      "explanation": "这是民间故事和幽默童话的重要特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31ef99bcf7571622bca1f4cf3af95ca5425d3d03.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce61b1854bcd2d34ba114416087d1a62571f404b.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "拉着走"
       ],
       "answer": "背负着",
-      "explanation": "驮是指牲口背负东西，文中指老虎背上坐着贼。"
+      "explanation": "驮是指牲口背负东西，文中指老虎背上坐着贼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95bd13d2f2d284bb85fd17adb15febd25b56e1e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6d082e95106d5046dd666c953eeb1dbbf7f4922.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1e1bc0434e83c8e1024234b6f7a055837b004b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f28666761752df1bc4f090d82fee9765fdaf9a67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ee2bb7d890b48e0772fc38a2bd249b04373fd80.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6c132cc6407484b698d3a86a6d9f3936c488d13.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "性格差异会引发有趣的事"
       ],
       "answer": "性格差异会引发有趣的事",
-      "explanation": "故事通过两种极致性格的对比，营造了幽默的效果。"
+      "explanation": "故事通过两种极致性格的对比，营造了幽默的效果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f393ee2493c2407c12893335a5d14bf1aec1a97a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/40d2ff3fa6261173b06a7c15ad51214440c84b09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbc92ba02afafc0abb9f77651256483f01be24e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ea1c9e96ca224490dc00e628709c1603fd5d4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d650e7665743c0df5e41e13800a21dfdcfae951.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56c2b2d9ad18c679650fd36cbef619da5892389e.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "骄傲"
       ],
       "answer": "心虚",
-      "explanation": "因为干了坏事（偷东西或偷驴），所以风吹草动都害怕。"
+      "explanation": "因为干了坏事（偷东西或偷驴），所以风吹草动都害怕。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d537d41fe4fb3ca2b597cc4e51021f0216ae62b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a5b49a429e1498751b06eda99a69b96a8516a8ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0479e9cbfe9127022129b3ddb71a8450dea7d519.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9e8fe7b582bd0e5f45f94d73d2036fd5567745d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfe1ec92950e9e0a0ae0017b1fa9cb93b19e75c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e19c2872b3c40db8b42b67bd85ed9912a6dc22c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "顾客没给钱"
       ],
       "answer": "顾客反复修改要求",
-      "explanation": "由于顾客今天改由于明天改，导致裁缝根本没法下手剪布。"
+      "explanation": "由于顾客今天改由于明天改，导致裁缝根本没法下手剪布。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/500fa81331889782c08806794a3af0e43eaf6cbc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c95e9eb5c34bcb092a0cdd4dc91f75fc4e363847.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c208c4aa65e7c399bdf71babecd51eb7b70cbd58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/294a56bbd8d67ac91bc7e570ec436814efd4c311.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bc164d0f0f6f01fd59644d7e3b210c7b0ac867d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eee2394d900d5164d2b32814e75ff2cb40ccd17f.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,11 @@
         "；"
       ],
       "answer": "！",
-      "explanation": "感叹词后通常接感叹号表示强烈的语气。"
+      "explanation": "感叹词后通常接感叹号表示强烈的语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/527a936dbe9f675851f920d36afde7ebed8cb99a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e6931988005111018c1a95917102f4c9188ae46.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "反问、比喻"
       ],
       "answer": "对偶、夸张",
-      "explanation": "结构对称，且“心惊肉跳”等词具有夸张色彩。"
+      "explanation": "结构对称，且“心惊肉跳”等词具有夸张色彩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fe0a747b09f9206e4973f2ba9084790e580140c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e3bd4ac77fcb46f65b50a1d02c115345d5bf297.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/755e1ab55758c08a122d5c9a6818f04c56d73c4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c657cd37c7a41ad13a6ced335edd509bbe402f49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a13dee138e72a4f6f312e2418765be1790496d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee8f6b3c5e6ae5431bd05d79b0b0f0a714c8128c.mp3"
+      }
     },
     {
       "id": 15,
@@ -156,7 +226,11 @@
       "question": "《游山西村》中，描写绝处逢生哲理的诗句是“柳暗花明又（___）”。",
       "options": [],
       "answer": "一村",
-      "explanation": "山重水复疑无路，柳暗花明又一村。"
+      "explanation": "山重水复疑无路，柳暗花明又一村。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68d644cfe799d1043d3675a2069961165ea4ab9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8604df9ec314e599b7f7977aa124f61ca27c5003.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +241,11 @@
       "question": "形容一个人做事非常焦急的四字词语可以是（___）。",
       "options": [],
       "answer": "迫不及待",
-      "explanation": "形容急迫得不能等待。"
+      "explanation": "形容急迫得不能等待。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/833e4eff817ca7b24188089f686edd91bece217b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7dfa9e4673fbddedfd8afe73aebef40333820bc.mp3"
+      }
     },
     {
       "id": 18,
@@ -187,7 +265,21 @@
         "折扣"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "折腾-翻腾，打折-折扣，枝折-断裂，挣扎-挣。修正逻辑：A-2(zhē-翻腾), B-4(zhé-折扣), C-3(shé-断裂), D-1(此处D-1对应关系需要清晰)"
+      "explanation": "折腾-翻腾，打折-折扣，枝折-断裂，挣扎-挣。修正逻辑：A-2(zhē-翻腾), B-4(zhé-折扣), C-3(shé-断裂), D-1(此处D-1对应关系需要清晰)",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2f84039c4aa1cf75174f07a1b36e90910146b99.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/5778e644956392c99ad2a3d00394aeb1c31be3f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e85631291e58dbfde7dfa5e0d43acdcb8487b5a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4682f4e5351ebbfd413e34c4303d900abc9966b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c825946ca7cc0c24d5149df0099bd19d2d725320.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b187af95387164a1274fb7882023b29d323293b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/125ce3329f01e31d68d09d54d816b666b83b9c4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4acfe3840833f6c4283bb4232ba5f7851ee7ae9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b167c8f7870e4f602985cb8579b765709273b615.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75f3f1b685fef0376bb40dcf0334d3c7e6db4bcd.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +299,21 @@
         "多疑"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "从容的裁缝，机智的枣核，多疑的老虎，贪婪的县官。"
+      "explanation": "从容的裁缝，机智的枣核，多疑的老虎，贪婪的县官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bb1584e557367d4e94f6c022c218bd365ec4afa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c7cb3f166be59e76145b6d9bb394b35fe0e824d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc4b31b9939aaf8e6fe6df770b3a9c699ddb8a14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc6f87c51dad67a2bb1d5f2e90695968be968e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a39ec5ae624dab4d09dfdfaf788afdae4a6ff90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc001843c4483f2deef961a48119b9375db1dec8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03601610ee1cba44c444774fde986f1c08fd1e9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6bd984a1f11861cd7f3ac85ed7a493ae9f4edd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26ce5d80fbd449ea859cd9736ecb7cf105048376.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ac49fa3a866d0215778ed6348eab36e543e14fb.mp3"
+      }
     },
     {
       "id": 21,
@@ -224,7 +330,18 @@
         "复述故事"
       ],
       "answer": "借助,图表,可以,更清楚地,复述故事",
-      "explanation": "介绍学习策略的陈述句。"
+      "explanation": "介绍学习策略的陈述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21510bf11b281468d8151dd5a0a004484cc70d4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8490bdbb6744fa0240aaf03e29c610051b06938.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a66b71e29e450d17876d780d3169e1db335961f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79176103e6df6bfad424dc54570641a5d4f315a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db712d51a419adcb38e5969fc16cf04f3bde11cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f80eb6f5df4ded00d0167e599f15e4292b2bfb5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e94061d2a52b757333f73fec44b2102e6fd6137.mp3"
+      }
     }
   ],
   "knowledge": null

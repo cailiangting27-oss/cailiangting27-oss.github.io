@@ -16,7 +16,11 @@
       "question": "为了让抽奖的人很难中奖，应该把中奖的区域设计得非常大。",
       "options": [],
       "answer": "错",
-      "explanation": "中奖区域越大，发生的可能性越大。要让抽奖难中奖，应该缩小中奖区域。原命题错误。"
+      "explanation": "中奖区域越大，发生的可能性越大。要让抽奖难中奖，应该缩小中奖区域。原命题错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0ad60453c90450b89f187e50b5a864e9a01eed1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf271bd9754cce759fa9952fcf8745c136830704.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "不必考虑"
       ],
       "answer": "相等",
-      "explanation": "公平意味着可能性相等，即面积必须相等。"
+      "explanation": "公平意味着可能性相等，即面积必须相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e948cb7d001499acafaafd1eea67f829631a2ec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/def73acdedb9d0a0ad5fe508edf8c36b1568be9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69e40015cc36330a7b58081f2187cf45926d03db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a69fd718415d2c27a3b49df05e5741b095f05cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5731b8f1e9d537acab5393307d6dd617b2400bfb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9d09202a5c9f9e3b6b42b0cba97f198019b0eef.mp3"
+      }
     },
     {
       "id": 20,
@@ -43,7 +57,11 @@
       "question": "箱子里有 6 个红球。如果要使摸到白球的可能性为零，白球的数量应该是 ___ 个。",
       "options": [],
       "answer": "0",
-      "explanation": "可能性为零即为“不可能”事件，意味着箱子里不存在白球，数量为 0。验算：没有白球即摸不到白球 ✓。"
+      "explanation": "可能性为零即为“不可能”事件，意味着箱子里不存在白球，数量为 0。验算：没有白球即摸不到白球 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/792ed4b60e56c59178a595fe1fa7fcfc4333775a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa1719fa173407715af114e8f2e6bf9e0240519c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "设计“公平”游戏时，分配的数量不相等。",
       "理解错比例关系，如要3倍可能却设计成多了3个。"
     ],
-    "tips": "可以先设定一个基准数（如1），再根据倍数关系或大小关系分配其他部分的数量。"
+    "tips": "可以先设定一个基准数（如1），再根据倍数关系或大小关系分配其他部分的数量。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6c/6cb6a4558ad9ca3b2d2cc34f059f9fc432d67ee7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7f/7f1852b18e6c7f80b2657a9f23635e748f55cada.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c5/c553086f538a2130e467d7503cf9774f299aecfb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d7/d72d9b097b5e0e4288e9532ad5c77550b6d8a877.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c5/c58badcbd98548c058ea133ceb51e243ebd5538d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0e/0ec336ba19c14bcff66aaf6de566f344374f9c36.mp3"
+      ]
+    }
   }
 }

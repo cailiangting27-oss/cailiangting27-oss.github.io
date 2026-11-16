@@ -16,7 +16,11 @@
       "question": "用部首查字法查“狐”字，应该先查“犭”部。",
       "options": [],
       "answer": "对",
-      "explanation": "“狐”是左右结构，偏旁部首是犭。"
+      "explanation": "“狐”是左右结构，偏旁部首是犭。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30e7bd6d4d8c1dc5212e17af7542b68e68860f49.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/9746c41ce6af042cbf1bccf64075a29b1d2f784c.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "五画"
       ],
       "answer": "三画",
-      "explanation": "草字头（艹）由三笔组成。"
+      "explanation": "草字头（艹）由三笔组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e251a434600e49584ed283a8b14f861ddf9f464a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66cbb820bd3faa7fe940731cba09cde1926ef1f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c32ea20260d5d7f913a964cb0d1453ff889a3cf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0225ec4f877a620cdc3f5a1513396bbae6d93a38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9594708a12067431c224e9b3792671b2617060c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2c012b99c20334b39ae603f550346a4c598a5f5.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "最下面一画"
       ],
       "answer": "第一笔",
-      "explanation": "独体字或难检字一般查第一笔。"
+      "explanation": "独体字或难检字一般查第一笔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b441d77a376053f70bee313f85d71024961e2b4b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41e0446a3217b2fefabf40ba3b6d7aa8a913d850.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/816a2d6d6c5d2200e4c75bb9c53f74e574019b7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c132943f3ae0a076b8e5853294a40ec6742427d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82f0d855a2a68b82a2a7490040e08845feb52f9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4d3e15a740c5c8be38cb8a3d649fa0bf6387497.mp3"
+      }
     },
     {
       "id": 21,
@@ -68,7 +92,21 @@
         "⺮"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考核常见汉字的部首归属。"
+      "explanation": "考核常见汉字的部首归属。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/011715d1c8bcf2e9be0fbe6549929f41722ca1cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38da7726d7b8dfb7ff78b94adddfc204a4bfd2f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b15e85a3c1121f649df8876877c0c9deaf87312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58663835da4eddedb05f2324124414f6f9361498.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5c537e83ac25891d2a8edca67fb05553e8f1fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e83586b38ff0edfb0391e05586b45f00b194168a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35746d663e247f93c91e754219f8e8f862139611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f7e00c568169609ad148dbd94566dce302c018c.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95cf02ef3e94f0639e5065fd49f6d571dad7d96f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -79,6 +117,16 @@
       "数部首笔画不准导致找不到页码",
       "查检字表时数错除去部首外的笔画数"
     ],
-    "tips": "遇到合体字通常查偏旁，遇到独体字通常查第一笔。"
+    "tips": "遇到合体字通常查偏旁，遇到独体字通常查第一笔。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ed/ed50f8518322ceedf731656e1d4c51c00e542de3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/50/50b725d49073211fa6e078a3ad3bdba9b059c051.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1d/1da6dcd87966afb6d2af360c284a8a16364cb648.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fc/fc7f17bd363fa3686e1b12432b901d05f797be35.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/246a58fcee9daeb34e9e99a48c7fe42e1a71a906.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6f/6f56205152f9ff83d36c70eea1f331beb3fb5a72.mp3"
+      ]
+    }
   }
 }

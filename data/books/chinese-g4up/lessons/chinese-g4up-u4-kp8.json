@@ -22,7 +22,18 @@
         "宇宙"
       ],
       "answer": "伟大的,巨人,盘古,创造了,宇宙",
-      "explanation": "主谓宾句式：巨人盘古创造了宇宙。"
+      "explanation": "主谓宾句式：巨人盘古创造了宇宙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd581319f906746a138d707f3791d61ee66eda0d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc338fe2fe1543bfb9e433155e6d189c65bc6889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a47fc74023fd98143bb5fdfc41ae53a44e6dc8a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d85a2a9523f3ec7dedf8ddfb6e3babe589ac93a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50310cbe4ecab03439eb7430a327a3879fd44ff0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d81bd1ca6e857ccff7d9a6276b5ded3a507d2d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/099db7211214105f26e8476f1a9fba8e5cd0b61c.mp3"
+      }
     }
   ],
   "knowledge": null

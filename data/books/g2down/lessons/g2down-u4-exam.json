@@ -16,7 +16,11 @@
       "question": "求 35 里面有几个 7，列式是 $35 \bdiv 5 = 7$。",
       "options": [],
       "answer": "错",
-      "explanation": "求 35 里面有几个 7，应该除以 7，列式为 $35 \bdiv 7 = 5$。"
+      "explanation": "求 35 里面有几个 7，应该除以 7，列式为 $35 \bdiv 7 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec1d64cfceafa783bedad42fa191ab7cf7804fdf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/833fc42548075b16bcb0981669f4f8d93a312751.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$1 \times 1$ 的商和 $1 \bdiv 1$ 的积相等。",
       "options": [],
       "answer": "对",
-      "explanation": "$1 \times 1 = 1$，$1 \bdiv 1 = 1$。结果相等。"
+      "explanation": "$1 \times 1 = 1$，$1 \bdiv 1 = 1$。结果相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/053ccbd858cede964a8ef8085842b8f5add5f8ab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05e2c6b6244ded53a84c2ce7e14830e97e260676.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "二（1）班有 32 人参加拔河比赛，每 8 人一组，可以分成 4 组。",
       "options": [],
       "answer": "对",
-      "explanation": "$32 \bdiv 8 = 4$（组）。口诀：四八三十二。"
+      "explanation": "$32 \bdiv 8 = 4$（组）。口诀：四八三十二。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d6a648865d7f903e3947eb4c16ee8723a19460d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37fcf92602d5197405b89c47cf4d86a39376a88e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "从 48 里连续减去 8，减 6 次后差是 0。",
       "options": [],
       "answer": "对",
-      "explanation": "连续减去相同的数可以用除法计算，$48 \bdiv 8 = 6$（次）。"
+      "explanation": "连续减去相同的数可以用除法计算，$48 \bdiv 8 = 6$（次）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fbc18f06f2eb5a86c1d2506422979c75402f82d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e32d956bc37d0c8aa65fa92223be45dd9234064.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "6"
       ],
       "answer": "8",
-      "explanation": "$56 \bdiv 7 = 8$（辆）。口诀：七八五十六。"
+      "explanation": "$56 \bdiv 7 = 8$（辆）。口诀：七八五十六。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee8df51f7b075a514f1a03f93c3474a02ae6ec78.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24c8accdf62b214b6b276c732b0447f5d88dd446.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "6"
       ],
       "answer": "5",
-      "explanation": "找比 32 小且是 9 的倍数的数：$9 \times 3 = 27$。$32 - 27 = 5$（个）。"
+      "explanation": "找比 32 小且是 9 的倍数的数：$9 \times 3 = 27$。$32 - 27 = 5$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9f3025e163e49360505bbd963b6bb6bbade7a08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a23c3eed7cd2665fe22a00a3bff10a3f556cbe2a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "10"
       ],
       "answer": "9",
-      "explanation": "$18 \bdiv 2 = 9$（个）。与羽毛球价格无关。"
+      "explanation": "$18 \bdiv 2 = 9$（个）。与羽毛球价格无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa44d6806cdffbd71484736151daf7ad75397b26.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f53fbe1d1a61d5fbc133429c8fe7910e0ed5c16f.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "90"
       ],
       "answer": "81",
-      "explanation": "被除数 $=$ 除数 $\times$ 商。$9 \times 9 = 81$。"
+      "explanation": "被除数 $=$ 除数 $\times$ 商。$9 \times 9 = 81$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3ddc968cdc392b2bb1d2c952ea32cf105a9a935.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa211940769bc94a7bc5fda73505b5b218ef8370.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "8"
       ],
       "answer": "6",
-      "explanation": "女生人数：$40 - 22 = 18$（人）。每组人数：$18 \bdiv 3 = 6$（人）。"
+      "explanation": "女生人数：$40 - 22 = 18$（人）。每组人数：$18 \bdiv 3 = 6$（人）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1a6ccf6561f686a84f23b79051f19716aa7119c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83b3df1094ce99f9e1ac1af9f94ec6d314387808.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "14"
       ],
       "answer": "1",
-      "explanation": "原来的数是 $49 \bdiv 7 = 7$。正确计算：$7 \bdiv 7 = 1$。"
+      "explanation": "原来的数是 $49 \bdiv 7 = 7$。正确计算：$7 \bdiv 7 = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a109b54205fd14b6eaebd3a44af73a84eab9980b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e01e17467891f7c933dbaa00e1459d23db3fe4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d17f0e26c5e08773cffcf2b5b95a4da200473e7e.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "45 \bdiv 9"
       ],
       "answer": "45 \bdiv 9",
-      "explanation": "A=9, B=9, C=9, D=5。"
+      "explanation": "A=9, B=9, C=9, D=5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7ef8c7a9757be2730ba28204a37c4e758423f48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a2be71c3a0f4b8c848744471a8759a9ec82c503c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff14ab352c40d315251ab38e112e35cc3a3ce91f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0212703ad30c39f7e5c4d10e5d154b0e8840e12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73bf24f1ba9248425400a31692a48d6ca5d5a14d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31b7ccf3ee297a8f2454e792126baeca53585e00.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "5"
       ],
       "answer": "3",
-      "explanation": "2 支钢笔钱：$9 \times 2 = 18$（元）。笔记本数量：$18 \bdiv 6 = 3$（个）。"
+      "explanation": "2 支钢笔钱：$9 \times 2 = 18$（元）。笔记本数量：$18 \bdiv 6 = 3$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fe28ee178a40d6f51776e10dac18830fabd4baa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8af8e16bf25cf73b96c0ff1312afb0aa41036300.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一根长 35 米的绳子，每 5 米剪成一段，可以剪成 ___ 段。",
       "options": [],
       "answer": "7",
-      "explanation": "列式：$35 \bdiv 5 = 7$。验算：$7 \times 5 = 35$ ✓。"
+      "explanation": "列式：$35 \bdiv 5 = 7$。验算：$7 \times 5 = 35$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08dc6c7c67a9a56fddcb92eed89b0bb890bba1c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73928c83402b9b12e14b4f6650eb7361e11716b1.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小华有 48 元，买 8 元一个的陀螺，能买 ___ 个。",
       "options": [],
       "answer": "6",
-      "explanation": "列式：$48 \bdiv 8 = 6$。验算：$6 \times 8 = 48$ ✓。"
+      "explanation": "列式：$48 \bdiv 8 = 6$。验算：$6 \times 8 = 48$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51fe7eefdbdeb560313500a660dbfe83a0007879.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5903604ae53775bf01423f3dd851e0a54f125955.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$56 \bdiv 8 = ?$",
       "options": [],
       "answer": "7",
-      "explanation": "$56 \bdiv 8 = 7$。验算：$7 \times 8 = 56$ ✓。"
+      "explanation": "$56 \bdiv 8 = 7$。验算：$7 \times 8 = 56$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5d90f7049a562879b0588573c1ff62792d2a70c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dc5ea7274dd63bad5e79e51d2758cedfd7eefc5.mp3"
+      }
     }
   ],
   "knowledge": null

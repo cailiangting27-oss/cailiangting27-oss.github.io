@@ -21,7 +21,17 @@
         "两者音高一样"
       ],
       "answer": "蚊子声音更高",
-      "explanation": "蚊子翅膀振动极快，频率高，所以音调高（尖细）。"
+      "explanation": "蚊子翅膀振动极快，频率高，所以音调高（尖细）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fdaf8faa8fb55121db74485cec6655eb6648587.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66015912888940c1278c636a8a74abcb916ed009.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6128a513b3f96f4ca9737010c899c69de8d73637.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf318eac0f8e2bfb04d42c5b462e2d5c82f7c14d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de2c8719ac8ab24fbd9624d6f960b588590066e7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9d11cf7ef6b185e443db373ca7713fc46ce8246.mp3"
+      }
     }
   ],
   "knowledge": null

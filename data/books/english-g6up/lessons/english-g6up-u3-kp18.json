@@ -16,7 +16,11 @@
       "question": "My father ____ going to wash his car.",
       "options": [],
       "answer": "is",
-      "explanation": "主语 My father 是第三人称单数，be动词选is。"
+      "explanation": "主语 My father 是第三人称单数，be动词选is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a38eb8cbd8d2c3ac654b2236e13a313b4ebb959c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e5b84f78911b8b88031d3619146c80a10ff42fe.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -28,6 +32,17 @@
       "going to 后面接了动词 ing 形式",
       "be 动词与主语不匹配（如 I is ...）"
     ],
-    "tips": "标志词有 tomorrow, next week, tonight, this afternoon。"
+    "tips": "标志词有 tomorrow, next week, tonight, this afternoon。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/23/237e408d3be2f2715441b9c5a182176031df0db0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b5/b5c11d5f7b706436aa95e70789df4c6067cc35a8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/92/92dc3d85c7881af55e5e03c088e5b63a78d4b637.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ad/ad06134eed88cf3fbfc36c999a0ad6eb24638c6b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/25/257acde8cbab3bab546b1a631db9967aaa52d54e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/80/805fc1133bf74e16f07eac1ff953da6781220f0e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bf/bfc628227c165a4fa16959d015552b8cfb3237ba.mp3"
+      ]
+    }
   }
 }

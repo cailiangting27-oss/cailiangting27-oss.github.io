@@ -22,7 +22,18 @@
         "."
       ],
       "answer": "I,went,to,Sanya,.",
-      "explanation": "主语+谓语+地点：我去了三亚。"
+      "explanation": "主语+谓语+地点：我去了三亚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1eb0d18711c06f37826c9ad5e23ffec84969f5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c391643f247937bee14c0bcca9ffb985fc0d0ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85b54b59dd4d15be96357647d480b0147bf2c5d2.mp3"
+      }
     }
   ],
   "knowledge": null

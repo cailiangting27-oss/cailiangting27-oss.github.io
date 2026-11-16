@@ -21,7 +21,17 @@
         "are"
       ],
       "answer": "does",
-      "explanation": "your father是第三人称单数，疑问句借用助动词does。"
+      "explanation": "your father是第三人称单数，疑问句借用助动词does。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6c4254ef21c008921c3a4c1493923b8a32c8e06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0b40e2fc8f6acabe1aca0c8798eb7bb55b27f2d.mp3"
+      }
     }
   ],
   "knowledge": null

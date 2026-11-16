@@ -21,7 +21,17 @@
         "一半"
       ],
       "answer": "非常",
-      "explanation": "十分和非常都表示程度很深。"
+      "explanation": "十分和非常都表示程度很深。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de424a72ce4f83d39677fd5939e4030be16e9229.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c0bf3ccaec848784035750ef0f91311b6a18c3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ebfac670522586cffefa7a12c1f7a19875d5db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cd7ceb40116098c0423038600046b7714fefe08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8601c41f22b87544df6f729cb35fb0fb1bca1ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d62b7a2d131268ec6f5dc50e30067ce3c05c5086.mp3"
+      }
     }
   ],
   "knowledge": null

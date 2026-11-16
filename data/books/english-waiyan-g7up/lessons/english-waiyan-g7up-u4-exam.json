@@ -21,7 +21,15 @@
         "the"
       ],
       "answer": "a",
-      "explanation": "疑问表单数用 a。"
+      "explanation": "疑问表单数用 a。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5fe0200d1c7a5139bd18fd22268c4ca8bf45e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -64,7 +72,15 @@
         "No, we haven't got."
       ],
       "answer": "Yes, we have.",
-      "explanation": "have 问 have 答。"
+      "explanation": "have 问 have 答。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/49/49fd889cbfd84c7efd4545f66588db3aeec4a55d.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

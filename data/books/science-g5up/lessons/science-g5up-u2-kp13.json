@@ -21,7 +21,17 @@
         "月球引力变化"
       ],
       "answer": "岩层产生断裂",
-      "explanation": "地壳内部岩层相互挤压产生断裂或错动是导致地震的主因。"
+      "explanation": "地壳内部岩层相互挤压产生断裂或错动是导致地震的主因。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/8283daf9cfd1e31ce7276fd41c353c17c71adb96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56d03fd55ac2a7c8c8d31f1c0df2ea6898723f04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95bc316685680e7157f36daa703fa9a00f21bd95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70a240d9bc399ffab09a6df738469860a6dde658.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c4f81bd66eebb70df88662a4953b836fd5a907.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c2ad7a23e1d8be4cc93905a3b46489ec43dd971.mp3"
+      }
     }
   ],
   "knowledge": null

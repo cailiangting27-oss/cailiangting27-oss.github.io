@@ -16,7 +16,11 @@
       "question": "'eat breakfast' 的意思是吃早餐。",
       "options": [],
       "answer": "对",
-      "explanation": "eat breakfast是吃早餐的固定搭配。"
+      "explanation": "eat breakfast是吃早餐的固定搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01ec8acbb3330f4fc9692aa4eb1d7cca6bc654f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ceb88cca8a86750a41445e3825911b2f6043bb5.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'do morning exercises' 的意思是晨练或做早操。",
       "options": [],
       "answer": "对",
-      "explanation": "do morning exercises 意为做早操。"
+      "explanation": "do morning exercises 意为做早操。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14c014d7ae9062523b2b964ea9983bd541178434.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/414a6e7686e5b14068377d311f8d6a7197069daa.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "单词 'busy' 的意思是忙碌的。",
       "options": [],
       "answer": "对",
-      "explanation": "busy是形容词，表示忙的。"
+      "explanation": "busy是形容词，表示忙的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d22783b630fd752101351323a1c97fc09db8edbf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9e51cd27efb611339d238626f40dd6dd93c3465.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "played"
       ],
       "answer": "play",
-      "explanation": "often提示用一般现在时，主语I用动词原形。"
+      "explanation": "often提示用一般现在时，主语I用动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d53447dbb21350dc8c41050ddb6c19dea158f44e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/516626bf8a5006ecce1803eeb6a747182000d4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5863973edc6707da45b52e49857fecbebe4ce969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0effba4bd994afbbb3560b3f1129467bb17e54f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1f3e1901b94f09628c86069914d935fae5c3925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f49bbc3e7cd49e7308f6b4843fcdc709cd15da4e.mp3"
+      }
     },
     {
       "id": 9,
@@ -70,7 +92,17 @@
         "egg"
       ],
       "answer": "lunch",
-      "explanation": "12点通常是吃午饭（lunch）的时间。"
+      "explanation": "12点通常是吃午饭（lunch）的时间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36fa185934c8a8746df08db8862ba2a09384f039.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3a8225470fb3b95925da28e9a3f0f077649838.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094530549b5e204650f83c6e549adcfbeeead3de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78cbc77f583dd8082f08804b0579daad54c5771c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6024f12494d3a99d8bda9b7a55f7d140f328a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbea96a3eeb9bf1ec5a865205ac3f6641388b16f.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +118,17 @@
         "go"
       ],
       "answer": "clean",
-      "explanation": "打扫房间用clean my room。"
+      "explanation": "打扫房间用clean my room。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6aaeaf3d959a0ffe4bcce77b99bf55893ab214b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/6814a21e90f4f5d5637f70c8e3e2568818d5570e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/292b0901993f7e9d9a0d9b80542f9e59505ba5be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a1cec45eaf37b34e1b1d89130d7746fe4006346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/160d151ef82db6bbcd9bc10a0137ead5528ea1cd.mp3"
+      }
     },
     {
       "id": 12,
@@ -102,7 +144,17 @@
         "park"
       ],
       "answer": "class",
-      "explanation": "take a class 意为上课。"
+      "explanation": "take a class 意为上课。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cab064cb3a07a384b140ce4c91f407d08b3e0e72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27a5a05c01ee6e7b614f4055d6908eaee91d9c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d767bf5b72373d12f0efd4406677e9ed076f592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5042d146667518a1a5017644946b8650aafca44c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4151ff856b629dbaac223398f6ea1deb94b69f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/299ec0071830c5b54fa4bfe1435e51eab7a12c23.mp3"
+      }
     },
     {
       "id": 15,
@@ -118,7 +170,17 @@
         "does"
       ],
       "answer": "go",
-      "explanation": "go shopping 是固定搭配。"
+      "explanation": "go shopping 是固定搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef3e11e98b75447af615e5fad321b5a3e65ad8e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f15fd675d55b55f870ff67b0b6e7d2f25dc4cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6b320f951a4827b3bf57d7a1f0231a5ef81b052.mp3"
+      }
     },
     {
       "id": 16,
@@ -129,7 +191,11 @@
       "question": "I eat _____ at 7:00 in the morning.",
       "options": [],
       "answer": "breakfast",
-      "explanation": "早上7点通常吃早餐。"
+      "explanation": "早上7点通常吃早餐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be407649de72a6ebb52edd4998c99ecfa45e6d46.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f04cb03ace4a6d4cce99c713ece6346c777723f4.mp3"
+      }
     },
     {
       "id": 17,
@@ -140,7 +206,11 @@
       "question": "I usually go for a _____ with my father.",
       "options": [],
       "answer": "walk",
-      "explanation": "go for a walk 意为去散步。"
+      "explanation": "go for a walk 意为去散步。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f3cde8c6222bc04b827199fcb818baef5a4df63.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bc2f19f142b713204d59bde12836fab132020a3.mp3"
+      }
     },
     {
       "id": 19,
@@ -151,7 +221,11 @@
       "question": "I play _____ with my friends at 4:30.",
       "options": [],
       "answer": "sports",
-      "explanation": "play sports 是本单元核心词组，意为体育运动。"
+      "explanation": "play sports 是本单元核心词组，意为体育运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52e49660cf1d04f953a2a9c6afb4822c224b4952.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41f11e9fc6240479ad17bbb753f1f70425a72866.mp3"
+      }
     },
     {
       "id": 20,
@@ -171,7 +245,21 @@
         "刷牙"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "get up-起床, brush teeth-刷牙, play sports-进行体育活动, clean my room-打扫我的房间。"
+      "explanation": "get up-起床, brush teeth-刷牙, play sports-进行体育活动, clean my room-打扫我的房间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/baef7a994071a889f4f8a7b8bfc4ab4f4df429cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3f2d515e5af85306ababa38cd3ed56008f949ac8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc6d5f8709a7f49027850917aa495004ec800fdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c88fb30c595ee11b158b7dbc54de3b3bd71f811.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53c6a719d518c11ea62e0930f202d581ac8a1bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3ddb4e6e30f806dfeff9ea9b37819c5799243cdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e998cef3866f36243b335c5e6e91db6e1b7461b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/305db271fd820a522e516d228038d62a773d5544.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/852c281e6098de7428c019e5ffca84706edbcd7b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f589c48153320b1dd1d56707efa398fc432cd817.mp3"
+      }
     },
     {
       "id": 23,
@@ -189,7 +277,19 @@
         "."
       ],
       "answer": "I,eat,breakfast,at,7:00,.",
-      "explanation": "主语+谓语+宾语+时间状语。"
+      "explanation": "主语+谓语+宾语+时间状语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53b11ea96930cb087bc19f6c600ad9f48da0a175.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3a8225470fb3b95925da28e9a3f0f077649838.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b545cded410173b2ec608282e4f1031b2e32c17f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d89455758ecc0f43a4a9ea5c37e24194722042f9.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be1361bce8a503e2500c9c75658ff3363ee14ca8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -200,6 +300,16 @@
       "容易混淆 eat breakfast 和 eat dinner",
       "忘记 do morning exercises 中的 exercises 是复数"
     ],
-    "tips": "记忆短语时结合身体动作，形成肌肉记忆。"
+    "tips": "记忆短语时结合身体动作，形成肌肉记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d7/d7205df689274913b89dfa88ebea057fa31f898b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ad/ad1ce268877a8960145e94c246163ec21dbfa959.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/97/975ab7c960f867c3a41efe32922d47226371b715.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ae/aed89926ffda72e472a9ddb7874584ad21d79fab.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/01b79b54a3d8bf1a6d926bd0a457f158bb37bfd1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6e/6e1a33d87e6384e50c2c3e501017afff2a46dcc4.mp3"
+      ]
+    }
   }
 }

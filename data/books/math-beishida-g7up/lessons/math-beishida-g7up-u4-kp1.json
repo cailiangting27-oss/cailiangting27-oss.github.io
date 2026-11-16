@@ -21,7 +21,15 @@
         "3"
       ],
       "answer": "2",
-      "explanation": "线段两个端点。"
+      "explanation": "线段两个端点。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -42,6 +50,10 @@
     "common_mistakes": [
       "认为直线可以度量长度。"
     ],
-    "tips": "只有线段能量长度。"
+    "tips": "只有线段能量长度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/435b82eae7278d2ba64bf44bcb3820e4c4786b34.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c9/c909b090328152f446cdbf3af31a73af1bc4fedb.mp3"
+    }
   }
 }

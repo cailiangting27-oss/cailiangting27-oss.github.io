@@ -16,7 +16,11 @@
       "question": "'watermelon' 单词中包含两个独立的单词 'water' 和 'melon'。",
       "options": [],
       "answer": "对",
-      "explanation": "watermelon是一个合成词。"
+      "explanation": "watermelon是一个合成词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a07f48f56ea47db9b98a7a00241103cc41c6dab2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d40fb360c522d7d506f3742a1422441faac7f623.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "当你不喜欢某样东西时，你可以说 'I like it.'。",
       "options": [],
       "answer": "错",
-      "explanation": "不喜欢应该说 I don't like it。"
+      "explanation": "不喜欢应该说 I don't like it。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73b30306a0d9495b7ae5a50d9ab3206f0ca5481d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3309a680169dbc515d7995d1847a97512c14f9bf.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "字母 'u' 在 'fun' 和 'blue' 中的发音是一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "fun中u发/ʌ/，blue中ue发/u:/。"
+      "explanation": "fun中u发/ʌ/，blue中ue发/u:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35b7487cef2aaa73ef66f927d98627222d7a3f51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7b5f1a81704e797cbb6e1bccb9becfa5ecd3d8e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "否定句 'I don't like pears.' 中的 'don't' 是 'do not' 的缩写。",
       "options": [],
       "answer": "对",
-      "explanation": "don't = do not。"
+      "explanation": "don't = do not。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24aabef7ae56a2da78e4697ee20c29d71e849373.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbee2c6d1e450a92cdacb1c97e8e3a691a558ec5.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "Here you are."
       ],
       "answer": "Me neither.",
-      "explanation": "对于对方否定的观点表示相同看法用 Me neither。"
+      "explanation": "对于对方否定的观点表示相同看法用 Me neither。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9df3bb56f3664522edb4f42b314ceeeabe653c1b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab29856cf238ead7144935558ba058a6998a5d6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f04e8684c494f9f89e543aa4318cabb0b86fcb9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f51fb7f4ea1ef7696c65e0f78a599fffe5527d39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61684419cce1eb90d07b232a8083bea86907c2b7.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "orange"
       ],
       "answer": "oranges",
-      "explanation": "How many后接可数名词的复数形式。"
+      "explanation": "How many后接可数名词的复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e1bd4d9b0c4ea05665ffb94899f8aaef204ecc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bda04628ea94f26cac0793eac103258eb515c505.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/ddbcb867f6cea8c7def615035965aaed1593f3bb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "under"
       ],
       "answer": "pupil",
-      "explanation": "pupil中的u发/ju:/，其他发/ʌ/。"
+      "explanation": "pupil中的u发/ju:/，其他发/ʌ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85eae7d150a5d260e08cdae7e64e16a459905f9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fefe45d763931a43945e6d44bc856b6151e6266.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/086956391188aac446af61227601df762bfbca92.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "No, I don't."
       ],
       "answer": "Certainly!",
-      "explanation": "Certainly表示当然可以，常用于回答对方的请求。"
+      "explanation": "Certainly表示当然可以，常用于回答对方的请求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cc223456d75fd30a50f8d5f04706ff1ac4359bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6099fe716243d239f9d6081bf25d806adf5a41ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97bda688eba021d3ce774b720c732daccfff0df4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/284da0cb3a948422cae9aa2005de405f53017333.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/991852eb0d654dff6aa49e2f6fdc58b9992b6d56.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "OK."
       ],
       "answer": "You're welcome.",
-      "explanation": "回答感谢时使用 You're welcome。"
+      "explanation": "回答感谢时使用 You're welcome。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a56602636cace5b97ab4b92b719d0a6637b05a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25b02b6f1b5d3c256b8d360b0d0aaa7c14814e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab29856cf238ead7144935558ba058a6998a5d6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3f88602d26b6fa8f0b5bf18209890cfbed3fdef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf728ce808caad43e1efd0442d4c73e43fac002c.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "to eat"
       ],
       "answer": "eat",
-      "explanation": "Let's 后面跟动词原形。"
+      "explanation": "Let's 后面跟动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6909ad58a0e0377d2127d678b9894d27743e51e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d89455758ecc0f43a4a9ea5c37e24194722042f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ecb6d30540b330591bc76ba7779a022845b09b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/301577ef5982bf18860c0a0555375d13bdb56974.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3f26f4280129f4a4d87dfbdb2b69453dd21eff7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d62d51a17666540c79d6a63a6f97d15357254c1.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "— Do you like apples? — No, I ______.",
       "options": [],
       "answer": "dont",
-      "explanation": "否定回答使用do not的缩写形式（此处按要求不含标点，输入为dont）。"
+      "explanation": "否定回答使用do not的缩写形式（此处按要求不含标点，输入为dont）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0530cd6711fda9db5350a8530bbee9936d9d8a0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5070c98d3387e71a8e666271984f459375ecc859.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "I buy three ______.",
       "options": [],
       "answer": "pears",
-      "explanation": "填入一种水果的复数形式。"
+      "explanation": "填入一种水果的复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/0881793616b8b4dec8af4a661263efc66f091125.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cbd37980a0d15f076b3f32f5b6cb3dc6cd9e599.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "An apple a day keeps the ______ away.",
       "options": [],
       "answer": "doctor",
-      "explanation": "英语谚语：一天一苹果，医生远离我。"
+      "explanation": "英语谚语：一天一苹果，医生远离我。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fbe743d15fbdd962f7588e3c0c00a5d9f11fa0c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e0ead796e406591b20efbc7954025a1310d083a.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "红色"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "banana通常是黄色的，watermelon绿色，strawberry红色，orange橙色。"
+      "explanation": "banana通常是黄色的，watermelon绿色，strawberry红色，orange橙色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/683cc13af3802bd424d71fc2866a64eca859f98b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef1a762d28eda40a6eae2a85b287051d8b4a1e01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0b51c46e4dcde6189e48ec9695fe55efc0ea703.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/2902c2feffacf5906efb89a2a848e7d70303f101.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2aec2bebf85d67dc4a1c124f9733d209eab4e297.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "apples"
       ],
       "answer": "Can,I,have,some,apples",
-      "explanation": "情态动词开头的疑问句：Can + 主语 + 动词原形 + 其他。"
+      "explanation": "情态动词开头的疑问句：Can + 主语 + 动词原形 + 其他。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87994ec75e4c2b6db862e58198fa427b8e365309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88e288f3e3ca8d1137556d908dcb9f355209464b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76c2436b593f27aa073f0b2404531b8de04a6ae7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37f9e7f894110235dc6483d19a3798f76fbd4c97.mp3"
+      }
     }
   ],
   "knowledge": null

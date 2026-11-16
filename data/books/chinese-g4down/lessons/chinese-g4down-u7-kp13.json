@@ -21,7 +21,17 @@
         "中午"
       ],
       "answer": "黎明",
-      "explanation": "平明：天刚亮的时候。"
+      "explanation": "平明：天刚亮的时候。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/810bce5456d6d3ab728079a2319360034f8fd916.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/759edd9927b852fa9ede15d0b4630bf6f191a231.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47962798c37946941573fa99e2cd1a6f131f21c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d0c6da6a2d5e8160d5111a51c10ccb60230f362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5382c1dbbbfc9ea638ff80a2743a40ec4f9320.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f4f180767b376f4fdea2c3e66ad10b01830ecd9.mp3"
+      }
     }
   ],
   "knowledge": null

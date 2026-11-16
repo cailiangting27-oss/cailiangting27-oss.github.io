@@ -16,7 +16,11 @@
       "question": "向别人借东西时，应该先说“请”，再说“谢谢”。",
       "options": [],
       "answer": "对",
-      "explanation": "礼貌请求需要使用礼貌用语，这体现了对他人的尊重。"
+      "explanation": "礼貌请求需要使用礼貌用语，这体现了对他人的尊重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96d3962c891e3c241380a9fe6658848d6aadcfc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8a806e4699ef345ee8a2fb31d43044b664988ba.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "小明让我去他家。"
       ],
       "answer": "妈妈，我可以去小明家玩吗？",
-      "explanation": "“可以……吗”是商量的语气，最礼貌。"
+      "explanation": "“可以……吗”是商量的语气，最礼貌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38b44c8589641fb36057348c6849e5c4b8210d05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/798b4563d0b7adebdf4cdeecc0f8ae508b3e0026.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b8dc0baee17ed00f02db4675823a02958b186fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/6626fd10bd5b3e453cfa6965cab08992ffef9b50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d6e96d158531f35d5303b4117aa7bfaa1e8bdf0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2103ed8fd1c284ebf0cf694cdfc8ae8d8bdd3bfc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "说话冷冰冰，像下命令",
       "忘了说感谢的话"
     ],
-    "tips": "多用商量的口气，把“给我”换成“请给我”。"
+    "tips": "多用商量的口气，把“给我”换成“请给我”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/19/1959a378d5aab5d4a1aa7acc017c4a70f8727b36.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5b/5b30f45769a4f536f251353ecc4c2d16a25e823b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2b/2b32c8216791fcb96b66418f8c2e6aeb372bb72b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e7/e7e76e514bf8c810f162175e8d39631bfcf15f2c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/69/69b6e6f18ae8f4842a68f15cdf1f0ec2f52030d2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0c/0ca1138e9db03d559349f815f110853ed5baea19.mp3"
+      ]
+    }
   }
 }

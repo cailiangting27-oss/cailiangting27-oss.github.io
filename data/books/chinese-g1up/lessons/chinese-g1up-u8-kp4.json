@@ -21,7 +21,17 @@
         "竹叶和梅花"
       ],
       "answer": "雪地里的动物",
-      "explanation": "根据课文内容，小画家是指在雪地上留下脚印的小动物们。"
+      "explanation": "根据课文内容，小画家是指在雪地上留下脚印的小动物们。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1492c9f6553f8434377d07a682d99a938e795b7c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/013e792cd83e94206b336709e9c094a4c16b4dd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18f66d28cf69dfd6f7eca11545f713fb648ef191.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7d048312bda0a0f9b24a5815814c185de7af362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc70cae10c6f0ee05e713bfc61c51f54034d61f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af2a823d4671bdb76789c335eaac0a22221b3227.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "大小"
       ],
       "answer": "形状",
-      "explanation": "像白羊、像棉花都是在描述云看起来的样子，即形状。"
+      "explanation": "像白羊、像棉花都是在描述云看起来的样子，即形状。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6ce609f240ad28ca69e9c11e6e537316137f710.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/364bd1bf0580d2328e475cdd0ab24d0516a970a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b9d537112e63ac4eb5b17e276f3eb9f04041220.mp3"
+      }
     }
   ],
   "knowledge": null

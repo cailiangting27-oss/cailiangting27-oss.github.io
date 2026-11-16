@@ -16,7 +16,11 @@
       "question": "口袋里有5个红球和2个白球，摸到白球的可能性比红球大。",
       "options": [],
       "answer": "错",
-      "explanation": "5 > 2，红球数量多，摸到红球的可能性大。原命题错误。"
+      "explanation": "5 > 2，红球数量多，摸到红球的可能性大。原命题错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9aa6767065e01dfee23364c067f45170d505c244.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/826c86ab36cfd285f2a42969142fb86cb86303bd.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": "蓝色",
-      "explanation": "次数多的通常对应可能性大的区域，因此蓝色区域面积可能更大。"
+      "explanation": "次数多的通常对应可能性大的区域，因此蓝色区域面积可能更大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54dce251f6998b0cadde4db42c678ffda0753468.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d26ad70921f2d0eaa8d0d22d056f96409a3a2c30.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "蓝"
       ],
       "answer": "粉",
-      "explanation": "粉球数量最少（只有1个），所以可能性最小。"
+      "explanation": "粉球数量最少（只有1个），所以可能性最小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1aa07b2433eaba88be318463e0ddcd7c13d13685.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1518fc4aa7c0bc5b02622adb27ba00f3c64373b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1ae3cda4beb527944d6ae143126619809788c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/febcf8875837e598c37638426d65e786a0bacc32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a44c5936fb41a605f731c8be87b2bcb9028b7c75.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/633647dd9f63d425af0780c6bc013e4d2002fc69.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "大于4的点数有5和6，共2个。"
+      "explanation": "大于4的点数有5和6，共2个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49639a0d17111aa39dc097bf8d2c51af46262cab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dda7fc8c9e7de81594e6b7bb0634352840b23c2.mp3"
+      }
     },
     {
       "id": 14,
@@ -80,7 +114,17 @@
         "摸到的不可能是黄球"
       ],
       "answer": "摸到黄球可能性大",
-      "explanation": "8 > 3，数量多的可能性大。"
+      "explanation": "8 > 3，数量多的可能性大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/9567006f3e9ed829c9af0e1001b2ee8cb7cbe669.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f9ef17df7122eac9e0e8a280fe15e04bf4b5e9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b90671445243fb35867b4d068e09e623e3e4193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f26f2fd9cb72b4bf4fe49f8df8df11533ec7fe47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3bfd75dc81a660cb4e27b5cd9c85ea85575f4f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d7346978064c5e2d86fb2172b0c0b6cf711f5ae.mp3"
+      }
     },
     {
       "id": 16,
@@ -96,7 +140,17 @@
         "10"
       ],
       "answer": "10",
-      "explanation": "要使白球可能性大，数量必须超过红球。9 + 1 = 10。"
+      "explanation": "要使白球可能性大，数量必须超过红球。9 + 1 = 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8e3906ef5cdbe7dedeacc09c625b02f6c2ed775.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/796c61bea0adaface3386aad8b982184516c74c4.mp3"
+      }
     },
     {
       "id": 17,
@@ -112,7 +166,17 @@
         "中等"
       ],
       "answer": "最多",
-      "explanation": "可能性最大对应的数量最多。"
+      "explanation": "可能性最大对应的数量最多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90ede371c0811e3fa9b1a846e0340b4039081ecf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71cbe0adf1defb4986e55adcfce750d9a39d978a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c5dfceda4e14f13c5498e05bed8999f8d0c5f05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/616499e9f5546457162e20f0ce8e0aa1e174df12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/839de24a0c5929eec7de4dd09b9060fd592aa3d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a954bee176c3b2735767527e5b835fba3f3206e6.mp3"
+      }
     },
     {
       "id": 19,
@@ -123,7 +187,11 @@
       "question": "一个口袋里有 5 个红球和 3 个黄球，红球比黄球多 ___ 个。",
       "options": [],
       "answer": "2",
-      "explanation": "列式：$5 - 3 = 2$（个）。验算：$2 + 3 = 5$ ✓。红球多意味着抽中可能性大。"
+      "explanation": "列式：$5 - 3 = 2$（个）。验算：$2 + 3 = 5$ ✓。红球多意味着抽中可能性大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b89e0ecb5bd6a9473b21d2eb0da958e2ea3920d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e85a8820a78cbd8a17ac0c736edb3c706b35616.mp3"
+      }
     },
     {
       "id": 23,
@@ -134,7 +202,11 @@
       "question": "$25 \times 4 - 20 = ?$",
       "options": [],
       "answer": "80",
-      "explanation": "先算乘法 $25 \times 4 = 100$，再算减法 $100 - 20 = 80$。验算：$80 + 20 = 100$, $100 \times \frac{1}{4} = 25$ ✓。"
+      "explanation": "先算乘法 $25 \times 4 = 100$，再算减法 $100 - 20 = 80$。验算：$80 + 20 = 100$, $100 \times \frac{1}{4} = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6e3130fd3f142e133e509b7eadb2d7dab708b9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f85a6c3d2c9742531cd351d81b1731cf94448d03.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -145,6 +217,16 @@
       "认为只要有这个选项，可能性就一样大，忽视了数量差异。",
       "在计算抽奖公平性时，只看种类没看具体的份额。"
     ],
-    "tips": "先数一数各部分的数量，数量最多的对应可能性最大，数量最少的对应可能性最小。"
+    "tips": "先数一数各部分的数量，数量最多的对应可能性最大，数量最少的对应可能性最小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/91/91068fbac906077ba58eb1880413836c00edb5c9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/57/57aca45e3942c58217c17c1b2a2a191edc4e4653.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ff/ff25ba76847976ab1f195be0d4bf06608c29a00b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c9/c9c25f0a6b139fc70e6bab8295e775d41905cf4d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/43/43d55024b8e310931bb84bf516d0ef946aaad245.mp3",
+        "https://api.clthuanxie.cn/cc-audio/79/7967117894867d7e309824c6b9713d1d466480d5.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "I go to the USA by ___.",
       "options": [],
       "answer": "plane",
-      "explanation": "去美国距离远，常选飞机plane。"
+      "explanation": "去美国距离远，常选飞机plane。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a63b9db7069876338527e1aaa76b36a661c1b1ef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14ca86270b82aa621fe30cb96ccb98247cc05be3.mp3"
+      }
     }
   ],
   "knowledge": null

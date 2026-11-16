@@ -21,7 +21,17 @@
         "多少"
       ],
       "answer": "顺序",
-      "explanation": "第几表顺序。"
+      "explanation": "第几表顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/3436da1bb7a1d46214875fb06001022970a0b455.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20ee03ce779018ddd38d537422a5c64d38180b70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ae893190360ea3db36361c337f4cb15c6e4b53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/367ff5ddd2cca0736997a163c354e278831c35fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c999d484a3a2ad686cccc959583e2329884a333.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bf3574854c6fd596f67e7479781b338f06018a6.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "10 比 9 大。",
       "options": [],
       "answer": "对",
-      "explanation": "10 > 9。"
+      "explanation": "10 > 9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6a9fd49c5b05a5dee2a40fb003af8143cde2555.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4571780b4f884bb2aca07049f224c72751d10534.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "猜"
       ],
       "answer": "边数边做标记",
-      "explanation": "做标记防重漏。"
+      "explanation": "做标记防重漏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70362f4d3e80a5f7bd66e5aeb68447f6ec4afcbe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2e004bedc8651717dba8f92c71af858cfee77b11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96d6b71b4e7f3ce0d3f953ee9af7c9a96e6cc037.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2664fbfa14b071794bd410ee71c71828f9a1328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c51e0ad79cb19f30a121df7dd403051021aa714.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c99095550becee199ad26116cd03e84420ee57a0.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "9"
       ],
       "answer": "6",
-      "explanation": "7 前面是 6。"
+      "explanation": "7 前面是 6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8f15b82148f50d3545b923a16e6a39814089610.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c264459c5b754a122a86b54ef9e089bec1c739e.mp3"
+      }
     }
   ],
   "knowledge": null

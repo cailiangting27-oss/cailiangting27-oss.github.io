@@ -16,7 +16,11 @@
       "question": "The UK 代表的是 '加拿大'。",
       "options": [],
       "answer": "错",
-      "explanation": "The UK 是英国，Canada 才是加拿大。"
+      "explanation": "The UK 是英国，Canada 才是加拿大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7ca79d376c6a8ddd4e89ba96971642bc265c8321.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f71fca90b81152f1c60ed55253e9b1aeccda3fdf.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "单词 'dad' 中的字母 'a' 发 /æ/ 音。",
       "options": [],
       "answer": "对",
-      "explanation": "dad 是闭音节，字母a发短音。"
+      "explanation": "dad 是闭音节，字母a发短音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70326840158bedaf528beef5ecfba02fcb7888c7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0afca63bd8cf2a86101915308cd8c7340e685d59.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'I am from Canada' 可以缩写为 'I'm from Canada'。",
       "options": [],
       "answer": "对",
-      "explanation": "I am 的缩写形式是 I'm。"
+      "explanation": "I am 的缩写形式是 I'm。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dff70d888de6863f1674ef05636f41fecdd6f93e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbae6c81c4f4978ca30e03b75deb56084a06115c.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'boys and girls' 的意思是 '孩子们' 或 '同学们'。",
       "options": [],
       "answer": "对",
-      "explanation": "这通常用于老师对学生们的群体称呼。"
+      "explanation": "这通常用于老师对学生们的群体称呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/532324e89520d16e9919c63d8ead7634fe3b3ae6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6273a6d22ff37894e91f843ddd9f732b6c8cbf1.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "he"
       ],
       "answer": "friend",
-      "explanation": "have a new friend 有一个新朋友。"
+      "explanation": "have a new friend 有一个新朋友。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67e7b2c0a505ab8ab69081af04ee28b6ef03db23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b1e95cfd9775191a7224d0a218ae79187e80c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/270c489738a81d191da99ebde86a2726cde34a7b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "I"
       ],
       "answer": "She",
-      "explanation": "Miss 指未婚女性，用 She。"
+      "explanation": "Miss 指未婚女性，用 She。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6698cf98ee76c04f7e999358f3fd8abb9cecf7b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/037a30ee342a1f7deb3ffd932fac0f077ae5eac3.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "am also too"
       ],
       "answer": "am too",
-      "explanation": "too 放在肯定句句末表示“也”。"
+      "explanation": "too 放在肯定句句末表示“也”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3647f37628b246064691e5bc04b05543cd5b13e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a7433243776ac28dcbe60550c1df3cf59de1b2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f702fde7703f84810744522eaf9cdf98ecea9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/164a5c24f5df5918f285228443ab87209785293f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c53db44f660e29400f6663109599ef596b1ca7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a2d5443dbc768dd927832456d318d0260675f5f.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "I'm a student."
       ],
       "answer": "Thank you.",
-      "explanation": "当别人说欢迎时，应回答谢谢。"
+      "explanation": "当别人说欢迎时，应回答谢谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee7e45c5f1d2ff5f5ca722af38fb4c6b09ec0d9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25b02b6f1b5d3c256b8d360b0d0aaa7c14814e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bc5e7f6b5915a1e918b4851d1f128e2b1a57db8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6de6e91b8d74ca4515e32ef2fdc5907a3b27ff73.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3b1bfa2588dfd2da80ab9850d083ae7978d3d4a.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "an"
       ],
       "answer": "a",
-      "explanation": "虽然 he is a teacher, 这里 a 修饰职业名词。"
+      "explanation": "虽然 he is a teacher, 这里 a 修饰职业名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd20db5d0107a07861a511197bcda7e6f206014f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2eaf2aa1512d6596e0a5bae633537c6b8e779a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd6a7b8768528485a0dbcd459185091e80dc28ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08e19759e0e09e1bc90dfde0eb0ffa0fb7fa3f8e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "He is a student."
       ],
       "answer": "Welcome!",
-      "explanation": "Welcome 表示欢迎。"
+      "explanation": "Welcome 表示欢迎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c9f38c66c8e118cc9691123689e8fe081fe1f98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e77a326033696c0e779ffbca1161437cf23fed2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e52e5e6cd50ef4de30d8a4fafbbfab41180cc200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64753c6fe019c4dad6292319d4387ea91bd3cee9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30a347c2076f541d9f161939863f018da35d4454.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/aff687ebcaa9b64b7eebd5b88b28a18993eff3a8.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "I from the ___ . (我来自美国。注：请填USA小写)",
       "options": [],
       "answer": "usa",
-      "explanation": "usa 代表美国。"
+      "explanation": "usa 代表美国。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7dd57c446a79ccfeaf7f5419e76969b4c20e2ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dadc15fb95e8a3f14b9c74cb63186d7ee1e6c93e.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "___ is a teacher. (他是一名老师。)",
       "options": [],
       "answer": "he",
-      "explanation": "he 指代男性他。"
+      "explanation": "he 指代男性他。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec8546c8a3a87086d48064138776ec4656d19955.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3681a254f4e1dcac6d8c3d146d6a850c6fffae4.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "Wait ___ minute. (等一下。)",
       "options": [],
       "answer": "a",
-      "explanation": "wait a minute 是常用短语。"
+      "explanation": "wait a minute 是常用短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7f61db3d564d3a057bc1495dde43d6c1370d2a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d10503a872883e7327c85f81a144632846f46e0.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "等一下。"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "Welcome-欢迎, Wait a minute-等一下, I'm from the UK-我来自英国, Where are you from-你来自哪里。"
+      "explanation": "Welcome-欢迎, Wait a minute-等一下, I'm from the UK-我来自英国, Where are you from-你来自哪里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aeddec1cdec6702c851355cb93ffe91e05c88ddd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e52e5e6cd50ef4de30d8a4fafbbfab41180cc200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f5d60c1e95649ad0dd6f0a2f49e50fbcd0b5ed5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bb828147f0228ee050bec5800234a71c4e7e172.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bc5e7f6b5915a1e918b4851d1f128e2b1a57db8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7b779e841bd964464af35585f3aafde08565258.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab4d12cf8ddc7df08adb36dd8e07384cecac2db1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/022fdb429cc678ba06c9d46067ea39f721d97cd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b59a097e790b8634ed7c65bc619b12a587d00359.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f69599f8dfbb11ec19b48f81711ef1edacea1f7c.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "are"
       ],
       "answer": "Where,are,you,from",
-      "explanation": "疑问词(Where) + are + 主语 + from。"
+      "explanation": "疑问词(Where) + are + 主语 + from。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6af957c8964555e3da496b9f34a5d25a82d63ca3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b1e95cfd9775191a7224d0a218ae79187e80c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4744e225f47a28676909e4a10fe34eec047f565c.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "邻居的话不能听"
       ],
       "answer": "犯了错及时补救不晚",
-      "explanation": "寓意在于出问题后及时补救，避免更大损失。"
+      "explanation": "寓意在于出问题后及时补救，避免更大损失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76dca6ce2f4a8794d5787466d6cf8ac8b5181309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/68158bd9c57860fac443b6c43117ad4764e9cc11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70a3e4dc7eda30c93f9c43548b8ad6e704fd05e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0171033153fa607213923c70a42918aafa8db85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36ff7555987bdc437f9a1bc55faf737201934643.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3aec0689d71d84ad1c616ec808c7d9f1b9a8e4d1.mp3"
+      }
     }
   ],
   "knowledge": null

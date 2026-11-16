@@ -21,7 +21,17 @@
         "裁缝说，别的裁缝和他不一样。"
       ],
       "answer": "裁缝说，他和别的裁缝不一样。",
-      "explanation": "直接引语改间接引语时，第一人称“我”要改为第三人称“他”，并去掉引号和冒号。"
+      "explanation": "直接引语改间接引语时，第一人称“我”要改为第三人称“他”，并去掉引号和冒号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c90aaedf5335bdd75d5391316929d4f59d2659e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c65c60a84a1998e817446ef28ad53feeddc7705b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb6063d29e5afafade8f1e6bf82fbdf9d04d9375.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5ab8c74976c1895656dde1f0d0c00f91966c4803.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f3e40094350bb439916ca0205a05ff429bc6e4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e43c98520987fac907213950ad6821361702eb6.mp3"
+      }
     }
   ],
   "knowledge": null

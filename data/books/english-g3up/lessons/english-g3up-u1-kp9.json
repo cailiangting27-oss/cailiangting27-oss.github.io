@@ -21,7 +21,17 @@
         "an; an"
       ],
       "answer": "an; a",
-      "explanation": "eraser以元音开头用an，crayon以辅音开头用a。"
+      "explanation": "eraser以元音开头用an，crayon以辅音开头用a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e4f72714927557a9cc306c174c92b1d816d1a7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad75b038631066ba3e18250ace963ef84462710b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b587e93bb2f6b54f873e432fcb4390642b3da7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c575e4545c11859e8c7da5f4619a30faba6b65b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f073f0fe3ae8cd39464381aba05bb454ec310d94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72897086c585dbeaa45973f0debbb5af3e98bbd0.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "I have ___ eraser.",
       "options": [],
       "answer": "an",
-      "explanation": "eraser是元音音素开头的单词，用an。"
+      "explanation": "eraser是元音音素开头的单词，用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/deeece0a4de7af6bac7bf5c73f17cc51231c9588.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4378626d26854d2e211dd7bf1a9c6a87525145d6.mp3"
+      }
     }
   ],
   "knowledge": null

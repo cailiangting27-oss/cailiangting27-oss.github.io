@@ -22,7 +22,12 @@
         "say": "Thank you",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 10"
+      "knowledge_point": "英语跟读 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/6b/6b50e31a7e1337db9ecb0e2fcb6e65ca27f57df5.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67a915f8867705b21990e957469e7c82ca6f62d5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa3487237e9d9af2f33cfde5285159596afc6fa9.mp3"
+      }
     },
     {
       "id": 38,
@@ -39,7 +44,12 @@
         "say": "How are you",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 10"
+      "knowledge_point": "英语跟读 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/fc/fcbb38898b63d2255b64de7799c4af3de6ce054e.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/69/6958f3f00ba0ea711f518ed715258384825b6b97.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed497317cd0be6c1e1eabd6b92912abb7e5f3b2f.mp3"
+      }
     },
     {
       "id": 39,
@@ -56,7 +66,12 @@
         "say": "I am fine thank you",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 10"
+      "knowledge_point": "英语跟读 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/24/240adb62b320b69329f0359029193b0646e37813.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44840193c8131eeb7c3d4011663f34d82d9752e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/109457d5c14596655fc62f05024cfb3701c10417.mp3"
+      }
     },
     {
       "id": 40,
@@ -73,7 +88,12 @@
         "say": "My name is Lily",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 10"
+      "knowledge_point": "英语跟读 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/5c/5ca047b28b9b2b6c37e8106302a9576ed88271a1.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11e4b50e79a95b46ec0626fca36edf9210c6484e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3983aebfab4c5cd05812aaa7f8cf478539032649.mp3"
+      }
     }
   ],
   "knowledge": null

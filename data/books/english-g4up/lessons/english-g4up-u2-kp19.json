@@ -16,7 +16,11 @@
       "question": "I have one ______ book and two storybooks.",
       "options": [],
       "answer": "maths",
-      "explanation": "数学书对应maths book。"
+      "explanation": "数学书对应maths book。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42ec3fae31369f2c9bd3d99074dbe5307005d116.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16f85d8b17cd13785af87120727db3875b68ce2a.mp3"
+      }
     }
   ],
   "knowledge": null

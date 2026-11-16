@@ -16,7 +16,11 @@
       "question": "'Who is he?' 用来询问‘他是谁’。",
       "options": [],
       "answer": "对",
-      "explanation": "Who用于提问身份，he指代男性。"
+      "explanation": "Who用于提问身份，he指代男性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b8eefabfbb432c21d809bf7ccd4523edadc0ed6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65853e185b5d554935a18bbcd1c9ed8e0321e94c.mp3"
+      }
     }
   ],
   "knowledge": null

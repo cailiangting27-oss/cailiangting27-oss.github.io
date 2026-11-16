@@ -21,7 +21,11 @@
         "？"
       ],
       "answer": "。",
-      "explanation": "这是一个完整的陈述句，用句号。"
+      "explanation": "这是一个完整的陈述句，用句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d85feb5f3e1f0056de4e8c3e881ef82fa28007a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c28b45efa2be17ceca64512d6c7818610442a21f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "some waters"
       ],
       "answer": "water",
-      "explanation": "water是不可数名词。且题干已有some。"
+      "explanation": "water是不可数名词。且题干已有some。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0baa241172f26c69d6da5fd18d081614d1d54bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e5ee19287692d4f4fddd5174891b4e99b7028c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6fcef9285ef6a94b1ec94512235089c9e04ec35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/817930da0c7f929d4df5ac9d8f25ece62db999b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41efc4d7043c562eb099c4ca7973f2377ed9f59a.mp3"
+      }
     }
   ],
   "knowledge": null

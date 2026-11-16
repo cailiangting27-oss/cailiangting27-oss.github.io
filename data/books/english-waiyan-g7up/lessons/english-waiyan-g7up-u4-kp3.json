@@ -21,7 +21,15 @@
         "healty"
       ],
       "answer": "healthy",
-      "explanation": "healthy 形容词。"
+      "explanation": "healthy 形容词。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de18ccfa15e841c4efe6788a08eccda935650bb1.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "暮春"
       ],
       "answer": "暮春",
-      "explanation": "农历四月已是春季末尾，所以称为暮春。"
+      "explanation": "农历四月已是春季末尾，所以称为暮春。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a06ee48ea1f7a912b33cb8a9fdc91f14f6ddf12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb3a7e099a088bcfd6d67cb450988c91fe87503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/183b8458672df0abfe8037273dc52c51859ed4dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b951ea77dd4c4e209cfb66400ec509ef53d4d9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1acd3de5d4e66e6ebeec5e962b56c992a67f7c98.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e149882e61e517ba0921a1cdac5e219c6b1f9a9.mp3"
+      }
     }
   ],
   "knowledge": null

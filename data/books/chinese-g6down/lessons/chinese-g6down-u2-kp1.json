@@ -16,7 +16,11 @@
       "question": "《鲁滨逊漂流记》的梗概部分是按照时间顺序来介绍情节的。",
       "options": [],
       "answer": "对",
-      "explanation": "梗概通常按照故事发展的先后顺序进行叙述，使脉络清晰。"
+      "explanation": "梗概通常按照故事发展的先后顺序进行叙述，使脉络清晰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df6817ae09008e736a94b5cd5fe2822bd286f52f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad98877d654e402641f2a11b9376f353f1fc3b54.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "写作品梗概时，为了吸引读者，可以加入大量的心理描写和修辞手法。",
       "options": [],
       "answer": "错",
-      "explanation": "梗概应语言简练，重点突出主干情节，不宜有过多的细节描写。"
+      "explanation": "梗概应语言简练，重点突出主干情节，不宜有过多的细节描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/412f2dac8dac861ac899299d80ec0193a0664cd6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa1f03adefd7714f7f38cfd88806e8e88ec0c91b.mp3"
+      }
     },
     {
       "id": 11,
@@ -43,7 +51,17 @@
         "用绳子打结"
       ],
       "answer": "在树干上刻痕",
-      "explanation": "课文明确记载他用刀在木柱上刻痕来计算日期。"
+      "explanation": "课文明确记载他用刀在木柱上刻痕来计算日期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f24938ecb2867de02ccdcd2d667a437313154fd3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62d93bc3d6b44057032ff014b26ffff608d978e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e2570c4f8d61af2bcac238a1447bd4979846bf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de4f05b13c46d7ec3786361ccc1478b75eda2755.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa3fff91301acdca22278ec8f520792a6c0ab251.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4801b1404cd15560d55b17f80c8303026b7686a.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +77,17 @@
         "荒岛求生—遇到土著—制造木船—定居荒岛"
       ],
       "answer": "流落荒岛—建房定居—营救“星期五”—回到英国",
-      "explanation": "这四个标题涵盖了作品梗概的主要时间节点和关键情节。"
+      "explanation": "这四个标题涵盖了作品梗概的主要时间节点和关键情节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/013304efbcb8a1c2a50f8a2d4538391e8ffc46da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce317d16df458b8f184b2806bf605ed6cf6e10cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/213074704139cd561813e3f2f4973b4db8284c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8edbaabe985751916782fbe68c3d7be77ce8c560.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58ef6a294b8b482d0487cc06a6152c6d9248be35.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d02f721c615811907dc86550681f3a963c9d7411.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "鲁滨逊在荒岛上救下的野人叫（ ）。",
       "options": [],
       "answer": "星期五",
-      "explanation": "因为是在星期五救下的，所以起名为星期五。"
+      "explanation": "因为是在星期五救下的，所以起名为星期五。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5ca2e5eb4698334885bef41ca268f87745e6c12.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a65b68aaf4305b92821ebaa451211a4051a753f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "堆砌词藻：写梗概时像写作文一样加入大量环境描写，导致重点不突出。",
       "情节断裂：只写精彩片段而忽略了情节之间的因果转换关系。"
     ],
-    "tips": "尝试用“小标题”法，即先把每部分内容概括成4-6字的短语，再以此为骨架串连成文。"
+    "tips": "尝试用“小标题”法，即先把每部分内容概括成4-6字的短语，再以此为骨架串连成文。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/77/77c84a80e62735ecc4cf1d99b3ee3b69b65547bb.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c8/c824637fe9423a6c9df5376efd908c5974dcce1d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0cfc13baea266b916c9bf05e264a5fb092fa8c3f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3b/3be2949548cebd60ccf104efeb28add995c5ecf9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/50/50cb90cc902c083950249d76f939a928d238ed50.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4b/4bd3e08238c0faf68ea73a353b6f91d36e92feb6.mp3"
+      ]
+    }
   }
 }

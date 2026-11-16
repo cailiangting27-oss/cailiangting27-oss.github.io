@@ -16,7 +16,11 @@
       "question": "红色、绿色和蓝色的光混合在一起可以产生白光。",
       "options": [],
       "answer": "对",
-      "explanation": "红、绿、蓝是光的三基色，混合后可得到白光。"
+      "explanation": "红、绿、蓝是光的三基色，混合后可得到白光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba4cc960381addfa12ede2a6ee0ede4712da562e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/734fc5d75ee7233c5ae0e760f9d397bd94f25a3e.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +36,17 @@
         "红色"
       ],
       "answer": "白色",
-      "explanation": "七色轮快速转动时，利用视觉暂留，多种颜色混合成白色。"
+      "explanation": "七色轮快速转动时，利用视觉暂留，多种颜色混合成白色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1ecf953d9c4669ce5b05be6a51897a750ec17d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/5568c16f8aee3721bbe73dda5af5057d750a16d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5996c71fae9faa7c57864a172a2692b67a128a70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d80ae1cf92167425c756ae25dfb91b8305986d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4b92b27ba00a153833c1f3858f62ed54fb3928c.mp3"
+      }
     }
   ],
   "knowledge": null

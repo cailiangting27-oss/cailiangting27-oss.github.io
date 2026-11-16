@@ -21,7 +21,17 @@
         "不理不问"
       ],
       "answer": "主动承认并道歉",
-      "explanation": "诚实的人勇于承认错误。"
+      "explanation": "诚实的人勇于承认错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a0d3546da6726b49a7e41aa82975e9b026f2c98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d08944852d5f6d2a7b37d1949c9fef3683698af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/137158a351803f61a5a9314fe70f7ec3f4e4261d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dfebdbf2b78f2a57ab8e58810394a3e7bade48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fef14959b2e3bd9c790d29918f2a891fea4cc016.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cda275d30d0fdedf09f0a170a86febbc8f341ab.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "答应别人的事情要努力做到。",
       "options": [],
       "answer": "对",
-      "explanation": "答应的事要做到。"
+      "explanation": "答应的事要做到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2161effe6457a98861ce903a3b3e37c6b7c5134c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5dd43d44c9b384a410e0e184ff49f2cc2613aa06.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "怕挨批评就说谎。"
     ],
-    "tips": "承认错误是勇敢的表现。"
+    "tips": "承认错误是勇敢的表现。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a1/a11041a907531b85eb847e4612b78f3ba77d8b5e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/de/de0ea5718259846397d9a59c347a30f2fa021514.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a1/a11041a907531b85eb847e4612b78f3ba77d8b5e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1c/1c5dbe9bab23631db4c61afd03591bee6a7b6961.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/aa/aae7eea73eb985351b64a75cc71bf09c3f2ad592.mp3"
+      ]
+    }
   }
 }

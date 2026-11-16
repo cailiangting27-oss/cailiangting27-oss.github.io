@@ -16,7 +16,11 @@
       "question": "用回形针测量桌面长度时，回形针之间必须首尾相连，不能留空隙。",
       "options": [],
       "answer": "对",
-      "explanation": "测量时工具必须首尾相连且排成直线，否则测量出的数据不准确。"
+      "explanation": "测量时工具必须首尾相连且排成直线，否则测量出的数据不准确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fd3f43d3230ddee55bcd9c38597df476d35e002.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6714ce234671688dcabb38229ba862426b84bb7b.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "无法判断长度"
       ],
       "answer": "第一张纸条比较长",
-      "explanation": "使用相同单位测量时，测得的数量越多，说明物体越长。"
+      "explanation": "使用相同单位测量时，测得的数量越多，说明物体越长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/7944490150752cc3720aa505d6adbdf85667b439.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de87bca1c000f330af9ba5e64deb6bebdd0928db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b4e5d969358ab3f9441e68f33b64bab9dea84ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2f29b5b7949bbb2f7855dd1eb1ac78579854b71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b49c269d05008b8c371dd3c8ef96a3cd3fbe6eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc6d14059d19c033a0e1e2718b2df17aad82af0f.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "回形针太短了"
       ],
       "answer": "小立方体每条边都一样长，可以多个叠放",
-      "explanation": "小立方体的规范性比回形针好，容易对齐且能堆叠。"
+      "explanation": "小立方体的规范性比回形针好，容易对齐且能堆叠。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b087e577c38ffdd657ec9145903f796326b73caa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e11e8d776b143a51e014e48d1abcba515b413093.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d005e83d3c36e9f94bd5471f260f5301e473cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d54cd52c50570175625f54e1a0315fc585ffff6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc08a574d2c831e47630d68de739a601126f2753.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae4925bebb5fbf4fa7b97f3bd00e43c95b47f37b.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "数据没用"
       ],
       "answer": "积木比回形针长",
-      "explanation": "测得数量越少，说明单个测量工具的单位长度越长。"
+      "explanation": "测得数量越少，说明单个测量工具的单位长度越长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdcc37eb301602302451c27ff4daec865a63478c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c304491baf7d2298b2107ace68e9158d7b990c57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6b22d71e9cac28e15d8bebe1df67d39d28b1fa3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0ead4138374432e00346ef229cb58080577740a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb5d421e86fd76b3b6560cd95fcaa34abdd4c1b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/9538a9a506085b869a54b3f633a577abf0e58b69.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "我们在测量物体的长度时，必须要对齐起点，也就是要对齐（___）线。",
       "options": [],
       "answer": "零刻度",
-      "explanation": "测量的规范是起点对齐零刻度线。"
+      "explanation": "测量的规范是起点对齐零刻度线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76b5a15e4c08317b83fa972f82af352848fc3325.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13848676f91071bb169452f68e8a83f9f76679dd.mp3"
+      }
     }
   ],
   "knowledge": null

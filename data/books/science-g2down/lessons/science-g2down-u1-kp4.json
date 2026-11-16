@@ -21,7 +21,17 @@
         "北方"
       ],
       "answer": "北方",
-      "explanation": "根据国际惯例和教材，指南针涂红的一端通常表示北极（N），指向北。"
+      "explanation": "根据国际惯例和教材，指南针涂红的一端通常表示北极（N），指向北。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be697fea0535b7ad1c8013746b6d174e6ae0cb77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5efd206af0f13008ec70a797f512dd11b587d192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c23287b82bee0728a0c06fb3b0223951d6082db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96a32270925b0d5e53c765433344691fec2e5ffa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49c1d08379d195a9785223cf293dfd11699b7054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d53db6948537623935d9dc9171592b5867a781f0.mp3"
+      }
     },
     {
       "id": 11,
@@ -37,7 +47,17 @@
         "西"
       ],
       "answer": "南",
-      "explanation": "S代表South（南），静止后指示南方。"
+      "explanation": "S代表South（南），静止后指示南方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2cdc1c0d3fa7e1e468a8134f3845fd091294ca4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/111fc3d7a9291d7eb4acca2f2241caf4cb7752bd.mp3"
+      }
     },
     {
       "id": 16,
@@ -53,7 +73,17 @@
         "浑天仪"
       ],
       "answer": "司南",
-      "explanation": "司南是中国古代利用磁性矿石制成的最早的指南针。"
+      "explanation": "司南是中国古代利用磁性矿石制成的最早的指南针。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/454c9c8165b21560864fb301d813104b622bfc6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/5547c452e04f35753e4f021ecb5801e62aad8d19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b59afac7ca0e6684a8014a799d56c69b8701fe71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55af164c79019d409caeb0c76cd97ee30fa3f6af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ced41cb9fa5d02d1d755f982169fe84608ab7ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbe7bb1ecb1dbf9cccb72bf1150fa1ff91ce0079.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "磁铁指南的一端叫南极，用字母（    ）表示。",
       "options": [],
       "answer": "S",
-      "explanation": "S代表South，即南极。"
+      "explanation": "S代表South，即南极。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e19567dea90d05ffd4acb75a0ae39a24196c7e49.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d49b83b15b5b2526f03f374dc9fc316d795d62c2.mp3"
+      }
     }
   ],
   "knowledge": null

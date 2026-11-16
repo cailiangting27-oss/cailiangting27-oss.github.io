@@ -16,7 +16,11 @@
       "question": "“底”和“原”都是左上包围结构的字，书写时包围部分的撇要写得舒展。",
       "options": [],
       "answer": "对",
-      "explanation": "“底”和“原”属于左上包围，撇画舒展能使字形大方。"
+      "explanation": "“底”和“原”属于左上包围，撇画舒展能使字形大方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d676f37a4271d0cc1d856734e3a198515a4b050.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8ffa70d4d3367315a7dcccd99187fe87794b4d34.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“递”字书写时应该先写里面的“弟”，再写外面的走之底。",
       "options": [],
       "answer": "对",
-      "explanation": "左下包围的字通常遵循先里后外的笔顺规则。"
+      "explanation": "左下包围的字通常遵循先里后外的笔顺规则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25db27c5ca8b1fc016570537b6af40786e048d70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e5db7d111f96ff98bc12809a080bec493114ded.mp3"
+      }
     },
     {
       "id": 18,
@@ -38,7 +46,11 @@
       "question": "“处”字的偏旁是（ ）。",
       "options": [],
       "answer": "夂",
-      "explanation": "“处”是半包围结构，部首是折文儿（夂）。"
+      "explanation": "“处”是半包围结构，部首是折文儿（夂）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e7bdccaac503ac9b2d9ba107b421d127d0992d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/670b1749390648d74c47fcad9853d3b628d98c72.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -49,6 +61,16 @@
       "走之底的字（如“递”）先把外面写了，导致结构失调。",
       "包围部分写得太小，把整个字挤得很难看。"
     ],
-    "tips": "书写此类字时，可以想象外围部分是一个宽敞的屋檐，要让屋檐写得大一点，里面的零件才能安家。"
+    "tips": "书写此类字时，可以想象外围部分是一个宽敞的屋檐，要让屋檐写得大一点，里面的零件才能安家。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c7/c774e9775e86d03420af2d5e669810da587042c6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/56/563c4e4a12e526c02d95b45b4b5271e844c57b01.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c6/c66246f9d0b07de64f89ad5b10027c215e330b4c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a2/a2716b87a0c6efdf0f0b3e3955d5eebe9e69d367.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7d/7d8014c4f1ebb5491619cb10c1192dd4697e03a3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0e/0ec5b8643569cf99081fa961dc8386d50d660bf2.mp3"
+      ]
+    }
   }
 }

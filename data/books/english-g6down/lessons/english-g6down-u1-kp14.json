@@ -21,7 +21,17 @@
         "put"
       ],
       "answer": "take",
-      "explanation": "take...into 把...带进...。"
+      "explanation": "take...into 把...带进...。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fcca541a23c34c2d3506a4114b5fc58dd6eeb0c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/783923e57ba5e8f1044632c31fd806ee24814bb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53bd7d992ed7edf9a271056d254d8f7797462f27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7942c7243d04f0bf7a4b5b2491f401f79c378505.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/132aeadf736728a3f874cd17615dda27830e8cbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6dffdaae5c394168da3a2d6b412c0ac3ccc3006.mp3"
+      }
     }
   ],
   "knowledge": null

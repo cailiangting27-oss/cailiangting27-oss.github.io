@@ -21,7 +21,17 @@
         "购买零件-组装-测试"
       ],
       "answer": "明确问题-制定方案-实施方案-评估改进",
-      "explanation": "这是标准的工程设计四个阶段。"
+      "explanation": "这是标准的工程设计四个阶段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3f49d72b40b92963980cf717c83e388c8408780.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1886e312ed5a98946c87e86af1f97965cb19f5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97a07e53c855d5418a683bb0e0a5466973c4a638.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a611f1b04e0888bba42f328dced15543199a0217.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26f23f0bb515aedab9d258935bfcebafac0d8bad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5017aca7d56f92cd85ea1ba27794db571c656b50.mp3"
+      }
     }
   ],
   "knowledge": null

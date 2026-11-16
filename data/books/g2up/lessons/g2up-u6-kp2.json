@@ -16,7 +16,11 @@
       "question": "$8+8+8+8+8+8$ 可以写成 $8 \\times 6$。",
       "options": [],
       "answer": "对",
-      "explanation": "乘法是求几个相同加数和的简便运算，6个8相加记作 $8 \\times 6$。"
+      "explanation": "乘法是求几个相同加数和的简便运算，6个8相加记作 $8 \\times 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a9732222ae34e31ad4a9bb1034089c38f1fef56.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27b4bf80f78bb9b7ef5be93de1cdabc2097787e2.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "64"
       ],
       "answer": "56",
-      "explanation": "$8 \\times 7 = 56$，口诀：七八五十六。"
+      "explanation": "$8 \\times 7 = 56$，口诀：七八五十六。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e562db985be9e74d305691c090033f3ebd5d77b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54ceb91256e8190e474aa752a6e0650a2df5ba37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90e595116f9b513f55911494d6c72ed64af0771a.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "8"
       ],
       "answer": "6",
-      "explanation": "因为 $6 \\times 9 = 54$ ($< 60$)，$7 \\times 9 = 63$ ($> 60$)，所以最大填6。"
+      "explanation": "因为 $6 \\times 9 = 54$ ($< 60$)，$7 \\times 9 = 63$ ($> 60$)，所以最大填6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81adabb5600fc306ae332fb6159dd0e362f45ab9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/ebc891ead109a76cbcb29a846ac01fd67f37ffdd.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "10"
       ],
       "answer": "8",
-      "explanation": "根据口诀“八八六十四”，$\\Box$ 应该是8。"
+      "explanation": "根据口诀“八八六十四”，$\\Box$ 应该是8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce815d43f0deb672172254317ce0c38b2fcefe81.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09db7e0c11ea588a8b00869221069f7c66543650.mp3"
+      }
     },
     {
       "id": 18,
@@ -80,7 +114,17 @@
         "无法比较"
       ],
       "answer": "<",
-      "explanation": "$7 \\times 6 = 42$，$9 \\times 5 = 45$，$42 < 45$。"
+      "explanation": "$7 \\times 6 = 42$，$9 \\times 5 = 45$，$42 < 45$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d264f87990f65ca1e04be43f1a37d294ad1a28a.mp3",
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c6/c6db27374652a9138b249b51a2fe89b8281aa684.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/7006d049fe1171f0018d601ec543511f5af2df46.mp3"
+      }
     },
     {
       "id": 21,
@@ -91,7 +135,11 @@
       "question": "两个因数都是 9，积是 ___ 。",
       "options": [],
       "answer": "81",
-      "explanation": "列式：$9 \\times 9 = 81$。验算：口诀“九九八十一” ✓。"
+      "explanation": "列式：$9 \\times 9 = 81$。验算：口诀“九九八十一” ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af7889c9c7084f9a7ee6d9dad688a54ed9e4709b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5886b1ab2365016b974be2f0ab152d874fdd3ac.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "看错符号，把乘法当成加法，如 $8 \\times 7$ 算成 $15$。",
       "在填括号里的数时（如 $\\Box \\times 8 < 50$），容易填错最大值。"
     ],
-    "tips": "背诵口诀要做到“对口令”，不仅按序背，更要能打乱顺序随机提取。"
+    "tips": "背诵口诀要做到“对口令”，不仅按序背，更要能打乱顺序随机提取。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/003c8f9e098a1a6f2bd23f74bf7c80b7774288ce.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/39/39e6b52a56ed813ee5141c9140ede99051e74b73.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e0/e0e316b25d5a60efe904eb716f54eafdf37db45a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d1/d100c7a2df7de7961ea5c41f64039031b1e5af8a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8a/8a450f8f14ddee0aff1baa9ba001d41458c7f4bb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2a/2a8c2e87f0cd6d2f732cf070e6b5ac647c3c9bed.mp3"
+      ]
+    }
   }
 }

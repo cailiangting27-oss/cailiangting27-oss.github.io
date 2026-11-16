@@ -21,7 +21,17 @@
         "铜"
       ],
       "answer": "银",
-      "explanation": "“银”是金属，常用于制作银首饰。"
+      "explanation": "“银”是金属，常用于制作银首饰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/516d35e37da126009aad03bcbe8f5a339b6cc596.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aad5a2682192a9262566872ef09ae1680e2b4997.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75f5e3ba76317eb36e509c367468ac416d08629b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64fe27374d1d3e550f6261257c858ecd27960e9a.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a581d78a721b59f5453459fa83eac2fc60ed9df8.mp3"
+      }
     }
   ],
   "knowledge": null

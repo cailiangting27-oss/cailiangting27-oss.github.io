@@ -16,7 +16,11 @@
       "question": "分数的分子和分母同时乘或除以相同的数，分数的大小不变。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是相同的非零数。如果同时乘 0 则无意义。"
+      "explanation": "必须是相同的非零数。如果同时乘 0 则无意义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/978288e5d5acbcf5896a0e2320ce1e8ac68e5b01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d93e9c34338ce86a31c9e2314ba0e37bf794b765.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "两个体积单位之间的进率都是 1000。",
       "options": [],
       "answer": "错",
-      "explanation": "相邻的体积单位进率是 1000，不相邻的则不是。"
+      "explanation": "相邻的体积单位进率是 1000，不相邻的则不是。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c0b1021f88fff9013a441cc5b421afc90253cad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3e230638d6ec46ddc4272e06f349531faf3d3a0.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "等底等高的两个长方体，形状一定相同。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然底面积和高相等，但长和宽的具体数值可以不同，形状不同。"
+      "explanation": "虽然底面积和高相等，但长和宽的具体数值可以不同，形状不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be05658583ce6f08e0cf9ca28ecfee711eb293ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42c55cce9421abc89cfb16c252dc0d6ef8bd6b6b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "在复式条形统计图里，必须用不同的颜色或底纹来区分不同的类别。",
       "options": [],
       "answer": "对",
-      "explanation": "这是为了直观地区分两组数据，属于复式统计图的规范要求。"
+      "explanation": "这是为了直观地区分两组数据，属于复式统计图的规范要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87423d57aa12e3bdb2d79536ec2cde8a95eff685.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96f4fecd6aa2692f19e9e2a7b6fa963193aaf1e8.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "12"
       ],
       "answer": "8",
-      "explanation": "长方体有 6 个面，12 条棱，8 个顶点。"
+      "explanation": "长方体有 6 个面，12 条棱，8 个顶点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32955634e58d7d0bc1c75bf1b6a2804a8fe7aaf7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1fa72659ab8e62ec38d885e47a960f32ecfcdc6.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "6/8"
       ],
       "answer": "5/11",
-      "explanation": "5 和 11 互质，不能再约分。"
+      "explanation": "5 和 11 互质，不能再约分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb1bf3b4ddd02aa76d72a0dd3a5fc78a806f74fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e624d302b728235b77a8db22a03e554383327c2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/697e16d428a61e2a9efb1594cbaedf357aa59cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cf9c4cb7bf1aeea9b596a8c1ac4b6fe50a202e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba2a07385a6937686a9535c92552b99e6fbc60c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b52a4b7b23f3ee330b3bbf4119c1c800d02a9ead.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "1"
       ],
       "answer": "12",
-      "explanation": "4 的倍数有 4, 8, 12...，6 的倍数有 6, 12...，最小公倍数是 12。"
+      "explanation": "4 的倍数有 4, 8, 12...，6 的倍数有 6, 12...，最小公倍数是 12。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a869d54f9a9a12ebcefe0b8eb727d9b8c2306f5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff6be5806f0a91241a6e06035ccb9abc30edabc7.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "12"
       ],
       "answer": "60",
-      "explanation": "$5 \\times 4 \\times 3 = 60$ 立方分米，即 60 升。"
+      "explanation": "$5 \\times 4 \\times 3 = 60$ 立方分米，即 60 升。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0fb46477eb8f6f32e6633c02f69778e934b6dff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b999b4e11489a3b3707c9128d89f4100bea10228.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "39"
       ],
       "answer": "41",
-      "explanation": "8 和 10 的最小公倍数是 40，$40 + 1 = 41$。"
+      "explanation": "8 和 10 的最小公倍数是 40，$40 + 1 = 41$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53ec86577c4d662e6044b38baf9d1e63af98bd0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/761f22b2c1593d0bb87e0b606f990ba4974706de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96b5e1631101ce9271a9737ef65dac6380427ea9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "15"
       ],
       "answer": "5",
-      "explanation": "每个面 $150 \\div 6 = 25$，边长为 5。"
+      "explanation": "每个面 $150 \\div 6 = 25$，边长为 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/433ee8931e8d3ebdbc61d1741625a36b45eeb6c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4b605e9a8d75d83091fe49c3e2891108b66e216.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "1.33"
       ],
       "answer": "0.75",
-      "explanation": "$3 \\div 4 = 0.75$。"
+      "explanation": "$3 \\div 4 = 0.75$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/276445cd942bdefd5a8af11e4f30c9de511efb97.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98250286db92ccc336dc6f622c10c8bc09286693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/015b8dcbc023be1734f726ca9af614fbb5b87611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf1aeac0372e10da230a32e74c9b6e68dca7342.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c61bb533be68ee96d8ada4fe90bc82b519ec679e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65f175cb749e2b13fb4d667ff6d6a637ae66e11f.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "1/2"
       ],
       "answer": "5/6",
-      "explanation": "$2/3 + 1/6 = 4/6 + 1/6 = 5/6$。"
+      "explanation": "$2/3 + 1/6 = 4/6 + 1/6 = 5/6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d043ae40d77cbfbf09a810cc8a8c537ed183ee51.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/697e16d428a61e2a9efb1594cbaedf357aa59cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4133cbf6d21009d464007db8b3f98f682f95710a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19989bf3beb92ab762706e7a3093702a2f6abaa6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2caa07b76d9053386202d6a9c27c949c65c58f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a28ca7789703ed09010a4d3d68afdeb4e398e48a.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个数既是 12 的因数，又是 12 的倍数，这个数是 ___。",
       "options": [],
       "answer": "12",
-      "explanation": "一个数最大的因数和最小的倍数都是它本身。验算：$12 \\div 12 = 1$ ✓。"
+      "explanation": "一个数最大的因数和最小的倍数都是它本身。验算：$12 \\div 12 = 1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac81a4d6749d7eed2ae14ca189c69bb1cf57bc28.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45d91bdd8041a1ef3f506a97f3555cd728795436.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一根 2 米长的长方体木料截成 3 段，增加了 4 个面。如果每个面是 5 平方厘米，共增加 ___ 平方厘米。",
       "options": [],
       "answer": "20",
-      "explanation": "$4 \\times 5 = 20$。验算：$20 \\div 4 = 5$ ✓。"
+      "explanation": "$4 \\times 5 = 20$。验算：$20 \\div 4 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70d37c12f0dd6ffaa8ec00ae5b95eb43f3bcd4b9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f81e9c7bee166db356c1587a78e21d9f50eed4f.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$200 \\div 5 = ?$",
       "options": [],
       "answer": "40",
-      "explanation": "$200 \\div 5 = 40$。验算：$40 \\times 5 = 200$ ✓。"
+      "explanation": "$200 \\div 5 = 40$。验算：$40 \\times 5 = 200$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb535a09844a9eb374b948766b8769a1a742f8a8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39616c12c29a61501142c8486f72e3d51abbc004.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "一千里面有 10 个一百。",
       "options": [],
       "answer": "对",
-      "explanation": "根据十进制计数法，10个一百是一千。验算：$100 \\times 10 = 1000$ ✓。"
+      "explanation": "根据十进制计数法，10个一百是一千。验算：$100 \\times 10 = 1000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25a74800c7717718d4a71e9e9e806f88eff4abde.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a69fd4ba0a04bd443fc4b8e933a1331051a3a6f.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "十万"
       ],
       "answer": "一万",
-      "explanation": "相邻两个计数单位间的进率是10，10个一千是一万。"
+      "explanation": "相邻两个计数单位间的进率是10，10个一千是一万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58eb15859ff60f81fc0ad733659b7e0463f1c372.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7cbc17dce2e29eb6dc92923aaa3d473f5d9bae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fc85c86013b6ee636e9defd84d83bf2541ddcba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8d358c7b278306e455f9dce73e84500136ce672.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4de670e24a053c173a2d925fe689aec875d7e765.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55fa25e0bb40da9ff4db88c9d2ef9bb923ab4ddc.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "10000"
       ],
       "answer": "1000",
-      "explanation": "最大三位数是999，$999 + 1 = 1000$。"
+      "explanation": "最大三位数是999，$999 + 1 = 1000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18f2578c8b3dd97b60a921dea0f32ff3605738eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/afc97ea131fd7e2695a98ef34013608f97f34e1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a12a315082a345f1a9d3ad14b214cd36d310cf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6188caf9e24d38496bbbd045d6007f1acc775cf.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "4300 是由 ___ 个百组成的。",
       "options": [],
       "answer": "43",
-      "explanation": "4300 里面包含 43 个 100。验算：$43 \\times 100 = 4300$ ✓。"
+      "explanation": "4300 里面包含 43 个 100。验算：$43 \\times 100 = 4300$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b07354428d20dc06e2e1c5009dca1f2eeed4c958.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cf1e9ae49d01e039fb1fecc39f5ea22f1967671.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "误认为一万里面有10个一百",
       "在数数时遗漏某个计数单位"
     ],
-    "tips": "可以借助拨珠子的方式感受‘满十进一’的过程。"
+    "tips": "可以借助拨珠子的方式感受‘满十进一’的过程。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/03/033cd8dced6586f2083254ce92006ebb4619825e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/45/45031f18658cc296f341df563064ac9eed12c0e1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/08/08cdf274ad41f977ae2728144c7c3ee0f6774b16.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/56/56f1c43be5cfa02833e7d8f283be70ee647b431c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e1/e130e35204c4dc5fcbe34b910e859f5418159dfd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2d/2d0d5039e21840109c231e6debd42f72985590ff.mp3"
+      ]
+    }
   }
 }

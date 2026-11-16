@@ -16,7 +16,11 @@
       "question": "“软绵绵”这个词通常用来描写石头的触感。",
       "options": [],
       "answer": "错",
-      "explanation": "软绵绵描写柔软的东西，石头是硬邦邦的。"
+      "explanation": "软绵绵描写柔软的东西，石头是硬邦邦的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/409db3abc71b29a8ca3a444d873db5e78402c519.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf5cd008221524167113f29923272efc898e8c6e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "劝说别人时，语气诚恳可以让对方更容易接受。",
       "options": [],
       "answer": "对",
-      "explanation": "诚恳的语气是有效交际的基础。"
+      "explanation": "诚恳的语气是有效交际的基础。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be657fae23920ab37097eb451961241fe0b87228.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba93acf0ef7145cf8563ffeb355a3c821abf57f1.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "农民种稻子只需要撒种子，不需要其他劳动。",
       "options": [],
       "answer": "错",
-      "explanation": "种稻子需要耕地、播种、施肥、收割等一系列劳动。"
+      "explanation": "种稻子需要耕地、播种、施肥、收割等一系列劳动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c2afcf6d7b1e9f60011d01bda20b5101a342df3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/884382ed5c992910c25f61acc764c84d924b95af.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“葱葱绿绿”写出了小草多而茂盛的样子。",
       "options": [],
       "answer": "对",
-      "explanation": "重叠词语加强了茂盛的程度表现。"
+      "explanation": "重叠词语加强了茂盛的程度表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14be8fb2ae239cba439a3e65dd4547a8adb38a46.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/010c78486acac95f046188cd7b3cd435b58f66d7.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "我要写作业，你不能看电视。"
       ],
       "answer": "爸爸，请您先把电视关小点，好吗？",
-      "explanation": "使用商量语气“好吗”更体贴长辈。"
+      "explanation": "使用商量语气“好吗”更体贴长辈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6601adf9f72e6db7aa2d85d9707dbd8070cb0ba8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4823022e8c476c81833878cc91cca6d297b7e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a166c3a9208248b4d3c40b4be37316b4d876f1c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0492cc2715bb83deddc6f61383b43319653d4c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01cb4a84ac5e501e2004737fa69da451a3fcaecd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4cb396b4ad84b0beff2fd0125c56491d2322b930.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "增加"
       ],
       "answer": "曾经",
-      "explanation": "在这个语境中表示过去发生过。"
+      "explanation": "在这个语境中表示过去发生过。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aef5f4483926cb8de524654a22c35c091865d3bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/0328a7a6bcbea973ea254b00cb55152f14a3afaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/683f9e9236f2915f7e89e3b66f6cff171865ac34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e2b4b371205c355be0a404b476e780e6379352f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/605806b6fcd55c39cd477426ccd9c380d4701000.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28f952354e1e6529dce4f13902643cf953cf6dba.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "我可以看这本书吗？"
       ],
       "answer": "把这本书借给我。",
-      "explanation": "这是命令句，没有任何礼貌词，语气最重。"
+      "explanation": "这是命令句，没有任何礼貌词，语气最重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24f8e93972f36ada04f53d31830a335412d7eabd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/19175e55e5fb11bc37a30c8548ef83f3a2938ea1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21a51020a3165833403723dcac618fd4241cb753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18b7ad755c5be8c2f088f20ba6a99179194dd9b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/500ff332a4f526633b9086b6ea2a13107fa94ee3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf356b5efadd2e6f3dc70a5d0a01d281db13a2bb.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "亮闪闪"
       ],
       "answer": "白花花",
-      "explanation": "白花花常配合颜色，软绵绵也合适，但此处云朵颜色更直观。"
+      "explanation": "白花花常配合颜色，软绵绵也合适，但此处云朵颜色更直观。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d19b50a0af7a04ad1afb39d478a4aacd46fff76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d60d6d838d720763c8d85bd4f1d98639f8c07ddc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9271937ba36e4560c30ef1ca490a0fa7ff0d7daa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d499719d772e6fa0386f1bb8cfb892d66a52ffdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9da82c54bd96b0e0d80e57ed6d4a6f727ecbf8fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8f626726c0471a011254db59669341273522ef7.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "荷花"
       ],
       "answer": "甘蔗",
-      "explanation": "甘蔗或甜菜是制糖的主要原材料。"
+      "explanation": "甘蔗或甜菜是制糖的主要原材料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/745915082da4c0fe3397eb0da8bdcd8cf5f23403.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50e6a7257991a7653531decfd164f5075dd799c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4783b4214e6879a0672319a2ce00ca1929c6345.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42389ad5d63298c6c510bd51b5cbc3e294e52840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52b0ad4c1f5dc536ab8848a65bdea900a6005d34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f3b1982064225ce92f07a664965ad5ed58e3985.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "没有修辞"
       ],
       "answer": "没有修辞",
-      "explanation": "这是一句陈述句，描述寻找的动作。"
+      "explanation": "这是一句陈述句，描述寻找的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f810aa548ef804fc0a50172a96f2cd6c6e4e7430.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dba1b7f5980ff0e8218026142d3862b21a3d903.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3991d8573fe0b7cfdea09f05b5842253ddf49816.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "形容一个人笑的时候样子是（）的。",
       "options": [],
       "answer": "乐呵呵",
-      "explanation": "乐呵呵是形容快乐样貌的ABB词。"
+      "explanation": "乐呵呵是形容快乐样貌的ABB词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa3b534b444231ffa06cfdd5082ec7e18d87ff59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d476918f8768030023a2b4d41289cec1caf3586.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "雷锋叔叔抱过的孩子身上可能有（）的味道。",
       "options": [],
       "answer": "花香",
-      "explanation": "课文描述“路上的荆棘，还沾着他晶莹的汗滴”，孩子闻到了泥土和花草香。"
+      "explanation": "课文描述“路上的荆棘，还沾着他晶莹的汗滴”，孩子闻到了泥土和花草香。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/5909597ce20f9203da5a45fc92c5015236425d91.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1eba08b41e5b0f45356a2e9a4c2501f26547bf9d.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "糖水"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "香喷喷的米糕，甜滋滋的糖水，亮晶晶的露珠，静悄悄的夜晚。"
+      "explanation": "香喷喷的米糕，甜滋滋的糖水，亮晶晶的露珠，静悄悄的夜晚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/405f23d354f6a6e41131c5ea43987cd208b78f40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/18c35235eeaebde08c8761d5f4ae946c6e7514f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d06d3dae48bed2cd6251b7fc2882a00ba8a2e010.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/349a242c44e258ec6a5a84c2051ec5d19564dfa6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78aab699ef01beae81fd89f84223458960e894a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93634f07028d5a72660dfafd19d905de7e4ca7db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/640265ca584fa1dee264dbede028b8a200efedd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94188002f87b5ab1e2765f6023fca5b9e188d527.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77c27b97f5c8ecb79a4dda03e09a09cd5e36167e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1e35536a3b7b5e4bdc8e8bb95aab73ae8eabfd1.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "包装成品"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "农民耕种，磨坊师磨碎，工人包装，司机运输。"
+      "explanation": "农民耕种，磨坊师磨碎，工人包装，司机运输。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8a936aa7bd802e88a56d004a57cbe8f69cd86b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/231bf85a0359975107d6acdaad0f7922982d855d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78276ee04588a76708704d98a93a32b506ff27b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37b7c70ccea24a148ab06162ed5af241d567f059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f007d6332633d5e6eeb942533faa04b5ce02ca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f847d9eb819a4df03abe83be62848d9e05c4c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5faffce7749499fa6d09ad7fa078e6a8b2ebffdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f63efad6a23299965c4e473056c4354ae7581af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fef94af1de1387d6395dfc1e0e032d3f9f545553.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d025c6f510105b21b2db9d8034562e6f927cdc0.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "柳枝"
       ],
       "answer": "春风,抚摸着,碧绿碧绿的,柳枝",
-      "explanation": "按主谓宾加定语结构排序。"
+      "explanation": "按主谓宾加定语结构排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0878f35b88f62e38d69e09cdff207aec9351bb4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84ffadd59f323146587fa93611a3ec19d629aa52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/876f5a22d1d8508628d5e46d25d57dfb80782842.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d134ca6c32b6ab607176e52bf2dca479c514d23f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba6225f0caa786b3086f9162aeb442d2c89dfe10.mp3"
+      }
     }
   ],
   "knowledge": null

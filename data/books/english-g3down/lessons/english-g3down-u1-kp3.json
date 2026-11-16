@@ -16,7 +16,11 @@
       "question": "单词 'cat' 中字母 'a' 的发音和 'bag' 中相同。",
       "options": [],
       "answer": "对",
-      "explanation": "两者都是闭音节单词，字母a发短元音/æ/。"
+      "explanation": "两者都是闭音节单词，字母a发短元音/æ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67e8117d45d4cb342e89d5f72afbc08fa4c72799.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/725426b18d59035c783251e7ccde1f7281368423.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "name"
       ],
       "answer": "dad",
-      "explanation": "hand 和 dad 的 a 都发 /æ/，其他选项发 /eɪ/。"
+      "explanation": "hand 和 dad 的 a 都发 /æ/，其他选项发 /eɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fca30566b2594c7ce3958cdc88d0473ef35d559.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5ddc2ae17d5b13b4e5b3215177685116565f5058.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49dc1cb094dffe3a42dd5f448ac612b0786a67e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0da19b540f7c3526f24acba988b03df43b3c5cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ae999552a0d2dca14d62e2bc8b764d377b1dd6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a756282b4247b061024a443b86027da363cbbf2a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "'bowl' 指的是碗。",
       "options": [],
       "answer": "对",
-      "explanation": "bowl意为碗，是本单元核心名词。"
+      "explanation": "bowl意为碗，是本单元核心名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c95ef8fd3d0c2679255dc8cf926626b196e773e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7aceed37347ac59152b8ea819dfb25dfff06d5b8.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "'knife' 的中文意思是 '叉子'。",
       "options": [],
       "answer": "错",
-      "explanation": "knife是小刀，叉子是fork。"
+      "explanation": "knife是小刀，叉子是fork。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d1fca82a5e0b8f9aba2f0f239dc87d418c40fa1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc175ce96f59cb3c67771e3689a4e4ffe92e013f.mp3"
+      }
     }
   ],
   "knowledge": null

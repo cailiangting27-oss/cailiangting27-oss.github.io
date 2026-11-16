@@ -21,7 +21,17 @@
         "Chen Jies'"
       ],
       "answer": "Chen Jie's",
-      "explanation": "名词后加's表示所属关系。"
+      "explanation": "名词后加's表示所属关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ef3c76cedd9dc39be185836a85b0c7cd8816a4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c42c4da187a0e1d9f0a686f021840caeead2c478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2ef414d9f563b63a346c5df8f4612cc3e03cbe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/644bc206fe8e1417bad79dab145bb562651e0661.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76eba5498b655969ce084881092b200ee59ada4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a1f970412a539792cec12e47bb27f22d89d1945.mp3"
+      }
     }
   ],
   "knowledge": null

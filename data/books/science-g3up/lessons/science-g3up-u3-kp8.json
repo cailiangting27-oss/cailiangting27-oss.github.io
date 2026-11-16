@@ -16,7 +16,11 @@
       "question": "降雨量是用毫米作单位来计量的。",
       "options": [],
       "answer": "对",
-      "explanation": "降水量的法定计量单位是毫米（mm）。"
+      "explanation": "降水量的法定计量单位是毫米（mm）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f85b22277ad905f9446569f35db455122d5c254.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35a8fd65c96caffd54ad8de9f2b99072d8e1cda3.mp3"
+      }
     },
     {
       "id": 22,
@@ -27,7 +31,11 @@
       "question": "测量降水量时，应把雨量器放在（ ___ ）的地方。",
       "options": [],
       "answer": "空旷",
-      "explanation": "空旷地带无遮挡，测得的降水量才具有代表性。"
+      "explanation": "空旷地带无遮挡，测得的降水量才具有代表性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95b7479187a5ec8a754d03c739c8cdb79585db2c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e29fdd62ae730074872079cf7f0bd0208a83d5db.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -54,7 +54,15 @@
         "不确定"
       ],
       "answer": "减小",
-      "explanation": "负功使动能减小。"
+      "explanation": "负功使动能减小。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/60f866f09c5b1aacbd7075a7aab116d97b4505fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd9a217782adf35c360decf3442ddd2f348f5592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

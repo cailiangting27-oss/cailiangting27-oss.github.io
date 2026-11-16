@@ -21,7 +21,11 @@
         "，"
       ],
       "answer": "？",
-      "explanation": "这是一个疑问句，表达疑问语气。"
+      "explanation": "这是一个疑问句，表达疑问语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e1f7de701876730851fcd5b52b197a3b3197c6a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d97a288edadc454af06b2b9e7aed3ede3da08d2b.mp3"
+      }
     }
   ],
   "knowledge": null

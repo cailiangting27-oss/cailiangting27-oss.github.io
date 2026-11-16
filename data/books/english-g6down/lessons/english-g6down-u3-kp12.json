@@ -21,7 +21,17 @@
         "rides"
       ],
       "answer": "rode",
-      "explanation": "last Saturday提示过去时，ride变rode。"
+      "explanation": "last Saturday提示过去时，ride变rode。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a04971496e7e1880eadf08e272d9528db0ca799.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/320ef6a3e22fceeda20d7ced2c8d63cbf48b7a6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a26c6a1dfce804452a76dc99327ae236a75f7043.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a77018e21d77931d3ce5fad3c8c49c2fb5b8faf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffc652ccfba8f22d0f634f6084b33adb297aff7f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38048224d204528c1e54b4d782eae98e568ea1d7.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "We ___ (eat) fresh food last night.",
       "options": [],
       "answer": "ate",
-      "explanation": "eat的过去式是ate。"
+      "explanation": "eat的过去式是ate。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43433414b981fdca2aa7eeb7b52e2ac87280d695.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/353ec91c339eef017c6ec950f03213614d772678.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "She ___ (see) a film yesterday.",
       "options": [],
       "answer": "saw",
-      "explanation": "see的过去式是saw。"
+      "explanation": "see的过去式是saw。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12d3ab8ea5ebd08109159f108013ec01b6ba753b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ced7853557580c3507bf062613daf28e25cd0624.mp3"
+      }
     }
   ],
   "knowledge": null

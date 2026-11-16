@@ -16,7 +16,11 @@
       "question": "分子相同（不为0）的两个分数，分母大的分数反而小。",
       "options": [],
       "answer": "对",
-      "explanation": "分子相同表示取的份数相同，分母大代表分成的总份数多，每一份就越小。例如 $1/2 > 1/3$。"
+      "explanation": "分子相同表示取的份数相同，分母大代表分成的总份数多，每一份就越小。例如 $1/2 > 1/3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2c4b1cd7159756be2a1456e250c96c5fde9111b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11c45d8c25c74f6919b477c349b2ed790cd35157.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": ">",
-      "explanation": "分子都是1，分母越小分数越大。$4 < 7$，所以 $1/4 > 1/7$。"
+      "explanation": "分子都是1，分母越小分数越大。$4 < 7$，所以 $1/4 > 1/7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af1e892515498bcd34219177bf410fff189cfe3d.mp3",
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adb5c591afa5fd41f4eeb72f36e945e542f7f7af.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "<",
-      "explanation": "分母相同，分子越大分数越大。$3 < 7$，所以 $3/10 < 7/10$。"
+      "explanation": "分母相同，分子越大分数越大。$3 < 7$，所以 $3/10 < 7/10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7f83a3e1e3205fa377bd3890d194495b5caa546.mp3",
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9d48ef997fba0d5cdb5a06c9c0722a234d664d3.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "1/3"
       ],
       "answer": "1/8",
-      "explanation": "分子都是1，分母越大分数越小。8是最大的分母，所以 $1/8$ 最小。"
+      "explanation": "分子都是1，分母越大分数越小。8是最大的分母，所以 $1/8$ 最小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74ae1dc908aee6c0c90b9335104fccd57165e97b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2caa07b76d9053386202d6a9c27c949c65c58f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aab0c11f992f78a63bdc1caf2da7c6b632a96e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b14b5435c67a0024c006e26532e45468f6ca207.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803ab79310ab4c905d897e5b8b61272124906f8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39aa36ee4dc62e0055054b457c26e10a7f5b4990.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "无法比较"
       ],
       "answer": "小红剩下的多",
-      "explanation": "$1/2 > 1/3$，小明喝的多，所以小明剩下的少；小红喝的少，所以小红剩下的多。"
+      "explanation": "$1/2 > 1/3$，小明喝的多，所以小明剩下的少；小红喝的少，所以小红剩下的多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/5928d4dee4d47b68f49f89c4de53e7e463380486.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81380ed492b4263d0a614dc4ac7131ef1d9360f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a527b53a6be921ed230e61b886cbfb931e3d45fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae45d4acd330645062a3a3c4867d370d0792e705.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/6450e30976f6dfd74b60f94427806c799e2d1779.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "认为分母大的分数就一定大，例如误判 $1/2 < 1/8$。",
       "在分子分母都不同时直接套用单一规则。"
     ],
-    "tips": "想象切披萨，分给的人（分母）越多，你吃到的一块（几分之一）就越少。"
+    "tips": "想象切披萨，分给的人（分母）越多，你吃到的一块（几分之一）就越少。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/df/dfccc26358cf1a240c02e7de96d91b1b78e05fb5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0d/0df9a2be805024bd6eee06978243b4d65d44f176.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6b/6bb2bdd23a010c2b5f93bf50b8251c6e391a42d7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3a/3a318ceae8e880a313cad05e4a071f87f490fd08.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/90/905a23da08e3245d64e72c6c04083b32aab1fae2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/83/835ef45918993b36c17f14279b96b48e05554830.mp3"
+      ]
+    }
   }
 }

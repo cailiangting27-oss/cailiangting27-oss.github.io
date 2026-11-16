@@ -21,7 +21,17 @@
         "不听话让他们操心"
       ],
       "answer": "理解父母的辛劳并主动分担家务",
-      "explanation": "用心感恩。"
+      "explanation": "用心感恩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec5e9be21826f009610e5edd07dd762faf8d1b2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/732fc8646f6712bf60c397dabd16758f756acbaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7190a50a5f4692f9f3ede8579a11964f2b8ae7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39022afa23e3d177db980f0d941c0cb6d2f1b7d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1867153607fafbfd1c5d9ed586ef21801d476cdb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8213163e9282fb3a16fa2814ed2621cde2f59a6.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "感恩父母要从身边小事做起。",
       "options": [],
       "answer": "对",
-      "explanation": "小事见真心。"
+      "explanation": "小事见真心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6265126340caba5978f18e292ba3ba09397fd0a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b417b61546b6a856bd174f2f575bf00eb14d6c4d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "只送昂贵礼物表心意。"
     ],
-    "tips": "用心胜过用钱。"
+    "tips": "用心胜过用钱。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4d/4deef75465d8fa0ccdbda1c3afee4837570c3af7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f7/f7c25dea10b7ed9a8aee9cf3226209082a8e9d01.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/15/1511eb5e81126e65200cf44de97916fe9daf0e53.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/36/3686fb7dbf84bd717295d2ba79f2a13f615faf7a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c7/c79af7392f1f029520643589ba4a58bc3074ca7f.mp3"
+      ]
+    }
   }
 }

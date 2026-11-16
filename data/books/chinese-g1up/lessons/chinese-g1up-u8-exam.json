@@ -16,7 +16,11 @@
       "question": "“尖”和“尘”笔画很少，结构上是左右结构的字。",
       "options": [],
       "answer": "错",
-      "explanation": "“尖”是上小下大，“尘”是上小下土，它们都是上下结构。"
+      "explanation": "“尖”是上小下大，“尘”是上小下土，它们都是上下结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9ede28b0e4589db0e51436853f312c36742b03a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e5922123958702c6d768c38f5649bcf0e47ba47.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在电影院看电影时，如果觉得口渴，可以大声喊妈妈给自己拿水。",
       "options": [],
       "answer": "错",
-      "explanation": "电影院是需要安静听声音的公共场所，大声说话会干扰他人。"
+      "explanation": "电影院是需要安静听声音的公共场所，大声说话会干扰他人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d327e67e1ab5fabafd097486e9f9ea56ffef2e99.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4596b465c4070e0d3dc489b7d90bce346623562.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "《咏鹅》这首诗的作者是唐朝诗人贺知章。",
       "options": [],
       "answer": "错",
-      "explanation": "《咏鹅》的作者是骆宾王。"
+      "explanation": "《咏鹅》的作者是骆宾王。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c54ca84d1b4908662e2d344f3ab311cfdff94caf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e09f19b5558d5df06848100d9ac115e37717762.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“本”字是在“木”字的基础上加了一横变成的。",
       "options": [],
       "answer": "对",
-      "explanation": "“本”是指事字，在木的底部加一横表示树根。"
+      "explanation": "“本”是指事字，在木的底部加一横表示树根。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82c1673c5d1ee0f117b9649f3b41182924e6477d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f261505e01865d7a36962bb585f9c619da16beb.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "金属"
       ],
       "answer": "植物、树木",
-      "explanation": "木字旁的字如桥、校、林等，最初都与木材或树木有关。"
+      "explanation": "木字旁的字如桥、校、林等，最初都与木材或树木有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/244ff8cfd0afdf30a2bc56f949a86d8446b33c51.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78e691bf6d4fa672806336fc7e65027ae042fb43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/300ee58e24cfd4c81b7d7ec54f38ddcd4823e99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2c3eae71c5eb2193b3e7176a797733eaac11e07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9051595f1c95406539bc7f8106715f13ea84647.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "不让大家听到声音"
       ],
       "answer": "怕吵醒病人的休息",
-      "explanation": "医院需要安静环境，利于病人康复和医生诊断。"
+      "explanation": "医院需要安静环境，利于病人康复和医生诊断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87123ab9facdaa4a8ee9d1cc03e6d91c0a791258.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed8ec297df609a5eefee2870961c778463d24280.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83f04ebb2f1cec6bff8c4db58461b47e36cf37bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/863a794c59791be246d1c792b7da2a5dbaa2a968.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/830e07edc7e4ddebc1e7a27ad23ba311d851880b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9aaec81e539b8dff8e98a9767bb4cd23efffc1e4.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,11 @@
         "，"
       ],
       "answer": "？",
-      "explanation": "“吗”是疑问语气助词，句末使用问号。"
+      "explanation": "“吗”是疑问语气助词，句末使用问号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30eeb78f65838e30d8c1f719fafcff78bd2784a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/747d0d2b488cdfd4c665aad5e8bc2fdfa5e97c73.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +153,17 @@
         "在雪里走"
       ],
       "answer": "加入到某种活动中",
-      "explanation": "参加是指加入其中。文中指青蛙没来雪地画画。"
+      "explanation": "参加是指加入其中。文中指青蛙没来雪地画画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b70062df56540755d0f9d28f52495ac16540008.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3798755fe8acb3fb76ec5c0b8925f33684196185.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86cd9e8f6512d2c42e660ab6627002bcfc3bf638.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9732ea0446ed13705417859a1f33d9e19325f183.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dad7ce78b0918cbeb7d24df612fe5883251c819.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f75462d7d5bf9542f3092fe71965d83762dd36c.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +179,17 @@
         "明"
       ],
       "answer": "蓝",
-      "explanation": "“蓝”字上面是草字头（艹）。"
+      "explanation": "“蓝”字上面是草字头（艹）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34e91d41f5b222820ac46ffb108bdd09f1aaad94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/020ff479d2df7b0e8cc73de2df59c89fcb28d04c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a44c5936fb41a605f731c8be87b2bcb9028b7c75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56b43519fde85602c3fe3c8f9cc9db3b1ee5fd03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fca811d4f0275ef8ebab2ce9c4683827c8488fb6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b105ba0e016ff5b9ff3b65c3cc3aa40bfb8f246.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "不读声调"
       ],
       "answer": "yì",
-      "explanation": "“一”在第一、二、三声字前读第四声。只（zhī）是第一声，所以一读yì。"
+      "explanation": "“一”在第一、二、三声字前读第四声。只（zhī）是第一声，所以一读yì。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d4b696994ccc9574f83d3ca17538e82c9b68b9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74b094638f7680565666a764273839fc982b2c22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f35372957d4fd8738e9cd891a89fe5aedb94d87a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83cf66ce08d28951e877924cf883f533267563e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6eec4753318b44d0b2392cebdc24040a66c8be6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51c50e9377ed22c651683d5c1759ff677a7d01bf.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +226,11 @@
       "question": "西瓜（），芝麻小。",
       "options": [],
       "answer": "大",
-      "explanation": "西瓜与芝麻相比，个头是大对小。"
+      "explanation": "西瓜与芝麻相比，个头是大对小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/8124148b6c5ffe383c4b125c532ca269551f0102.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28076224283ddd359c99aca2410362e0ff6285a5.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +241,11 @@
       "question": "鹅，鹅，鹅，曲项向天（）。",
       "options": [],
       "answer": "歌",
-      "explanation": "出自骆宾王的《咏鹅》。"
+      "explanation": "出自骆宾王的《咏鹅》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b74f16b8e2b54e075316f7bd2d44aa9e40a0918c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfab3bc9f6f736198b5c1c0e36d93dd36425013c.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +265,21 @@
         "不影响邻居的声音"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "阅览室宜轻悄悄，操场可大声喊，家里适中，提问也应适中不干扰他人。"
+      "explanation": "阅览室宜轻悄悄，操场可大声喊，家里适中，提问也应适中不干扰他人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/109d5197a47527941b82529b55e4b7878cbd4d3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef57f513cc41068ba52a6450cbd3ee43029260ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfecf5759b12dc91868251075e21c89d9ef19b80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd1ded0bcb9da903a95297052b20bfc08ee82675.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c150cbf57fdd801fa9be114f8d2a8c8971ff302.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7247616dc462272f98eb5d47315ba6d6f4bc27c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c22d5ea43934ba3526537713b72db1ac0df14a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdcfda1fa8d484bb7faf0bbc5251167c7a38c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33d3fe303a7229cdddfedc7c729f503b94c71113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c36afcdbdf5a80bac9df3e00a1fad5414ad4dfb.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +299,21 @@
         "huà jiā"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考察课文生字的拼音识记。"
+      "explanation": "考察课文生字的拼音识记。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfaa88080a111494a1fb6ca6416c67adc5fa57d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53f1cbf3fe7d5a291a89532b4221f72f82ab369a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23a6f6c29def7cc87740777070fd0b5c95129b11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d695378fc6dd24164b55fac662ddc461a1a9e75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9debc18d4df04e9dcd96064c0a2f3128ebd42375.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/014961cb6fad740bf21cbb5a619927c56de5b6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee18097ceda8f7136b47952b77e1fc64c4d3d3f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b350acba6357a3867516448aaf2761fa362de76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/4219685da61982250daf59054298c2a2be631277.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/3156d421643d7c06a8dd42d07b8f2d1363613312.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +329,17 @@
         "小画家"
       ],
       "answer": "雪地上,走来了,一群,小画家",
-      "explanation": "地点状语在前，动词在中，宾语在后。出自课文。"
+      "explanation": "地点状语在前，动词在中，宾语在后。出自课文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14224bc1aad47805e30bbd37e9d80c434345e253.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3fbe8009fd1d5d5fa39a4148142288ac56228bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9adfeb14c70cdfc0df272d055ec2a2f842548e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2d7d7e9197e431e53b7859deb95dd1d578a5965.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73186dfa3a1f4b9138bb5685ddfa4ebd26162367.mp3"
+      }
     }
   ],
   "knowledge": null

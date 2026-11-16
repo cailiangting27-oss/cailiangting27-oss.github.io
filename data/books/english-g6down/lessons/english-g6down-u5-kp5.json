@@ -16,7 +16,11 @@
       "question": "在单词 'eraser' 前面表示 '一个' 时，应该用 'a'。",
       "options": [],
       "answer": "错",
-      "explanation": "eraser以元音音素开头，应用an。"
+      "explanation": "eraser以元音音素开头，应用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e93529b157c3b2d54c2ed06463e899ecadd98e26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3d33f582af5b7d768fd73c56c56a1ed3c79a8bb.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "a; a"
       ],
       "answer": "an; some",
-      "explanation": "apple是元音音素开头用an；milk是不可数名词用some。"
+      "explanation": "apple是元音音素开头用an；milk是不可数名词用some。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/8124e3ee220cef65a554c3675d78a36116c9de55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f3dac5247887c6959c74210439b89e12862c85a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fc7e551a6a876ddeb4a86cbf34f41d81098b14b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b587e93bb2f6b54f873e432fcb4390642b3da7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c575e4545c11859e8c7da5f4619a30faba6b65b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66ffec3f6b89a3f2109d15335f81361fe84db823.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "There is ____ orange on the table.",
       "options": [],
       "answer": "an",
-      "explanation": "orange以元音音素开头，用an。"
+      "explanation": "orange以元音音素开头，用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b10d42255c9021f0dafc8af04f877f653fccad7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a19f6082e46e4670b29d98b90ffdbfdeaa640b6e.mp3"
+      }
     }
   ],
   "knowledge": null

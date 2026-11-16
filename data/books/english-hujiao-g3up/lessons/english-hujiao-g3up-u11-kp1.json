@@ -21,7 +21,17 @@
         "cit"
       ],
       "answer": "cat",
-      "explanation": "cat = 猫。"
+      "explanation": "cat = 猫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/643bc2a8945f8bb70ee029e1c039e79ffd381ff0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d989e8d27dc9e0ec3389fc855f142c3d40f0c50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5268b285cfe287178e5f4010884d4f7430da0ed8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72cc14371fd6dcd7923d2a0815d9f69f7f59403d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8d6784fdccbc31f3249b964fb0daf8a2f43c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd67264ac6bb00925bfd217b63928105a94d3fbc.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "doge"
       ],
       "answer": "dog",
-      "explanation": "dog = 狗。"
+      "explanation": "dog = 狗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a031d623e8801837abc188f5e27a3f57f925c4e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e49512524f47b4138d850c9d9d85972927281da0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9080a51cd6de0d21811853987cfdf739788fa5ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3bde741799c0eff815b83a54eda3fc494df54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa3cca7d2bde9ea05b94b69ec7c3790bd248960a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a53b9d898d4f2df517d3ca5b25a5574de1ee0b1.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "rabbit 的意思是「兔子」。",
       "options": [],
       "answer": "对",
-      "explanation": "rabbit = 兔子。"
+      "explanation": "rabbit = 兔子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/923dbcbc7b3c270cbb42a074abce864b81dabe8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dae90aaca994e62d5e1bb0997b4a1aee6d876fe0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "rabbit 写成 rabit。"
     ],
-    "tips": "rabbit 双写 b。"
+    "tips": "rabbit 双写 b。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6b/6beb563b07dba34dfd05c22906de53d1f69a060d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c6/c6068d06de4c52c66dc50715834eb5737acd04d0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/19/1951fe46a19e5a3621212c1d097902b61b627689.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d3/d3d716bd131ed40c0fd82e114cd7d1619f4f7b07.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c0/c06f2b34c5627c59face35334ba4db68f51b4741.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "___ you like some beef?",
       "options": [],
       "answer": "would",
-      "explanation": "Would you like...是询问对方意愿的固定格式。"
+      "explanation": "Would you like...是询问对方意愿的固定格式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40126e38c37c29257979cb057464dcf0dd716dad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b676edff4810a70fa206c750239ffa7d1486c4ed.mp3"
+      }
     }
   ],
   "knowledge": null

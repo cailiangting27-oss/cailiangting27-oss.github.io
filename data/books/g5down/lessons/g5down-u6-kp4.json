@@ -16,7 +16,11 @@
       "question": "整数加法的交换律、结合律对于分数加法不适用。",
       "options": [],
       "answer": "错",
-      "explanation": "整数加法的运算律对分数加法同样适用，可以使计算简便。"
+      "explanation": "整数加法的运算律对分数加法同样适用，可以使计算简便。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fcb578afe90ffdf168c65c6262abef75a10dd5b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76ca05d898bd5f4afc3f8533b060bff4f5b15502.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "全部通分"
       ],
       "answer": "将 \\frac{5}{9} 与 \\frac{4}{9} 相加",
-      "explanation": "利用加法交换律和结合律，同分母分数先加可以凑成整数1。"
+      "explanation": "利用加法交换律和结合律，同分母分数先加可以凑成整数1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4f9f17eb777e4bad321c3ce18f65d2ad9568697.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c0b3269f57a8975354176d7a25bc433c4101b2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f93eb7d82caa361b78c2ff386322a6a09537fa9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d274000aa756daa2300b06107888318d6467492a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbc368ea543dac0fd17363bc8e1a2ffb5ef48b6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5615fc7a3f64d1992d1525ecae55853ee92ab576.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "\\frac{5}{6} + \\frac{1}{6} + \\frac{2}{5}"
       ],
       "answer": "\\frac{5}{6} - \\frac{1}{6} - \\frac{2}{5}",
-      "explanation": "减去两个数的和等于连续减去这两个数。"
+      "explanation": "减去两个数的和等于连续减去这两个数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e5ae84dad2532deb8cced95314628c3ff7aaedd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b73dfe7bc32579231c93400f3e9f1ea33ce18bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f710b97ad7ad0b15fde1e0a35d7bc13c6c5fc243.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86740a212430f4a77568bba7949b8d4def225493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b733900f0d5ec860daa5a583ba125e8ef6c334d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53a1e650c23ca60d9abeb0dadf781049becaee8d.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "以上计算都不能简便"
       ],
       "answer": "(\\frac{3}{8} + \\frac{5}{8}) + \\frac{5}{12}",
-      "explanation": "同分母结合可以凑成1。"
+      "explanation": "同分母结合可以凑成1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/176c52c0673a5ee1008c08f7d68da53cd2b1b103.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2ff23ade76da44a002d952a73c68aeb6c392220a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/568d7d414c62f84ae71ee49678be597aa235daa7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31dd27bd5579fc582c10777d3c1982b752058757.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8abb0fef12bf87341d3638980a4c91add3ca40a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74d4e2510b0da97635be3514747341c9f38d5b5a.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +109,11 @@
       "question": "计算（填整数）：$(\\frac{2}{3} + \\frac{1}{7}) + \\frac{1}{3} + \\frac{6}{7} = ?$",
       "options": [],
       "answer": "2",
-      "explanation": "原式 $= (\\frac{2}{3} + \\frac{1}{3}) + (\\frac{1}{7} + \\frac{6}{7}) = 1 + 1 = 2$。验算：分别通分计算亦得2 ✓。"
+      "explanation": "原式 $= (\\frac{2}{3} + \\frac{1}{3}) + (\\frac{1}{7} + \\frac{6}{7}) = 1 + 1 = 2$。验算：分别通分计算亦得2 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6764be98cc89ca5dcdceba3d2e40b7039a252597.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b5dfa9a383d3a399acfbe41d0d4c96ac6336edc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "在使用减法性质去括号时忘了变号，如 $a-(b+c)$ 误写为 $a-b+c$。",
       "胡乱结合，没有观察到分数分母的特征就盲目套用定律。"
     ],
-    "tips": "计算前先“看、想、算”：看分母，想组合，最后再动笔。"
+    "tips": "计算前先“看、想、算”：看分母，想组合，最后再动笔。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/df/df5764dd27ebeff23bbdefae06b8c068e8b31df7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3f/3fbad1d527dd0989b817348f5604a7ae2c0f494a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/46/4626d6dd769975e40bad063370e4becff9beefb5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e4/e472732ccb1b7a66bfa3deb60ee6d2c33a00a54d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d0/d028e3761187d1fa8337d4ad43f055c736a9ee0e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c7/c76aade6d1ea6417a5a149a149a277f33308c408.mp3"
+      ]
+    }
   }
 }

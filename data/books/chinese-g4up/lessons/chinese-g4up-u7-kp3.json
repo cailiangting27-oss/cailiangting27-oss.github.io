@@ -16,7 +16,11 @@
       "question": "《夏日绝句》的作者是唐代诗人李清照。",
       "options": [],
       "answer": "错",
-      "explanation": "李清照是宋代词人。"
+      "explanation": "李清照是宋代词人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c8812ca44543b88d6d559cc1e22e7e6a92b28e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/607eb1890bc8a909ec135f635f3024d563fa1e52.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“不肯过江东”中的“项羽”是秦末杰出的政治家和军事将领。",
       "options": [],
       "answer": "对",
-      "explanation": "诗句描述的是楚霸王项羽在乌江边不肯逃走的故事。"
+      "explanation": "诗句描述的是楚霸王项羽在乌江边不肯逃走的故事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4a479162cbcc19af42ac7d5addd2b5be89f181e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/943881d4ba103e8600f2cdbef664b50f579d36be.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "还债"
       ],
       "answer": "回来",
-      "explanation": "此诗句意为征战万里的士兵还没有回来。"
+      "explanation": "此诗句意为征战万里的士兵还没有回来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/accfe0f087a6fe9c99fd169006f55331f1094dda.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/746b57a7b793e2ceb2232705531af5374e6abfc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31fd0bc3de91bbaca1ab3a6a2458462f0bddf84d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e70076acf4489ddb0620abbbe7129b8672ec6e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d68889156452c463d946b358025735892165ea26.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19885d13548d0f8488dbb0e615287990485f0d8d.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "关羽"
       ],
       "answer": "项羽",
-      "explanation": "李清照借此诗怀念项羽的英雄气概。"
+      "explanation": "李清照借此诗怀念项羽的英雄气概。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dddfdaf21d08bca03fe27bd0d57c0422c44e8d7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12dfeac49dc29a9774bc7f5bf2d7db7288448fd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6466c6cd5b8458c9830ca8cc7225169ab46e4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1b22e48f1bc81d8f5ea34b3ef31f7cf07a4cd89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c0b4daac92061516c99576a3e647979e8b9558.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/8056a8676a7adbad50625bb8509846d784b6ae49.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "但使龙城飞将在，不教（   ）度阴山。",
       "options": [],
       "answer": "胡马",
-      "explanation": "胡马指侵略者的马队。"
+      "explanation": "胡马指侵略者的马队。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/811e7375f351a41aa275d6e9367ca91b098e4028.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e12cf3eb07b9dafd8ea418f6f9070e3c2169b5cb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "背诵时混淆“龙城飞将”与“西域胡马”的地理概念",
       "误解“醉卧沙场”为不务正业的消极状态"
     ],
-    "tips": "画面联想法：背诵时脑中勾勒长城、黄沙、琵琶、江东项羽等画面，通过图像辅助记忆。"
+    "tips": "画面联想法：背诵时脑中勾勒长城、黄沙、琵琶、江东项羽等画面，通过图像辅助记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/87/872d1eb3c14e9eae65dc0a1201cc377690572ba3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e5/e556cfa73d86c1e9d0697d9cd96e928a3eea4662.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1c/1c3171b5cf4d7d7d8e0ca44ff68b94ec984c8656.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f6/f610585219612238d81223904cb9a96d34e43330.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7d/7da3868f0d8ca66fdc3283a6af861bf59d2c83db.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f5/f516890499c12270929f31934d364f830ee35667.mp3"
+      ]
+    }
   }
 }

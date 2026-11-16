@@ -21,7 +21,17 @@
         "Fine, thanks."
       ],
       "answer": "Thank you.",
-      "explanation": "接受别人的祝福要表达感谢。"
+      "explanation": "接受别人的祝福要表达感谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/277d4754c4960ebd3bc952e87d03bf20ed258820.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d169800f36090dec66d66dac922ddf6d2f636c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a33a2021e63645fda4918c33863cdd5fa192317.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/567a862a25d83f64dbf641b25c3ffe333e30b947.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff22e48e625efe5fc31753ce7b0c78f7162b499c.mp3"
+      }
     }
   ],
   "knowledge": null

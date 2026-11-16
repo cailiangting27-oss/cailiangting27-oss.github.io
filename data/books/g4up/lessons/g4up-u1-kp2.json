@@ -16,7 +16,11 @@
       "question": "读数时，每级末尾不管有几个0，都不读。",
       "options": [],
       "answer": "对",
-      "explanation": "根据大数的读法规则：每级末尾的0都不读，其他数位有一个0或连续几个0，都只读一个零。"
+      "explanation": "根据大数的读法规则：每级末尾的0都不读，其他数位有一个0或连续几个0，都只读一个零。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f9a7743020bbc17dff44399f9d23673e0e46008.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc2e8c23173786c441c015853e2bf4056c682774.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "35004"
       ],
       "answer": "35040",
-      "explanation": "万位上是3，千位上是5，十位上是4，百位和个位补0，得到 35040。"
+      "explanation": "万位上是3，千位上是5，十位上是4，百位和个位补0，得到 35040。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/6070d388c01d34363e9336367716cb750f3e78f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d55a24c1a8e095b8a171d2ac8ef57327bad765ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db8471475ca09387727461de779cb49890b9e011.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2fbffd7b335a2c4930c07b6dcde082b064dafb1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4086d3818d46edfdbe7cfa9c6582a0a55b602158.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db5f36667c8274019f1e16d15b0293284611e888.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "880000"
       ],
       "answer": "800008",
-      "explanation": "A读八十万零八百（两个零）；B读八十万八千；C读八十万零八（一个零）；D读八十八万。"
+      "explanation": "A读八十万零八百（两个零）；B读八十万八千；C读八十万零八（一个零）；D读八十八万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/befbe866acd6d558aaa2fe23e157f07f081bdacd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/532b95675020db3701b5daefbe9b618bfe6dcd7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ca986df7b80675f57ff588d880f3d10bf02fe5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31caad619fd4625b114250e855d028724b8386e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c709175f934a553795f7bf6476082c676f8177.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9ad1d125c6b83097f5e9bb472999402f755c6df9.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "22000"
       ],
       "answer": "20002",
-      "explanation": "万位是2，个位是2，中间的千、百、十位都是0。写作 20002。"
+      "explanation": "万位是2，个位是2，中间的千、百、十位都是0。写作 20002。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45ee3e7f4c3c1151e26c5720fc6360c14ffce8e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a95eedef9091a0498339e0abc4388fd1b4a3da12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef5cf469680d76f2d2e04bdbfaab79ed331335e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a59b23cc79b7c007a45f3cc8b39990f1a811fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c2037e569c3e5c9574601071b7c8268b3158ff8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/777bdbe421df140eaa291342fa23b26656ef7c86.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "中间连续几个零读多了，或者末尾的零读出来了",
       "写数时“占位”零漏写"
     ],
-    "tips": "读数先分级，写数看板块。读写完成后要再看一遍，数数位数对不对。"
+    "tips": "读数先分级，写数看板块。读写完成后要再看一遍，数数位数对不对。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/29/29acbb83335b869ef1487cb2e8963fd7df61dc29.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/01/01078bed0e1932f686f1982912018b9f3aeb14c0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9d/9dd8b55d5bd295e88ef8f29308b2a108b92bef6b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/02/02b447e42b76fd2df5e5915c037144ef44090946.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/96/968b9496106a0d3aa029ed831874e68265bbff72.mp3",
+        "https://api.clthuanxie.cn/cc-audio/38/38b4cb7c74ff7b3f9d576ab7485d230820e29448.mp3"
+      ]
+    }
   }
 }

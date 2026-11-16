@@ -21,7 +21,17 @@
         "叶赛宁"
       ],
       "answer": "冰心",
-      "explanation": "冰心的《繁星》《春水》三大会题正是母爱、童真与自然。"
+      "explanation": "冰心的《繁星》《春水》三大会题正是母爱、童真与自然。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d6a9f7dc0c491d6a92f425912c017d353a41731.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2fd06a3edec818e59afcc93ed610fc88f79cbc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae065c8aa2f976484a39d9e3ac7c0510ecfb64ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afee867db7c6ad9083e646584ce0b5ca2ee27cd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeff6c8fb0355f8f942041ff141c427780a3e3d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/127805b345f97f6b4c207e2336f730e8d479274f.mp3"
+      }
     }
   ],
   "knowledge": null

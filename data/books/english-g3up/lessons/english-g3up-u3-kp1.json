@@ -16,7 +16,11 @@
       "question": "询问别人身体状况时，可以说 'How are you?'。",
       "options": [],
       "answer": "对",
-      "explanation": "How are you? 是询问健康或近况的标准表达。"
+      "explanation": "How are you? 是询问健康或近况的标准表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/433f249e0e85142cb458fb7ad3e6a1fe199b4a1f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8807aa43d35cd23f700bf30b3fa011a05572edeb.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "My name is Mike."
       ],
       "answer": "Very well, thanks.",
-      "explanation": "对于 How are you? 的回答通常是 I'm fine 或 Very well。"
+      "explanation": "对于 How are you? 的回答通常是 I'm fine 或 Very well。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d67d186879dd7311c95e1427147857f692daa500.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64753c6fe019c4dad6292319d4387ea91bd3cee9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ef555672c6173e644a03c3d0b1bd4c23e94b8ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca035883326a496f504a51469ec0436d28398e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eeb97d72be7ad0d8dfc4372ea2cb6a4ca613e8b1.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "This is Chen Jie."
       ],
       "answer": "Let's go to school!",
-      "explanation": "Let's... 用于提议一起做某事。"
+      "explanation": "Let's... 用于提议一起做某事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/984b087c55c967eb10b2ca3a7d9c0f2b067306d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6875b1a01a16b72386dafee502d90a970c2e808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d0d375bb2976cb78801e6abe8095b116e4789d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d8bf91a915685cc63e34aec424934dced3a13b9.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "Happy birthday."
       ],
       "answer": "How are you?",
-      "explanation": "礼貌回问对方的近况。"
+      "explanation": "礼貌回问对方的近况。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43e50f2eb540d308ecc633e7c4076f9db7c14e77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e17e7660ce70478fa87aa34f5109878418ca10cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e4c7e41317dad48a1892cc60e1b7b9d5c8f3406.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3dbb1bf3d7dec7833163a886a34ae32574e4472d.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "How ________ you?",
       "options": [],
       "answer": "are",
-      "explanation": "问侯语 How are you? 固定搭配。"
+      "explanation": "问侯语 How are you? 固定搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a03a0ce58b6d5ea71f2356baeefe4dd74aff3adb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/ebe863fd3d95d054a258466d4354b3477933c6f7.mp3"
+      }
     },
     {
       "id": 22,
@@ -90,7 +128,16 @@
         "thanks"
       ],
       "answer": "Very,well,thanks",
-      "explanation": "Very well, thanks. 是对问候的回答。"
+      "explanation": "Very well, thanks. 是对问候的回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbc03b0fd0b48b6686c92dc71df3463934fc8744.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23ce0c06108fdd29a864559a1daf081f5b60f3ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd8483287459b73c55c2d0cff873a2588e82ad7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3f5ad7c10972ae7576636824f4ca257e7b5cad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95f1d88ad1d47b34de3507e29684483e4ee2fb29.mp3"
+      }
     },
     {
       "id": 23,
@@ -106,7 +153,17 @@
         "school"
       ],
       "answer": "Let's,go,to,school",
-      "explanation": "Let's go to school. 意为让我们一起去上学吧。"
+      "explanation": "Let's go to school. 意为让我们一起去上学吧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/443b944ab995ae4f227e244bc66d7ee86767a484.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/0976768f3036d1deedd434b668c7a92b832627ff.mp3"
+      }
     }
   ],
   "knowledge": null

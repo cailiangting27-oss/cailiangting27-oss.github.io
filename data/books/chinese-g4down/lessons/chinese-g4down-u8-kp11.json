@@ -21,7 +21,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "赋予北风“到访”这一人的动作，属于拟人。"
+      "explanation": "赋予北风“到访”这一人的动作，属于拟人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b510e9e053275def3493a8e89379d005177b7d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59bf639c91931fc5dd1579c6d3187a37911437dc.mp3"
+      }
     }
   ],
   "knowledge": null

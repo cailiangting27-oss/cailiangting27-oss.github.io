@@ -16,7 +16,11 @@
       "question": "“国”和“团”这两个字在书写时都要遵循“先里头后封口”的笔顺规则。",
       "options": [],
       "answer": "对",
-      "explanation": "根据汉字笔顺规则，全包围结构的字（如国、团）应先写外框，再写里面，最后封口。"
+      "explanation": "根据汉字笔顺规则，全包围结构的字（如国、团）应先写外框，再写里面，最后封口。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a2b444c2d52ed4387aba510d8097e939167342f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45dc68fbe549714ca603124ae01f3724fc033bc7.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“匹”字在书写时，最后一笔是“竖折”。",
       "options": [],
       "answer": "对",
-      "explanation": "“匹”是三面包围结构，书写顺序是先撇、后横、再写儿，最后写外框的竖折。"
+      "explanation": "“匹”是三面包围结构，书写顺序是先撇、后横、再写儿，最后写外框的竖折。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5eda9ecf626a34453323451ed9a50045df889967.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b5f704a7881999b38b3130f1cd92329b7f587f9.mp3"
+      }
     },
     {
       "id": 14,
@@ -43,7 +51,17 @@
         "向"
       ],
       "answer": "向",
-      "explanation": "“周”和“向”都是三面包围结构（上左右包围）。"
+      "explanation": "“周”和“向”都是三面包围结构（上左右包围）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76c3a6e54407d30171dbea58fce33d1f0b6bee20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c87a2d63adfb39e31b99d050ecf0d49c8478e17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a87cd74fa6a7fdb86ddb399d45dd35815efc65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dbcceb7f0060a797fccced6f80df681bc6ee5ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19821cff6588486a344fc846f327f7ac070bdac5.mp3"
+      }
     },
     {
       "id": 17,
@@ -54,7 +72,11 @@
       "question": "“国”字的部首是（____）。",
       "options": [],
       "answer": "囗",
-      "explanation": "“国”是全包围结构，部首是“大口框”，即“囗”。"
+      "explanation": "“国”是全包围结构，部首是“大口框”，即“囗”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3746cbec2a818ccdbf473924151edb45da901fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/606ea88caaf58db10f3a39babd41d22f261d8ac8.mp3"
+      }
     },
     {
       "id": 21,
@@ -74,7 +96,21 @@
         "三面包围上左右"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "团是全包围，巨是左下三面包围，底是左上三面包围，冈是上左右三面包围。"
+      "explanation": "团是全包围，巨是左下三面包围，底是左上三面包围，冈是上左右三面包围。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30d90e5947e0ed145750b667a72add813b294f10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/47ee47b287d8fa4529e17815caf2d19995af5a44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef7cdf02984e7e7a5b1f21b32469744e0593c961.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2282a44c4e061a5cef2fe997fc7c348fcb21b8f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c009f42425d249c60e85ec47000349c06c11c0c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3ccade397ae69d5b80265c109d2874055e916116.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95383b606dfff0b93c6a59945843a43277dfb6aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08506340262d7f7323ef84f70ce8966b01ae8091.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2265d03b28d9e5af5122c579bfaf5b37e8d90426.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/9644292c4057322b42d325cc1cc5a99f880f745c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -85,6 +121,16 @@
       "“国”字先封口再写里面（由于不熟悉笔顺）",
       "“匹”字的末笔写成竖，而不是竖折"
     ],
-    "tips": "记住口诀：全包围，最后封；三面包围看仔细，左下包围最后框。"
+    "tips": "记住口诀：全包围，最后封；三面包围看仔细，左下包围最后框。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f5/f5ff66252bddcc0e72ed538181533ffeaa6fdce4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/cd/cddee8d784d5cb29f6cb8fd6bc70017556db05c1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/97/9724e40166e87b197b89cc0caff4572508c8e977.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2c/2c4bc5456011e1a970f20d177d40a5d34d153b5b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bb/bb465a392a92227fe1e1fa6b0de62a506c5f54d8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/db/dbc850731ca4fdf0f151d9b5066dd274085879ef.mp3"
+      ]
+    }
   }
 }

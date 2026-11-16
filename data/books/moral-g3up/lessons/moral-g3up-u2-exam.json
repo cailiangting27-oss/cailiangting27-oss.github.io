@@ -21,7 +21,17 @@
         "边走边玩手机"
       ],
       "answer": "左右看，确认安全",
-      "explanation": "绿灯也要左右观察。"
+      "explanation": "绿灯也要左右观察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44ec53faa6adc0e758036a1c0160a8d919766cf6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b60c8d71450dfe996af0f34611174ad8b25055b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0ba9965f92e94d8b37c7ac5dc61f327ce68f348.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27ec82b5cd51b83a09913aa8b263ec2e04466021.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5661d5deed751331d82ea710fb560071109e4cbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d9aadaf7684f6f8fbffde7bb1b7ec8de34ac7d0.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "遵守规则也是尊重他人的表现。",
       "options": [],
       "answer": "对",
-      "explanation": "守规则是尊重。"
+      "explanation": "守规则是尊重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8199ec927932e7daec278008b59745085210b02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c78e45a238e11e5e9a30d30f2af3b5affd7750d.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "收下礼物"
       ],
       "answer": "不理睬并告诉家长老师",
-      "explanation": "要提高警惕。"
+      "explanation": "要提高警惕。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6e4e16a6ab932307f49d0e0d33a61268a3d76c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f5f5b94488f5d1268e0d58003763b1bb9dd54b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f71a68e9bf4dcb2c59d3248fd88a59113f7e655c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2876019b05315e24edcff1a0ace780d29c589059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f61e5366924a5ec8e27e28cd368a586ba059e98.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/648d27c10b125ea416566794f4a7744aab9ac694.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "在马路上追逐玩耍很危险。",
       "options": [],
       "answer": "对",
-      "explanation": "马路玩耍危险。"
+      "explanation": "马路玩耍危险。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c3db07736380f30782fcf590647b9cf7813bf7a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07324782fa25badf1378d3cec50990029d4abd09.mp3"
+      }
     }
   ],
   "knowledge": null

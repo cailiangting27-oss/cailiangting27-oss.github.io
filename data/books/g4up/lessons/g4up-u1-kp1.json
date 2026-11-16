@@ -16,7 +16,11 @@
       "question": "在数位顺序表中，两个计数单位之间的进率都是10。",
       "options": [],
       "answer": "错",
-      "explanation": "只有每“相邻”两个计数单位之间的进率才是10。必须强调“相邻”二字。"
+      "explanation": "只有每“相邻”两个计数单位之间的进率才是10。必须强调“相邻”二字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/773b28f2c1178f184799537abf7ad1f355b83461.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07b1619d3ea3d837be55bda135c75c378d34d115.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "千万位"
       ],
       "answer": "百万位",
-      "explanation": "数位顺序从右向左依次是：个、十、百、千、万、十万、百万。第七位是百万位。"
+      "explanation": "数位顺序从右向左依次是：个、十、百、千、万、十万、百万。第七位是百万位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b825b475764fda0acb945e5861280b048b2295a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/52c3f88d819b0ab4da78d47c699d8120cf1124de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30663644451cc325f0fbf87a88b8ea8d7bd82914.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bf84464f63d2a871f095ee0939406f0e5b23184.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e097f48caaba44deedd534a28adf6effc83be91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5756b506ecba4310b66da9e023a6b0a6c3abc1e0.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "1000"
       ],
       "answer": "10",
-      "explanation": "相邻计数单位间的进率是10，$10 \\times 1千万 = 1亿$。"
+      "explanation": "相邻计数单位间的进率是10，$10 \\times 1千万 = 1亿$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a363377636c07481346c621b4e07b494333facb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/816d744a31bdc2c426ef75c49982fcb178c6ade1.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "六百五十万写作 6500000。65 后面需要补 5 个零。"
+      "explanation": "六百五十万写作 6500000。65 后面需要补 5 个零。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c84786e59d1609f0bed1a10a0f152d6991dfed44.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91c49eca1bfbc5681d5d6f662a98000ee7b475ae.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "一个九位数，最高位是 ___ 位。",
       "options": [],
       "answer": "亿",
-      "explanation": "数位顺序表：个(1)、十(2)、百(3)、千(4)、万(5)、十万(6)、百万(7)、千万(8)、亿(9)。最高位是亿位。更正：由于题目要求填数字，此处知识点要求改写为：一个九位数，最高位在右起第 ___ 位。填 9。"
+      "explanation": "数位顺序表：个(1)、十(2)、百(3)、千(4)、万(5)、十万(6)、百万(7)、千万(8)、亿(9)。最高位是亿位。更正：由于题目要求填数字，此处知识点要求改写为：一个九位数，最高位在右起第 ___ 位。填 9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d984d15b3a01d4aa0fd996190c79bd4c197ffd3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fd534628218db0b82401622c43b62944fff697f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "混淆数位和计数单位，如问计数单位却填了万位",
       "忘记级数划分，数错位数导致单位错误"
     ],
-    "tips": "背诵数位顺序表，记住“四位一分级”的口诀，读大数前先划级。"
+    "tips": "背诵数位顺序表，记住“四位一分级”的口诀，读大数前先划级。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e5/e52aee18fbfc5ef3d1411342cfb99282b3db4161.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e4/e42e02d7d10c612b29dd1b0148e31df8dabd3827.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/96/9690ab7f30602e4024dc432dfe6875a26e2e4b0f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/779024471cdb43f1d3fff556c6f40ff52be2562f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b0/b08646c07790578c61856e481a8b565008750a91.mp3",
+        "https://api.clthuanxie.cn/cc-audio/38/38f909d2222a88803ea7ec0bf404d67ffc081b1c.mp3"
+      ]
+    }
   }
 }

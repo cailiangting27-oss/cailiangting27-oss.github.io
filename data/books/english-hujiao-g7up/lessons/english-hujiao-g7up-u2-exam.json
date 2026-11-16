@@ -21,7 +21,15 @@
         "watching"
       ],
       "answer": "watches",
-      "explanation": "ch 结尾加 -es。"
+      "explanation": "ch 结尾加 -es。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59fe6817258ba6d30e333557198199ec5fcaba9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/292b0901993f7e9d9a0d9b80542f9e59505ba5be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/070c2afb2fca7a97551f3675520c3103f162b8d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/874e70e6ab4d774bd2950cff37e0f6d516a63a5d.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "having"
       ],
       "answer": "has",
-      "explanation": "have 的三单是 has。"
+      "explanation": "have 的三单是 has。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f29355e7c5837106abe2ab7660a9ce7dc44f5c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ea8a74afa8317c916968e8c994023c23dca4ba0.mp3"
+        ]
+      }
     },
     {
       "id": 7,
@@ -64,7 +80,15 @@
         "does homework"
       ],
       "answer": "do homework",
-      "explanation": "固定搭配。"
+      "explanation": "固定搭配。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f95d4e56974ea6628f65ae8d5cbe0c74b3ffd295.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd5ac679ce0d76da9f78704c8c64037c80a51c0d.mp3",
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

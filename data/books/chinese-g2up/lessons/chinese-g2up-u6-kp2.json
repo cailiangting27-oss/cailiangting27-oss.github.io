@@ -16,7 +16,11 @@
       "question": "“油轮”和“渔船”都属于水上交通工具。",
       "options": [],
       "answer": "对",
-      "explanation": "油轮用于运输石油，渔船用于捕鱼，它们都在水上航行。"
+      "explanation": "油轮用于运输石油，渔船用于捕鱼，它们都在水上航行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15cf6fcdb2044f2399823b67b81b762a381c4731.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac2d574542522a427ec61fa488938434a79d0756.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“轿车”和“挖掘机”都属于专门在公路上进行客运的交通工具。",
       "options": [],
       "answer": "错",
-      "explanation": "轿车是客运交通工具，但挖掘机属于工程机械，不是常见的客运交通工具。"
+      "explanation": "轿车是客运交通工具，但挖掘机属于工程机械，不是常见的客运交通工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5939b554a0a97d453a2d35bdc5a2bd6a350149f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2abd13935797f8032691037249f2209cfa589d2f.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "摩托车"
       ],
       "answer": "客轮",
-      "explanation": "在大海中航行应选择大型水上客运工具，即客轮。"
+      "explanation": "在大海中航行应选择大型水上客运工具，即客轮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/687c77e9a8bb6266934382f50cb418a959eaa7d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14534d703d56e8e8e3571229eafee057dbfa6553.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b455f756921a827004085dc61859e25f80f6794e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e63d3f2f45c3bd7b120419b10f4b863f2bcef5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5cea93616d9ed3735c98d50d42653868ddaba85e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c503569f0de3c0870b9936b942e11d158cf54285.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "救护车"
       ],
       "answer": "潜艇",
-      "explanation": "潜艇是在水下活动的工具，属于水上/水下交通类。"
+      "explanation": "潜艇是在水下活动的工具，属于水上/水下交通类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffb34a90576d62128d1aa0761d6f99702c79b48c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87f4f192937dfb326cf15506fda6c7a46c9cca05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/853fddd11b5174789378715019521e4fec030669.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42c286f6f269edb8f6a5cf21ddf4ac9695cb2b8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3807dbdc241ad61f9ed413ca6657f8a2aff3b62b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/176e439e597147111498141c830438526f939a48.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "拖拉机"
       ],
       "answer": "消防车",
-      "explanation": "灭火是消防车的特殊用途。"
+      "explanation": "灭火是消防车的特殊用途。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbcac1e8b112e84f1ca49f413bdb52bf70fbdade.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f4c15970b93976bc6d5872481fea3f4468bb6fa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87f4f192937dfb326cf15506fda6c7a46c9cca05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ebf90fa22c42f1c1857ec1d19cf1a47bb9d0058.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4ae6265245f56e16269e2769770f881c1a86e9de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e8d94bea7c2d1042fca7cb5c343554f558c937e.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "人们在水上捕鱼使用的交通工具叫做（___）。",
       "options": [],
       "answer": "渔船",
-      "explanation": "专门用于捕鱼的船被称为渔船。"
+      "explanation": "专门用于捕鱼的船被称为渔船。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/937a9c3d77b8f4e6a84a69d9552e53ebbbbec5aa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/930d0c37454cec2f1aedf9987ff140eb536307d6.mp3"
+      }
     },
     {
       "id": 19,
@@ -106,7 +148,21 @@
         "海洋"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "救护车在公路跑，客轮在海洋行，飞机在天空飞，地铁在地下跑。"
+      "explanation": "救护车在公路跑，客轮在海洋行，飞机在天空飞，地铁在地下跑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/857c545d522bf43bdae7551bc91076c838b0b8d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/3807dbdc241ad61f9ed413ca6657f8a2aff3b62b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b455f756921a827004085dc61859e25f80f6794e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cb0206b420005365d16b059ba66895a079c1860.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dad7790f9b47378b430f3bf2af22d8eb0614bef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3b87e3ce61f362c6f574a8649abe35adf2a9f51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2ec820603852c65f21e4bf9d0133aec18f9794f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b247c3e6783b29f1772c0ba7baf9f3a454ecb97a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/560405abb6d09b7a65262c5f8fcbeefae22ddefb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -117,6 +173,16 @@
       "将‘油轮’、‘潜艇’等生疏词汇错认为是陆地工具",
       "量词使用不当，如把船说成“一辆船”"
     ],
-    "tips": "在出行时多观察马路上的标志，将书本词语与现实生活中看到的车辆一一对应。"
+    "tips": "在出行时多观察马路上的标志，将书本词语与现实生活中看到的车辆一一对应。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ee/ee57e344f935b324c7efbb621567ce0f13c5117c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/44/44b575c10e17d33c03eef52fcd4ad6be1a03e9ce.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/86/862b94f314067c760e88447d28ef133d8c025096.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/47/470a13971968e79bf55594a290a3774703dd0faf.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9a/9a6028abc8c5085abd290c50dd977cf19992ce18.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6f/6f57c589cc7745c2e09ddd689fda27c849b7fcaf.mp3"
+      ]
+    }
   }
 }

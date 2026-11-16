@@ -21,7 +21,17 @@
         "不和别人比"
       ],
       "answer": "既看优点也看不足",
-      "explanation": "要全面看待自己。"
+      "explanation": "要全面看待自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/604977c609605c1ff89f58653313cfaa591a0083.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7ede2c9d47c991491e61e134e63f78c3eef96d01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/899bb38e4466c90e2a1b5c4adfad26f971e9f46c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55dbe686879d5eeb4810d9f49b3ffef284e3d419.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59ac0fdeeb8535be51c377017465bd7cf0ec1eda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef67d2122c7118bdbb6abe37c590424ee33a132a.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "每个人都有自己的长处和不足。",
       "options": [],
       "answer": "对",
-      "explanation": "人无完人。"
+      "explanation": "人无完人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5086c9630995177e91fce2fb7adfd4416abbf63a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db716fa2405d9139b2223284a990df3d9f0a9b40.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "只看到别人的优点而自卑。"
     ],
-    "tips": "相信自己也能行。"
+    "tips": "相信自己也能行。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/96/96a2c40a20aba82fe8405ad30b690eb7f8a4425c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/31/319f9c53ab6449eb6588faf58f8fd8be5704a4bd.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/de/de089200d5136b87f55c24b2114cdc1dd2fe4186.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/55/5517b0abd556afd9a62d7e824a7b388dab1eee25.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/72/72fd1082901030a739cd53209c25d76d449a5508.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "large"
       ],
       "answer": "large",
-      "explanation": "句子用but转折，small的对比词应选large。"
+      "explanation": "句子用but转折，small的对比词应选large。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aadbfda1e7a41d8e944175338d16981cc3e16a03.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5296d5cced2aa1cf19afd9cf498d89f0d85481f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b714fc29f8c1979a8af7340540a9eb8732f9b06.mp3"
+      }
     }
   ],
   "knowledge": null

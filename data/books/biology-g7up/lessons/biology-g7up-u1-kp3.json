@@ -21,7 +21,15 @@
         "分解者"
       ],
       "answer": "次级消费者",
-      "explanation": "狼是第二级消费者。"
+      "explanation": "狼是第二级消费者。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5e6abfbdddf4e7a761191f7a3da138038cf600.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/325cf4ff99e91de2917e44839044be2f9bb2a078.mp3"
+        ]
+      }
     },
     {
       "id": 5,
@@ -48,7 +56,15 @@
         "阳光"
       ],
       "answer": "分解者",
-      "explanation": "分解者起分解作用。"
+      "explanation": "分解者起分解作用。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5e6abfbdddf4e7a761191f7a3da138038cf600.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54513cd3331d801e48793acd8158a67741ffd700.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/325cf4ff99e91de2917e44839044be2f9bb2a078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4f18dd7d66ec2e2a0f9f28b0934af98f497deea.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

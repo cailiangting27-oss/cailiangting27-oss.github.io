@@ -21,7 +21,17 @@
         "张洁"
       ],
       "answer": "萧红",
-      "explanation": "《火烧云》选自萧红的《呼兰河传》。"
+      "explanation": "《火烧云》选自萧红的《呼兰河传》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77320259c5f9f52bcdb0d8e045f3f9c1a3c8ceb8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae065c8aa2f976484a39d9e3ac7c0510ecfb64ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e0469da8b2bf311e85a9bed75a90467e32e8f24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1acf9e186bfb513a9a66b65db051968d02375b1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78af9beb7338cff1acef0a97a1ca4de08d0b8446.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13fa7d1cad0a11558e568ab7e1d427de2c52a60b.mp3"
+      }
     }
   ],
   "knowledge": null

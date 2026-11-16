@@ -16,7 +16,11 @@
       "question": "在单词 water, tiger, computer 中，结尾的 er 发音相同。",
       "options": [],
       "answer": "对",
-      "explanation": "在PEP四年级英语中，结尾的er通常发/ə/音。"
+      "explanation": "在PEP四年级英语中，结尾的er通常发/ə/音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/394c82a1bd2efdedb25f854f8f38d76a258babad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5ef65d8994d6721110b2c77dba56b526f0a7cb16.mp3"
+      }
     }
   ],
   "knowledge": null

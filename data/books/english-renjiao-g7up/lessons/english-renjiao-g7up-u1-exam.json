@@ -21,7 +21,15 @@
         "/"
       ],
       "answer": "an",
-      "explanation": "honest 中 h 不发音，以元音音素开头。"
+      "explanation": "honest 中 h 不发音，以元音音素开头。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "mine"
       ],
       "answer": "me",
-      "explanation": "作宾语用宾格。"
+      "explanation": "作宾语用宾格。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3"
+        ]
+      }
     },
     {
       "id": 7,
@@ -64,7 +80,15 @@
         "twelfth"
       ],
       "answer": "twelve",
-      "explanation": "基数词表示数量。"
+      "explanation": "基数词表示数量。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad764c7de1620a2aeacd34fa77967aa03d130cf4.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ae/ae8d22fc84726d9e47bfba6022fa814b37879828.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

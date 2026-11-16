@@ -21,7 +21,15 @@
         "should"
       ],
       "answer": "mustn't",
-      "explanation": "禁止迟到用 mustn't。"
+      "explanation": "禁止迟到用 mustn't。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/57/5723d165ed59595207e8c0c85bb720c83f4ce809.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c6/c6dc9bc9f77b486a13b3f63ffb2ffd1cb3fef4db.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "the tallest"
       ],
       "answer": "the tallest",
-      "explanation": "三者以上用最高级。"
+      "explanation": "三者以上用最高级。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e840bf7fb2acab067ca3bf33801df225389465dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b600582f7417cd3b98d756374e8545a310113ad2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e5ffc76b5faee568155e03f81ff5fcc23cb961d.mp3"
+        ]
+      }
     },
     {
       "id": 7,

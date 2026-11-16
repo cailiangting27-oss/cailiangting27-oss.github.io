@@ -16,7 +16,11 @@
       "question": "小明8:30上课，他8:45到校，他没有迟到。",
       "options": [],
       "answer": "错",
-      "explanation": "8:45在8:30之后，所以他迟到了。✓"
+      "explanation": "8:45在8:30之后，所以他迟到了。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/093048e3490a9868adbf9e8736f7b92240829b65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d582237119692dfcfd964ceb8a6758e45f8ab06c.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": "明明",
-      "explanation": "7时10分早于7时30分，数值越小时间越早。✓"
+      "explanation": "7时10分早于7时30分，数值越小时间越早。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db4cdc0d4ff2e42ad2620408eba4baf14803d83a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/447c6c955e23b08c579cef81c5f1e5f7797cb472.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01318b540b8fd4df729e70e8c7e6aff0227d8624.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b692e7d227777609b2e4a04a7d08b76874aac22b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/eca16367d603125bfd3b8eac0044e98fb7338632.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "8:20"
       ],
       "answer": "9:40",
-      "explanation": "9时 + 40分 = 9时40分。✓"
+      "explanation": "9时 + 40分 = 9时40分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/505619bad9eab6c1830aba74aee521e99f8e8b54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df74b06f3db5e04766834868c53a71fcbf38e6d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7628e79519818ae9587d82377ddf94e1c7fe6e60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c39ef999828eac3c2e52928a48637ac39370f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c54147be86a213676260923b8cb58d8bc227eca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6c3f4bee8ef9b3e13b8ec29afce0db465614a2d.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "10:00"
       ],
       "answer": "10:15",
-      "explanation": "提前离场即在结束时间之前。$10:30 - 15 = 10:15$。✓"
+      "explanation": "提前离场即在结束时间之前。$10:30 - 15 = 10:15$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19c6800dbaf1d81e1c811fabbd90fefcae9e06e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b441d8bea4295b08996bdd70d0fd0d91de9bb17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23541d3f0cbff5987493476181e9af05ba94351e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/117c83232176f77de38afb54ca7aa044aca7cc4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c39ef999828eac3c2e52928a48637ac39370f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a657256a0cd724292abb49a09defb8cb978a0cd.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "20分"
       ],
       "answer": "30分",
-      "explanation": "$45 - 15 = 30$（分）。验算：$15 + 30 = 45$。✓"
+      "explanation": "$45 - 15 = 30$（分）。验算：$15 + 30 = 45$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8768f42a5dc2032065cf8e84ffad44f9b93383a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54252b9056a1cad0328f5f3d8226c1acfae03fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0847709906d5485d0bb5b30019da771173afbbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e68ca815b06e9c05b2026e3a84242402a509f486.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c564d9792146b5076fa02107d08a98892ee1024.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/194bf15e49befe27692261882956faef35d38fa3.mp3"
+      }
     },
     {
       "id": 21,
@@ -91,7 +135,11 @@
       "question": "一部电影 3 时 10 分开始，4 时 40 分结束。电影放映了几分钟？",
       "options": [],
       "answer": "90",
-      "explanation": "4时40分与3时10分相差1时30分。1时=60分，加30分等于90分。验算：$10 + 90 = 100$ 分（即1时40分），3时+1时40分=4时40分。✓"
+      "explanation": "4时40分与3时10分相差1时30分。1时=60分，加30分等于90分。验算：$10 + 90 = 100$ 分（即1时40分），3时+1时40分=4时40分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/830357b79fd828fabab5eeeeb848c654ac064b67.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3aaaa283e8a8d94bd8d2ca01392901fbac555555.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "分不清“几时”和“几时多”，导致推理活动顺序错误。",
       "在跨小时计算经过时间时出错，如 3:50 到 4:10 算成 60 分钟。"
     ],
-    "tips": "在草稿纸上画一条时间轴，把活动标在轴上，先后关系就一目了然啦！"
+    "tips": "在草稿纸上画一条时间轴，把活动标在轴上，先后关系就一目了然啦！",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e0/e0e4613a07f87621441955398056da2b00665bea.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/21/21afbeb725b6183bfa7c0974af94aa756f7ae9a2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f6/f6f906fdd56ec1332b2d2639360eaea42701411c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2f/2f65557f09535e4fc6d45375566e95aa2bc223c9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/014136bfca5e48b7f8f5e12e58c5071caf285e7b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3e/3ea2474e14ba75c35fdb7f297d1115e96a578253.mp3"
+      ]
+    }
   }
 }

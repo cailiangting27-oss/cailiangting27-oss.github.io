@@ -16,7 +16,11 @@
       "question": "“海滨小城真是又整洁又美丽。”这句话可以作为整段话的中心句。",
       "options": [],
       "answer": "对",
-      "explanation": "中心句通常概括了全段的主要内容。"
+      "explanation": "中心句通常概括了全段的主要内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fba23d612046481b99541fc7dbce2017f7099051.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/360d10a7e32c6f44dc452b0956ccdb7f3edbd281.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "大家在做老鹰捉小鸡的游戏"
       ],
       "answer": "老师在办公室批改作业",
-      "explanation": "老师在办公室与“操场上热闹”这一中心不符。"
+      "explanation": "老师在办公室与“操场上热闹”这一中心不符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3304d41dfd2263b2477bb9925537d8f990fc28e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/225ad6f57c2f6842b7a35839c28576340252f18e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77aa9964efd2e78b7de5e6a01f6c6c271ac351f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e81e4049b06fd0007196de18a2e001eaf5240c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a918f92a1fcff6d0daad0bc53fe0762b941e0a06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/909c55c5762f898cad48273ecebcac78a236d685.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "描写西沙群岛海水颜色多时采用的词语是（___）。",
       "options": [],
       "answer": "五光十色",
-      "explanation": "文中用五光十色来形容海水的多种颜色。"
+      "explanation": "文中用五光十色来形容海水的多种颜色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1e594a3442f9dc60fe4e553e2d46027b115d84f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/68f438835f9c349ba754e88a0628d2c7898f3aee.mp3"
+      }
     },
     {
       "id": 22,
@@ -61,7 +79,19 @@
         "的"
       ],
       "answer": "西沙群岛,是,个,风景优美,的,地方",
-      "explanation": "主系表结构的陈述句，描述西沙群岛的特点。"
+      "explanation": "主系表结构的陈述句，描述西沙群岛的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f9ad9c7be112b121b7c834527a1f801cbd586ea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abaacf5c0a5835ea2e4eb263b1f6760285046b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c1123be20e55001693e551c27a822b3593a80d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afb1bef44431362ce48d64b1060cfc6d4bb043b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0746bd624955e27081c6419ac31b592d6b683e95.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae46473fca5d429b0e9e1f93d8e964ebe8a08a8a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -72,6 +102,16 @@
       "所选素材脱离中心句，如写操场热闹却写在教室学习",
       "中心句概括不准确或缺失"
     ],
-    "tips": "写作前先想好一个最核心的形容词，然后围绕这个词从不同角度举例子。"
+    "tips": "写作前先想好一个最核心的形容词，然后围绕这个词从不同角度举例子。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/15/15042c6acc43e478e813c4b8c371452ccc955d7a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3c/3c2cb8d5b60bd23aa3da99955fce0dbd122b227a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3e/3ee769eaf47c2ee5bf673061d9d5d82418e50df5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/00/006e790dab2591efd929c9ed6a1f7ffd213f01b0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6a/6a52df7533aec444c7ed131a5f6a0bb7c50500b6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/75/7537f04ea821adcd62e6e44743b9d39ab39acdbd.mp3"
+      ]
+    }
   }
 }

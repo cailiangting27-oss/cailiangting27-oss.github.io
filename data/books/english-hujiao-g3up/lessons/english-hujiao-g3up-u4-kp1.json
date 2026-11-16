@@ -21,7 +21,17 @@
         "I am Tom."
       ],
       "answer": "This is my friend, Tom.",
-      "explanation": "介绍他人用 This is…"
+      "explanation": "介绍他人用 This is…",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b189aa7f40c169f426f04a22b0f11de5b2617249.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc3bf799416ee7ab6d07d8213fd0a1157c255a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee8464ab769e7834ea3706e7f1c491572650a16a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97b26875854a4bf98f2cb6e601029cf9c003ffae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d068922c74fde13b5e0e9877fb67008731df8128.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24da9ffb103afbd0ce89296cab5b67c59928099c.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "This is… 用于把某人介绍给别人。",
       "options": [],
       "answer": "对",
-      "explanation": "介绍用语。"
+      "explanation": "介绍用语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c0d93476d0449b74be949a71e4b99d5bbe93a68.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e503902aafd87c226ccd75f113d5cd55fb144d20.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "介绍时说 He is my friend 而不先用 This is。"
     ],
-    "tips": "当面介绍首选 This is…"
+    "tips": "当面介绍首选 This is…",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d4/d43a2fc06f46b8afb091ca9617c684dc60bf350c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/da/daa11592d5cc67759c1441770a0d95dc07fd07c7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bc/bc3bf799416ee7ab6d07d8213fd0a1157c255a56.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b2/b28146dde9da1bf02c1c1d0de76fc7aded8718c3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/75/753bfd173a96b8aee80ed5883ff92a5bb0d84352.mp3"
+      ]
+    }
   }
 }

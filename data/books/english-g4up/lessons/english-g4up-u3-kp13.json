@@ -21,7 +21,17 @@
         "bag"
       ],
       "answer": "glasses",
-      "explanation": "根据on his face（在他脸上）判断只有眼镜符合。"
+      "explanation": "根据on his face（在他脸上）判断只有眼镜符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae965e83e1395a6f78beb3f572ae7f00c30c1ddb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc70b0511b268629ba9522bfbab90c0cec91c2c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19f319efbd6da4987012e838ee7d7f95e6f70911.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba22ef34f8bf4f0d4fde40c9b22c2921ae964f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76b0cf796d6ed30904af070899d4e2ce8e07ce92.mp3"
+      }
     }
   ],
   "knowledge": null

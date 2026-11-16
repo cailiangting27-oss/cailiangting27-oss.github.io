@@ -16,7 +16,11 @@
       "question": "从4个同学中选2人参加跳绳比赛，有6种不同的选法。",
       "options": [],
       "answer": "对",
-      "explanation": "这是组合问题。选法有：(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)，共6种。正确。"
+      "explanation": "这是组合问题。选法有：(1,2), (1,3), (1,4), (2,3), (2,4), (3,4)，共6种。正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5fcc0a5906d3461f25584edbc1651a772ba8e5d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d9063ab1097fa62208ea7f270f2405c9c54680b.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "12次"
       ],
       "answer": "6次",
-      "explanation": "组合问题。$3 + 2 + 1 = 6$ 次。验证：(1,2),(1,3),(1,4),(2,3),(2,4),(3,4)。"
+      "explanation": "组合问题。$3 + 2 + 1 = 6$ 次。验证：(1,2),(1,3),(1,4),(2,3),(2,4),(3,4)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2aec5ca043d68b9c1a425bea90ead3a04347d934.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7cc92751a780372b567bdea634f59b9f74a9e094.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc147d43444e736cb1dfa80d196b4848e2892cdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4412d87ed7cc37f214688c942d1d31d6975146d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2d2c7373fc36c0049e1f2fc265a30193a7ceef6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1cf6d07742ca841d46d5be25ad8025776d32b1d.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "10种"
       ],
       "answer": "8种",
-      "explanation": "$2 \\times 2 \\times 2 = 8$ 种。"
+      "explanation": "$2 \\times 2 \\times 2 = 8$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4987761b248d72920aaa558a28a7957c186ebd13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/9223ba3adfd431934126568314183ebe512ddaca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e63f535ac37186d45127decf031df406a4bb3c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d66c8c87b9fb9a966029f5edf9a7f2dd52e52ccd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c48da21b387e97a73dc30bc2c2c86c030441d1b3.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "24个"
       ],
       "answer": "9个",
-      "explanation": "十位可选1, 2, 5（3种选择）；个位从剩下3个数中选1个。$3 \\times 3 = 9$ 种。"
+      "explanation": "十位可选1, 2, 5（3种选择）；个位从剩下3个数中选1个。$3 \\times 3 = 9$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bbaa631074825a6188744a7c89a79b731c88d1b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eab83a50ca54147d0b59b201e87c10142e605c15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9935f918445c0c9fb62268e2d97312615c1cd95f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2291f769f054620fb948d40fbd4d2b5883b7dee.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "5个队员进行乒乓球单打比赛，每两人打一场，一共要打 ___ 场。",
       "options": [],
       "answer": "10",
-      "explanation": "$4 + 3 + 2 + 1 = 10$ 场。验算：$(5 \\times 4) \\div 2 = 10$ ✓。"
+      "explanation": "$4 + 3 + 2 + 1 = 10$ 场。验算：$(5 \\times 4) \\div 2 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4de174c8a61e39ce64ccd8274d73a707431d8ffc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dcc423c7aa93858abb2c536cfc04880088ab3b0c.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "计算：$5 \\times 4 \\times 3 = ?$",
       "options": [],
       "answer": "60",
-      "explanation": "$5 \\times 4 = 20$，$20 \\times 3 = 60$。验算：$60 \\div 3 = 20$，$20 \\div 4 = 5$ ✓。"
+      "explanation": "$5 \\times 4 = 20$，$20 \\times 3 = 60$。验算：$60 \\div 3 = 20$，$20 \\div 4 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f24e3b91cb16133e017944ab946632825eff4620.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b0655c27c23f033421f5558f0f0a79f6f3f1178.mp3"
+      }
     },
     {
       "id": 23,
@@ -97,7 +139,11 @@
       "question": "计算：$4 \\times 3 = ?$",
       "options": [],
       "answer": "12",
-      "explanation": "$4 \\times 3 = 12$。验算：$12 \\div 3 = 4$ ✓。"
+      "explanation": "$4 \\times 3 = 12$。验算：$12 \\div 3 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a31e854ea814dc653ba9583cedb67c1dc199374e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb765450ec1bad0ea778b74d6c914e7ac27a7386.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "混淆比赛场次（组合）和互送礼物（排列）的数量差异。",
       "面对三类事物的搭配（如衣、裤、帽）时只计算了两类。"
     ],
-    "tips": "做题前先问自己：“换个位置还是一样吗？”一样就是组合，不一样就是排列。"
+    "tips": "做题前先问自己：“换个位置还是一样吗？”一样就是组合，不一样就是排列。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/09/09319c4e8ba6df85e081a6112053a0ae8a11925e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/21/2192d79a227ad6bf3d8a2c07307434a3e611b4cf.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a5/a5530ea2305b47b13467b0ed459acd5a702b1263.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b4/b4fb47a6bfc64c7ae4e4b0b41803976c2a0cbe19.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c4/c4958f1d10d8e49c44745523f4943aa0f10d90d3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5a7922d2eb21a1c42e25ddb3286365bb9d0f8687.mp3"
+      ]
+    }
   }
 }

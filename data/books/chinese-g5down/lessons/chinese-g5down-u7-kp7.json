@@ -21,7 +21,17 @@
         "介绍荷兰的地理位置"
       ],
       "answer": "强调对荷兰牧场风光的赞美",
-      "explanation": "反复强调是为了抒发对这种宁静、和谐之美的强烈赞叹。"
+      "explanation": "反复强调是为了抒发对这种宁静、和谐之美的强烈赞叹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad73a254635a1be8c3ee0e950db4353eb6ebdf33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62fd0587de9258de8e5c900dfa74f643945c72d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b3b5932584803f7f2440ffa81af00f0057df436.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51d8fbacf9a429235b485ba8f0085192afc5436.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f5f1dd73f6c9a32a6f7a11f79a098f87bf7b8fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/576613022e3c178126de4a1f9ea8da215fc1496b.mp3"
+      }
     },
     {
       "id": 7,
@@ -37,7 +47,17 @@
         "因为"
       ],
       "answer": "仿佛",
-      "explanation": "此处为比喻句，需要填入表示相似的关联词。"
+      "explanation": "此处为比喻句，需要填入表示相似的关联词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bef29568cddf2364aaecbf24ff591c868cce89ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7dc2276511299df2bfafcf8fa50da9fb74c95f3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c2da40d6d2f53836d1ca9d16a564a77612f893f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a9af6fab622b8517dcad7630698631083f2c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcd5b598a3d3059300a2b1424dbf812aaf28226f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9dabdedcd2f7ee3f88567cd2661d43f03b79d0a.mp3"
+      }
     }
   ],
   "knowledge": null

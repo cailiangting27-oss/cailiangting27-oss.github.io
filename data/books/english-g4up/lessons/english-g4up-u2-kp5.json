@@ -16,7 +16,11 @@
       "question": "当你想询问书包里有什么时，可以说：'What's in your schoolbag?'",
       "options": [],
       "answer": "对",
-      "explanation": "What's in... 句型用于询问某处有什么物品。"
+      "explanation": "What's in... 句型用于询问某处有什么物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a4c8c6cc5e83321d3ec5bc3e43ccaf3c5ef16d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/110848d5f98dc33db8c633fa5015e5530bd56152.mp3"
+      }
     }
   ],
   "knowledge": null

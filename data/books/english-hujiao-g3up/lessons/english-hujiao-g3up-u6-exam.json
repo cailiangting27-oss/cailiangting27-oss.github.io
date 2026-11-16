@@ -21,7 +21,17 @@
         "He is ten year."
       ],
       "answer": "He is ten.",
-      "explanation": "He is + 数字。"
+      "explanation": "He is + 数字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd4e50b3c15942ba7923e2d82c6f77c8739d544f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e8d1438bffc0aa09698f695a60b226346faeb03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a3afd2ce482f33e6436a16eb0755db798ccb375.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9fb6d1223fa31e450814b375f95e8df422dd808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81b229ed7ea4bf0f56453fdf8d33f10b1383525b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0ebcb9870496252cc9d4ff0ec1b5e44a8447c11.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "he is"
       ],
       "answer": "I am",
-      "explanation": "简答用 Yes, I am."
+      "explanation": "简答用 Yes, I am.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/504ec44c45ef66e8b20fe8bdc926958111b5ca0d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3683d0554cb0566d1ea09e88f1975e3362becec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29aae092c4d69a92724cb92824f3ebc798fc9290.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d6dd75b83c9faf00c8452fadc51d2f7c929dba2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/766d6bac288c8b5cdc99c83783e12189276b9585.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bce6f8c5120148fc8723f6e4e27080a21441e86d.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "表达年龄用 be 动词 am / is / are。",
       "options": [],
       "answer": "对",
-      "explanation": "不用 have。"
+      "explanation": "不用 have。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4994d41a76fa2863408732dfaeb1866ff0f6a944.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d97698b62aabb4dbf6650626169f27d4ffc98a4.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "Nice to meet you."
       ],
       "answer": "How old are you?",
-      "explanation": "先介绍自己，不要先问隐私。"
+      "explanation": "先介绍自己，不要先问隐私。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb6c5c6b2f0c4ae9dd172d2e518458f9683f69f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70d10e8fce0d7019221039bba6dc139c3788f144.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8552cd985dff5dd089cd460d3cbb58e9ef5f0481.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64753c6fe019c4dad6292319d4387ea91bd3cee9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcb02273f27761c1085afa94d759eab1d24089c8.mp3"
+      }
     }
   ],
   "knowledge": null

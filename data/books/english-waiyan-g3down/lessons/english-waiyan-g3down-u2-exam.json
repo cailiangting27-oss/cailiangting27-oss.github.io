@@ -21,7 +21,17 @@
         "green"
       ],
       "answer": "black",
-      "explanation": "黑色 black。"
+      "explanation": "黑色 black。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d1a2cbfb7a3ab0dbf3868f4d182ada52896005a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/466bc8cef3e71de796ec483e212724a2c2044c68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9166eeff1e5056d4b9be3fc9a74f67e3149ef467.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfb528a429fc3d481ed2c0bf925fb7c838ecd03a.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "Those"
       ],
       "answer": "Those",
-      "explanation": "远复用 those。"
+      "explanation": "远复用 those。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c07c13923bd80b80bb870a13952baedeaceadd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/7971e6a051104074fdae0f02322417b6eb5695a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ea5dc6096c9bd173073ecde828a55eabd5d76e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a430b0436fbafd13ff3f8f793fd3a22f31a2926.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/109c1f292df10ababb7f682af0006887f76102a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91307b5f584ca25eb8854f6beee4775aa95b137b.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "orange 既可表示橙色也可表示橙子。",
       "options": [],
       "answer": "对",
-      "explanation": "多义。"
+      "explanation": "多义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8666c46fd1852ebdb2aff56dd6399f446a88774e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/732e4a3a15266b65cc5be22e6131df0d19421294.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "these 指近处的复数名词。",
       "options": [],
       "answer": "对",
-      "explanation": "these 近复。"
+      "explanation": "these 近复。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb059aafc78094b0856dedcbd230ce389b64e2de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0ef8084f84acff4b23801c9646103af838de2a2.mp3"
+      }
     }
   ],
   "knowledge": null

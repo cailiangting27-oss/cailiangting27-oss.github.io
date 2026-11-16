@@ -21,7 +21,17 @@
         "很轻的"
       ],
       "answer": "拉船的绳索",
-      "explanation": "纤夫是指用纤绳拉船的人，这里纤指拉船的绳子。"
+      "explanation": "纤夫是指用纤绳拉船的人，这里纤指拉船的绳子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/672bf7ad26829e1ed5180621935321122171c687.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/152450f0d6e6446c0c7814c9e02038470ed294f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05b5c68a09689c823eb766f1986904924d7f597e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2de987c216a4d1c3458487a2b59b3e5be39f6caa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96471234cc05055574e9acad1255ab69b92d7bf1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e56a33d22e874c1a394a5be28e8d67502454dc44.mp3"
+      }
     }
   ],
   "knowledge": null

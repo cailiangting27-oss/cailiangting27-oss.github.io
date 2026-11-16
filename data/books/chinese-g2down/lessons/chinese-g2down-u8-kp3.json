@@ -16,7 +16,11 @@
       "question": "“突然”和“忽然”意思相近，在句子中可以随意通用而不论语境。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然意思相近，但“突然”程度稍微重一些，且“突然”可作定语，“忽然”只能做状语。"
+      "explanation": "虽然意思相近，但“突然”程度稍微重一些，且“突然”可作定语，“忽然”只能做状语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e070c9ce61267672e69d246dd1702c13a15cc13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb976bb38050aed1e850596db15859b9ea054eba.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "如果"
       ],
       "answer": "立刻",
-      "explanation": "“立刻”表示时间紧迫，符合铃声响后迅速回教室的情境。"
+      "explanation": "“立刻”表示时间紧迫，符合铃声响后迅速回教室的情境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ef8990f178f5d00a99ba47ef12f1f8072be3505.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d75fab89482c5ca8145d44cf5d1c1dfb0dcaf53a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57b1f7c1bc5c5bb21c0a21b44e8103d3e783cd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d1b95590f1b3108f24c6f1a4e1a0f4ee557d6ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a9af6fab622b8517dcad7630698631083f2c5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb774f593a446e86864f5055466669ffc1605865.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "于是"
       ],
       "answer": "忽然",
-      "explanation": "“忽然”强调变化在极短时间内发生，且出乎意料。"
+      "explanation": "“忽然”强调变化在极短时间内发生，且出乎意料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3709f0b82dfea21e7269fb3b83b9ae68c316a1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77db9826382bbc2a7488afc398ce39325df44a49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67d13d02a208d558044020342f5a7de99e54a768.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef73fab97f3a042d5f4cbc328bcb3dacf0cf2b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74cfd16256204bc5266ecef4258da414c694f095.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f67a44bf847074ac12d5322e6affa99c7aded736.mp3"
+      }
     },
     {
       "id": 20,
@@ -68,7 +92,21 @@
         "高兴"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "立刻出发，赶紧避雨，渐渐好转，非常高兴。"
+      "explanation": "立刻出发，赶紧避雨，渐渐好转，非常高兴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c33b2170a8d0f00ae6d3cf3fdaeb26f13efffbe1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57b1f7c1bc5c5bb21c0a21b44e8103d3e783cd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5323ebb3e70f53f480beef7ab99a461ecaee223c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17bf5cb28eba51ae7d2d2cdd8ff2973e8bd9e93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ebfac670522586cffefa7a12c1f7a19875d5db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6b50e7edf58e15615e5ec984d4efaab27dd3970.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b2ca2dfb8a15ae6f0831bc5466f0ddf0d75c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11ad1eee01a3704d465e7abf14f95c9272456a19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9bd182d2e80d5384637265e62695d473427718a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7baa30256435d308458b2ea11bd4b22b420daa52.mp3"
+      }
     },
     {
       "id": 22,
@@ -84,7 +122,17 @@
         "布满了"
       ],
       "answer": "天空中,忽然,布满了,乌云",
-      "explanation": "句子叙述天气突然变化的顺序。"
+      "explanation": "句子叙述天气突然变化的顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e0ac5ce5d5c21e12313fcee582ebc936274991b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/68cc4566409c3d7b50ad693dde30d0774d369c14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efa7b1a944d248ee554cf8540c26ae9c811abd7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef73fab97f3a042d5f4cbc328bcb3dacf0cf2b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dcb36ebeaa76e8df431b02ea7ae1b3e2b9c1244.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9c27fb8e4b45a19e3da4fc63f5aed95402335cd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -95,6 +143,16 @@
       "在需要强调意料之外时错用成‘立刻’",
       "区分不出‘突然（形容词性）’和‘忽然（副词性）’的使用位置"
     ],
-    "tips": "造句大法：天气变化用‘忽然’，接受任务用‘立刻’，意外摔跤用‘突然’。"
+    "tips": "造句大法：天气变化用‘忽然’，接受任务用‘立刻’，意外摔跤用‘突然’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f6/f6c55af83c6dde2599e5f737818d63389a2713dc.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a3/a3fa3de029e8998182c3612b285d99c6e68d4d0e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fd/fd3608ab7bd02bc788b67d8b2e06ba044a8344b2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e0/e00e4e384a93059458c5f6a02f0767c586ba628c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/10/108e7eb0648c209756a3ed1dd8ec39b8e014f83a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1e/1eec98ed501ea1bee29d2df5ba4cc7205a56832f.mp3"
+      ]
+    }
   }
 }

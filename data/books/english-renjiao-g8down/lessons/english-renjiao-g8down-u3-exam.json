@@ -21,7 +21,15 @@
         "the best"
       ],
       "answer": "the better",
-      "explanation": "the 比较级结构。"
+      "explanation": "the 比较级结构。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/a3/a31e44e0548b4c995336834db72c429ffc0f13ba.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "have seen"
       ],
       "answer": "had seen",
-      "explanation": "主句过去时，从句用过去完成时。"
+      "explanation": "主句过去时，从句用过去完成时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29596a43a2ef2bbfa00f6a16c0cb1d108bc63e32.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

@@ -16,7 +16,11 @@
       "question": "《剃头大师》中，“小沙”最害怕的事情是吃糖果。",
       "options": [],
       "answer": "错",
-      "explanation": "根据课文，小沙最害怕的事情是剃头，而不是吃糖果。"
+      "explanation": "根据课文，小沙最害怕的事情是剃头，而不是吃糖果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cadd3099bc2f11cbe860b265cd3e83182983edc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09ca543eee1563a346f7fdf7e2c6a55476fcb897.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "觉得很轻松"
       ],
       "answer": "非常难过沮丧",
-      "explanation": "“垂头丧气”是神态描写，表现了小沙对剃头的恐惧和无奈。"
+      "explanation": "“垂头丧气”是神态描写，表现了小沙对剃头的恐惧和无奈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c82ae3b07cf94fdcd4f5ea2172b2afe2e7b6481.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/074d7273d7e3c59eeae87e4c8865811cddac5ece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d04d534eb4eb5dbc5f358732e396386842b61b43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d757ba797411163bc875ad0ad3927d84d99f9da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1845afe9f7d33acc29fb82c694dd3190e041fa6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d25ebd1ea5366b1ab194d468a2a5ab6ad187db36.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "富有想象力"
       ],
       "answer": "胆小怕事",
-      "explanation": "“我”敢给小沙剃头，且理直气壮，说明并不胆小。"
+      "explanation": "“我”敢给小沙剃头，且理直气壮，说明并不胆小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4a5525b8e914ed9240027ab56e82b8bf33e6e27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9cf6f0da92e96ed125c5cec9f1d1f2015137f935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3225d1a31556caf6751d0788f8e5e7a2f29e1439.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1765eb86a0e200c207537890b82bb3a946726a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a8ce687304159391a3b19e768cfcbe8828660f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e54adad18e9a896516510ae93f918c0d4dde9673.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "老师"
       ],
       "answer": "理发师",
-      "explanation": "文中写小沙最恨理发师，所以产生仇视的目光。"
+      "explanation": "文中写小沙最恨理发师，所以产生仇视的目光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b08500ba3da1ca71c2d5d95b14634a9ed86f3903.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13c71b4f10d80b8155b823ece70b67cd0415645b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78dd9dea73d9c1c41e8412571b894dc02ee5f3d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c86d1645007ffe6d7857b631f8ad8387b574c763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/751fd268cab30b60995c8f852da150825544a6b6.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "小沙理发时，理发师用一种“老式剃刀”，小沙觉得像是（ ）在头上爬。",
       "options": [],
       "answer": "害虫",
-      "explanation": "文中比喻理发师的动作让小沙感到痛苦和不适。"
+      "explanation": "文中比喻理发师的动作让小沙感到痛苦和不适。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c70986106a3fb36388132685a01a81a98374cd28.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b55e6a524ecd86a3045ba4b6f39fef71abbb599.mp3"
+      }
     },
     {
       "id": 20,
@@ -95,7 +133,21 @@
         "自作聪明"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "瞪眼代表反感，挥舞剪刀是不专业的自信，吹泡需要小心，观察需要专注。"
+      "explanation": "瞪眼代表反感，挥舞剪刀是不专业的自信，吹泡需要小心，观察需要专注。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/639abcebfa3268868515f8304de8f2f4472b085c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d01cead48026cc24d2bc97b076e397ffcf45dddd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15aafaf49be03402a6ff3a7dafc549856ac06656.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45e320e11513e68fd88c4763421d7f7d7a13fbdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f44cc0b6d8ceb061e813b8f8306796185b9e71a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0676eb8d0d7893370e81347e27e837fcb442f085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d354247cdf15a220795c2e6647966237e186c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72a28032d027f7ad0734149fcf7fa35087948445.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3505a8e31ad7b22305168e359386351dd9d7de6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4328147ad5923d1a74f258f153d434febf1813c3.mp3"
+      }
     },
     {
       "id": 22,
@@ -112,7 +164,18 @@
         "觉得"
       ],
       "answer": "小沙,觉得,理发,像,受刑一样",
-      "explanation": "通过对比体现出小沙对理发的厌恶感。"
+      "explanation": "通过对比体现出小沙对理发的厌恶感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17847e2af6fcb44e8b2367b83cbe3890fcaa559c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0fbc938fcfb8bc834ee7e650156f71a5bbc12d80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcd8c224392700ffe67fd7652dd96995ba092927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13c10191a904f5f2489b7f2e0ddf1dff9187e69e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad0d29a5e15e33057e42a82c5ece44fec130497.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8466203eec756d745bcb8ec24839be55daab38d6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -123,6 +186,16 @@
       "只会用‘很伤心’、‘很害怕’等笼统词语，不会通过描写动作和神态来具体表达。",
       "描写不符合人物身份，逻辑错乱。"
     ],
-    "tips": "写作时少用形容词，多用动词，把人物的表情“画”出来。"
+    "tips": "写作时少用形容词，多用动词，把人物的表情“画”出来。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c3/c343cf266f53be164688d04fd0a2f258d04430c0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/50/5077f9582e3700b2801704ddbe64db1cdcf9692d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9b/9b9d175e8144aa8af2918ab11870ff1f2732b20e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/43/4378e31eff0fbaad33d235b2c623fa7dee1cf660.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c7/c79abf083a300c2f067d105c2a2e6845076c24bc.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3f/3fc7296105b242d9a4957318a40b1cf2d131eaa2.mp3"
+      ]
+    }
   }
 }

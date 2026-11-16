@@ -21,7 +21,17 @@
         "In the morning"
       ],
       "answer": "After that",
-      "explanation": "在叙事逻辑中，Then之后常用After that衔接。"
+      "explanation": "在叙事逻辑中，Then之后常用After that衔接。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b04e5bc1c8bfd34bcc98b3f1332318b1f1dab91f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74f39697ac328c6325ce068b6aaca626abc0bf63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da24830f1f7072d55862afb6969c1a4c433ac056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0793a1ac6569feaae9c7f77df1c7f51e3d925143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f05f51562fe4e16abc5b01406d8ea00d93057d72.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47149c1e578391b963bf76d628c2817218b90125.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -25,7 +25,21 @@
         "故事书"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "A故事书，B英语书，C书包，D钥匙。"
+      "explanation": "A故事书，B英语书，C书包，D钥匙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/398363822fc742dc86b16daeb774c9b8524e2a71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f8437193862b78daa12ee0660971b8b868a1e776.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fc16a2d29b4f75a0a2c3a6915da7e9374dce2cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84be8bfab6a3759a5fe7480e6b4f63540f3271a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a62f2225bf70bfaccbc7f1ef2a397836717377de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81d6f636c3408be0572fab6a968cc2b42849a8b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/187e6e6d8bb4f5689dfe5718382850b3a007ebac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/621848f7af6b1eabfab63fcc1eb937ed608c7ce5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a2a30fa07b2cb629274298edffbec952df1bad9.mp3"
+      }
     }
   ],
   "knowledge": null

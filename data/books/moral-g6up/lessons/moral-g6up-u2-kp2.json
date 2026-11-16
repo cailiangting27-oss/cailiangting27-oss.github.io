@@ -21,7 +21,17 @@
         "崇洋媚外"
       ],
       "answer": "维护国家荣誉和利益",
-      "explanation": "爱国体现在日常行动。"
+      "explanation": "爱国体现在日常行动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04b968ba1e14b994caee76b0365c619254f781a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e2b1f448bcc292cc45f3ee7152226d17a35ae3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e97d60628be578d423a73f24e34d2bdc7126613.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ec18822d240b0ea4e53923d3cc1fabb2f37eb55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3ac079179d52cd3294ffb7484dcdfae76010f83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5ea34b86befaad8c14d8c03fb028126caa8deac6.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "维护民族团结是每个公民的责任。",
       "options": [],
       "answer": "对",
-      "explanation": "民族团结是责任。"
+      "explanation": "民族团结是责任。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d6983e794d270dde53e8e20deb6fc2a3691eb97.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88eac0c6c63c1db822cace9bf82c73ac20a52b68.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "崇洋媚外，贬低本国文化。"
     ],
-    "tips": "文化自信很重要。"
+    "tips": "文化自信很重要。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/59/59136718dbb2a076e0d748d0701971fb4fa95b1a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/05/05dd255e99ba339eabe7123f63ac61621e96dbca.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a2/a23b5b9f561278f3a7177b9c8e38a487d249120b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4a/4a7c2781b4ca4acb80fe42cb61ab87d5b7517f27.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a8/a88b0c3c39dee21113719e8a3a1b209791813735.mp3"
+      ]
+    }
   }
 }

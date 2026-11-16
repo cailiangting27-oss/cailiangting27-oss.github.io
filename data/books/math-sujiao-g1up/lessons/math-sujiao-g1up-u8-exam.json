@@ -16,7 +16,11 @@
       "question": "2 + 3 + 4 = ？",
       "options": [],
       "answer": "9",
-      "explanation": "2 + 3 = 5，5 + 4 = 9。"
+      "explanation": "2 + 3 = 5，5 + 4 = 9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbb1b0e874d9f3aaf30d7ef152f93498629fd812.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e58a26896a394e1aec431eaa6b14a79c244f9db.mp3"
+      }
     },
     {
       "id": 8,
@@ -27,7 +31,11 @@
       "question": "9 − 2 − 3 = ？",
       "options": [],
       "answer": "4",
-      "explanation": "9 − 2 = 7，7 − 3 = 4。"
+      "explanation": "9 − 2 = 7，7 − 3 = 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48987c3441f8b91240d8e51de6ed215031612cf6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b54bba677dcb4f303facfb0fb5e5bef2b03efa2e.mp3"
+      }
     },
     {
       "id": 9,
@@ -38,7 +46,11 @@
       "question": "10 − 4 + 2 = ？",
       "options": [],
       "answer": "8",
-      "explanation": "10 − 4 = 6，6 + 2 = 8。"
+      "explanation": "10 − 4 = 6，6 + 2 = 8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e40f70bba24c14dac1b7f75be1cab2be5d21cf0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02ff12188fca729c8a731f534990f56e891b480e.mp3"
+      }
     },
     {
       "id": 10,
@@ -49,7 +61,11 @@
       "question": "两步式题按从左到右的顺序计算。",
       "options": [],
       "answer": "对",
-      "explanation": "运算顺序。"
+      "explanation": "运算顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76fa8fcc3e09e3b279caaa86714790ca9a0127af.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9aaf183368fc0ff6a0ef3a6aa443da9d588c0e7.mp3"
+      }
     }
   ],
   "knowledge": null

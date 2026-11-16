@@ -16,7 +16,11 @@
       "question": "“海参靠肌肉伸缩爬行，每小时只能前进四米。”这句话运用了列数字的说明方法。",
       "options": [],
       "answer": "对",
-      "explanation": "“四米”是具体的数字，属于列数字说明方法。"
+      "explanation": "“四米”是具体的数字，属于列数字说明方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f3aaec832a0673c9217a6850e73978b39db4398.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a1dd95b76ddeae7a82b31e8580c4cf5a2728fca.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "“巴、免费、远足”赋予贝类人的动作和情感习惯。"
+      "explanation": "“巴、免费、远足”赋予贝类人的动作和情感习惯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f2c2631eb1f747f441d044af2cf21bc1675e5d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e362d9ba9b0fd9be958317d09c6fb860bee426c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "混淆‘打比方’（修辞）和‘作比较’（说明方法）。",
       "在列数字时随意估计，缺乏文中关键数据的提取能力。"
     ],
-    "tips": "找数字时划圈，找比较时找“像……一样快/大”、“比……”等关键词。"
+    "tips": "找数字时划圈，找比较时找“像……一样快/大”、“比……”等关键词。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/bb/bb24bc0eeb166cba24d3dc7ced4d533116b265a0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c8/c8633b44468bf935c9f785be6fadaf9fc45dc800.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/eb/ebddd1d03df5240b3eafe74c6b7f59cfd4e724a2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/98/983bee359ab0e1d2d885d7fed17d83834dc0e842.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/cf/cfa2c7293ec261a8e7882f09aeb9109a5d513521.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a3/a3ff3d52c21e54daef71057ea487833760e39850.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "“几百”中的“几”和“几乎”中的“几”读音完全一样。",
       "options": [],
       "answer": "错",
-      "explanation": "“几百”读 jǐ，“几乎”读 jī。"
+      "explanation": "“几百”读 jǐ，“几乎”读 jī。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a3decbd3160fdc71637eeaa6ac49726962e5afe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a52de7cb49792f764d83b4b701d68e7e0f140bf6.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "如果预测的内容和书上的不一样，说明我们读得不认真。",
       "options": [],
       "answer": "错",
-      "explanation": "预测不一定要和原文一致，只要依据合理即可。"
+      "explanation": "预测不一定要和原文一致，只要依据合理即可。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e13e8bcc6805cbccc5c0c96d1f2562dac7915f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf41dbaf9b971b1ad48711692ca8399fedb0b216.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“中奖”和“中心”里“中”的读音是不同的。",
       "options": [],
       "answer": "对",
-      "explanation": "“中奖”读 zhòng，“中心”读 zhōng。"
+      "explanation": "“中奖”读 zhòng，“中心”读 zhōng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc7d5e617e7d61e93ef197033e20ec63e83ef563.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/728f38bc66128dc8291b1d14342ef758d49602f3.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "在阅读中，预测可以帮助我们更好地理解故事，提高阅读速度。",
       "options": [],
       "answer": "对",
-      "explanation": "预测能激活大脑的思维，使阅读从被动接收变为主动探索。"
+      "explanation": "预测能激活大脑的思维，使阅读从被动接收变为主动探索。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a24d155b86005cc1842cf10438caea2440f10504.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd4fd54aaa33693e8f7b5505b38aeb16cad8553e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "读"
       ],
       "answer": "编",
-      "explanation": "语境中蜘蛛是在即兴创作故事，用“编”最贴切。"
+      "explanation": "语境中蜘蛛是在即兴创作故事，用“编”最贴切。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1b07c045a50505cf182445797b0a59c71908d79.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/144d2cba118141edefa005ee71efe886948d6f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8514465f56c71a02f050ee22e10b564048f74b12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f386ebdbb5c625d91efda6339fc24fe7ccd92be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d001fffdd28f0a6d2fb0ca8a6f231e061c784d52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bedecf17b18e1d468cdc8033ebb6374196f6132.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "小狗变成了一只公鸡"
       ],
       "answer": "小狗遇到了想吃母鸡的狐狸",
-      "explanation": "公鸡的叫声会吸引狐狸，这是合理的逻辑推断。"
+      "explanation": "公鸡的叫声会吸引狐狸，这是合理的逻辑推断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f55e3ebc04b76111617de68fc6825c3ec9504859.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/855061e0f1b119616d0d1881dd059723fb38aef6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e114dfcd3a979b9553c4ea15c710eba860fb377.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a95fed10cf50b9e84e7f08aba02eb13b57107b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38e4d3d35398c26082625332550becbaea74ba47.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2a5dff5574f2761ed3f4786ede8fe70a31bff94.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "因为它害怕倒塌"
       ],
       "answer": "因为它有一颗爱助人的心",
-      "explanation": "它为了帮助小猫、老母鸡和蜘蛛，才坚持不倒。"
+      "explanation": "它为了帮助小猫、老母鸡和蜘蛛，才坚持不倒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/386d2d94b701f7ee5e8bd2d336f14387d71e45a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25401577a00f277114f1ecf6acaa4940a17b7d04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f141e54d58bcbe4611862d4353db7d6f91acddbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbe8b4adab1c1ff1f9ba1a802287e9c4cb566cd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ed11f194c1010eb0de5f6bdeb693bf681cc8423.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd99e6e92b98d0c6ab60fa51eaef5c4e2da0dfbe.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "fà，发财"
       ],
       "answer": "fā，发射",
-      "explanation": "百发百中指射尿一百次中一百次，读第一声。"
+      "explanation": "百发百中指射尿一百次中一百次，读第一声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1156ec21b7523dbe0a67e5b51a68f42754bb275.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/9597ec058c0766f6ac5ba66f06565ab2e307a0f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b83c32cffbd9dfa830006d2a80a0e30b556064a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca539cd54eb8ed415357ce5f1a3eb7f13a9587bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1120cb96d22500a3d3950dcd78214d360045c373.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc2239f07fe151705e948e21534206eecb2c0209.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "它听到了另一只狗的叫声"
       ],
       "answer": "它突然变成了一只老虎",
-      "explanation": "童话虽有想象力，但“突然变身”缺乏前期的逻辑支撑。"
+      "explanation": "童话虽有想象力，但“突然变身”缺乏前期的逻辑支撑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af0304dfaeead3876d54756865ee324a0d9b6d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d9a07560242d29ced3c73df9b55dc8567a5c6c17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a921f462131870ffc9a105f1c772fc29d455c6aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58223dccedb27c4649172ad6bc206fa411d15aac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bc25f83264352093afdc4bfccf18d3d4027a60d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d8dea8b4de3e94552f4945bc57e15a8ff3a8197.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "请假"
       ],
       "answer": "真假",
-      "explanation": "假若表示假设，读 jiǎ，和真假相同。其余为 jià。"
+      "explanation": "假若表示假设，读 jiǎ，和真假相同。其余为 jià。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/9876f12f10ea3704c2fc9d03bd6f870fbdb50fb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c388d337b4fe63b584e9b354b13f837290fd9123.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f191c3d9473d1c077d51013f083dd2213b5dd10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dcde4712eaabac0fba23b17b3b39cdbe0d68a83b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b847a1b638e2b95de665b57f0a2ce0afc3995b50.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fed7077feadf343b4e309198d8e2f9adbba59ab2.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“屋”字的偏旁是（ ）。",
       "options": [],
       "answer": "尸",
-      "explanation": "“屋”是半包围结构，部首是尸字头。"
+      "explanation": "“屋”是半包围结构，部首是尸字头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a77410a8ec866a832cf22d6336dfb2edd54fca86.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40657d040d506ec48d40453907b92c70e8b73681.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "阅读时，我们要随时（ ）自己的预测，让预测更接近真相。",
       "options": [],
       "answer": "修正",
-      "explanation": "预测是一边读一边调整的过程，关键词是“修正”。"
+      "explanation": "预测是一边读一边调整的过程，关键词是“修正”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b363f6b66d2c0b61a385e9253132987806ab49a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e49649dabe584f0d4b1a4d52ff227ef04503c37.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "一只狐狸"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "教材中三个预测分别是遇到杜鹃、狐狸和公牛。"
+      "explanation": "教材中三个预测分别是遇到杜鹃、狐狸和公牛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d8d83e7161c86cb51a84e2bd2bca646438b6b1c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9928967fecb889815e74cba99250c3dc6b8daa5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4ed2df8cf7d81dd1fded879fa4bacc67e2dfde0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2df3daf5ad634578c04e5b5055ef3aa8bee4bead.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5ff44d4292915a2b218eeda18bd749f0134aaf17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59422cc757189a883c78a94ae4932a4a1dfbec24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d992d8a76875b4de1c7cb108a7a5e90d7790e246.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1af4b737b29f89b0cb696274a492b6415e22f74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86bfa96d4fcc49e5297155628b44777f6566e370.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfba3094312ab5a82f2d15642ddecf4dec229a27.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "jià"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "根据词义选择多音字读音。"
+      "explanation": "根据词义选择多音字读音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63ef4007095eb84db48a8087006a7e2cf6773655.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f28398fdf26c4bb9a4e46c491eb0f96c986079.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b739c9e2a963dcd0dc9dfe15e1fb58c7d03b0ffc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd92c063e4090b2edf740cfed0710632741a3b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f1e7ed909bbd320833f55faaeecf831c2ca566b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6138b07dc2061d877e7f2fd85c16792f91b8b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fbc3236895557a32075217162ed5a8fa8d40cc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f4553dbdb50de4852c6d7596c19bb9acf2b6c41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8c90335d97ea432da0f1ab2729381fe9fc68a48.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77e6c88b063696b70ade124759c9d29de797d9b1.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "生活经验"
       ],
       "answer": "题目,插图,和,生活经验",
-      "explanation": "这是本单元学习的核心预测方法。"
+      "explanation": "这是本单元学习的核心预测方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d5ea9e611c8acf8a719f6b6811f0fb4d6b38da7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bfd7c939caae73d7ac3d604e20d95341b89e8800.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d814d8fd246ef59884680139a26331236e2aa76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3eb340971ffc2dd9cf4da3994078519f53a568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7df9ea666c417ecae60ec575fe77991ac6b66c3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d73529f81a417c7067179ec85ab917cd21704d9.mp3"
+      }
     }
   ],
   "knowledge": null

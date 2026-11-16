@@ -16,7 +16,11 @@
       "question": "'by subway' 的中文意思是'乘地铁'。",
       "options": [],
       "answer": "对",
-      "explanation": "by subway表示乘地铁，by为介词后接交通工具。"
+      "explanation": "by subway表示乘地铁，by为介词后接交通工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9050d518db1260c5106d89b37cf8fb4806eec9df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef053cbed4601f34c9c904c59169c868e1abae6b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'on foot' 的意思是'骑自行车'。",
       "options": [],
       "answer": "错",
-      "explanation": "on foot的意思是'步行'。骑自行车是by bike。"
+      "explanation": "on foot的意思是'步行'。骑自行车是by bike。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86e0602790290dae881b5220266a9647ff2d0987.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84539bbb5c3c599a8a0cef150f2c738c1689d9a4.mp3"
+      }
     }
   ],
   "knowledge": null

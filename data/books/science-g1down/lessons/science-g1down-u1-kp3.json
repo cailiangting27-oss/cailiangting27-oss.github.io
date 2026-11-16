@@ -16,7 +16,11 @@
       "question": "同样多的正方体积木，换一种摆放方式，占用的空间就会变大。",
       "options": [],
       "answer": "错",
-      "explanation": "物体本身占据的空间大小（体积）不随摆放方式改变而改变。"
+      "explanation": "物体本身占据的空间大小（体积）不随摆放方式改变而改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d09b56595b84f37404d3cc3980387fa2ffb3a2d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e0dc9e4e5d951f5874ab517751b38c6c38cf157.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "玻璃珠"
       ],
       "answer": "正方体积木",
-      "explanation": "正方体是规则几何体，可以无缝堆叠，而圆形的乒乓球和不规则石块会有缝隙。"
+      "explanation": "正方体是规则几何体，可以无缝堆叠，而圆形的乒乓球和不规则石块会有缝隙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/eaef104bff9b21c7bcda529d7800fc101711c789.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f1dc8033508dc4faf1bdeecba274968825781c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e22bd0155d458603ae12cb3912c711eabdd4e82e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a6c5d922ca79df378d2bac1348297d86eb1de13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc97ab04563d55578221831b396d8776f0058b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11b429b04e09cfe842429dc05e731e43fd62ed2f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "认为改变形状会改变物体原来的多少"
     ],
-    "tips": "整齐摆放能多装东西。"
+    "tips": "整齐摆放能多装东西。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ad/adb4d57a6e0855b70ae9ce4ffcedde685aa6c54a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c202d2654d7d0686bd2bac22820e46387ff99b64.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cf/cfcdcdc6e559f4f5d1c4ce93f7a00f3ee2f8bbb6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c4/c4e9f16965ffdeccd2d90738b044814e6d9c2e80.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ac/ac157e7cc47f0975f65517154f1ff87d4279e952.mp3"
+      ]
+    }
   }
 }

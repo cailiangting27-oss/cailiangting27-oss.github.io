@@ -16,7 +16,11 @@
       "question": "'angry' 这个单词的意思是'悲伤的'。",
       "options": [],
       "answer": "错",
-      "explanation": "angry的意思是'生气的'，'悲伤的'是sad。"
+      "explanation": "angry的意思是'生气的'，'悲伤的'是sad。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fcd7482bb8382fdef06f69c9c72a27289038b22e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5924d9dc29725ae767563ef9dc6b603c486a6ccd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'afraid' 这个单词的意思是'害怕的'。",
       "options": [],
       "answer": "对",
-      "explanation": "afraid的意思是害怕的，担心某事发生。"
+      "explanation": "afraid的意思是害怕的，担心某事发生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18ed62cd14ba56ff2119ee74cf8e4396c53b6cc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cf27bc10d5a9824e8c3e4bb8c5cf3ef184cb2ee.mp3"
+      }
     }
   ],
   "knowledge": null

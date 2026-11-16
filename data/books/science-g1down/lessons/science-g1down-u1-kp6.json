@@ -16,7 +16,11 @@
       "question": "小石子放入水中，经过搅拌可以完全化在水里。",
       "options": [],
       "answer": "错",
-      "explanation": "小石子在水中是不溶解的，无论如何搅拌都不会消失。"
+      "explanation": "小石子在水中是不溶解的，无论如何搅拌都不会消失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/9891debb5dc4ac00b1fdf44b4836889aba223ac8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72b9bb8a08ac7c532aa06a0ddd75114e638e1c89.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "铁钉"
       ],
       "answer": "食盐",
-      "explanation": "食盐放入水中搅拌后会均匀分散，肉眼看不见，即溶解。"
+      "explanation": "食盐放入水中搅拌后会均匀分散，肉眼看不见，即溶解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2108a7857e5e79f4ccdfa50ee1238ab1bbb057d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33b1f871ba0f42b8d522295fa23a66da19e9529c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f40707c5410978c5b3a064169620fc81ca3b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0034f55cc129796d3a4a86a297b468a3f4025f4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5db7e478f95c83f0070d9e8996602cb1741d0559.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47a91a042c98c1378307c8fa84f3df21b861846.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "不变色"
       ],
       "answer": "褐色",
-      "explanation": "红糖溶解后，色素会均匀分布在水中，使水呈现红褐色。"
+      "explanation": "红糖溶解后，色素会均匀分布在水中，使水呈现红褐色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd0bde5a53da235fb56190a32bbd88d90d575da0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1315d66b68cdb138c9f7ccbfb2a62a9c84eb457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00be052486d287d6d1ebbcd78b2da88db9cec3e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f844d8bb516ea91189088f2e9afcd921c86dbed1.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "食盐放入水中“消失”了，这种现象叫作（___）。",
       "options": [],
       "answer": "溶解",
-      "explanation": "溶解是指物质均匀、稳定地分散在液体中。"
+      "explanation": "溶解是指物质均匀、稳定地分散在液体中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65aab69c6b8024d8d5e3339b237214acb6ae4c79.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/028f0e7a149cd05f40ff790f3bf449fc72f3375d.mp3"
+      }
     }
   ],
   "knowledge": null

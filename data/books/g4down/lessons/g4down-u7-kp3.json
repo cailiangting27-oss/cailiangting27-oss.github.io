@@ -16,7 +16,11 @@
       "question": "利用平移的方法可以将不规则图形转化为面积相等的规则图形。",
       "options": [],
       "answer": "对",
-      "explanation": "平移通过割补法改变形状但不改变面积，是求不规则图形面积的重要手段。"
+      "explanation": "平移通过割补法改变形状但不改变面积，是求不规则图形面积的重要手段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21c636e195e441cffef37702f530939396c824f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7dcc3ef9e932c25466e67383adc6fbddb8335df.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": "不变",
-      "explanation": "平移过程中图形的面积守恒，虽然形状重组但总面积不变。"
+      "explanation": "平移过程中图形的面积守恒，虽然形状重组但总面积不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f3c1394e4c0f5284e7a04796f13c19602914c73.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d4a2d5c167fb57e96b248c67758d237f32d59a7.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "48"
       ],
       "answer": "36",
-      "explanation": "平移前后的面积相等。正方形面积 = $6 \\times 6 = 36$（平方厘米）。"
+      "explanation": "平移前后的面积相等。正方形面积 = $6 \\times 6 = 36$（平方厘米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44307d79012ac2b8baa3d8c1ac2cc51e5f10ce31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0bb59173fb0ed0354a678f31de716cd89dc3d95.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "将一个长 10 厘米，宽 6 厘米的长方形，通过剪拼平移成一个底为 12 厘米的平行四边形，这个平行四边形面积是 ___ 平方厘米。",
       "options": [],
       "answer": "60",
-      "explanation": "平移拼剪面积不变。原长方形面积 = $10 \\times 6 = 60$（平方厘米）。"
+      "explanation": "平移拼剪面积不变。原长方形面积 = $10 \\times 6 = 60$（平方厘米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89a5edfc2fd1d7f506d2c03a36d85115ee45a538.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5e809ae7b357f4cbc145e10fd13b9ce2f078b86.mp3"
+      }
     },
     {
       "id": 23,
@@ -70,7 +98,11 @@
       "question": "计算：$25 \\times 4 + 10 = ?$",
       "options": [],
       "answer": "110",
-      "explanation": "先做乘法 $25 \\times 4 = 100$，再做加法 $100 + 10 = 110$。验算：$(110 - 10) \\div 4 = 25$ ✓。"
+      "explanation": "先做乘法 $25 \\times 4 = 100$，再做加法 $100 + 10 = 110$。验算：$(110 - 10) \\div 4 = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7713cb4f6c918fcb9c12f2f63bc60e1c3088529.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/4999c2acf7b2e2c91740c51648abbe2e40318001.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "误以为平移后周长和面积都一定保持不变（注意：面积不变，周长可能变）。",
       "割补的位置不对，无法凑成规则图形。"
     ],
-    "tips": "‘以直代曲’，观察不规则边缘的互补性，像拼图一样去思考。"
+    "tips": "‘以直代曲’，观察不规则边缘的互补性，像拼图一样去思考。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f4/f4ac79dcada2a70c1459ea13969697f5b97591aa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/93/93e0342bd10998def408549fb3594355ed356b0d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/01/01ac20ecdd63a63d65804271a176420b116eb32a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1a/1ad3f094f88cc818149909d72504a510f05b042a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3a/3ac8841fbca9f0412f0f001872f25af1b8a3ed29.mp3",
+        "https://api.clthuanxie.cn/cc-audio/33/331398cc4ff46ddb0005831f771957431407cf17.mp3"
+      ]
+    }
   }
 }

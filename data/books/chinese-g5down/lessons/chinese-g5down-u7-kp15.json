@@ -25,7 +25,21 @@
         "长城"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "意大利-威尼斯，荷兰-牧场，埃及-金字塔，中国-长城。"
+      "explanation": "意大利-威尼斯，荷兰-牧场，埃及-金字塔，中国-长城。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/9684c6e443d3f0017404230b99b2eefcd9a6dd8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bb2c6ade0cf02c91d614a2f5fbaa7a71de9bf4ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9969b6e70f06a9ec3e8668512c5d11f53725689d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a9524a5336325d681d8a223e1bc6632696fafe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd2b9268f8a85580c742b54deb74f67d00b71c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84ef8341f431240cbaeb910843a432d410ea18d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1899c5b32405d12cb4a56cd04d8f7fe41177535d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2ea37363bcf73472f6423da4f9035b3b70f5b95.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/164509d835b673f8aabcf26b1a97e9ed522fec75.mp3"
+      }
     }
   ],
   "knowledge": null

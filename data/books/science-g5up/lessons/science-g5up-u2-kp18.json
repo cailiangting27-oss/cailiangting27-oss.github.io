@@ -21,7 +21,17 @@
         "强风吹蚀"
       ],
       "answer": "强风吹蚀",
-      "explanation": "雅丹地貌是干旱地区典型的风蚀地貌。"
+      "explanation": "雅丹地貌是干旱地区典型的风蚀地貌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c926afd94bcaa86c85005b40ad2a484a610957a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f1f3110a7e021f1592b93c4be36d692087dcbd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1156b26ad2a2e8bb704a2adff8dd6207aa398dd8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e08842b46191c6cf55f8652aa02be5726547ba1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e7ab7a242a74486c4b798dbc1180ae95a6e5901.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed1cb374fffa80ff2b41205f317eed6690bcc896.mp3"
+      }
     }
   ],
   "knowledge": null

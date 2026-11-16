@@ -16,7 +16,11 @@
       "question": "电磁铁在通电时产生磁性，断电时磁性消失。",
       "options": [],
       "answer": "对",
-      "explanation": "电磁铁由线圈和铁芯组成，其磁性是由电流产生的，属于暂时性磁铁。"
+      "explanation": "电磁铁由线圈和铁芯组成，其磁性是由电流产生的，属于暂时性磁铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3c113893aee07ae3e0f8d3c3687ddca444327a5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9af09b266db4fe3306cd467b07409efc32e54dd2.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "更换更粗的铁芯"
       ],
       "answer": "改变电流方向",
-      "explanation": "电磁铁的极性取决于线圈绕向和电流方向。"
+      "explanation": "电磁铁的极性取决于线圈绕向和电流方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77712a7f94321d7ae06ebb7240a1df21dd71062a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91b706a8fda09cf3342a9b81736ce2ea6bf34c99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72518451b70586b5d557513203d1db48121c938d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09064127c366e3846a26a8a3c99eabeab4cbc8c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3f1a0a3286ec6fd8207e843d231423b5ee669ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e73116cfd081bd133d443048064dd60ac293d69.mp3"
+      }
     },
     {
       "id": 22,
@@ -43,7 +57,11 @@
       "question": "制作电磁铁时，缠绕线圈的中间通常要放入（）。",
       "options": [],
       "answer": "铁芯",
-      "explanation": "铁芯能极大地增强线圈产生的磁场。"
+      "explanation": "铁芯能极大地增强线圈产生的磁场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/569100df58f62acc173c1fddafa65f31d44dcda7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0cd7440dc35114d851d3772cd111dff7e870aad.mp3"
+      }
     }
   ],
   "knowledge": null

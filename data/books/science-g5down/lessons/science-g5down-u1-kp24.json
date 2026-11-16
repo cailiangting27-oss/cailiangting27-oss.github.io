@@ -16,7 +16,11 @@
       "question": "如果一个食物网由“草→兔→鹰”和“草→鼠→鹰”构成，此网中共有（ ）条食物链。",
       "options": [],
       "answer": "2",
-      "explanation": "草是起点，鹰是终点，共两条路径。"
+      "explanation": "草是起点，鹰是终点，共两条路径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e80c45caf4c7b516008f4f239620ec6448028c03.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14cedf2f7de38e5d56fcb08e7d6b5a24dd770863.mp3"
+      }
     }
   ],
   "knowledge": null

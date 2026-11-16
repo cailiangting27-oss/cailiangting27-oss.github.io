@@ -16,7 +16,11 @@
       "question": "______ is your uncle's job?",
       "options": [],
       "answer": "what",
-      "explanation": "询问职业使用疑问代词 what。"
+      "explanation": "询问职业使用疑问代词 what。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/221b1ab8d0eaf705ce6adfeebfaf48a898c69e25.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0104c6420c2247416ccea3b0680ca6fd6b8c7f82.mp3"
+      }
     }
   ],
   "knowledge": null

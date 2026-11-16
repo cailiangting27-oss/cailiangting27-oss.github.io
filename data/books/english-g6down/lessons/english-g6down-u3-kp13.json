@@ -21,7 +21,17 @@
         "falling off"
       ],
       "answer": "fell off",
-      "explanation": "前半句hurt是过去式，后半句也应用过去式fell off。"
+      "explanation": "前半句hurt是过去式，后半句也应用过去式fell off。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73b092060c62446eaab29e58a8b7809e2cb093d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5d1bc1a17a737dadb08729929d11e55e7f80de20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b43e7fc8356063b1dfaf9d7cdae3c4e28efd474a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dc2e48834a349cc4f280179c4cc401f51174425.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25c986a21d574170ab2e1749c5f0a7d28390b0ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccb3f4107d51c5d09df31454a576733ce3f9fd35.mp3"
+      }
     }
   ],
   "knowledge": null

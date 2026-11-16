@@ -21,7 +21,17 @@
         "done"
       ],
       "answer": "doing",
-      "explanation": "What is ... doing? 询问正在做什么。"
+      "explanation": "What is ... doing? 询问正在做什么。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f4fd00d9e5be79922ff54098aced54c6de343d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f15fd675d55b55f870ff67b0b6e7d2f25dc4cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5fd9cfe0e8039111d54b588e77b2bb0cad41c3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1ac24682684be19abf433e68c56adcd151f87762.mp3"
+      }
     }
   ],
   "knowledge": null

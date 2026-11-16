@@ -16,7 +16,11 @@
       "question": "My father is a teacher. He works in a ______.",
       "options": [],
       "answer": "school",
-      "explanation": "教师的工作地点在学校。"
+      "explanation": "教师的工作地点在学校。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5ba1bbf18356dbdae00c68cf61c589133398c3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecdef9efb645919bb1c0b9b3036e83d13d1d24a6.mp3"
+      }
     }
   ],
   "knowledge": null

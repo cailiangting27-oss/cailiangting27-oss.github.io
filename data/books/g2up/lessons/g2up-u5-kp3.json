@@ -21,7 +21,17 @@
         "小红的后面"
       ],
       "answer": "小红的左侧面",
-      "explanation": "观察者在左侧，看到的自然是物体的左侧。"
+      "explanation": "观察者在左侧，看到的自然是物体的左侧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b612fe9cd2834b04a4230919f4749a1d34f8f9cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7f9b5283a32090e8429eb620de1eb1454ed6ac3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01fecf0497c9915fbf33d0e8334a45ded2c3eab5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45db91788cb97e088530603b641591ffcd61a77e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71f321f7cf847f00c2ead9c2877702bd9d272839.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/795b9d86c129103d26bd3e42e67aee6731503d02.mp3"
+      }
     },
     {
       "id": 11,
@@ -37,7 +47,17 @@
         "正方体"
       ],
       "answer": "正方体",
-      "explanation": "正方体无论从哪个方向看都只能是方形，不可能看到圆形。"
+      "explanation": "正方体无论从哪个方向看都只能是方形，不可能看到圆形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/027315194c73516f33fef6efdb37fba6bf55e879.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2112f68e363c1335f82f502fce86e485a760284a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db4b8da12afc5430bf47bb6aaaa42f4af7c4cefb.mp3"
+      }
     },
     {
       "id": 14,
@@ -53,7 +73,17 @@
         "4个"
       ],
       "answer": "3个",
-      "explanation": "原理验算：由于视点限制，在一个固定角度不可能同时看到超过3个互相对立的面。"
+      "explanation": "原理验算：由于视点限制，在一个固定角度不可能同时看到超过3个互相对立的面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a53914a932b262f76ca429ba9e40ae2c2c716653.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b311492ccac16996b56ad8436d9c20f121087728.mp3"
+      }
     },
     {
       "id": 17,
@@ -69,7 +99,17 @@
         "鼻子"
       ],
       "answer": "右耳朵",
-      "explanation": "在右侧观察，能够看到的属于侧面的特征部位是右耳。"
+      "explanation": "在右侧观察，能够看到的属于侧面的特征部位是右耳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc8cd24357145e18df696cc50300d44ffbe33021.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3ec6d0ba4a91832b27c930f74e59478137427cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b59c27a9c0783784d44d2cabe9547a3c51624b08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12ff1350de7d2eb1987e04262be53edf84d9273c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8d175e0588948b493715fb1806e556303c7ad5e.mp3"
+      }
     },
     {
       "id": 21,
@@ -80,7 +120,11 @@
       "question": "如果我们从不同的方向观察一个球，看到的图形都是圆的。观察 10 个不同的球，一共能看到 ___ 种不同的形状。",
       "options": [],
       "answer": "1",
-      "explanation": "逻辑推理：球体在任何方位看的形状都是圆，无论多少个球，形状这一属性只有“圆”这一种。✓"
+      "explanation": "逻辑推理：球体在任何方位看的形状都是圆，无论多少个球，形状这一属性只有“圆”这一种。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13e97bc95bd0716c577d84c852d239a745c15b97.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/578b631f9308a6f39f84097cb3305f1c96fc809b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "在平面练习中无法还原立体动态，导致方位判断错误",
       "数物体面数时重复计数或漏记（如合并图形的隐藏面）"
     ],
-    "tips": "可以亲自动手拿一个纸盒，从不同角度转一转，数一数能看到几个面，以此增强空间感。"
+    "tips": "可以亲自动手拿一个纸盒，从不同角度转一转，数一数能看到几个面，以此增强空间感。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ed/ed3012f8d9b08c2ad77eb66420a2675c963474ee.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/af/afa3e7d65afd9015f8ece8e71194a0f013e76c42.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/77/7714392081b77c22ba99631c1aaae17ca2928620.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5f/5f2dae711efa7e69cfa2d66045c95416c14876a5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/23/235b773e0d43103ae78223d1207fedff58e7f9d0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c568c111e4bbb25364b39d83fe095a209356a560.mp3"
+      ]
+    }
   }
 }

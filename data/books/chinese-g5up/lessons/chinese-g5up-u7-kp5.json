@@ -21,7 +21,17 @@
         "早晨"
       ],
       "answer": "夜晚",
-      "explanation": "原文明确提到：夏天最美是夜晚。"
+      "explanation": "原文明确提到：夏天最美是夜晚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86d442e8b5b7d3191e8fd272ce311cc0e220bf96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/47962798c37946941573fa99e2cd1a6f131f21c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/640265ca584fa1dee264dbede028b8a200efedd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22697b8678fae3fec52b4f14363fd62987bb7c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb9cbce4395b6ecdffb071cee77eb8b6fe038eb6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c7ee31ae52decc11ba38146c79211017e91646c.mp3"
+      }
     }
   ],
   "knowledge": null

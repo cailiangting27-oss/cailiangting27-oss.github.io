@@ -21,7 +21,17 @@
         "随意条件"
       ],
       "answer": "研究因素以外的所有条件",
-      "explanation": "单一变量原则是对比实验的核心。"
+      "explanation": "单一变量原则是对比实验的核心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc6c13dd6a9c7c7cf61c8aa085f501edc3a459c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/49ab627bfd6aed8d02289553b2a8f18fe9502ad4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1e1337ad69f23ae5ebb8819c29cf233e56613d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/398be9503e1aa298eec0890bf85c6302c397179b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aac74a259556fab6c803ef5026934ed3fc4e906b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e41ad45b399ffaa434c02dc02342d36fdfbef80.mp3"
+      }
     }
   ],
   "knowledge": null

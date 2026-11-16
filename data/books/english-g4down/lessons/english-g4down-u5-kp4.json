@@ -16,7 +16,11 @@
       "question": "'skirt' 的意思是'裤子'。",
       "options": [],
       "answer": "错",
-      "explanation": "skirt指的是短裙，裤子是pants。"
+      "explanation": "skirt指的是短裙，裤子是pants。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05bb4a28e63b5f8e97478ee413014efc74ab5833.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd0a1408fa9d14cb5d3c6174f52dd8474c3f6a38.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'dress' 常用来指女孩穿的'连衣裙'。",
       "options": [],
       "answer": "对",
-      "explanation": "dress是连衣裙的意思。"
+      "explanation": "dress是连衣裙的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51eb705e906655eb14678660838d5737f9fe3bc6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1ae79db8ef8b99faf6fab3a69456585dc92c6dd7.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "'clothes' 意思是'衣服'，是这类物品的总称。",
       "options": [],
       "answer": "对",
-      "explanation": "clothes为衣物的总称。"
+      "explanation": "clothes为衣物的总称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70a4bc720b41e8406f50a62499a0d85a82787a10.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6263a9c48e5903a10edc282b68f0843ea54784b4.mp3"
+      }
     },
     {
       "id": 16,
@@ -49,7 +61,11 @@
       "question": "My red ______ (短裙) is very nice.",
       "options": [],
       "answer": "skirt",
-      "explanation": "考察单词书写，skirt为短裙。"
+      "explanation": "考察单词书写，skirt为短裙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e42b4073b15381171c3b490ec36f70e43b6de532.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dc3fa576c0f72862be69979f50a45c64f2a26b1.mp3"
+      }
     }
   ],
   "knowledge": null

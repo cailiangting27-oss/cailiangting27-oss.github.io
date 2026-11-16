@@ -21,7 +21,17 @@
         "不努力"
       ],
       "answer": "更自信",
-      "explanation": "认识优点能增强自信。"
+      "explanation": "认识优点能增强自信。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f218f92c4cf439533720b96c0d837260f9deccd6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e8/e80f8720c1f3fbfbe829b64bc22be0b87834c493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/471bcb5d3e12f90ed0df0adf3a771c3a36a4a7ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/183bf73cfcc2d6228806985ff0037300d2417635.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/576ac58e07b32f470359a4f38ecfbe6e79061b28.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36b436bb519c039ebedc202f741b5e1da84842c4.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "面对困难要冷静分析、积极想办法。",
       "options": [],
       "answer": "对",
-      "explanation": "冷静分析找方法。"
+      "explanation": "冷静分析找方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/914a8f1424df4a67cb9b8af4ef06065eca9ac028.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d8f83c59bc98f542be0b327dceeaceb10905de1.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "不理会缺点"
       ],
       "answer": "发挥长处并改进不足",
-      "explanation": "扬长补短。"
+      "explanation": "扬长补短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/912cc70c09b28a245d3e3c7cf2ede4c4f8bcfeb9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d6201a9535a3bc465d6f95024fe032c50ba48ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aead14949c8feb7fe55cedaaf9f99f6e41579345.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7823ff5ed4c46424bbc4383a455d562b626b4144.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0e09cfaa7aaf3bf5fa1d092305cb53cd140ddf2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b487802628aa1180ca529a4f5dfaca6b1bef9d8.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "看到别人的优点可以学习，但不必自卑。",
       "options": [],
       "answer": "对",
-      "explanation": "学习他人不自卑。"
+      "explanation": "学习他人不自卑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96e066a04676e56eed8c90955c92858a4ec3f8f7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6eb5b5d5d91345488e611b995fccebfae52d3ed0.mp3"
+      }
     }
   ],
   "knowledge": null

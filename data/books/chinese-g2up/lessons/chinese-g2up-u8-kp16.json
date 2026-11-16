@@ -21,7 +21,17 @@
         "在班级里大声说他坏话"
       ],
       "answer": "主动写一张卡片道歉",
-      "explanation": "本单元主题是相处，主张真诚地化解矛盾。"
+      "explanation": "本单元主题是相处，主张真诚地化解矛盾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/963e8f2de80db02f24b4bb6aabbb45f7b769ecb7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c64c6610a3b2e5393fa07cd3c79176490e3ca1ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcaa0c872114821c6f21ed64b1f99297235410aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/6261cda09115522d3fa6f2324a0a614fb7127d9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbcad9ef7a88bed151637606d94b95ff2c72cca2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/238af1da4e2ce0b06433eb93611235fdda355354.mp3"
+      }
     }
   ],
   "knowledge": null

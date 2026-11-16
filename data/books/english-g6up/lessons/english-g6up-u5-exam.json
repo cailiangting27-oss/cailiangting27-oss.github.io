@@ -16,7 +16,11 @@
       "question": "'coach' 这个词的意思是'主教练'。",
       "options": [],
       "answer": "对",
-      "explanation": "coach在体育语境下意为教练。"
+      "explanation": "coach在体育语境下意为教练。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8cbf6e52d6615f991c02c5e92564055151dc3bd7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b10a787e63419601d82b2d77a1bc330aece8ce9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "We should say 'a artist' instead of 'an artist'.",
       "options": [],
       "answer": "错",
-      "explanation": "artist以元音音素开头，应用an。"
+      "explanation": "artist以元音音素开头，应用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/732cfadcf96ddd261860acaa8f19c1e8660da9c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60dad31d5512668ca93a4050c5780f9901f7a856.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "A fisherman works in a factory.",
       "options": [],
       "answer": "错",
-      "explanation": "渔民(fisherman)通常在海上工作。"
+      "explanation": "渔民(fisherman)通常在海上工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff3618d6bb29d6a6b74ce4775457b1f6b662207a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de3d1a767d79472c4cae0f23ff9665e2ff2e63cb.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "If you are good at writing, you can be a reporter.",
       "options": [],
       "answer": "对",
-      "explanation": "记者(reporter)需要良好的写作能力。"
+      "explanation": "记者(reporter)需要良好的写作能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6afca08614c38877fbf9776605adcdeb624aa48.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94c40d1f01d11f7f4aef8709e705483bcb3c3d71.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "scentist"
       ],
       "answer": "teacher",
-      "explanation": "其他选项存在拼写错误。"
+      "explanation": "其他选项存在拼写错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb9c86c02de66dc2f375c32e9acd948ef036eaeb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/eee3b2091a24187caf757f811c5f821e7b175640.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/9c/9cba275b6790dbfc03ac02a63e8bc5c172557289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/149420176fc4e46aab2e9a7ce4b835ab8e5165e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2bc9b9c3d86ec96ade1fc258c9c1411008f64f39.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "factory"
       ],
       "answer": "university",
-      "explanation": "科学家通常在大学(university)或实验室工作。"
+      "explanation": "科学家通常在大学(university)或实验室工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94a7d2d3c4cf2dac648c010dac8377f98c1f3c31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f914060ccb1e10d551ad49016b1a6658d6edec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b202d57f214af016fe2923be40110740dd5bb91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/dea9e4a69e9e58dd09f689734e744fb7cb62cfc7.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "singer"
       ],
       "answer": "fisherman",
-      "explanation": "逻辑关联，游泳和渔民都与水相关。"
+      "explanation": "逻辑关联，游泳和渔民都与水相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa62a17d8ac2427d8e531d66b439e9efedf1cc5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20c97c875a990ddac3e6e40b7412d5df7a1cf49e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/792b0f4d4d0fc8d108cbb54973221f3a6d65282d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eec7121ebf641c6e938d95dca3f1fa2a86010126.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fdccf09b305ccc3e5617efeed0b9b9f1288ee23.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93774d8af8252955b109270180163cecdd681bf3.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "He likes science."
       ],
       "answer": "He works at sea.",
-      "explanation": "Where问地点，回答应包含地点。"
+      "explanation": "Where问地点，回答应包含地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6ba8b68c18581e9e20ba02557064c18a114096c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36d227dbb3041f70d41f5850e085b01ef1241627.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14b98bf58cf3f268e01fc94283e62a187cd6b8ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/233c6ffcecb29696d7d8bad9596d76356f1dab6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8c360a81f700c90d8f62c7fbcef2094c95e58f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01d9409054284e8bb222b21cc9dbc20a3e401bd0.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "to read"
       ],
       "answer": "reads",
-      "explanation": "He是第三人称单数，动词加s。"
+      "explanation": "He是第三人称单数，动词加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fcdaf10165b19b7d27bfbecedb1260e776a6f0a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a7afddb68260a60f86c02a021efba7f216c2e7cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/227f38db8f9408a503acd51e3de98a46bb1209f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/380aba3902a438fdabe1efa63b45b67a30451eed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d527aec6909053557ad5e9ede5a51358a2ef1f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/953d204c36fb659b8638fc054f1d2e04fce2b601.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "be"
       ],
       "answer": "is",
-      "explanation": "be going to结构，Oliver用is。"
+      "explanation": "be going to结构，Oliver用is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b2bc10034a24dfc36356f0f7694fb8115723ccf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d711121941b707f6fc00173b511ecbcc2641f748.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "watch TV"
       ],
       "answer": "study hard",
-      "explanation": "职业理想需要努力学习(study hard)实现。"
+      "explanation": "职业理想需要努力学习(study hard)实现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef397335ccfc43e1162442bd2e59c53d4efa4d19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/515f3f87b7974f4474519b4506bd1cdb100a4fff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3ca5f787365eae0dea86250e27d476406956478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cafbc7e390d0a384a2259ce82d7cc3483fe8177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbcfb1be04803250e8e6a30d4c54117f6800fd6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/549dab5fad5b4e9195044b319918a6dd46203b96.mp3"
+      }
     },
     {
       "id": 17,
@@ -172,7 +258,11 @@
       "question": "He works in a gym. He is a ______.",
       "options": [],
       "answer": "coach",
-      "explanation": "在体育馆工作的教练是coach。"
+      "explanation": "在体育馆工作的教练是coach。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9f3200a04fec375b382054b8c03f01e578b832c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d2a6759f6d95ee9461adaed4de7b1e26bec2c69.mp3"
+      }
     },
     {
       "id": 18,
@@ -183,7 +273,11 @@
       "question": "What does your father ______ (do)?",
       "options": [],
       "answer": "do",
-      "explanation": "助动词does后面跟动词原形。"
+      "explanation": "助动词does后面跟动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/000af980ad7290141af6997f64dc8260623e8964.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c036291e2e1f7c3974acc8af368dd349710223b.mp3"
+      }
     },
     {
       "id": 20,
@@ -203,7 +297,21 @@
         "记者"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "A.reporter-记者; B.fisherman-渔民; C.university-大学; D.gym-体育馆。"
+      "explanation": "A.reporter-记者; B.fisherman-渔民; C.university-大学; D.gym-体育馆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04cabe98920e0dd772cf86bf9c7899f54ca31c7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/40a630e157504605e40ba241f6b1f78ab1dd97b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20c97c875a990ddac3e6e40b7412d5df7a1cf49e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f914060ccb1e10d551ad49016b1a6658d6edec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c5e5ae06ccf1ea0aafb54ac3badeb88d0fddb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/858bb23650b9b64eededbd4a0db76b493a712bf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be14eac4f24da6bddd8fb71c157c90d28930497b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/746068397ca29b65354794f3ae93211fa7b67b92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cd264a5e6ce8a4e7a17a2503dbfeb87dfd0f847.mp3"
+      }
     },
     {
       "id": 21,
@@ -223,7 +331,21 @@
         "出海"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "A.work hard-努力工作; B.go to sea-出海; C.write stories-写故事; D.study science-研究科学。"
+      "explanation": "A.work hard-努力工作; B.go to sea-出海; C.write stories-写故事; D.study science-研究科学。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7af62d5381c6bbdda7d8b611ff7e7a05cfa8c308.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f47d22aa737e9648065fa06fb2e5873fc9241b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a655a0e051a00742c48c6ea0dba79aea7c0e2608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a014aef208b14452d13665eea8c9f43f77f57640.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e95ab939d89d887e5afddd06f407355c8f256f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/927071ef2abe4f2a311ace0b83b136720715bba6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a04c66c6ffd41d21df784da07fb0d921f958737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c465272a1ac69686a837021a26aa76678ddab24d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa5b8ced975fa97f102393073a69257c684dbb6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3949c0297df082d82d244ea8d75fb1890e86e24.mp3"
+      }
     }
   ],
   "knowledge": null

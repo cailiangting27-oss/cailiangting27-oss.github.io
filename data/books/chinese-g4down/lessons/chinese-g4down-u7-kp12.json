@@ -21,7 +21,17 @@
         "介绍客轮的行驶路线"
       ],
       "answer": "烘托灾难即将来临的紧张气氛",
-      "explanation": "阴惨惨的薄雾暗示了不祥的预兆，烘托了紧张的氛围。"
+      "explanation": "阴惨惨的薄雾暗示了不祥的预兆，烘托了紧张的氛围。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d8c0355652a09ea54eb5fcfdb0abc99e604684c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/72/72c79d6c0aa113d97d11348a39aa574009349a34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50b03995682a4c4214e03c426461da6f1776d6d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd7f3398afd2e5477713943417c86879ab4182aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6890d74442f606cd29af37ba4187f5318c54a42.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40f4602622eaf5e8bf867bc467821a206219498a.mp3"
+      }
     }
   ],
   "knowledge": null

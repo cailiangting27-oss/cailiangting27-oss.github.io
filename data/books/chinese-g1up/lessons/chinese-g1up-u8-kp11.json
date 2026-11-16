@@ -25,7 +25,21 @@
         "枣"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "一只小鸟，一个苹果，一头黄牛，一颗枣。"
+      "explanation": "一只小鸟，一个苹果，一头黄牛，一颗枣。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9eba073af4d37a06c43939b70adbdf4da63b07c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7385a5faf995485523756128d1031daf5c88bf20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9546a920468f604836dc8a12ec0c2c3ff0734085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78d1a335211069e9b81aa67a58149ea57552f8b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/315a1bd4002c00f123e2673b1b4639fdb6ef84c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b0381fb05ea6a913e60bb73ebfa010bb3abea8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2d73a2aa391c39809471cc2728899704bb5b020.mp3"
+      }
     }
   ],
   "knowledge": null

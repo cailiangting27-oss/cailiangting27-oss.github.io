@@ -21,7 +21,17 @@
         "行为"
       ],
       "answer": "自己的,言语,行为,前后否定",
-      "explanation": "自相矛盾指的是自己的言语和行为前后抵触。"
+      "explanation": "自相矛盾指的是自己的言语和行为前后抵触。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43ebb3ea6f8b142987097bbd8cc227df1f8d83a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b994a9fd88cea0ccdb2989352f6a74a12508496.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f14b075def6515e508dc78d566000419d373887f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf63197156e2e13cde618d33bfedee44edeb4052.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c09395949f94452aee42d7f8d37a620da408df56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc11644a46e66caf6c44195a84689eeaab6a1779.mp3"
+      }
     }
   ],
   "knowledge": null

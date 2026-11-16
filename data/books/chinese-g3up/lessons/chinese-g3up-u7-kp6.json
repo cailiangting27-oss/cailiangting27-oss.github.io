@@ -21,7 +21,17 @@
         "热闹的市场"
       ],
       "answer": "茂密的树林",
-      "explanation": "“幽深”指深而幽静，多用于山谷或丛林。"
+      "explanation": "“幽深”指深而幽静，多用于山谷或丛林。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47d670be07be5ca5e107cfce3e0441c423e79c49.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25ab04f623f371fcd3d1cd295534d2dd2a30b5ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d96723eaade7709866e03b664fb937ce99a37a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25fde59e0be702c82de3c73843aff8dd6085b2ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b3115d3770115bc36768737ed387a7ceb5c05de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/203257a3ad85e40f128c63441da98f7d71b2661a.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "《采莲曲》的作者是唐代诗人（___）。",
       "options": [],
       "answer": "王昌龄",
-      "explanation": "王昌龄是《采莲曲》的作者。"
+      "explanation": "王昌龄是《采莲曲》的作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a91f1a9c4bd4f398b7f2c8f37724407a10223f41.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37e71fa4ee5d74d2fc0a04ab3f1f3d5a43e2d33b.mp3"
+      }
     }
   ],
   "knowledge": null

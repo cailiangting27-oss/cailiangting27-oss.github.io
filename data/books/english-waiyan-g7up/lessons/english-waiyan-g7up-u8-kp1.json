@@ -37,7 +37,15 @@
         "birthdey"
       ],
       "answer": "birthday",
-      "explanation": "birthday 生日。"
+      "explanation": "birthday 生日。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d98f2c581b10506c6b7376434c945c4f7e87d11e.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

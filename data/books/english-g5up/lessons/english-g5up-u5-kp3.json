@@ -21,7 +21,17 @@
         "in"
       ],
       "answer": "between",
-      "explanation": "在两者之间用 between。"
+      "explanation": "在两者之间用 between。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f0dc2931e4dd823bcceff7d0177eaa97ebda36f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/709634051471385aada32356842983beeff4b065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb397449fabe7370de4e726a586750c0e025d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d1ff50a377640628713848d4a6db5b5aba853c1.mp3"
+      }
     },
     {
       "id": 23,
@@ -39,7 +49,19 @@
         "the"
       ],
       "answer": "The,plant,is,beside,the,clock",
-      "explanation": "物品A + is + 方位介词 + 物品B。"
+      "explanation": "物品A + is + 方位介词 + 物品B。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdafa4bb7ad15cf6bb4465cace56a6e04650bda9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/93ef0dd827103681fcee453b78be2ff14e1a261d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/baf0bf92eb79156bdc34cddba390e31738b942f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c8869983ffe3b4f9abe1dc851bda61399ef6e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83655a5560ef1c438170f28acfecbe5013e8f34f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c4d00a8e458b1f4239e497621f2a1e269f5aafb.mp3"
+      }
     }
   ],
   "knowledge": null

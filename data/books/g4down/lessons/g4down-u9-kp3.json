@@ -16,7 +16,11 @@
       "question": "“鸡兔同笼”问题不仅可以解决鸡和兔的问题，还可以解决租船、得分等具有类似逻辑的问题。",
       "options": [],
       "answer": "对",
-      "explanation": "鸡兔同笼是一种数学模型，适用于两种对象、两种属性且总量已知的情况。故说法正确。"
+      "explanation": "鸡兔同笼是一种数学模型，适用于两种对象、两种属性且总量已知的情况。故说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d64177626ce410e369a97dc98b638fa94aefcb28.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01f734cb2a4c95909a4a86b6d20c5329daca0ae5.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "9"
       ],
       "answer": "8",
-      "explanation": "假设全对：$10 \\times 10 = 100$ 分。比实际多出 $100 - 70 = 30$ 分。错一题损失 $10 + 5 = 15$ 分。错题数：$30 \\div 15 = 2$ 题。对题数：$10 - 2 = 8$ 题。验算：$8 \\times 10 - 2 \\times 5 = 70$ ✓。"
+      "explanation": "假设全对：$10 \\times 10 = 100$ 分。比实际多出 $100 - 70 = 30$ 分。错一题损失 $10 + 5 = 15$ 分。错题数：$30 \\div 15 = 2$ 题。对题数：$10 - 2 = 8$ 题。验算：$8 \\times 10 - 2 \\times 5 = 70$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aaf42ea9149ad1037df8c52b2db1cccb517dc617.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfa299885ea4a0b1c890124cd940202582fa1324.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "16"
       ],
       "answer": "12",
-      "explanation": "假设全是 2 元的：$20 \\times 2 = 40$ 元。少算了 $76 - 40 = 36$ 元。5 元邮票张数：$36 \\div (5 - 2) = 12$ 张。验算：$12 \\times 5 + 8 \\times 2 = 60 + 16 = 76$ ✓。"
+      "explanation": "假设全是 2 元的：$20 \\times 2 = 40$ 元。少算了 $76 - 40 = 36$ 元。5 元邮票张数：$36 \\div (5 - 2) = 12$ 张。验算：$12 \\times 5 + 8 \\times 2 = 60 + 16 = 76$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a32a8a84db0d4eab35bc9667d0ab4d449c7e956.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fac63bfaee4c213d54dc90ddf384762d7d7f150f.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "12"
       ],
       "answer": "8",
-      "explanation": "假设全是 4 轮轿车：$20 \\times 4 = 80$。差额：$96 - 80 = 16$。货车：$16 \\div (6 - 4) = 8$ 辆。验算：$8 \\times 6 + 12 \\times 4 = 48 + 48 = 96$ ✓。"
+      "explanation": "假设全是 4 轮轿车：$20 \\times 4 = 80$。差额：$96 - 80 = 16$。货车：$16 \\div (6 - 4) = 8$ 辆。验算：$8 \\times 6 + 12 \\times 4 = 48 + 48 = 96$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fbbeba24c753b1d354f49aeb3c16ea50cbbd90a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d456651d0ec73fd4a4160a29642076ec6ed05cf.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "12"
       ],
       "answer": "10",
-      "explanation": "假设全是 5 吨车：$14 \\times 5 = 70$ 吨。差额：$100 - 70 = 30$ 吨。8 吨车数量：$30 \\div (8 - 5) = 10$ 辆。验算：$10 \\times 8 + 4 \\times 5 = 100$ ✓。"
+      "explanation": "假设全是 5 吨车：$14 \\times 5 = 70$ 吨。差额：$100 - 70 = 30$ 吨。8 吨车数量：$30 \\div (8 - 5) = 10$ 辆。验算：$10 \\times 8 + 4 \\times 5 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c822f59c77cda6b5d00614d1668c7df1418419f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c21c522c46f945a23c0efcaa3db7071ecb75038f.mp3"
+      }
     },
     {
       "id": 17,
@@ -96,7 +140,17 @@
         "30"
       ],
       "answer": "20",
-      "explanation": "（统一单位：5 角 = 0.5 元）。假设全为 0.5 元：$40 \\times 0.5 = 20$ 元。差额：$30 - 20 = 10$ 元。1 元硬币：$10 \\div (1 - 0.5) = 20$ 枚。验算：$20 \\times 1 + 20 \\times 0.5 = 20 + 10 = 30$ ✓。"
+      "explanation": "（统一单位：5 角 = 0.5 元）。假设全为 0.5 元：$40 \\times 0.5 = 20$ 元。差额：$30 - 20 = 10$ 元。1 元硬币：$10 \\div (1 - 0.5) = 20$ 枚。验算：$20 \\times 1 + 20 \\times 0.5 = 20 + 10 = 30$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93a17cdf909bf47ef5049c0ed46645c0823de008.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba84a2964c442062dd33f302b91489edcc711b8f.mp3"
+      }
     },
     {
       "id": 18,
@@ -112,7 +166,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "假设全是平局：$12 \\times 1 = 12$ 分。少算了 $22 - 12 = 10$ 分。胜场数：$10 \\div (3 - 1) = 5$ 场。验算：$5 \\times 3 + 7 \\times 1 = 15 + 7 = 22$ ✓。"
+      "explanation": "假设全是平局：$12 \\times 1 = 12$ 分。少算了 $22 - 12 = 10$ 分。胜场数：$10 \\div (3 - 1) = 5$ 场。验算：$5 \\times 3 + 7 \\times 1 = 15 + 7 = 22$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6edf2b395a343e4ee257cbd1f4a5ea6f9b51a50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a81845e54e3d5f9da21777bab5f00e2c5ec53d17.mp3"
+      }
     },
     {
       "id": 21,
@@ -123,7 +187,11 @@
       "question": "有 100 枚硬币，由 1 元和 5 角组成，总钱数 80 元。5 角硬币有 ___ 枚。",
       "options": [],
       "answer": "40",
-      "explanation": "假设全 1 元：100 元。多了 $100 - 80 = 20$ 元。5 角币：$20 \\div 0.5 = 40$ 枚。验算：$40 \\times 0.5 + 60 \\times 1 = 20 + 60 = 80$ ✓。"
+      "explanation": "假设全 1 元：100 元。多了 $100 - 80 = 20$ 元。5 角币：$20 \\div 0.5 = 40$ 枚。验算：$40 \\times 0.5 + 60 \\times 1 = 20 + 60 = 80$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df7592d314d56a6ebb1ed8891d6db9ce19365c28.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f0bc473bd52e27702524d595025db40f4f08bca.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -134,6 +202,16 @@
       "在得分扣分题中，忽略了错一题不仅没有得分还要扣分的‘双倍差额’。",
       "混淆了两种属性的单位，如把‘元’和‘角’混用。"
     ],
-    "tips": "在解决变式题时，先识别什么是‘头’（总数），什么是‘脚’（总价值/总分）。"
+    "tips": "在解决变式题时，先识别什么是‘头’（总数），什么是‘脚’（总价值/总分）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1b/1bfd999c9c3d8dd75a3cb9a7fb87457cec2b9e33.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/08/08eb28f9b47740aec25120a91470c73bdb35ded1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/30/300f6c50e9e0152031d2bb421661e0e0ec67723d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4cbc7bfd11c5c0f0c139d38deb5a601babd68959.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ed/edda4f762df29ba49d28eacd53719c14ba130709.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c6/c6d107815df502050e72a452ce979ef23a906161.mp3"
+      ]
+    }
   }
 }

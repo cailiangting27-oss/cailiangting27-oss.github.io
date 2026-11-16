@@ -48,7 +48,15 @@
         "不能作电极"
       ],
       "answer": "负极",
-      "explanation": "活泼金属失电子作负极。"
+      "explanation": "活泼金属失电子作负极。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7fd127db14d6a93b285014936e2fe423b015ea43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebe0fb67047f1a789cfb58cdd132e9dbb0def0cd.mp3",
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

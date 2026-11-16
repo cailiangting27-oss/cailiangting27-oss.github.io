@@ -21,7 +21,15 @@
         "will see"
       ],
       "answer": "has seen",
-      "explanation": "去过多次用现在完成时。"
+      "explanation": "去过多次用现在完成时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/beb28395371a8379d2519c6db5ea189c276fb522.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29596a43a2ef2bbfa00f6a16c0cb1d108bc63e32.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "is making"
       ],
       "answer": "is made",
-      "explanation": "被动语态。"
+      "explanation": "被动语态。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c77a5d0e954f79d2c00fd49048e8e9bb76d0839f.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

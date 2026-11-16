@@ -21,7 +21,17 @@
         "清洗"
       ],
       "answer": "裁剪",
-      "explanation": "裁缝的主要工作是裁布缝衣，结合语境应选裁剪。"
+      "explanation": "裁缝的主要工作是裁布缝衣，结合语境应选裁剪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/362943fc8c47d6543ca2c191e891f2040b075c5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/6831fe9e78ac5d68e91ce74f162fcbe600c05858.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f06f360f9706f4eb3568e0d4f229df1349867125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9132e604824c784a4a0a0c0199353d010caac1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd56476f56c5e26828dc149a656770d1c1b9fe92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/faa1f8022ba30da3b137c333ae52279fa1fff262.mp3"
+      }
     },
     {
       "id": 19,
@@ -41,7 +51,21 @@
         "叹气"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "急性子易激动蹦跳，慢性子爱叹气，枣核能干活，老婆婆在故事中劝架。"
+      "explanation": "急性子易激动蹦跳，慢性子爱叹气，枣核能干活，老婆婆在故事中劝架。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33b731ebd3de4fe3d77ec30e215419fcae407aff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce16615e92b3a1dcb9e63fa4ab8d5f0823a2354e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c74a4fe3b47e8d52e3703925e3a34c02abe0cfb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebaaef4d453d2263df58cc23941ad047002a75cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f087cc3ab3c79b6993ca1f72f923bf405063fccb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/148aa35c2fb6769da13de6a12941fed6b0e92c56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3faa99606bc53c8706da229852a0bbad4c1d03a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/441cfa30694f92efc7893addfac9b333e07fb193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b0624a8b7cb8b726700c78ce5bcd25caad598a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43f726b8f75c7fc5560ebc02571153825445833e.mp3"
+      }
     }
   ],
   "knowledge": null

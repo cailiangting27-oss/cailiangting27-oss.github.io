@@ -16,7 +16,11 @@
       "question": "用蒸发皿加热食盐水时，要等水分完全蒸干后再熄灭酒精灯。",
       "options": [],
       "answer": "错",
-      "explanation": "应在有大量固体析出时熄灭酒精灯，利用余热蒸干，防止食盐飞溅。"
+      "explanation": "应在有大量固体析出时熄灭酒精灯，利用余热蒸干，防止食盐飞溅。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2804bf9ceb2682c2d8d4f2bc6c32ae73ae4183ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb54983055378a52e2c9f43ec8f911761dee3e2e.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "曝晒"
       ],
       "answer": "溶解",
-      "explanation": "利用食盐易溶于水而沙子不溶的特性，先溶解再通过过滤和蒸发分离。"
+      "explanation": "利用食盐易溶于水而沙子不溶的特性，先溶解再通过过滤和蒸发分离。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49dd7be0be2947a0631e896399934f234df91451.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/5270860ef02c1dacd1cc1fb5c88f11214be7b932.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89fd5c6cdf163e5758ba9ac1d5fcf51e08427da9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/854e15b9053ee6ec766ef5c2d1af8a7e29e20ada.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95345f2d9c0384c37b4be4c2d4bcbcff18c9a673.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1df0b2a5bfcc1ed43ff8b3da9b02ddda6291833.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "都一样"
       ],
       "answer": "外焰",
-      "explanation": "外焰与空气接触最充分，燃烧最剧烈，温度最高。"
+      "explanation": "外焰与空气接触最充分，燃烧最剧烈，温度最高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20d262b52f83068f4a0f56074dfbc0bf5d0a4244.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/7771d3fa2a3de0bfa28cf262635a63836e32b1c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d3405b2ddf854808f47f6f04727234af22718e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e65d14a5106d5ed2888c414296795192e8254d85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40b92c27d504959512e89a5e5f5681c91925aa40.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a958bddd4f4637de87dbc5d21cb2a4bf61968da.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "在实验室中，我们利用（）的方法将食盐从盐水中分离出来。",
       "options": [],
       "answer": "蒸发",
-      "explanation": "通过加热使溶剂水分流失，溶质析出。"
+      "explanation": "通过加热使溶剂水分流失，溶质析出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31067bf1961154c0408a06805f917304709ef675.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/263c4018a5a6e88a90a592cab94c5efd0bc81f34.mp3"
+      }
     }
   ],
   "knowledge": null

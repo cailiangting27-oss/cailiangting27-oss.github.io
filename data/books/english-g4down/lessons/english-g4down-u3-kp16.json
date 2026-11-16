@@ -22,7 +22,18 @@
         "outside"
       ],
       "answer": "Can,I,go,outside,now",
-      "explanation": "Can I go outside now? 表示我现在可以出去吗？"
+      "explanation": "Can I go outside now? 表示我现在可以出去吗？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9780c7604c67ef6b88ee3e445365145e0eea2813.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88e288f3e3ca8d1137556d908dcb9f355209464b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9bc849a968f2432684aca234f30596c5a91654f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45e18dad51fd9e8869897fba48fa93d118e5e404.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/423f9bf8b2fae86104ebe256426c2a7d78798811.mp3"
+      }
     }
   ],
   "knowledge": null

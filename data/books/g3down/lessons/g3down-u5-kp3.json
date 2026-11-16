@@ -16,7 +16,11 @@
       "question": "两个面积相等的长方形，它们的周长也一定相等。",
       "options": [],
       "answer": "错",
-      "explanation": "例如面积为 12 的长方形，可以是 $3 \\times 4$（周长 14）也可以是 $2 \\times 6$（周长 16）。故错误。"
+      "explanation": "例如面积为 12 的长方形，可以是 $3 \\times 4$（周长 14）也可以是 $2 \\times 6$（周长 16）。故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2e2a8c5a8355479f0fff5690ea6cce1450b98a8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10ae556067899990a9ae0dbf6f089018b7ccda4e.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "80"
       ],
       "answer": "40",
-      "explanation": "$8 \\times 5 = 40$。验算：$40 \\div 5 = 8$，符合题意。"
+      "explanation": "$8 \\times 5 = 40$。验算：$40 \\div 5 = 8$，符合题意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e44c093d6e57e2a3b45ff6b2ac4d5e0c8eb52e50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/887309d048beef83ad3eabf2a79a64a389ab1c9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/315932e9252e1b94786383e773a9f16cf7c7b42b.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "18"
       ],
       "answer": "6",
-      "explanation": "正方形面积 = 边长 × 边长，$6 \\times 6 = 36$。验算正确。"
+      "explanation": "正方形面积 = 边长 × 边长，$6 \\times 6 = 36$。验算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44b21e5c1211255fe6852d124ea8e934a3dcaed9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aea1c31c84c97a1517bd3e787a709824908d2b07.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "4 平方米"
       ],
       "answer": "10 米",
-      "explanation": "围一圈是求周长：$(4 + 1) \\times 2 = 10$（米）。"
+      "explanation": "围一圈是求周长：$(4 + 1) \\times 2 = 10$（米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/decab2a793590938b3fea4a08777865157a3698c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/26e117cba4821db12f446e08db54910a5b834c45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de5cb441508f51b7b085b23d97bb0e0f494f61ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01e8a538be32d82cca17d2cfeb559e0b83167fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d58af433d06c02b46e07394a2ebd1cb2ac63a054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05ebc88e25ebb152523afc38b3793112336b0081.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "一间教室地面长 9 米，宽 6 米，它的面积是 ___ 平方米。",
       "options": [],
       "answer": "54",
-      "explanation": "长方形面积 $=$ 长 $\\times$ 宽，即 $9 \\times 6 = 54$ 平方米。验算：$54 \\div 9 = 6$ ✓。"
+      "explanation": "长方形面积 $=$ 长 $\\times$ 宽，即 $9 \\times 6 = 54$ 平方米。验算：$54 \\div 9 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/719339e5d7b536388b54b92e58d61636a8bf42d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e848b766d9da2938bdcfff04a84a649d20f1974f.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "计算长方形面积：长 12 厘米，宽 5 厘米。$12 \\times 5 = ?$",
       "options": [],
       "answer": "60",
-      "explanation": "$12 \\times 5 = 60$。验算：$60 \\div 5 = 12$ ✓。"
+      "explanation": "$12 \\times 5 = 60$。验算：$60 \\div 5 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e5b409008a9863b198c211d7ebb6c8b54fad98b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c1ae5f828d9a4f5b55f3436a9a5f53c772907ab.mp3"
+      }
     },
     {
       "id": 23,
@@ -97,7 +139,11 @@
       "question": "计算正方形面积：边长 20 分米。$20 \\times 20 = ?$",
       "options": [],
       "answer": "400",
-      "explanation": "$20 \\times 20 = 400$。验算：$400 \\div 20 = 20$ ✓。"
+      "explanation": "$20 \\times 20 = 400$。验算：$400 \\div 20 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ceb958b3e257ed9edfae2de35e824dec161f4470.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72c1d73c4bf4cc2a96190612121080fd2bff1f59.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "计算时长宽单位不统一就直接相乘",
       "错误地将长方形面积记为（长+宽）× 2（那是周长公式）"
     ],
-    "tips": "做题时先画图并标注数据，核对单位后再代入公式计算。"
+    "tips": "做题时先画图并标注数据，核对单位后再代入公式计算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2c/2c228f65f364117fd38e106043556828a7de7372.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ce/ce53434077545ca0616b7598138c731daff4c413.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7f/7ffc01c7be57ddbbce0d5dba9403250c9ad38efb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/7c/7c5bcf281a1089475343b92d77a1ffbe204ae11f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/00/00cc4d6005bf7d1e24418f755f52d3d5f298f6b7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/05/05a44c4ca120affa807ffba84040741f9f15a2f0.mp3"
+      ]
+    }
   }
 }

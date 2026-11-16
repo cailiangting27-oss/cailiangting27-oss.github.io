@@ -16,7 +16,11 @@
       "question": "在一条直线上植树，如果两端都不栽，棵数比间隔数少 1。",
       "options": [],
       "answer": "对",
-      "explanation": "这是两端不栽的典型特征。例如 2 个间隔中间只有 1 棵树。"
+      "explanation": "这是两端不栽的典型特征。例如 2 个间隔中间只有 1 棵树。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff7445b27521a17d147b54c8fd1f36910951956.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61c45dd55f3d61fcc3a5db1069974379727c5b08.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "周长 100 米的圆和周长 100 米的正方形，按相同间隔植树，棵数一样多。",
       "options": [],
       "answer": "对",
-      "explanation": "无论是什么形状，只要是封闭曲线，棵数都等于全长除以间隔长度。"
+      "explanation": "无论是什么形状，只要是封闭曲线，棵数都等于全长除以间隔长度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/7583a73ffeffbba31c14911179418e90bd11921c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/515fa39e9a26d4a1b0abf3ccf6fa979bc1f6aa9b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "把 10 根短绳结成一个大圆圈，一共要打 10 个结。",
       "options": [],
       "answer": "对",
-      "explanation": "绳子结成圈属于封闭植树模型，绳子数 = 打结数。"
+      "explanation": "绳子结成圈属于封闭植树模型，绳子数 = 打结数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34ba4c0f89c8fa0c1e771689c2bf5aeb7a5ba0f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8188bbabd6860d51d66df6ffaf6cbc1bc6ed8b8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "马拉松比赛，每 5 千米设一个饮水站（起点设，终点不设），15 千米的路程共设 3 个饮水站。",
       "options": [],
       "answer": "对",
-      "explanation": "一端种一端不种的情况下，站数 = 间隔数 = $15 \\div 5 = 3$ 个。"
+      "explanation": "一端种一端不种的情况下，站数 = 间隔数 = $15 \\div 5 = 3$ 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8c5fa5154fdae81a77353698eeb259fcd92cdb9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/bae896ca9d2016303bf8f4a9c11cde15f4724eb7.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "12"
       ],
       "answer": "22",
-      "explanation": "敲 4 下有 3 个间隔，$6 \\div 3 = 2$ 秒/个。敲 12 下有 11 个间隔，$11 \\times 2 = 22$ 秒。"
+      "explanation": "敲 4 下有 3 个间隔，$6 \\div 3 = 2$ 秒/个。敲 12 下有 11 个间隔，$11 \\times 2 = 22$ 秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10706bb2409ea8ee6f8460f9bb1b23ce8aaa3763.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b901c2cc438375bbaaa52cfcfd68b30a7ae1017a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "242"
       ],
       "answer": "121",
-      "explanation": "间隔数 = $600 \\div 5 = 120$。两端都种：$120 + 1 = 121$ 棵。"
+      "explanation": "间隔数 = $600 \\div 5 = 120$。两端都种：$120 + 1 = 121$ 棵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6875a7e1934e9808874f0c1ee642ed85f2bc4abe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bd7954c40c1e59a900f71ea3a266732609915b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/851cd04fbcac9538616f1d147d7930db87b8750d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a6dd660b8bd21fd6966b741482c02b047258135.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "15"
       ],
       "answer": "18",
-      "explanation": "5下 4 个间隔，每个间隔 $8 \\div 4 = 2$ 秒。10下 9 个间隔，$9 \\times 2 = 18$ 秒。"
+      "explanation": "5下 4 个间隔，每个间隔 $8 \\div 4 = 2$ 秒。10下 9 个间隔，$9 \\times 2 = 18$ 秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f1594fe9426b19a02021a91a7c403473bec4bd8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32e3e13f4dde8d55791ddfe870bbd3a0eae54f0c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "22"
       ],
       "answer": "19",
-      "explanation": "间隔数 = $100 \\div 5 = 20$。两端都不栽 = $20 - 1 = 19$ 棵。"
+      "explanation": "间隔数 = $100 \\div 5 = 20$。两端都不栽 = $20 - 1 = 19$ 棵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05cb6dbf2438eaf4e7ec54177673aa4cc94355e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6511739dc4e91a4711e31a3c15934d9f1be058d8.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "80"
       ],
       "answer": "40",
-      "explanation": "红旗数 = $400 \\div 10 = 40$。在圆周上，红旗间的间隔数等于红旗数，所以也是 40 个间隔。每个间隔插 1 面黄旗，共 40 面。"
+      "explanation": "红旗数 = $400 \\div 10 = 40$。在圆周上，红旗间的间隔数等于红旗数，所以也是 40 个间隔。每个间隔插 1 面黄旗，共 40 面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c9c57574a53aa390b614b700f52fb84598db50c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/761f22b2c1593d0bb87e0b606f990ba4974706de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6668e55d12eeabfaa8246dbcbae8fa03b748d98.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "8"
       ],
       "answer": "9",
-      "explanation": "两楼之间意味着两端都不能种树。间隔数 = $40 \\div 4 = 10$。棵数 = $10 - 1 = 9$ 棵。"
+      "explanation": "两楼之间意味着两端都不能种树。间隔数 = $40 \\div 4 = 10$。棵数 = $10 - 1 = 9$ 棵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1340c86d6319ea6495a74f659013b366e078c711.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8414665d7582914382beb29f02c02d830fb9a565.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "50"
       ],
       "answer": "25",
-      "explanation": "封闭多边形，棵数 = 间隔数。$50 \\div 2 = 25$ 盆。"
+      "explanation": "封闭多边形，棵数 = 间隔数。$50 \\div 2 = 25$ 盆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccdc8320db8146302217d7f5ba9015cfd1ac1d26.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/887309d048beef83ad3eabf2a79a64a389ab1c9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5c894decade3e81d731f4d6a0582f4925895840.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "110"
       ],
       "answer": "200",
-      "explanation": "间隔数 = $11 - 1 = 10$ 个。距离 = $10 \\times 20 = 200$ 米。"
+      "explanation": "间隔数 = $11 - 1 = 10$ 个。距离 = $10 \\times 20 = 200$ 米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be3891f592817dcaac7974231be765e223fb1cac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f37062d9a65543a46f2ba13299ba77a370a1c4eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e796e48332af4142b10ca0f86e65d9bfdb05884.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d09be27cc662c3e4d4eece5c5193011d860718ff.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一条走廊长 24 米，每隔 3 米放一盆花（两端都放），一共要放 ___ 盆。",
       "options": [],
       "answer": "9",
-      "explanation": "间隔数：$24 \\div 3 = 8$。两端都放：$8 + 1 = 9$ 盆。验算：$(9-1) \\times 3 = 24$✓。"
+      "explanation": "间隔数：$24 \\div 3 = 8$。两端都放：$8 + 1 = 9$ 盆。验算：$(9-1) \\times 3 = 24$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/136fc42baef7208510e50389b18ec8a889ee32a8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/931be4ce286a175a0d7680f2fcc8695ff7fe1287.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一个圆形花坛在四周摆了 12 盆花，每两盆花之间间隔 3 米。这个花坛的周长是 ___ 米。",
       "options": [],
       "answer": "36",
-      "explanation": "封闭图形中，间隔数 = 棵数 = 12 个。周长 = $12 \\times 3 = 36$ 米。验算：$36 \\div 3 = 12$✓。"
+      "explanation": "封闭图形中，间隔数 = 棵数 = 12 个。周长 = $12 \\times 3 = 36$ 米。验算：$36 \\div 3 = 12$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b959ee689df0c7667d457ccf22c35ada51a6605f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58477ce5df39d0ff3f262ae376cad9c4ab54fd09.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$(36 \\div 4) - 1 = ?$",
       "options": [],
       "answer": "8",
-      "explanation": "$36 \\div 4 = 9, 9 - 1 = 8$。验算：$(8 + 1) \\times 4 = 36$✓。"
+      "explanation": "$36 \\div 4 = 9, 9 - 1 = 8$。验算：$(8 + 1) \\times 4 = 36$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b84ac71b1ed6605c669a8eb4f55931a6f5284bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/192d21164f1f283289a8fcfde75e5e058368c0a4.mp3"
+      }
     }
   ],
   "knowledge": null

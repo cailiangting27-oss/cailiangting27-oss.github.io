@@ -21,7 +21,17 @@
         "angry"
       ],
       "answer": "worried",
-      "explanation": "爸爸生病了，孩子应该感到担心（worried）。"
+      "explanation": "爸爸生病了，孩子应该感到担心（worried）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b746cac30af0deafe9b41603d86edbc3f740d10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3dc3889b6f5348962783987cdc04f9776866ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f529c0de3cab3a3f6351a48451fccf2f65685cde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adee57df8fd4b45d1b3a5a96b7a74ceb93f27484.mp3"
+      }
     }
   ],
   "knowledge": null

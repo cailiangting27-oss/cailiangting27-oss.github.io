@@ -16,7 +16,11 @@
       "question": "“不解藏踪迹”中的“踪迹”就是指脚印的意思。",
       "options": [],
       "answer": "错",
-      "explanation": "在《池上》中，踪迹指的是小划船荡开浮萍后留下的水路痕迹。"
+      "explanation": "在《池上》中，踪迹指的是小划船荡开浮萍后留下的水路痕迹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4032127c2ee0471029ec03b985dd07a8dfeecc1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c61c25624858ae5fd6fc2223967e6fdf8f06c6eb.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“早晨下雨当日晴”说明早晨下的雨一般不会下太久。",
       "options": [],
       "answer": "对",
-      "explanation": "这也是一句天气规律的谚语，意思是早雨通常很难持续到下午。"
+      "explanation": "这也是一句天气规律的谚语，意思是早雨通常很难持续到下午。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0235616954b98f489f327c0f53cec58443c68be9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/445ba267c6d21c8dde30a152fe34bfd0818a3011.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "《小池》一诗描绘的是初夏时节的景色。",
       "options": [],
       "answer": "对",
-      "explanation": "“小荷才露尖尖角”说明荷花还没盛开，代表初夏。"
+      "explanation": "“小荷才露尖尖角”说明荷花还没盛开，代表初夏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/886e992aa34f05756ed98ab24a96cb314658602d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae4ceda1a646c14bbb3d11c69c7efd6ebcbaa693.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "因为下雨前空气很闷，所以小白兔直不起腰来。",
       "options": [],
       "answer": "对",
-      "explanation": "课文里写小白兔割草时感到天气很闷，这与下雨前的低气压有关。"
+      "explanation": "课文里写小白兔割草时感到天气很闷，这与下雨前的低气压有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9743ef9a5da8ab778242231259884a6bc0776fde.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d3772bbd7e6405cdd494e0a6d5bfe92b29a82fb.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "刮起大风"
       ],
       "answer": "打雷闪电",
-      "explanation": "根据《要下雨了》课文，动物反应后往往伴随雷雨。"
+      "explanation": "根据《要下雨了》课文，动物反应后往往伴随雷雨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/764a20414a9ae6cd9d68a410c124124c59555ca4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5bc38f407e8eecbb8635d8bc88c8d8f4077badb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180616f82a180c390a8f633d03807fded1b37e98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f166d1d2ad61a01499fa36640f79ea6f58ff99d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99370d009e1ca9e371317a54608803d419ae4812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a722633b98e3de05d81626b2295a9c1024bc180.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "霜降见青天"
       ],
       "answer": "朝霞不出门",
-      "explanation": "朝霞和夏天的短时强对流降雨关系最紧密。"
+      "explanation": "朝霞和夏天的短时强对流降雨关系最紧密。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/7979a0053ebbc4e49dffb3a3d2e177e790a3eba4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e3984499f3e28f4105578916cfdaa625f44f851.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ee79fe77acf263e0bfc540f0f7fd834651bc12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5415823ce7f7a3748aab43c230adef6bf5f5539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0baeb1dd043db26e17c1c0129e69b4ebb38f11f8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f410ff20035150129e8a06bf6f0ed7be27770e88.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "搬家"
       ],
       "answer": "捉虫子",
-      "explanation": "燕子低飞是为了捕捉被潮湿空气压住的昆虫。"
+      "explanation": "燕子低飞是为了捕捉被潮湿空气压住的昆虫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2aa6360d673c079ec3a1b51d744def4435f69e1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646478a9b069ab4878b37dc2fb998e2fd1e655ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e026220d6f95f3f99d1df59d16c766ac5ea4744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef2c859acb53b7283231ea92b08c90a916bca9c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16b94120e68f660a8ddab49dc3e63e2ff05754d7.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "穿上雨靴"
       ],
       "answer": "出门郊游",
-      "explanation": "晚霞行千里，说明明天是好天气。"
+      "explanation": "晚霞行千里，说明明天是好天气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da2c159d57a3c148e7456351190813d8ebcaee5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56f0f8f7dd2dab4e2a5bcc6be61bc201c5acf872.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/463eb900aa43beb35fb9b5ff1f953ee1aecb0c58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdbcd22ed071784bd008c774e09c36587f62e7eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae23ccd07d669cbcf2361e43ba9833058331b661.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ebed57bed33ff29c09f9f5e458ae5c3a2dd22db.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "非常干燥"
       ],
       "answer": "清新凉快",
-      "explanation": "雨水能降温并洗净空气。"
+      "explanation": "雨水能降温并洗净空气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9fa3d96444f05ca721402dd85ddd173836857b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/35cd277c7373549d323c655fc4f25194d996f3ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9ee8b02664a894d7e8a86ea17d8646d0f5543d6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37e03def6c06200d6fae048ef097b08c12bc5ecc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2386755ff9abae2c8d0418cd6bcb9a4faced598e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/304b5a550fc440487010cae49d4048d2f17479c2.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "一个皮球"
       ],
       "answer": "一个帽子",
-      "explanation": "故称“戴帽”，生动形容云彩覆盖山头的样子。"
+      "explanation": "故称“戴帽”，生动形容云彩覆盖山头的样子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/826e83e71089c578af44201a37fb24e8a59950e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f907cfdcab0105859ba1ec5c38df547984db261.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cdb9964ce7a6791f177fd6c9123d521324e3a8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e04cc410a6ab5add37a24c4fcf79ed6f27055034.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6562d3c2c0a97c2f617e1b17da0776c8a94d8de6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2decc82bd07eb3e23886ec67d28bcb7f0b0cb8f.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《小池》中，哪种昆虫停在了荷叶的角上？",
       "options": [],
       "answer": "蜻蜓",
-      "explanation": "对应“早有蜻蜓立上头”。"
+      "explanation": "对应“早有蜻蜓立上头”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02d897d9e54b8e17537f13e4ba0d032ce072cfa3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9aa8482aa7fdbb06007f3b84b5749c9ae343d9f9.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "小娃在水池里偷偷采摘的是（___）。",
       "options": [],
       "answer": "白莲",
-      "explanation": "采摘的是白色莲花。"
+      "explanation": "采摘的是白色莲花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5d386550e237edba066c190b1e6971852345842.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aad6ed0c8528fa6085bc41882fac47822571631e.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "浮萍一道开"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "考查对《池上》和《小池》全诗的熟练程度。"
+      "explanation": "考查对《池上》和《小池》全诗的熟练程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/7166b0bddf2971937954ff8b982311aa33255e1f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48f38ba7749ee4e2daeb724e28a95b02cebc128d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff4b4675738bfd4bdd01a3b251770af36aa8810d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/3388e5409c1716ead573ee8f4184219d2658a4f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/915cdbbd11e58ae0e3351c7e94d36204a7ab95d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf13a512743e5690ecc3c10d8389b28a76765cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c77cdeef3632476bc8cef8ab8c92c7dbf7ca2fbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed1b8154befc729de0caad2daab93fef750850c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e886105f5837d2d68b88cf0b1b75d05a7e3d755.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d8040447f871e4c43a9b5363f3c13f913a251bc.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "水里闷得很"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "对应课文对现象背后原因的描写。"
+      "explanation": "对应课文对现象背后原因的描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b51eef282a83c23636f03135b8e2cf9ba9e75211.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89359e4ac0ab55662d32d73b2b9e2385d56940f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a20633d3b3f85a5adac53ba0fa40872a1cc539f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a3f35c0a9b72afd29f68119a59219c819795407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/965e4ae478671af04be32f707564918b4d8e7a8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bc67ae4cf3873e19f1c660b0bfc9b3d35d87c1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dd59e46d69fe52146d533cf1c13deb774ca5a1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8309656ab9e12b656784ad10cbaa3dd163bf28f1.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "水面上"
       ],
       "answer": "小鱼,游到,水面上,透透气",
-      "explanation": "描述小鱼行为的逻辑：主语+动作+地点+目的。"
+      "explanation": "描述小鱼行为的逻辑：主语+动作+地点+目的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c435e35dbc15251b4faf0b9a7f5e4e993f79816.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd4928c56267070aceb0718cd44d6bc5496286d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76eb9687c445184afb9879f07e935a36287e62e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64cfdaf4ee757864f3a116c44053297ff177a140.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/157bb77784dcf82c444ddf0506ec7be9309e30d4.mp3"
+      }
     }
   ],
   "knowledge": null

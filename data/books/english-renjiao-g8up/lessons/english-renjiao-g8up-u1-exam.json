@@ -21,7 +21,15 @@
         "Are"
       ],
       "answer": "Does",
-      "explanation": "第三人称单数疑问用 Does。"
+      "explanation": "第三人称单数疑问用 Does。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae736c9aa65b546674f885b9d310ed02350787c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "sang"
       ],
       "answer": "is singing",
-      "explanation": "Listen! 提示进行。"
+      "explanation": "Listen! 提示进行。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b34554a5386162fde8158ddff35486e6eaa3ba6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bef9c232cea3596339c111309709fa59839e79.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

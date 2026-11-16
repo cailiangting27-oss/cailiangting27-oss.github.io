@@ -21,7 +21,17 @@
         "thin"
       ],
       "answer": "friendly",
-      "explanation": "根据“帮助很多人”推测性格是友好的friendly。"
+      "explanation": "根据“帮助很多人”推测性格是友好的friendly。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cffa7b0632a5c117ab9ea2bf6caa47a17fa8ef3d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/0117691d0201f04aa02f586b774c190802d47d8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41209342f36141100dd8dc887e9ab9dae2f71f87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b327071628b199738e6a775421f5fdd2490507b.mp3"
+      }
     }
   ],
   "knowledge": null

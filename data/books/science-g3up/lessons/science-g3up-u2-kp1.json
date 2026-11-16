@@ -16,7 +16,11 @@
       "question": "我们将杯子竖直倒扣入水中，杯底的纸团不会湿，是因为空气占据了杯内的空间。",
       "options": [],
       "answer": "对",
-      "explanation": "空气虽然看不见，但确实占据空间，竖直倒扣时杯内的空气防止水进入杯底。"
+      "explanation": "空气虽然看不见，但确实占据空间，竖直倒扣时杯内的空气防止水进入杯底。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff0cf9dfb52ea429627d6c2ae698346c42254b58.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/238abb217e5788d116df087f6d740de0c0184bc0.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "气球会漏气"
       ],
       "answer": "能够吹大",
-      "explanation": "瓶底的小洞让空气跑出去了，气球就能占据瓶内的空间而变大。"
+      "explanation": "瓶底的小洞让空气跑出去了，气球就能占据瓶内的空间而变大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab1f4b1617d531ceaeb33d59c2295f6d2a5f0e68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a599cf972f68120c83e1b7c685d690032eecd11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7dbbea829016277b8b7c14b69ea1ff4bf0a8ab0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/761f49773a01a4e0f5303233d45eab46283ed46c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92c737ec7a441c74b4d0e51b626f1f133bf79d01.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/078523e2ce1f5c50d22bfcbcd9ecf050e4fef4b0.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "如果是冷水就不会湿"
       ],
       "answer": "一定会湿",
-      "explanation": "斜着塞入时，空气会从杯口冒出，水会进入占据空间，纸团变湿。"
+      "explanation": "斜着塞入时，空气会从杯口冒出，水会进入占据空间，纸团变湿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05a5652a580ed05b3790b68a90649a6a9d797a31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f6a97f521ef3d9a182f75044fcbef7dd5c98eae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfd0f42ee694febeeebcf659a4d845ef8d0a2f4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/376986abfa3202f082334c95245f378d602a06d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a46ee28bad986ee1777a07b5e55fc3784a7461b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55765beb7bf25fee99965c8071253d2dc87b331a.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "用眼睛看颜色"
       ],
       "answer": "皮肤感觉风吹",
-      "explanation": "流动的空气形成了风，皮肤可以感知到。"
+      "explanation": "流动的空气形成了风，皮肤可以感知到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/8346918d9f3de5c8779c8b15348cfd4da605f33b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6be83f48808ec8cec0239d9141eaf560de51fc5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0939678784c509b2ed507c1cc4ada1e6584f2cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce1893365aa5dee01cd4e9dc0ef93666231895b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7015c755ecbb40aed5e44046afa3fe217599b806.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5631a01a18710d66806b004214989acd12576632.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "把充气气球按入水中"
       ],
       "answer": "把充气气球按入水中",
-      "explanation": "气球占了一定体积，进入水中会抬高液面。"
+      "explanation": "气球占了一定体积，进入水中会抬高液面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc576e08be8d45a526694a6454b81bc18ded25f9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89f5b3dfb87e0a394271e14a5b8c7b051c85406d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06648786b511849fac1069edfab48c917152f01f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06ae4d3f82fd73f2d0e37f5004f4d6c5c9b220c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d466d01361b72810b1911985be069f77bac714f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/003c02900697f2cecf128acb942251b58097d239.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +140,17 @@
         "有固定形状、可以流动"
       ],
       "answer": "无色、无味、占据空间",
-      "explanation": "科学定义空气为无色无味、无固定形状但占据空间和质量的气体。"
+      "explanation": "科学定义空气为无色无味、无固定形状但占据空间和质量的气体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f426a713a75917d84f5364950ca72b6d1b9cfb8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c70524f1c38a54b148112c2c829840180d3f1940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73fb165d6854ae0bfb87eec4d5e55a7aaaf95f07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78ab591abf9ce670a783734e14b8cc724d3939ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/396df296a81e88e3a82c063e28977dd3e25981e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55ac3462ef373f5887639a3440acf8a8bc817af5.mp3"
+      }
     },
     {
       "id": 19,
@@ -107,7 +161,11 @@
       "question": "如果要让漏斗里的水快速流进密闭瓶子中，我们需要在塞子上打（___）个孔。",
       "options": [],
       "answer": "2",
-      "explanation": "一个孔流进水，另一个孔排出瓶内空气，水才能流进去。"
+      "explanation": "一个孔流进水，另一个孔排出瓶内空气，水才能流进去。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46d3070f6e100815321913befdd3314d9362c38c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d858f912934102001a00ff03dd61bdff89a8449b.mp3"
+      }
     }
   ],
   "knowledge": null

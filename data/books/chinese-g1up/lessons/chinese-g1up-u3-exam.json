@@ -16,7 +16,11 @@
       "question": "单韵母 'e' 的发音口形是扁扁的。",
       "options": [],
       "answer": "对",
-      "explanation": "发e音时，嘴角向两边展开，口形是扁的。"
+      "explanation": "发e音时，嘴角向两边展开，口形是扁的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d91443494159aac235db17ea9aa86026ada9344.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8b667f80af36901f706550fa2f855813bf77bb0.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "看到 'xu' 这个音节，我们要知道它里面的韵母其实是 'ü'。",
       "options": [],
       "answer": "对",
-      "explanation": "x只与ü拼，不与u拼，所以xu中的u是去掉点的ü。"
+      "explanation": "x只与ü拼，不与u拼，所以xu中的u是去掉点的ü。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de6249f517068f1ab9129256fb34359bde11e00c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d90da2c0c13075ad71c3e11925ce362cbf29fe59.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "音节 'l-ü' 拼合时，也要把 ü 的两点去掉写成 'lu'。",
       "options": [],
       "answer": "错",
-      "explanation": "l和n与ü相拼时不能去掉两点，因为l和n也能和u相拼，去掉会产生歧义。"
+      "explanation": "l和n与ü相拼时不能去掉两点，因为l和n也能和u相拼，去掉会产生歧义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3be7ea2262c5b0f511159738f5e12e2d9fae1cfa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fe6143c010de1cfbb3d7dd5752f109fac3a1c9e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一声平，二声扬，三声拐弯，四声降。",
       "options": [],
       "answer": "对",
-      "explanation": "这是汉语拼音四声调的基本规则。"
+      "explanation": "这是汉语拼音四声调的基本规则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5a8474b179dcad5768116a351eaeacd12f0d1b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f63d2ab81f04057363dd8d58d5a355ccb513725.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "我"
       ],
       "answer": "衣",
-      "explanation": "衣的读音是yī，包含单韵母i。"
+      "explanation": "衣的读音是yī，包含单韵母i。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/814c47b3b0d5fcd3bbdc871df92159cfa7bef701.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6919d5be906e36aa9b9bd5593f3720aca1084eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb6d35842549dfaa32a186173866ab67e6df8add.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a10b395d781efb1cdceaa5ce845caa49766fcb41.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "塔"
       ],
       "answer": "怕",
-      "explanation": "p-à -> pà，对应汉字'怕'。"
+      "explanation": "p-à -> pà，对应汉字'怕'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a50b7174d26bbd63feab1e6bfc3d5bcee5d70883.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc1c58b84b5a695b4b628be217f6a68514cb3706.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d39044ed6984d1294a0eb3ec05b44df1885bb7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8cf911a5cc930fc3536afd37c59e276c4b71f68.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d83b8dba7c2b64e084c876d0dfc65fa43bcc648b.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "f"
       ],
       "answer": "f",
-      "explanation": "佛的读音是fó，声母是f。"
+      "explanation": "佛的读音是fó，声母是f。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52d52dd50f998bd74be7d27473e58390c90292bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d71f5ee7c92d6dc9e92ffdad17b8bd49418f98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/516b9783fca517eecbd1d064da2d165310b19759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b0d31c0d563223024da45691584643ac78c96e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a0a19218e082a343a1b17e5333409af9d98f0f5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41296279a694c512ea8ced7acad99f908b2bc90b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,11 @@
         "ù"
       ],
       "answer": "ú",
-      "explanation": "二声向上扬。 "
+      "explanation": "二声向上扬。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cdbe39447a3edaec1bd043d32256158aec12d0e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b84e4e7a31c243f7336888f81603c67f10a20a3.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +179,17 @@
         "像个门洞"
       ],
       "answer": "像小鱼吐泡泡",
-      "explanation": "ü上面的两点像小鱼吐的泡泡。"
+      "explanation": "ü上面的两点像小鱼吐的泡泡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/809a8a68ec6b686da93101a3336a39b915ee7504.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f82116789b341eb1cccd1d939e5fd1e7776978f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abac34f28039edf0de33f17833fe9784e3a84662.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea274d785fc931f6c07cecefe2ae2fadfc50db81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83abedb7027598a50c0e78e28c9a80ff7c9258f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/440e0c71c5bffcb784c84a14fb5bd25ed20f03ec.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "扁扁"
       ],
       "answer": "圆圆",
-      "explanation": "发o音时嘴巴缩圆。"
+      "explanation": "发o音时嘴巴缩圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0feec569ea8a9f3c81e804bfd9d2cf29dc2e750c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0e584d53dbe5ed9b8e7bfb154b6e8768b43032b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f20270c895f0916777d6518c30436da39122bf09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c02d08df13ccae74967098a6433e7f3db3a2ab63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bce90730c02f07b8c4e3968a1c7dfd8efb7f87a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/970ce7959c6badfe58b06f4aa99552304fe18b1a.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +226,11 @@
       "question": "我会填：m — ( ____ ) — mǎ。",
       "options": [],
       "answer": "ǎ",
-      "explanation": "m和ǎ相拼得到mǎ。"
+      "explanation": "m和ǎ相拼得到mǎ。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1bba1c4fd94cb055da3bba994a1f7c5e0130852d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4761ddffb904516bb32474f83c3186acdea0d53f.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +241,11 @@
       "question": "按声调顺序，'ā' 的后面一个声调是 ( ____ )。",
       "options": [],
       "answer": "á",
-      "explanation": "一声后面是二声。"
+      "explanation": "一声后面是二声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed51d5db927fbf4f9ac02eefb4935b53455a0669.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2b552578ac076b66c898c511a73d0b9d0976f84.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +265,21 @@
         "爸"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "mǎ-马, bà-爸, mù-木, pí-皮。"
+      "explanation": "mǎ-马, bà-爸, mù-木, pí-皮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/426ec03f215f302370085977fbcdf74b565af91b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8556f0f7f5dcb035173714dcca3e7cbb032edc3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1d8177ec540630a0db344471f81469d25ed7a34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d519f118417e68c3280eba7c0af7207dbc1c42e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55cf0d9200b16bb1192a5646292f023c74d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8294db3a2006ae4a321f7f24d76942cf922c6c2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d39044ed6984d1294a0eb3ec05b44df1885bb7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/445ba2f95952fa422830a74dc8b2f392d326868e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f1b5b049733b7015bef0149b4c262c80df66b9e.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +299,21 @@
         "ˊ"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "一声ˉ，二声ˊ，三声ˇ，四声ˋ。"
+      "explanation": "一声ˉ，二声ˊ，三声ˇ，四声ˋ。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b40505a784a71ab90b5d3d8e2c0891c757be871.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1bfe0f48d3ddb9814aa9cfa5fd028bde4581159a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d20bdab5bd8fb8cbae8bc6a8a36824b95e5ea95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9db527408617c14fcc3cd6b972d7d353c7fd9da5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbb25372707b3a30628ba4ecb72305c155c118cd.mp3",
+          null,
+          null,
+          null,
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b9184c6f7665aef73c6cfe626982a85a5dbefd4.mp3"
+      }
     },
     {
       "id": 22,
@@ -222,7 +328,16 @@
         "小兔"
       ],
       "answer": "小兔,在,打鼓",
-      "explanation": "句子逻辑为：谁在做什么。"
+      "explanation": "句子逻辑为：谁在做什么。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d75acca573e6e02dc6eb3ed623e48cb1b3159b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf15a6e8a3d77f470c3b73a7406270360676056b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a956e44da1d0e7dbe8c5a71e4f8b2ebe4d5382c.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "地震断层"
       ],
       "answer": "火山活动",
-      "explanation": "火山喷发停止后，火山口积水形成的湖泊。"
+      "explanation": "火山喷发停止后，火山口积水形成的湖泊。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/752704e32dc09503a62488969b261f6f34cdfaea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca620402c9e0099dfd93826a8047680522f3faea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5dff82e7813099a85d4063e50eb6047393c22be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9450de783393780595103e8e29d84e1ac50fc58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93f5c61dd9deaec362bbbe1e294f3e420e17567f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a4f8edf0ca532d797da534eb4434998089ff277.mp3"
+      }
     }
   ],
   "knowledge": null

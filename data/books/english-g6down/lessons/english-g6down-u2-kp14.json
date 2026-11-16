@@ -21,7 +21,17 @@
         "No, I do"
       ],
       "answer": "Yes, I did",
-      "explanation": "Did引导的一般疑问句，肯定回答为Yes, I did."
+      "explanation": "Did引导的一般疑问句，肯定回答为Yes, I did.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7072c5c28bbd2869c2fb19570fb4a9742e1d037.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/016f7e70f1614dc50965a665dfe93612b7b1cc8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2d6370846e75362ec47eb1f9562098f698c8d90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1fa9097595870888be4208459bd452ddc9df5cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcbece48c59d39abf83d4c7005f96a3a4f81d8dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b62072d1e29737202ae3c29f88cd18f66b7641d9.mp3"
+      }
     }
   ],
   "knowledge": null

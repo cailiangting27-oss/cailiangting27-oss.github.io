@@ -21,7 +21,17 @@
         "发布预报"
       ],
       "answer": "数据收集",
-      "explanation": "天气预报始于全球各地的气象站点数据收集。"
+      "explanation": "天气预报始于全球各地的气象站点数据收集。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5aa1c6bbf31cb31e5fcc21a8ec30d92c93066ae1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/08f5e54f0659cd2248229b99e9442e0b9936427a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06555bea073fd5859dee41e7656c3e073403e04c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cff0584ceffe44e5e89ea3c98dfe292b9f66fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c4147fd8ff45026c4f919a7a0a12374d95dfdad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f7c7611135e624f9be212af51259735ebe9c742.mp3"
+      }
     }
   ],
   "knowledge": null

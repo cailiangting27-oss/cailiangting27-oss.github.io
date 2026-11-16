@@ -21,7 +21,17 @@
         "No, it isn't"
       ],
       "answer": "Yes, it was",
-      "explanation": "storybook的主语是it，was开头用was回答。"
+      "explanation": "storybook的主语是it，was开头用was回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8abf5a9c0cb66352de421e2b10426fb93df4d3a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/425f66529b6edb208d89f6ce451267814109d9cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd99accb32be09b462bd803af7e8e19d23c1684f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33856b62e4d3ca63f7592adb6b384e39aab8efc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4097b3e18d75f00e968ff55cad5628e0000a1488.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed8d43ba3464d44bc4ece51093d22c2174faa688.mp3"
+      }
     }
   ],
   "knowledge": null

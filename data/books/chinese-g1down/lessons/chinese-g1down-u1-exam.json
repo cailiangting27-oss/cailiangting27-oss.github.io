@@ -16,7 +16,11 @@
       "question": "字母表里 R 的下一个字母是 S。",
       "options": [],
       "answer": "对",
-      "explanation": "字母顺序为 P Q R S T..."
+      "explanation": "字母顺序为 P Q R S T...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56b960c6bf470dca1a55d01b5c153da9ff704d32.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec1d546bfc67928b29cc8b56837c035fd694d631.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“秋霜降”中的“霜”通常是在春天出现的现象。",
       "options": [],
       "answer": "错",
-      "explanation": "霜降是秋季的自然现象。"
+      "explanation": "霜降是秋季的自然现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab1cdc8e4ff143e9097f2335778a2046a5701a76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5c1249f194e810d815e2b54ab4e8b4862d5bc5b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“请”字的偏旁是“讠”，表示这个字和说话有关。",
       "options": [],
       "answer": "对",
-      "explanation": "言字旁的字多与语言、说话、礼貌语有关。"
+      "explanation": "言字旁的字多与语言、说话、礼貌语有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/562d2597700aa03ae1f028ce9254e43c49f272a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bde7387cb9d5cf293c66b86b91ca0512cf245969.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "谜语“双木不成林”的谜底是“相”字。",
       "options": [],
       "answer": "错",
-      "explanation": "“双木”是“林”，此处题目说法不具逻辑，通常是指“相”字包含木，但双木是林。"
+      "explanation": "“双木”是“林”，此处题目说法不具逻辑，通常是指“相”字包含木，但双木是林。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d6cda4db9cb9902d1d4946138d3f86ebf8ef961.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db8b49197bc39f892d714e5cd783c6c6b3663b8f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "鱼、鸟"
       ],
       "answer": "出、入",
-      "explanation": "“出”和“入”是动词，表示鱼和鸟的动作。"
+      "explanation": "“出”和“入”是动词，表示鱼和鸟的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63e7828268c1414ac7de27ce388abbc3e10dd038.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/63f84b865024a191e82bb968482d5573421117a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/445309bc4680ad2d018e835d1dd810cce26b5991.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a53044c57e7ed04dbb5dd124d51bb85f04e5d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb7009da93226a8ea0cccc265ff64a857991f929.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f6b5e1d6eca195ef3d1e30edc7d0769c97fec6c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "不是姓"
       ],
       "answer": "复姓",
-      "explanation": "两个字组成的姓氏叫复姓。"
+      "explanation": "两个字组成的姓氏叫复姓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4ca81cde299afc1d20b0d71ea9ac57558fe135e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a82c0e4bde78d04e23096587698e3b0179178c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88b9b422f5737f22321872129a7963a4e2d0c66c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5701664abc8d73dbf9ab006107ef1605e048c99b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1a88aea3c44bfe3aac63576744b78706abf5fbc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/570c0614959f7d035625370430b2b23e57b7087d.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "抱"
       ],
       "answer": "拿",
-      "explanation": "上面是“合”（人+口），下面是“手”，合起来是“拿”。"
+      "explanation": "上面是“合”（人+口），下面是“手”，合起来是“拿”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ede0b8a86550b5e903af21c065e3511d89bebd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1cb63f35c87870d422ef290c25a765f1b7822785.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/748adc7ea108e937793ea13229c91c664661e25b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b1bae0eaddd36b0a6ea8f8bfcf58d82807420f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bdef4dfd98c7430bda47559c8cb8710d7f6a62f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e334da0cbfef7aff11ce2378b0c483c5824bec1.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "晴朗"
       ],
       "answer": "晴朗",
-      "explanation": "“晴”代表晴天，阳光灿烂。"
+      "explanation": "“晴”代表晴天，阳光灿烂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a65c4c8a08478a268a70af9396de97ce8b60995.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b94ed83e391b4749ef316bc874104aa8af8ed2cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/bae5555301b1e15c59b8fd75a6c7d57c342a21e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33650a129e92b7774ef2aac96b3ed38d3493768a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9a91151a416a6b9f6d4ccc24188bee9554be5b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/622f1794f54b114b9dd3a285ca5805960c5b6e27.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "好坏"
       ],
       "answer": "时间",
-      "explanation": "春夏秋三季是按一年中的时间先后排序的。"
+      "explanation": "春夏秋三季是按一年中的时间先后排序的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8dde60d49ee313d70d5e7c47179d0b2f470e88ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c999d484a3a2ad686cccc959583e2329884a333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9c5941cf726eb1c57dd220b339e41cd655419ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e91656a4a1c296b4429922d6d7b1b54247bab69.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "5个"
       ],
       "answer": "3个",
-      "explanation": "分别是：青、睛、请。"
+      "explanation": "分别是：青、睛、请。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce397ce178b36987824d27d3761918c9309af3a5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25345846d1f388047f33f6d9061f6f2d67a37007.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "一年有四个季节，分别是春、夏、秋、（___）。",
       "options": [],
       "answer": "冬",
-      "explanation": "一年的四个季节是春夏秋冬。"
+      "explanation": "一年的四个季节是春夏秋冬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6b1f27417dc3343741d7362dad4883e192aa0e6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21bde8df15d23eec0f01336f00b67ff9901505d9.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“河水（___）（___）天气晴”，横线处应填：",
       "options": [],
       "answer": "清清",
-      "explanation": "课文《小青蛙》：河水清清天气晴。"
+      "explanation": "课文《小青蛙》：河水清清天气晴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/035edf74c9cbb7b11898e6232a50ef311bcfd9d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdf7b62fb06ee0ca20eecd10cbfa7707f5ae2e6b.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "b"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "Q-q, R-r, B-b, G-g。"
+      "explanation": "Q-q, R-r, B-b, G-g。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39b1e1bf466846bdc6f9fe6a572cba1b3e6c2ed4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3156e00d3c2588c639e0d3cf6821258b05761c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06576556d1ad802f247cad11ae748be47b70cd9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae4f281df5a5d0ff3cad6371f76d5c29b6d953ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a36a6718f54524d846894fb04b5b885b4e43e63b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc7c9ec434ed06502767136789763ec11d2c4b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22ea1c649c82946aa6e479e1ffd321e4a318b1b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54fd1711209fb1c0781092374132c66e79e2241b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d71f5ee7c92d6dc9e92ffdad17b8bd49418f98.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b921617dede53dbfb2e2f376542a56d3f1fd440.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "霜"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "吹风、落雨、降霜、飘雪。"
+      "explanation": "吹风、落雨、降霜、飘雪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/9106644b624038e1cf60daae441edddd89d516f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b1bae0eaddd36b0a6ea8f8bfcf58d82807420f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c4d004095d514a8710faa3b2821038e02e44dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5edea29b72cf17f0ca1b6c0603b6be7f732a68f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38f2022b1907c9c1291da28df9e600d4ce44b289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edb1bf53955508b7bbf85d5706885c68948d420f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/5179369ca1653801a0fe3cd76c90360bac4a1ea1.mp3"
+      }
     },
     {
       "id": 22,
@@ -222,7 +334,16 @@
         "常见的"
       ],
       "answer": "常见的,中国姓氏,有很多",
-      "explanation": "主语是“常见的中国姓氏”，谓语是“有很多”。"
+      "explanation": "主语是“常见的中国姓氏”，谓语是“有很多”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86a009fc1f9f1453417194f882fd53f6a8de92f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e150110513606b14cfe7ad1e48b26b92a58a16f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa5cf58e784f0103420b1e389fb952f9cbd5e9f5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/1409f5c48d677cbdd76c91d185830cb95d0e2972.mp3"
+      }
     }
   ],
   "knowledge": null

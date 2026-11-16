@@ -16,7 +16,11 @@
       "question": "the biggest 表示‘最大的’，双写了字母g。",
       "options": [],
       "answer": "对",
-      "explanation": "big是重读闭音节单词，最高级需双写末尾辅音字母再加est。"
+      "explanation": "big是重读闭音节单词，最高级需双写末尾辅音字母再加est。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42c164d7591b3d0c6f6948bed014c9e191438edb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b856d4b99a10cd1c510501bb5d523bbb6b7a8d5a.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "the hottest"
       ],
       "answer": "hottest",
-      "explanation": "形容词最高级前已有the，后面直接填hottest。"
+      "explanation": "形容词最高级前已有the，后面直接填hottest。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/1234128e19eb6319ac2b0b34b11029b2d6ae0aa6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29a6a6e11b07bdf74723a144e935e34afa4607cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13b198748f6bc00290423fa65ac90618744fd8d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e137a90a57b15aaa0290ea97669f62e190070db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17cd5b8c0fa65461c50470303380bcacd8bb8828.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "Winter is the _____ season of the year in China.",
       "options": [],
       "answer": "coldest",
-      "explanation": "冬天是一年中最冷的季节。"
+      "explanation": "冬天是一年中最冷的季节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa074f79abb42d956d8343639a1860892a6d257c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e208c44034b9c1e935bc1660024efa9d5bf08aad.mp3"
+      }
     }
   ],
   "knowledge": null

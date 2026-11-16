@@ -16,7 +16,11 @@
       "question": "$12 + 18 + 20 = ?$",
       "options": [],
       "answer": "50",
-      "explanation": "$12 + 18 = 30$, $30 + 20 = 50$。验算：$50 - 20 - 18 = 12$。"
+      "explanation": "$12 + 18 = 30$, $30 + 20 = 50$。验算：$50 - 20 - 18 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80fc80cc7a0dd705213bb8be635b81c9141404df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec3a2a0d4c1d8ca0c70ea829cc5722649633ed4f.mp3"
+      }
     }
   ],
   "knowledge": null

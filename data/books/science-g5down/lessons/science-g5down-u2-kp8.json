@@ -16,7 +16,11 @@
       "question": "改变橡皮泥的形状可以使它在水中由沉变浮。",
       "options": [],
       "answer": "对",
-      "explanation": "将橡皮泥做成船形增大排开水的体积，浮力增大，从而能浮在水面。"
+      "explanation": "将橡皮泥做成船形增大排开水的体积，浮力增大，从而能浮在水面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8f1f44ce9ac368d2cb8bb24464e04dd0ad2f4a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f15fffd0f407235e11db365b7fe710e3bec62e0e.mp3"
+      }
     },
     {
       "id": 22,
@@ -27,7 +31,11 @@
       "question": "物体排开水的重力等于该物体在水中受到的（___）。",
       "options": [],
       "answer": "浮力",
-      "explanation": "阿基米德原理：浮力等于排开液体的重力。"
+      "explanation": "阿基米德原理：浮力等于排开液体的重力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/824ccf3513f14b8aaf29c2d95d05d02830d68f98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f88fe3765d34c9d554aedc00a5eac0003c1c3b74.mp3"
+      }
     }
   ],
   "knowledge": null

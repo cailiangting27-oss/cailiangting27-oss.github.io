@@ -21,7 +21,15 @@
         "will do"
       ],
       "answer": "did",
-      "explanation": "yesterday evening 用过去时。"
+      "explanation": "yesterday evening 用过去时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "was"
       ],
       "answer": "will be",
-      "explanation": "表示对未来的预测。"
+      "explanation": "表示对未来的预测。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37d41699bdee4fcb969ca499eb0f8b82c60d59cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63598c8403839b15d65b94754346a3e722eb28c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3"
+        ]
+      }
     },
     {
       "id": 7,

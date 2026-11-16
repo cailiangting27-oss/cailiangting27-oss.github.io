@@ -21,7 +21,17 @@
         "人力"
       ],
       "answer": "人力",
-      "explanation": "摇橹是利用杠杆原理，靠人力驱动桨叶产生推力。"
+      "explanation": "摇橹是利用杠杆原理，靠人力驱动桨叶产生推力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81467c4203172b505989b071d7f59e4e432a4d9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c56fd6a049753378083d0fdd1ac45c7e235ac14a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b8eeda10bc032a71375ef0a973ab272308ce2c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/765124adf4d6036448e42327587535b0475968af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd4ef61ba3f7acf7d64ec526ec428d138e1df17c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26029c0541acf146be0d941ace2ad961847dc33d.mp3"
+      }
     }
   ],
   "knowledge": null

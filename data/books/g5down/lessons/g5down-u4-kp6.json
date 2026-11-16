@@ -16,7 +16,11 @@
       "question": "通分时，分数的值变大了。",
       "options": [],
       "answer": "错",
-      "explanation": "通分是根据分数的基本性质，将异分母分数化成大小相等的同分母分数，分数的大小保持不变。"
+      "explanation": "通分是根据分数的基本性质，将异分母分数化成大小相等的同分母分数，分数的大小保持不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c8b331632770c8c9ae2b19e5e6c6934bf1e733f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37585dc066e20d8e7e2059bbdbc40305cdb0614e.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "通分：12和8的最小公倍数是24。$7/12 = 14/24$，$5/8 = 15/24$。因为 $14/24 < 15/24$，所以 $7/12 < 5/8$。"
+      "explanation": "通分：12和8的最小公倍数是24。$7/12 = 14/24$，$5/8 = 15/24$。因为 $14/24 < 15/24$，所以 $7/12 < 5/8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77289430fcbe769c847560d42c05a9faed30a4fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08fc08d17012e3a6fe29b867a190cffe0686e5d2.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +56,17 @@
         "无限个"
       ],
       "answer": "无限个",
-      "explanation": "两个数的公倍数是在最小公倍数的基础上不断乘 2, 3, 4... 得到的，所以有无限多个。"
+      "explanation": "两个数的公倍数是在最小公倍数的基础上不断乘 2, 3, 4... 得到的，所以有无限多个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad2889da5741556cf83c133c5cb11b24d803dfb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af2c69d5944782b9dc4f2a3ccba5ad0fc894dba9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04b000d76c6a3793a9a37d60a53d72f6946d8ee0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1f022c41fbc52efd8d09e409c25b17bc9a14fa2.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +77,11 @@
       "question": "已知两路公共汽车，3 路车每 6 分钟发一次车，5 路车每 8 分钟发一次车。它们同时出发后，下一次同时发车至少要过 ___ 分钟。",
       "options": [],
       "answer": "24",
-      "explanation": "求 6 和 8 的最小公倍数。$6 = 2 \\times 3$，$8 = 2 \\times 2 \\times 2$。最小公倍数是 $2 \\times 2 \\times 2 \\times 3 = 24$。验算：$24 \\div 6 = 4$, $24 \\div 8 = 3$ ✓。"
+      "explanation": "求 6 和 8 的最小公倍数。$6 = 2 \\times 3$，$8 = 2 \\times 2 \\times 2$。最小公倍数是 $2 \\times 2 \\times 2 \\times 3 = 24$。验算：$24 \\div 6 = 4$, $24 \\div 8 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b16905b8e8b13ffb5952977b96675b1146cf6c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47a51dc6e174d1ff738578408c43de6802179a10.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +92,16 @@
       "通分时只把分母变了，分子忘了根据扩大倍数进行计算",
       "求最小公倍数时与最大公因数的计算方法弄混"
     ],
-    "tips": "通分主要用于比较大小和异分母分数加减法。"
+    "tips": "通分主要用于比较大小和异分母分数加减法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/8057181a193d92a6488e893295b8b18bfecdad72.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/79/791408409b7bc85e3861a044be4a1d451e169bdc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2c/2caf8ba5d54df6b726cc78a2197b4085d884796d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3b/3ba15671e3ed0f9ca2260e9ec8621a438b50c8e7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4e/4e6a13f81382b87cee2e0d8374fa2372fe6282a3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/92/92d5aaf59fba5bef824ef687e75079fb0cd1d898.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "岩浆和岩石"
       ],
       "answer": "地壳和地核",
-      "explanation": "地球结构由外向内依次是地壳、地幔、地核。"
+      "explanation": "地球结构由外向内依次是地壳、地幔、地核。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7af930a8422248633587d082119190a9bfeb5e38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/cab966723030117333a7e91ae9cb46822a7f3b77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35b19f84b659fb4d49556530d668ddd075a881b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e56fefaee88d55fac232934ef59ddb9bf0662a38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0fd79b31d689fade7840d702dbc4e051a6d4184.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/888aa950b5a4693248d5eb3e533ded1693169a84.mp3"
+      }
     }
   ],
   "knowledge": null

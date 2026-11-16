@@ -21,7 +21,17 @@
         "I have a bag."
       ],
       "answer": "What's your name?",
-      "explanation": "What's your name? 是询问姓名的标准句型。"
+      "explanation": "What's your name? 是询问姓名的标准句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad64b27604016437f7366f16d5c8b4427214dbf5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c17f01e88cd1082b2bfcc3b3e782b394c36fccf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23603d5375d54a4481806bf763b9b13372a7d331.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f4345b3147cd2228af60367c78449ba3106af8a.mp3"
+      }
     }
   ],
   "knowledge": null

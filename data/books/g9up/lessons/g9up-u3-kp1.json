@@ -21,7 +21,15 @@
         "无法确定"
       ],
       "answer": "相等",
-      "explanation": "同圆等圆心角对等弦。"
+      "explanation": "同圆等圆心角对等弦。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a69fd718415d2c27a3b49df05e5741b095f05cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f557065c37ccd77169c0d0340995c5934978c03.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     },
     {
       "id": 2,

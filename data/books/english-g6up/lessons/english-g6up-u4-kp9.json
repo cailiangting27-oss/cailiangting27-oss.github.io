@@ -21,7 +21,17 @@
         "is live"
       ],
       "answer": "lives",
-      "explanation": "主语是 He，动词 live 要用三单形式 lives。"
+      "explanation": "主语是 He，动词 live 要用三单形式 lives。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bb2c7daf04c3e25d2eb635f5a872fe0a100a771.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98aadb37083eddd855c27feccb15dc8c5b127fd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25596ab9d8d1f53c836cb4d11c801d84f56b8e22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54785b354a6fe9bf52260b665ca34e8469dcfb18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d338deed2e4bb0fcc28d48eefaf00c75bb157c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/225763883db05405c5e03e995a9b09a09ded64ec.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“丰硕”的“硕”字声母是 sh，不是 s。",
       "options": [],
       "answer": "对",
-      "explanation": "硕是翘舌音。"
+      "explanation": "硕是翘舌音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4186983ea651a254c222b7a9ae95ce79e709951.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54d8def1f3288b41e418cfb89c287c9d96fcf2cd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“自私”是一个褒义词，用来形容一个人很有主见。",
       "options": [],
       "answer": "错",
-      "explanation": "自私是贬义词，形容只顾自己利益。"
+      "explanation": "自私是贬义词，形容只顾自己利益。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1ef7a14e78723bad9de81d40d148cb85c7048e2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48c95ffede50e1fc3194c9b39fef0f55bbedc4c7.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在《海的女儿》中，小人鱼最后变成了天空中的云朵。",
       "options": [],
       "answer": "错",
-      "explanation": "小人鱼最后化成了海上的泡沫。"
+      "explanation": "小人鱼最后化成了海上的泡沫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5c301efd3d883f0adfe20043c59553828957320.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd71a3098a74015e04a1082e70bc6b2189d6a501.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“难道这不是一个奇妙的故事吗？”这句话的意思是“这不是一个奇妙的故事”。",
       "options": [],
       "answer": "错",
-      "explanation": "这是一个反问句，表示肯定：这是一个奇妙的故事。"
+      "explanation": "这是一个反问句，表示肯定：这是一个奇妙的故事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d8c5a14632365cf669963f666716c080d22d821.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2e15e07922bec23b22452422eec08b126b55f33.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "就在（确定位置）"
       ],
       "answer": "就在（确定位置）",
-      "explanation": "此处的“就”表示强调地点。"
+      "explanation": "此处的“就”表示强调地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7ca298134efa0282520c0f65e4d269f61c5954c3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57b1f7c1bc5c5bb21c0a21b44e8103d3e783cd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0328a7a6bcbea973ea254b00cb55152f14a3afaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5868f489e82441567bc18f0e41df2972357ec992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02a42664dd3fb33353c9b09eed4530d971862e7e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/593562e69fbfe4b3b8c6efe66e695627d0737593.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "如果……就……"
       ],
       "answer": "只要……就……",
-      "explanation": "这是一个条件关系句。"
+      "explanation": "这是一个条件关系句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdc35303b6e5b948fbb984d2986b9aef11f43a1f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cdb4bdf8584d25e603a43c4e89b5e079e75b9e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0452eac398fa3dd3c95ffae843eacdf86baab1ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9a9907fac350d90806d0a1142d170345051098c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "丢弃"
       ],
       "answer": "忘掉",
-      "explanation": "忘怀通常出现在否定句中（难以忘怀），此处用忘掉最自然。"
+      "explanation": "忘怀通常出现在否定句中（难以忘怀），此处用忘掉最自然。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/244bd6e00d78ccf3f20d258f3c1602a6fd199e21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41ef2cfcbfeeedc8178d85520b77a3c02824bb14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c3c503920a7d0b6da6fbac9db4f4fadaf744d84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4691c22204f442003c2c8b5940bb4b3cc8005660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea4899468caefcf8e8aa42b12401f83b1f588c87.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/918b011402cf56f2ba0db933290cdda660dfee19.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "德国"
       ],
       "answer": "英国",
-      "explanation": "奥斯卡·王尔德是英国著名作家。"
+      "explanation": "奥斯卡·王尔德是英国著名作家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2132278860ff2d23eaa32a3653445bf1240abb53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d10935506364f071b3c70bdf2eeb1f677f29c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec90e84c8fa409f0463e21aeabdfa849ebe573d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/503a462f0c096e3a91f445550139e9c41867f0a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a47ffaee59f9a5ca23a5573aed9454ae9d90f1df.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "因为围墙太高挡住了阳光"
       ],
       "answer": "因为巨人的善意唤醒了美德和生命力",
-      "explanation": "童话中环境与人物内心世界往往是对应的。"
+      "explanation": "童话中环境与人物内心世界往往是对应的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be6715b3aad9c9774f3e4a9458d85958dfbd33f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87ef74fe65af6bbd3d41a2ecd81c42f976c70c4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cbbb4ce7cc4ee402adc7415986e5750ce77d57f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a46239f9c59c0c3ea0fedc56cf21f942be846c4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3044df46a5de6e2519d35f262e587fe8d6731fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23ffe1322b0db8b3fdb97a00f57bf452c12aaee2.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "全班同学"
       ],
       "answer": "一个人也不告诉",
-      "explanation": "按照秘密的规则，他必须保守秘密。"
+      "explanation": "按照秘密的规则，他必须保守秘密。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89730848f31077d990c92005e4552160a6a325a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2b328721b3d6f4e6fe0fe62b28e5778d7c5fdd27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea34d5a4bfb88f41ede8ca69ce5739baf61b4f82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c74ec08aa0e08cabfbd8e4442fe1ed2569500e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/846769a910bafeab90c0d1d4ac2b6d1630ec481b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36e5b8b4c63df2397c1c07307a5a20cfc614310c.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "jìn shēng 的汉字书写为（    ）。",
       "options": [],
       "answer": "晋升",
-      "explanation": "考查生字表重点词汇。"
+      "explanation": "考查生字表重点词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11626a21557df6e531f7d3f0f55ed2211a78b2ae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/765a8ab2e0eff993b616ddff2d47d85e2c193c5f.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "在《海的女儿》中，小人鱼用她的声音向巫婆换取了（    ）。",
       "options": [],
       "answer": "双腿",
-      "explanation": "小人鱼为了见王子，将鱼尾变成了双腿。"
+      "explanation": "小人鱼为了见王子，将鱼尾变成了双腿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4f9ab495abde542ab7170a230c83c9155ffcaf4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/280fce99813c91afdb86130066e53caa7eab8d6b.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "绽放"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "普通-奇妙，凋谢-绽放，幸福-痛苦，温柔-粗暴。"
+      "explanation": "普通-奇妙，凋谢-绽放，幸福-痛苦，温柔-粗暴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c914344c750e49a5b268d0dbc932e8a3e8a6787.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7cda072d452bfa8e00409ec2abe889d088522ce8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a13923de3ef3253cc56d2deb521630f7f889046f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d5e0b8c423b42bb36a2da259e40245dc1e8031.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f98066a3c39519e2df7ee1a67f0fdf857dac25d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/508510701136e5e1ef6d11ecce00091df1c85d66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b88843cb1cd193d60006817e9fba871f5a6fa32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ebfcf52cd1bc74ebfe9447da5633f6fd1363b50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b94e563834d79b506610b20b3e2c383e2364281.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b37159e20e121bdf9e47248494093c249fd3782d.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "希望与神圣"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "考查对童话意象的理解。"
+      "explanation": "考查对童话意象的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bed2da055ba3ee0f6b0aad7e03554a5fccb7ac06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80734884f00749229817b1045a94f746c72d6edc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d209292c3481ab523cf1b12f4d7c74bb70d682f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c8c3ce3b512a95d5373e3f1db2f4eb56db6ef27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cacfb72ff2757996aad427cb01080d0222309fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/963781edf5dee6d984247dc74458cea3f27e666d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6158197089ae5e8f05d0140ed3f725e9b82a019a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13ae91b977734792e83c1e052424421323bd161e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9226660fee40fd0a62d78a7573031d810df6148f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4bf7ec4f26d71f40a725b0e3b7a101620ce9f46.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "钓鱼"
       ],
       "answer": "王葆,在小河边,静静地,钓鱼",
-      "explanation": "主语后接地点和方式。"
+      "explanation": "主语后接地点和方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/647cde4626818230c6c8e96c71e119f250e8a51c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/907e0aadce94de82921595281e52411a71640789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00e0984e976803bf2dcb308092b9d5c7a1d38af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc3fcdaa3591b09ad3941c352e4788ba739ff61d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/812483019772b4e6e3fafa401a871360919fc84e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5a05dc79dc03e8a9474f65bd84fdd806ad92889.mp3"
+      }
     }
   ],
   "knowledge": null

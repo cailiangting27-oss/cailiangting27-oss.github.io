@@ -21,7 +21,17 @@
         "炸裂"
       ],
       "answer": "一直不亮",
-      "explanation": "检测器本身如果有故障，则无法完成检测任务。"
+      "explanation": "检测器本身如果有故障，则无法完成检测任务。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69aa58893039e0d55438aadf94c9fbc271be65a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46672b5337ad89ba502bc02b1517db3a55a1a849.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48dc7f95d2065befef49b3921d04a65d6353ad57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46ae840a65f85ce973d8a76521e32fe28b4b2ccd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a08572d30fee508fe1bb8c081350baf326148d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8866c3315b4730210d95f2ae34d253a4ff4cc760.mp3"
+      }
     }
   ],
   "knowledge": null

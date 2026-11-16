@@ -16,7 +16,11 @@
       "question": "地球公转时，地轴的倾斜方向会随着季节的变化而不断改变。",
       "options": [],
       "answer": "错",
-      "explanation": "地球在公转过程中，地轴倾斜的方向保持不变，始终指向北极星附近。"
+      "explanation": "地球在公转过程中，地轴倾斜的方向保持不变，始终指向北极星附近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64bdb30b354c1ed6a1ac012fa5ad41daf7315bc6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78a18c7a45d9691306a28f8c9a5ba7031e1b3936.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "冬季"
       ],
       "answer": "夏季",
-      "explanation": "地球公转轨道是椭圆，北半球夏季时地球位于远日点附近，四季成因主要是地轴倾斜导致阳光直射点变化。"
+      "explanation": "地球公转轨道是椭圆，北半球夏季时地球位于远日点附近，四季成因主要是地轴倾斜导致阳光直射点变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cabaf52500c4f76c569e6c2c708e5ae2eced4719.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a141bbae833329f2f0d0985e79f2d1401b624805.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "自北向南"
       ],
       "answer": "自西向东",
-      "explanation": "地球自转和公转的方向都是自西向东。"
+      "explanation": "地球自转和公转的方向都是自西向东。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/983b274c1d8f8fbae1cfd1dcb6461ec45330833c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0ee4d6ce183dbef4c3edc98418fe38cdebc89d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20566ba3e1849aba2b420c77da3fdeec025aca11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f0b66f359fcc6fa93ae5859029af41bed2a9b20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a07e37226c05d7ba0d470084ce758aa194da31e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/030537a2712bfb4f4e6a876e3dbb6033d2214235.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "地球绕太阳公转完整的一周，需要的时间大约是（    ）天。",
       "options": [],
       "answer": "365",
-      "explanation": "地球公转周期为一年，约为365天（精确为365.25天）。"
+      "explanation": "地球公转周期为一年，约为365天（精确为365.25天）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f61a08bda4825d4f878b193c354ba5be11ea70e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd3fca0eb1c3bf6a7d4c30e0018ec1ebae689421.mp3"
+      }
     }
   ],
   "knowledge": null

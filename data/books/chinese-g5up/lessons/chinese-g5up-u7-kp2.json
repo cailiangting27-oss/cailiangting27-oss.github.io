@@ -16,7 +16,11 @@
       "question": "《四季之美》是按照春夏秋冬的时间顺序来写的。",
       "options": [],
       "answer": "对",
-      "explanation": "课文分别描写了春天的黎明、夏天的夜晚、秋天的黄昏和冬天的早晨。"
+      "explanation": "课文分别描写了春天的黎明、夏天的夜晚、秋天的黄昏和冬天的早晨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/8063ee38803adee5bea88150aa9294e58f28fba3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/190983b828426ba20acdd1989591aaadd5a219b5.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "夜晚"
       ],
       "answer": "夜晚",
-      "explanation": "诗中提到“月出惊山鸟”，说明是夜晚。"
+      "explanation": "诗中提到“月出惊山鸟”，说明是夜晚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7ac0d23d6f7a5d48b58d79261e1b7bfe447de119.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f15523fb8c40fd3b751fca2193902928d9020fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/697b80373ae8bd351bbb73d2c5dd599b708c0d1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ef2d60e42faf8d380fee7b17a4128cbdab36bc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/640265ca584fa1dee264dbede028b8a200efedd2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cf5cf94d4b557560a67e8a303252e9fd03cd015.mp3"
+      }
     },
     {
       "id": 22,
@@ -49,7 +63,18 @@
         "时"
       ],
       "answer": "夕阳,斜照,在,西山,时",
-      "explanation": "出自《四季之美》中对秋天景色的描写。"
+      "explanation": "出自《四季之美》中对秋天景色的描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d85a630df8772c0d392ce7f7bd1c0a78221655ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14aa4ed50223e4ea2ff066c3872c13cdc870519f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d9e14c7be0e40b9aa7e5d029ec1a9f6711dd5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85f5fe4e2c708a9718ccb4335e5c35c16ec446d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a34801ad9c1073d622f2b790e2e0631a49dc15eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0147b25ef0eff3383c4f9ff0b7c2240d42b40e1e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -60,6 +85,16 @@
       "观察视线跳跃，没有明确的方位感",
       "在描写四季时混淆了不同季节的典型意象"
     ],
-    "tips": "描写时多用连接词，如‘转过身’、‘向前看’或‘到了黄昏’，这像导游的‘口播’能带路。"
+    "tips": "描写时多用连接词，如‘转过身’、‘向前看’或‘到了黄昏’，这像导游的‘口播’能带路。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/af/af5c7f3a47c057f5f3aca9154c5f4aea63545f0c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4e/4ea8ff3b0c46757d33e354f995c3135a99983b18.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7f/7f62e02e7f95175c7ea09310b2ac34b41dce6c55.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fd/fdd2bec57ac716f1f7632fbad25ed90cb230c04d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fe/feda8bec69778c0a7910645fb4479ff0790efd68.mp3",
+        "https://api.clthuanxie.cn/cc-audio/67/671bc3a0e7228b4789198b0dbee142bb413b0c81.mp3"
+      ]
+    }
   }
 }

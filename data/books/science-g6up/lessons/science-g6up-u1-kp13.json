@@ -21,7 +21,17 @@
         "细菌"
       ],
       "answer": "细胞",
-      "explanation": "洋葱表皮是由一个个细胞组成的，显微镜下可见明显的细胞壁界限。"
+      "explanation": "洋葱表皮是由一个个细胞组成的，显微镜下可见明显的细胞壁界限。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43bf6a16b15dd97378b65a38f6be44a5fb78d84f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/4791d593697ce72fda672e552f2c2108dbafd508.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a12c6b38186c2585c77b537f8bb865af97edf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c71d064802993e225e5c89261e2b1b6163cfd4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40f41557e600535e5976bda9736c1b76d74d3b00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4542c5c60500189803c2a8dfe20238222a127f2e.mp3"
+      }
     }
   ],
   "knowledge": null

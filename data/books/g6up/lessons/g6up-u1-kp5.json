@@ -16,7 +16,11 @@
       "question": "1 吨棉花的 $\\frac{2}{3}$ 和 2 吨铁的 $\\frac{1}{3}$ 一样重。",
       "options": [],
       "answer": "对",
-      "explanation": "$1 \\times \\frac{2}{3} = \\frac{2}{3}$（吨），$2 \\times \\frac{1}{3} = \\frac{2}{3}$（吨）。所以重量相等。"
+      "explanation": "$1 \\times \\frac{2}{3} = \\frac{2}{3}$（吨），$2 \\times \\frac{1}{3} = \\frac{2}{3}$（吨）。所以重量相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef83d3feb04d381010ec28437eff5b78670c2937.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fb729673dcc539396c0304a98bea3801ad54819.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "$\\frac{1}{5}$"
       ],
       "answer": "$\\frac{3}{5}$",
-      "explanation": "剩下 $1 - \\frac{1}{5} = \\frac{4}{5}$。剩下的比吃掉的多占：$\\frac{4}{5} - \\frac{1}{5} = \\frac{3}{5}$。"
+      "explanation": "剩下 $1 - \\frac{1}{5} = \\frac{4}{5}$。剩下的比吃掉的多占：$\\frac{4}{5} - \\frac{1}{5} = \\frac{3}{5}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d6e4f56ae55110f48da5e918369d45c61f7baee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac40ce1434cda0943c408cc185f5976212d95801.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd03d5b164ae8b40db27a6f8ddb20d9d43f95fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca2297526ede0e6c616802ca72adf69c82518f25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d129a7b3c0bf9fbd0693afdd426a66d2a0a8c3ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bf353c2e675f7d0805872a3f6e39febf37e2e67.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "100 万元"
       ],
       "answer": "110 万元",
-      "explanation": "列式 $100 \\times (1 + \\frac{1}{10}) = 100 \\times \\frac{11}{10} = 110$（万元）。"
+      "explanation": "列式 $100 \\times (1 + \\frac{1}{10}) = 100 \\times \\frac{11}{10} = 110$（万元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd749b24c5d0adacf4904c66a5ee99bc0728afd3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db7eafd3f45b32d9a584b4178ed1f9554ff4d789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fe6121b7f886cd554cbff49013cbc2f2ba99063.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ca2f3efb7aec4222d1ac5b88f567e6fd257a610.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53c8f4b75b04f458e40096b1a88f3626479fc1e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f84d36eee52d0937c2125afb216182a87b43255.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "无法确定",
-      "explanation": "因为未给出钢管的总长度。若总长 1 米则相等；若大于 1 米，则第一根剩得长；若小于 1 米，则第二根剩得长。"
+      "explanation": "因为未给出钢管的总长度。若总长 1 米则相等；若大于 1 米，则第一根剩得长；若小于 1 米，则第二根剩得长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53b36890a490054cd30c1b689a5c354170a20492.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2e64942f576723f8c32c18a29b16d03e505dfc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15d13062b61adc2d4f0bfe29e2092112c9236e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e770ffce11cb354abab8468b31c7f606f7cdc35.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "小明有 60 张邮票，小红比小明多 $\\frac{1}{5}$，小红有 ___ 张邮票。",
       "options": [],
       "answer": "72",
-      "explanation": "小红张数 = $60 \\times (1 + \\frac{1}{5}) = 60 \\times \\frac{6}{5} = 72$。验算：$(72-60) \\div 60 = 12 \\div 60 = 1/5$ ✓。"
+      "explanation": "小红张数 = $60 \\times (1 + \\frac{1}{5}) = 60 \\times \\frac{6}{5} = 72$。验算：$(72-60) \\div 60 = 12 \\div 60 = 1/5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04840c7e08d276d93f0da161ecc64f5be774073c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d971c324bc7fa7de633c5336a0cd559004de6177.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "忽略了“比...多”中的“1”，直接用单位“1”乘以分率",
       "多与少的运算符号搞混"
     ],
-    "tips": "先把“多几分之几”转化成“是单位1的几分之几”，即 $(1 + 分率)$。"
+    "tips": "先把“多几分之几”转化成“是单位1的几分之几”，即 $(1 + 分率)$。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/32/32027b6404c3a01b0559e9ffe3165fa52d631eaf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/be/be56eae485b0f0a2d267ccad9b7b9792e5200fa3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/80/808f19831cc15a6a11144809456197ac21492ed0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/13/13192e59199dcc8f80dc4c851436dcf3d062dd0f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/45d9d1fd1a9255b65ea0a5a5c7099d9cf310d755.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8e/8ef681c878294122f5e811758f7d074a90c53648.mp3"
+      ]
+    }
   }
 }

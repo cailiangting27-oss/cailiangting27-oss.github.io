@@ -16,7 +16,11 @@
       "question": "“夏雨落”这个词中，“落”字描述了雨从天上掉下来的样子。",
       "options": [],
       "answer": "对",
-      "explanation": "课文《春夏秋冬》中描述“夏雨落”，体现了雨的方向是向下落。"
+      "explanation": "课文《春夏秋冬》中描述“夏雨落”，体现了雨的方向是向下落。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18277a2665d7136803ed660e946020b85a40350d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/eda470df3f5f1897412d1c36f4bd344fc67c17fc.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "夏雨飘"
       ],
       "answer": "春风吹",
-      "explanation": "《春夏秋冬》中对应为：春风吹、夏雨落、秋霜降、冬雪飘。"
+      "explanation": "《春夏秋冬》中对应为：春风吹、夏雨落、秋霜降、冬雪飘。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eeb9a3c9c2cd671ece69c5d3a0dc98a2fc6b2536.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c6abb0999ea304ddbdb53023209b609de33179.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c045d7f20a7452ee8261fa7f2dafbe33c7f314cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c95f4925731399b729a9b71ef57e44ab07bcf2a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8192f018a988e08c3aa51193ad61e3086cd2308.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e3cdfe35eacc07dfbae224b42247689caac8dba.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "冬天"
       ],
       "answer": "春天",
-      "explanation": "草青花红、万物复苏是春天的景象。"
+      "explanation": "草青花红、万物复苏是春天的景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44588635143c3fef2e058e88d0590fcd10883613.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12d09b2cba08e729601bdb3027f4740746493a24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714152477ba9e1d51870643afd83050154e96456.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dc6ec1c5c99a1d2193bb82a9e24696fa423eb62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc123a5f8f7ed2ed1ebd9891423447456267744c.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "在《春夏秋冬》一课中，“冬雪（___）”。",
       "options": [],
       "answer": "飘",
-      "explanation": "课文原句为“冬雪飘”。"
+      "explanation": "课文原句为“冬雪飘”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d809da1979592a434066b397d95f34a84bb3937.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3da3f983d3d2f3894266a9d1be6e20ac66bd05de.mp3"
+      }
     },
     {
       "id": 19,
@@ -79,7 +107,21 @@
         "吹"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "春风吹，夏雨落，秋霜降，冬雪飘。"
+      "explanation": "春风吹，夏雨落，秋霜降，冬雪飘。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bac2118631109c75c33e138393d9009e9238718.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0878f35b88f62e38d69e09cdff207aec9351bb4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1db7816618f49a7b76962f0ccf157454045fc20c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0ddb27db79517555e3c17280fa9fb66f4b2ad5ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eedf483480ca5ebef05158cda5492f1b0e18b835.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c4d004095d514a8710faa3b2821038e02e44dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5edea29b72cf17f0ca1b6c0603b6be7f732a68f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38f2022b1907c9c1291da28df9e600d4ce44b289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b1bae0eaddd36b0a6ea8f8bfcf58d82807420f3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9491b29339276f3cd771731897165fbd4aaa29f.mp3"
+      }
     },
     {
       "id": 22,
@@ -95,7 +137,17 @@
         "鲜花"
       ],
       "answer": "春天,开满了,各种各样的,鲜花",
-      "explanation": "按照“时间+动词+修饰语+名词”的逻辑排序。"
+      "explanation": "按照“时间+动词+修饰语+名词”的逻辑排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/005ff4df40a1b797ffd11fe9fb21cb69b23b6dab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c90fe42904aea8a3ca24c942df12f4158cb7a233.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4633ff9092ea1490d759777035f9d143bdd183.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8da248474716e84a8f5c8638b0966956aabd0530.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "将“霜”的动作记成“飘”或“落”",
       "对“降”字的意思不理解，不能与“霜”正确匹配"
     ],
-    "tips": "可以通过动作模仿来记忆：双手扇动代表“吹”，手指下点代表“落”，手掌平压代表“降”，手指轻点撒开代表“飘”。"
+    "tips": "可以通过动作模仿来记忆：双手扇动代表“吹”，手指下点代表“落”，手掌平压代表“降”，手指轻点撒开代表“飘”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/44/4470361a244a9df57980ca59d7d1aadf659d7a71.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/02/02c6f452a315941b01457368afce7baf52626c13.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/51/51e4252bca578a7c74a8eaa3a3c5e0a904bf5e4a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5a1082be574866228b76ccd7967d20f6d2aebbc8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/25/25e225f63c1e0924d0d976ed4a9a36ec69161fbe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/66/660672ba11cadadea2cddc0ff05ae3d07313f572.mp3"
+      ]
+    }
   }
 }

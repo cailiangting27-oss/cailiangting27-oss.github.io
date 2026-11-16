@@ -21,7 +21,17 @@
         "400倍"
       ],
       "answer": "400倍",
-      "explanation": "显微镜总放大倍数 = 目镜倍数 × 物镜倍数。10x40=400。"
+      "explanation": "显微镜总放大倍数 = 目镜倍数 × 物镜倍数。10x40=400。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48781a02a3efba75e33503cc6920ebdced214c27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9dc0bd8da8cc4edbeb9791d01318bce1e92a935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21b3939f5ee54647a9ce80fbcd18db91752659d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/259708d92c8ab07d2a4fdb250e941dfaa6d9a27a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfac579f6c1d10e2862ac8ea786a2eaf6708c71c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1124713218f18866386bb33bfdb8eb7c932b721.mp3"
+      }
     }
   ],
   "knowledge": null

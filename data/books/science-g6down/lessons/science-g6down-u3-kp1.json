@@ -16,7 +16,11 @@
       "question": "太阳是太阳系中唯一一颗发光发热的恒星。",
       "options": [],
       "answer": "对",
-      "explanation": "太阳系中只有太阳是恒星，依靠核聚变反应发光发热。"
+      "explanation": "太阳系中只有太阳是恒星，依靠核聚变反应发光发热。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/668b6835eeeaed3552f13601429afad9ed7f96d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/600d63b9f124379dab8808d34453f67248b6ab59.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "北极星"
       ],
       "answer": "太阳",
-      "explanation": "太阳是太阳系的中心天体，也是距离我们最近的恒星。"
+      "explanation": "太阳是太阳系的中心天体，也是距离我们最近的恒星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a44991a7234292c853dc9279998d252c406e99ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4aa2f91c2b5c51b1732712c04d22ad8b9a479441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3935de6f7e9789f7d34bb2bbf524810c3f618c6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f27616abbcdb74f525f6461fcca63594076dfb9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49d645975e9b0f1769f956854e3a9f9c78ec287f.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "谷神星"
       ],
       "answer": "冥王星",
-      "explanation": "2006年国际天文联合会将冥王星重新归类为矮行星。"
+      "explanation": "2006年国际天文联合会将冥王星重新归类为矮行星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9fd731b8b7ac8a15379b17015471e0a2fb84b5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/085c01cbce0ea49972e6962eb73d9e3be0a59665.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e817838a22148d9ab94b439c73086cb82b0259.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/7537d29fa1aeaeaf8b7da85d0e8a925b172c8676.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8eb1989c605e765c8034f9dc86ed54a110442085.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd7b7472b4e5e67dae0d36dbab8d5c3b7f9484b6.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "拖着长长尾巴的天体被称为（___）。",
       "options": [],
       "answer": "彗星",
-      "explanation": "彗星因其冰物质升华形成彗发和彗尾，形态独特。"
+      "explanation": "彗星因其冰物质升华形成彗发和彗尾，形态独特。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e47a04ae72ee6908100c40713d172b6c6b7f1638.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/026c3586da8cae9c69b30e40d652a703d3109b3b.mp3"
+      }
     }
   ],
   "knowledge": null

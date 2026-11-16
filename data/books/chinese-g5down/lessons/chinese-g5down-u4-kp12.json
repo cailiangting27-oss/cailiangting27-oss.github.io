@@ -21,7 +21,17 @@
         "床单很滑"
       ],
       "answer": "极度的痛苦和坚强的自制力",
-      "explanation": "通过抓床单的细节表现人物忍受剧烈疼痛的心理状态。"
+      "explanation": "通过抓床单的细节表现人物忍受剧烈疼痛的心理状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db8bb8699e2f8eef418f2ee5128afd003622b32f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c9229a0ede10a22e883e83600e9dc539e46f7969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79fedc4d71f14d466d55817efbb8374e8eb6f4cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/211e683b21b844225b148a6419f62681bc9eddcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a8ff925c2de49e156469b64dbca0248db7e6950.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de7dbd809e67e4f7466e601e91551dd428f1ca9d.mp3"
+      }
     }
   ],
   "knowledge": null

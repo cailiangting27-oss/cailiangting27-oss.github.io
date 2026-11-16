@@ -16,7 +16,11 @@
       "question": "抛出的铅球在空中的运动路径是曲线，所以它做的是曲线运动。",
       "options": [],
       "answer": "对",
-      "explanation": "根据运动路径形状，运动分为直线运动和曲线运动，铅球路径是弧形，属于曲线运动。"
+      "explanation": "根据运动路径形状，运动分为直线运动和曲线运动，铅球路径是弧形，属于曲线运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32a9ba3986702f1e9caa9c5419dad29a8cd2726a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c103797f234ad898ffe2df0607b86ee53e9e68a.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "在地上的陀螺"
       ],
       "answer": "垂直下落的雨滴",
-      "explanation": "垂直下落的雨滴路径是直线；其他选项路径均为曲线或旋转。"
+      "explanation": "垂直下落的雨滴路径是直线；其他选项路径均为曲线或旋转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfe7dd8ea893bed092193eda6d3c5e825e66bfd6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7cc28a12fa754c8483a4a3fbe816dd29a9114a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a85433c96076f816727a2c4229232969cb1db9ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bf64ecc482d32112f6e7748578a9ced6f1d1b5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1d5720a875211fc533aea10faf433ae364f6056.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/898fe9b7330e7f9d0f1ed741d425c12f2f86fa96.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "直线运动",
-      "explanation": "相对于直线行驶的汽车，路边的站牌在做直线运动。"
+      "explanation": "相对于直线行驶的汽车，路边的站牌在做直线运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da44c3c9178026baaae989b3b5c898ced0f60061.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/68ca01f267a3d4bec9d0463c173f6d1b08487881.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b88e3d3064881224742718e11696f58bf37ec518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac022fd90771577a7ac5dd61655cf6426be5948f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb75e9f1c3a559d104609118e0f6f23ecdf81a0c.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "无法判断"
       ],
       "answer": "曲线运动",
-      "explanation": "指针绕轴旋转，各点路径是圆弧，属于曲线运动。"
+      "explanation": "指针绕轴旋转，各点路径是圆弧，属于曲线运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f085280932aaa328fdc5bc18cb4b7bc7e9be8c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/68ca01f267a3d4bec9d0463c173f6d1b08487881.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b88e3d3064881224742718e11696f58bf37ec518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581d8ac8376308514c4e25fde77edc35c16cca45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cec27ebe3fe0190307374d0edf8cce0a71b77d85.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +109,11 @@
       "question": "老鹰在空中盘旋，它的运动路径是曲线，这种运动方式称为（）。",
       "options": [],
       "answer": "曲线运动",
-      "explanation": "路径不是直线的运动统一称为曲线运动。"
+      "explanation": "路径不是直线的运动统一称为曲线运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a1de6cc24b5fa11202e5b46f37ac96eb3ce68e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d88c6493f8bb8f950909a44e6ec37b106119604.mp3"
+      }
     }
   ],
   "knowledge": null

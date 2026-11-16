@@ -21,7 +21,15 @@
         "/"
       ],
       "answer": "an",
-      "explanation": "apple 以元音音素开头。"
+      "explanation": "apple 以元音音素开头。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +45,15 @@
         "boxies"
       ],
       "answer": "boxes",
-      "explanation": "以 x 结尾加 -es。"
+      "explanation": "以 x 结尾加 -es。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7d8a6d722a1ec9a16fae165177c418d4fd63175.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dfd4a8846f8410d24bea4cf9c80b68a79f09d63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01c0c88339e2da5e30c38cd87828b45fccca2a3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdea96c1f9cbabecab7e4900cc9115e071978f42.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

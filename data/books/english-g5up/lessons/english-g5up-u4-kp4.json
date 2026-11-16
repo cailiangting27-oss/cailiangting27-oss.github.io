@@ -16,7 +16,11 @@
       "question": "单词 'cook' 和 'cool' 中的 'oo' 发音相同。",
       "options": [],
       "answer": "错",
-      "explanation": "cook发短音/ʊ/，cool发长音/u:/。"
+      "explanation": "cook发短音/ʊ/，cool发长音/u:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49d57f0ac47d0664a8bae177ae85e4794891eb11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f971a056b3e96efb0d53ea5d1d4b5d93468fe8d.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "book"
       ],
       "answer": "book",
-      "explanation": "book发短音/ʊ/，其余三项发长音/u:/。"
+      "explanation": "book发短音/ʊ/，其余三项发长音/u:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1aa9b04e15a7ef1470e1437661b2c39ac0f42b3a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39ccb32d95edfdbcd882f2b01809724ec640ea16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d8d76ba15bde3ef1602f477f32fd64e32fea5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c1f32a51dbf7d6943108c64980b6935762f87d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08fdcc42d84a5961d29d9f4f20751785b3c00dfb.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "光在同一种均匀介质中是沿直线传播的。",
       "options": [],
       "answer": "对",
-      "explanation": "光的传播基本规律是在同种均匀介质中沿直线传播。"
+      "explanation": "光的传播基本规律是在同种均匀介质中沿直线传播。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d34e19d4dc786ecc24d4cf14221a9930fa4a0a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/516604fe4f7800edaf04fbfb09e2f267ecf6dab6.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "镜子"
       ],
       "answer": "镜子",
-      "explanation": "影子产生的三个基本条件是光源、遮挡物和屏（接收面）。"
+      "explanation": "影子产生的三个基本条件是光源、遮挡物和屏（接收面）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1b2ce8860bdce12722e49196ee0fd134e0c4bc7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a14294838230e06d25d7c9a704fc88b442ce155.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b78e0606335cf24ec861e47c1ca450b6732bdf93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a06f4e63cdef6fdddc0a888cda00e443611ff2d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27378baf740b52183af96b1f98b6ee544ab40db5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f4e207f04c1bfa37eed15e634faafe4b96ef021.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "与原物完全一致"
       ],
       "answer": "倒立的",
-      "explanation": "由于光的直线传播，光线通过小孔交叉，形成的像是倒立的实像。"
+      "explanation": "由于光的直线传播，光线通过小孔交叉，形成的像是倒立的实像。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/7581503e266f75157fa4a1edcd11653190b8b5cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c289dd2b3dc61f0c8c83f2b78ee4d84c2677a97a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5a9a7b9fc630bbae81e760ab31e7b552101895a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0c2f69a6c1fd595f2adc0f50725ac797a072b5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/129c7b0d3dc513374a6c40c819031c103e94d445.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fd321dd30ceba022eb954962e8fcf243faf2836.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "消失"
       ],
       "answer": "越短",
-      "explanation": "根据光沿直线传播原理，人距离点光源越近，遮挡的角度越小，影子越短。"
+      "explanation": "根据光沿直线传播原理，人距离点光源越近，遮挡的角度越小，影子越短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8acaf3d3439f98396706ab07d0038bd61f138310.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1cd26ebd7fb7365fe6153258188652001999973a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdc2899c067916cc1dae8b13d118328d686711d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/456c56d97a099657511424dee24c29fb7e6d40aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c72c4cc8884c430b2132d1dada8f3753be298c2.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "光在真空中的传播速度大约是每秒（___）万千米。",
       "options": [],
       "answer": "30",
-      "explanation": "光速约为30万千米/秒。"
+      "explanation": "光速约为30万千米/秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e4fb54bceb2b33b6f719817e109b60e9dc83276.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a97b77a8f48edf2fabcee021e286a30421554ea.mp3"
+      }
     }
   ],
   "knowledge": null

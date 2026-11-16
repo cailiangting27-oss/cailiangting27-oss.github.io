@@ -21,7 +21,17 @@
         "抄写全文"
       ],
       "answer": "快速把握文章大意",
-      "explanation": "略读重在抓大意。"
+      "explanation": "略读重在抓大意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66fb73b520ce96081380094f4a4cc22b5c7631a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/431dbebb29b4bae1efdf6e821bb481ea0343ae50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/8331037b5714d4357d699b2d497f6ea7baf29e57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b573c14a38b27b61922649374ec08c1de6ed9ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dc41b83f0946eb538709b66b28913d3ddf00127.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99a9a2fe71bff88fdcc9c14b5f27f424d4ebe6bc.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "合作探究要各抒己见、求同存异。",
       "options": [],
       "answer": "对",
-      "explanation": "求同存异。"
+      "explanation": "求同存异。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98b0f06537aa8a9df9072f061fa4d94dec5505c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb0e4863b283b20dbc4514f4f342f8760780f55f.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "怪老师"
       ],
       "answer": "主动请教并分析原因",
-      "explanation": "主动求解。"
+      "explanation": "主动求解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/392f2cbbf706b361b0dc1d1449948b66c19a9c58.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcadf29e80278b1bba96cc6fa61d039297fbae0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c734c219cfc0e72b9345cfb3d5a69a7e09717e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3c7547788bb1f820db592070b81f6986b8243b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e1796285eaad1327ce3680c62dee18c5d0704c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24ba3e47e465d60a4bf5c75dd621ea54de856196.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "广泛阅读有助于拓宽视野。",
       "options": [],
       "answer": "对",
-      "explanation": "阅读拓视野。"
+      "explanation": "阅读拓视野。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c7df6e91a4972973946e40c8a047771630e092c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4644c260f85b5acdbd3001b6db20c1def1ffd639.mp3"
+      }
     }
   ],
   "knowledge": null

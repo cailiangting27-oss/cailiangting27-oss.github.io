@@ -21,7 +21,17 @@
         "开会"
       ],
       "answer": "知道",
-      "explanation": "这里的“知多少”意为“知道有多少”。"
+      "explanation": "这里的“知多少”意为“知道有多少”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd03a3e0f57644fa3c980723f7def0651caecf57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/5892219e9e875e63beb8dbce005a762460bb2a01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfe711b501651223a1e1cc100b6d9b729f1a3793.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afd92514501762a8c86471a33f0858bbadef953c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/059bee4782c004cc4a8ed9cec28d054dc9c02a8d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd1563cebe331245685b689ac36c664ed136a596.mp3"
+      }
     }
   ],
   "knowledge": null

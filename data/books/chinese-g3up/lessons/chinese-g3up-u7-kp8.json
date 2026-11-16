@@ -21,7 +21,17 @@
         "滴答"
       ],
       "answer": "响彻云霄",
-      "explanation": "响彻云霄形容声音非常宏大，穿透力强。"
+      "explanation": "响彻云霄形容声音非常宏大，穿透力强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e039013705448110d44749613ac3aa270312bcb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a5fa45c1213d8f316a8500c122ba041a206ee283.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac79a3e60a08aff7ca898f2d0e4dac7119c3001c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b7244fa9ebd33bd9eb10c9c228f3a25ebf66e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26e6b6e14f058309c650cbb3ee82790fbcddb274.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62b56e4db17906406257d58ebf7d35a97965f0ea.mp3"
+      }
     }
   ],
   "knowledge": null

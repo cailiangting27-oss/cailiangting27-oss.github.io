@@ -21,7 +21,17 @@
         "Great!"
       ],
       "answer": "Haha!",
-      "explanation": "当别人说'我真傻'时，通常是幽默的互动，对应答语常用Haha。"
+      "explanation": "当别人说'我真傻'时，通常是幽默的互动，对应答语常用Haha。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aace6755488a3a083295932dc53348abc1c2f3c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6099fe716243d239f9d6081bf25d806adf5a41ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be0f1a26be5dbccee770b26806aeda4c712a8775.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcb352d92249a2cdff0047d849eed81c04867c11.mp3"
+      }
     }
   ],
   "knowledge": null

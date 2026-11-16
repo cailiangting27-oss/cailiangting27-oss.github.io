@@ -25,7 +25,21 @@
         "情绪低落"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "心急如焚对应非常焦急，心旷神怡对应心情喜悦，胆战心惊对应极度恐惧，垂头丧气对应情绪低落。"
+      "explanation": "心急如焚对应非常焦急，心旷神怡对应心情喜悦，胆战心惊对应极度恐惧，垂头丧气对应情绪低落。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea3c8289b1143c4e9a6cc5a786f5a2f8a016c2ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/454d51ebeff116d67972ee383427372aa678a7d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f310f595cfce449c60b817a2877ac832c8ff928b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/823d244a5087640b02536857d892e1f7ad637db9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b10009a2e9990303c5ea06df60b928882df57da8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8f29c21a7b6e5ad38e61324b815120b09b3bdf7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81ba4dfac054461b8b903466d5948c3a1b831ee4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/787db18114b8d1e8b2f899367a88c20be294e11f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c06d717320f2c2fa49c4c0f47252d346a9d4a687.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dcc957a13911dbdd0eee649080e006e940026288.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "助词“的”"
       ],
       "answer": "助词，取消句子独立性",
-      "explanation": "主谓之间，取消句子独立性。"
+      "explanation": "主谓之间，取消句子独立性。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/66/66d77ecc9a09a9aa4003e557ddf8d3f45b011b2e.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

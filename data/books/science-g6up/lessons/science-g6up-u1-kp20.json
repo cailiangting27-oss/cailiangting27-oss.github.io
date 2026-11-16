@@ -21,7 +21,17 @@
         "调节旋钮"
       ],
       "answer": "调节旋钮",
-      "explanation": "通过旋转调节旋钮升降镜筒或载物台，可以调整物像的清晰度。"
+      "explanation": "通过旋转调节旋钮升降镜筒或载物台，可以调整物像的清晰度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b6026004d1d12dfdfb609df769209dd48f95bd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/673011f3e6570fc5d072cc19782a4e1134753476.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c5aafacafcd1878958ca76aa5c0be3c1c907d49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb503eca305057d08a04b3e07ebe9531f47219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55c384e0efa49949c14270d88ea3b88dfa96df3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be183d8e080b45c3b1895655ab89e492c7c769c7.mp3"
+      }
     }
   ],
   "knowledge": null

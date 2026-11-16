@@ -21,7 +21,17 @@
         "云层的重量"
       ],
       "answer": "跳出海面的吃力感",
-      "explanation": "这是一种拟人化的写法，表现太阳升起时的缓慢、有力。"
+      "explanation": "这是一种拟人化的写法，表现太阳升起时的缓慢、有力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb8e3b393c55eedcf85cab43b3a60b1dffc8b655.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d9ec83f0b7276ed22d8b38d909d343aefb98f708.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebee0ba12652e4868715360e776763eb90002d35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ee6cda1bab40f5164b34f03ba7eae7d66b83d42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73fb5d004edbb1c076aa2484c577cb21860f60d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc69630dd600d4fb8fe23a4ab5a49b2f9a175558.mp3"
+      }
     }
   ],
   "knowledge": null

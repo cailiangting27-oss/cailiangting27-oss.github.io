@@ -16,7 +16,11 @@
       "question": "汉语拼音字母“G”的小写字母是“q”。",
       "options": [],
       "answer": "错",
-      "explanation": "G的小写是g，q是大写Q的小写。"
+      "explanation": "G的小写是g，q是大写Q的小写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f97126c7714320cc3093f4760b1b6614750d3a7f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e9036d7cb086b04c8cc46c55a9c2d4d7d4cd2b4.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "P"
       ],
       "answer": "M",
-      "explanation": "按照字母表顺序：J、K、L、M、N。"
+      "explanation": "按照字母表顺序：J、K、L、M、N。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c3cc1dd72060e7f3c9f20ae605ce120e50c63d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63ae6dd4fc9f9dda66970e827d13f7c73fe841c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08a914cde05039694ef0194d9ee79ff9a79dde33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/511993d3c99719e38a6779073019dacd7178ddb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd663bc6d666b1aaa1445e8f2177d986b03736d9.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "F—f"
       ],
       "answer": "D—b",
-      "explanation": "D的小写是d，b是大写字母B的小写。"
+      "explanation": "D的小写是d，b是大写字母B的小写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1757db6836f64fb05a2dd93769e0b8438e1d7fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25c856d10a3393f50d2ac751bc13447b540d30bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ecdf2b52cfa8ce12819b4fb56ab85a1dc278dff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce9f059f260a75e4ea277065a5e8cdb2a42e6f4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdcb6469d4f32fa5b0e8d709d879bec6c1a227e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1142865d99c171db05c0b47d77a813c76e4f2fe.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "将b和d、p和q的大写形式混淆",
       "大写字母L、G、M的写法不标准"
     ],
-    "tips": "可以借用英文字母歌的旋律来背诵汉语拼音字母表，同时注意区分语文读音与英语读音。"
+    "tips": "可以借用英文字母歌的旋律来背诵汉语拼音字母表，同时注意区分语文读音与英语读音。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a6/a6a9ce315b88b38828950ee69c8504871c1fc592.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/48/4891a059b1d73a2c2452f07acb6f0d4b997d1888.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6b/6ba0b311241a65845662432c3b2a493ddf9fe338.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9d/9d6ac90ad5e9f91fa43c8615e74aa3a5c66fe33e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e5/e5f23028c180bc809f83468e834978d629736e6f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1f/1fadf01c8aa5357ca20ad731c93681aafaa03de9.mp3"
+      ]
+    }
   }
 }

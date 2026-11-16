@@ -16,7 +16,11 @@
       "question": "粽子不仅好吃，还带着一种清香。",
       "options": [],
       "answer": "对",
-      "explanation": "依据课文，粽子有箬竹叶的清香。"
+      "explanation": "依据课文，粽子有箬竹叶的清香。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36e6e2c315456b2347c26bc16a5605badbe79fef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51e8b4434ec0738bc56d87de84fbbed3c2838d1d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "写“门”字时，那个点要排在第一笔写。",
       "options": [],
       "answer": "对",
-      "explanation": "点在左上方或正上方，先写点。"
+      "explanation": "点在左上方或正上方，先写点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d164469c1a8cffe6ebb8d7c2765141c2ff40d18.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a72f73a8ba9e69d7796f33af3c4d2b36c5fb5da.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“低”字是一个左右结构的字。",
       "options": [],
       "answer": "对",
-      "explanation": "单人旁是左边，氐是右边。"
+      "explanation": "单人旁是左边，氐是右边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/928dcc9dd935fbdc38f8ad96af9a489c97f2a7cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4708f66c7ebc8f5881e148e0b07054210a49334d.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "长句子只要读得快，就不需要注意停顿了。",
       "options": [],
       "answer": "错",
-      "explanation": "语速快慢不影响停顿，停顿是为了理清语意。"
+      "explanation": "语速快慢不影响停顿，停顿是为了理清语意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1bc54b292045bde4bbd5ad20c8231fb8553918d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1ff294f233839a421ef885701000187126b0744e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "方"
       ],
       "answer": "我",
-      "explanation": "“我”字右上角的点是最后一笔写法。"
+      "explanation": "“我”字右上角的点是最后一笔写法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e88f4145debb62a1d40cc0ade7bd23fa8683c2c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fbf71355e95cdcc513efef339ca8481c068f8b0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57b3e135628504bdc47a2f46ec4426b82d10ed5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e9c5afd29ffae27771b3ce257fa7aca735084a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/949f2e298e0fd3bed7e741a1b4109b7ab236ef88.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "天安门"
       ],
       "answer": "彩虹",
-      "explanation": "雨后天上的桥，在童话般的语言里通常指彩虹。"
+      "explanation": "雨后天上的桥，在童话般的语言里通常指彩虹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be8886e883336d8a7be345c4f8428b804bd59079.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/2286048b7011f98af0cad64292865e7d6dbedba7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d96159c8f7496b808ee019ea3b1c17488c5c3a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd7881eb96b76217571f557dffb1ab3ba69c79ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aadc3b351973add58cecda9c373b9834dd463e0e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20aabb7f55fca24492a38492e3066b19decc6114.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "吗 ！"
       ],
       "answer": "吗 ？",
-      "explanation": "第一句是疑问句，需要用问号。"
+      "explanation": "第一句是疑问句，需要用问号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdaea1fba6ba645a922a2701d1572582424a01d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b4c0e88070ac9ef1fc05259c6b83b33bc69753f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6198f044bf1b07343130d61374c1b2317744b312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dcd0a45a9103c58b57c66a8cde8d6bd2776c41a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5208a121a8faced2b938da98dd8a136f7383f094.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e25e779af7622dcbbbb7c2098ae98f7274029b0.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "你/会从天上洒下/雨滴吗？"
       ],
       "answer": "你会/从天上/洒下/雨滴/吗？",
-      "explanation": "状语“从天上”后，动词“洒下”前后停顿最清晰。"
+      "explanation": "状语“从天上”后，动词“洒下”前后停顿最清晰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b2d9be80ed4e2e08cd8098c9105b6486af839ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77f6a1198c754edbe99fe0697b27c154313f08b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41c4ed80c62b789fc7c7c016714023ba9c00d43a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72da01a636d67a5df0527c26f593b02eeef5b48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8cc308f3879cce5acf2c960a735b79724cced17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a044d58b3b3d4c3723bbcd2843c11ad5eaf4beae.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "夸张"
       ],
       "answer": "比喻",
-      "explanation": "把月亮比作大银盘。"
+      "explanation": "把月亮比作大银盘。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a34fc02f8308b18b0564487783c395866820ab15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/961016f50781a14dc5e8b571bdd910657c44511e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "天气很热"
       ],
       "answer": "心里很得意或很开心",
-      "explanation": "美滋滋是描写心理愉快的状态。"
+      "explanation": "美滋滋是描写心理愉快的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a45d5c0b452e5fa821ea109321dff826a1b69336.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb657730401a9e910fa7f6e7b3b1f9bac3fa52b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/166aa321692ae7cdda026a3124b6435b4d6cd460.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1de0ac375d67dde8739be7cf6be29b7be3ff985.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc03cc4ad9589f2f4836e3353be0f30282625d5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8a40e353f1653e63d9d4292997bceb448cb78f7.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“思故乡”的“思”的意思是（ ）。",
       "options": [],
       "answer": "想念",
-      "explanation": "思在这里表示思念。"
+      "explanation": "思在这里表示思念。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/253578eb67a1b546e8eb2039fd37d6f81cbd8611.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f4f0bde63e3e22594b93ad3bfd7cfd377f98bd9.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“抬头”的反义词是（ ）。",
       "options": [],
       "answer": "低头",
-      "explanation": "根据《静夜思》：举头望明月，低头思故乡。“举头”即“抬头”。"
+      "explanation": "根据《静夜思》：举头望明月，低头思故乡。“举头”即“抬头”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/151b7783c7d3cfeeeecd4f68de9846c3e23740fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9ddd50c489cdf56f4f434bda1d650dac0dc3f4f.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "单人旁"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "低、像都是单人旁，粽是米字旁，放是反文旁。"
+      "explanation": "低、像都是单人旁，粽是米字旁，放是反文旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d564dfa5ba90b86e9dd9f383cefa08bd0c060ccc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ee259b7f6c09793b0c372030ad09f5eb2eb9c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6967b59e3d6331c36cae7c3022c8aa222ff55d0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92256d885c6768ced2e993e60f0e5ef9f51ab69f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33e62db22b89b5b78ccbdbcba247c74be0dfc702.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8cce554b8269f7e8481dfa617201acd044bbdaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f20af6b828ecd323c32e3935b97f7c73605fb406.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8cce554b8269f7e8481dfa617201acd044bbdaa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fc9159d69300bb67043f29e9b5f2dd58b30472e.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "粽子"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "基本的动宾搭配。"
+      "explanation": "基本的动宾搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3bfd8b4ac8ae03043db0b5b3b1ec7d8fa6132dc9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/860fe2bcd431febcdf3f0721dab8f315739c4a91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e358ba2b73b57fe8706f46269bd33872e3fb096.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e396634c6ced0074b335fc1c9d69ea61d228359.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f386ebdbb5c625d91efda6339fc24fe7ccd92be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afb3c40c392903c76acc22de6d5204baf20cf378.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8bfe646d432f61b790508a1c5eeb68a977a43c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba723f5f1db568ccb07b5b8923e84ecbe55c7494.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be459e0eca779929391ff4c761c501d6d12343ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb1bd1b11181dc51fc71d2a404350c9fa1fbb94a.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "月亮里"
       ],
       "answer": "我,做过,月亮里,圆圆的,各种各样的,梦",
-      "explanation": "来自课文《四个太阳》或类似语境的长句子考查。"
+      "explanation": "来自课文《四个太阳》或类似语境的长句子考查。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8cba127b059d7abf522e81a5dbf6a7d2600272a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/005ff4df40a1b797ffd11fe9fb21cb69b23b6dab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6da733a0b357f4749cfad4b5691e4cc3fdb80ec6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b60a05df13c8f09f8147ce56d4a76bf1b9c8177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c69cce93e42cf287974f9a05cb367f0475cf911.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9437294f1ad877562d8d41f51dc51cfdb6c7faa7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b035b1c436f38f0287e0f92124cec6ed3ba9428.mp3"
+      }
     }
   ],
   "knowledge": null

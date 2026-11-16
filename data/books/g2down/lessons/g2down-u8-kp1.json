@@ -16,7 +16,11 @@
       "question": "1个2分硬币约重1克。",
       "options": [],
       "answer": "对",
-      "explanation": "根据生活经验，1枚2分硬币的重量大约就是1克。验算：1是克的基本感性衡量标准。"
+      "explanation": "根据生活经验，1枚2分硬币的重量大约就是1克。验算：1是克的基本感性衡量标准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fab2e9f723a4f7caf49b81884620cf00c606a122.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4ae5f6caabf8b9b69fd3b8a1fd8e3493f0b83cde.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "测量一袋食盐的质量，通常用“克”作单位。",
       "options": [],
       "answer": "对",
-      "explanation": "一袋食盐通常重500克左右，属于较轻物品，适合用克作单位。"
+      "explanation": "一袋食盐通常重500克左右，属于较轻物品，适合用克作单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/732e733a0c60dc8a90524cf319665978f41d53d5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b662fe5a1dad19b0f1925f5a8dc8d32620a73227.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "100克"
       ],
       "answer": "10克",
-      "explanation": "10克比较符合实际。10千克太重，1克太轻，100克大约是两枚鸡蛋的重量。"
+      "explanation": "10克比较符合实际。10千克太重，1克太轻，100克大约是两枚鸡蛋的重量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e77a179cea5a03423b9d8f62d9c05abacb9cfcf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/497ac65c5d01e652dd9e3919cbf81312667f48f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80383a5c2cc6b48c3b134765edaecaf312d04022.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/824eea976dbcd16aac1bead84ce9b0b309bcaa4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79626bd392678357cc44dfb425e4f87527d27067.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/682769693a426240486b2ac4685a743e92d064e8.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "100千克"
       ],
       "answer": "100克",
-      "explanation": "一个普通的西红柿重量约为100克左右。"
+      "explanation": "一个普通的西红柿重量约为100克左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe2a422fef00e02d293e1550769d04d01058ec71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/79626bd392678357cc44dfb425e4f87527d27067.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/497ac65c5d01e652dd9e3919cbf81312667f48f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6de0a4b66b279da8e0be97883e98db518b8b06c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/172ac45ff48a142550e711587328e2e94a80b382.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3dddb810d8c5178ef09f52b421fd332f11adc7f8.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "30千克"
       ],
       "answer": "3千克",
-      "explanation": "正常成年公鸡的重量约在2-4千克之间。"
+      "explanation": "正常成年公鸡的重量约在2-4千克之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a99a2c7bafdc976034435ab7531188408a7d503.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/49c3ff9ad824f8fa0cdfa07d0d2e3909414f94d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abcdf47dac6074bf98c0eb915dc10f67b7cf9167.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d75a3e8facb0d1dfef83e0a6fbe9d8936d71d993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea306c0dc5b1d755bd878ac62ac1447a925db78d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08dee59204ebb073bbfe109650c4a790dac24839.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "米"
       ],
       "answer": "克",
-      "explanation": "花生米很轻，应使用质量单位，且因为轻，应选“克”。"
+      "explanation": "花生米很轻，应使用质量单位，且因为轻，应选“克”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54797961e344be83cfea8d46d31cdd3acf66be99.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9f67bd55cadc0af64da8f4fdd68eb5b95c6f78a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7083090cfcc4d4e783b361cfc33aeb1098876442.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8be8aafd5e53b01d695e247359cd2af77216d96c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "将克与长度单位厘米混淆",
       "对克没有感性认识，认为一个小球重1克（实际可能100克）"
     ],
-    "tips": "记住“1枚2分硬币重1克”，用这个标准去估测其他轻的物体。"
+    "tips": "记住“1枚2分硬币重1克”，用这个标准去估测其他轻的物体。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/02/028c1b2749e07960fbc4adfcf8ffff526e10f457.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8d/8d1c22d07b613e446028c49f410d4647718c18a3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3bddcde5ff79f1ee5fe2fbc32cddd0269eb80c3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/09/09888ad3bae0d6fde4a04d2e118f286097924ee4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e4/e462350596f869af4583b7fa74fb4ee3bcb48650.mp3",
+        "https://api.clthuanxie.cn/cc-audio/97/97c98336edb1c6ce582a9f33a5a874720cecfb85.mp3"
+      ]
+    }
   }
 }

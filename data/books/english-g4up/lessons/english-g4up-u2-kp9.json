@@ -21,7 +21,17 @@
         "She"
       ],
       "answer": "It",
-      "explanation": "问句提问color，且代词用it，回答应用It指代物体。"
+      "explanation": "问句提问color，且代词用it，回答应用It指代物体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/638c8d72cf0c99f9b44aa5033ab79c8552c2923b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d211477f30ee85035d96b2695672c7976ba8d430.mp3"
+      }
     }
   ],
   "knowledge": null

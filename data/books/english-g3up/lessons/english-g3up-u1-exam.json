@@ -16,7 +16,11 @@
       "question": "'I'm Zoom' 意思是 '我是 Zoom'。",
       "options": [],
       "answer": "对",
-      "explanation": "I'm是I am的缩写，意为“我是”。"
+      "explanation": "I'm是I am的缩写，意为“我是”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9e435eecc03a82ed9fad40fdda5b05d79b30a56.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2d6faab6a215bfaa605c3e90b84ab118555f5be.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "单词 'pencil box' 的中文意思是 '书包'。",
       "options": [],
       "answer": "错",
-      "explanation": "pencil box是铅笔盒，书包是bag。"
+      "explanation": "pencil box是铅笔盒，书包是bag。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a574e6e47445ddfe6128f0f2cc046adc7c1275cc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06cf2c3f9cefdb33a50681672f7eafd166bf7132.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在 'I have a bag.' 中，'a' 放在 'bag' 之前是因为 'bag' 第一个字母是辅音字母且发音为辅音音素。",
       "options": [],
       "answer": "对",
-      "explanation": "辅音音素开头单词前用a。"
+      "explanation": "辅音音素开头单词前用a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83a98753ca9d63de09f3a3db774aa1835c56c682.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21e553312cfc3c0c679be4e369121174e07185a9.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "别人和你说 'Goodbye'，你可以回答 'Bye'。",
       "options": [],
       "answer": "对",
-      "explanation": "Goodbye和Bye都表示再见，可以互换使用。"
+      "explanation": "Goodbye和Bye都表示再见，可以互换使用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e5125e52a12378bd315bec7453ca890a17e145e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9cffca5fdee67d2f5a800b4851e323912fd9b6a6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "book"
       ],
       "answer": "crayon",
-      "explanation": "crayon表示蜡笔。"
+      "explanation": "crayon表示蜡笔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb6724ce67ed75e437bff95633c1d5f328c793e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fc512490a15036460b5489401439d6da5407fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be869cf4a4e31001428dbb2d077e000b1c54121.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f774a4713361aec2147f28d1d61c308ed7e2c1d.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "My name's"
       ],
       "answer": "Me too",
-      "explanation": "Me too意思是“我也一样”，常用于回应相同的动作或物品。"
+      "explanation": "Me too意思是“我也一样”，常用于回应相同的动作或物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b366b1991bffa37c2a18e0422aa307bc1174ce32.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43932ff34182915e6ad662f3876eb0cd388fef93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94dd9e08c129c785f7f256e82fbe0a30e6d1ae40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58ccfa241cf39760b8a4036708f04cff243f2eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6afc55b377bc4636031aba32a3ac46c7a8f20480.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "pen"
       ],
       "answer": "Hello",
-      "explanation": "bag, ruler, pen 都是文具，Hello是问候语。"
+      "explanation": "bag, ruler, pen 都是文具，Hello是问候语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75c6a9089762c53459e5d3e28c08c22b71a3f4b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db1364dfe73a76ecd0a3fb87192001feffa3bada.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "/"
       ],
       "answer": "a",
-      "explanation": "bag是辅音音素开头，用不定冠词a。"
+      "explanation": "bag是辅音音素开头，用不定冠词a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f928fbfb03ef09602df14f80f0642278824cb22.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60d054f56c00d1a78df6bcad1c88f40f9768c74a.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "名字"
       ],
       "answer": "女士/老师(未婚)",
-      "explanation": "Miss用于称呼未婚女性。"
+      "explanation": "Miss用于称呼未婚女性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/5937e4f7519679d749e5d905ed88d66b1c7e1492.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dca5907037555374b9ba73fe2ed0f5185bc384fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/692f12fff8291936e93c0aed2a818befed8480dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/552caeb5bd540dc59cae5b73aa6b2a55a2c6f3b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/364bd1bf0580d2328e475cdd0ab24d0516a970a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1c9aa6788df7e25231c1daadd41a901cfe17bd9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "He is name John."
       ],
       "answer": "This is John.",
-      "explanation": "介绍他人使用 This is...。"
+      "explanation": "介绍他人使用 This is...。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/4608e854988d837ffa60e4961aecf62bc1cdd965.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9eae8e40bce93dfbb09cf9b427d0db9f6ebc6d64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/993b970dacc74b00e197d00a1e2bd6d92066847e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c71f447d1e0a63091e696422be6cb3282a5934c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a90483ead24843cc27f77daf7fd293406f590ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a3c70d6bf8f740701f6da87656a8d3b3ced3265.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "___! I'm Mike.",
       "options": [],
       "answer": "hi",
-      "explanation": "常用hi或hello打招呼。"
+      "explanation": "常用hi或hello打招呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a9756561ef720b1f70724098de5efc1aa47a6d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd52f3864ac20d9d34dac380bec955fd9f62c2f6.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "I have ___ apple.",
       "options": [],
       "answer": "an",
-      "explanation": "apple是元音音素开头，用an。"
+      "explanation": "apple是元音音素开头，用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fa527295e8b10715034bba446150e6733c5cf31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b62324dfe6329d217cc3b8394dc9d20bc4a624d9.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "I ___ a book.",
       "options": [],
       "answer": "have",
-      "explanation": "表示拥有物品的动作。"
+      "explanation": "表示拥有物品的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45724c985fb2e5c22b736e0febf81f59ac5a349e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ac6d0a0c21545a3164b483a08e4a18d7260428d.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "铅笔盒"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "eraser-橡皮, crayon-蜡笔, pencil box-铅笔盒, sharpener-卷笔刀。"
+      "explanation": "eraser-橡皮, crayon-蜡笔, pencil box-铅笔盒, sharpener-卷笔刀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/7611445ad765e560ea53f872aa7257ab65e86ea6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fd761b6e2ada5dbe995912daf2eeb7d503f94298.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be869cf4a4e31001428dbb2d077e000b1c54121.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b242e7ba704668d059ba0143d671ee7aa3e39612.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58c8074b5c6cbf7f3ff9eea2121e6f0a598c6b9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbf91ff8951c076ff7871b86a0953e3f2466bd24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85c5ac5971c927c52d7e54bd7310a67686309605.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b46bea004b1bdabf303cb8d5a88c9c5d43ca0b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1252f257064e0ff0516f88ac57be6715814b448d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d034f0b8a0cc91ed0c23fab17c6a2ece28982955.mp3"
+      }
     },
     {
       "id": 22,
@@ -213,7 +315,16 @@
         "Sarah"
       ],
       "answer": "I,am,Sarah",
-      "explanation": "介绍自己：I am (人名)。"
+      "explanation": "介绍自己：I am (人名)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d24e087f504af9366c8376d8a7143821dfd38427.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ecf605a7a5ac051fb09a88f1e324031fbc510f0.mp3"
+      }
     }
   ],
   "knowledge": null

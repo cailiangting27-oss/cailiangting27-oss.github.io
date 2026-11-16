@@ -37,7 +37,15 @@
         "hobbie"
       ],
       "answer": "hobby",
-      "explanation": "hobby 爱好。"
+      "explanation": "hobby 爱好。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54b7e849c6d2b68afd41a96c447276f840797e82.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

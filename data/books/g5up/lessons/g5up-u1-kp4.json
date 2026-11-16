@@ -16,7 +16,11 @@
       "question": "$2.5 \times 0.4 \times 1.2$ 可以利用交换律先算 $2.5 \times 0.4$ 比较简便。",
       "options": [],
       "answer": "对",
-      "explanation": "根据乘法结合律/交换律，$2.5 \times 0.4 = 1$，口算非常简单。"
+      "explanation": "根据乘法结合律/交换律，$2.5 \times 0.4 = 1$，口算非常简单。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc7c3cdec756f473f3dcbd8bcbbcce07fa562dae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a492a88bcee48805baa5f90609e0c0f77b6c9d85.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "1.25×10-1.25×1.2"
       ],
       "answer": "1.25×8×1.1",
-      "explanation": "$8.8$ 拆成 $8 \times 1.1$，利用 $1.25 \times 8 = 10$ 计算最快。"
+      "explanation": "$8.8$ 拆成 $8 \times 1.1$，利用 $1.25 \times 8 = 10$ 计算最快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a23157f699a4965ca95ed717848f9c41178870ec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbfbf619179ed06d61283aa6d05aea3a817d36ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9944aaea2cc9ec9a695af4e7d8eddbd71a680171.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c92adf12a5191a41d67331e095741d4eb9035cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1687f9aada8d28d42a08d1e55327e71f0dfaed93.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92fd05b3fa507913b91346ecf6da3a5228c132d9.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "0.707"
       ],
       "answer": "7.07",
-      "explanation": "$0.7 \times (10 + 0.1) = 0.7 \times 10 + 0.7 \times 0.1 = 7 + 0.07 = 7.07$。"
+      "explanation": "$0.7 \times (10 + 0.1) = 0.7 \times 10 + 0.7 \times 0.1 = 7 + 0.07 = 7.07$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23ee61b90c22c2010190be9891a4956c6ca12198.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/300534adfc4b2c710840be43c9f85e0a9ef858c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a53a7020f5014c3c46abf7c2e460206e04bf007.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce42d3170ac7ff7638bbbe9fcb6a6f1f6222d25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3ae19cc90f570fa93d9442d61560be80d499b61b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/854ad03b1eeff8264a654269f4b87016ab1f089d.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "计算：$4 \times 0.25 \times 17 = ?$",
       "options": [],
       "answer": "17",
-      "explanation": "$4 \times 0.25 = 1$；$1 \times 17 = 17$。验算：$1 \times 17 = 17$ ✓。"
+      "explanation": "$4 \times 0.25 = 1$；$1 \times 17 = 17$。验算：$1 \times 17 = 17$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1db7744d3dbf4df85184b6d29750f62650babdd8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3688e5b8e8c9b8a662399b7d0e51a066edfc51b4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "分配律公式记反",
       "计算简便运算过程中小数点错位"
     ],
-    "tips": "看到2.5找4，看到1.25找8，这是凑整计算的黄金搭档。"
+    "tips": "看到2.5找4，看到1.25找8，这是凑整计算的黄金搭档。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ff/ffde38995b75caf580e17d72b09395fbba5119c1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9f/9f504b91544ecd77c9c498f9649c06cb32d21f04.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/07/078c571b6b89b3ef46d41baa704b0b265b4d0cca.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ee/eeb2618b248e711e0a56c81cb002562b00bfe28a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/80/80ec98c608e3b8410f3191d5fdf074fadc6e340c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c6/c65610bf5b64cb1119cfd16fd1f2e1240e605439.mp3"
+      ]
+    }
   }
 }

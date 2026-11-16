@@ -21,7 +21,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "赋予小白菊“胆怯”和“抬头”的人格化特征。"
+      "explanation": "赋予小白菊“胆怯”和“抬头”的人格化特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64f361056f62427231447fba275aee8a684c4ca7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40f61240429c9fa3ccb3d48e0d7562378235a738.mp3"
+      }
     }
   ],
   "knowledge": null

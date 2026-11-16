@@ -16,7 +16,11 @@
       "question": "“蚊”和“蚂”都是虫字旁，说明它们都属于昆虫。",
       "options": [],
       "answer": "对",
-      "explanation": "虫字旁的字通常表示昆虫类或类似的生物。"
+      "explanation": "虫字旁的字通常表示昆虫类或类似的生物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/032c08d2a4b15c86bc876130f3f236353198afaf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acf16ac6fb18cb14b9a58d35a021766b2859756b.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "口"
       ],
       "answer": "虫",
-      "explanation": "蝴蝶是昆虫，所以使用虫字旁。"
+      "explanation": "蝴蝶是昆虫，所以使用虫字旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/379a2cd8681e06280d66046332d0c75a9268b2fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45e29117376d30963d7ef2dc2996aa75251c3368.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01e3994b131c3a70c31e4aa3511e6f43a5999a8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9acc91a1f9a59bac594e3299200ed76f328a7204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/792a30f5bfb11f686ecb7ad70f4356d1bf9111ba.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "松 柏 花"
       ],
       "answer": "猫 狗 猪",
-      "explanation": "猫、狗、猪都是反犬旁，表示走兽类。"
+      "explanation": "猫、狗、猪都是反犬旁，表示走兽类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5ed191e7cab4b21b2dd9084f9ac6146a9f04c90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86a78c4169c85472bddfe4261bf71fc4de627633.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddd03133dfebc08a6999955fc82499f5b7a50bfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c549adbf9e5747a2bb7157b4646e83e49d5d281.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45207b22c6403c113ec83578519d7fd7696098c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/5169396834783b4637bea34ba88895f3d6d42ca3.mp3"
+      }
     },
     {
       "id": 21,
@@ -68,7 +92,21 @@
         "水中"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "虫字旁归昆虫，鸟字旁归飞禽，反犬旁归走兽，鱼字旁归鱼类。"
+      "explanation": "虫字旁归昆虫，鸟字旁归飞禽，反犬旁归走兽，鱼字旁归鱼类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fddb5769ab6b6c8dce5ff19bfa88ddedc8e67dfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e8fb03c46fe91fcf6611cb58cb8a920e719c958.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f2fa095c2f01347b1c153335c321c4f468bcd70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acb4a94992ae566d19b2dafc2e82d7b9ebf4e18e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfec3735a21626678e3d2fb9cd3fa17c92a9792c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa6351291533e76001638674ac535dfef7c21613.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a20633d3b3f85a5adac53ba0fa40872a1cc539f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9776be00e75acb2f0e99a665f2612aabaa8716cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbf71e87b3e6e933b74bc0ee45bee0826e55eecb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/468f00981ec86ae87aa2dcb34948b31ad7f18128.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -79,6 +117,16 @@
       "反犬旁写作‘犬’字",
       "混淆‘蝴蝶’等虫字旁字的分类"
     ],
-    "tips": "给汉字找家：把生词卡片按照偏旁分入‘昆虫家’、‘走兽家’或‘飞禽家’。"
+    "tips": "给汉字找家：把生词卡片按照偏旁分入‘昆虫家’、‘走兽家’或‘飞禽家’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8e/8e5bd3a90b97e2652bed2fc8cbffc7d6b46bfaae.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/66/667672843b6abd67ecc75c4846cae2681d97acc4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/27/27296d71a39f36e2ada55c1e8b228a11ea1db8d0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a0/a0e2b50667ca245ceb0589d77c87ac4afaf28ef8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a5/a5a783a6adcf3ebb98d4b73668dcf3556cad4ec4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/85/85f4f2d47692f86ac3e96306d75d6ad033829138.mp3"
+      ]
+    }
   }
 }

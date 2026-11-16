@@ -16,7 +16,11 @@
       "question": "脑是大脑、小脑和脑干的总称。",
       "options": [],
       "answer": "对",
-      "explanation": "人脑包括大脑、小脑和脑干三部分。"
+      "explanation": "人脑包括大脑、小脑和脑干三部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10d2664e9cc37a7dba184ae239f5bedeff534bc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c949e20a699974cd34cb286529841d9da8ad9677.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "长期的精神压力不仅会影响情绪，还会伤害身体健康。",
       "options": [],
       "answer": "对",
-      "explanation": "压力管理是维护神经系统和心理健康的重要环节。"
+      "explanation": "压力管理是维护神经系统和心理健康的重要环节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/548be197a71e52663369dadcdcfd8823e2ff8c4e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1aa3839ab2f62cc404fdd62ed756e22fb782f1af.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "感受器→大脑→效应器"
       ],
       "answer": "感受器→传入神经→神经中枢→传出神经→效应器",
-      "explanation": "反射弧的路径是刺激经感受器传入，中枢处理后再传出指令。"
+      "explanation": "反射弧的路径是刺激经感受器传入，中枢处理后再传出指令。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e58cf39d8d5e27d64e59158de89e50c16e8b74dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d237d7fb71ff8b59bd191238fae2626967dbe2df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fae36aa10f8c0551d7108fb0bd8df902fe808287.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddade3d1ef5fa661535146aa9c46ba22f91991aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95507acc43b6587b55de20aaafc9b3b921979353.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a6ba735e92550c92f4e2869114da9b9185926ba.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "保持心情愉快"
       ],
       "answer": "长时间连续学习不休息",
-      "explanation": "脑需要适当的休息和劳逸结合来维持正常功能。"
+      "explanation": "脑需要适当的休息和劳逸结合来维持正常功能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f87590ffdb026d0a06bff2dfa566c11fe06578af.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/65f12f555aaa9e91ac626e47f0ef7641f1e031be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/853d44744bf8243445f4ee9b3f4373e50c3b043d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c69ead7ad22f1c702a4745559ed6d7b68511ebce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7556caf4a839295085f5629dd0cd2f8bd428f6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15a42b432042dee22d0cd1b57fa4ce65d2602cc1.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "脑干"
       ],
       "answer": "大脑",
-      "explanation": "大脑是高级神经活动的枢纽，负责思维、情绪等。"
+      "explanation": "大脑是高级神经活动的枢纽，负责思维、情绪等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0d3bbb86a14773ab60c27d24d1edd610569fbe7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a3570e9c27d3c53d34527ec4072cb481b194bff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9df4c7f9267c2b43f8c3673694b2b8ad6931e12b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a0b54ea55b2cbd8ad440f546902c4d16c80f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14e5773b840383e56bcd061e50f205b1debce09a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45bf01e2ba06ee368fcc8213b7b3e26d0948b2ee.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "肌肉"
       ],
       "answer": "神经",
-      "explanation": "神经遍布全身，传递信息。"
+      "explanation": "神经遍布全身，传递信息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a998350eda5f93aeec3d72ac019e8f6f941cfd4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4ab2be79d09563246a457bc1d57ae1ef9e78d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00047f6b5648e28d4607d6fefbf597ab6a63b58c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64a6abed212bc3b1d4af2bc54aa47b7f52778cd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f75cc6fc19086220c026c919251236a32beea93c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/413acf1b712627c4b5264cbe7d3b7e481fece9b3.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "成年人的脑重量大约为（___）克左右。",
       "options": [],
       "answer": "1400",
-      "explanation": "成年人的脑质量平均约为1.4千克即1400克。"
+      "explanation": "成年人的脑质量平均约为1.4千克即1400克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67fdfcf3e556b501c6b1156063a1ded78e339cb2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77d3ce77aafc8e2c425af7100d1f2c782829aab2.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "（___）被称为人体的“司令部”。",
       "options": [],
       "answer": "脑",
-      "explanation": "脑控制着人体的各项生理活动。"
+      "explanation": "脑控制着人体的各项生理活动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c830585d67fd2f75d908799ab9dc770a60003e70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f67683c59d2489093adf1ff6f6779ce091b0b3cf.mp3"
+      }
     }
   ],
   "knowledge": null

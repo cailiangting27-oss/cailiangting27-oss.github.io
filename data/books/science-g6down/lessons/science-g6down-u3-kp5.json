@@ -21,7 +21,17 @@
         "不规则云雾"
       ],
       "answer": "旋转的旋涡",
-      "explanation": "银河系是一个旋涡星系，从上方看像一个巨大的旋涡。"
+      "explanation": "银河系是一个旋涡星系，从上方看像一个巨大的旋涡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5def510ecc0edcaaeb061bcd257638e9c37cb3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/081f5c7b6cf045e78feb5f88b4ca9f98d8d4b568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34b4c81f9e33f32e6277d55c62119e7c4236e93c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08cf31a0fe00652d89437336ca405719494a0a92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f50ce4c74492f299d792ab5217a55e4d9f76d85d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad83d2561edaff2d855e48a9ff91588086fa004d.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "距离"
       ],
       "answer": "距离",
-      "explanation": "光年是光在真空中一年所走的距离，是长度单位。"
+      "explanation": "光年是光在真空中一年所走的距离，是长度单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef13a32a9486939f4ca3603f1e370a8b7201dd5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9722aeb6bd85cce1de3626ef2eaa5ae2e3a0eb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56bdebfc58073c5318cc815907727791f070f419.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3480678b68e3ef722997074cb3b3e260420ed34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2b798a24677367b0304e0eb92a0a572e4d029bb.mp3"
+      }
     },
     {
       "id": 22,
@@ -48,7 +68,11 @@
       "question": "像银河系一样由千亿计恒星组成的星系，统称为（___）。",
       "options": [],
       "answer": "河外星系",
-      "explanation": "银河系之外的星系被称为河外星系。"
+      "explanation": "银河系之外的星系被称为河外星系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/395cfa85ca905517393920b9ea17871b8a0822e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/843d5894a3e3f857e61d4360730f9f6889fc3338.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "shǎn"
       ],
       "answer": "sàn",
-      "explanation": "散开、散开时读第四声。"
+      "explanation": "散开、散开时读第四声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed1c3a89f4c056b66a32ad5240415f8efddd4885.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5a8a5328bb104e4af815d77e7a0b13db092d58f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f35656286764fc4b1854972bcca710b2d3a292a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf80e9b9862688082bc8cee1b6101fb08a22be10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f4930ab166c032c013331be5870c36bd644ef86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db20e10e550d3f71f8a95e0754882cc0d868b4ef.mp3"
+      }
     }
   ],
   "knowledge": null

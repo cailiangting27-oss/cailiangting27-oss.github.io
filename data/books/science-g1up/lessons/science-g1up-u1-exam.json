@@ -16,7 +16,11 @@
       "question": "植物在生长过程中需要阳光。",
       "options": [],
       "answer": "对",
-      "explanation": "阳光是植物进行光合作用必不可少的能量来源。"
+      "explanation": "阳光是植物进行光合作用必不可少的能量来源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a1282101d99239361d0dea700aaa9b45130cc30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64904877316cf18a11ef974960d4d88d527df740.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "枯死的树木已经没有生命了，所以它现在不叫植物了。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然失去了生命体征，但在生物分类学上它仍属于植物范畴（植物遗体）。"
+      "explanation": "虽然失去了生命体征，但在生物分类学上它仍属于植物范畴（植物遗体）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee03ef62d111088d9a070588446acae02905da80.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/055933466e4d305afae0be57ec5fea25886fbf8d.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "我们可以通过叶子的气味来分辨不同的植物。",
       "options": [],
       "answer": "对",
-      "explanation": "有些植物如薄荷、艾草，其叶片具有独特的识别气味。"
+      "explanation": "有些植物如薄荷、艾草，其叶片具有独特的识别气味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/066264dacae64aacfb10c041778ec39c4b556824.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0087671dfa922ad9b8d477ed1c8e7e97387e3ec.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "植物生长只需要水，不需要空气。",
       "options": [],
       "answer": "错",
-      "explanation": "植物呼吸和光合作用都需要空气（氧气和二氧化碳）。"
+      "explanation": "植物呼吸和光合作用都需要空气（氧气和二氧化碳）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2055d1ddc797d0753a492f04a2de977f933dbcd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69cd6eed15b4b620569d0fa548d9f2c900db011b.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "叶缘"
       ],
       "answer": "叶脉",
-      "explanation": "叶片上的纹路被称为叶脉，具有输导和支撑作用。"
+      "explanation": "叶片上的纹路被称为叶脉，具有输导和支撑作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be4672f898bd29a38e68322d49c0ca3a7597c4dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/044a0bcd733e9484d648c56e1944e1ab1d16f04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f3a095d184962a224f132eabc0589e75d983a17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64803bfff1d0f9d417e306c93b076c54c5457156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a777e68b40c52d5fe9cbc2903879712de54f01d0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23a9ee090080e089a9a62fbcf65ac67650ded734.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "透明"
       ],
       "answer": "枯萎",
-      "explanation": "秋季气温降低，许多落叶植物的叶子会变色、干枯并脱落。"
+      "explanation": "秋季气温降低，许多落叶植物的叶子会变色、干枯并脱落。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebe758560ec6b080d3c9900e477b33970f0c7f45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b1a1c631428308fd3cf137ad9bfd4a65bf711ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/579625d5ac904b19e88e39e3d52652e8a067513d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51459e73830e8e5a0f4debf5bf56d02e6401ee07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1a302e2c2b0dc03ea0fceedf91a7d8eee1cd496.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23c5e7bdf27bcb5710e99d56d4a35a4908b61c01.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "叶柄"
       ],
       "answer": "叶缘",
-      "explanation": "叶片的边缘形态称为叶缘。"
+      "explanation": "叶片的边缘形态称为叶缘。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e732dfd5bd6297e2715134492725f30442eab40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f3a095d184962a224f132eabc0589e75d983a17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a777e68b40c52d5fe9cbc2903879712de54f01d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/044a0bcd733e9484d648c56e1944e1ab1d16f04b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96e0b5fa8ffd5c57a56abae3b8235bbcd957d0db.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "根"
       ],
       "answer": "根",
-      "explanation": "根生长在地下，起到强大的固定和支撑作用。"
+      "explanation": "根生长在地下，起到强大的固定和支撑作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be84205c87980948af2598c19d8842f83ce6774f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37c63540a2b64ad2e7a69c4d9b63be994e818744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48ac804111ca3cd511d07b7294b732c9dd567278.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "圆盘"
       ],
       "answer": "小针",
-      "explanation": "松叶为针状，是适应寒冷或干旱环境的特征。"
+      "explanation": "松叶为针状，是适应寒冷或干旱环境的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35255aafd5ae56d1c9411ccafce57618b5b1652d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f54871c95ca9911370c82f0218af705936f81b5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5da1ae1fc662544c67c3253ac41a6b2b60c94a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/128403c2c03296c9b1f30b89d3eff66141bd4142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7fb774d1936df79baae1de5f3fde1477621b036.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/767701a57a00edf5895306fe7d229cc985bcae09.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "不管它"
       ],
       "answer": "给它浇点水",
-      "explanation": "体现对生命的爱护，通过简单的养护观察其反应。"
+      "explanation": "体现对生命的爱护，通过简单的养护观察其反应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb15307a5f0573c6cc0fc62467ca91a683f254ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95d023f696866b7b74385f210620753ac4373233.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ceec4be178bb54c16d85b0871287bd42bbe1570.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43151ce89f39064fb83ec583ae7b0c58b9b40899.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bfb8898767c378b6edb4dcb5c2b3dfe9e626df1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6e2201cd2a63b1d505f782347ff93497acfb623.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "音乐"
       ],
       "answer": "阳光和水",
-      "explanation": "植物生长必须具备水、空气、阳光等基本生存要素。"
+      "explanation": "植物生长必须具备水、空气、阳光等基本生存要素。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a62326a6424f9a87281ee1f33b1fd940a854708f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f5dab2ca05cb98aa04caef79fe652e918c71f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0b95f7f31f7a12c56f9a0fd5d7d7747e9eed7cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afb3c40c392903c76acc22de6d5204baf20cf378.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4555c1eaa5008df14a6bafb797eb56f6e4bf3210.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "摘下叶子拿去问老师"
       ],
       "answer": "对照叶子的特征寻找",
-      "explanation": "利用观察对比的方法进行科学鉴定。"
+      "explanation": "利用观察对比的方法进行科学鉴定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1c3c1f5679329390b8b9a0ef69530a446c2ba6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f877720e01c39240ee76f619a5eb6a8d89610e18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8544ca608834bc8389adf5783a3252a86846c2d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58f84edcd3eda32ca4136e729b887529b651887c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acdf49b2d2607aa1cefefbdf1825e4a3a332b6ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/795a9a4de656f27e6f0411f6af77782bec5cf47b.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "三叶草因为每片复叶上通常有（）片小叶子而得名。",
       "options": [],
       "answer": "3",
-      "explanation": "名字体现了其明显的结构特征。"
+      "explanation": "名字体现了其明显的结构特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da24387b9ec226a3b83b3c0cb3bd891c91b05a67.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f468bae30b4775e1bd31319c2e051c2300e2cbdf.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "我们每周给绿萝浇2次水，两周一共需要浇（）次水。",
       "options": [],
       "answer": "4",
-      "explanation": "简单的跨学科数学应用，2次×2周=4次。"
+      "explanation": "简单的跨学科数学应用，2次×2周=4次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee51ae45d933437d986b28ebb3c0075031f8623f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9dc4a197ea3e7881ee62deb513084229c2fef859.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "像小草这样春天发芽、冬天枯萎的变化说明植物是有（）的。",
       "options": [],
       "answer": "生命",
-      "explanation": "生长、凋谢是生命周期的体现。"
+      "explanation": "生长、凋谢是生命周期的体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b9133938def5039176bbe9f42ddc6297f985afd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12c64e395261457ae47da5a2500172b7771c28d4.mp3"
+      }
     }
   ],
   "knowledge": null

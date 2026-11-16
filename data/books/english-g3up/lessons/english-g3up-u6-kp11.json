@@ -21,7 +21,17 @@
         "Thank you."
       ],
       "answer": "I'm nine.",
-      "explanation": "How old are you询问年龄，常用I'm + 数字回答。"
+      "explanation": "How old are you询问年龄，常用I'm + 数字回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/081c8777a8ae4fa6f9d519bdd586f8ee653d28f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dd71a39599e0e60fbc8523682aa9d257686ada5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c4badcb19bef8ff281de081c65b7bb8f6a54c6f.mp3"
+      }
     }
   ],
   "knowledge": null

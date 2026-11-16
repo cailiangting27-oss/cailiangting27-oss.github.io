@@ -16,7 +16,11 @@
       "question": "“闻名中外”的意思是在中国和外国都很有名。",
       "options": [],
       "answer": "对",
-      "explanation": "中外指范围，闻名指名气大。"
+      "explanation": "中外指范围，闻名指名气大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38311ab66f6624d7e03db51dd08a873e1a3ea39b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/552ed628418a8c1016874e2c4633448fff7c80f9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“入”和“出”是一对反义词。",
       "options": [],
       "answer": "对",
-      "explanation": "基础语义辨析，入表示进，出表示往外。"
+      "explanation": "基础语义辨析，入表示进，出表示往外。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76064fe3e76aac3881fe61c1d7289c86d82b483e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3d600d6da433e8656e6a09b0f6e3ef21a9b6023.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "留言条的正文部分，每一段开头都要空两格。",
       "options": [],
       "answer": "对",
-      "explanation": "留言条正文格式要求和普通信件、段落一样，首行缩进。"
+      "explanation": "留言条正文格式要求和普通信件、段落一样，首行缩进。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6c6e35ae409bdbe5ca31383b49a595b7d31b300.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/068f7dd6f8020c1c45b2458ea67d571e439951e0.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "描写“瀑布”时，李白用了“银河落九天”这种写法，这属于夸张的修辞。",
       "options": [],
       "answer": "对",
-      "explanation": "通过极度扩大的想象来突出瀑布的气势。"
+      "explanation": "通过极度扩大的想象来突出瀑布的气势。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe354719bf65301adacd70124af787e67741d33f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85dc1a6b98afc45d77bb4b33509ab0e95e3787d5.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "一鸣惊人"
       ],
       "answer": "山清水秀",
-      "explanation": "山清水秀直接描写自然环境的美丽。"
+      "explanation": "山清水秀直接描写自然环境的美丽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/baeda3cb44654e3c9ce908362634d731e0385374.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d27aa323be0d2759d7c5f480143aa9079014256a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7450ed7e9008b78b14ae40eff1cf0062e12b6f50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfe24c7fbb1311851e4adb8bd7994ebd62653f37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7835439be905f5726362ff8caad47e1795420ddd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de7cd999ab4f2a1d9f503b286a4da23551a017f4.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "操场上"
       ],
       "answer": "电梯或汽车内",
-      "explanation": "这是生活中的警示语，表示乘坐载重限制。"
+      "explanation": "这是生活中的警示语，表示乘坐载重限制。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d3d54ca02e525809f6e487d3f770dbc96a87d48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/72/7244c70b00c82f1265e25b2b0d5ec38a71a641f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7d0ff6f783be2587e164ea5e8011b4f0dfd1d89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/183420388c6f5807f4b779b069594b00a4161502.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c7e512ea30af27b0127b1ef35023a08c77e3e9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d0bffd08e5192bfb37161b3693a9a6c8177340a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "聪明"
       ],
       "answer": "好客",
-      "explanation": "老乡用最好的葡萄招待客人，表现了他们的热情好客。"
+      "explanation": "老乡用最好的葡萄招待客人，表现了他们的热情好客。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/504a00b0cb8960cfb19b39ab99d551833212619b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf0af71df7f8a3d1e5bdd8d221feae32d62485c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5b49a429e1498751b06eda99a69b96a8516a8ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0c1bfee2a13555505ed104fd12fcb000c6fcf6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48f0dfd28dc59647cab7f9ee1765377e99c35b3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e22fda008e5192295dc5d2129ae6f1c9332dc4c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "留下的原因"
       ],
       "answer": "称呼（留给谁）",
-      "explanation": "留言条的格式首先是称呼，要顶格写。"
+      "explanation": "留言条的格式首先是称呼，要顶格写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6e42dfbd722a8f02d6039f8f408f3379104a842.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a74475f56bbebc0dc7634107ef880051e856ad52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b3399bfde1aec41f821a03212f929eaf609dc54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6490744fe65e821bcf76eb40ea4ce60a98db1e45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/035e174b7dc8b89e5833325267b014aace99244a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3056c5e3ee91cd34b4f68ba5be4c78fe932e3b0.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "争议性"
       ],
       "answer": "趣味性",
-      "explanation": "将石头描写成仙人、狮子、猴子，充满了想象力和趣味。"
+      "explanation": "将石头描写成仙人、狮子、猴子，充满了想象力和趣味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00f9eaf9c5818cac60cf4759deec1c3eea48313a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73708f86781a56bb059633d39930a497502c7ef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9aaa48d2d94e10f07027365134dadecb4d04cb65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b9ced52707071d508ae6fa9106ec144169c64da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fef122394233590afe22ad9e0d836fa35aacb22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3229f53906e6b5dec191b34330d3ecfec4aa98af.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "广告宣传"
       ],
       "answer": "名胜古迹文化",
-      "explanation": "名胜古迹常有对联，承载着家乡和历史的文化。"
+      "explanation": "名胜古迹常有对联，承载着家乡和历史的文化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2ad35d84778ed63430e5ad836dde0ce54deeac6f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b79e0af3b88b8ef299f20e20c784464a6ba6c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e5929952f65a4ff56a6e30d80931cd199f7adbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4286b8087273f8a539add8738808675b3212230.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cfcc2302f0aa8261e23e54e939c2ed29936f2c3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3177d2dfe56a5a5fe418330f5352a106ffa1546.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“瀑布”的“瀑”字，左边的偏旁是（___）。",
       "options": [],
       "answer": "氵",
-      "explanation": "瀑布与水有关，是三点水旁。"
+      "explanation": "瀑布与水有关，是三点水旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49bee366e539f631c77ef43280e3c99c78b8d2ad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcf8f93b248cb0284aaa2ecf4ba30aaaee0bacab.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "《望庐山瀑布》中，瀑布在太阳照耀下产生的颜色是（___）。",
       "options": [],
       "answer": "紫色",
-      "explanation": "“日照香炉生紫烟”，瀑布上方会升起紫色的云雾。"
+      "explanation": "“日照香炉生紫烟”，瀑布上方会升起紫色的云雾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb85249635d8457d919acb0e22c7fd21ac8664b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a04470215782a49eb69eecf093eac0397cbbf95.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "灯光"
       ],
       "answer": "A-1,B-3,C-2,D-4",
-      "explanation": "积累描写家乡美景的常用四字成语。"
+      "explanation": "积累描写家乡美景的常用四字成语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61de51bee6532bf6b2e1f3fd5886f3389674c4d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f4719e956cea57ed9dfac153f9a7f854e9c37289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d65825f98c1f7dbd7483bb503e890669cf14a06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/212d7ee880d7fc1920b484c2d15c231211ac0f90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/672ea2fc073e22ee24fdba85a785def12f1091b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3eabb6258cb5a3e5791891ade3c39313ff17c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b39e5062be6eab73bfc2c3362184dd702baf325.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b756c2c91455396ee7542bd2174dc7d49278f2bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6865ac875dfacf9d1ec68d99462c7b07314d2092.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7979635403e51678ee90e13798b416af68b3db8.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "夂"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考察对本单元生字部首的准确记忆。"
+      "explanation": "考察对本单元生字部首的准确记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21a9f66a75b657924ac7ac927748e34ee4325a14.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef7cdf02984e7e7a5b1f21b32469744e0593c961.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87a94db45b3bd23dc9d9fe6d7ec084f941567f6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c440df82fc81e8b82215e7b68528a8ba6b25907.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e0aab05912f75c44a833078577049fc9a302028.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/1f/1f87b13df4bbfefa8ac27723b66b2d639309a93b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09ab3541d097c159467d7e430ca7cf6c1975e545.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23a827da130a257b92ca028b5973b8d546c6b84a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b801b87e285fbaf2d9025020d6ece740c613a01e.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "好地方"
       ],
       "answer": "我的,家乡,真是个,好地方",
-      "explanation": "对应课文《葡萄沟》结尾句式的活学活用。"
+      "explanation": "对应课文《葡萄沟》结尾句式的活学活用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d398ee1fcddd5212e01ba707bec9453684263661.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a82c993d7388d58af303d721d5030d9fa476273e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70efcdd4935786be4705c1d328e9a5d5d0d5bac5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7ca9746beed7b472ae6d3b246edc09274911941.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b6fe4db399be6a4f53cb2d4238520dba91ae220.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/966b73221308548e2ec8e9fa615bd99fbc2176e2.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "小"
       ],
       "answer": "小",
-      "explanation": "在动物年龄语境下，老对应小或幼，通常课文中老马对小马。"
+      "explanation": "在动物年龄语境下，老对应小或幼，通常课文中老马对小马。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32c56e5719752b7a2eb8a81981316d2170b3c275.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b64ef9bac194d4c2cbeee60ab93899d63d34a519.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa495b65bd804cee37c42a6d429a819bb8f81254.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e192c56647d23a58c319d099456f17ed870eda63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922517cc7363a85981329bfa950b9d325eb90cae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95607157b9b534c5d0d34bd553164ff282267fd7.mp3"
+      }
     }
   ],
   "knowledge": null

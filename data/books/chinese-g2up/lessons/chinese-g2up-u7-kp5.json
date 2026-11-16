@@ -21,7 +21,17 @@
         "破坏"
       ],
       "answer": "高",
-      "explanation": "危楼：高楼。"
+      "explanation": "危楼：高楼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d34fef5052dae9214e02446fcecd9653563ff64.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/627037fba35978d0253a30c85c9785e66ecdf41d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b096b3f5acd628b9535183af5c243631423a6259.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f9a55ccb3c65c71a570da9b613ca55c2e23ab4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b5a1c73678859a94ac188530310777a0fc2b328.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8db854677896d56c72676c939179515c47ce6d13.mp3"
+      }
     },
     {
       "id": 20,
@@ -41,7 +51,21 @@
         "光明"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考察本单元课文中出现的重点词汇的对立义。"
+      "explanation": "考察本单元课文中出现的重点词汇的对立义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97db666f432d7eae6a26cd8856818e46f7e9ebf6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9cf6f0da92e96ed125c5cec9f1d1f2015137f935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/456c56d97a099657511424dee24c29fb7e6d40aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d6bef291d0089379719fd42e876dc70b04e770d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e65436e3beaca6b6e6b7b77726149dce3984755.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0fadbb0484dd305ab60e0d8dce938d98eae4925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0270a7fdb3699ba8e6244143bdbf7f4699e0c9d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94d3e4c2010d8c82e046fa59ae3db7cb520960e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89af90f5ef4fc3c517cb979759fc2c17c2b5423d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1b5f4fc4334407e1e29249db509262f2bc14eaa.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "塑料板"
       ],
       "answer": "铝片",
-      "explanation": "金属通常是热的良导体，其导热性能优于非金属。"
+      "explanation": "金属通常是热的良导体，其导热性能优于非金属。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65f78b44d0b0c2a41e2c1b2bd87571b4603b7b1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f33d7ff453685046b6b569ab80e311f48aa15434.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b13264da1c16b72865f2a33cf0f3f9a5bc1e23b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97d9db6e4efbae366afa74713e2e3504e51546f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f353e2333e7cb6c99041ced13733354b38acd4d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9c92f38f105b86cba18b37c09abfb803d720af4.mp3"
+      }
     }
   ],
   "knowledge": null

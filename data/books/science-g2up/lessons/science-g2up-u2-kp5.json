@@ -16,7 +16,11 @@
       "question": "一把好椅子所有部位都必须用同一种材料做成。",
       "options": [],
       "answer": "错",
-      "explanation": "椅子通常结合多种材料，如木头做支架，海绵做垫子。"
+      "explanation": "椅子通常结合多种材料，如木头做支架，海绵做垫子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc996909c9cc66b4fc2884b810ad762480a7b2ac.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82f54f7ce20107ddb41fac120c56722874d2927e.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "非常沉重"
       ],
       "answer": "有弹性且耐磨",
-      "explanation": "橡胶具备良好的弹性和防滑耐磨性。"
+      "explanation": "橡胶具备良好的弹性和防滑耐磨性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cb57d4092375c49572f9a87719a68c965d8ec9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da7f3af942c902cfce420c9b25da9b8fc09e525d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5047f92b1dc3403abfe8299e21ae9da5307299fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef043262acc9ecc50554e443834e94b6ceaad4c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a11b9be22629a0005d0eabe88bdc27d900ebe189.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a39385f3658e2a6b63aa3952a53a7ea2712781a9.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "变得更硬"
       ],
       "answer": "防烫手",
-      "explanation": "硅胶是热的不良导体，能起到防烫作用。"
+      "explanation": "硅胶是热的不良导体，能起到防烫作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c06a625e7d478124c234168e6a389a07b7fe277.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d93ed7361b8b30741ce638c76f6e013492ea15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ee3003677866e2036492436bf7670f31ec5107f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9a5babc1ccacca3c22cc523de1065cbeb01ca9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaa5cac003f9c6492969654117f2957d26bb69dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa70007dd2b2f5cc5bf27a9e2d0ff14e71fe38ab.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "测量或计算一个物体的表面或平面图形的大小，就是求它的周长。",
       "options": [],
       "answer": "错",
-      "explanation": "面积是指物体表面或平面图形的大小，而周长是围成图形一周的长度。故错误。"
+      "explanation": "面积是指物体表面或平面图形的大小，而周长是围成图形一周的长度。故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b516532c401aa7a2ea733367e9327ba5ac4438e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d79d6fa167985652aac0a6e20205ab4d187a1df.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "硬币正面"
       ],
       "answer": "成人手掌心",
-      "explanation": "1 平方分米大约是成人手掌的大小。课桌远大于 1，硬币远小于 1。"
+      "explanation": "1 平方分米大约是成人手掌的大小。课桌远大于 1，硬币远小于 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/dea31d99bb6c721327461032a5aef77f0617b3c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87a5c953e9bf99ad682be28480ffbfd70fd20a26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ec36639db59bf25715577318f8e9068105d71ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba627e5fd1f5343e5b0254147ce5b2e466e2bae5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01c0f416636a03473a7bfa6668f0e210e768d1c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8e5234df061ed20c329f9f581d2c438dceb7468.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "直接猜测"
       ],
       "answer": "用相同的图形度量",
-      "explanation": "只有使用统一且相同的度量单位（图形）才能准确比较面积大小。"
+      "explanation": "只有使用统一且相同的度量单位（图形）才能准确比较面积大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ac6bc83af9602e958fa295d93d42ebe12949d48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb1e859641cd36470341580d8a3037e59b9cd4c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afbf9ec743243ad0abdb15e95c803d467d593864.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc066e77f91c4a63ae9c31fc2ee37af5f1a37a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05ef93280e89e6b5ebd297d54860ed4376a86bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6614aaa0229378c963cdacd98fe89356562cb595.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "混淆面积和周长的概念，认为围成图形线条越长面积就越大",
       "在比较面积时没有采用统一规格的测量小格"
     ],
-    "tips": "可以通过‘摸一摸’和‘涂一涂’来感知，面积是整块色块的大小，周长仅仅是边沿线条。"
+    "tips": "可以通过‘摸一摸’和‘涂一涂’来感知，面积是整块色块的大小，周长仅仅是边沿线条。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8d/8d2c526c321c156794a0479e8bea8c304bebc309.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5f/5fc7e002bb1b22fc05a9d93732ffacf0f73bce22.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/75/758577f90a194592628256cb140ebb0d76af7624.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/65/652f28e9f5c9a28d2ff2806bc8931cfdd622c118.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f3/f30c4b4c672869c56af7168fac818a600f82e7ca.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3f/3fcf587a3e6cacea177966648c5bab5f331e8583.mp3"
+      ]
+    }
   }
 }

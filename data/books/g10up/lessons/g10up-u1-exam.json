@@ -21,7 +21,15 @@
         "8"
       ],
       "answer": "4",
-      "explanation": "必须含 1，可从 2、3 中任选，共 $2^2=4$ 个。"
+      "explanation": "必须含 1，可从 2、3 中任选，共 $2^2=4$ 个。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ]
+      }
     },
     {
       "id": 8,

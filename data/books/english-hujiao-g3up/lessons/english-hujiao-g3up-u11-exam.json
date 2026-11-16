@@ -21,7 +21,17 @@
         "fishs"
       ],
       "answer": "fish",
-      "explanation": "fish = 鱼。"
+      "explanation": "fish = 鱼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fa981ae22b61d0d345fc1881455677edddc01a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d2139721bb9c44e872b0b8a1c656af706f3e9c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbb5cd6fe0f5875cf1bc96b7ba031d6e108ddb5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a6fcd716d96be1b05b6cf0a7ff5ba739b4fe3cc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a26d3ec0488c30386c5cd1ad8d12cf6b6785a415.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "I have a two rabbits."
       ],
       "answer": "I have two rabbits.",
-      "explanation": "复数加 -s。"
+      "explanation": "复数加 -s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b28415c71cfeb3a0ee02a3ed8c29516eed1460de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/5738ce4cf5463a65f161cd33f37cc84e88b04211.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3105ba743f50ce85247c085d0bf2c90e117a040a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0124d45214f93eb9cfddc2da25f72da7af3d82f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec576670e69cf55b559a320dfe4f9e71482dac17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffd974d285dbb13f64459a79651c586fdfa9a2f2.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "animal 的意思是「动物」。",
       "options": [],
       "answer": "对",
-      "explanation": "animal = 动物。"
+      "explanation": "animal = 动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64bc25b8526f6cb6f847e05cf0720c1bd2b89bf5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb7486904079af017e4e8f7810f803c234a6f85e.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "I like dogs."
       ],
       "answer": "I have a dog.",
-      "explanation": "问拥有答 I have…"
+      "explanation": "问拥有答 I have…",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e858df5176a2e692d719ad986fad21a4b6e50bf5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a19acfb9b8cb77dbdf5a5d392f64c7062e59fda4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/549492ca1798a37a2591185b22a2f44d8e45db2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce32846bb1f53a5c3bd7394ec342e44d0e8f6617.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f79ce11d7e937fd23c6c23d30a1c8ba50f8272b.mp3"
+      }
     }
   ],
   "knowledge": null

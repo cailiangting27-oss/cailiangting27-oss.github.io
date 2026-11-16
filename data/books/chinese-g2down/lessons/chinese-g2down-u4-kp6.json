@@ -21,7 +21,17 @@
         "句子的中断"
       ],
       "answer": "欢快或强烈的情感",
-      "explanation": "感叹号用于表达强烈的情感，在这里体现了小喜鹊的活力与快乐。"
+      "explanation": "感叹号用于表达强烈的情感，在这里体现了小喜鹊的活力与快乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d19a50cb880a2f5bb0a33fb5f5768a5f67c1af4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/298b4b5cf7903398ef7cbca846308b02db1922a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c044cf3d1c9b4f783147a01471898de546ccdbae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c307f7b8fbdb3ac7ee8be6b5bb240a8f37b45637.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fb59bef31e0235e6bbe3ec6e5a8fe4b2af8c718.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f1e476d032b9a59f4109e6d8e9a7c598206c214.mp3"
+      }
     }
   ],
   "knowledge": null

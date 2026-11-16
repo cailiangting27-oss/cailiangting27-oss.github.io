@@ -22,7 +22,18 @@
         "外洞"
       ],
       "answer": "我们,沿着,溪流,进入,外洞",
-      "explanation": "这是一个标准的游记过渡句，交代了主语、路径和到达的地点。"
+      "explanation": "这是一个标准的游记过渡句，交代了主语、路径和到达的地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fd817764b4d271fa9a453611ec111cb0fac9274.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e25578e8fa1a67d34c351f903d96055a152662b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ef99584a53349d2658f9929cdea5cc2ffe07d44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a54b26767ba1320e18d6a79e0dcd81adfdbdb47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca800bcb63769055b66ccd326e13d12606230f78.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/863dee6f37f8c5c607198fe04c4b0e5c5af9312a.mp3"
+      }
     }
   ],
   "knowledge": null

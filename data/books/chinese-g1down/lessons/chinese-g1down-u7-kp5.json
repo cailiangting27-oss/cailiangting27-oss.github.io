@@ -21,7 +21,17 @@
         "选"
       ],
       "answer": "经",
-      "explanation": "“经”是绞丝旁。"
+      "explanation": "“经”是绞丝旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66d493b21237180190d599ade6496f841dc4a183.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd8fab441ee8f8dc78852a7cb8a97980011680f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e19e218cd9c6d67903614b76a88a055a99a28660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/542523173c3e3439bd490fff653d2ee678407604.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/471c7b464c0a6ff056e64ba9d15e326a5e18faf7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa3fffc6cb3bd2176c20e2ed33027e8070775f38.mp3"
+      }
     },
     {
       "id": 20,
@@ -41,7 +51,21 @@
         "rēng"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "掰bāi，扛káng，扔rēng，捧pěng。"
+      "explanation": "掰bāi，扛káng，扔rēng，捧pěng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9900729e50522b061d39a855e6c683e3986fd10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/8173936934f383a6292913c01a57a802310d68fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3ea64ca21c20b31af73b355b6017e166cd3f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c03a17f530f66c1a9bc94e5c24ae26fd254b999.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9cd6829d4227e48f34f6e3de2d2bf68a41d0136.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4792e3ff93f21d29bd122a8b421bb61375aaf32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d654ddf52ac29f6b39ab241580e40cbe95959fb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a70c72f71b07c44a69b91ccfff76287da391034.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2aed6da3002fb3f2ab19bcbdec78df5c14a0878.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef0c298ee23115c231cb708c1fc237481972c16.mp3"
+      }
     }
   ],
   "knowledge": null

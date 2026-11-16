@@ -25,7 +25,21 @@
         "眼皮"
       ],
       "answer": "A-4,B-2,C-3,D-1",
-      "explanation": "书本中常见的身体动作描写。"
+      "explanation": "书本中常见的身体动作描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6680e67dce0fd4a28b6da834009a9dbe6ffde6c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9e9b0e61a2daae366d5bce14fbe31b642caf207.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df26b8bbd0f850d4d82031716483bc89b0a94a9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f31c49621ad370d78cb9f29f22d1975f1758bed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ea757fae5f4482e1b458261dd1b4b67fd1206d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f83388b7cd44767c332e6d199f3cf953b82c438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6903735f440ee92b36766bc2f223344cbb77c04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f366635ad280467112ba3b1945e03ea7cfefc0a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/776079ab936fdb23bf318204b9e45e3ee53390ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03a2657751fb4e13c3c74e0c37ee6df4624beff7.mp3"
+      }
     }
   ],
   "knowledge": null

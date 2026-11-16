@@ -16,7 +16,11 @@
       "question": "当询问人数时，'How many' 后面接的是单数名词。",
       "options": [],
       "answer": "错",
-      "explanation": "How many 后必须跟复数名词，例如 How many people。"
+      "explanation": "How many 后必须跟复数名词，例如 How many people。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4c8b61413f5c6a53837ccd8d447b888c1710da6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5ef5354ca3d67ecf8f10009ea954a82caafc0e61.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "is"
       ],
       "answer": "do",
-      "explanation": "主语是 you，助动词使用 do。"
+      "explanation": "主语是 you，助动词使用 do。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c75a664c1e7639f5eb89fa50523a13d2ba2153f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/898db7ae8832743a13b3f89c6cb6d76e8a614071.mp3"
+      }
     }
   ],
   "knowledge": null

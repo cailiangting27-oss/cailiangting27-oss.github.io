@@ -21,7 +21,17 @@
         "消释"
       ],
       "answer": "放下",
-      "explanation": "指放下农具。"
+      "explanation": "指放下农具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ecb2dc4fc02a9fb9cbafbc0fe574610aaa78bee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0ec9645ed27a741b2c3278eb06d1b10f9d62d49c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d6179efdab27d494623c12a9b9211491599dc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43064bb4952a7333498ea9e945d2e6fe48ebc4c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fc239edf6ff0f98d80d8eea2c544feee9c17a99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bed5959ebc96127024dec27b929f6b3724de500.mp3"
+      }
     }
   ],
   "knowledge": null

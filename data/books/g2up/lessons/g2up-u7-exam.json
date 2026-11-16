@@ -16,7 +16,11 @@
       "question": "钟面上一共有60个小格。",
       "options": [],
       "answer": "对",
-      "explanation": "12大格 $\times$ 5小格 = 60小格。✓"
+      "explanation": "12大格 $\times$ 5小格 = 60小格。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8657880bd873c05e797bafa2877443968cb051cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d9527724b5dc2f00e6114bca2e1e304817845df.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "1时也就是100分。",
       "options": [],
       "answer": "错",
-      "explanation": "时间进率是60，不是100，所以1时=60分。✓"
+      "explanation": "时间进率是60，不是100，所以1时=60分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/175e5765bf6744a414742b7b99f1d456dd3086bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f29a10912fbe7d82728ae6059811e85d562a35e.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "快到11时了，说明已经是11时多一点了。",
       "options": [],
       "answer": "错",
-      "explanation": "“快到”说明还没到，应该是10时多。✓"
+      "explanation": "“快到”说明还没到，应该是10时多。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d56233a31b309de40a65840350d2468e2cd7251.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78beab66417665dc6275a08c1372a5a756438b4f.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "时针从数字1走到数字2，经过的时间是1分钟。",
       "options": [],
       "answer": "错",
-      "explanation": "时针走一大格是1小时。✓"
+      "explanation": "时针走一大格是1小时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78e96ab3723b93e4ad10d52112d5abab2ecc00f3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47671c6c1471b9b3669d03d80ae84dbc7d621bce.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "米"
       ],
       "answer": "分",
-      "explanation": "分是时间单位，厘米和米是长度单位，元是人民币单位。✓"
+      "explanation": "分是时间单位，厘米和米是长度单位，元是人民币单位。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c4ca4541f634d0857b0e6b537c6f080cb9b9b2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/622f3c5acb0e3c96620f795bdd08896e2a5d9490.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d7416e2e22207b2c85fa5f0fd248730d22518cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6383e635861e69d26d2bd57b86d2a6cb9a94eeb4.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "5:25"
       ],
       "answer": "4:25",
-      "explanation": "时针走过4是4时多，分针指着5是 $5 \times 5 = 25$ 分。✓"
+      "explanation": "时针走过4是4时多，分针指着5是 $5 \times 5 = 25$ 分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/695ac9d3e6567a6ffba2980d4c6fee015240eb90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/925ef7aca205d1da8e7e893829cd70da7e55b3c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99d2dd7c897df69e852982ebbd7b6e3c80102e3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef35b124bcd6906cb96c356b3d74adcee3299cfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31feb9619bb324c6963c29830d5d83c7867db6a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56ca921b4caa07209573b03f050dd512ece68eee.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "1时"
       ],
       "answer": "1时10分",
-      "explanation": "从9:20到10:20是1时，再到10:30还有10分，共1时10分。✓"
+      "explanation": "从9:20到10:20是1时，再到10:30还有10分，共1时10分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39617996f3ca8fe2efc76486a242db5993d23882.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ab330605bc0714b2b663eca71d3555e588f9282.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ad166ad4ee69d4cb2cfae483101c833ca2ae774.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7484645255f5a52b8b8a374fdc2ecde6a921219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fdb572dc6754169f67e26919ddf51a8c1142008.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "80分"
       ],
       "answer": "120分",
-      "explanation": "$60 + 60 = 120$。✓"
+      "explanation": "$60 + 60 = 120$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a6b0be1aaa953770b6010955a0b1c186ed18235.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/5862af513110021d624608e9b8b9473fdf782769.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a44f76bdba74d4a64c0f199443639a9d58725a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecbac3a77b2a59446dee4df36624c801b8da3a10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b91da4801b2193daf992183bfa073d413d513487.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce257b62d4edd3324a8343a4ba139b198dddb567.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "11:00"
       ],
       "answer": "10:40",
-      "explanation": "一刻钟是15分。$25 + 15 = 40$。故为10:40。✓"
+      "explanation": "一刻钟是15分。$25 + 15 = 40$。故为10:40。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9da973687d07fc0640a3b42f87d36570623f7e35.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c98b3dfe9d759fe18221a045b874b5b3069ef97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f2b1d507cb611853bfdf8092433364d9f30037d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a8ee20593c1727269fda918f9701b74e4c3836d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fd66d5f10a47efe7550c85fc4fc696a08265128.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5c29ad7f32a5ae54b8e8602192f60b241eac569.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "6时30分"
       ],
       "answer": "2时30分",
-      "explanation": "$4:30 - 2:00 = 2$ 小时 30 分。✓"
+      "explanation": "$4:30 - 2:00 = 2$ 小时 30 分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e3a5b150492cbdae721145113e56fd6535e222b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43d4972ce38bc215ffe27f82a3eaa65555907a98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b44cb6bd592908665f043b9b6231647fb1df6f33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2498d4766ba7ff5c4d7d0388959974292e403941.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7bc370e200ea51c3d47c527a2251c115b02383e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47bc031f54c6ec5fdf353b983888048f980b5b4.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "12:05"
       ],
       "answer": "11:55",
-      "explanation": "$45 + 10 = 55$。所以时刻是11:55。✓"
+      "explanation": "$45 + 10 = 55$。所以时刻是11:55。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6eb66a55fe77d658f73f0080ac90294d378ff6da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b97a478211ddfd11c9cd381a8c8e4ba892de48f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb0989aefc4136024c2f966edb74fbd915771f04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/066c36f29d2944df235aca57d96e97e2fc362107.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c11934a619f7e8fc21ac60347d1b9df9e82c990.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "12时"
       ],
       "answer": "1时",
-      "explanation": "分针走一圈是60分，也就是1小时。✓"
+      "explanation": "分针走一圈是60分，也就是1小时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12faeee9376588b1d0449f1130cf51397232690b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b449f4fe9d59bcb5e0b8329a77220d6e26c2983.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd9786c7da7a42d822bb84e1f87b37fc87337eb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/212c8e47462f96dbc95fae2113f3d82096088798.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小红做家务用了 1 小时，也就是 ___ 分钟。",
       "options": [],
       "answer": "60",
-      "explanation": "1时=60分。✓"
+      "explanation": "1时=60分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da8677e83eeffa28ab493b8c9b8377d526b14cce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2178637e6044d8c741f8e73e48ea41ca3317d090.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "现在现实时刻是 8 时 55 分，再过 5 分钟是 ___ 时。",
       "options": [],
       "answer": "9",
-      "explanation": "$55 + 5 = 60$，满60分进1位到时。$8 + 1 = 9$ 时。✓"
+      "explanation": "$55 + 5 = 60$，满60分进1位到时。$8 + 1 = 9$ 时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc1fcde26bb233b1cccdcb7d22e384d56abde26e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/689fe4fd8d402635a216e13be01fd0e920e6a525.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "30 + 30 = ?",
       "options": [],
       "answer": "60",
-      "explanation": "两个半小时（30分）相加等于60分（1小时）。✓"
+      "explanation": "两个半小时（30分）相加等于60分（1小时）。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/198acbc24bd5809b7428aa6e5fe9f789fef26d0e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/175275ad65c6efb1641e4065578872efbb1c0852.mp3"
+      }
     }
   ],
   "knowledge": null

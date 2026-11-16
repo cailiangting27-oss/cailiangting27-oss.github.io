@@ -21,7 +21,17 @@
         "12"
       ],
       "answer": "6",
-      "explanation": "正方体 6 个面。"
+      "explanation": "正方体 6 个面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8827b9ef9b41d01c8d260490f8b577c09fdc7bea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e31eb5411a37dbaa97f5dc36ba808046d410330b.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "圆柱的上下两个面一样大。",
       "options": [],
       "answer": "对",
-      "explanation": "底面全等。"
+      "explanation": "底面全等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e36b146d76765f27289e1ae533446e00d7eb9e4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93097da6146e64f230fca7aaf9df1a650a23c0c0.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "圆柱"
       ],
       "answer": "长方体",
-      "explanation": "粉笔盒近长方体。"
+      "explanation": "粉笔盒近长方体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4f755bcf10d1ea109bb2df8aa475182069a2dc6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa0e6f2769751bbee9d5db66c57c7e6693188f2e.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "球没有平平的面，容易滚动。",
       "options": [],
       "answer": "对",
-      "explanation": "球爱滚。"
+      "explanation": "球爱滚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b36f162ba3fc1be4b85ba7f3c6882ca256b13f6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/2875cbf600ed384284ecf148980aa92627d4107d.mp3"
+      }
     }
   ],
   "knowledge": null

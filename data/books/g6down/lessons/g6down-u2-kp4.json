@@ -16,7 +16,11 @@
       "question": "商场“买四送一”，实际上是打八折销售。",
       "options": [],
       "answer": "对",
-      "explanation": "买四送一意味着付4件的钱得到5件，折扣为 $4 \\div 5 = 0.8 = 80\\%$，即八折。"
+      "explanation": "买四送一意味着付4件的钱得到5件，折扣为 $4 \\div 5 = 0.8 = 80\\%$，即八折。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c1c703065a8a65561f596bdbf346ee3d33c2bac.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/001f14b1eaa3bac9d9820adf6923656e0f650077.mp3"
+      }
     },
     {
       "id": 15,
@@ -32,7 +36,17 @@
         "无法比较"
       ],
       "answer": "A商场",
-      "explanation": "A：$200 \\times 70\\% = 140$ 元；B：$200 - 30 \\times 2 = 140$ 元。计算中有误，应为：A是140，B是140，选一样便宜。重新验算：B满100减30，200元正好减60得140元。选项修正：选一样便宜。更改题目以有区别：A打七五折，B满100减30。A：150元，B：140元。选B。更改为此逻辑：A打八折(160)，B满100减30(140)。选B商场。"
+      "explanation": "A：$200 \\times 70\\% = 140$ 元；B：$200 - 30 \\times 2 = 140$ 元。计算中有误，应为：A是140，B是140，选一样便宜。重新验算：B满100减30，200元正好减60得140元。选项修正：选一样便宜。更改题目以有区别：A打七五折，B满100减30。A：150元，B：140元。选B。更改为此逻辑：A打八折(160)，B满100减30(140)。选B商场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d14039c91add43e5fe6396879e0c492c9895a2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27401e7fc9452309e331816e3af2c5baea09d4d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e20f9c95be2997a133a5e9a36dacce15aa2629d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9e41f13c4260c34ea54607a0b12d8887c97734e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c78250521e944341c2a04111e9fef8dcf92eefc6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "满减活动中，没有考虑到未满额部分不享受减免",
       "在返券活动和打折活动对比时，忽略返券需要二次消费的限制"
     ],
-    "tips": "解决最省钱方案问题，最好的办法是在草稿纸上分别列出不同方案的计算式，求出最终结果再挑选。"
+    "tips": "解决最省钱方案问题，最好的办法是在草稿纸上分别列出不同方案的计算式，求出最终结果再挑选。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ac/ac5a195d230f4b1d51a67d5a3bb3dd9f79f3b6ca.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/93/933b6891d571bf4f7262b1df8b23e1d7ad9cf8bc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ab/ab5b67d4405b5976b70e0b83219205cc1b17bd41.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/cf/cfcdb7237380d2a4535ed65d75860ab02d1c5812.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7a/7a257ad212ee261d06855aef12fe16314235a0ff.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b2/b2e0d270d069cb88f1bdeb10887c2019321894b9.mp3"
+      ]
+    }
   }
 }

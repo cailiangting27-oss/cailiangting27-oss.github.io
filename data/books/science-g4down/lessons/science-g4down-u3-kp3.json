@@ -16,7 +16,11 @@
       "question": "土壤里除了沙和黏土，还有空气、水和腐殖质。",
       "options": [],
       "answer": "对",
-      "explanation": "土壤是由不同大小的固体颗粒（沙和黏土）、空气、水分以及植物残体腐烂形成的腐殖质组成的。"
+      "explanation": "土壤是由不同大小的固体颗粒（沙和黏土）、空气、水分以及植物残体腐烂形成的腐殖质组成的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3ade6f9d71830412733798365965ebbdadea242b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a396bb3ea5540270cdc9a5c683aaa022c3e3f2f3.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "黏土"
       ],
       "answer": "空气",
-      "explanation": "气泡是因为土壤颗粒间的空气溢出形成的。"
+      "explanation": "气泡是因为土壤颗粒间的空气溢出形成的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/462520e20b039f4ab71a5c13b8c31a4454a104d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5d72588a6ce39934428dcf325ee43107648c3718.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/043b9ecdec5884bcff51d24bd32d6b187d66c221.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aac76a60b862ae020fac1bda280dccfa95d26977.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8c1a423290bc0ac8c8d3c1ca33225d8f81bb907.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "腐殖质"
       ],
       "answer": "沙砾",
-      "explanation": "根据重力沉降规律，颗粒大而重的沙砾会首先沉到杯底。"
+      "explanation": "根据重力沉降规律，颗粒大而重的沙砾会首先沉到杯底。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/9219d8581d8553855470f50097bbac3f058b2fdb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aac76a60b862ae020fac1bda280dccfa95d26977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b179b4a896f432f1635590b9794a15ea17e8f7ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d15fc18102d93d9f723f011e2232dece6614f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/043b9ecdec5884bcff51d24bd32d6b187d66c221.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7e88e8bad743ccd73b36630e297d31a58eb9cbc.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "土壤中动植物腐烂后产生的黑色物质叫作（）。",
       "options": [],
       "answer": "腐殖质",
-      "explanation": "腐殖质是地球表层非常肥沃的部分，能为植物提供养分。"
+      "explanation": "腐殖质是地球表层非常肥沃的部分，能为植物提供养分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/8108a2a8e90aabb00e91087e7edff6f78d4c8d2f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72f429609b043e90627a41fac7f60502ef24eb6f.mp3"
+      }
     }
   ],
   "knowledge": null

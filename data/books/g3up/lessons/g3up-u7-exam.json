@@ -16,7 +16,11 @@
       "question": "只要有四条边、四个角的图形就是长方形。",
       "options": [],
       "answer": "错",
-      "explanation": "长方形除了有四条边四个角，还要求对边相等且四个角都是直角。"
+      "explanation": "长方形除了有四条边四个角，还要求对边相等且四个角都是直角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/434b8cf378e6e1a68c1c8c4f99b41e30bbadab26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/861c0b93af8d97c2b6ce6ca414003935b6d0f0b0.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "两个周长相等的长方形，它们的形状一定完全相同。",
       "options": [],
       "answer": "错",
-      "explanation": "例如周长是12厘米，可以是长5宽1，也可以是长4宽2，形状不同。"
+      "explanation": "例如周长是12厘米，可以是长5宽1，也可以是长4宽2，形状不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3d25e91e585b66ca7b24e1a6ed4a10cbf7f5f3a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b56b5e557c714c92ec2123d300c26581f7d9d8f9.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "用12个小正方形拼长方形，拼成的图形周长是不固定的。",
       "options": [],
       "answer": "对",
-      "explanation": "拼法可以是一行12个，也可以是两行6个，拼法不同则重合边数不同，周长也就不同。"
+      "explanation": "拼法可以是一行12个，也可以是两行6个，拼法不同则重合边数不同，周长也就不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5347133f6cf3e8ec9acc6ccd11210b92907fab0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a47299df1713923efc2505ffe6017d507cf3633.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "把一个正方形剪成两个完全一样的长方形，每个小长方形的周长是原正方形周长的一半。",
       "options": [],
       "answer": "错",
-      "explanation": "剪切后多出了两条边，所以两个小长方形周长之和会大于原正方形周长，单个周长大于一半。"
+      "explanation": "剪切后多出了两条边，所以两个小长方形周长之和会大于原正方形周长，单个周长大于一半。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37f277943d95e8741a9fb323e48f5cee098936ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9d88d4f587eab2ecc1f658209fa1971171e3b1b.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "900"
       ],
       "answer": "600",
-      "explanation": "一圈周长：$2 \\times (100 + 50) = 300$ 米；两圈：$300 \\times 2 = 600$ 米。"
+      "explanation": "一圈周长：$2 \\times (100 + 50) = 300$ 米；两圈：$300 \\times 2 = 600$ 米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0a0d03937b35c6d4e2b3f0d7a5c18328141cff1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15aa0c7e8fbd2923db7041d012e8838d66b9572d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d96adb142a1f7ede4d5906eadf01409dbd98b60d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28cc2209b234d9183848f1c6a8ff13e0311057b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4abee85fb8b2396af28b3e18b31f2aec00566c99.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无法判断"
       ],
       "answer": "拼成正方形",
-      "explanation": "在面积相等的情况下，图形越接近正方形，其周长越短。"
+      "explanation": "在面积相等的情况下，图形越接近正方形，其周长越短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b1e49c1d3d4c49edf5e3e6bacf96d4ad9fcb888.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c357a112a0ea5286e48c076947de37442dec09f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/245f3f6092a93b88599e007100a892b8efc0d087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b1cee739aeb5259d4bc49d7b3d6b149dc087539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95ebbd902d94d399486d729d14fc10f277edf453.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "16"
       ],
       "answer": "18",
-      "explanation": "原边长 $24 \\div 4 = 6$。长方形长6，宽3。周长 $2 \\times (6 + 3) = 18$。"
+      "explanation": "原边长 $24 \\div 4 = 6$。长方形长6，宽3。周长 $2 \\times (6 + 3) = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c464c36e2249007330de01e3c530410541b4c5c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2cd972a5526f8dcc406bc867ff0415a6847a8e0d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "12"
       ],
       "answer": "16",
-      "explanation": "长为 $2 \\times 3 = 6$。宽为 2。周长为 $2 \\times (6 + 2) = 16$。"
+      "explanation": "长为 $2 \\times 3 = 6$。宽为 2。周长为 $2 \\times (6 + 2) = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00e1ac94f88233045ec12cabfe66e132f0f8cb8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/582cc77a41c4b8e6381b7486aef8d5d4f27e3f7f.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "5"
       ],
       "answer": "10",
-      "explanation": "总长 $2 \\times (15 + 5) = 40$。正方形边长 $40 \\div 4 = 10$。"
+      "explanation": "总长 $2 \\times (15 + 5) = 40$。正方形边长 $40 \\div 4 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d06502d8a545fdc3e785d734d82a4991a5471c4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e87465fd4cddf849f12fc1dd71a9ae9476baa3c.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "48"
       ],
       "answer": "32",
-      "explanation": "长为 $4 \\times 3 = 12$。周长 $2 \\times (12 + 4) = 32$。"
+      "explanation": "长为 $4 \\times 3 = 12$。周长 $2 \\times (12 + 4) = 32$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c577e5a2a3ee7d616b5d2451a48309b658ad3ed3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08148787edcc43aec04619583413df8ff43ae594.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "40"
       ],
       "answer": "20",
-      "explanation": "小正方形边长是 $10 \\div 2 = 5$。周长 $5 \\times 4 = 20$。"
+      "explanation": "小正方形边长是 $10 \\div 2 = 5$。周长 $5 \\times 4 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c01e106e38ea5dafd7b0faf762681a0ef6a24b6f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb2fea5dcb9148b9c35e09a472917ce98b351823.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "五边形"
       ],
       "answer": "长方形",
-      "explanation": "这是长方形的判定特征。"
+      "explanation": "这是长方形的判定特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d34c653d1c0a8c372c437ec8c58b6ebd7d0a3568.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a75ad7527d56012002b08c8b8b6de46d2e05193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/564fc199bcdd48e2e08cdd8b52b69a2e8823d61b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1aafecbe4a46fb0bfd461738a41cf46da7273b85.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个正方形周长是 36 厘米，它的边长是 ___ 厘米。",
       "options": [],
       "answer": "9",
-      "explanation": "$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$✓。"
+      "explanation": "$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e1be96b128a3aa9d79455e7a925015744a4fafe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83242f57a6975a6e25abae37bbeb6bcc24d94c32.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一个长方形长 10 米，宽 6 米。如果宽增加到 10 米，就变成了一个正方形，这个正方形周长是 ___ 米。",
       "options": [],
       "answer": "40",
-      "explanation": "变成边长为 10 的正方形。周长 $10 \\times 4 = 40$（米）。"
+      "explanation": "变成边长为 10 的正方形。周长 $10 \\times 4 = 40$（米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38df8c403358e5dfb37c23a4c07636d532cacd5f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7af91d1cc5c8c731509abc257d2d2d2bc339986.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$(20 + 30) \\times 2 = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$50 \\times 2 = 100$。验算：$100 \\div 2 = 50$，$50 - 30 = 20$。"
+      "explanation": "$50 \\times 2 = 100$。验算：$100 \\div 2 = 50$，$50 - 30 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6885c55881531ff228437d08220287019523bb6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e930575cb3389be5e70ffc125d73f14b92461cb.mp3"
+      }
     }
   ],
   "knowledge": null

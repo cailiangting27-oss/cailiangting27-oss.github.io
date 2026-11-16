@@ -16,7 +16,11 @@
       "question": "“放假”里的“假”读音是 jià。",
       "options": [],
       "answer": "对",
-      "explanation": "表示休假、假期的意思时，‘假’读第四声 jià。"
+      "explanation": "表示休假、假期的意思时，‘假’读第四声 jià。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0afd4401acf8a43867848c6f1fd4f987f0cd1090.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8ad80bd2b6b461291a05fd789255606b87d824fd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“到处”里的“处”读音是 chǔ。",
       "options": [],
       "answer": "错",
-      "explanation": "‘到处’表示地方，应该读作第四声 chù。"
+      "explanation": "‘到处’表示地方，应该读作第四声 chù。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2eb24c0b2e0fa8765efe1b2b68e12530cf4aa1bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97586377365965b90d7bea9c216e77a051ffe18d.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "几十"
       ],
       "answer": "茶几",
-      "explanation": "‘茶几’的‘几’读第一声，表示小桌子；其他项均读第三声，表示数量。"
+      "explanation": "‘茶几’的‘几’读第一声，表示小桌子；其他项均读第三声，表示数量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52af025756239c372fbffc521901529f29abd05d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9652b2d103990e2c25c6b21afa892160dd41e01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2e23bff64c19bfe577ccc014a9c7ec4ec87a325.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e0d14e2c1d8eed48c8992dee5dccbaea3a4bc00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44d87c37f41468fed6b2bc31f89ff155ec93709a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/590bf01e400f435ab2d43ef4d0ca1c6de458cfcb.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "zhòngs"
       ],
       "answer": "zhòng",
-      "explanation": "表示射中、被选中的意思时，读第四声 zhòng。"
+      "explanation": "表示射中、被选中的意思时，读第四声 zhòng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4cf7f915c83c576d851fbd1d9cd68fa229164383.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6138b07dc2061d877e7f2fd85c16792f91b8b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fbc3236895557a32075217162ed5a8fa8d40cc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bb139a8341ea1872572fafb780a2fe83ee752ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4aa9dc5df6314413ffadab5ac3039e946c5afc3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7592c3b5a90e09e0f5cdbda9a8f862da0e2e9782.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "住处"
       ],
       "answer": "处理",
-      "explanation": "‘处理’的‘处’读三声 chǔ，其余项均读四声 chù。"
+      "explanation": "‘处理’的‘处’读三声 chǔ，其余项均读四声 chù。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1ba8514c1eac9bf9f418afd3ccee5301f135ee3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fed21b5085583bcd3c06287db30d7bc133372539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94d3e4c2010d8c82e046fa59ae3db7cb520960e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9263e46a010921c116141eed78d28767a6822ed1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91b502124d320402e10d9a167ec02097a621db6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0ff5548b82e7655b422982226bbb6d3b2bc3985e.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "“假”字的两个读音分别是 jiǎ 和（ ）。",
       "options": [],
       "answer": "jià",
-      "explanation": "‘假’是多音字，有 jiǎ（虚假）和 jià（假期）两个读音。"
+      "explanation": "‘假’是多音字，有 jiǎ（虚假）和 jià（假期）两个读音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84af85e75dfd6b6c3961a19e4f2dced28769c577.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf32779c926ed4b2e957a32642597aa610767ea6.mp3"
+      }
     },
     {
       "id": 21,
@@ -106,7 +148,21 @@
         "zhōng"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "中国和中间读 zhōng，中弹和中奖读 zhòng。"
+      "explanation": "中国和中间读 zhōng，中弹和中奖读 zhòng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7ad63cdf556192918edb5302a8c4f95ff3e53a66.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/6687c01a1ea497281d0ac2c1fb973f9b31734381.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bd19835131c0c03ae55ebded394468727b86664.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fbc3236895557a32075217162ed5a8fa8d40cc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6138b07dc2061d877e7f2fd85c16792f91b8b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fbc3236895557a32075217162ed5a8fa8d40cc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6138b07dc2061d877e7f2fd85c16792f91b8b66.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04b190b398f6e86fa42adb7f9bdd9d4e95bc6a2f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -117,6 +173,16 @@
       "将“几乎”的“几”误读为三声（正确为一音）。",
       "将“放假”的“假”与“真假”的读音混淆。"
     ],
-    "tips": "可以编顺口溜记忆，如：暑假(jià)里看假(jiǎ)戏，中(zhòng)标要在中(zhōng)间。"
+    "tips": "可以编顺口溜记忆，如：暑假(jià)里看假(jiǎ)戏，中(zhòng)标要在中(zhōng)间。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8f/8f15ecf4704f4bae42b48738ad40e619cff031a8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/13/13f8e0b08ba9fd9869d964ecf60a728788d30813.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/18/18c9829a5f56f5e8833d7e9f9552e3ae33b3bdb7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a3/a3afb60a73fd26c912d4a8d1d4b510c1eb63a4ec.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/63/63cf9d57c3b3ecc415c47bb794a9e53cce4abeca.mp3",
+        "https://api.clthuanxie.cn/cc-audio/28/28a3ab7da9cf93ce1a759e12cfee1584b9e72ce1.mp3"
+      ]
+    }
   }
 }

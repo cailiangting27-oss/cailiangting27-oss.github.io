@@ -16,7 +16,11 @@
       "question": "在描述事情经过时，'Finally' 通常放在段落的最开头。",
       "options": [],
       "answer": "错",
-      "explanation": "Finally表示‘最后’，应放在事件描述的末尾。"
+      "explanation": "Finally表示‘最后’，应放在事件描述的末尾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/3828025a06eb7346b5c8e86e510d84c8ee72ba27.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/feda842cb436bc1fd3c5cd643a3870d497dbf141.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "Next"
       ],
       "answer": "First",
-      "explanation": "表示事情的第一步通常用First。"
+      "explanation": "表示事情的第一步通常用First。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63324fa711c74ff8a843127c0bd951b34cb6cdd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6cdaaa8cb2e65801aa1c8d80ee153518e1a67b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0793a1ac6569feaae9c7f77df1c7f51e3d925143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/916a78d701ded328cd66da58a97ef8cd28a99e84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc981983e7f547dc62e19a1e383acfe00782a6d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03da99b25ace7d4a183632fa91e6cd1d368dbe03.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "First, I wash my face. ____ that, I have breakfast.",
       "options": [],
       "answer": "after",
-      "explanation": "After that是固定的衔接短语。"
+      "explanation": "After that是固定的衔接短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a323303b5d3330814ac899c91a79557a681f46d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f220ed9a6b5c8d46fd7df800394f7f2499b3344d.mp3"
+      }
     },
     {
       "id": 21,
@@ -63,7 +81,21 @@
         "然后"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "A.In the morning-3.在早上; B.Then-4.然后; C.Finally-2.最后; D.Yesterday-1.昨天。"
+      "explanation": "A.In the morning-3.在早上; B.Then-4.然后; C.Finally-2.最后; D.Yesterday-1.昨天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/524d53af168b69b6416c549e21cfc650fd4777b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f05f51562fe4e16abc5b01406d8ea00d93057d72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d93209feaafbc1a12da3a4ff746ce203ae75ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cdaaa8cb2e65801aa1c8d80ee153518e1a67b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da24830f1f7072d55862afb6969c1a4c433ac056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59c4fcb09e276fac1191534b05678f6f4ba7f7b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/321e225c634ecac2754dc42607f6642098aa91c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68416204ff770f5edf3bb02d4800f7c03d2b79a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9c7768d6ddd381e8018aaf34affe209108b9e4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/902574d45c85636939de1a61ac3ce9014a4bdd8b.mp3"
+      }
     }
   ],
   "knowledge": null

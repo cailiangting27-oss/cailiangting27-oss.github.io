@@ -16,7 +16,11 @@
       "question": "在写通知时，通知的日期应该写在发布人的正下方。",
       "options": [],
       "answer": "对",
-      "explanation": "通知的落款习惯是先写发布单位或人，下面写日期。"
+      "explanation": "通知的落款习惯是先写发布单位或人，下面写日期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05678bafe7b3bdac009e19d72f0937326a507673.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d41aede86316fc443289d9866d54f51b16573d7.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "第一行右对齐"
       ],
       "answer": "第一行正中间",
-      "explanation": "标题必须居中书写。"
+      "explanation": "标题必须居中书写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a23e73a349bbdb6935891bceb6c5f45a11477017.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7ad18d59927c91a8a193b03c7943ccb2a65af8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67cee9c1a2c9a1fd9b70962c60468215d4607d40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc82a462c4f7bf46abc990eaa796dee6539d7fc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d50f22e641c68e9f03f29dd27870d35b756b26b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d11721049d2e3c6453edc2335bc2197e7036da1.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "通知正文第一行开头应空___________格。",
       "options": [],
       "answer": "两",
-      "explanation": "段落开头空二格。"
+      "explanation": "段落开头空二格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c711e46c0d054f55d9c4ea6479450a6c36fd510c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f47973959f06593d7552dad6d14f7599828ab9b8.mp3"
+      }
     }
   ],
   "knowledge": null

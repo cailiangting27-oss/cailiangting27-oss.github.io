@@ -21,7 +21,17 @@
         "冲刷"
       ],
       "answer": "冲刷",
-      "explanation": "“冲刷”发音为 chōng，其他三项皆为 chòng。"
+      "explanation": "“冲刷”发音为 chōng，其他三项皆为 chòng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b400c7b1b25878045ece23e000cb1370a2e2f21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64ba76f4e605ecd47e4484ed05104543fb0d7e70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5872b43c8d8d4ec693550a7baa09f11658c1110e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/800d37f8dcfbdd9ead60d1e6aaf9920f84e5ceaf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d960e8b73f746571b695605e2185d284dcc4d6d0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48cdbc9425af3c863b4c8c029d4bdeea17e66997.mp3"
+      }
     }
   ],
   "knowledge": null

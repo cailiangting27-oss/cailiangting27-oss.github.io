@@ -16,7 +16,11 @@
       "question": "‘小黑猫在台灯下睡觉’中‘在台灯下’是一个表示地点的短语。",
       "options": [],
       "answer": "对",
-      "explanation": "‘在……下’是常见的方位结构。"
+      "explanation": "‘在……下’是常见的方位结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e618d9e34609a1974a998a70080005be9cc07e87.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7a076a2d3afd9e86afe08ba0d1f509c3924fb0e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《曹冲称象》中，称石头的目的是为了间接算出象的重量。",
       "options": [],
       "answer": "对",
-      "explanation": "由于象太大没法直接称，所以通过称量与其排水量相等的石头的重量来代替。"
+      "explanation": "由于象太大没法直接称，所以通过称量与其排水量相等的石头的重量来代替。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e4c8283ab04ef008af566c4c827157099ca3a92.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8cd03a0257d3ea7375174a436a6a2ff9f8de780.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "‘坏事变好事’的关键在于我们是否能够开动脑筋去想办法。",
       "options": [],
       "answer": "对",
-      "explanation": "事物本身不会自动变好，需要人的智慧引导其转化。"
+      "explanation": "事物本身不会自动变好，需要人的智慧引导其转化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/860bb3ad68eab5d95467620c13bb84ac41a61811.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ed2a544d33e2586ae4e8b6eda962e5e29d423a1.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "‘练’字在‘练习’和‘教练’中的意思是不一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "练习指学习操作，教练指指导他人。"
+      "explanation": "练习指学习操作，教练指指导他人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df238801272194f3c28ff31f708d34432dc45dcd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b6f222c91893511d713ec3c04d9e6f7fecd41e1.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "九"
       ],
       "answer": "七",
-      "explanation": "课文原文：‘曹操的儿子曹冲才七岁。’"
+      "explanation": "课文原文：‘曹操的儿子曹冲才七岁。’",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb708c320610e28643be30464e9b092b7eeb8489.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d72c724e03b360484cd7a9000f14544b50a0957.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7db1eeb5c3746b6625047193939edad3c9f5a946.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2142fb62fd47115cc6b5717e6426ebc88bce6c68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a2b9f17beaf4c904d503b1a58fb01ba04f8a03.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bf16770425157ca3017d08a2d6b3bb637390ff3.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "一只猫面具"
       ],
       "answer": "一只小花狗",
-      "explanation": "为了掩盖墨渍，玲玲动脑筋画了一只小花狗。"
+      "explanation": "为了掩盖墨渍，玲玲动脑筋画了一只小花狗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b1ebe49db6506b712ad31a1f966e935ffa3ed69.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2fa20e5ecc589cff9ae23af60cac639fd1515306.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/090ccaa1ef7ec3078fe5d0e171e6106cc39e9801.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/205dbb59e4abd9316756c4fb390dd30db1cbf9f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e7f98dbe557cce78104636bb90ebc4e1bb25571.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f290975b6151957c4abe90ed6e470f49f40c911d.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "虽然……但是……"
       ],
       "answer": "又……又……",
-      "explanation": "‘又……又……’表示多种特征并存。"
+      "explanation": "‘又……又……’表示多种特征并存。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56a7c8d8649a8d7225231c5df31ebd0336b8eb93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/414e827742e14c9716439ceda527bd286f596861.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2198cfef89825aaa339c1e921e19427c85431b2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efcdcfd03948d05774e7030862b4bc6c2e97ae1b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "沙子"
       ],
       "answer": "沙子",
-      "explanation": "在逻辑推理中沙子也是可以的，但在称象这个经典思维中，他是用‘石头’对比，但在实际应用中属于同理转化。"
+      "explanation": "在逻辑推理中沙子也是可以的，但在称象这个经典思维中，他是用‘石头’对比，但在实际应用中属于同理转化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc4fa8c8a1ec15c49bce593d8e016130a57c1d10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b92bbf5ed4c403e5596382bf9eb1c751a6dd5e22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8f7f505f04b47d1b9da04be98d4d4e5018169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33b1f871ba0f42b8d522295fa23a66da19e9529c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99306e87ea573d941cba65f138c8cb83d7c97926.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "要努力画画"
       ],
       "answer": "遇事要多思考",
-      "explanation": "这两篇课文都旨在培养学生独立思考和解决问题的能力。"
+      "explanation": "这两篇课文都旨在培养学生独立思考和解决问题的能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a0a20d33012d733eb9e9d887f88f21fae339622.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aed88a204c4dfad98b826756a7a4af8c80c1b1f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c0b04598ace02457df20f917ea2cd07a2640f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0dacc69343321004a74949a965c627f5a94cd80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75113cd9a31f01f478aa11c8bff69b3872dc553b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d7d8aaf5bdb5463f27fbc8dac75fcc7002c0dc5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "快快乐乐"
       ],
       "answer": "快乐地",
-      "explanation": "动词‘歌唱’前应用‘地’来衔接形容词。"
+      "explanation": "动词‘歌唱’前应用‘地’来衔接形容词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46434e6acafc3e771b929524e9838069fa010134.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d5d8f36be86d183c89f6a3c24b47bef5883b6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60ceac67af19576e146e42bd82b79b6919ef8afa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81ca9d7e1e2eb4e60b03228bc5a0d78484d56796.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3718898e6ecec0c56de88dd0882db1dafbf69810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b1e428fabf492d06b9069e78cf70e20a833c9de.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《曹冲称象》中，称重的关键工具是（___）。",
       "options": [],
       "answer": "大船",
-      "explanation": "没有大船的浮力，曹冲的办法就无法实施。"
+      "explanation": "没有大船的浮力，曹冲的办法就无法实施。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb983dec1c2ef805b4ae1ce24115cbea672fe11e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b06f5b04aeb2534d8e4501049e050bb1cfe98c52.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "写信给长辈时，在名字后面常加上表示敬意的称呼是（___）。",
       "options": [],
       "answer": "您",
-      "explanation": "‘您’是书信中对尊长常用的尊称。"
+      "explanation": "‘您’是书信中对尊长常用的尊称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a35fc9808be8758594f0e331a858cdea125cf5a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea397af50b9737414ed71fca7442d9e8d8ec888e.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "捏"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "弹钢琴、捏泥人、下围棋、滚铁环。"
+      "explanation": "弹钢琴、捏泥人、下围棋、滚铁环。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a48aa540297caeca670806a5451cc7213ed505c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c355303e5f2d116d77b307c7c4dc9422a7bb3210.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fe66806af27e2c9b7479c8f99aeab376d9b9589.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58d1bf2c27b88815865a76849382ce09ac385b73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a1a75ce1ff3a368f930d02df7c89f07e09174c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6caf2effb1c0ddb386ff14e1278c73187b81815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dae9fd3c64f1baee432d403eda7365eb449aa55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4122c601c63460204b4f9dcc99713470ad3aa6cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/669b000e6a2fda25162556688bc93bed4f947620.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2d6be53a489c03e827328a1e69c4f0332c78cc7.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "打量"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "高兴对应开心，端详对应打量，仔细对应认真，称赞对应夸奖。"
+      "explanation": "高兴对应开心，端详对应打量，仔细对应认真，称赞对应夸奖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/658ad2ab238b5d717cad5222aa012c96478cac95.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9bd182d2e80d5384637265e62695d473427718a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cceb82ad7a1d2ad46a4a639c7a70eda5629db00c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab067522e7546fdc1f25154045d194b20103b500.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f6feabfdbcce305a6216ed1e3029c108be2bb98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0d706bca6b03bc55bb7aae5bb50137e96d6a4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d946dacd501a0616389239fcd4e1df676ac9eff9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c258d12c2fc11ac1c207cdcf9f8a0150ef37a5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528784770098627e3d76ea744adac31b9681668c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/166382fb154dda6fdd586573b42914b708b169c8.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "小船"
       ],
       "answer": "弯弯的,月亮,像,小船",
-      "explanation": "按照‘谁像什么’的句式进行排列。"
+      "explanation": "按照‘谁像什么’的句式进行排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/283fcca9c89406e7257507afc5e539e6262cb891.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee2d2624f261c2464d6f4366c0199e22b990da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/417594f3f53822cf406c169302f62b84bb3338bc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea150166bfaf3431875ff207d7871a1a84fff00d.mp3"
+      }
     }
   ],
   "knowledge": null

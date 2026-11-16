@@ -21,7 +21,17 @@
         "his"
       ],
       "answer": "white",
-      "explanation": "描述鞋子颜色用white，其他词汇为性格描述或代词。"
+      "explanation": "描述鞋子颜色用white，其他词汇为性格描述或代词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3410c9146218a32f92e5a8d0a33e702f536f485.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41209342f36141100dd8dc887e9ab9dae2f71f87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b187a9ed471ef7465c5d78cc7b4b1846f07ac76d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a77e31b4dd01bac17ab8773e57112deac96bcec.mp3"
+      }
     }
   ],
   "knowledge": null

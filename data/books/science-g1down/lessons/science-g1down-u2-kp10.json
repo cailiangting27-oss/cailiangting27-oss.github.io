@@ -16,7 +16,11 @@
       "question": "蜗牛爬行过的地方会留下一条黏液组成的痕迹。",
       "options": [],
       "answer": "对",
-      "explanation": "蜗牛通过腹足分泌黏液来辅助爬行，干燥后会有银色痕迹。"
+      "explanation": "蜗牛通过腹足分泌黏液来辅助爬行，干燥后会有银色痕迹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d384227ee6582b1f416d859b5fa8462b8a321542.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07439602a5a92e6574d3a92b25a83ac68a8f4540.mp3"
+      }
     },
     {
       "id": 19,
@@ -27,7 +31,11 @@
       "question": "蜗牛有（___）对触角。",
       "options": [],
       "answer": "2",
-      "explanation": "蜗牛头部有两对触角，一对长，一对短。"
+      "explanation": "蜗牛头部有两对触角，一对长，一对短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26de052f43edcc7a5d42db3fa852b012a5394303.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bfef7325f4bbe655ae09bc24f49a9927e98d959.mp3"
+      }
     },
     {
       "id": 21,
@@ -38,7 +46,11 @@
       "question": "蜗牛用来爬行的部位叫（___）。",
       "options": [],
       "answer": "腹足",
-      "explanation": "蜗牛底部的肌肉组织称为腹足。"
+      "explanation": "蜗牛底部的肌肉组织称为腹足。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef3435d67b3015184095962d0452ed1841b36845.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5791843c2bffb6dc8a781c95bd2b26e6b4c0b5f0.mp3"
+      }
     }
   ],
   "knowledge": null

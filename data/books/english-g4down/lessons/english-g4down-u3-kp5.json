@@ -16,7 +16,11 @@
       "question": "当天气 'hot' 时，我们适合穿 'sweater'。",
       "options": [],
       "answer": "错",
-      "explanation": "hot是炎热的，不适合穿sweater（毛衣）。"
+      "explanation": "hot是炎热的，不适合穿sweater（毛衣）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae6a2622853bcc0c1975382d6dce15931a896254.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc55d525e5b2d7a77acd6a6ddcabb0a5de1a4a35.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "snowy"
       ],
       "answer": "warm",
-      "explanation": "26度属于温暖(warm)的范畴。"
+      "explanation": "26度属于温暖(warm)的范畴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f65978ccd91caf871c55119217c78bd027cc3994.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/424fa43965bde21e1a972336f3c3bc0dcaafebf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d8d76ba15bde3ef1602f477f32fd64e32fea5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d83fc386ba33f5d5e06441c03df77ebee2beb6e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b1365e5c565f1882634d2907a1ff14298bba876.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "Can I have some ____ (汤)? Yes, you can.",
       "options": [],
       "answer": "soup",
-      "explanation": "汤的对应单词是soup。"
+      "explanation": "汤的对应单词是soup。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b9313343367f3d596f7b42e8aa4644672176096.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/325a8a0aba68063e603e34a6ee6fb9a5a7fa3d90.mp3"
+      }
     }
   ],
   "knowledge": null

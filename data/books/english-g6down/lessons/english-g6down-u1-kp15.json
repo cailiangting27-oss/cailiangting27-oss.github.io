@@ -21,7 +21,17 @@
         "thin"
       ],
       "answer": "taller",
-      "explanation": "1.6米大于1.55米，所以A更高。"
+      "explanation": "1.6米大于1.55米，所以A更高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95aaa931c7620147e408dac4f31a255e8f90ade2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c966b463b67c6424fefebcfcd475817e379065c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e840bf7fb2acab067ca3bf33801df225389465dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c3c295f075290ead8ad6f94eb282817c7e713c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe654ed4013abd96e1539a33d4d422066d18bc07.mp3"
+      }
     }
   ],
   "knowledge": null

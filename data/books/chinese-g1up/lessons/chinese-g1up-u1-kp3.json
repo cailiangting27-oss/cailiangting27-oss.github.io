@@ -16,7 +16,11 @@
       "question": "在学校遇到不认识的老师，可以不用打招呼。",
       "options": [],
       "answer": "错",
-      "explanation": "校园里遇到老师要有礼貌，主动问好。"
+      "explanation": "校园里遇到老师要有礼貌，主动问好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b342e9ae0f0fa5711c69f8646f7cb27ff683a29.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fddf2220bf39d29cfeba92f52760369dc8f820a5.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "站起来说"
       ],
       "answer": "举手示意",
-      "explanation": "举手是课堂基本的社交礼仪。"
+      "explanation": "举手是课堂基本的社交礼仪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64d7203ebfd0d9f79611da3003149d43d927149f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/9621981dc6e1e06a0d6943bc8af5db6903977095.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d87b39a847c6159766629ea4cd8946be32c9882f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b3255ad937588bc967719efef25afd0c2bd7cea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4cb499896410cb11ac63366241603a18127f909.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7eb1a579e64c7d38015ed7651050c6b002e099e8.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "成群打闹"
       ],
       "answer": "靠右慢慢走",
-      "explanation": "安全文明行进是校园生活的基本准则。"
+      "explanation": "安全文明行进是校园生活的基本准则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6b389978c3332c208783cab29c85625f536e0ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d15946c0554946aa6b3d1ca7e813030a876dd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7247616dc462272f98eb5d47315ba6d6f4bc27c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a8cc6ce50b88657f4b4e2a974f2a6b580b15909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb8251290707f96dc9ffae75bf7f426f97ba5df0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b41c51bc553a39d5fedac1fbf03a03ec9afdb04a.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "快拿来"
       ],
       "answer": "请问",
-      "explanation": "“请”是礼貌用语的开端。"
+      "explanation": "“请”是礼貌用语的开端。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99b9bc74779a7ce5d9d690927f9fc95d018723ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54c8c607f706da30ca8a05bf2e305cfcab01462d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd298a8b02321a72c7e3c6f5a945775412d3c96d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aaf7235e693eb1769970f7c18d37e2e2e54ddb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e379227ca6453fe4ec65813d40c2655d6766b8f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75b0954eaf387b7c47d8b374e6e4baed2cf975c6.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "早上见到老师，我们要主动说：“老师，（ ）！”",
       "options": [],
       "answer": "早",
-      "explanation": "“早”或“好”是基本的问候语。"
+      "explanation": "“早”或“好”是基本的问候语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b39cdf91f07ac729db49ac0ab516842729f3cd2a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53f996e86e13f7dae7ca7e2a1aef8851be164bde.mp3"
+      }
     },
     {
       "id": 19,
@@ -95,7 +133,21 @@
         "再见"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "考察基础社交礼仪用语的对应关系。"
+      "explanation": "考察基础社交礼仪用语的对应关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d42e7cd829ba3e33e8b71e4c4341f95a4d2f1309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d317e608632d8a3e0befc87d43962634acf79603.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82c358bb12e5abae08eaf57107dd9f7e2361b467.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8159036933ddd3f01779e56066e9881587dc7a01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88ff5d78e7e45ffdd5df92082a689e3eaf044a2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df96e37ca4b98b56ef2462a6dce478475e0bd398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a475a8799cc3e11df824f892c2febe811a84781.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e5fd9ee90e814ce885a960f1bb3fd63352b4ec8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82202bb725d734b4a2cca49a24d54f2e2ac209a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3a464790241d41068ff77cc6feb94259ef39f9c.mp3"
+      }
     },
     {
       "id": 23,
@@ -111,7 +163,17 @@
         "去"
       ],
       "answer": "我,开心地,去,上学",
-      "explanation": "描述上学的心理状态和行为动作。"
+      "explanation": "描述上学的心理状态和行为动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/786d434bead5151f449c53a3fc40f2dac59f6218.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b18de936add807909030113874b96c82a6195d23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/585d3fb39c1ac516a4483bab0bfd8a6885354e4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48086e2cfa212215403db25d21f6278974dcb2c0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -122,6 +184,16 @@
       "在公共区域（如办公室、阅览室）大声嘈杂",
       "忘记使用基本的礼貌用语“请”"
     ],
-    "tips": "通过角色扮演或模拟情景练习，让学生在真实的对话中掌握礼貌用语的使用。"
+    "tips": "通过角色扮演或模拟情景练习，让学生在真实的对话中掌握礼貌用语的使用。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5e/5e9e3cba52be2757fe130c22e502f28855e8fbb9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7b/7b534c5411ff3b197d8539dfa296eebdad8fc56a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5e/5ef15b9fd3493e28e2f9e99740bb0d1b9db6f2be.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1c/1cd1f04eb16e4c7d6735e0b09a3a0d36c8366706.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a3/a333888ebeb4445a04b7876624b5952b3a5b9fb6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/81/81c6145a401151ee8ef85923bd0d9bcdbfc0521a.mp3"
+      ]
+    }
   }
 }

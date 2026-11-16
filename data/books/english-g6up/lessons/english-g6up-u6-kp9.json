@@ -21,7 +21,17 @@
         "excited"
       ],
       "answer": "sad",
-      "explanation": "考试不及格通常感到伤心（sad）。"
+      "explanation": "考试不及格通常感到伤心（sad）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d8ddc73f5de928f660a371b8baa5c50e1566c3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f4d4213d6d9c701b432e33016a301220d1f0c04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4914600112ba18af7798b6c1a1363728ae1d96f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f529c0de3cab3a3f6351a48451fccf2f65685cde.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cb1dc0727b102ba1acbd60886c1ab0c67223604.mp3"
+      }
     }
   ],
   "knowledge": null

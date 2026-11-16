@@ -16,7 +16,11 @@
       "question": "一个点向右平移 3 格，它的行数会增加 3。",
       "options": [],
       "answer": "错",
-      "explanation": "向右平移改变的是列数（第一个数字），行数（第二个数字）保持不变。"
+      "explanation": "向右平移改变的是列数（第一个数字），行数（第二个数字）保持不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74838bec8fb0a1a5350d535565174d3765a8c578.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0660df5ec6b14186b0dc115c1df5f42961eef15.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "(3, 5)"
       ],
       "answer": "(1, 5)",
-      "explanation": "向左平移 1 格列减 1：$2-1=1$；向上平移 2 格行加 2：$3+2=5$。结果为 $(1, 5)$。"
+      "explanation": "向左平移 1 格列减 1：$2-1=1$；向上平移 2 格行加 2：$3+2=5$。结果为 $(1, 5)$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8e604c4e038d7a8148588a8aef3f8505ed38bbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/761b2ebbc213374f95683c241936ed305b6f619d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6966f965dfa8904bc312575d8facb921a620d84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d17c7c5e7c759de38db5cb6577a9a60e8ef9456a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e05fdc0a8d06b68cbaf40ed7dd2a04704eb325c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a026657ae55a74f6ef22ff86c1dca71d4bf17fd.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "(2, 2)"
       ],
       "answer": "(3, 1)",
-      "explanation": "正方形边长为 2。A 到 B 是向上移动 2。C 应向下移动 2 到达 D，即 $(3, 3-2) = (3, 1)$。"
+      "explanation": "正方形边长为 2。A 到 B 是向上移动 2。C 应向下移动 2 到达 D，即 $(3, 3-2) = (3, 1)$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/608548e776a7ccc673b840bc91447ba3474c20be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6966f965dfa8904bc312575d8facb921a620d84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a629cc0cd1f2e1302fae777bd2ff0b485bd081ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1de2ab3ef09d19dcfd47ff38d33986a106768b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0975468caa87203bf270355e1a6c54c2f724db7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a03fc73e4738171d8914adbf6f85f2db6a08a9fd.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "(x-2, y+3)"
       ],
       "answer": "(x+3, y-2)",
-      "explanation": "向右平移列加（x+3），向下平移行减（y-2）。"
+      "explanation": "向右平移列加（x+3），向下平移行减（y-2）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ecd3eaf96277fe90f3fec5f7569b0d509dbb9c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e7cfa15be5a74d568c0536a83cc249e7ff91e0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2197d62f01d36dcf918b64d49b9e72f50827dbf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65f7fde7113fc9836962e4eca621348004d9c113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9038d09a8ae4225f3a9dd14b97df6ba7aa3ab5eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e57968eed6ec03a2d832433dc41a20bf170ef085.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "一个点 A $(4, 5)$ 向上平移 3 格后，再向左平移 2 格，平移后的点第 1 个数字是 ___。",
       "options": [],
       "answer": "2",
-      "explanation": "向左平移 2 格，列数减 2。列算式：$4 - 2 = 2$。验算：$2 + 2 = 4$ ✓。"
+      "explanation": "向左平移 2 格，列数减 2。列算式：$4 - 2 = 2$。验算：$2 + 2 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd3714abbe0b7d604c9277fe1b79f78f5825229b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17935c18350a40a198098940766645922141ae54.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "平移方向与加减运算对应错误，如向左平移却误用了加法。",
       "平移时只改变了其中一个顶点的坐标，而忽略了图形所有顶点都要同步移动。"
     ],
-    "tips": "平移规律总结：左右移，变一数；上下移，变二数。平移几格就加减几。"
+    "tips": "平移规律总结：左右移，变一数；上下移，变二数。平移几格就加减几。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3a/3a210946c03df34e71018d67d37d9444298e9a3a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/35/3571cb749ee1e3643e20d108bb4467606a791147.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/85/858e71836c6d8120cb2b468fdf83a0e236a4c693.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2f/2fea7956785b03403c815f3bbafd0bab239e2439.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/09/0981708231aeb0eec31ae2b19eb1d6677179348d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/68/6819a113a8d913f0f10dabcf1b7fccd6cd2d0685.mp3"
+      ]
+    }
   }
 }

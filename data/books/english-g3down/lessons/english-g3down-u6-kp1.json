@@ -16,7 +16,11 @@
       "question": "英文单词 'thirteen' 是数字 13 的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "thirteen对应数字13。"
+      "explanation": "thirteen对应数字13。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/900ffbe2b5f37528d2f914e70dadcb409aefdfca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/532596c13cfb23f8b1935e19750ad21a1d586713.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'fifteen' 是由 five 加 teen 组成的，字母没有变化。",
       "options": [],
       "answer": "错",
-      "explanation": "fifteen的词根是fif-，由five变来。"
+      "explanation": "fifteen的词根是fif-，由five变来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c0f10002635f3626fa60d8a5bc10c8954738f54.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/6414529dcf395524b4e810ea6a9c719d641e10f9.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "'eleven' 代表数字 11。",
       "options": [],
       "answer": "对",
-      "explanation": "eleven译为11。"
+      "explanation": "eleven译为11。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4dde136404ee46b99fd7b81ee609f7f22a1ab07.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d09740286dc0b18603551a2d28726d856277a27.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "twenty"
       ],
       "answer": "eighteen",
-      "explanation": "10加8等于18。"
+      "explanation": "10加8等于18。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1abaa7b012720dff5d82c8024a2792458b49b06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70c6adb61515ca0eda2ac63e282d40a976e27e68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d94d09a927e42ba4dd8b89c900ed60498dda4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc955a19ae4f82e14d23c25e351eb70f0c0270dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/2251dbd6a6bb86d14385d4ceec6a0e45016046a7.mp3"
+      }
     },
     {
       "id": 8,
@@ -70,7 +92,17 @@
         "thirteen"
       ],
       "answer": "twelve",
-      "explanation": "12的英文单词是twelve。"
+      "explanation": "12的英文单词是twelve。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a559c3238907aaf71f772f761879e8659d48df02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5a0c506761ce686f1f145da868c162f269480f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc955a19ae4f82e14d23c25e351eb70f0c0270dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c24f5cff02c08728c9789791a4439cdb2fa10c39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b89d5b1f8b4b1777bbb26ad74125b31142d07a22.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +118,17 @@
         "11"
       ],
       "answer": "20",
-      "explanation": "twenty是20。"
+      "explanation": "twenty是20。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9eebe8445c40970f4b554271681daa27fede1ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3a69a587d40f0040d1139adec9061712bb39d78.mp3"
+      }
     },
     {
       "id": 13,
@@ -102,7 +144,17 @@
         "fourty"
       ],
       "answer": "fourteen",
-      "explanation": "14是fourteen。"
+      "explanation": "14是fourteen。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c31f6cc13f8114aa689e8d2b38bee625d0f05705.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f8f7eec5dea5ac43738721939c120318cbff1df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a13a01d705b372be5da08b0751c65714b10dfe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88ddff0da7c9c2be0e47c8aa8165964f36aae93c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32a616527929fcfe2ea919e908a621503e62dad9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/8595ba729be16bb60c51b0c925d51e3325598adf.mp3"
+      }
     },
     {
       "id": 15,
@@ -118,7 +170,17 @@
         "fifty"
       ],
       "answer": "fifteen",
-      "explanation": "考查15的正确拼写。"
+      "explanation": "考查15的正确拼写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebca2b0d606f10a8bd1cb46344b4636cd3da50ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d80b84e45a4b41bda5e1082f3a3645eb6ca1bea9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3602d25c3d45d58bf02b5fa4e9c144175f3a726.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5cf896e678bdf9519adaa8b434a1676adcf45db5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f7a7912b3588c92069158935a536f88fc7c2d4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89d525ddba27b71ed0cd87ff46465d1f1ac5db0e.mp3"
+      }
     },
     {
       "id": 17,
@@ -129,7 +191,11 @@
       "question": "Ten and nine is ___.",
       "options": [],
       "answer": "nineteen",
-      "explanation": "10加9等于19。"
+      "explanation": "10加9等于19。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9090d23e101fd75d0925c5d36201bf3e28e7c134.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5c462c285ad332ed44aeee1e63c26e10caaaa11.mp3"
+      }
     },
     {
       "id": 18,
@@ -140,7 +206,11 @@
       "question": "I have ___ apples. (只有1个用单词表示)",
       "options": [],
       "answer": "one",
-      "explanation": "基数词1即为one。"
+      "explanation": "基数词1即为one。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cae8907e780942a7257628f78cd1ed52eaf3dd09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8c3d784aaa68809c9e371002d9cf8de0d7d2223.mp3"
+      }
     },
     {
       "id": 20,
@@ -160,7 +230,21 @@
         "十三"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "thirteen-13, sixteen-16, seventeen-17, nineteen-19。"
+      "explanation": "thirteen-13, sixteen-16, seventeen-17, nineteen-19。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1362bfdea982fb428ed47cc398efe914b4903237.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c24f5cff02c08728c9789791a4439cdb2fa10c39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d94d09a927e42ba4dd8b89c900ed60498dda4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1777d8e848654ca00348788ec9839cd0b1a0adb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885c39aca07c0a1e8339e78a3c587238a7785a62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0bf1be1158ef85c5879d7c4d75a99ff461a1be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3b7e3e2a07a6189e128c1be5821c2e7223074ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c9cfd9ad67b5659db71873408609844b53d2f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3063c78ef9b9db3b35348c76f967d8e77f8517e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/868832bbd00c4e070b4f1bdebb84cced9233c343.mp3"
+      }
     }
   ],
   "knowledge": null

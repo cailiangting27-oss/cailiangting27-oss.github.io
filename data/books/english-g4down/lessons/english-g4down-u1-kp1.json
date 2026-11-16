@@ -16,7 +16,11 @@
       "question": "'teachers' office' 的中文意思是'教师办公室'。",
       "options": [],
       "answer": "对",
-      "explanation": "teachers' office是固定词组，表示教师办公室。"
+      "explanation": "teachers' office是固定词组，表示教师办公室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca28ea6a8d9e0db1644fee7d91104b5da5d31e24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04454fde8dc13fd8ded1f38a497a061edf2f56a1.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "Library 是我们可以借阅图书的地方。",
       "options": [],
       "answer": "对",
-      "explanation": "library意为图书馆。"
+      "explanation": "library意为图书馆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e63e52e364d8b99019b08feb5fe17a42f4a7910.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e359784b981b0a6c0bf1f723a4b96bb0b6504ea.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "garden"
       ],
       "answer": "playground",
-      "explanation": "playground是操场，踢足球通常在操场进行。"
+      "explanation": "playground是操场，踢足球通常在操场进行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9de4054863636e4e8e4d520a3f7dd50e54ab63c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d191430e46c0aa54b7e69a4efbf4254e422b8814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0816b48fa3bbce493318671b73f0a6e091b7f369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3e6610aeba331678ba9403abe7071de46087a0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1ade531057f51c2992479335d03b774afdeb6fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab4724bef588d6da7fec4c7a0d6bc3c11fe9d3ea.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "gym"
       ],
       "answer": "garden",
-      "explanation": "花园（garden）里通常有花。"
+      "explanation": "花园（garden）里通常有花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98f4eebffebd3fc2a12ce45a5ed36c21683ac2b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1ade531057f51c2992479335d03b774afdeb6fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6427457497fe0f4f93a7334d2203b8e17ee82df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35a2501854265fb80a3b8b6f4a41f842d1edce38.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "playground"
       ],
       "answer": "library",
-      "explanation": "在图书馆（library）看书。"
+      "explanation": "在图书馆（library）看书。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6470ee085602367931a520a665d325a97394556d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0816b48fa3bbce493318671b73f0a6e091b7f369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1ade531057f51c2992479335d03b774afdeb6fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d191430e46c0aa54b7e69a4efbf4254e422b8814.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb0359e388ba5cc8c5e8ca4b6c3f03c382e681b1.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "the student"
       ],
       "answer": "students",
-      "explanation": "How many后面接可数名词复数形式。"
+      "explanation": "How many后面接可数名词复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d21bce9476624bdbf95344d473b960917ac2114f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/327a473b5d6b2207843e03d5768ff26b9f750427.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/204036a1ef6e7360e536300ea78c6aeb4a9333dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cf8bc812938f8fcb167dffa651af9dd70f06d9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d934e4047c552b19cf2a2f8b62889d28236d0a7d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93e730bf5057e293ce8b90bad164063353a1d9c9.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "Go to the ________. Hand in the homework. (提示：去老师办公室交作业)",
       "options": [],
       "answer": "office",
-      "explanation": "teachers' office可以简称office，此处填office符合题意。"
+      "explanation": "teachers' office可以简称office，此处填office符合题意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/736bc690829b1a301b0c236676bb7e72fab3372e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bff144f90e98653b1269235a3466c488c03f1dd.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +174,21 @@
         "花园"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "playground-操场, garden-花园, library-图书馆, gym-体育馆。"
+      "explanation": "playground-操场, garden-花园, library-图书馆, gym-体育馆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eef053c04f8c86f191527c6d9a45a0901995d2ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d191430e46c0aa54b7e69a4efbf4254e422b8814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1ade531057f51c2992479335d03b774afdeb6fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be14eac4f24da6bddd8fb71c157c90d28930497b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21347f9f037c2991411413cb0d16d09828ae7eb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803401a96663599be119713907514946978f64d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e9fb541f0b2753e303eaa17cd44b20b34610054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4de6aeba1b50a502929c49b0910a7a7db4c58107.mp3"
+      }
     }
   ],
   "knowledge": null

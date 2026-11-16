@@ -22,7 +22,18 @@
         "you"
       ],
       "answer": "I,am,taller,than,you",
-      "explanation": "标准比较级结构：主语+be+形容词比较级+than+对象。"
+      "explanation": "标准比较级结构：主语+be+形容词比较级+than+对象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbbac78693e803e2ee5212bd985d5fd29bba3a3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d820aa5f8750fdde33200083b0702a32578a6c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e840bf7fb2acab067ca3bf33801df225389465dc.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2dbb550afb66227f129d18f746bbf24bdbbc302.mp3"
+      }
     }
   ],
   "knowledge": null

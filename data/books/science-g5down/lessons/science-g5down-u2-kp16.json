@@ -21,7 +21,17 @@
         "摇橹木船"
       ],
       "answer": "核潜艇",
-      "explanation": "核潜艇利用核反应堆产生动力，属于现代高度发达的机械动力系统。"
+      "explanation": "核潜艇利用核反应堆产生动力，属于现代高度发达的机械动力系统。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12efbfecb9573a103d06c27e1c518d107f51ebc9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3c20f4a37985da72ca52c795de9dd4947667ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/680457589034714e0a968800eedda1c58ec37e8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e00ebd60ff7bbf0810caf8af12b07bed3b4bc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6407bd1595b255ebec04f90cc9cbb4d0315ba2ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fd51a8791c490a6fd6b9fa3826fd1b6c6ec8080.mp3"
+      }
     }
   ],
   "knowledge": null

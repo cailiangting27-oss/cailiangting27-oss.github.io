@@ -16,7 +16,11 @@
       "question": "How many 后面直接跟名词单数，如：How many apple?",
       "options": [],
       "answer": "错",
-      "explanation": "How many后面必须跟名词的复数形式。"
+      "explanation": "How many后面必须跟名词的复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d46652b1aa9f8f030712f89fe8d358f3f3867a00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/68ad3298f734f78ae938b8a23de4a816de1082dc.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "the bird"
       ],
       "answer": "birds",
-      "explanation": "How many询问数量，后接名词复数。"
+      "explanation": "How many询问数量，后接名词复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4048594c82ddf2f0938c33efabd3f1ea2178421a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd92815bf6273acbaf834b9faed277c722068291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abe7e510fcad31b6eeb927408d315e2b0c28e3d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31071d58e99467f3bc1efe8cee17881b788bcbab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c38111577ea20851887026b9c2bc7acdef9f26f9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2a3a79974128617d1ee66e8529068d7ebb0b484.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "Fine, thanks."
       ],
       "answer": "I have sixteen.",
-      "explanation": "用have提问应用have回答。"
+      "explanation": "用have提问应用have回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4e3bfa3798554b249bf5b1365cb48236fc77e42.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e82b2174add2bc5b95448acfbefdc4079af3ab8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b864e10bfc2bfbe440b1992ac03727312b075ca1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb319c0d5f069bb9bc883885f7caad753a3117d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/567a862a25d83f64dbf641b25c3ffe333e30b947.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0168ac56b52cfa544c258b76146a91ded47496c.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "eleven kite"
       ],
       "answer": "eleven",
-      "explanation": "表示数量直接用基数词。"
+      "explanation": "表示数量直接用基数词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46bfa1d62a58a23e941973a038ec33adecf68f8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67cdffb829d2d8b8a08b9ff870b32b109cf8ee7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5a0c506761ce686f1f145da868c162f269480f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/669069656d8c68ff2fa327e08828a02475e05b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d65d689b1c2210d97927143d25cd2f38e3e0ef4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9e330c72e15b6f8f80b81ac322972f27bd35c11.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "How ___ books do you have?",
       "options": [],
       "answer": "many",
-      "explanation": "询问数量常用How many..."
+      "explanation": "询问数量常用How many...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f58c041087887ccfde0a5813405e5ba257dd1b4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbb5389a337f3191eaf9a63056e151cba91256ba.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "太美了"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "词汇意义配对。"
+      "explanation": "词汇意义配对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bd8855cf7577cf2856d697674a5d798bdb35173.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d34e27686cd4953ee3bd5d089477d4ed109e76b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecac6de846bc1a6319e1fb2f2e60a20bd1e4d4f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec27736634066f9d4394eec79fcc04ef5cada805.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b19d8cac0eeef840829ad9952d0cf872c94a483b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/694efd21ce9b4b78e6f3fbbd540d3d6e89730b7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16ced7c76f0c261f7f0e1393631bc24aba6f41ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c999d484a3a2ad686cccc959583e2329884a333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45ab1536f09e70fbcf7b90a658d6cc4ba85e9702.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca2f0e9c8c0e08cb51445f5605ab94ed37d1ba65.mp3"
+      }
     },
     {
       "id": 22,
@@ -113,7 +165,19 @@
         "cats"
       ],
       "answer": "how,many,cats,do,you,see",
-      "explanation": "How many + 名词复数 + do you + 动词原形？"
+      "explanation": "How many + 名词复数 + do you + 动词原形？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01b5754c6d1f67d2babf7e4b41164442fa9f5901.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b064373fb4dd7356db6e83ec9c39e31ba9c335c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ebf601f8b808c32b8d2fb570c2e0fbdbb388add.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5260837c618dd9e5193acc824ad3729745485fff.mp3"
+      }
     },
     {
       "id": 23,
@@ -129,7 +193,17 @@
         "pens"
       ],
       "answer": "I,have,nineteen,pens",
-      "explanation": "主语+谓语+数量+名词复数。"
+      "explanation": "主语+谓语+数量+名词复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8eb47cc61ea43d200b4cc9cf8b3697720afd080f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885c39aca07c0a1e8339e78a3c587238a7785a62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a3fae520179e644407395a913a7d5a9277d1b92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b95603975b58e17c90d8eea94943d00b5ca4560.mp3"
+      }
     }
   ],
   "knowledge": null

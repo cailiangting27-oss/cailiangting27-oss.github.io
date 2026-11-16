@@ -21,7 +21,17 @@
         "彩虹在哪里？"
       ],
       "answer": "彩虹是天上的桥。",
-      "explanation": "反问句表达肯定的语气。"
+      "explanation": "反问句表达肯定的语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa1283e798e21b6c1cd75e6abc365195e745f5b7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/092e5b919870a1a42eeeabe353776f2770970b97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57ba92333ac8c8c23380a1b59258cdcef99824d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edeca478a89bffb01e04c0e6892ed06297e33fcd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a62eef0a522c01e82e7030e1527587b9b5e4013f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58d9ef4cea353ef3f243d78eabf2d35f74266aab.mp3"
+      }
     }
   ],
   "knowledge": null

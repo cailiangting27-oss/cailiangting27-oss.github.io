@@ -25,7 +25,21 @@
         "去磨坊"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "老马教导思考，小马去磨坊，老牛说浅，松鼠说深。"
+      "explanation": "老马教导思考，小马去磨坊，老牛说浅，松鼠说深。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f916dfd38f14a904219b00200c2c7405d28520eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a3cbce7619689947f3384def0fdea4b4ade6b587.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9ba15d846139ded3ffa3aac766f7b753496e015e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3741228d09689a25974bc9f09e636e8bc467aaa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8c988c03c0f24dcf5f4d1191e903e51427dedd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a87913ac05626acc8a62c5fdac701deba7e3559a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23e7ebf8b2c0e647f646bb9340db5faebf0e1058.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e34801d4336eb04a00c1e2afe984ea1fef096ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9aedc27804b9ac9c1954ba2ea15592d4f0711ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e45b900e15c4f53d49adaa2bde926b8ce4cec0a0.mp3"
+      }
     }
   ],
   "knowledge": null

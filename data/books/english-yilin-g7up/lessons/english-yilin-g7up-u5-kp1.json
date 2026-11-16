@@ -37,7 +37,15 @@
         "Christamas"
       ],
       "answer": "Christmas",
-      "explanation": "Christmas 圣诞。"
+      "explanation": "Christmas 圣诞。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/051e56681a6282bb0ad3cd11837891397cde76b3.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

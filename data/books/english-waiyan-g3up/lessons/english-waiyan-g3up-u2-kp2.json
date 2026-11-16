@@ -21,7 +21,17 @@
         "Yes, we are."
       ],
       "answer": "We're making a cake.",
-      "explanation": "be + doing。"
+      "explanation": "be + doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9ab026379fdb1e80cc1d266bab29732fad2cc31a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81d776b97c05eeaa4f4b0c704f3f695e4498c243.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4390099492730c0572404f1dfa026c34270ba67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f786af1ba4e1144cc2fa84649dfc0d06454eb56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49fd889cbfd84c7efd4545f66588db3aeec4a55d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82b494c023ec49036dfdf0c346a715ca7d409fc9.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "现在进行时的结构是 be + 动词 -ing。",
       "options": [],
       "answer": "对",
-      "explanation": "be + doing。"
+      "explanation": "be + doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c60f386fccd46c14066e62654d6cfd164f3a09f6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82b494c023ec49036dfdf0c346a715ca7d409fc9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "回答时态不一致。"
     ],
-    "tips": "问句进行时，答句也要进行时。"
+    "tips": "问句进行时，答句也要进行时。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0d/0d1e707f0f3905358a96b68092d08536515e0d77.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e4/e4797aefb6cf8eb24ed5b28b82c54bb581e2db70.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/12/122fb3f58d49f8e7d7a21f063a2ea8e6c7cbf4d4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/74/74d7919d57091731850385705fada4f778db6367.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d7/d7f64c3c14ecdbcf071ab3e84a8c671ef87a9687.mp3"
+      ]
+    }
   }
 }

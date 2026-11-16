@@ -16,7 +16,11 @@
       "question": "银河系是宇宙中唯一的星系。",
       "options": [],
       "answer": "错",
-      "explanation": "宇宙中除了银河系，还有无数个河外星系。"
+      "explanation": "宇宙中除了银河系，还有无数个河外星系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01e9088ec74ac1e47516f44c8155b334ce6463c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ebeaa724a17dc482f88115e099dc642dbdd8fb7.mp3"
+      }
     }
   ],
   "knowledge": null

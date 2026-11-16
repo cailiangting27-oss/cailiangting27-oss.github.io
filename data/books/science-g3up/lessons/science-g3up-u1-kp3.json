@@ -16,7 +16,11 @@
       "question": "冰块浮在水面上，说明相同体积的冰比水轻。",
       "options": [],
       "answer": "对",
-      "explanation": "水结冰后体积增大，重量不变，密度减小，故冰比同体积的水轻。"
+      "explanation": "水结冰后体积增大，重量不变，密度减小，故冰比同体积的水轻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f59ed890a76ce267f6f39ecaf4604eaf77f0f39.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a37d13244e24ca3d15ad09bd1b6d39d884dff6bc.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "先变大后变小"
       ],
       "answer": "变大",
-      "explanation": "水结冰后分子间隙变大，导致体积膨胀。"
+      "explanation": "水结冰后分子间隙变大，导致体积膨胀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e86dd7e57f7d2ad6fe684b94f7ffcaed7e55a60.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faa50f2d099f5938076ebc9adda1c35daee7e764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8429dd551085e9650a9b2b23000ba8732490da5.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "降到0℃以下"
       ],
       "answer": "保持在0℃左右",
-      "explanation": "晶体在融化过程中吸收热量但温度保持在熔点不变。"
+      "explanation": "晶体在融化过程中吸收热量但温度保持在熔点不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/8201f20e0f931d3429a880ce71be2edfac14d89f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25974d80a6b103d3650da8311443b43c0654fd16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/913d0a9f61399c5c20e0dc08a7f96396b6fc6fa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7f0078cf98fcbec16102704e7f8bb9dd713f9c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b6830b2659bed30eef4afb818434f48c1d1247.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/729231964c860baf9be5f70894aaa5df02b7db89.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "水在温度下降到（）℃时会开始结冰。",
       "options": [],
       "answer": "0",
-      "explanation": "0摄氏度是水的冰点。"
+      "explanation": "0摄氏度是水的冰点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43132f6ca3e5edabe2dafb3453f03fb274d21554.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e4f737d8cea968aac8a99e6fe84fb0c438d90c3.mp3"
+      }
     },
     {
       "id": 23,
@@ -70,7 +98,11 @@
       "question": "冰从固态变成液态水的过程中需要（）热量。",
       "options": [],
       "answer": "吸收",
-      "explanation": "融化是吸热过程。"
+      "explanation": "融化是吸热过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49043e80567b6b04c12b41edbfec5b5770d13336.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16a7f9dbaf32780d9eb477c565db7027cc0ff8f0.mp3"
+      }
     }
   ],
   "knowledge": null

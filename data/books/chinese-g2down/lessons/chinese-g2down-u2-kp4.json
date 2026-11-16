@@ -16,7 +16,11 @@
       "question": "当你需要别人帮助时，说“赶紧过来帮我”是非常有礼貌的。",
       "options": [],
       "answer": "错",
-      "explanation": "这属于命令语气，不够委婉，应使用请求语气。"
+      "explanation": "这属于命令语气，不够委婉，应使用请求语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65846a4d03d02f81d0f97b76c4c6acdbd65b7a5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbfe0641c88b51a5c46d436c456b5cdc494d28a7.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "橡皮在那，我要用。"
       ],
       "answer": "请问，我可以借用一下你的橡皮吗？",
-      "explanation": "使用“请问”、“吗”等词语更显委婉礼貌。"
+      "explanation": "使用“请问”、“吗”等词语更显委婉礼貌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0a54d1f481609bda6e8701ab9897744724ea1eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c473d5c6ea2f9c446388bc3c56933d732b8dcd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/431699a8ef6cbdef347789e68300bdb64d885f2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9caffe290ddb993623f41b64db139798af7752a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d330f7f7887e66c32324b66661ff09c8257eb04.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bea500bc0602b0d5d6a49c1e8c0a4ccdd2f99bd8.mp3"
+      }
     },
     {
       "id": 22,
@@ -48,7 +62,17 @@
         "该"
       ],
       "answer": "请问,去图书馆,该,怎么走",
-      "explanation": "礼貌问路通常先说请问。"
+      "explanation": "礼貌问路通常先说请问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecc139f38e90d1d8f230cb6fe05f731710b39c8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aaf7235e693eb1769970f7c18d37e2e2e54ddb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e02274ed75fd924bd31d05522f21056eefec2109.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbcdc619bb0bced91435d1e2220c412d7a34096a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d695ca5b2cd2dc53b2f66552378abd673f521906.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce911ad98da8ba9894ac390a7fafeec172acec9c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "说话太直接，给对方压迫感",
       "忘记使用礼貌用语"
     ],
-    "tips": "记住“客气三宝”：开口带个“请”，结尾加个“吗”，中间带个“谢”。"
+    "tips": "记住“客气三宝”：开口带个“请”，结尾加个“吗”，中间带个“谢”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a3/a3d5030a168760590d01b24aaea688bc1b90f6c6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/92/92eb5a585c6c096de28a8dddca5bf1668c0a4595.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/54/54b8cecdd55a13dcfe4aea0f05e27ed2601a2994.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/83/835be88ab0a9c9379bc31917363f5d6da9d9b137.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/78/7815ea4280c5abdbcd697687b9ff7eaac387ad13.mp3",
+        "https://api.clthuanxie.cn/cc-audio/82/82cf59984a3548e2338029aa68620453545be090.mp3"
+      ]
+    }
   }
 }

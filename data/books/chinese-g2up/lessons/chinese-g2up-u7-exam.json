@@ -16,7 +16,11 @@
       "question": "“淘气”和“顽皮”是一对词义相近的词。",
       "options": [],
       "answer": "对",
-      "explanation": "两个词都形容孩子不老实、爱玩。"
+      "explanation": "两个词都形容孩子不老实、爱玩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20c43e931bd81e5d22e209e69e46b4e76b4614a1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c71672612d5882329e438af46bd3d5d9db5acb3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“无论”后面通常接不同的条件，“还是”连接并列的事物。",
       "options": [],
       "answer": "对",
-      "explanation": "无论...还是...表示条件普适性。"
+      "explanation": "无论...还是...表示条件普适性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aadd438020e026606dc7f943cb163f0c1928ed6a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/541d062eb3c2b01e2afee33f7286110e69a1d6db.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“椰树”是在“沙漠”里非常常见的植物。",
       "options": [],
       "answer": "错",
-      "explanation": "椰树常见于海滩而非沙漠。"
+      "explanation": "椰树常见于海滩而非沙漠。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2aaaa279d1c09c141f478f3c84529513ab4b366.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8aa0d38c8a9d927ba43b38fc96c428bd743a7624.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "句子中添加的修饰词越多，句子的意思就越混乱。",
       "options": [],
       "answer": "错",
-      "explanation": "合理的修饰语能使描写对象更具体、形象。"
+      "explanation": "合理的修饰语能使描写对象更具体、形象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/528580d0b7c5f405d910c0ddf4f094276a950ba8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b03879305942ca3ab90e68474fd6b6337b2da96.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "“藏”赋予了雾人的动作。"
+      "explanation": "“藏”赋予了雾人的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97929732923bdda681a23d9afc04add5cde40022.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6595f1d9819c5371a42ddec9a9978a116c8ef43b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "大海风光"
       ],
       "answer": "草原风光",
-      "explanation": "出自《敕勒歌》，描写大草原。"
+      "explanation": "出自《敕勒歌》，描写大草原。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a06ab23ca2a439b7b7ea305d5888390e42acc597.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2ddcb17225d93ec17d4981004eb0b9b6c7ee2ee4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/099a96fcb69be973653f43df3ed70a5ef695d90b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b77a73388c569e5307b1a67647b80260b483ac5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8bc0f15b19f620ffb03adad2e5f131d55515549.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13046061f61042ee5cd90b379522b072763d49ed.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "如果...就..."
       ],
       "answer": "无论...还是...",
-      "explanation": "通过条件排除表达坚持的态度。"
+      "explanation": "通过条件排除表达坚持的态度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b34135d682fec1482f23f8d2004edad364acf3c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a114fbaddb6aba98211e970ed0115be3efe30fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbab9c0c04ead3d019726e11dc761c9f4e1757f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9472b3543c3a60463250977dfa93e9cf6c1a495a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b1ed9f8bb4d4981667c4347e76b8a215f6eb12c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94484f584b16fd9321f1307eda4f583eb2e19569.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "那是天上的云。"
       ],
       "answer": "蓝蓝的天空中飘着几朵雪白的云。",
-      "explanation": "使用了多项感官（色彩）和量词修饰。"
+      "explanation": "使用了多项感官（色彩）和量词修饰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/206a1810f72ae784e17e0677896ca1603d62da84.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3e40608f463e6b36cdfc6f409643daeca9b9591.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/567ef06270a02045a0bb933ea7185cd711b8c307.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3b583e933200cc6ddd83d5d7b186d460985399f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2f685badd68753a14bda98d416703b81f58e97b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80bc1b268ae06d33552946ba7e28feeef9fe3b79.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "鹰"
       ],
       "answer": "牦牛",
-      "explanation": "由于特殊的抗寒能力，牦牛被称为高原之舟。"
+      "explanation": "由于特殊的抗寒能力，牦牛被称为高原之舟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b4199a963fe4ffb668fceeccc5722aadddee0b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53a15788807980a8bb7cb9aa203ac5f948f47f0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b224676e4a5ca1ce183355903828fffc5a75bff0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa124bece62d90de451e185ab3232ebc1486230c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4956a27025a4a51af0fe3597104c5699d33075c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62161e641b9ba61b98f1b9be918f93d9147670ab.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "快乐"
       ],
       "answer": "自在",
-      "explanation": "悠闲强调的是闲暇、无拘无束。"
+      "explanation": "悠闲强调的是闲暇、无拘无束。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8455a146db6fea060dbe7f09f3446371038320a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/168469b0bac956f0700c8cc52c9a9913940dc66c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0212ccfb551cf141e4ecf2170f166d393ae43a1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4828e6c5ed3e2320e24da7e604c746bf54edc0b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b9d25415965b511afdd6a4c6e81490ce8df2eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86883a347d47352cbc8f335686bf61d1fc066671.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "（___）的草地上开满了鲜花。",
       "options": [],
       "answer": "绿油油",
-      "explanation": "常用的ABB式颜色修饰词。"
+      "explanation": "常用的ABB式颜色修饰词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb87767553a272fec32b5428658018e0ebcde4dd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d30e9f1869b9a7dead0e16593acb82e3ce18683.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "骆驼被人们称为“（___）之舟”。",
       "options": [],
       "answer": "沙漠",
-      "explanation": "骆驼是沙漠里的主要运输工具。"
+      "explanation": "骆驼是沙漠里的主要运输工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/249013a4f88821f26dbcae77c6d3a98d32dc7abb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fbeecd540fd989109d115b52f77490c93e05187.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "大树"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "考察量词的正确使用。"
+      "explanation": "考察量词的正确使用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a30911fa9db612f6f74cc900af3a1a539f3eafa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70bf9facedbbe48f7541fbbd1fdee3b5307ba6cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/502468ea655b589c3d09b0cd8cce3459e6006e6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/981cfca86a90656d7253dcef585517a46ca67135.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc9c0b8ca1e40d1b41e1548e82876a2ecb2eae57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2dcf0894185ceb49506b3d0acc24ecfed58bb9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b2fb3111e29f67d5f456a9276ffdb6a7c7f3c4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8f7f505f04b47d1b9da04be98d4d4e5018169.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffc6db9305ea6a76fd4147c637436d85abccaa2f.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "狭窄"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "考察形容词和动词的反义词。"
+      "explanation": "考察形容词和动词的反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08b3c2e0fed6ed52a535ac37de702df85f9c120a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/017dcabf4878439d4685ad95141b1004e3c7a35d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea5b4074592081b99711535ec436adea658f49d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/456c56d97a099657511424dee24c29fb7e6d40aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b7e6525d0a6120cb2aa8087fcde63ab9f66a55a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0270a7fdb3699ba8e6244143bdbf7f4699e0c9d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb759cc232849dd2066704ed0820cb3de433857e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0fadbb0484dd305ab60e0d8dce938d98eae4925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a844d4c93381931b35e9ea5b1ee2b34ba6fc00c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f954733167b2fb5203200cc2003c8f8852576ed8.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "空中"
       ],
       "answer": "雪孩子,飞到了,空中,变成了一朵,美丽的白云",
-      "explanation": "按照事情发展的先后顺序排列。"
+      "explanation": "按照事情发展的先后顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc1a285fcf176712364149a609ad6534081f6312.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7388f6c0436be464c0a7ebdd73c8038a2f32848.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/765c6fbc439b7e80b0ca0ee77b655de3c1a6fbd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e52a83c87eec7e2e057c618e2b18210de895ca5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0152eac848d6fdb2176b2049a1daf1876f9d78c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c73ef76c901ce38672596a6335a937d92a855cef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/154c5f9807dc7330d2c950a3af1241423ec49df7.mp3"
+      }
     }
   ],
   "knowledge": null

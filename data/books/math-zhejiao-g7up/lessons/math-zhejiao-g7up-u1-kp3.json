@@ -43,7 +43,15 @@
         "无法比较"
       ],
       "answer": "$-3$",
-      "explanation": "两个负数，绝对值大的反而小。"
+      "explanation": "两个负数，绝对值大的反而小。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

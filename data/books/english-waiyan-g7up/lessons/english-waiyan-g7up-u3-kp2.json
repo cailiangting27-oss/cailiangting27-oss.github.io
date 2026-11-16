@@ -37,7 +37,15 @@
         "close in"
       ],
       "answer": "next to",
-      "explanation": "next to 紧挨。"
+      "explanation": "next to 紧挨。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b8fd8727d3bddc84e98e7b827f72392f1d68066.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/cc/ccf3ba5c962ac9398d46a79a34b21acb02342011.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

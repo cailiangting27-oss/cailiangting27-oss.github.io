@@ -16,7 +16,11 @@
       "question": "阅读时“想开去”就是指可以脱离课文内容，随意天马行空地乱想。",
       "options": [],
       "answer": "错",
-      "explanation": "“想开去”要联系生活实际或相关情境，是有根据、有意义的联想，不能完全脱离文本内涵。"
+      "explanation": "“想开去”要联系生活实际或相关情境，是有根据、有意义的联想，不能完全脱离文本内涵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80a4905f7476c548cf4876446f5b5c31197d6217.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/0760a1486b630585553bbf92c5f67157bec81678.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《草原》一文中，作者由草原美景联想到骏马和大牛，这是一种基于现实观察的联想。",
       "options": [],
       "answer": "对",
-      "explanation": "作者在描写草原景色时，看到绿毯般的草原联想到牛羊，或是由美景联想到民族情谊，都是基于文意的联想。"
+      "explanation": "作者在描写草原景色时，看到绿毯般的草原联想到牛羊，或是由美景联想到民族情谊，都是基于文意的联想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97a1b2fb3da16db4be51d04023b1350746c157fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9d3d141368df22f310208503328da2f2d631de4.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "停车坐爱枫林晚，霜叶红于二月花"
       ],
       "answer": "劝君更尽一杯酒，西出阳关无故人",
-      "explanation": "“蒙汉情深何忍别”描写的是离别之情，与“西出阳关无故人”的送别意境相符。"
+      "explanation": "“蒙汉情深何忍别”描写的是离别之情，与“西出阳关无故人”的送别意境相符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a9c524a6ba2f44da9a27198bf81f0b1944fcc8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67ee6f6e1b7fb2f168f5c332b942131c21dc0571.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b35650a246a86864dfc923743bc64d34a39566fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff55e5013f22548010f2bf6f07856b928ad99204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15ba0589e404aef241ab9691dc4e27d9cacb5eab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/707caa89dd97d3f68a87630a9f834a3f956c9d98.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "严冬的寒冷"
       ],
       "answer": "破茧成蝶的勇气",
-      "explanation": "“脱下旧衣”和“新生活”暗示了蜕变过程，联想到破茧成蝶最合适。"
+      "explanation": "“脱下旧衣”和“新生活”暗示了蜕变过程，联想到破茧成蝶最合适。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49ffaa8b39466ea407e0f824ba89199a84f890dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f031be477b61ac3fceb2d766882b1452df8a4ca0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87d8e60b75741de6210f5a741794016b8b4842df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8797febb0d361be7be916400fc7a291578819c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/260c4acb6fe633b4d23a03bb3b37401e368542c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c111edfd800b7e1bef9952747362202100a163c.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "天空没有云朵"
       ],
       "answer": "草原随处可见小丘，绿得有层次感",
-      "explanation": "文中解释因为“到处翠色欲流”，小丘线条柔美，使得色彩丰富不单调，所以不觉得空旷茫茫。"
+      "explanation": "文中解释因为“到处翠色欲流”，小丘线条柔美，使得色彩丰富不单调，所以不觉得空旷茫茫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/948bf2589affc93784032cb306f99033bf2f65e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/815b719c60c593a1f09efa41c253a3e7b2910c57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6871282a9fba1a91de30abb684dc2f1019fb0a00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/790c23228974cf68dd2fbd0fcda96442754c26ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a649cf1f3f1ed2042f23515956cb958c267a1ebe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dca4bbc50e365493be94a598c628359bdd597383.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "民族团结"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "丁香结象征忧愁，草原象征团结，花象征奉献，月亮象征思乡。"
+      "explanation": "丁香结象征忧愁，草原象征团结，花象征奉献，月亮象征思乡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/440a32ee20f2e9b8c3351bc513ea876f99214045.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87506fcbd8a684c5fb90b0c59b1150280f8bcf42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4034444592524f554aa2384653aa127a46834f17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/645a0104e9d389f04b405c0decb6fa087875d8c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a788b5d2917795ff5e51d6f53814fcbc9ee5045e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e00f4d161336bf386aed8c6456d775cf36c5a4da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7688a08da7e3b06e52fd1e6706938fab169cbdc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7d8a1a1a7b75f345562907d9fe99c0fb680188e.mp3"
+      }
     },
     {
       "id": 23,
@@ -112,7 +164,18 @@
         "再联系生活"
       ],
       "answer": "阅读时,抓住,内容,再联系生活,想开去",
-      "explanation": "这是本单元学习的核心步骤：读内容、联生活、想开去。"
+      "explanation": "这是本单元学习的核心步骤：读内容、联生活、想开去。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb0c54511263fc39a90ac9f1d10779afab425438.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7dbd1530ba9c6bf966be451c74d1b35c0d33b362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a3e52d34a01bac55d3b3c193911446d54f65f8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/163aec9194a17383a22445f6651c80f86dcce879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdbe57ab9a4e342363fba67e6de94213f1bef8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5f24a03285fc8659122d06c5d685cf3b369acda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb95b9616019867c934f6e98dad96b1d4f1c642f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -123,6 +186,16 @@
       "只是生搬硬套背景资料，不能与文本中的具体景观建立联系",
       "联想过于离谱，导致理解偏离课文中心思想"
     ],
-    "tips": "读描写美景的词语时，闭上眼睛想象如果我就在那，会听到什么、看到什么。"
+    "tips": "读描写美景的词语时，闭上眼睛想象如果我就在那，会听到什么、看到什么。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/00262a9cbcefae3b3cfb0cc09517606e67d1300d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e2/e2e8ff182d61537390568c79471bde3be637bfb4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d2/d21d9f4ef942ee23499a168aa1ee62f85282f781.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/90/9013c3133bb97cb5a0be010272b46ae66393aa14.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/78/78da018f1f8efe31a1a4c264cb99bbd51d053bb2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9c/9c28f981dfb0bb185f26f29ac252aa31fc307cec.mp3"
+      ]
+    }
   }
 }

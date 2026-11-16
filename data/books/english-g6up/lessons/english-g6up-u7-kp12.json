@@ -21,7 +21,17 @@
         "in"
       ],
       "answer": "next to",
-      "explanation": "next to 表示在...旁边，是常见的方位表达。"
+      "explanation": "next to 表示在...旁边，是常见的方位表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d6f28d2f7062b88767c3c71ebef4f052b638433.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b8fd8727d3bddc84e98e7b827f72392f1d68066.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/934b5f5ff4fdc31f8c47a8522455180f8fe0795b.mp3"
+      }
     }
   ],
   "knowledge": null

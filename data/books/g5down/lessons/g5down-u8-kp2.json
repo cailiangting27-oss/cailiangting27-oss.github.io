@@ -16,7 +16,11 @@
       "question": "从 5 个零件中找 1 个较轻的次品，如果不分堆，一个一个称，最少 1 次就能找出来。",
       "options": [],
       "answer": "对",
-      "explanation": "运气最好的情况下，如果第一次称量天平两边各放 1 个且不平衡，较轻的那一端就是次品，只需 1 次。注意题目问的是“最少”，属于极限情况。验算：1次称量可能确定1个次品。"
+      "explanation": "运气最好的情况下，如果第一次称量天平两边各放 1 个且不平衡，较轻的那一端就是次品，只需 1 次。注意题目问的是“最少”，属于极限情况。验算：1次称量可能确定1个次品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/847ad736a3fd5efb617a2efbea954c4275bc165d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0dac10050196f998d6097d9399902a091bd9af8.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "(5, 5, 0)"
       ],
       "answer": "(3, 3, 4)",
-      "explanation": "最优策略要求尽量平均分成 3 份。$10 \times 3 = 3$ 余 1，所以分成（3, 3, 4）最均衡。验算：各份额温差最小为 1。"
+      "explanation": "最优策略要求尽量平均分成 3 份。$10 \times 3 = 3$ 余 1，所以分成（3, 3, 4）最均衡。验算：各份额温差最小为 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe892838bf6ddaf1cce98943a8b791cab7496918.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf1cec8040a55b81ddfc2401d29c96830b2289eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe620a67881e2bdfc0b89f4770d56fb8a5172e59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c9500303522768e5193f2e4204b4cf87b5ababe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/856dabf4ad96f0e93227cf522941a074e21249f9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/1633a968b3beb39b9383f06eed2e80099ad23f50.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "(4, 4, 7)"
       ],
       "answer": "(5, 5, 5)",
-      "explanation": "总数是 3 的倍数，平均分成 3 份是最优的。验算：$15 \times 3 = 5$。"
+      "explanation": "总数是 3 的倍数，平均分成 3 份是最优的。验算：$15 \times 3 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d60031bfffca0c610036bead9d23f11883f4a10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c49934ea076e8210c31a4df79c6e130e7adee992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6b4163d78aaabeb1f39cf485b035c1cc1c7f182.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5514dd392a92df33758933e3fa2969184bfa4158.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f390ccac9b6d10b3448868a012c1dd9f3de67d7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aef1fc90ef67455c6eed55f6fe103c85752b643a.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "1"
       ],
       "answer": "6",
-      "explanation": "$20 - 7 - 7 = 6$。天平平衡说明次品不在天平上的 14 个零件中。验算：$20 - 14 = 6$。"
+      "explanation": "$20 - 7 - 7 = 6$。天平平衡说明次品不在天平上的 14 个零件中。验算：$20 - 14 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bdbf55686d572a4037cf3f3c1176fd226264dff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a18ed761c2bfffd2c7906c3001c3bd1d38d6a70.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "8 分为 (3,3,2)。若3,3平衡，在2中找需1次，共2次。若3,3不平衡，在3中找需1次，共2次。验算：$3^2=9 > 8$。"
+      "explanation": "8 分为 (3,3,2)。若3,3平衡，在2中找需1次，共2次。若3,3不平衡，在3中找需1次，共2次。验算：$3^2=9 > 8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83d27371b31cd29d845e336a24be9ea2ca2c28d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c115576620ed98add370d39c91a5dfacbd5a6a04.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "有 7 枚金币，其中有一枚是假金币（略轻），如果用天平平均分成（2,2,3）三份，称一次后，最多剩下 ___ 枚金币需要继续寻找。",
       "options": [],
       "answer": "3",
-      "explanation": "称量两个 2。若平衡，次品在 3 枚中；若不平衡，次品在 2 枚中。由于问“最多”，取较大值 3。验算：$\text{max}(2, 3) = 3$ ✓。"
+      "explanation": "称量两个 2。若平衡，次品在 3 枚中；若不平衡，次品在 2 枚中。由于问“最多”，取较大值 3。验算：$\text{max}(2, 3) = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b37010fe083b5cf3c2dc20b8dd2e7b0e99268de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5a94b2d942c7d8aed31a0429b63cf5043990309.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "习惯性地将物体对半平分（二分法），导致在数量较多时称量次数较多。",
       "分三堆时数量差距太大，例如 10 粒分成 (1,1,8)。"
     ],
-    "tips": "口诀：找次品，分三份；要平均，差一个；三分法，最快捷。"
+    "tips": "口诀：找次品，分三份；要平均，差一个；三分法，最快捷。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/dc/dc565626d34b98ad1c06fbd99b7eee4549ff1399.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/35/35abde678e7ed0a8e472266f75b183aa307ae553.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/39/39a837e1eb56277c7d27717387bb05ef659870d5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4c02a3cb71fd112379756e17af3ad4c241e40da8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e2/e27645486f6698433ec704059c8871e8ef2e71b0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4c/4cce78373dd1f4c6d423fffeef6905b7f47127a3.mp3"
+      ]
+    }
   }
 }

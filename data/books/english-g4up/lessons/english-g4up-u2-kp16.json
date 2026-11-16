@@ -21,7 +21,17 @@
         "ten"
       ],
       "answer": "four",
-      "explanation": "考察数字序列，3和5之间是4。"
+      "explanation": "考察数字序列，3和5之间是4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/3300cf5b3a6b5c1ae4e2bc78d502639a9dbb734e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f8f7eec5dea5ac43738721939c120318cbff1df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b8ba18936c1589adb24eadacf20c3c24ab400ad.mp3"
+      }
     }
   ],
   "knowledge": null

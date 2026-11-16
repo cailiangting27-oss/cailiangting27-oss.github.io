@@ -16,7 +16,11 @@
       "question": "阅读古典名著时，遇到难懂的词语可以结合上下文来猜测大概意思。",
       "options": [],
       "answer": "对",
-      "explanation": "这是阅读古典名著的核心策略，不必字字深究，重点通过上下文理清语意。"
+      "explanation": "这是阅读古典名著的核心策略，不必字字深究，重点通过上下文理清语意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/116e041711526f1783bb964a47f7ce966334b87a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f082d4f6ed2eaaf78a79b009f79c8658f31e69b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《草船借箭》一文中，诸葛亮最终借助大雨杀退了曹操的军队。",
       "options": [],
       "answer": "错",
-      "explanation": "文中诸葛亮是借助大雾和草船向曹操“借”箭，而不是借助大雨。"
+      "explanation": "文中诸葛亮是借助大雾和草船向曹操“借”箭，而不是借助大雨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/163cbe5b7907b159c8ed50cff11a5c7ad169d188.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b05244e88c0eb142c28cd85b8af21fb3aee67d39.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“榜文”在《景阳冈》一文中指的是官府贴出的告示。",
       "options": [],
       "answer": "对",
-      "explanation": "联系课文背景，“榜文”即为官府发布的正式通告。"
+      "explanation": "联系课文背景，“榜文”即为官府发布的正式通告。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16f502c907305749a5d4362e3a06fb0d22bea73f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aaff5376db8911432689698a667528b338f1b935.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "极其自私"
       ],
       "answer": "顾全大局暗中相助",
-      "explanation": "“私自”说明鲁肃瞒着周瑜帮诸葛亮，体现了他忠厚、顾大局的品质。"
+      "explanation": "“私自”说明鲁肃瞒着周瑜帮诸葛亮，体现了他忠厚、顾大局的品质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cfee7c8540a5027442a6898e49bf3c5dd46bfe5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71e12711aaf3555a9cc1777e2ad35cacc5034709.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/8304537e9068240ae4b137962e71afe35e3af945.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01971717436d9592d107cb3693f5dc1776d05c35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/564f38ce35f4342280101e8aed2a0fa854ca774b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c35a2fe8ff2e4c34c1955d16ff53a34e04f7969.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "品尝"
       ],
       "answer": "倒酒",
-      "explanation": "在古文中，针对酒液的操作常用“筛”表示倒出。"
+      "explanation": "在古文中，针对酒液的操作常用“筛”表示倒出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4b0925cffed9891f2a436890af693f620e59736.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/5270860ef02c1dacd1cc1fb5c88f11214be7b932.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a320af480ba387ab39b23d667c29f2019ee03ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1dd3e618c9e2d21a1e53f268703bc8edc8e5e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46300fc034066269ecc4fdcf8c2ee6242bb9c415.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88d2527be92e8b1d543590a788d127873fd2bd44.mp3"
+      }
     },
     {
       "id": 9,
@@ -86,7 +118,17 @@
         "《三国演义》"
       ],
       "answer": "《城南旧事》",
-      "explanation": "这是林海音《城南旧事》的出版序言。"
+      "explanation": "这是林海音《城南旧事》的出版序言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac9b72af83675fe608a5a5595f4401b8edac6d3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3ae77de62cdf651117ba80d2e8ea5c009c274ba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e1b6356733976a40663f6e034f8eaa17a7f623a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f31c108318a28dc01bcfcad442e4eaf566d72569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6a1056fc0a6ee19018747b11192a14bbe770fcb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c352e61cfeb77b73bef7156dca4d93b0e8ce63fd.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "以第一人称叙述"
       ],
       "answer": "分章叙述，标题多采用对仗",
-      "explanation": "章回体小说每一章都有一个对仗工整的回目。"
+      "explanation": "章回体小说每一章都有一个对仗工整的回目。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6030572dc2f6eee81daf1eaaaec75d471d4f92b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c30e47085ec9df7c836698a16e954777cdfed3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4134a919a2419788b4f22260a17c0e9b87c21c76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eab9045abf7dd6e7b2f2d784b20b661f95f98c46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d43dc27c59c430b1a6b604f6e9a72177a80a5bf6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53578cd1ce8d78e86813a806afc11353bfe9763a.mp3"
+      }
     },
     {
       "id": 13,
@@ -118,7 +170,17 @@
         "武松"
       ],
       "answer": "周兴",
-      "explanation": "虽然第二单元涉及名著，但文学常识积累中“请君入瓮”指唐朝周兴。"
+      "explanation": "虽然第二单元涉及名著，但文学常识积累中“请君入瓮”指唐朝周兴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22570f582fb4d5714238309ac4ecde9ebfe472fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/06fac22214afb466253a3ea189bc9d11a50995fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c87aec3a8d30996ad579aa14aad7e3100f4ba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff16a325b596e6fb683e69487d9f0f68480eae2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16ce65e52ad06676e369b8a73a75fa083b3c594e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/400e08caae25fdf76626a9a947453b781f004698.mp3"
+      }
     },
     {
       "id": 15,
@@ -134,7 +196,17 @@
         "周瑜"
       ],
       "answer": "武松",
-      "explanation": "这是《水浒传》中对行者武松的经典容貌描写。"
+      "explanation": "这是《水浒传》中对行者武松的经典容貌描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b650403aefeeeec0cb59a59333c8213da32d06c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d49e49c751eb5315d2480e481890b72bd4e862b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16ce65e52ad06676e369b8a73a75fa083b3c594e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c48d5e7820831a6196297a94d256af010634e9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63f98380838cd20417c024566b69f35a9af9428f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab808cc13371cf7e9930454c19597279ac730964.mp3"
+      }
     },
     {
       "id": 16,
@@ -145,7 +217,11 @@
       "question": "“草船借箭”的主谋是吴国的都督（___）。",
       "options": [],
       "answer": "周瑜",
-      "explanation": "周瑜因嫉妒诸葛亮，才设下了十天造十万支箭的计谋。"
+      "explanation": "周瑜因嫉妒诸葛亮，才设下了十天造十万支箭的计谋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9d5fbf9d51e7bfac5b245bc2aafcc815167fd60.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b86ed462f8d9ef20c9997a204f1aa6e698a9097e.mp3"
+      }
     },
     {
       "id": 18,
@@ -156,7 +232,11 @@
       "question": "《三国演义》的作者是元末明初的（___）。",
       "options": [],
       "answer": "罗贯中",
-      "explanation": "罗贯中是中国四大名著之一《三国演义》的作者。"
+      "explanation": "罗贯中是中国四大名著之一《三国演义》的作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46ec836baf2321e6f3eb291fe697a98dc70a6d8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/297b218ad7ec0ccf5bf0d15255f6bf5ca5423851.mp3"
+      }
     },
     {
       "id": 19,
@@ -176,7 +256,21 @@
         "店员"
       ],
       "answer": "A-1,B-3,C-2,D-4",
-      "explanation": "古代郎中即医生，印信即公章，驿站可做旅店理解，伙计即店员。"
+      "explanation": "古代郎中即医生，印信即公章，驿站可做旅店理解，伙计即店员。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1720b718eef3a0fd0f8621620688f0a5d5788f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/987c68a8fe1449e5ea273be7bd2f322a419a0cbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af16b1d5f844b084b16aed43e303b2bad9e3f4af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ed68fce8b2407d31492f63c2e282f135d3d3355.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c18606eef4c80aaed93dc37b3ba7cc149227379.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/552caeb5bd540dc59cae5b73aa6b2a55a2c6f3b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d1cca6b4a043b53be7f4ac61f820349fd463ec8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c197bcb8f6f2964a1e772271c1e83f3d8ef0e5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93243940ea2c006e689ffde5c9194caa1e6ca6ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/2944ee45ea75c29d80b8b5ee1853445e0be003d2.mp3"
+      }
     },
     {
       "id": 21,
@@ -196,7 +290,21 @@
         "《红楼梦》"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "西游记是吴承恩作，草船借箭出自三国，景阳冈出自水浒，红楼春趣出自红楼梦。"
+      "explanation": "西游记是吴承恩作，草船借箭出自三国，景阳冈出自水浒，红楼春趣出自红楼梦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d53ffaa9a528f6cc5c22693dab77717c3704b22.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3ae77de62cdf651117ba80d2e8ea5c009c274ba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3aa4f0b21a9e9a1cca48ed1c1441cd1a5880717.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90b989e7c11edf8cb75ec0c81ff5f3f63ccd05b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/182868d91966f13210ef47ab67b6ecaee51530b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6a1056fc0a6ee19018747b11192a14bbe770fcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f31c108318a28dc01bcfcad442e4eaf566d72569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c679e0ff2a2f6b0bc09d906a3711d08886016c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50c37a307cab8b91365d9dbd79dfb13930e3efd6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8751fbb3a6dc9f8809c1bba9195ebc9b143f1997.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -207,6 +315,16 @@
       "遇到文言词汇就停下来查字典，破坏阅读连贯性",
       "对“榜文”、“印信”等古代专有名词缺乏生活联想"
     ],
-    "tips": "初读名著可以先抓关键人物和精彩环节（如打虎、借箭），对于书中的插诗长句可以通读略读。"
+    "tips": "初读名著可以先抓关键人物和精彩环节（如打虎、借箭），对于书中的插诗长句可以通读略读。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e1/e1be3a8cd83943fc94fe1cdbcda5f868d6e5ac30.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e3/e3bc497a3d7cafa1bd064ec89a88d4861b4286ad.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ae/ae05ee66410896930c0ead5d96f2d6830e7e44c4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9b/9bf5c1d24834fd88e391577d49772ef3f6324938.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4d/4d2d81d2dec815c1a90e8b07d0a77a154d07dc11.mp3",
+        "https://api.clthuanxie.cn/cc-audio/47/472c8e2e8345f95629176c3c1b38dc46eafa7cd5.mp3"
+      ]
+    }
   }
 }

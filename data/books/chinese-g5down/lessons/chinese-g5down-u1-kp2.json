@@ -16,7 +16,11 @@
       "question": "萧红在《祖父的园子》中描写倭瓜爬上架、黄瓜开花，是为了衬托‘我’的自由。",
       "options": [],
       "answer": "对",
-      "explanation": "作者将自己的自由感寄托在园内的植物身上，实现借物抒情。"
+      "explanation": "作者将自己的自由感寄托在园内的植物身上，实现借物抒情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e3dac792cac311d14f3a57cbad29a696b5f05bb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5eacd8c1784d7d0e323aff388b3eb8a7fba4516.mp3"
+      }
     },
     {
       "id": 18,
@@ -27,7 +31,11 @@
       "question": "萧红用‘凡是在太阳下的，都是（___）的’来形容祖父的园子。",
       "options": [],
       "answer": "健康",
-      "explanation": "这是课文《祖父的园子》中的原词，体现了园子的生机。"
+      "explanation": "这是课文《祖父的园子》中的原词，体现了园子的生机。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/269268d8b7d8ea9e2e8ca4e30b0460d6f7c4281f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8df000fa9ba30ac33892fc8790ab623d47385d02.mp3"
+      }
     },
     {
       "id": 19,
@@ -47,7 +55,21 @@
         "思乡之情"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "芦苇丛对应童年快乐，梅花对应民族气节，倭瓜对应自由，月亮对应思乡。"
+      "explanation": "芦苇丛对应童年快乐，梅花对应民族气节，倭瓜对应自由，月亮对应思乡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/dee14f1fa1efed9b03c4dc33193cecb64b3ae973.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43d708e617f883c280f5f14a4522e144f49cb8e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff8ba22715c42099440a335c92a2d081dc222239.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c395aad30abe30de9d06342f828048c22399250.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fd87271ea1070243dc1747ea8628c12c9043c97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/796077ac26794f2ceaad13affc180fc473a96f54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3cfc1de893db9709385c3ff201f98ac9c4dc089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a61f6a1092bc4c790a2c813b97e169d1e750a3bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/645a0104e9d389f04b405c0decb6fa087875d8c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec4d97e9c333b3371915a920db147c16030ecc2d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +80,16 @@
       "写客观景物太多，忘记点明主观感受。",
       "选取的事件太琐碎，不能支撑核心情感的表达。"
     ],
-    "tips": "当心情快乐时，笔下的花草仿佛也在笑；当心情忧郁时，月色也显得凄清。这就是借物抒情的秘密。"
+    "tips": "当心情快乐时，笔下的花草仿佛也在笑；当心情忧郁时，月色也显得凄清。这就是借物抒情的秘密。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0b/0b658e2c76ffe47ac54eb346ded1b85f0db69162.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/99/995c6770c9a40464caca4e51d6b94861abb32748.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5b/5bd7bee460ce2d9804bcb028edc8db773492e146.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9a/9adbe45f188e02f428def9c459f502a582d0753d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e2/e2400a40f303698d59a4bc62339a0ecc2955f86d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ff/ff68099e4cccd17a76371ef9cc95415ea3436fb8.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "'monkey' 喜欢吃香蕉。",
       "options": [],
       "answer": "对",
-      "explanation": "monkey是猴子，习性是喜欢吃香蕉。"
+      "explanation": "monkey是猴子，习性是喜欢吃香蕉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce46f55a33e1bb1e59484d307a37d782981ffc21.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04742b8f8ac9493e32405cf7db44d775b19eccd8.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "字母 'N' 的小写是 'n'。",
       "options": [],
       "answer": "对",
-      "explanation": "字母Nn的大小写考察。"
+      "explanation": "字母Nn的大小写考察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/861bf7590f7754edff4dfcfc4ba300eb090992a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a098ad017bf7e5530afc2979a93c379ad3eafe17.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'bird' 有翅膀，会飞。",
       "options": [],
       "answer": "对",
-      "explanation": "考察对bird（鸟）的概念认识。"
+      "explanation": "考察对bird（鸟）的概念认识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49f38b09e341807255add0ed9578567da0ba77b7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/062788f09db1eb0165f5d21a28470f39a7195ce6.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'What's this?' 的意思是 “这是什么？”",
       "options": [],
       "answer": "对",
-      "explanation": "this 指代近处的事物。"
+      "explanation": "this 指代近处的事物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c884b7b5484167849a4f71cb4644bae4c65bfca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/214dff9178b1f30172148310bf80379279efca23.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "Hello!"
       ],
       "answer": "What's this?",
-      "explanation": "手中的照片属于近处，用this。"
+      "explanation": "手中的照片属于近处，用this。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6600689536945ab9d49f6f914dc515fb33eaba8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/2669cc23ec9a922ca884004193bd4d8e1e422462.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c0b74c5c4915548f169997ab1cd7913d90c53d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69342c5c39e5ae5f0077aecc32c0f81811fb8193.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7f3d2d5ed1c685eb5d714a5855f84f03344e2b9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "is"
       ],
       "answer": "a",
-      "explanation": "monkey开头是辅音音素，用a。"
+      "explanation": "monkey开头是辅音音素，用a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1ce5bd93f2778cbfb42c8ea14252316fd3e92f7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/544542a063bff4835d04481c30f96fa781d5b595.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "panda"
       ],
       "answer": "dog",
-      "explanation": "根据提示选择dog。"
+      "explanation": "根据提示选择dog。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41c07d9ed49aa9775ffdb7c15783fd9e3a1bec0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e49512524f47b4138d850c9d9d85972927281da0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f5edeb4f5b2a4e4364f6b654682c6758a3fa16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f91a8ee646a277a2f1359709604b99c1b32d9f24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69963e4cc68fc39be7c05834776e39609b18d275.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "Hello, bird."
       ],
       "answer": "Look at that bird.",
-      "explanation": "远方的事物用that描述。"
+      "explanation": "远方的事物用that描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/eda54d71009571d90a4e1ede7819191671164ccf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c0b74c5c4915548f169997ab1cd7913d90c53d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5a121ddc5612f8d3dfabe8073c7209190e357c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/192d4976c1033a5cc1fa18763113d90010fac645.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd35c18eb2d5d07697e59e5b8313796077288ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92295625854f92bfdbd29ef0a4832b381d4f16d2.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "elephant"
       ],
       "answer": "panda",
-      "explanation": "根据外貌特征描述判定为panda。"
+      "explanation": "根据外貌特征描述判定为panda。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ef84b28193f84de7119cbf99dd6e2acdb81cca7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f91a8ee646a277a2f1359709604b99c1b32d9f24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab87d24bdc7452e55738deb5f868e1f16dea5ace.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e3d772a1888eadff26c7ada47fd7502d796e07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae9e4deba26021986ffd99636da6601f6393631.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57d180890051e055089eb3220772042fc140da9f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "look"
       ],
       "answer": "like",
-      "explanation": "I like it 意为我喜欢它。"
+      "explanation": "I like it 意为我喜欢它。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9afe9742f7b230545f1664d3be773a51e575656a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/178f45c40d2e495b74239727d9b48a9f1a16165e.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "—What's this? —___ a tiger.",
       "options": [],
       "answer": "it's",
-      "explanation": "回答通常用It's a..."
+      "explanation": "回答通常用It's a...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/3499c9b433ef8707b802397ab53e0de0fb079afc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9043c054b7aab4ac8510a8a894a7a4e7ccd2c393.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "J, K, ___, M, N.",
       "options": [],
       "answer": "l",
-      "explanation": "缺少字母L。"
+      "explanation": "缺少字母L。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c19991621e81ec121074f0af98d060c9fe191646.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5743ed3b54cab9527f984a4e0573214676c3223.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "___ that? It's a bear.",
       "options": [],
       "answer": "whats",
-      "explanation": "询问是什么，缩写形式为what's（按要求全小写无标点）。"
+      "explanation": "询问是什么，缩写形式为what's（按要求全小写无标点）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3e1baf404c9f9637e58c53574f187f1911ae718.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d055fddb9bb79f84332f2cbb110847a2c5900b02.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "游泳的鸭"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "逻辑属性匹配。"
+      "explanation": "逻辑属性匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/860aa7192038d66a612872946bc9a12ff0fe0ef9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd92815bf6273acbaf834b9faed277c722068291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cd4ba93087f27499adb46f6a91ddeb729b9966b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f5edeb4f5b2a4e4364f6b654682c6758a3fa16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/963888fe3aa2766307ce40606c6d89514406953b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77ab380289224efba951d731e3b81d1c1f5303fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/128655de7bdcc471007416dbc6dcc2ac455a5232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94211f88c7798a3972ed696b751a256ef73ac3ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/801d13f94be67f26ecf98c4073bb5e5513368988.mp3"
+      }
     },
     {
       "id": 22,
@@ -213,7 +315,16 @@
         "panda"
       ],
       "answer": "It's,a,panda",
-      "explanation": "考查It's a...句型。"
+      "explanation": "考查It's a...句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7caac77ba8f76c0b4a873559bfdbb6ef4d21181.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f91a8ee646a277a2f1359709604b99c1b32d9f24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27331d1d94e7203aeab43415f63fb0c8e1f2d46a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "How"
       ],
       "answer": "Where",
-      "explanation": "询问位置用疑问词Where。"
+      "explanation": "询问位置用疑问词Where。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17e6b3a4c7830303f7e4ed06e364153c62bee7a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b3f139189bc20f6260dc966aa2c233b384358d2.mp3"
+      }
     }
   ],
   "knowledge": null

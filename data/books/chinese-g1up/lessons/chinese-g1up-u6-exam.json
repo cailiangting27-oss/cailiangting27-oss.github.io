@@ -16,7 +16,11 @@
       "question": "“林”是由两个“木”组成的，意思是树木很多。",
       "options": [],
       "answer": "对",
-      "explanation": "双木成林，三木成森，体现了数量增加意思改变。"
+      "explanation": "双木成林，三木成森，体现了数量增加意思改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54a3337c394e419d1c9b91b5a84a98037fcad3e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19b947040f714673984f709a3a2801c636aa9086.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“今年、明年、后年”是按照时间从早到晚排序的。",
       "options": [],
       "answer": "对",
-      "explanation": "这是未来时间的先后顺序。"
+      "explanation": "这是未来时间的先后顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65b874e4f3db91ed7f76f572f6948460bd49c821.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82bdbc75a6e7579be01f9f723d79de421723277c.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“男”字是由“田”和“力”组成的。",
       "options": [],
       "answer": "对",
-      "explanation": "在田里用力气干活的人是男子。"
+      "explanation": "在田里用力气干活的人是男子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d2a0ff9b5e688cb81841bbb756866f7c4bdce4d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/019868605d13e9f617ca882678a1471963f453f2.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“一群鸟”和“一堆鸟”的意思是一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "“群”指聚在一起的一大组活物，“堆”通常指无序堆放的物品。"
+      "explanation": "“群”指聚在一起的一大组活物，“堆”通常指无序堆放的物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1aadf7ead95c8a655330d335583e3c47351115a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f8e2d425fd2717f261df2907a37032f212128a4.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "以前"
       ],
       "answer": "昨天",
-      "explanation": "由于今天是病态，“康复”对应的时间逻辑应该是“明天”或“昨天”，但语境通常指过去或未来，这里考查学生日常语感。根据逻辑，昨天的状态与今天不同。"
+      "explanation": "由于今天是病态，“康复”对应的时间逻辑应该是“明天”或“昨天”，但语境通常指过去或未来，这里考查学生日常语感。根据逻辑，昨天的状态与今天不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/7274b722098160aff6e7e4f7008941c5a266833d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59c4fcb09e276fac1191534b05678f6f4ba7f7b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b76ce230d32c11cf7af79a7fb6ac7a1f71c8f7a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/639e8f00b78d7998ab41ffbfcbad45cb11473a86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2642a9da00c7b9f671d46093e0a940ed6e502d08.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06b77eec2ea46bebfb5c07547c9f7ed6e21cffca.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "颗"
       ],
       "answer": "头",
-      "explanation": "牛作为大牲畜，固定搭配为“头”。"
+      "explanation": "牛作为大牲畜，固定搭配为“头”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b63b60e4cb0397c19314ec37498cc0b378a76467.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/462f338ef88d70a56ffa5df52d38169a1d158a5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f366635ad280467112ba3b1945e03ea7cfefc0a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d71705bfe205878f684654fc584fb360668f7b1b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71da01202831691ebaca1e4af0e2c103fb7b169f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "粮食"
       ],
       "answer": "粮食",
-      "explanation": "“盘中餐”指的就是我们吃的粮食。"
+      "explanation": "“盘中餐”指的就是我们吃的粮食。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea9230c38955ebf412c795de394e3bf44327c4bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc0613dae17b4354484b7a7cd50e28a8f37b4c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e34963bf893fa1446ff07eb0b3e438ea2756711.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7849aef74d98ae6e0a7fdc59ceb2694989454.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94adcfc5f0113122b6a040954c2c1894275a1c31.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "香"
       ],
       "answer": "鲜",
-      "explanation": "鱼和羊的味道组合在一起就是“鲜”。"
+      "explanation": "鱼和羊的味道组合在一起就是“鲜”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db60cb9d0e032b63daa5209de546ba5f1b0390be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d10b9280ca3a9ae4132939c3f5e797bf56003293.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df96a6e9ec6599716150d5df160abf04f3b84758.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc1f266bc8e2932f77cf494a83b587ef98c3ecbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7ba41552d7e5713b73ad9dc788b70aeecfb42dfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4151c42243c5d6cf1cedca4affb6582243b2556.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "明天,昨天,今天"
       ],
       "answer": "昨天,今天,明天",
-      "explanation": "考查对过去、现在、将来概念的词汇对应。"
+      "explanation": "考查对过去、现在、将来概念的词汇对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5be33452a7b337b7d8815dc5209c36f1de14e749.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/222967e606708fc7087df71255a565f28b39342f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f9acfa692056d9ec867a3407d36624537a7bc4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbfd194457563a22e361cdd733abb019941afaeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/700f1757bd02c525bd3dc3a7e69a7df57cce35b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9404ca2e99e3a86bc1b19a4ebd15225c137eb0d6.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "夸张"
       ],
       "answer": "打比方",
-      "explanation": "“像”字体现了比喻（打比方）的修辞。"
+      "explanation": "“像”字体现了比喻（打比方）的修辞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72e7b422f25981a40aeb3bedf7e8923facb49b4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c53a0e123a05cea187c233b0829222aaf727aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c780bbe134914850fc87c6718c2bef4a236cb15f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d4d2f6f4eb405707edf79615c32764772816363.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f8cf94ee8712312c2470441fc21176075eb7835.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“众”字有三个人，意思是指（）很多。",
       "options": [],
       "answer": "人",
-      "explanation": "三人为众，表示人多。"
+      "explanation": "三人为众，表示人多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/acbd42f3407d96ae465e2ae596207983656038a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ee7a74bc452360df0f86c1a2ebcf6f60eb5654f.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "一（）苹果，一（）杏子。两空都填同一个字。",
       "options": [],
       "answer": "个",
-      "explanation": "个是通用性很强的量词。"
+      "explanation": "个是通用性很强的量词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3883380f9d25c6a83eeabdca7f142b99b7d4746.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9624aa7ef092da3f461e10d1adb7dffa109f0e0.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "小+土"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "日月明，小大尖，小土尘，人木休。"
+      "explanation": "日月明，小大尖，小土尘，人木休。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9e7592935bb46c01a079f3f5c894de3fab3cb74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fca811d4f0275ef8ebab2ce9c4683827c8488fb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8477cc57a5d8e8e5f0dd4fe8b0b0020d3dc5402.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b04538f750c31b5648fd524f2bf115989be942e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0afbe7b539e1a1fb8bc41209ca28d526d4447ec0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6371d018e35ca23a6d666270fb9e7db621cc5a66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d875f9c52d3c1ce2afbcd9822f5af4f826ebd6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a92e90ab9fc30041dfce7cce75002634419d7e0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae6df3a8098a06706b447fae85f34bbf04a88a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5549ef049c89e3385dbb74e0546fcd6680fda2d6.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "小鸭"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "一堆杏子，一只小鸭，一朵白云，一头黄牛。"
+      "explanation": "一堆杏子，一只小鸭，一朵白云，一头黄牛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8c99e026b9c95accfec56371d1f01675267993c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5ac42fb0c2b7ac0aab45026329a77da0490f7bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/502468ea655b589c3d09b0cd8cce3459e6006e6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7385a5faf995485523756128d1031daf5c88bf20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78d1a335211069e9b81aa67a58149ea57552f8b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2dcf0894185ceb49506b3d0acc24ecfed58bb9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4018c4ab4aeab6a16dc318288f20c13910d23982.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fe39cf716273582e2b64caa3145c10ba149e6f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76406adc1b7c4f9e9303200bfc5c91e4368d7718.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "许多"
       ],
       "answer": "树上,结了,许多,苹果",
-      "explanation": "句子结构为：地点+动作+修饰词+宾语。"
+      "explanation": "句子结构为：地点+动作+修饰词+宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1af6a960bdca9e56f97c16002d1dc7f6052fd5b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3825859ee664a71091ea5919ae7bc681e9b89a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c38a120fa8e84490d8b9a9bf26f3d9ffed5bd7f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c153e2afd3122c741eff16dfae339ef2437f0d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/4000f34d0855016c36f1575230c10a5d5f5e903e.mp3"
+      }
     }
   ],
   "knowledge": null

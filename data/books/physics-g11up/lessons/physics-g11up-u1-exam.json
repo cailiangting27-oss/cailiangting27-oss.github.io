@@ -32,7 +32,15 @@
         "位移方向"
       ],
       "answer": "合外力冲量方向",
-      "explanation": "冲量决定动量变化方向。"
+      "explanation": "冲量决定动量变化方向。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b5/b52f1c6062033c2a818eefe50bd58319476f3151.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 8,

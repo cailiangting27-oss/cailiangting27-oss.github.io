@@ -16,7 +16,11 @@
       "question": "字母 'L' 的小写形式是字母 'i' 。",
       "options": [],
       "answer": "错",
-      "explanation": "L的小写是l，不是i。"
+      "explanation": "L的小写是l，不是i。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95b3afa26a40001a3ebf4f3803a8d39d765adc3d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69fc5fa26e18ddde2c74af88c89c5598167f2232.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "N"
       ],
       "answer": "L",
-      "explanation": "字母表顺序 J K L M N。"
+      "explanation": "字母表顺序 J K L M N。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a97023d00a2cfb12b04fd2fc6e5ef92ad2cf6507.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d160e0986aca4714714a16f29ec605af90be704d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58668e7669fd564d99db5d581fcdb6a5618440b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63ae6dd4fc9f9dda66970e827d13f7c73fe841c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b51a60734da64be0e618bacbea2865a8a7dcd669.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bd8df17f92c55d81b3679533bfdbb6d4dbd43e6.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "字母 L 的下一个字母是 ___。",
       "options": [],
       "answer": "m",
-      "explanation": "字母顺序为L, M。"
+      "explanation": "字母顺序为L, M。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c840abfc78694654eefce2ba789267b1b5a75ed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29fa7189edf3b63cc75d0fa8c625d14be106ad87.mp3"
+      }
     }
   ],
   "knowledge": null

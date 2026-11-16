@@ -21,7 +21,17 @@
         "pants"
       ],
       "answer": "shirt",
-      "explanation": "问句中用is，说明主语应该是单数，只有shirt符合。"
+      "explanation": "问句中用is，说明主语应该是单数，只有shirt符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3681f5c46e5c58925b766f005ada516293a42c2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/faa5d68302694fc7e03e47ccc30f838bb55ee6c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19f319efbd6da4987012e838ee7d7f95e6f70911.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9da8a6b08104b91fa9d3854a9ee010662acf056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e65aace9237833ec775253cfde97f59a0af5bc3d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/190c2cbdd958ecf7d7c00874cb17c36a07fc0f26.mp3"
+      }
     }
   ],
   "knowledge": null

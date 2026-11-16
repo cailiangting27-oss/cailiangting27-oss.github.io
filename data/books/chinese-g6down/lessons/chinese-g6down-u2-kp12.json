@@ -22,7 +22,18 @@
         "的人"
       ],
       "answer": "鲁滨逊,是一个,向往,冒险,的人",
-      "explanation": "考查对鲁滨逊性格特点的基础表述能力。"
+      "explanation": "考查对鲁滨逊性格特点的基础表述能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a33c1839cff5163e7c5dd639e7f58b718adedc4a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d22fbf66fc78b43801190334a5d80679fc93d3cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62f45fc6483408959b91123e8580cdf757dec101.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b90669c06e57d2e9fea1b4d0b6d7e0d11f7ef35a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7872642723893c6636e77de2ad3fd84ba5aa39c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/927ee97bc960a7c24abee5b86e99474796b0f8b5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5f540e05e997e0d83be833b189ee42476179274.mp3"
+      }
     },
     {
       "id": 23,
@@ -39,7 +50,18 @@
         "无穷魅力"
       ],
       "answer": "阅读名著,我们可以,感受到,文学的,无穷魅力",
-      "explanation": "考察句子的逻辑组合能力。"
+      "explanation": "考察句子的逻辑组合能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b64af6e9b6d930b7b1769ad36bcf717cfc3c974c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/40c1d4c04e185218b456f572ee94a4896e7c7ce1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/246bc984e4c3d5ab7f93b77856cfa9f91844f7e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fe6e5b05185699988b0028893ea230362c62c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4d817ef3ac9c94b5edbf082d6fa3cb8bbf940e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6107a057381287810fe2f24d17b053f213c68096.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0fc6bea1958d5c452ad23460950d45c9a690beb7.mp3"
+      }
     }
   ],
   "knowledge": null

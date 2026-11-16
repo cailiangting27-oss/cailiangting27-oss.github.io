@@ -16,7 +16,11 @@
       "question": "介绍事物时，只要写清楚样子就可以了，不需要考虑叙述的顺序。",
       "options": [],
       "answer": "错",
-      "explanation": "说明文必须有条理，通常按空间、时间或逻辑顺序叙述。"
+      "explanation": "说明文必须有条理，通常按空间、时间或逻辑顺序叙述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f5470b656ce88fa039c380d4e04d9756ed264b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b42ad6dee8c5b5f74ced3dcba5d4a61b39aac878.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "游览顺序"
       ],
       "answer": "逻辑顺序",
-      "explanation": "按照事物特征到影响的内在逻辑关系进行编写。"
+      "explanation": "按照事物特征到影响的内在逻辑关系进行编写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f59839b51cee16cddfbdd456f76c58e306e7a69.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee89dc7e16abb90a80380646d0ba38e2b744dd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24eb1188e3c81708967eeb014eaf5a1a95f91951.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6300e3241a6b45c14f5d68f3052a6e04606ce844.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3814529d40f0cd3eb7b70dd5ffb891ff48d2b5e.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "疑问句"
       ],
       "answer": "中心句",
-      "explanation": "这句话概括了松鼠的总体特征，为全段的中心内容。"
+      "explanation": "这句话概括了松鼠的总体特征，为全段的中心内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a664f18700c7688e87d7c17ef21f594058fdeff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/777307041f048e38f23a12b3df885132a3bfdf13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/645e9794518092bc08ad4d21651ca8b43d2d5dd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6f763d7d76a9e6441ea53447e936c52d6aea39d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9f919d9abbd163c27c6cf55d826c8062fa59e93.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99735a956feaf07c63706e48cc000c45aa65818d.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "以上都是"
       ],
       "answer": "以上都是",
-      "explanation": "说明文中使用这些限制性词语是为了客观、准确地反映事实。"
+      "explanation": "说明文中使用这些限制性词语是为了客观、准确地反映事实。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7db353661111bf536dc15209ad1ce0fbf1c0f5d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/8947a57389baa3051dab033285d12dc8dba57ed0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a2aee6322b00ff7de34acabcf82dfac9ff35d7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5142c918f41918328d4b5b15721aa568f436978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd3aadacd34e9d21223c3c470fb3eefd691c2e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78958416aa01170c0a35b1ccacec96cb364f3b99.mp3"
+      }
     },
     {
       "id": 20,
@@ -84,7 +118,21 @@
         "先概括后具体"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "A总分-4先概后具；B逻辑-1由表及里；C空间-2方位；D平实-3一问一答。"
+      "explanation": "A总分-4先概后具；B逻辑-1由表及里；C空间-2方位；D平实-3一问一答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49c76f37b0708763aa8230ffe38eb814c91a60ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/0517cdd7c606d3d12c7a294bc49ca13d2a9a4675.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee89dc7e16abb90a80380646d0ba38e2b744dd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/257ecc5d43699c1e1e471472826d0e12f10b85c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/095a084cbbc444dbdf5aa8e42ae4d039edefa641.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d9e955ecb790acd4afff056bf9944ef874b4224.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1e9211fb244fa9f62e7fc4413763f9338850781.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fcdd1f76dc6ca0360dc4aef4cfded3f1dca0e96.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c27c481ad3cea86562ea4db2830ac64cea5b32d.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,19 @@
         "不仅"
       ],
       "answer": "说明文的,语言,不仅,准确,而且,生动",
-      "explanation": "考查递进关系的句式应用。"
+      "explanation": "考查递进关系的句式应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0f5d451fe64614c342bbf83b1a087ab576f4dc7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6d2d542b7f406482a90f655a823dc68fe5b0e5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/149c8eadade819bace916213b384d2086bb0304a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59133a1b53d00675ce708c8e3914142298e891ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca7cc7aa22555b7cf869882cb4e62b4047e4c589.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd99b225a08ea013db537f05cbf4814613665169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46c10a6f34eb1b546d13ab9cd4f7517ac0a215bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db12e54caae95d1f1a79ded17c8afc6deee9fe3b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +173,16 @@
       "逻辑顺序混乱，在介绍事物时东拉西扯，没有固定视角",
       "认为说明文必须枯燥，忽略了生动说明也可以通过拟人、描写来实现"
     ],
-    "tips": "写作前先列提纲，确定‘先写什么、再写什么’，确保层级分明。"
+    "tips": "写作前先列提纲，确定‘先写什么、再写什么’，确保层级分明。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ca/caf70f072669e790c8078d39441e1836641997fb.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8a/8a6bac26abc67bb3f953d4aaca7b9a0121b5fe6b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/18/1806b86fa1d06b414d5ec6955d25b2a3c976cacd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2d/2d0241353c64a7360b63ae2f64ab5217c77876b3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5c/5c6cc7bca9af10fd42d62178919b70a0091d6ddb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a3/a3e9583237c4173367d621eead3f95270f4344e2.mp3"
+      ]
+    }
   }
 }

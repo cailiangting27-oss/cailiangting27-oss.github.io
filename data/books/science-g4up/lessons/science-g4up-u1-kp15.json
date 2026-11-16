@@ -21,7 +21,17 @@
         "转化信号"
       ],
       "answer": "收集声波",
-      "explanation": "耳廓形状特殊，主要是为了更好地收集来自各方的声波进入耳道。"
+      "explanation": "耳廓形状特殊，主要是为了更好地收集来自各方的声波进入耳道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4d7a7d767fbc5bd749b08ac7de3e59af73a2886.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/63067c3900c33f4d6f20f1b4bfa32d2dd8913f1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28b2717f0a9fbd280fb437a427215ae9ff0232a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5d9de2552b7c3bc89b47d74ff2cae29b2b54804.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29e03e8a887dc97eab9e6ddeb5a4f73be03d3367.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5acd48e73a1fe825620b0bd46f5b7b67ba89fd41.mp3"
+      }
     }
   ],
   "knowledge": null

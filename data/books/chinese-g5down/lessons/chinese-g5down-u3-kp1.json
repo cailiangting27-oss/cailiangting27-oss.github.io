@@ -16,7 +16,11 @@
       "question": "甲骨文是刻在龟甲或兽骨上的文字。",
       "options": [],
       "answer": "对",
-      "explanation": "甲骨文是我国发现最早的成熟文字，因刻在龟甲或兽骨上而得名。"
+      "explanation": "甲骨文是我国发现最早的成熟文字，因刻在龟甲或兽骨上而得名。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa11503fae9ee9bcd16356ce39541820176631f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/1864d8fdb3a72dfe29b011c3c57bc7ca2f8a12d2.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“休”字是一个典型的形声字。",
       "options": [],
       "answer": "错",
-      "explanation": "“休”是会意字，表示人靠在树木上休息。"
+      "explanation": "“休”是会意字，表示人靠在树木上休息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70083b2c69aa8616fd7834a144c96602c225ed0f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/790758fa9c4049451c005e486149b8c6d544467a.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "楷书始于东汉，通行至今，汉字字形趋于方正、笔画平直。",
       "options": [],
       "answer": "对",
-      "explanation": "楷书的特点是形体方正，笔画平直，是目前的通用标准字体。"
+      "explanation": "楷书的特点是形体方正，笔画平直，是目前的通用标准字体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c7ecd631580c549167cffa2cb2c3a0e5ca6fa00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca1b2c81fcb553c484391052e0d0d8c0ebca24d0.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "每个字都只有一个含义，绝不会改变。",
       "options": [],
       "answer": "错",
-      "explanation": "汉字有一字多义的现象，含义会随语境变化。"
+      "explanation": "汉字有一字多义的现象，含义会随语境变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf4d8f6f74616a2affff9060fedb9f9809feda7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac19a32cccd8034176790f8a6a92c223b5913272.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "金文 甲骨文 小篆 隶书 楷书"
       ],
       "answer": "甲骨文 金文 小篆 隶书 楷书",
-      "explanation": "汉字的演变过程大致为：甲骨文、金文、小篆、隶书、楷书。"
+      "explanation": "汉字的演变过程大致为：甲骨文、金文、小篆、隶书、楷书。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c0326355938285e85991c83098248e4c52c7422.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/5094dcd89e0fe257535cf6e20f438a440d0874b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bd4613a06e3d08420e1acbe5579406ed2ef4fdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be104fbc7446d7a00bc9709294d7ff111c7216aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f02dc330c28b1f74e6a5049dc81746e3615feac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/001c3a0491720b216be1e6323187311a9cbd88e0.mp3"
+      }
     },
     {
       "id": 7,
@@ -81,7 +107,17 @@
         "价值"
       ],
       "answer": "财物价格",
-      "explanation": "在此句中指汉字的分量重，抵得上千金的价格。"
+      "explanation": "在此句中指汉字的分量重，抵得上千金的价格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/491a0fde7cb4a49c3c8d679c95fe19c9acac9c62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/6322a9eb6fb4a6d1a729c017dc8a1d9c3251246f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/866cafb2548e83b596aae23e1ea3611e97c31687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb1e6e551f08cbbeafa4326d7f3d91a50a4037b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a50e4e8afc9485566ffa953c6764a7f58c08703.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e32eb0c2433be4e208cedab3cad77c4a14e57eec.mp3"
+      }
     },
     {
       "id": 8,
@@ -97,7 +133,17 @@
         "武"
       ],
       "answer": "日",
-      "explanation": "“日”模拟的是太阳的形状，属于象形字。"
+      "explanation": "“日”模拟的是太阳的形状，属于象形字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95b48afa9f73b26a8d5ad27df0f9c850469c6466.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ea589b9eeb7a92f4c8de320ec10b4900ea0f7e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97c66d6f6f4121b0967faad20cd301805b436e23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fed5660e6a512e19db9cae04a4d03531314e911.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27b91e48737500afd24b85565ea2d258c8a3db95.mp3"
+      }
     },
     {
       "id": 9,
@@ -113,7 +159,17 @@
         "阴"
       ],
       "answer": "朋",
-      "explanation": "两人为朋，字形由两个“月”组成。"
+      "explanation": "两人为朋，字形由两个“月”组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6b0713441ed643c2346c9cde4f17d38f558153e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01fd270dc700310f579280d9a60289506ddcff1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fca811d4f0275ef8ebab2ce9c4683827c8488fb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae381edaa151651f265378aee35b65d6c3215591.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bda78353454ccf26b5e363ddded468f1733b3275.mp3"
+      }
     },
     {
       "id": 11,
@@ -129,7 +185,17 @@
         "闭"
       ],
       "answer": "问",
-      "explanation": "“门”字中间加一个“口”（口在谜语中常用点形容或指代结构），谜底是“问”。"
+      "explanation": "“门”字中间加一个“口”（口在谜语中常用点形容或指代结构），谜底是“问”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6ffda2e64e5ce98df6646899f489fbe378cc9fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be9cb728a5cc1b14eb30c2ecb9a30c3bef1bef31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01b221aaefeea2f86c219f247d52c252c7fd856b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92fe293d0904a40cc973ebe58ebca528e4b2c1b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce38e5cdc4087ed201815aee66c924c4e447f94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee5553e6f23203fb9f61f93bb31becfe1183250c.mp3"
+      }
     },
     {
       "id": 12,
@@ -145,7 +211,17 @@
         "口"
       ],
       "answer": "氵",
-      "explanation": "形声字的意符表示含义，三点水表示和水有关。"
+      "explanation": "形声字的意符表示含义，三点水表示和水有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b92218a40b1596d8fa79fb63a7af6c68b10f46a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9be3e450c24968a84927ac1281ce409b67cf8d9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdb1d49b8e77841903e66dd88fedd9a0e897b4c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06add9f93571a43a7a2118fbe1a03536bfc59e59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd9995ffa350f710e481e8116979cd920eef1d29.mp3"
+      }
     },
     {
       "id": 14,
@@ -161,7 +237,17 @@
         "真实历史"
       ],
       "answer": "民间故事",
-      "explanation": "仓颉造字属于富有文化底蕴的民间神话传说。"
+      "explanation": "仓颉造字属于富有文化底蕴的民间神话传说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af2c70a9506a9dfd951f54c1eda8dea82f2f78f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/004717d2bc55b1f8c00d62baabc6c823f8b44428.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76bfd11f61dfbc99ff8c152a77508f773a7a96cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3bdeb143da11240b867b1a4108b9dbc568b4f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3857dc5e3c797d2a8ea3a36e6373e6cabe07be6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c62b8f21c8cb41c5556efe3b536ff7d30a4a3b1.mp3"
+      }
     },
     {
       "id": 16,
@@ -172,7 +258,11 @@
       "question": "我们现在通用的汉字是（___）。",
       "options": [],
       "answer": "楷书",
-      "explanation": "目前我国通用的规范汉字字体是楷书。"
+      "explanation": "目前我国通用的规范汉字字体是楷书。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e1c16c3e362c5c9e70d00a15d77330cb7af42d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/006673ba7a83500c030ce5d2291edb49a8863976.mp3"
+      }
     },
     {
       "id": 17,
@@ -183,7 +273,11 @@
       "question": "传说中创造汉字的人是（___）。",
       "options": [],
       "answer": "仓颉",
-      "explanation": "传说黄帝的史官仓颉观察鸟兽足迹创造了汉字。"
+      "explanation": "传说黄帝的史官仓颉观察鸟兽足迹创造了汉字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b85c1ec69ff396cc81c8f1b9179f1df4c33a454c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b8caf7991e281f43824bc33766bfcf46bb94df2.mp3"
+      }
     },
     {
       "id": 18,
@@ -194,7 +288,11 @@
       "question": "“清”和“湖”都是（___）字。",
       "options": [],
       "answer": "形声",
-      "explanation": "这两个字左侧表义，右侧表音，是标准的形声字。"
+      "explanation": "这两个字左侧表义，右侧表音，是标准的形声字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b339e0777a53947296f8bf6bd459c45b9307d53c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d150cd52811849de823ca7460350d9126d01c95.mp3"
+      }
     },
     {
       "id": 19,
@@ -214,7 +312,21 @@
         "水"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "象形字源于图形：月亮对应“月”，火堆对应“火”，泉水对应“水”，山峰对应“山”。"
+      "explanation": "象形字源于图形：月亮对应“月”，火堆对应“火”，泉水对应“水”，山峰对应“山”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e12d4cfb3a6e5aea5f9527afa6ea1c37de44dc9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d90c171f9667e3e9a2422bc099200dc78ebb752e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8e12321f53a04fee829ded425c22bf133a15f20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34026229964f03f1edf0e079151d41dca62dcec5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eea463dff71087a52dc66cd367c51e1510e5cccd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e248e5603d3e908214e506d4c5fa3700b2ef7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9b59879f3b83656682a13244a4690ff63728156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb2620838c4f431a7d9e61441bd2445543f4731.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6203b26e520288040fc8629ed2229c5ee872df6.mp3"
+      }
     },
     {
       "id": 20,
@@ -234,7 +346,21 @@
         "楷书"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "龟甲对应甲骨文，青铜器对应金文，隶书有蚕头雁尾特点，楷书书写工整。"
+      "explanation": "龟甲对应甲骨文，青铜器对应金文，隶书有蚕头雁尾特点，楷书书写工整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/1922d61925427136253e54b45ef1e501f3f26341.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15e3b4f97f75d6e6a8a5fc4197d449103316802e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ab3a44fe7f8ea16f389eb5f7b54cba16272d812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef982d7412a5ecf0507943dfc3c3214af3bd22c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/776def10e493ce696b0c06c55f261631460adc80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b05b10b1ca3650e73fa117ac046d1a9925ebc95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b0e3cdc513436a1ae8d78c1be54402dabc2a278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0db22ee9fd671f90db20f6b4110b83bcd7dbc807.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b816a6827d3b9fc490b282cbb74cdf81ec6a849f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/886203d1cfa8d689042b5ca009d08a43208a2a1b.mp3"
+      }
     },
     {
       "id": 21,
@@ -254,7 +380,21 @@
         "有言在先"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "外甥打灯笼—照旧（舅）；隔着门缝看人—把人看扁了；咸菜拌豆腐—有言（盐）在先；上鞋不用锥子—真（针）好。"
+      "explanation": "外甥打灯笼—照旧（舅）；隔着门缝看人—把人看扁了；咸菜拌豆腐—有言（盐）在先；上鞋不用锥子—真（针）好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af82ffb6681efb28d1ce5aba12c8e4997511985d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f5bb41e501ed179684763430035a1246fa18e5c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44ac7d2e7bee341aa271c0d362c4125842000a03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ec83767d43b7a2f2db6ce819ec6f833c7d6c30d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/182f0e76421d92e64e49e6449889859beadff7c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5aee1223b2a9aae386133f583c6e0759e120ba2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a38e96c2dae4a16e9567d53870c34fead927a71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/134545b0b7f8cae7932e83b271c882c23947b84a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0a4e5e0002e6deaa5087ab53aed8b413449bd18.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4da3a13baf445221ec65860b7134af8357131ab.mp3"
+      }
     },
     {
       "id": 22,
@@ -271,7 +411,18 @@
         "瑰宝"
       ],
       "answer": "祖国的,汉字,真是,历史悠久的,瑰宝",
-      "explanation": "按照主谓宾结构排列，并正确使用修饰语。"
+      "explanation": "按照主谓宾结构排列，并正确使用修饰语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46b59678b9a93f645bd21337fd098084f8da6acd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c06ce2d7fdeda6ff7629156bee66bf4d818ab397.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f11f4ca87d7ac21be1643fcd4fbedb46f2389be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/318057f318103101b325247c831f6f3bc56a7a61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f41a6778657758a82825e8936c6e54ea6725c689.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccaaf5f1bd4ef0e8583b8d17b82fb3e64af11723.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02f0da78ff75b404439ddfed1c75bc23fa2b5e6c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -282,6 +433,16 @@
       "混淆隶书和楷书的区别，不清楚蚕头雁尾是隶书的特征",
       "错误判断形声字的声旁和形旁位置"
     ],
-    "tips": "可以通过拆解字形的方法来记忆，比如看到三点水就知道跟水有关，看到木字旁就知道跟植物有关。"
+    "tips": "可以通过拆解字形的方法来记忆，比如看到三点水就知道跟水有关，看到木字旁就知道跟植物有关。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/38/38ba0d4d253eef9f980020f51fc96def932917f8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/46/46d880407d928b3a87fc74d5f72430683e7e9973.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6e/6ed5fda59793be4d1438169fe92ab29a7cabb16b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/74/74f3f20e0f719bc7498df1f0653a7c0f0a4e42e5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/18/188fb2107e55e2dd8662411ce2c2a502097dd518.mp3",
+        "https://api.clthuanxie.cn/cc-audio/00/006b4003dc457f094a7b993c9736bd51fcce3bf1.mp3"
+      ]
+    }
   }
 }

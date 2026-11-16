@@ -16,7 +16,11 @@
       "question": "要写出老师“严厉”的特点，可以选她认真批改作业到深夜的事例。",
       "options": [],
       "answer": "错",
-      "explanation": "认真批改作业体现的是责任心，而不能直接表现“严厉”。"
+      "explanation": "认真批改作业体现的是责任心，而不能直接表现“严厉”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0116bb11352fcaaf47b2cdaf61fe36241eed1cda.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d975e9fd1507cc2bf33a6cc8afef4a7bd91e46b.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "他每天准时到学校上课"
       ],
       "answer": "他能准确背出三年前读过的一首短诗",
-      "explanation": "背出很久以前的细节最能体现“记性好”。"
+      "explanation": "背出很久以前的细节最能体现“记性好”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b63518c8ddf40a4e75e2d1b919afc9c82f1f22ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d0021e05f2b79f5f87fd0bc8596ba862a790909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e730bab64cde95966a79fd61a1c3b40057707904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ff93f64ec5294c494bb77764dd686682d4dc7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8e81d70275d2cbfe28e98b6c7f7823579197512.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab49b65409355919b4549fb168cabbdd37cbb605.mp3"
+      }
     },
     {
       "id": 21,
@@ -52,7 +66,21 @@
         "练琴磨破手指"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "输球不认是爱面子，漏题是粗心，扶人是助人，磨破手是苦练。"
+      "explanation": "输球不认是爱面子，漏题是粗心，扶人是助人，磨破手是苦练。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a67f6fc3fa464981c1fc99057f3a8e10f2f72fd3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d594e63718a063643bbb0cf3013b7e17d549cad6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96a653e70404f3f2ea4a87699c2c0ddf0dbc658c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c086b3087e58826e48504ada1d524d50b46bb3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e531a3fd11d3a433803066a91483505565c0fe50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5384d251d472666b3c2cb10fdef52b30623d8f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d90b73fd0aa1cb9571b2e839ddf1a2e898f266ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdc6e8362abdcb0e054309158e3988fef6906105.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63c2963366bdbacb1b2db4aaf24dfb1466d0f5ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8e718e6e43721d81b78dae03812abf64e3a4013.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -63,6 +91,16 @@
       "选材雷同化（如写老师必是深夜改作业，写妈妈必是雨中送伞）",
       "事小却不精，无法精准对接人物特点"
     ],
-    "tips": "问问自己：这件事要是换个人做，效果是不是一样？如果不一样，它就是典型的。"
+    "tips": "问问自己：这件事要是换个人做，效果是不是一样？如果不一样，它就是典型的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d5/d57db7d555367950b3a37bc8f9aa3a1714051651.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d9/d9c53b5c7189e3269751f4d27639d9a6a1a78d99.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/01/018ecdfd0a8911dd3ac1a47bdee769bad9a996a9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e1/e1ec573f1f7a0d6ef0263e0c48916873751ee016.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/77/77d3a2e4ecdac18d541ac93f64f8ecf56f42a381.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e0/e096e8c217b62800b5b386de2db8e40f1b413b0b.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "缩句时，句子中的“着、了、过”一般都要保留。",
       "options": [],
       "answer": "对",
-      "explanation": "在缩句中，这些表示动作状态的虚词通常予以保留以保持原意。"
+      "explanation": "在缩句中，这些表示动作状态的虚词通常予以保留以保持原意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a8d1222ca4b00087c9e17acabc04141bd732a55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6730c91bcc893ae0df732b63d6880ac332d3fa88.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "雄鸡啼叫。"
       ],
       "answer": "雄鸡啼叫。",
-      "explanation": "缩句要去掉所有修饰限制成分，保留主干：谁做什么。"
+      "explanation": "缩句要去掉所有修饰限制成分，保留主干：谁做什么。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31b287e5b6fc934a56bdeef3ec0027f89500aff2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3288c203aef38f89562d2259f141a45f6a7be6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f35bc06502f64a704cd0f8d62da32c1c1536bee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1079bfb7aa3ad97ca97c099d0a89dfe4fb8d3876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb7c67bc6242d899ff69a9d3ae2644449459ae56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7f871d817d2844beef4b20fee3c606c2feac971.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "“我们要保护美丽的校园环境。”缩写后的主干词语是：我们（___）",
       "options": [],
       "answer": "保护环境",
-      "explanation": "去掉“要”及形容词，核心谓语是“保护”，宾语是“环境”。"
+      "explanation": "去掉“要”及形容词，核心谓语是“保护”，宾语是“环境”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f8f0bd3d321b3c7cd5741818a05f51ba88290d7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e69c0c0b588f4c437df109a12e6fa043a742f931.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "过度缩简，把核心谓语或宾语也删掉了。",
       "将“被”字句缩成了主动句，改变了原意。"
     ],
-    "tips": "先找句子里的核心动词，再看是谁发出的，这样主干就明确了。"
+    "tips": "先找句子里的核心动词，再看是谁发出的，这样主干就明确了。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e9/e9f193aa52aa1ce2b8f251a534f67cce7175553f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a9/a949d91965ccca9994a737df1853a24b7219fbf3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ec/eccb247eec0661a39e502dbc268c541e95593ec3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/34/34a01eb86d4f4b0e71353f051d50d6242c40ca0a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4e/4e6a71e2a299932488a24d1c81454dba22bccb05.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9d/9d0bfb02bd04a54cd3a381fefbf694da61606210.mp3"
+      ]
+    }
   }
 }

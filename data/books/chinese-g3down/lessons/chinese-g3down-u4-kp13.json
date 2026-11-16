@@ -25,7 +25,21 @@
         "xì"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考察本单元生字常用音。"
+      "explanation": "考察本单元生字常用音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ef8057160f0d71ea29d6c2f10478b0a21e2fe3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b62f556e409c777eebf3d6873897382ba1fd441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfa789a0b0da1fd70cf484209f8a78c244e13ef1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7962481d867c0d26e45f7bc4333f826a059f287.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70bad15cf142dbeda8a7b8fb642bf7ae82296061.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/667dff4053ab33c4b83bfd0653a6c2fc87d2c112.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5bbd2962f21f9ba1243bbc808efbf503c953100.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90549b80866f68fc5f70551a3120766a556c651.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfe4a50a1e03f9c7243e736e717584c0cf22c0ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5c0d1f769181beca7f58a0fc9fbf54966c52525.mp3"
+      }
     }
   ],
   "knowledge": null

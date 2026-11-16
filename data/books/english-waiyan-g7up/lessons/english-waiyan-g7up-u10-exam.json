@@ -21,7 +21,15 @@
         "lentern"
       ],
       "answer": "lantern",
-      "explanation": "lantern 灯笼。"
+      "explanation": "lantern 灯笼。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/571543865d85c8113b9baffbbb8680a892462cbe.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,10 @@
         "New Years' dinner"
       ],
       "answer": "New Year's dinner",
-      "explanation": "固定表达。"
+      "explanation": "固定表达。",
+      "audio": {
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2582831863bae74df34c98e18a64cdacf374f4f1.mp3"
+      }
     },
     {
       "id": 7,

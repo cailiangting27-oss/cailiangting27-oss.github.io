@@ -21,7 +21,17 @@
         "老虎"
       ],
       "answer": "海鸥",
-      "explanation": "海鸥是鸟类，主要在海滨活动，不属于典型的陆生哺乳动物。"
+      "explanation": "海鸥是鸟类，主要在海滨活动，不属于典型的陆生哺乳动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffac1b99f6bedb40aaa0c58022a7c56a56d692a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e55d825daee79f8e79a214deca5257f526f084c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a15788807980a8bb7cb9aa203ac5f948f47f0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14331de96c6dcc79a5354971535a4f204bbffde3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc6f87c51dad67a2bb1d5f2e90695968be968e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23ce894033b2eec380463f226227cece891c1192.mp3"
+      }
     }
   ],
   "knowledge": null

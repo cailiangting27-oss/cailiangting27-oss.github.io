@@ -21,7 +21,17 @@
         "“这里真美啊。”小明喊道？"
       ],
       "answer": "“这里真美啊！”小明喊道。",
-      "explanation": "感叹句结尾用感叹号，引用语在说话人之前，其后用句号。"
+      "explanation": "感叹句结尾用感叹号，引用语在说话人之前，其后用句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f3578f3e212f18b51527d42fb9e407b9fdcdd52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d8d739f0dd5d946c8004d2c3b28940f3e57f864.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bfdd8e5f79dbc8e9e964074f1d2ff83c20be47a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5caf255190b89cedbbe34d1bf6720e9ebec31b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3021db17a8b359ee963f7bcb9e506eca8f5063a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b27029d199face31c5eaae184f0ffd94132e02a.mp3"
+      }
     }
   ],
   "knowledge": null

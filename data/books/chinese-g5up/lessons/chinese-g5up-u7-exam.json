@@ -16,7 +16,11 @@
       "question": "“清風徐来，水波不兴”包含了动静两种状态。",
       "options": [],
       "answer": "对",
-      "explanation": "风动为动，水波不兴为静。"
+      "explanation": "风动为动，水波不兴为静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f9e09222e127c0742dcca16a0ac3f50a4277130.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62e5cb732a7cc39b3b9f0faa8713020ee5e2c0fc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "描写景点时，必须严格按照从东到西的顺序，不能乱。",
       "options": [],
       "answer": "错",
-      "explanation": "观察顺序可以根据空间、时间或逻辑，不必死板。"
+      "explanation": "观察顺序可以根据空间、时间或逻辑，不必死板。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a48810f29d83f571a61644e093da6cc186bde5d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55786e212919a15bd10863806285dfbaed286d94.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“船桨”的“桨”字部首是“木”。",
       "options": [],
       "answer": "对",
-      "explanation": "桨是木制的，属于木部。"
+      "explanation": "桨是木制的，属于木部。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4112299102cd272e5a7db60b66ff41b60ef9486.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cf8b83b218a9daaa120553bafe29c1a3462fc0e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "动态描写的主要作用是为了让画面看起来很乱。",
       "options": [],
       "answer": "错",
-      "explanation": "动态描写是为了赋予景物生机，让画面更生动形象。"
+      "explanation": "动态描写是为了赋予景物生机，让画面更生动形象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c7c9b409ad86aaa37d144bd1c7b4b62c7cfe8b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b55353ee4a6a1ef19416753c580492a7d7738375.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "颜色描写"
       ],
       "answer": "静态描写",
-      "explanation": "月光照在松林间，是相对静止的画面。"
+      "explanation": "月光照在松林间，是相对静止的画面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15b010e3111b1caa2d66a3060c859a557cc27b39.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2349b821efdd031bb741318598f69d1181eecc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a4c55c6a28d25b86ec4343e5db5b329e972457c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3fb69e9903e6045fc9866b5fcd63086d6bb16e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b731ab6df731ad0ba3b486b294a336e1582842c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/053a2380eab582d2e6995eca537137e1c5a772e1.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "冬季"
       ],
       "answer": "春季",
-      "explanation": "题目中“时鸣春涧中”点出了季节。"
+      "explanation": "题目中“时鸣春涧中”点出了季节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d966af37b28199d3109d73d4cdde1476053c3b79.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edc0d04cc3feaee79468e133d402c2a533236af7.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "无"
       ],
       "answer": "直",
-      "explanation": "虽然直是形容词，但在意境中体现了烟升起的过程感。"
+      "explanation": "虽然直是形容词，但在意境中体现了烟升起的过程感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d5a6231a90c4eaac6fd9f12f66cb38a8dbb4b38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5969ca3ea1c8eb5b3cf60618e7c3471fdf326bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6caf2effb1c0ddb386ff14e1278c73187b81815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffc61428ed205419e69461ab67638a0cbbf6f2ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72077749f794f21a6478e5677f0603a6daad5158.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/047950fa12b74a0107aa7f188eda07d10a60d50e.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "树根和树叶"
       ],
       "answer": "大榕树和鸟",
-      "explanation": "第一次见到了静谧的大榕树，第二次见到了百鸟齐飞的景象。"
+      "explanation": "第一次见到了静谧的大榕树，第二次见到了百鸟齐飞的景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb8f868cb352c51aac46072fb2ab807f04f7a52a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/263124660647416597801707a702316959639070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcde20b75aae8829fd565275fbaa3d6c104dceba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c7e45f32c36069a3077d39a204486038437fe9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/438cf2cb50730dc8d37159849aefe5f00be62b8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1de2cc3f732b64c882f33aca7523401b9107e5e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "随机顺序"
       ],
       "answer": "时间顺序",
-      "explanation": "时间顺序最能体现不同时刻景色的变化。"
+      "explanation": "时间顺序最能体现不同时刻景色的变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa5c2136b27b1c4650b64e274ddb003f156a1430.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24eb1188e3c81708967eeb014eaf5a1a95f91951.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca126d6eae5810fdfa5a64a21188d60d730062c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69de02a4b5133277fd8b3fc84286aa0adf6abe6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b736ccb78fd2e7cd8c5dc3aa5c5fa1ed0b151f7e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "春天江水上涨快"
       ],
       "answer": "条件成熟时，解决问题会变得容易",
-      "explanation": "比喻只有在知识（水）积累充分时，运用（行船）才会轻松。"
+      "explanation": "比喻只有在知识（水）积累充分时，运用（行船）才会轻松。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20e0656e6f9052dab1779f2972bb08f58fcb5f2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c95640981514f72cfea91d40eff4a68a04facb4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e4feefe999c5c1453531a84f1a5ebb6a75c84c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9c2e765735598450db4d1d15b14cce205bdbf4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/558df922973876dcc7dbb3897745b7e9f748abb8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c36310484e8921c5520dd57da96380c34d8e72af.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“两岸猿声啼不住”属于哪种感觉的动态描写？（___）",
       "options": [],
       "answer": "听觉",
-      "explanation": "通过声音这种动态形式刻画旅途场景。"
+      "explanation": "通过声音这种动态形式刻画旅途场景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d928127a119355d5a77c4700a0fcd1b7dee5372.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dc4b069ac82f89d28f71bc8aa9335ecb93212f5.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "姑苏城外寒山寺，夜半（___）到客船。",
       "options": [],
       "answer": "钟声",
-      "explanation": "出自《枫桥夜泊》。"
+      "explanation": "出自《枫桥夜泊》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8af459f0738593b38140bb038f5070cdd398e569.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c18618eecd70fcc0d31c06f215ed5929f528b4a3.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "以动衬静"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查古诗中动静对比的高阶运用。"
+      "explanation": "考查古诗中动静对比的高阶运用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/288fdcbe79fc02bef0b963d652fcb7bb74d5e3d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/439edaca65f386cc68439ef62524627ca187f031.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/864c411a825497a7f732f420745a986e586f1bc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdb0cb720d5692c3b77ecd09d726903c1874e48b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8137df6ae3c341404f1e4948b4af374a4a25c2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fea3528f1c655384800b5afe77437136b2b03e42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ea199e5f1c2036011eb9489ee1be4778c323b8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfdb8f8dd63dcb81616b089965e4a12086b2b6e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9741c175709afdf5f67b6e6ec3dd8d00f77cb47f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd912d00cacbf488a122e22180573b84dd89426f.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "冬天"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "对应《四季之美》中的核心意象。"
+      "explanation": "对应《四季之美》中的核心意象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4ec4a3c447760f00f97f13a9ca5c83bd7162373.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4fe26fdbfc72a71d024c859599b15bf9d42aea6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b167d7f8a700e5d725abebbb7d9c40bade0c815e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5790483423b60947b81f784ce308ee0a2705bcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cf8fa8d82104163323d66fb8e4b46f4fc9d110f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12d09b2cba08e729601bdb3027f4740746493a24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714152477ba9e1d51870643afd83050154e96456.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dc6ec1c5c99a1d2193bb82a9e24696fa423eb62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e522873bcafa512c5c186481753330ee2ae29cd.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "眼睛"
       ],
       "answer": "那么,翠绿的,颜色,照耀着,我们的,眼睛",
-      "explanation": "出自《鸟的天堂》，表现静态之美。"
+      "explanation": "出自《鸟的天堂》，表现静态之美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de5467e7e932908dc855d1b74efdb936e92f743f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab83326d7961ac1a899e2222a2aaa83cbeefc1c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0407b780878c71e861fb06051d6b26285fcdb9c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/696a9734c404b50471f4568d54eb0f98cc737396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8aebea23a9d73af590744a32c54abcdc83fc8b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a4508c60a0d4f672eadfe60c1d9e23e6e8091e1.mp3"
+      }
     }
   ],
   "knowledge": null

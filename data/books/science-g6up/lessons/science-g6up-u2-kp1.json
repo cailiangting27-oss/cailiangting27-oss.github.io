@@ -16,7 +16,11 @@
       "question": "地球从表面到地心可以分为地壳、地幔和地核三个圈层。",
       "options": [],
       "answer": "对",
-      "explanation": "地球内部圈层结构由外向内分别是地壳、地幔和地核。"
+      "explanation": "地球内部圈层结构由外向内分别是地壳、地幔和地核。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c80d6b3887e4af62d5aa8af20525bf90061c781.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a13cfa48c56ca0c8fe61e681f4837d5cfd61d829.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "大气层"
       ],
       "answer": "地壳",
-      "explanation": "地壳是地球最外层的薄壳，平均厚度约17千米，在地壳、地幔、地核中厚度最薄。"
+      "explanation": "地壳是地球最外层的薄壳，平均厚度约17千米，在地壳、地幔、地核中厚度最薄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb7619f18e5288a49a0076aebdfb817d59e3f495.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9cf0da42e3575ba4b26adeb5b915203ac8506927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0830127e0668e26b67ef6c93f81fd2362c2f017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48ef1ca292c7c582ef831805e35983a8c1d18817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c70f11453fc10a4ef15ebc6748d56deb52fa8421.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/934533ed8c9d4432fc04a7ed92d3b828264b1b61.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "地球内部存在不同的圈层结构"
       ],
       "answer": "陆地在地球表面的分布是很均匀的",
-      "explanation": "地球表面的海陆分布是不均匀的，海洋面积远大于陆地面积。"
+      "explanation": "地球表面的海陆分布是不均匀的，海洋面积远大于陆地面积。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad21a3b3654478b452dc1f97b0b2182fb3d6d4da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c84470c4a0d2dcb51bd683f46aea281b2f99187.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84bb27163d0dbd9deb54e327a1fca1afc3e89203.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab56fbb6f8e0ce9bab6c707efa15b7142c80674.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b66dcf70969bc69dbac314b23a0809dbc87101bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eeb150967d23cf99020572222ebe98060b6851a8.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "地球内部圈层中，位于最中心的部分叫（    ）。",
       "options": [],
       "answer": "地核",
-      "explanation": "地核是地球的核心部分。"
+      "explanation": "地核是地球的核心部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f267663fb1d08c8506d3205ecfd048fae880f02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4cd4f75331f02addcd4e565658a5ced7368daa7.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "把一个苹果切成2块，每一块都是这个苹果的二分之一。",
       "options": [],
       "answer": "错",
-      "explanation": "分数的前提必须是“平均分”。如果没有平均分，就不能用分数表示。"
+      "explanation": "分数的前提必须是“平均分”。如果没有平均分，就不能用分数表示。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfbee98191a7b3c0307f98d46924fe2fae4f0d5f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e75ade9b1f6e52dcafa243409cd07b0298b5ff6.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "读作五分之三。",
       "options": [],
       "answer": "对",
-      "explanation": "分数的读法是从分母读起，中间加“分之”，再读分子。$3/5$读作五分之三。"
+      "explanation": "分数的读法是从分母读起，中间加“分之”，再读分子。$3/5$读作五分之三。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c9214d8d85528cefc06311e58c8001cfdcc8a53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/6467e1aadfa079f65e284ec858e8776659c51881.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "整数部分"
       ],
       "answer": "分母",
-      "explanation": "分数线下方的数字称为分母，线上方的数字称为分子。"
+      "explanation": "分数线下方的数字称为分母，线上方的数字称为分子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72cbcd5ec7bbd84be816631ce75fb8991b87de9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2bc8db4e5bf928bc82b607a16205cbdc5492d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36734e93c39a40cbe49495cdee08a88ffe13c0aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/664a6b316059485914e3b3dbbb614345773e9c71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd2fba697d37ebc4daee72023829bc6664957c07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7dc4aab9809f308617a70ab6b19af7b37bb05b2f.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "1/3"
       ],
       "answer": "3/4",
-      "explanation": "分母是总份数4，分子是取的份数3，所以是 $3/4$。"
+      "explanation": "分母是总份数4，分子是取的份数3，所以是 $3/4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a1e7eeccc3f25ab4444a4c2e8440cd974320ec3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9d4061486beb3393b2008158466b69b3fa998ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc80df1f23a810ec9e1b7b0863bf8d648ccf9930.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b41fd76deb8d1f5044691e99b4264e448b1b3ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803ab79310ab4c905d897e5b8b61272124906f8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d9aec022ca0361c1a1d8cb33b53410cf152c8f3.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "1/10"
       ],
       "answer": "7/10",
-      "explanation": "“十分之”表示分母是10，“七”表示分子是7。"
+      "explanation": "“十分之”表示分母是10，“七”表示分子是7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f6626259f36d0dea61a18ddd8163f373099a84c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1994196e343d65902438f2b9f0329227cf883b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bef4f403ca739166be309b1aa347e5e835c24d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62c3ea177bae3aa301c0aa78f04bbee8da4b6907.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3a4e2e6e60769d708591f851295a8a31f20601.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f28cdcb0bc16d066bdc8adaaa24e9acc13026f30.mp3"
+      }
     },
     {
       "id": 21,
@@ -86,7 +124,11 @@
       "question": "分数 $4/9$ 的分子是 ___ 。",
       "options": [],
       "answer": "4",
-      "explanation": "在分数中，分数线上方的数为分子，故分子为4。"
+      "explanation": "在分数中，分数线上方的数为分子，故分子为4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/496a5ea19d367157274c2de3a4edd7297963b22d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/ded70296e2b485267fad75e3b8d091962a932c24.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "不考虑是否“平均分”就直接用分数描述物体部分。",
       "读分数时先读分子后读分母（顺序颠倒）。"
     ],
-    "tips": "记住口诀：分母在下分份数，分子在上取几份，中间横线叫分数线。"
+    "tips": "记住口诀：分母在下分份数，分子在上取几份，中间横线叫分数线。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5a/5a5df0107441f4ecf19141e1998797c9f5ccd46d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/32/325373c5b9b0ff52b39ca6ecc09c6c9fc843058c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2e/2ebebaca17784a427b415c695e6785024b83d8ae.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/02/024571a9ff306de48832e5af89082b9ba2cae002.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5d/5d2edf5743b3f004491fed1b2c7e0a56f344b37e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d0/d0febd6d094e58bc74264bff187d99793db06329.mp3"
+      ]
+    }
   }
 }

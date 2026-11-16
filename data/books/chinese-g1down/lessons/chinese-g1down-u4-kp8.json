@@ -21,7 +21,17 @@
         "一座山"
       ],
       "answer": "一头桥",
-      "explanation": "桥的量词应该是“座”或“条”，不能用“头”。"
+      "explanation": "桥的量词应该是“座”或“条”，不能用“头”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e75463398059e6f2082cef0c05d6241760955402.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a5f91f712084a3a7dc3ed40e2ac084ddd9ea3f0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429c7799228e855e0ff3d23f773a3ab7b9a75ab1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75d5ddf44e187df17ab5d7db59ee1e0251fa8294.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc1462e1223157314156d43a34161479bc6701d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22ca360031c4defc6b2dd0b715d560afea667dde.mp3"
+      }
     }
   ],
   "knowledge": null

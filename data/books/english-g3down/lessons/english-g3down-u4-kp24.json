@@ -22,7 +22,18 @@
         "?"
       ],
       "answer": "Where,is,my,car,?",
-      "explanation": "特殊疑问句结构：Where + is + 物体?"
+      "explanation": "特殊疑问句结构：Where + is + 物体?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e32521dd2f8b27b64fe869fdadfa53e7d976f56.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b46b96c1553dec68eb8cde6ae3adab4d3059c952.mp3"
+      }
     }
   ],
   "knowledge": null

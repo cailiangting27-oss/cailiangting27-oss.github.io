@@ -21,7 +21,17 @@
         "7 块"
       ],
       "answer": "10 块",
-      "explanation": "求原来有多少，用剩下的加上吃掉的。列式：$4 + 6 = 10$。验算：$10 - 6 = 4$ ✓。"
+      "explanation": "求原来有多少，用剩下的加上吃掉的。列式：$4 + 6 = 10$。验算：$10 - 6 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4212ec5bc5ba2628b1dd22ed33e86f57b6f58f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b83268a6d84a97f975b03b520b7ffd08018fd168.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b7d8c14f25df526c895f19aebb1f833e7aef089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11a103161f5bbd2ac97ae239d88751b7d4f59ff2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c97f5082eceb170a7ea99a4b20aa4248936c43ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a895fbdc45d7abf8348a0535912677f7e551ae0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "见到“飞走”、“吃了”等词就习惯性使用减法。",
       "无法理解原有数量是包含已发生变化的部分和未变化的部分。"
     ],
-    "tips": "想象一下，如果把飞走的鸟儿叫回来，树上鸟的数量就会变多，所以用加法。"
+    "tips": "想象一下，如果把飞走的鸟儿叫回来，树上鸟的数量就会变多，所以用加法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e7/e76a6a5c119f414fdaf56bcc0fd21bce3561727e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bb/bb9843d692d3f1dc9b20481a6ea0dcaee06f059d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/86/86ec73477ebeb6e15aaea4bc7652e8bb1f7bff8d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/7b/7bcf64f10144c089fd80a9946b24a353cb5cd5c1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/be/be666de05f810d6b258e60ddfa43c0c6d0fa05d5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6b/6bb95d604b2dd3e8555ea2d03ecfd7d5bbd948ea.mp3"
+      ]
+    }
   }
 }

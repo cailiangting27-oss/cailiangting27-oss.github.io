@@ -16,7 +16,11 @@
       "question": "$x + 5$ 是一个方程。",
       "options": [],
       "answer": "错",
-      "explanation": "方程必须是含有未知数的等式。$x + 5$ 只是一个式子，没有等号，不是方程。"
+      "explanation": "方程必须是含有未知数的等式。$x + 5$ 只是一个式子，没有等号，不是方程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e645f34ff62507ec89e4b4fe14a25e92ffae9c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f19969e61539dae28380b0076c9d60d75a53c65.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "如果 $a = b$，那么 $a - c = b - c$。",
       "options": [],
       "answer": "对",
-      "explanation": "根据等式的性质1：等式两边同时加上或减去同一个数，等式仍然成立。"
+      "explanation": "根据等式的性质1：等式两边同时加上或减去同一个数，等式仍然成立。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd9cb0c34d858178d21e66826da403c3285e7686.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88acd42d3a6341022008dc998a2f07491d1daf92.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "10>x"
       ],
       "answer": "2x-1=0",
-      "explanation": "方程必须满足两个条件：含有未知数、是等式。只有 $2x-1=0$ 同时满足。"
+      "explanation": "方程必须满足两个条件：含有未知数、是等式。只有 $2x-1=0$ 同时满足。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/303285cdc5ea033d5ec26d2c87e9e3ba87668397.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5eb894b1064fc9e8845279fa00a06b7ab0f3f5d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0c29b32b2a540e9a6e77e015cc6ceb95f5840d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b824c0cc5027252b060512270e8d75410b08fea6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ee8ebcaf00a4b3df68fe374bff08e386f0455ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9b1a6dc1b65df84bfcfb7e26bef097e3c663f23.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "认为 $x + 5 > 10$ 是方程（它不是等式）",
       "在等式两边除以未知量时忽略了未知量不能为 0 的前提"
     ],
-    "tips": "判断方程看两点：一看有没有等号，二看有没有字母。"
+    "tips": "判断方程看两点：一看有没有等号，二看有没有字母。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6a/6a4553df3e82106060b1e76b3c90764b09bade5c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/00/0058fd34cd35886ade271c52d764fb1c9f0f4979.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/85/853078c3ee260ac2dc455d8a94e2fb4c780f4cd3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0f/0f34176a327d39dc07b52cb7e118d62b88641978.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c6/c63da7891de32f1aca53d613e912ed141f19a9e6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/28/28452d1a9f5e71303e34ad5578e29436e8098612.mp3"
+      ]
+    }
   }
 }

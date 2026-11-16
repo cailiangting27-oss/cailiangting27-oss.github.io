@@ -16,7 +16,11 @@
       "question": "在读数时，万位后面有几个 0，都只读一个零。",
       "options": [],
       "answer": "错",
-      "explanation": "中间有一个或两个0，只读一个“零”；末尾不管有几个0，都不读。验算：例如 8000 读作八千，不读零。"
+      "explanation": "中间有一个或两个0，只读一个“零”；末尾不管有几个0，都不读。验算：例如 8000 读作八千，不读零。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d40272a2bfe64ea67604a63a57cf2f0ee4726de2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a68e7b3449d58f6800feae6a2ea8aeacff78be2.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "一千克棉花和一千克铁块一样重。",
       "options": [],
       "answer": "对",
-      "explanation": "因为都是 1 千克，重量相等。虽然体积不同，但质量相同。"
+      "explanation": "因为都是 1 千克，重量相等。虽然体积不同，但质量相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f6a986e6599108ba3b1467c6d306d30dad14c73.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48694e504f675f88d5683c9485b7a52d0334040a.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "万位"
       ],
       "answer": "万位",
-      "explanation": "四位数的数位顺序从右往左依次是个、十、百、千、万，第四位是个位起算的第5位是万位。更正：四位数最高位是千位，但本题逻辑指五位数的起始或结构点。修正选项：千位。"
+      "explanation": "四位数的数位顺序从右往左依次是个、十、百、千、万，第四位是个位起算的第5位是万位。更正：四位数最高位是千位，但本题逻辑指五位数的起始或结构点。修正选项：千位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db025fe69015548c7aac37db433a40b46d9ecc3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7e9838e2cdee571d816cbf3c6f3cf16e8a95e44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e7751d1c9cbbb798632f85f175bd74c555107a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52c3f88d819b0ab4da78d47c699d8120cf1124de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03c9b191cfbcf7534a2bbf5502ea614dc80d7b58.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "7000"
       ],
       "answer": "5998",
-      "explanation": "$|6000-5998|=2$，这是差值最小的一项。"
+      "explanation": "$|6000-5998|=2$，这是差值最小的一项。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/562102cbc5b6dd31c22dbfaa32ceddfeb5b9c681.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8aba9e5bd39b60776e104141e92a6bbc712b67f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2afe699e0928a1bfaf292d9fa1acf81b38438f9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3bfef7687cdc748fd27165267ad8c5ff711fb05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7525fa5653c5b45f75d490825626e0880b394f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a23196d2bf993d08280839b88a7c5ef47ffeb9d2.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "折叠"
       ],
       "answer": "旋转",
-      "explanation": "风扇叶片绕中心轴转动，属于旋转现象。"
+      "explanation": "风扇叶片绕中心轴转动，属于旋转现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db469f1142178cceda713d7c71f2abc3a1840a9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e855ea2fda6fd69649c02b25a93042e048f5f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d944c1bc208a8e2af52b73545e486f5ddfa5683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9132e604824c784a4a0a0c0199353d010caac1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d4c2dc20b031a5dcec26f63e04daa7cf30620e3.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "三千六"
       ],
       "answer": "三千零六",
-      "explanation": "中间有两个 0 只读一个零，末尾零不读。"
+      "explanation": "中间有两个 0 只读一个零，末尾零不读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9936eca660523301ac8675c8ad256f2a02fe941.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/876604883124f030f5e4c46d8ec692a3e30e7ffb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a696e4d8e316899a7bba1a9a467f013061d4af2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77dd05f7ea8af1e56f41287673c9c53c84458222.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcc18e0c5d88f8c9b1ef263a9abb1bc9f782a597.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d651ea54099a6d28770845b4bce0fd20cfa0ae6a.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "一万"
       ],
       "answer": "一千",
-      "explanation": "$10 \times 100 = 1000$。"
+      "explanation": "$10 \times 100 = 1000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b913df966feaa05c6165c864ca971bb467af6646.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aa107f05b67772d77f966813ea6355312b48c88a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7cbc17dce2e29eb6dc92923aaa3d473f5d9bae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fc85c86013b6ee636e9defd84d83bf2541ddcba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8d358c7b278306e455f9dce73e84500136ce672.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e62239b82f46dc33383cda02858321bfe5171d71.mp3"
+      }
     },
     {
       "id": 20,
@@ -118,7 +176,11 @@
       "question": "由 5 个千和 3 个十组成的数是 ___。",
       "options": [],
       "answer": "5030",
-      "explanation": "千位上是 5，百位没有是 0，十位是 3，个位没有是 0。写作 5030。"
+      "explanation": "千位上是 5，百位没有是 0，十位是 3，个位没有是 0。写作 5030。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c701011ab1baebfff48dc44565c4d65e25279a04.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed75af9a7668a5bbd870f291c1ede41e501fe91e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "读数时末尾的 0 读了出来，或中间两个 0 读了两个零",
       "混淆平移和旋转，例如认为升降梯的移动是旋转"
     ],
-    "tips": "利用生活中的实物（如天平、风扇）来加深对重量单位和运动方式的理解。"
+    "tips": "利用生活中的实物（如天平、风扇）来加深对重量单位和运动方式的理解。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4d/4dd7460c721e7c274ec264a33b8e8a277e642d76.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fe/fed62b84a0bbb887e4485b5dc0a76d85d540cd01.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/44/44856aea6ddf639063170a5e4d31669853fbda2d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9b/9b666b652addd9357634de9ad8a5630d95a122bd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/83/83d4eb575e41c7a394a7ecbe4cb69d5daedf6304.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d1/d1bba71e5b68b126b95183615e59b96fe1b4e942.mp3"
+      ]
+    }
   }
 }

@@ -25,7 +25,21 @@
         "视觉"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "颜色是视觉，声响是听觉，味道是味觉，质感是触觉。"
+      "explanation": "颜色是视觉，声响是听觉，味道是味觉，质感是触觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/209d1007cf50e1cf0f5c90aa38d6e8a37e3b97a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/279a473644dc0c532bb7f841aabdecec1b452e86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d6a665b35724bb7336eedbb5a1f7e765863c40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b4c588bcc99eb627451e9f82fe1b12be285e3e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a9e5d65ac43822182a119819f0c5d260e782db0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/907b1b217e7e1c2cd4348454965360063e1e12b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e0de8c60063935327bbf5f96757dccc7cc434e5.mp3"
+      }
     }
   ],
   "knowledge": null

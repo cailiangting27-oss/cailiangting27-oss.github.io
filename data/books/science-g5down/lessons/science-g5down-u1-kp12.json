@@ -16,7 +16,11 @@
       "question": "池塘里的所有生物与其生活的非生物环境共同构成了一个生态系统。",
       "options": [],
       "answer": "对",
-      "explanation": "生态系统是指在一定面积内，生物成分和非生物成分通过物质循环和能量流动互相作用所形成的统一整体。"
+      "explanation": "生态系统是指在一定面积内，生物成分和非生物成分通过物质循环和能量流动互相作用所形成的统一整体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2f6d2e7fc4c3f255957de5c306855bf9be6e074.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30eea779c213f65ad49ec74a68ade1984db8f82c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "认为生态瓶里鱼越多越好",
       "认为只有活的生物才是生态系统的组成部分"
     ],
-    "tips": "保持生态系统多样性能增强其自我调节的能力。"
+    "tips": "保持生态系统多样性能增强其自我调节的能力。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b0/b058d25b27958fbf8f1f436383d24066b421b6b8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/12/12d1e004900e333f2bf37044a4e6cdf74552bf3d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/45/45e53efc8e7f6c35e5709fbe480021490a7e6102.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d3/d3ecd2d6b9f63bfc19c5d8f02c1c802541d8e950.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/15/15b54eca461c2b2c4fadc5ca10dd67e7a88f1040.mp3",
+        "https://api.clthuanxie.cn/cc-audio/00/0002e992eee2f701ca5ed4b608698e95d9f3ce6a.mp3"
+      ]
+    }
   }
 }

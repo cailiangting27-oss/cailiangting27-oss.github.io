@@ -32,7 +32,15 @@
         "无法确定"
       ],
       "answer": "相切",
-      "explanation": "$d=r$ 相切。"
+      "explanation": "$d=r$ 相切。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e7b851b4457dad940f8f94f59c1f5d772b4d158.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

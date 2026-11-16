@@ -21,7 +21,17 @@
         "有弹性"
       ],
       "answer": "有能量",
-      "explanation": "做功是能量转化的过程，铁球撞击木块移动说明其具有动能。"
+      "explanation": "做功是能量转化的过程，铁球撞击木块移动说明其具有动能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73f27b23ac575a7ed77b938d3b504ca86f8a2050.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d49b60e77b37dc0d5e13ec96847a289195c8a7a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f82f2b6f02ee23b26657268356ad8ce292ff251f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/437cc04fa1f4d96256f59d31a56dc004d721d967.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42f077938c5c9196d569f3e84c51c39ffecf178f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05df1a06abdf01dc9bc40c76459c028759d219e7.mp3"
+      }
     }
   ],
   "knowledge": null

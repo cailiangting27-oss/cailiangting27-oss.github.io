@@ -16,7 +16,11 @@
       "question": "在单词 'big' 和 'pig' 中，字母 'i' 的发音是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "这两个单词中的i都位于闭音节中，发短元音/ɪ/。"
+      "explanation": "这两个单词中的i都位于闭音节中，发短元音/ɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10732eb8443ea63d4838b687a3c4660f643b9283.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/751113b69a8ac7f7c9fffb7bac5b0ce421a0d904.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "rice"
       ],
       "answer": "milk",
-      "explanation": "six和milk中的i都发短音/ɪ/，其他三项发长音/aɪ/。"
+      "explanation": "six和milk中的i都发短音/ɪ/，其他三项发长音/aɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e526860b316c934bd582d9a9dd93a17f3307d9f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d53b257ba8da274144b4d8d998f10bbc3e7d6704.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34e1c7876de92195156f44f32c0719a3e7d5cef4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6939278d66e34fcfb23131504217025e78249a8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/3185f5203c56aea9c5ef6e1557f45bbbe1a6e217.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "I'd like some ___. (牛奶)",
       "options": [],
       "answer": "milk",
-      "explanation": "考察单词书写，milk中i发短音。"
+      "explanation": "考察单词书写，milk中i发短音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f61fe5b76e2490f75dc79c48800a4f957ad54eba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fa05610b9f996afb9f405ffa406610c9ce9bc58.mp3"
+      }
     }
   ],
   "knowledge": null

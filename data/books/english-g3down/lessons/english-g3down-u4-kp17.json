@@ -21,7 +21,17 @@
         "can"
       ],
       "answer": "car",
-      "explanation": "car是小汽车，注意与cap(帽子)区分。"
+      "explanation": "car是小汽车，注意与cap(帽子)区分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c76ccb328d45bb334bbe088cc87c222be08729a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac4be5ac63e1ea62640409f639b010b9fb479c5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d989e8d27dc9e0ec3389fc855f142c3d40f0c50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e32521dd2f8b27b64fe869fdadfa53e7d976f56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9219a0599eae1d9601883f894b4fbe60870586.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/594dccdbc8c04db7ab56dca2da1c2a9a82361c1d.mp3"
+      }
     }
   ],
   "knowledge": null

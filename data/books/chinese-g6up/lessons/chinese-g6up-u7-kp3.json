@@ -16,7 +16,11 @@
       "question": "“五音”指的是宫、商、角、徵、羽。",
       "options": [],
       "answer": "对",
-      "explanation": "中国古代五声音阶为宫、商、角、徵、羽。"
+      "explanation": "中国古代五声音阶为宫、商、角、徵、羽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/704a6483bc94d977cdc7130e7498df36f104c5c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/608581cb9350e1caa7017ba414cde5f6329e470a.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "“五谷”通常指稻、麦、黍、菽、稷。",
       "options": [],
       "answer": "对",
-      "explanation": "五谷在不同时期说法略有不同，但传统说法常指这五种。"
+      "explanation": "五谷在不同时期说法略有不同，但传统说法常指这五种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/eaeba3cf9c7384102059716c1e3cb64072d2bdd6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d645291c34d9dd778312c57a27e05fe347e24fe.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "紫"
       ],
       "answer": "紫",
-      "explanation": "五彩通常指黄、青、赤、白、黑。"
+      "explanation": "五彩通常指黄、青、赤、白、黑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/647094c57437b72bc8c6bc592e84d0bad1e67b74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/7720f8ea0aba7de47ac932a47e89cb84e5284526.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/845d1da87f89db6df3088b8e93bb9e9af2ab7ebd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1ae3cda4beb527944d6ae143126619809788c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01caea5810ee893cbc101e56ab4123e179043c00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/347484f7a6defbf50d0ede46f7c89fff81e810f4.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "行云流水"
       ],
       "answer": "响遏行云",
-      "explanation": "响遏行云原指歌声嘹亮，把流动的云都挡住了，形容歌声极具艺术感染力。"
+      "explanation": "响遏行云原指歌声嘹亮，把流动的云都挡住了，形容歌声极具艺术感染力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7dfc062d709bccb401f6dc43e6b6ea2be7f3ced.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd44e1b47feeb7234e7e903c514dbe78e8adb91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e2718cc6242320815f31ba0d1a1821915805350.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9876c804b9816b4ddb9fde64e0c3bb81a746c00b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8784c55899b4102c7c25d4b6f64f1f1b02dd5fc2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cec3e5964b316695d07ec5e59612a570065bf3a.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "火"
       ],
       "answer": "金",
-      "explanation": "五行通常指金、木、水、火、土。"
+      "explanation": "五行通常指金、木、水、火、土。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bebc441811c21a506d20669cff0f35573ce04d8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b59df8c44a275e9a91bb76203330bf1e311fc56e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8294db3a2006ae4a321f7f24d76942cf922c6c2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb2620838c4f431a7d9e61441bd2445543f4731.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a91b24170f677d909febcfc22b78caad7aa93be.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "中国古典音乐中，“宫、商、角、（___）、羽”。",
       "options": [],
       "answer": "徵",
-      "explanation": "这是五音的完整序列。"
+      "explanation": "这是五音的完整序列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b5093c4e6823515d898b191f7e86b696e317e4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5548ebe20cda6c7039ff26564e8fe621f48dd5f0.mp3"
+      }
     },
     {
       "id": 18,
@@ -106,7 +148,21 @@
         "稻麦黍菽稷"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "五彩对应颜色，五谷对应粮食，五音对应乐律，五行对应元素。"
+      "explanation": "五彩对应颜色，五谷对应粮食，五音对应乐律，五行对应元素。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/7830f159a7963fcd0171959ea4746dbf4be3f333.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0af76c119a87bd3bde651f4c50d6e92480f45923.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0160ef043ade01886066bdc3e65d0ca4c488f8f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e08245a5faa7d70b80a8e5ef9983a02a3d33815a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910d5d1274f94116d970ecd343d806619927e246.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef6b2ed09cab56f50a0fb4924ca798c6bd865e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f57e1e35065962bbdc5e029b7380403a4dd99082.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4616e751d5b5b00ad48a5db47a8419a19fa38d85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc800e10b4053a16391adedd5e380f208dba062.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6323a6fdb060b5d78f75516e9b1be2d6e434d369.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -117,6 +173,16 @@
       "混淆‘五音’与‘五行’的内容",
       "‘徵’字的写法和读音错误"
     ],
-    "tips": "利用手指记忆法，一个手指代表一个类目，逐项对应填充内容。"
+    "tips": "利用手指记忆法，一个手指代表一个类目，逐项对应填充内容。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/56/561c2a9a53dc7810884475f57fe4bbb694d8048f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/04/04d5f99b01d5885c3a975365d53d41d8873cf86c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5b/5bd664a49f874e4e58b4a1c0c4a80327c2e9fc9c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f7/f7ae67f16bcaeb649bb03ddd1feda0a831797108.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/88/88c8a60f7b025d8ab7b45875258077672686a630.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b2/b261d46bbab8afd05d09899a075b50d18e7bff55.mp3"
+      ]
+    }
   }
 }

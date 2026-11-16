@@ -21,7 +21,17 @@
         "我的爱好有很多，比如看书。"
       ],
       "answer": "嘿！我就是那个‘书呆子’王小明。",
-      "explanation": "以此有趣的绰号开头能迅速建立鲜明的人物形象。"
+      "explanation": "以此有趣的绰号开头能迅速建立鲜明的人物形象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78cbcb39acabc0f18b99736b7c385a6cc3cfd752.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48224ecf8e2f9a3871727d1011a27742f16ad23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c9dac5a928af7ee9f8749f3de42b902f2c62e02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0d56a063c1cfbf678f73006e5d5f771d0e76436.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4038035938a4c2daa4e850f84569a9f5ea52413.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22b4219e22e3305bc7a6b26e208d1a205a97b101.mp3"
+      }
     }
   ],
   "knowledge": null

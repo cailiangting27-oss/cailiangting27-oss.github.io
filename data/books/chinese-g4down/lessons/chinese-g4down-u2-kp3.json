@@ -21,7 +21,17 @@
         "大声朗读三遍词语"
       ],
       "answer": "询问家长或查字典资料",
-      "explanation": "遇到专业名词应通过查阅资料或向人请教来准确理解。"
+      "explanation": "遇到专业名词应通过查阅资料或向人请教来准确理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3c08fff68026654c3843f96ae0f45bf68aaa40d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/02dd7742999dd27f2cfcbd9ffaa0767c56d0c558.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eabe146c8ecacab2efff7e4a27fdfbb9b868d56f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eed39afa627126aa5f2fec2cb0cfb7adc7c01279.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93fd1510e8ff79ea0917b312b0205df049701ff7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fc0724426b3ef1853629500dd004b377c79fb5e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "读不懂的地方直接跳过，不标记问题",
       "提问只停留在表面字词，不涉及文章逻辑"
     ],
-    "tips": "在文章旁边做批注，用不同符号标记“未解之谜”和“已解之谜”。"
+    "tips": "在文章旁边做批注，用不同符号标记“未解之谜”和“已解之谜”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/48/48f32ddbc7ab6467ecfb8e10f14c3b5efed5ad72.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ce/cebf3a63db4c6055196bfc389d1ae0f51aa6f2ea.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8d/8d9aa13a59b6479bd0737da7684138c0a291cb14.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c2/c2135bece6022df314f12175b0ad0d11d313c98c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7a/7ad84d45ff14c83748bd5c0985e19df2a6a99467.mp3",
+        "https://api.clthuanxie.cn/cc-audio/40/405cea85276ce3ea34ad858f582aa3909a711929.mp3"
+      ]
+    }
   }
 }

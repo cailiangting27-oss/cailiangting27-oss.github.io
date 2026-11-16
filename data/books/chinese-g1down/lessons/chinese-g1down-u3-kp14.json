@@ -25,7 +25,21 @@
         "绳"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "踢足球，跳绳，打皮球，听音乐。"
+      "explanation": "踢足球，跳绳，打皮球，听音乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3bfda0e66a72998cb6d2a451f07687e43f8afc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1321dfda690195a57254ab5f644433342ef684f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8449cf0cf425dfca043999a69a353762eb3dd089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6919d5be906e36aa9b9bd5593f3720aca1084eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e358ba2b73b57fe8706f46269bd33872e3fb096.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/162020aed5e309c7a948b69cbe518f915debed59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514ef76f62517512927f78a448abe44c2e7657d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afb3c40c392903c76acc22de6d5204baf20cf378.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e05175df43a30466761865d182b68997f75e6db6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fd4fcc5e08d0e26cd78ce3a758cb507a923f012.mp3"
+      }
     }
   ],
   "knowledge": null

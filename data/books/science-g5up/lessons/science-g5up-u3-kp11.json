@@ -16,7 +16,11 @@
       "question": "如果要让摆在15秒内正好摆动15次，那么摆动1次需要（___）秒。",
       "options": [],
       "answer": "1",
-      "explanation": "15除以15等于1秒。"
+      "explanation": "15除以15等于1秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f64ea213b7f7e5b6789204ea1856ebac3efaa737.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b8a1f1df179342217c84e0efa9940c2303b6c2f.mp3"
+      }
     }
   ],
   "knowledge": null

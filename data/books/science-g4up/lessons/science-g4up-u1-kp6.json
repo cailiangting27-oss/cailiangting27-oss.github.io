@@ -16,7 +16,11 @@
       "question": "我们听到的所有声音都是由物体振动产生的。",
       "options": [],
       "answer": "对",
-      "explanation": "科学定义明确指出，声音是由物体的振动产生的，振动停止，声音消失。"
+      "explanation": "科学定义明确指出，声音是由物体的振动产生的，振动停止，声音消失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9b6ce290ba1fefc62be1974b0e199160e7fc310.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/3880a9e7c39e072f13ef12ecb768aaab8b0c8cc5.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "手改变了声音的音调"
       ],
       "answer": "手使锣面停止了振动",
-      "explanation": "声音由振动产生，手按住锣面强制停止了振动，所以声音消失。"
+      "explanation": "声音由振动产生，手按住锣面强制停止了振动，所以声音消失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1ed452d474af5ddf5965d5945bf685fdcc4ee8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39550929c4abbf4ff898cc6dff616444130193d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/3301f8ece2eb367d065d0cced22153b42d187830.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a25f2dd0b5e425d08929cfa13c78e4575f46b00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0598f2059720bea55117b336add16ddb087609d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee7fe26f54615ffd4a50aa5da51a448ada413e34.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "认为物体受到力就会产生声音",
       "认为不振动的物体也可以发声"
     ],
-    "tips": "观察发声物体的细微颤动，如水中的音叉、跳动的纸屑。"
+    "tips": "观察发声物体的细微颤动，如水中的音叉、跳动的纸屑。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/be/be4258f03240874b8d013216b1de4aae6d0805a9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/35/355b4a89a5de90f7bc0ba0e24dae9c5e90a220e3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/91/9155d4335f451ec6fc136bccdeee432ee4fb7c96.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4c2469af10c3f33bf2b65f7be6c34a3b11ed4d19.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a2/a223833abe74a04728b7b73a79e5b9ae997a8ca0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6b/6b1fdcb9eb1acb28d8e70f6115f689ef37d4a50b.mp3"
+      ]
+    }
   }
 }

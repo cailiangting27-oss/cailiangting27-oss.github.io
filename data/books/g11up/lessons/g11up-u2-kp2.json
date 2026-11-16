@@ -21,7 +21,15 @@
         "8"
       ],
       "answer": "2",
-      "explanation": "$2p=8$，$p=4$，焦点 $(2,0)$。"
+      "explanation": "$2p=8$，$p=4$，焦点 $(2,0)$。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ]
+      }
     },
     {
       "id": 5,
@@ -37,7 +45,15 @@
         "3"
       ],
       "answer": "5",
-      "explanation": "$c^2=9+16=25$，$c=5$。"
+      "explanation": "$c^2=9+16=25$，$c=5$。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

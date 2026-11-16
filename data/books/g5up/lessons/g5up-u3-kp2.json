@@ -16,7 +16,11 @@
       "question": "被除数和除数同时扩大到原来的 10 倍，商也随之扩大到原来的 10 倍。",
       "options": [],
       "answer": "错",
-      "explanation": "根据商不变的性质，被除数和除数同时乘或除以同一个不为 0 的数，商不变。"
+      "explanation": "根据商不变的性质，被除数和除数同时乘或除以同一个不为 0 的数，商不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d37d7f35a16385e5b3efbe97bffdcc87bedc25a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c66fd7d251a141c1ee1e4dfd4334ec4888623247.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "十分位"
       ],
       "answer": "十位",
-      "explanation": "$4.8 \bdiv 0.06 = 480 \bdiv 6 = 80$。8 在十位上，所以最高位是十位。"
+      "explanation": "$4.8 \bdiv 0.06 = 480 \bdiv 6 = 80$。8 在十位上，所以最高位是十位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/3786a2957e59130102507053543dfd2da73e3e93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e7751d1c9cbbb798632f85f175bd74c555107a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7e9838e2cdee571d816cbf3c6f3cf16e8a95e44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41e76c4dc9f9a4733782dc2cde0ce95a737af8a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1ce66f4a00a78d0fff16f414a98f731508c4325a.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "$0.36 \bdiv 12$"
       ],
       "answer": "$3.6 \bdiv 0.12$",
-      "explanation": "当被除数相同时，除数越小商越大。0.12 是选项中最小的除数，故其商最大。"
+      "explanation": "当被除数相同时，除数越小商越大。0.12 是选项中最小的除数，故其商最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/766644d91f8bd2b8978a279d007e50d80ecf9564.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22b7f0f838ac9c91dfa693728fa00905cc6c25fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40dcb49dfeb694c91eb801039da1a7ab68e4f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de7efd10f6ce851c4f64f490f68e5a0fff47e938.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee6db30bdb6dbf937803f50d097a920424ffde2b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72bc657b878350262bd24369dbaea11551946891.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "$a \times 0.9$"
       ],
       "answer": "$a \bdiv 0.9$",
-      "explanation": "一个非零数除以小于 1 的数，商大于原数。0.9 < 1，所以 $a \bdiv 0.9 > a$。"
+      "explanation": "一个非零数除以小于 1 的数，商大于原数。0.9 < 1，所以 $a \bdiv 0.9 > a$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0547fb7b47b3a0ee5ec603d3912bada9ab510dd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/5779e405dcdfefad9d9bec04f0c163b7442f906c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c79f93ce81ec34ae1926fa3ce56945944d1b2f7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29a1587ade83c25299b9c10f7c66ad6153193298.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa5e01ebaa0284476ae1eb2efc315dc118d41d59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03801233f87812df13cfa1553bbfc27d52d35048.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "$24 \bdiv 0.8$"
       ],
       "answer": "$240 \bdiv 8$",
-      "explanation": "根据商不变性质，除数扩大 1000 倍变成 8，被除数也应扩大 1000 倍变成 240。"
+      "explanation": "根据商不变性质，除数扩大 1000 倍变成 8，被除数也应扩大 1000 倍变成 240。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dd56a940fe32c182654e077701ebdada5f039ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/036d3281e7ce35f297e073a05578fe5e60b1cacd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/674dc50dcfd7ec998648a10a2efe983e9c840449.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/377e472d0b6acfda5bdb0908238227fac290513a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0a62c991bfe0831ededc4cb166fc64aef3982ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b04bebeb1c6f5266a4650af4be6452ee88f8404.mp3"
+      }
     },
     {
       "id": 23,
@@ -91,7 +135,11 @@
       "question": "计算：$0.72 \bdiv 0.08 = ?$",
       "options": [],
       "answer": "9",
-      "explanation": "$0.72 \bdiv 0.08 = 72 \bdiv 8 = 9$。验算：$9 \times 0.08 = 0.72$ ✓。"
+      "explanation": "$0.72 \bdiv 0.08 = 72 \bdiv 8 = 9$。验算：$9 \times 0.08 = 0.72$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7d5c09d49511707f2a8e302b93948346ee12d94.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2abf61251d3d9b8fdabb85751e4a36b66b9e298.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "被除数和除数扩大的倍数不一致",
       "被除数位数不够移动小数点时忘了添0"
     ],
-    "tips": "一看：看除数有几位小数；二移：移动除数小数点变整数，被除数跟着移；三算：按除数是整数的除法算。"
+    "tips": "一看：看除数有几位小数；二移：移动除数小数点变整数，被除数跟着移；三算：按除数是整数的除法算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d3/d300674513181cc3642c6bb7b704b542d6a871b1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/54/54db35b7fdb3a82ec71ace5d1adf28cbf784f04c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/35/352e03de592211131484f85f25b7dfd5f1bcf553.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ec/ecfa12247aa4ef9cf0f578deda7a2aa352199b9f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/19/19edf35f2c7c6aad3416e13a674d42acbda600f9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/15/150c80ea2b6e44c1f4c0e3c54ab023b8ee070b47.mp3"
+      ]
+    }
   }
 }

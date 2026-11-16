@@ -16,7 +16,11 @@
       "question": "'fast' 的反义词是 'slow'。",
       "options": [],
       "answer": "对",
-      "explanation": "fast快, slow慢。"
+      "explanation": "fast快, slow慢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1e3ff2368b23f4a094acadad364874e6787086b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f50abdfcdd81c15ceeb2c8d95511b58095fd079e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "We can go to the moon by subway.",
       "options": [],
       "answer": "错",
-      "explanation": "去月球不能乘地铁。"
+      "explanation": "去月球不能乘地铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f678e1020fcba411d292630cae6454132c82221.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/185ecefc71825b3a49650538743f2d419fda2e87.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'Straight' 的意思是 '向左转'。",
       "options": [],
       "answer": "错",
-      "explanation": "straight是直着走，turn left才是左转。"
+      "explanation": "straight是直着走，turn left才是左转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78d17ac1be351c363db23cb857822d488cc9e893.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b76d7e3013557736dc965079e40188887662d9df.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "Alaska is very cold, so children go to school by sled.",
       "options": [],
       "answer": "对",
-      "explanation": "阿拉斯加寒冷多雪，课文提到那里乘雪橇上学。"
+      "explanation": "阿拉斯加寒冷多雪，课文提到那里乘雪橇上学。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6dc841ae56c6cc690307d6d58e7e3e9ff369b47.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90e8f03b6f2d62ce46834df435c6b12b692bdbb0.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "at"
       ],
       "answer": "on",
-      "explanation": "固定搭配on foot。"
+      "explanation": "固定搭配on foot。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/901259960ffb374ef920f4bb5f575a0ee61f0070.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/408158643ed564c72fa0921826f8294d71ccbf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28d9b5f61ebca457e934d59ecedc93b1f6d8e6ae.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "it"
       ],
       "answer": "usually",
-      "explanation": "根据句意表通常的频率。"
+      "explanation": "根据句意表通常的频率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43c3fa7bf012cad9e059d43c2ef3f4c5636bdb42.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66c2fa4e9e56695791a43a16b1e7e46e2db759e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/786e97b3ee9fc4b292d5852c2c5943153c4ce91a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cffa50a32cb13a240d705317bcec65dd1f31b6ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6bebf1b3f911164409410df4598ff1294caa6ec5.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "play"
       ],
       "answer": "stop",
-      "explanation": "黄灯要减速并停下。"
+      "explanation": "黄灯要减速并停下。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf79a0f1e88ebd744c41f4e4e632b25bd75edec1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b480158e1f30e0b6cee7813e9ecf094bd6b3745.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/516626bf8a5006ecce1803eeb6a747182000d4f8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d080efe6a2b298cff89993ff6c38ebd5e4a516c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "Should"
       ],
       "answer": "Go",
-      "explanation": "Go see a doctor是祈使句建议。"
+      "explanation": "Go see a doctor是祈使句建议。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5eec9af7c43903f16f0f2c12fe9e434637720cb0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e0b45f2a456e8db55f08d7b65e87593a3e9a140.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef5fe1edf37940bd463fee8eda068dc8d66b0f8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e912c200d2410e97a952bccd1ca3bef442ae3c06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b163a23accbdede4beb677c8220fe13df8715b98.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "Can"
       ],
       "answer": "Does",
-      "explanation": "单三疑问句用Does引导。"
+      "explanation": "单三疑问句用Does引导。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cec25d14af3ff1e6a4b71981e519619d627f346.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae736c9aa65b546674f885b9d310ed02350787c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88e288f3e3ca8d1137556d908dcb9f355209464b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/124a0ce6bcb6abd48643ebbe4378e6fc499de191.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "to know"
       ],
       "answer": "knows",
-      "explanation": "主语Robin人称单三，动词用knows。"
+      "explanation": "主语Robin人称单三，动词用knows。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/579eb4f91ece843f62f49b0ea930f2d34843c5a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97accafb53377fd569bc568d3ffe8da985a568ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e53fd45643906006bdfbc2c76f0be34f7cb484a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b03a9feef3ef45901e37ec704a455ea952e1768b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e384013303ced5286bbee0802c8f5902ae31e58.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9487c88c5ea9c9c4ac0b15f21219cc1417b2b022.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "I go to work by ___ because I like riding.",
       "options": [],
       "answer": "bike",
-      "explanation": "喜欢骑行，故选bike。"
+      "explanation": "喜欢骑行，故选bike。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b9a4e7628d5cb9a05fa3e333d055579ce5069ea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1d60c32f379fafcae32329ca61fc15b0a663667.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "I ___ go by bus, but sometimes I go on foot.",
       "options": [],
       "answer": "often",
-      "explanation": "often对应sometimes，表示频率对比。"
+      "explanation": "often对应sometimes，表示频率对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7adb36080dab2f8a71a59397408438ada6e8bd26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd9281102e1154f97959f5f9727f60cbdea03d3e.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "Green light means ___.",
       "options": [],
       "answer": "go",
-      "explanation": "绿灯行。"
+      "explanation": "绿灯行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce87f6c1e695e590c224f084da597d27f076d4df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52d0de7a5564a1d973b47bc4d09fe95a9e17bcb9.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "下车"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "get on-上车, get off-下车, slow down-减速, go straight-直行。"
+      "explanation": "get on-上车, get off-下车, slow down-减速, go straight-直行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e430c83fadb1c7b112dc12b625a8de41ce8ab7c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b329ae67e012513280604056fbb1f48cec348b95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e5b12a3e8ec2e2fc0be4a4d0d556b92e019aa6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2185c48b70679027ecf7acc5c70648e8ca634c8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc13002c85537274479ce744c532695158b0897c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9504c30feea1a458bc7d43169727350b775dd99e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/405d99a0b745f72250fa4f4ee9b732e1a76b2204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2876019b05315e24edcff1a0ace780d29c589059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76c1500b91a5a366ccf2ce87d3419e89776de63c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8dca893b0da7fbdc565c1abb87c448fd3dbb8489.mp3"
+      }
     },
     {
       "id": 22,
@@ -216,7 +318,19 @@
         "father"
       ],
       "answer": "My,father,always,goes,by,bus",
-      "explanation": "句意：我父亲总是乘坐公交车。"
+      "explanation": "句意：我父亲总是乘坐公交车。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86b4d38e71179ff5ef3604656602d7271f710f61.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6656018ac96d0295d887ff2893ba9af66ae16af2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/408158643ed564c72fa0921826f8294d71ccbf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e92a15d5dd78974f49420d2215a264bb0b93a55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c70cebf110eedb8637b5e875a6c94f1ef6e8c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e286a17f0c997fb042c02ada2fb4d98b7b11d4c4.mp3"
+      }
     }
   ],
   "knowledge": null

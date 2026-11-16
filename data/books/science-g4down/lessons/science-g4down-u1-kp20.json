@@ -21,7 +21,17 @@
         "分支"
       ],
       "answer": "结果",
-      "explanation": "开花之后结果是绿色开花植物的标准生命轨迹。"
+      "explanation": "开花之后结果是绿色开花植物的标准生命轨迹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/312d4b459d47c8f0d7ae778bff45404e23a2cab7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab8b08f11dc4078b70e24d9233376d9e2f36e2f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dd35953d2bdc0f09f891254e45be97c89a7b7ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a2c91cec6c8fb259482b99dde05c9438784dce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f6f9d51c5dfd77c53c57cf8a658628fae1f5404.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/deac7870c731671356c0009f5048f963da1270d1.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "活字印刷术中，刷墨之后应立即进行检字工作。",
       "options": [],
       "answer": "错",
-      "explanation": "活字印刷的流程是检字、刷墨、拓印、晾制。"
+      "explanation": "活字印刷的流程是检字、刷墨、拓印、晾制。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53f0d2c647e2a9205d913afcf89124dc02d8a74f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e70a2ad4f9270ec50ea3bba3d7017d3ebda7f42e.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "不需要纸张"
       ],
       "answer": "能快速大量复制",
-      "explanation": "活字印刷极大地提高了信息传播的效率。"
+      "explanation": "活字印刷极大地提高了信息传播的效率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d70e0a1f275cca77816e5faefbf11ad3051bb3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/24cc15f1c3f5517810ebc31e5d93109507d55a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75cd1885aa28055e00c5ccb62c8c02189541b45b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36d5a73f8b7190642e8241cd8e29f2ac4e1ee964.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df161b8c6cb7c2d47435d5054aa24a8b81f08454.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76727fba871c8ca4a6c2acf9dee10553192e0e6a.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "张衡"
       ],
       "answer": "毕昇",
-      "explanation": "北宋时期毕昇发明了活字印刷术。"
+      "explanation": "北宋时期毕昇发明了活字印刷术。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4bda60cc71216aafe8b98b1ce7e51b89b35ab7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/9796573c7f74133cbc0e44158ddf51f5a22926a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8f632fb4773fa0900bd75a446bd50d7a9b3dfb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/889761c38626e75341ff3aff10bb45073970de69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80768f1e6d750bbb877b8d9ee8387483684b56b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecd972c390c688dccbed6b0ec864f8fe1e0b82df.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "在印刷术发展过程中，（）的出现极大地加速了知识的普及和社会的进步。",
       "options": [],
       "answer": "信息",
-      "explanation": "印刷术是信息传播技术的革命。"
+      "explanation": "印刷术是信息传播技术的革命。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66d81cbc535571849958fc617206f60846deccd7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8eec8585c6835e2fe22b468a906319c9ce3aee30.mp3"
+      }
     }
   ],
   "knowledge": null

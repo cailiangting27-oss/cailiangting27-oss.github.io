@@ -21,7 +21,17 @@
         "doctor"
       ],
       "answer": "pen pal",
-      "explanation": "pen pal 意为笔友。"
+      "explanation": "pen pal 意为笔友。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5054c45bf090b2576951ac2a226734081cf210f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/407986ab1d52c78e2772b5f59a15a5e7c387e290.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6387df858b51680943ad2b741e21ec2c1ba5e7d9.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0160076c9f42a157f0a8f0dcc68e02ff69045b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e757705f0d86748484033b901e17272b7fc8d7c5.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "offce"
       ],
       "answer": "office",
-      "explanation": "office 办公室。"
+      "explanation": "office 办公室。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6427457497fe0f4f93a7334d2203b8e17ee82df.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -64,7 +72,15 @@
         "Welcome to our schools!"
       ],
       "answer": "Welcome to our school!",
-      "explanation": "welcome to。"
+      "explanation": "welcome to。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9658f2352342209cacc5f54aaa3b95113036be.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

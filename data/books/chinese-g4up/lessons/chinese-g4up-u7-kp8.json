@@ -21,7 +21,17 @@
         "丰收大丰收"
       ],
       "answer": "将士出征前的酒宴",
-      "explanation": "这描绘了边塞战士慷慨豪迈的饮酒场面。"
+      "explanation": "这描绘了边塞战士慷慨豪迈的饮酒场面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d15de18f7c4fc6f623650e5fdf30fc999de59a8a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94349e11b4bfc82c54082a76681240ea553ba00e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bde66afa939465ee9334a2dab7b933f0e65bac84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f2225fdd6258108c269c26edfd82f85d5c7ee50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4973f2247ea0ebe21eb9ef3694643c3f4043532e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8b4b65cc4bfba530ec71d21effbba29b59c5e62.mp3"
+      }
     }
   ],
   "knowledge": null

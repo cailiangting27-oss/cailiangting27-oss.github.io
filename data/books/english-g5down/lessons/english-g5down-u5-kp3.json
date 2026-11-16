@@ -16,7 +16,11 @@
       "question": "正在爬树可以表达为 'climbing'。",
       "options": [],
       "answer": "对",
-      "explanation": "climb的动词ing形式是climbing。"
+      "explanation": "climb的动词ing形式是climbing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4dae9049f1b7b1a93132941ffe6be3005da8cf3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/1995b5449da7e292de6e6785aeeabef41a4bcd64.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "am"
       ],
       "answer": "are",
-      "explanation": "主语rabbits是复数，be动词用are。"
+      "explanation": "主语rabbits是复数，be动词用are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/955faef5a2e040e875e737f385833b8bb1234739.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0c7b74509503b3c153be5e4196cbd8d840c55c2.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "slept"
       ],
       "answer": "sleeping",
-      "explanation": "be动词后接动词ing形式表示正在进行。"
+      "explanation": "be动词后接动词ing形式表示正在进行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/604252b9e520eab698b21ea06bf8d60f17086d43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3ca5f787365eae0dea86250e27d476406956478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/4200470329f7047f8e0c815c73f24547d1133f24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1218e3a24f5864aaedd94bf9b63abcc13eedc89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7a4c3540e0f578f91874d3b787e70d843236e39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c55b15cad896c448c1603d4b620f704600cb0b2.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "drank"
       ],
       "answer": "drinking",
-      "explanation": "正在喝水需用drinking。"
+      "explanation": "正在喝水需用drinking。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdc9953a0fbaeae5a1854ca2b25318533e8c945a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca7a4abcc2d7c17b202c21effe8258356c3593e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb9322d7b51fdbf208cf7e61d4682567c502dce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a8f2d9144133bd60aac76a1bd9310ca43d4fff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6aaa16a7a7b77e6dbf510bbb130643ce5e73775f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2cffc4f37062815da2b0e8bec7e0e67261aaf4c6.mp3"
+      }
     },
     {
       "id": 13,
@@ -80,7 +114,17 @@
         "runes"
       ],
       "answer": "running",
-      "explanation": "run的ing形式需要双写n再加ing。"
+      "explanation": "run的ing形式需要双写n再加ing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e7857e3a5089e244816f0fcc4d020a6fc817c6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d3933874d353e85c81bb5afb56808a631df4748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c49d9cc3c0c83421a1cfb921cdd4aa35dc1ba5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3420980410e94fe17446d2b603aa31759f7d4bff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17bb573735022154769781668438453683371e2c.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +135,11 @@
       "question": "The boy is ___ a book in the library.",
       "options": [],
       "answer": "reading",
-      "explanation": "正在看书用reading。"
+      "explanation": "正在看书用reading。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81f3ca371b9a57d8b5b282f9653ef55278b3c49d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2649fe3298f6d196427912cd2f54f878a7e245e.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "— What are they doing? — They are ___.",
       "options": [],
       "answer": "eating",
-      "explanation": "正在吃东西用eating。"
+      "explanation": "正在吃东西用eating。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a590f30da667d18fca660ac2602effc746005a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db5ea2296e3e136e58d5881fb778c7dba146adfc.mp3"
+      }
     },
     {
       "id": 21,
@@ -122,7 +174,21 @@
         "攀爬"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "climbing攀爬, playing玩耍, jumping跳跃, drinking喝水。"
+      "explanation": "climbing攀爬, playing玩耍, jumping跳跃, drinking喝水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18feb0f43029faf9fbf40b8743e2ade7af1eb953.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bbed9587ed692a4c2be81cb33a9936100a38524.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5863973edc6707da45b52e49857fecbebe4ce969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0f9310437bee5e4b189de7dba4dc8d3b52e0441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb9322d7b51fdbf208cf7e61d4682567c502dce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82108d827cd4a5b69752ae5d900a463f0e3b9999.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87f0a7a86f67e635a2d0b70541547a2342ee6566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55b56b42ee523cdbbc4f6b78fe3bd8c1a595c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eaa6bea5f30168a965c819683e8f76aa10e5d4fe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/0715b8a92774f73ac7dbdebbb7b5c61933d6b504.mp3"
+      }
     },
     {
       "id": 23,
@@ -139,7 +205,18 @@
         "."
       ],
       "answer": "The,dog,is,sleeping,.",
-      "explanation": "The dog is sleeping. 这只狗正在睡觉。"
+      "explanation": "The dog is sleeping. 这只狗正在睡觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e04ad38157c79181d753598a4350cfd40e437530.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e49512524f47b4138d850c9d9d85972927281da0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ef0dd827103681fcee453b78be2ff14e1a261d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1218e3a24f5864aaedd94bf9b63abcc13eedc89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/148f97cf11190361facc333210740324f0d4fb20.mp3"
+      }
     }
   ],
   "knowledge": null

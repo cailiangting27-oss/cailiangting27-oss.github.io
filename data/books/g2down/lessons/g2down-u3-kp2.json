@@ -16,7 +16,11 @@
       "question": "推拉抽屉的运动属于旋转现象。",
       "options": [],
       "answer": "错",
-      "explanation": "抽屉推拉是沿着直线运动，属于平移。旋转是绕中心点转动。"
+      "explanation": "抽屉推拉是沿着直线运动，属于平移。旋转是绕中心点转动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9c267fe6dbb8af64cde076f2f826412d7450348.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/483eab1ccb0e28d98a5083a12c789ceef5481921.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "物体在平移过程中，其大小和形状保持不变。",
       "options": [],
       "answer": "对",
-      "explanation": "平移只改变位置，不改变大小和形状。验证：符合平移定义。"
+      "explanation": "平移只改变位置，不改变大小和形状。验证：符合平移定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1d8a97d884df0023d1b0c5b3153bf77ead628b2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/774ba4fd8e6ae235d97ebf3a486b8c3778ac469b.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "正在转动的地球仪"
       ],
       "answer": "升国旗的过程",
-      "explanation": "升国旗是垂直方向的直线运动，属于平移。"
+      "explanation": "升国旗是垂直方向的直线运动，属于平移。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/666c2a7bf84303ad87bda00a2614b9962bcc48c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b20a0b0c3247474ced18d5e9f7ecb652d87e857a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56171e4b67dc4a4975e21109bd67e65ef3cdf37c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ed9d74bfbde07a07ef760d073cecf2988ea1bec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c87c8aa1dcbb28a03eb644f8bacfea580c74c9f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4cbc34ba9192c5a7cd2898045316fa333683ce39.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "折叠"
       ],
       "answer": "平移",
-      "explanation": "车身整体沿直线移动，是平移现象。"
+      "explanation": "车身整体沿直线移动，是平移现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90713f3052b593979064c8f7693e661276fa5dfc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e855ea2fda6fd69649c02b25a93042e048f5f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d944c1bc208a8e2af52b73545e486f5ddfa5683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9132e604824c784a4a0a0c0199353d010caac1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6791fdcea6e844b35749ea379358380a6a2c8571.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "跳跃"
       ],
       "answer": "平移",
-      "explanation": "小朋友在滑道上沿直线滑动，形状大小不变，是平移。"
+      "explanation": "小朋友在滑道上沿直线滑动，形状大小不变，是平移。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc5314de0a5a82a50c7fea5b8892d47497202f3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e855ea2fda6fd69649c02b25a93042e048f5f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d944c1bc208a8e2af52b73545e486f5ddfa5683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55b56b42ee523cdbbc4f6b78fe3bd8c1a595c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9aaea90abc12ca44994c12b3f6c13424590ddd4.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "向上"
       ],
       "answer": "向上",
-      "explanation": "平移不改变物体的方向，原来向上平移后依然向上。"
+      "explanation": "平移不改变物体的方向，原来向上平移后依然向上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91c465bb2b902393e6cd794cd947b97ff106d81d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a2815ba048ab4128c8f90d6c7412b2ea84d2495.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/269b34903d1839a0a4f307b2b86244b99761b287.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f156d6ec3ccb2f5e667b1e248f7ac70223b0c02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a09a74754ba671054ddea3a2ae8f93c1505605b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b82fd72569b1a6bb26012d35183f36170a3c703.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +155,17 @@
         "以上都不对"
       ],
       "answer": "平移",
-      "explanation": "直线运行是平移现象。"
+      "explanation": "直线运行是平移现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec697f149160ad1b7194d1a189accba054bc51a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57de8135477ad40039f75c1b88d038de79e87da0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e855ea2fda6fd69649c02b25a93042e048f5f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8899b1d7636939c829b393038390cbf355e896c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45f33cd704a5c1ad102804b77f4d27a19f863ed0.mp3"
+      }
     },
     {
       "id": 22,
@@ -118,7 +176,11 @@
       "question": "$24 \times 0 = ?$",
       "options": [],
       "answer": "0",
-      "explanation": "任何数与0相乘都得0。验算：$0 \times 24 = 0$ ✓。"
+      "explanation": "任何数与0相乘都得0。验算：$0 \times 24 = 0$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/339b5d327f91820eb9d59f01b5445f11b6dd7a65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/1808ac83332e7e34645af116813ea5eb06d84ae7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "误把车轮滚动（旋转+直线位移）纯粹当成平移。",
       "认为平移会改变图形的指向，例如箭头向右平移后变成向下。"
     ],
-    "tips": "记住平移就像在轨道上滑动的火车，车头指向哪里，平移后依然指向哪里。"
+    "tips": "记住平移就像在轨道上滑动的火车，车头指向哪里，平移后依然指向哪里。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/8097cad4171732a9c990f6829116515b4516257e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3d/3dae053e14b4ea1ee206c6991ce7c03d417b6fe1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/21/21ed0aebae035de2ca0e616239dd1452bfe2809f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d2/d2fde70951c6a787d6629bff4d2e76786c1f630a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/11/11aff685fb1ecc4af357181b990629524757104d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d5/d53259427b5917cb2f36dfb1dd05e8f009520847.mp3"
+      ]
+    }
   }
 }

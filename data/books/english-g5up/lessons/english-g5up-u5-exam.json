@@ -16,7 +16,11 @@
       "question": "There are some bikes in the park.",
       "options": [],
       "answer": "对",
-      "explanation": "some bikes 为复数，使用 are 正确。"
+      "explanation": "some bikes 为复数，使用 are 正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/124e9fa201c8f1ad5f8665a764a09c3a13c9681f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/343c4f26ad7cb5b7eeea81becb5bff13d36f47fa.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'above' 的意思是：物品之间有接触的 '在上面'。",
       "options": [],
       "answer": "错",
-      "explanation": "above 表示无接触的上方。有接触的上方用 on。"
+      "explanation": "above 表示无接触的上方。有接触的上方用 on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc7e1e0d0553ed7c09c7c667f0092018199d083a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c8df575a91cf87579bdff30a4f3d9c0437f68b0.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'play' 和 'paint' 中画线部分的发音是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "ay 和 ai 都在这两个词中发 /eɪ/。"
+      "explanation": "ay 和 ai 都在这两个词中发 /eɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af665467e20d7d772800d16aafa4ce02fb5dc6b2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d38749d1b64e14a00334aafbd0ba65744ee10a55.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "Sarah's room is 'clean'. 'clean' 的中文是 '脏的'。",
       "options": [],
       "answer": "错",
-      "explanation": "clean 是干净的，脏的应该是 dirty。"
+      "explanation": "clean 是干净的，脏的应该是 dirty。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa3d08124cfcfc9ebb32ff87c93a29dcfe3573ab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b12c4af92b805f244dbd560b10bf6c78e10af93.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "plants 为复数，用 are。"
+      "explanation": "plants 为复数，用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10bc5d44bf417f2616310586e765daa6d2a15fe9.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/672086dca80710d93f0adc74be9df9c36368c10f.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "above"
       ],
       "answer": "on",
-      "explanation": "电脑放在桌子上，常用 on。"
+      "explanation": "电脑放在桌子上，常用 on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f440b5b44bb5bb54c34053f79497454de34864bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb397449fabe7370de4e726a586750c0e025d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24742bbafcc094b2699d9734cb1016b685648cca.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "There are"
       ],
       "answer": "Are there",
-      "explanation": "任何句型变疑问，be 提前。students 是复数，用 Are there。"
+      "explanation": "任何句型变疑问，be 提前。students 是复数，用 Are there。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc3660e95563fe747925bcae4738c57eaf727641.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54c3ae816399d037fbb2dbb358f0156149733aa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6d9acb13df94d213e1b782e0111b3beb5190b33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/864d1da1e6efae8a6f54d03551579200393458d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d795f186ae7bc95e48f9816eaf73db7a9f4340c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c874f27a025d327079f57ebc880eacd4c48cd025.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "raining, play"
       ],
       "answer": "rainy, play",
-      "explanation": "形容词 rainy 修饰 day，动词原形 play 跟在 let's 后。"
+      "explanation": "形容词 rainy 修饰 day，动词原形 play 跟在 let's 后。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afff404d473f28597f994539ad3dc6decfe79eca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/032fe47ba1f0e806da35b3c7835f9ab8905e3730.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f5c37540fe4c9fe645972d4b634789a90cd4320.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dcc8152144ab6c685438250ec859470c41e786c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ad361ca90124e9d45686c383eca3359810866a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c846050f17affb6d5ab49d7d050f05be35657e11.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "under"
       ],
       "answer": "in front of",
-      "explanation": "逻辑上房前有树最合理。"
+      "explanation": "逻辑上房前有树最合理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05edf904c62df19fbac1a23e3a98e77ca92ded36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b41612a4094fb767604caaaa40ee42c59337911d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/709634051471385aada32356842983beeff4b065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09edfb756727abb0d69e286c6e815e2ca1bf6c02.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "No, there are"
       ],
       "answer": "Yes, there is",
-      "explanation": "Is there 的回答用 Yes, there is 或 No, there isn't。"
+      "explanation": "Is there 的回答用 Yes, there is 或 No, there isn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/4775c4ba5f6c4c41e3b66ad0878149d6aca85dab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f874dbb87e025862cdbb17226f9241f641f3f53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/191ef1bf73c2fd14860b1768930df5fffebd9ebd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65783e1d130f9589bdd08d16aa27b17569461164.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98d8fb39cc440c5a25a6a45f9ad8c4c8a9add24c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/258b1e34f239e0fcf46e593bcb5d7a859fa2aaa7.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "I can see many ______ (照片) in the room.",
       "options": [],
       "answer": "photos",
-      "explanation": "many 后面跟复数，photo 的复数是 photos。"
+      "explanation": "many 后面跟复数，photo 的复数是 photos。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3fd4850473f2dce0253f94ff1ac065d5be2fc33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c978d17cb3c36faee46912a5a830e1e06aa9cab1.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "There ______ a ruler and two pens on the desk.",
       "options": [],
       "answer": "is",
-      "explanation": "就近原则，ruler 是单数。"
+      "explanation": "就近原则，ruler 是单数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30421359df8003bb72ff41358df33983f93d7eea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89eff714342ee6a35ef999919d17ad847e0dd066.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "There are ______ (许多) books on the shelf.",
       "options": [],
       "answer": "many",
-      "explanation": "修饰复数 books 可用 many。"
+      "explanation": "修饰复数 books 可用 many。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d27f2126df8c852e5f73ba2140ca444a3275b15a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62f456a439452ed530c65c6375508da14c2d7aa2.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "在...之间"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "A-above-上方; B-behind-后面; C-between-中间; D-beside-旁边。"
+      "explanation": "A-above-上方; B-behind-后面; C-between-中间; D-beside-旁边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79d531613490bd2960e4dee4c61e53b77a86a4e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb397449fabe7370de4e726a586750c0e025d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb6dbd81382d78f0f0633759a9c6033858e445b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/709634051471385aada32356842983beeff4b065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c8869983ffe3b4f9abe1dc851bda61399ef6e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e8ede7fd01bde6ed5b4e6b716609385a751c912.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/505564676f3d38cc73304ef576d5d5b27258055f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/5486b61d4fd213e61d32bce7c27fbddbc69feccf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b210fe6acdc14ee507c7292198447dbb6063e27.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/616c3130e54e99877125d3ab842d8faa0b82060c.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "here"
       ],
       "answer": "There,are,many,pictures,here",
-      "explanation": "There are + 复数事物 + 地点。"
+      "explanation": "There are + 复数事物 + 地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3b6fbce87847c9a9abe23bc6cd82c4cfde662cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a3c157920563b7680ef6f6d2f7736d3e5a75212.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02a81a8e26f7dc6f0bd48a2f3603ff0f3ba706bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0154c0dabe7145db37e0b81bf667e7224abec0ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2863ffc55e98bc64853ba68d9ce0dae57912e78.mp3"
+      }
     }
   ],
   "knowledge": null

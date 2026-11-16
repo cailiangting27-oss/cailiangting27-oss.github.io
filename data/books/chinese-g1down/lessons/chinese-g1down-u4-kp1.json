@@ -16,7 +16,11 @@
       "question": "朗读长句子时，只要中间不换气，就不需要停顿。",
       "options": [],
       "answer": "错",
-      "explanation": "长句子需要根据意思进行自然停顿，这样才能准确表达句意。"
+      "explanation": "长句子需要根据意思进行自然停顿，这样才能准确表达句意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efa6923b85f8663310bc6a402a52f6e51bd5c680.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dabf9cdfefd7163a29be4daae71bb24f30ad9ba.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“粽子是用青青的箬竹叶包的”这句话中，“青青的”后面可以稍微停顿。",
       "options": [],
       "answer": "对",
-      "explanation": "为了突出箬竹叶的特点，在修饰词后适当停顿是合理的词组停顿方式。"
+      "explanation": "为了突出箬竹叶的特点，在修饰词后适当停顿是合理的词组停顿方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7479fc24c415db3d9c22d9745ced52f6efe604c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cd8f807301cf74cd860e2679c1f23eeea37ee84.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "外婆/给我们煮了/好多种/味道/的/粽子。"
       ],
       "answer": "外婆/给我们/煮了/好多种味道的/粽子。",
-      "explanation": "根据主语、状语、谓语、宾语的结构，这样停顿最为自然。"
+      "explanation": "根据主语、状语、谓语、宾语的结构，这样停顿最为自然。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/753f740302204fce899c698e2cf373c66f8a350b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33a8568506ceb9413a34de6254edfc08e865a22a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ec157d9793a750fc2e8111e9cc806985aca6f07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4ada7f69dd77748383c0d873c3c6ab661fb3d8b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fddc48afaab01579df5c56df8530fbc3cd1fb22b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1d1dd8ed9e9a6a4310aa48529fc2da6168a70db.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "在一句话的最后一个字读完前就换气",
       "遇到修饰语（如“青青的”）时随处乱停，导致词语断裂"
     ],
-    "tips": "可以先在句子里找找“谁”、“做了什么”，在这些大模块之间画斜线练读。"
+    "tips": "可以先在句子里找找“谁”、“做了什么”，在这些大模块之间画斜线练读。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/56/56a176031b3b5d2e9c07cd90073c7537c042821b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0bbe49abbe1a6f421c91a3a1015a8d43e6a0fc32.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9d/9de7b13e350b7df929650eb2f99ae8327480cd10.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/dc/dcab30f9049eb9f5cda8ff89f775fba0c99f59e9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d1/d1fb0cd18db166883dea0e64f6d5e3d41e2377c8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a3/a3546061d0d6a8a51495a8f361b02341d3238b2d.mp3"
+      ]
+    }
   }
 }

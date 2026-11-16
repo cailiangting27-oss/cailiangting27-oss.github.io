@@ -21,7 +21,17 @@
         "冬季"
       ],
       "answer": "夏季",
-      "explanation": "诗中提到了接天莲叶和映日荷花，是夏季景观。"
+      "explanation": "诗中提到了接天莲叶和映日荷花，是夏季景观。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dde432697c1f5eeb2ee9d4548617d633e0d2f004.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec3b40ec86b85c3ae803ff2d1e0cde3e70eb3152.mp3"
+      }
     }
   ],
   "knowledge": null

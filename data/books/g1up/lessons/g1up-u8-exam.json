@@ -16,7 +16,11 @@
       "question": "$9 + 7 = 16$。",
       "options": [],
       "answer": "对",
-      "explanation": "$9+1=10, 10+6=16$。验算：$16-7=9$ ✓。"
+      "explanation": "$9+1=10, 10+6=16$。验算：$16-7=9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bfd49be083d656c1c93da922ff5cc1cbd4cb1b0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc455e6620e449764c27a4af9a02e4ce519e240f.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$7 + 5$ 的得数和 $6 + 6$ 一样。",
       "options": [],
       "answer": "对",
-      "explanation": "$7+5=12$，$6+6=12$。所以一样。"
+      "explanation": "$7+5=12$，$6+6=12$。所以一样。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e930f73a810c4a6266bc57ca18e7550097fdae7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/740fe2ebd52fd7361d337b64db48eca2ad4d57c6.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "凑十法就是通过把一个数拆开，和另一个数凑成 10。",
       "options": [],
       "answer": "对",
-      "explanation": "凑十法是计算进位加法的基本方法，核心是凑出十。"
+      "explanation": "凑十法是计算进位加法的基本方法，核心是凑出十。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b56ceeb86b738ee39d517bf954e693f04c6c69a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c22187856ecb5a71b2c6df6cc14de0342131158.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个数相加的和，一定比这两个数都大（0除外）。",
       "options": [],
       "answer": "对",
-      "explanation": "在非零自然数的范围内，和会比任何一个加数都大。"
+      "explanation": "在非零自然数的范围内，和会比任何一个加数都大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a91bc0b0e479712d9ea7f67c6c895a1a8e475fcd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4ac26bfc09c587045f42e7865ee272443a86993.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "$15 - 9 = 6$。验算：$6 + 9 = 15$ ✓。"
+      "explanation": "$15 - 9 = 6$。验算：$6 + 9 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/8529d37ddb99d5632fc95d8665404b649a15ac1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a72907d730beedc08a868d5faa57efaee0690b61.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "13"
       ],
       "answer": "12",
-      "explanation": "想 $8 + 4 = 12$。验算：$12 - 4 = 8$ ✓。"
+      "explanation": "想 $8 + 4 = 12$。验算：$12 - 4 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55118a954c5dcaa1f4cc09abeb35c8296d74a5bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e77bda729af375bd99fab963fc7103577bae4e9.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "6+8"
       ],
       "answer": "7+9",
-      "explanation": "$8+6=14, 9+5=14, 7+9=16, 6+8=14$。$16 > 15$。"
+      "explanation": "$8+6=14, 9+5=14, 7+9=16, 6+8=14$。$16 > 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d640e532e469f5bb3c04d786168e6a97bbc25240.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee0fcbe2b1972f69b2ccc88ee83eeef10df5119c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/861a80b9df35ad82306cef3b59bea4344f5433cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d172507f2038dd387832b1c64482f91e4888699b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/453ee0b0b163e22fef4b5bedc8474583a7668376.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67401ec086db9dc547b2ec2b1aeee3b88a5baf5d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "19"
       ],
       "answer": "18",
-      "explanation": "$9 + 9 = 18$。拆分：$9+(1+8)=10+8=18$。"
+      "explanation": "$9 + 9 = 18$。拆分：$9+(1+8)=10+8=18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e5b2fba5d7c1b609b076befe682833d9bb15ded.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75560c9f05933c90e925f74a18b93423693fc6ab.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "10"
       ],
       "answer": "8",
-      "explanation": "当加数为 $8$ 时，$7+8=15, 15>14$。若填 $7$，$7+7=14$，不符合。故最小填 $8$。"
+      "explanation": "当加数为 $8$ 时，$7+8=15, 15>14$。若填 $7$，$7+7=14$，不符合。故最小填 $8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8246d9d4c2619f6d2502730ded8f66f3e9f2613.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44d0f8babe9dbf9b2e9ed02ab29adac7d25ab7db.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "14"
       ],
       "answer": "12",
-      "explanation": "$5 + 7 = 12$。利用大数加小数：$7 + 5 = 12$。"
+      "explanation": "$5 + 7 = 12$。利用大数加小数：$7 + 5 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43ee007a4a9f98c2fb7a5882879f8923ca27d027.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1255ea4b16d8cb1fba3517b83f532b7af6ddf7d.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "18"
       ],
       "answer": "16",
-      "explanation": "两人数字一样都是 $8$。$8 + 8 = 16$。"
+      "explanation": "两人数字一样都是 $8$。$8 + 8 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/948f5c9151927fe767ae607fb9ea7d9b24d4972b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41e178e7e48b1a239583ac47244cbf144d1347cd.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "16"
       ],
       "answer": "14",
-      "explanation": "$9 - 3 + 8$。第一步 $9 - 3 = 6$，第二步 $6 + 8 = 14$。"
+      "explanation": "$9 - 3 + 8$。第一步 $9 - 3 = 6$，第二步 $6 + 8 = 14$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9ffe2e721d8f63d6bfbf660c39d5853c8fe568dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8759fa9837cb4f45deb7f21fe50229ae109185b.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小丽前面有 7 个人，后面有 6 个人，这一排一共有 ___ 个人。",
       "options": [],
       "answer": "14",
-      "explanation": "$7 + 1$（小丽）$+ 6 = 14$。分步：$7+1=8, 8+6=14$。验算：$14-6-1=7$ ✓。"
+      "explanation": "$7 + 1$（小丽）$+ 6 = 14$。分步：$7+1=8, 8+6=14$。验算：$14-6-1=7$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7e6fecce42dfe5a531768de6802f571c6da3a00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/029f7ab78b0bf8e29d651c3dc640f7904d65c54a.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "第一组有 5 个球，第二组有 9 个球，两组合起来一共有 ___ 个球。",
       "options": [],
       "answer": "14",
-      "explanation": "$5 + 9 = 14$。利用凑十法将 $5$ 拆成 $4$ 和 $1$，$1+9=10, 10+4=14$。"
+      "explanation": "$5 + 9 = 14$。利用凑十法将 $5$ 拆成 $4$ 和 $1$，$1+9=10, 10+4=14$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/006ef9922d9d9e7262afdc823cc64bc400987829.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fa45bc9ca24907bbb5837eb2cc65da702815fd8.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$7 + 9 = ?$",
       "options": [],
       "answer": "16",
-      "explanation": "$7 + 9 = 16$。凑十法：$7 + 3 = 10$，$9$ 拆出 $3$ 还剩 $6$，$10 + 6 = 16$。"
+      "explanation": "$7 + 9 = 16$。凑十法：$7 + 3 = 10$，$9$ 拆出 $3$ 还剩 $6$，$10 + 6 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc611a03faffa7fe80cbc7e00cb432d54e29feaa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9d569f85833d406aba2d7ca489f5b4979f64f25.mp3"
+      }
     }
   ],
   "knowledge": null

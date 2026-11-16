@@ -21,7 +21,17 @@
         "大小"
       ],
       "answer": "种类",
-      "explanation": "按食物类别。"
+      "explanation": "按食物类别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dcb0a9f676b41490a538144fbeb44130f393a9f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2da1825912c43717d588b99cd7be1252020c4d73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2e854955c2bc472baf64b0024d057daba9cd5f4.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "同一组物品可以按不同的标准分类。",
       "options": [],
       "answer": "对",
-      "explanation": "标准多样。"
+      "explanation": "标准多样。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a83ad7e30e55255436baf0aa2404f8d0fe69a2bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b832805f5824630a84865a9be8cc287aa002acc1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "认为分法只有一种。"
     ],
-    "tips": "多角度分类。"
+    "tips": "多角度分类。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b3/b34acade84456379916af2a2e1cdaad248f06a97.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1b/1b976b064811a11880804d17ea7e66d249e1e673.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/336da7f2bc9dae1451beb979be7011e499bad43c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b3/b3af7393f56df3907047e82c182e233873034fdb.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/eb/ebbd48f1d26ea4055a6b4edfe742e1a8766b7251.mp3"
+      ]
+    }
   }
 }

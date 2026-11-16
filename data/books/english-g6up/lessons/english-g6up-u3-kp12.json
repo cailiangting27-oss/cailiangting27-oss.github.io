@@ -21,7 +21,17 @@
         "Who"
       ],
       "answer": "When",
-      "explanation": "答句是时间点，问句应使用 When。"
+      "explanation": "答句是时间点，问句应使用 When。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdc57d6c8625e6bc3ad6f779a9075a5faffd1ddc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a660f403f4094b05c6b051dc13d6c480e807506.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "What"
       ],
       "answer": "How",
-      "explanation": "答句是方式(by bus)，应用How提问。"
+      "explanation": "答句是方式(by bus)，应用How提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d810858fde7d74ef31430e3187dc19c8743b7fc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/595d96f1ee1e68e3ceb1f7e16bcf69be89dcd31d.mp3"
+      }
     }
   ],
   "knowledge": null

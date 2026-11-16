@@ -21,7 +21,17 @@
         "飞得很慢"
       ],
       "answer": "动作敏捷",
-      "explanation": "“一下子”说明速度极快。"
+      "explanation": "“一下子”说明速度极快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f4d4117cdae16c73cf793e759b0ce5d63bbee8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95044fbede8763140efb216e5303bd63e8ac1afe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40e5894538bac98097f9467960422f0f604085b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77783d934675230aa1a1b76ac5557a5c27b03051.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0eaaac93780e8e6081073352b558ec2d8654eaaa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a38697d28342df921f1936a6a2fe6c23ef85293.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "观察时间间隔太短，看不出明显变化",
       "忽视了变化背后的自然规律（如花瓣的开合）"
     ],
-    "tips": "制作一个“时间轴观察表”，在不同时间段记录同一个对象的不同状态。"
+    "tips": "制作一个“时间轴观察表”，在不同时间段记录同一个对象的不同状态。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3d/3d42eb55ad7582c405ff6d0a621b1f88e29446b7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9d/9df0285c3d97985045d8c5d1836c60594dba19ca.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f6/f668dd2b0048c40779771fc5fd656b86fe363940.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1b/1ba488582355d56ae54d979df600f4bc01dfbb2c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2f/2f893ad7daa195618e39b153f42fef68290ce486.mp3",
+        "https://api.clthuanxie.cn/cc-audio/31/313f0104a9db27ea1804c2f27d305ad011de17e5.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "冰天雪地"
       ],
       "answer": "金桂飘香",
-      "explanation": "金桂飘香描写的是秋天的气息。"
+      "explanation": "金桂飘香描写的是秋天的气息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96fd0b084f88bcb8791b7ffd36f0c4097861e5e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f980e24de11c4c85538e5439c3145061e48e5e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b413ff18ad8194e8a5b4081b620793255ac505.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edf34f4d972866c2cbd34c54314da4ddeb5c7fea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78678b4416d8ed73b7533cd5a216d287c0aac196.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/325c9e80fa89bb402d64d526c1bc865bc14da845.mp3"
+      }
     },
     {
       "id": 9,
@@ -37,7 +47,17 @@
         "从来不"
       ],
       "answer": "最后的结果",
-      "explanation": "终于表示经过种种变化后出现的情况。"
+      "explanation": "终于表示经过种种变化后出现的情况。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2deae3ef32c2b38601fcec992a17dc054b37d9e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67b9df401ea6ba5456d0fa5f7071da6bd15221a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8998fd797a7957eb9e70b5d3e92105086d09c3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e4d5f3a92d75cc4f1767a04607a154e897f6975.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/906be15554d221c979efd639680c7608f4eff079.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/687c401d169b2b4bd8644b91aa35bb74d88c22c5.mp3"
+      }
     },
     {
       "id": 11,
@@ -53,7 +73,17 @@
         "挣扎(zhèng) 勉强(qiáng)"
       ],
       "answer": "切开(qiè) 回答(dá)",
-      "explanation": "其他选项存在多音字读音错误。"
+      "explanation": "其他选项存在多音字读音错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0ff3044cbc006145c60ef02912ffd9de44c41b86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c24107280258289ed515d57db4ebe96d39e9b037.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8da67977038647176f4631862f6b03deae1e5bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06530fbb359cba4fdef1cfd563deaf4e7693f0b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43b3ac99db9cc124d6b3d19302cdddbfdb47bfb4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d38b06b7efef7efc140b7d2bb72bbecc0da26b22.mp3"
+      }
     }
   ],
   "knowledge": null

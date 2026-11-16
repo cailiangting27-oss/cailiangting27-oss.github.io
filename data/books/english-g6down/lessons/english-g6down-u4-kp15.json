@@ -21,7 +21,17 @@
         "talling"
       ],
       "answer": "tallest",
-      "explanation": "班级三者以上对比用最高级tallest。"
+      "explanation": "班级三者以上对比用最高级tallest。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/096a4a70c98bc640dfdf394c04cebef728f609b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b600582f7417cd3b98d756374e8545a310113ad2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e840bf7fb2acab067ca3bf33801df225389465dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa173683618efa7bda63105e0a5070f0a53a80ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9aaebe7a7dfd2848ab1aed3a1e563b61e2be8725.mp3"
+      }
     }
   ],
   "knowledge": null

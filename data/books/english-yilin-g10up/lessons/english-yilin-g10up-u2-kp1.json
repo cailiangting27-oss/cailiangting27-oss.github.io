@@ -21,7 +21,15 @@
         "标点符号"
       ],
       "answer": "上下文与时间标志",
-      "explanation": "上下文判断时态。"
+      "explanation": "上下文判断时态。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/17/174b38401e72a0e13ffd84690223e6b737cb8a71.mp3"
+        ]
+      }
     },
     {
       "id": 3,

@@ -21,7 +21,17 @@
         "sad"
       ],
       "answer": "afraid",
-      "explanation": "根据常识，老鼠是害怕（afraid）猫的。"
+      "explanation": "根据常识，老鼠是害怕（afraid）猫的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7b21c4fae0d20993c51e2101f6144c8e54a31c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae3870908b4ef07d5c46d3b284f43fc0354d694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4914600112ba18af7798b6c1a1363728ae1d96f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce1b85c468dde98bfea3dcf2c67a4543d81c310d.mp3"
+      }
     }
   ],
   "knowledge": null

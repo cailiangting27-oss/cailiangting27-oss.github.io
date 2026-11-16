@@ -21,7 +21,17 @@
         "他想利用宝葫芦帮助警察抓坏人"
       ],
       "answer": "他希望不劳而获，快速解决生活中的困难",
-      "explanation": "通过宝葫芦钓鱼、做作业反映了孩子回避辛苦的真实心理。"
+      "explanation": "通过宝葫芦钓鱼、做作业反映了孩子回避辛苦的真实心理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f9729ab99f07a641e17c32d1c8090d22a286a6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/3105acec94f2f50e55c98bd1a9bfb8a53a18d0f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/305cc23591715a39530593a3162bc78680dace5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb34e47596320e8e7babbf97c3eb05aeed0ae469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ebd2fec045d06b59b13ed4f903a0effe6857543.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f7a3402418fe6ec5bc3f4d0ac52df2237acb29e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "误以为童话里所有的奇幻现象都没有根据",
       "分析人物时脱离实际生活，只谈魔法不谈情感"
     ],
-    "tips": "读童话时，想一想如果我是主角，在现实中是不是也会有类似的愿望？"
+    "tips": "读童话时，想一想如果我是主角，在现实中是不是也会有类似的愿望？",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d8/d8243b94bfb9a23f74ffc15600e6f542189dd5f9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/48/48625a4bc865cc2d34e837d3550d1ff2c38faa58.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e7/e701e73fbc1b2dde2762f6657cd10d7ad929b4fb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c6/c6dfa1a1b7ff6c5feab9fc1274f8600b698352e3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/92/92aff47b68c79cf586b571d73613ca9f70187250.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0c/0cbaaed78e551e3a332d034746da107893899d91.mp3"
+      ]
+    }
   }
 }

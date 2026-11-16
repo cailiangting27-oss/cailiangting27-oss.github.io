@@ -21,7 +21,17 @@
         "be"
       ],
       "answer": "is",
-      "explanation": "第三人称单数用 is。"
+      "explanation": "第三人称单数用 is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7e895dbc5d468b8560338284170061bf3217626.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/688d841c9430bd7cdb638d93b659bc936d3678d1.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "形容词作表语放在 be 动词之后。",
       "options": [],
       "answer": "对",
-      "explanation": "表语位置。"
+      "explanation": "表语位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8822eb0e8d7035feace831e936da4a7af904f1ff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef0c7f150a31ca1eb29545142f8f887d616378fa.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "第三人称单数用 are。"
     ],
-    "tips": "He/She 用 is。"
+    "tips": "He/She 用 is。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/86/86975c04568196c2d7d32ad687799da81953393f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c8/c8e1efcfed5c9a6ff65660cd04ca0acaf694a978.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/38/38737e01343940ee420c4dfec59de6f241f83c46.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/89/896b1226b22303d5041397125eeeeec2b12d1957.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ab/ab9a5faf0bdae23311eabba9455aa0e731242706.mp3"
+      ]
+    }
   }
 }

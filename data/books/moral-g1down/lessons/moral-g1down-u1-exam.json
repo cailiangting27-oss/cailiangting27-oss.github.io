@@ -21,7 +21,17 @@
         "米饭"
       ],
       "answer": "甜食",
-      "explanation": "甜食多吃容易蛀牙。"
+      "explanation": "甜食多吃容易蛀牙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5be4127d70c11b085708d5428905092b133bcc9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c7cf0762dce0739b0be01959c7423036d9daf71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96d5a49737efce8fdea3c7155670e37f0fc7a3ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4bed30f0248c26aa5dfff0d00bbb363bf7876e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b0e3a35bfb593a8d664fc3924b5753f11348e80.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20c5203c21e1a6efa37898883acbc24a255d7569.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "做事拖拉会让事情越积越多。",
       "options": [],
       "answer": "对",
-      "explanation": "拖拉会积压任务。"
+      "explanation": "拖拉会积压任务。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e93e5f19cb8cee7c7e7225f4965ca390f13a912a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a08267d0653146f09311a65fc4f731ff623a45f9.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "随意"
       ],
       "answer": "计划",
-      "explanation": "有计划才能不忙乱。"
+      "explanation": "有计划才能不忙乱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b1df72e97105f837d6362418ffc2d8a610c6414.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c17bb5de3f8dedaebafb5c9f9d5f4ef180a22ccd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20ae92be0bbf7267c9cd27ed9cd0721ccbacd577.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/601a1d0eb55e5427fa0f67631276d08535030e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/870136bf73e3fa288c5c3cbde6571bc035f27ddc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/679c687d9708fe9502fa6cc1f4cdd87d943035ba.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "饭前便后要洗手。",
       "options": [],
       "answer": "对",
-      "explanation": "饭前便后洗手防病。"
+      "explanation": "饭前便后洗手防病。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28077a5664ba2106e54d409e8a27c11457d693ac.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d86c42e88f4f8d5b0fc63857ed1a433114e33a17.mp3"
+      }
     }
   ],
   "knowledge": null

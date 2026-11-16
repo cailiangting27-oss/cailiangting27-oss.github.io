@@ -21,7 +21,17 @@
         "睡一个午觉"
       ],
       "answer": "跳绳120次",
-      "explanation": "根据常识，跳绳每秒约2次，一分钟120次是合理的。"
+      "explanation": "根据常识，跳绳每秒约2次，一分钟120次是合理的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a12fad793d47bbd9bac38761ecbdf7c94329dd9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dc67283c5a18b3e4bf3f05fe91f92ebf956e88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5af0b3d8f83baaaff030b63e2c09e1a084aef8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77893cbd8884078f964dd7bd36cd5f9f0ec4e8bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79496703e544ccc33ac7a871cfe3bacce5acaafe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f98644d6cb3e06b16cd9ae6d2eb7bcd63400a38.mp3"
+      }
     }
   ],
   "knowledge": null

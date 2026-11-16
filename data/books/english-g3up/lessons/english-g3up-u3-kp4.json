@@ -16,7 +16,11 @@
       "question": "字母 'f' 的后面一个字母是 'g'。",
       "options": [],
       "answer": "对",
-      "explanation": "字母表的顺序是 ...e, f, g, h, i。"
+      "explanation": "字母表的顺序是 ...e, f, g, h, i。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05411d596f78f91152bafd4ce6d3f10db01408fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/061dc982a0eb5d82dbd1d7108453b1b728cabd6e.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "h"
       ],
       "answer": "e",
-      "explanation": "elephant 以字母 e 开头。"
+      "explanation": "elephant 以字母 e 开头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/971bd466e0979f68cbf2211093c14c75034e908c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a0a19218e082a343a1b17e5333409af9d98f0f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e6b3a414a1e090dfc6029add0f3555ccba127f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54fd1711209fb1c0781092374132c66e79e2241b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27d5482eebd075de44389774fce28c69f45c8a75.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fedf81dc59a8173f6624ac80904d8968265b4d4a.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "blue"
       ],
       "answer": "ink",
-      "explanation": "本单元学习的 i 对应单词有 ice cream 和 ink。"
+      "explanation": "本单元学习的 i 对应单词有 ice cream 和 ink。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe9d31d1cc0305d53670201a328308f765f0543c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec437ab60af367f0fec0f6a3cd47f9cbad7b487f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a893dfc4b4b239de85123ef25526e975ef040918.mp3"
+      }
     }
   ],
   "knowledge": null

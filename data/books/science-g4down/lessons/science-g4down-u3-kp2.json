@@ -16,7 +16,11 @@
       "question": "所有的岩石都是由一种矿物组成的。",
       "options": [],
       "answer": "错",
-      "explanation": "岩石是由一种或多种矿物组成的。大多数岩石由多种矿物组成。"
+      "explanation": "岩石是由一种或多种矿物组成的。大多数岩石由多种矿物组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07a2cad607f9fffb53d4e0fb674e1c709b21dab5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fb7201c4a81c4db929ad62440e8964cf96ab4ba.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "木板"
       ],
       "answer": "无釉瓷板",
-      "explanation": "无釉瓷板表面粗糙且颜色较淡，能够有效留存并显示矿物粉末的真实颜色。"
+      "explanation": "无釉瓷板表面粗糙且颜色较淡，能够有效留存并显示矿物粉末的真实颜色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4ad12951d879bc5c8cd246de8a716d6add0de50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eaa143dc35f953f7463f794aff9ec7aeb570f639.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d84f3a770893a157e0b2d7a48574929e1fe625a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f15dd6775b928e9c39eff4b3a83604782ae9deed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b13264da1c16b72865f2a33cf0f3f9a5bc1e23b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41eee8b54bb1e932aa0489804a5d004a3160b04f.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "硫磺"
       ],
       "answer": "云母",
-      "explanation": "花岗岩是由石英（坚硬透明）、长石（肉红或淡黄）和云母（片状闪光）组成的。"
+      "explanation": "花岗岩是由石英（坚硬透明）、长石（肉红或淡黄）和云母（片状闪光）组成的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3604e9007ebe6d4fd18a623fb71f8d216d0fc94b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/9767b5983af1b29a9ea101b3998fabc8f1d7920c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8330ca0578c80a146237cb13b2ba2d0b5651ec0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b273fc6f4e3c68c601a19db2149bfd80d5e90c28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ee277da6796b33adbddec4ed1112cf663bbc2a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4552cefa9778c8dc8c99a84fbcce74432ffe781.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "蜡烛光泽"
       ],
       "answer": "金属光泽",
-      "explanation": "金属光泽反射光的能力最强，如黄铁矿、方铅矿。"
+      "explanation": "金属光泽反射光的能力最强，如黄铁矿、方铅矿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c0387157696b48c236c1b2dde586ba821a60363.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59087d0674d15bdf853f9f0391331ab8833b3805.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4de89be237b8be2235c6f01ee7252f8420a9750.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/083e8349d85f1f2300c2796c3a051cdae9c6eb92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/025169b820a02f4e70df329c1e75f68a98f64aa3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b0aa78d0cca1ded7181abedc440c6bbce8c80c5.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "我们要制作矿物标本，第（）步应是将标本装入盒中并贴上标签。",
       "options": [],
       "answer": "5",
-      "explanation": "制作标本通常分为：采集、清理、分类、装盒编号、贴标签（第五步）。"
+      "explanation": "制作标本通常分为：采集、清理、分类、装盒编号、贴标签（第五步）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d0786370a7da21f41477451301d93fa2f47dcfe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce0567ab0f0aa1c19f98017899a389b1bf7edab9.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "石英、长石、云母三种矿物中，透明度最好的是（）。",
       "options": [],
       "answer": "石英",
-      "explanation": "石英通常是透明或半透明的，具有玻璃光泽。"
+      "explanation": "石英通常是透明或半透明的，具有玻璃光泽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e83a29121970e4b1f561a47788f6aad8940ec8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b8768012bd3e3f72f772d629ebb1663b36765d9.mp3"
+      }
     }
   ],
   "knowledge": null

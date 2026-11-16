@@ -21,7 +21,15 @@
         "It's twelve."
       ],
       "answer": "I'm twelve.",
-      "explanation": "问年龄答年龄。"
+      "explanation": "问年龄答年龄。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b5/b50b4e12572bc7177d21a352bfad95e75fdd4689.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "has"
       ],
       "answer": "is",
-      "explanation": "主语 He 用 is。"
+      "explanation": "主语 He 用 is。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3"
+        ]
+      }
     },
     {
       "id": 7,

@@ -16,7 +16,11 @@
       "question": "直线没有端点，射线有一个端点，线段有两个端点。",
       "options": [],
       "answer": "对",
-      "explanation": "根据线、射线和直线的定义。直线无限延长无端点；射线从一点引出，有一个端点；线段连接两点，有两个端点。"
+      "explanation": "根据线、射线和直线的定义。直线无限延长无端点；射线从一点引出，有一个端点；线段连接两点，有两个端点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b941253cbd6b1b3df34cccc5034bfbaae8ce921c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a783499a3873068a6eefb2966cb39e2e5337ee3f.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "平行四边形具有稳定性。",
       "options": [],
       "answer": "错",
-      "explanation": "平行四边形具有易变形性（不稳定），三角形才具有稳定性。"
+      "explanation": "平行四边形具有易变形性（不稳定），三角形才具有稳定性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0240bf9a5d80b93641e7cb72f354c716fa8d1387.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26b7eab7c0a30f103244c5df0cc26114101c2982.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "在同一平面内，两条直线不平行就一定垂直。",
       "options": [],
       "answer": "错",
-      "explanation": "在同一平面内，两条直线的位置关系有平行和相交。相交中包含垂直，但不垂直也可以相交。"
+      "explanation": "在同一平面内，两条直线的位置关系有平行和相交。相交中包含垂直，但不垂直也可以相交。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7a7cabc5210667821d2129aca50559c3d8f49cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94f2997cc36cbca0d921cff90a2faaa48c2ee1b3.mp3"
+      }
     },
     {
       "id": 10,
@@ -54,7 +66,17 @@
         "100度"
       ],
       "answer": "75度",
-      "explanation": "三角板的度数有 30°、45°、60°、90°。$30 + 45 = 75$度，因此 75度可以拼出。"
+      "explanation": "三角板的度数有 30°、45°、60°、90°。$30 + 45 = 75$度，因此 75度可以拼出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/810bc388e60156b670a8855631dbbe9b34d2aed0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25c82f4b4f6e3cbfc69ad6ea285248271ed527ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b019c261c961342b05458c44490b47551c303c8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0251729e89074b6c91f9bad76eb75d443961b9a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70ba92627822e522189de2f896bda66adb86a4bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8c6b729bf9882fc4af2ccad00c43999fbd6bfba.mp3"
+      }
     },
     {
       "id": 11,
@@ -70,7 +92,17 @@
         "直线"
       ],
       "answer": "垂直线段",
-      "explanation": "数学基本性质：点到直线的距离，垂直线段最短。"
+      "explanation": "数学基本性质：点到直线的距离，垂直线段最短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1426d2268aff35050f82681547d6275dd36c718a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98644666da25cf401fd0319463ac0cef2b0e11a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ff12ea9e8a6e269f0c4b1b99e5c5f48f5fa5795.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/8307cf6db99e8bc3ef111f54a1a0725a8ab49156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3785fa8d4b546d443ec99cbe86542f7086691876.mp3"
+      }
     },
     {
       "id": 15,
@@ -86,7 +118,17 @@
         "正方形"
       ],
       "answer": "梯形",
-      "explanation": "只有一组对边平行的四边形叫做梯形。平行四边形有两组对边平行。"
+      "explanation": "只有一组对边平行的四边形叫做梯形。平行四边形有两组对边平行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/426507ebb978d1d4dba118f40f77f75c54ccc324.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a631d4703e3917a3ce15965a9898fe302ccfd61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a75ad7527d56012002b08c8b8b6de46d2e05193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1b87c561ced813b279f4a8ac14d08f25984be2c.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +144,17 @@
         "随便哪一点"
       ],
       "answer": "顶点",
-      "explanation": "测量角度的步骤：量角器的中心点与角的顶点重合，0刻度线与角的一条边重合。"
+      "explanation": "测量角度的步骤：量角器的中心点与角的顶点重合，0刻度线与角的一条边重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b270056808619fadbbe27bee99ce0b5785f3261.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c3dc148b971537304eaadc4fec855bbba3858c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91da3a7a2baa14d9edf9fff4586ad1d296cc2566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56e2188864f4e831bf56cd23df839fad525e2125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b53fe0cb431409b2a88a261563bf1b56acbb354.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41d88a517dc09b6002002295a8e9d2b1b20a4f2f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "混淆平行四边形和梯形的定义",
       "认为点到直线的距离是斜线段长度"
     ],
-    "tips": "可以利用一副三角板拼出 15 倍数的各种角度。"
+    "tips": "可以利用一副三角板拼出 15 倍数的各种角度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ab/ab6f8180c240943eecab4df9cd64ba17d7bd637c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/30/30781696068428e6a28dc2b3e3b6f16f771b007e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f09e935082b848378ef7126ff4572a5587091b64.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f8/f82bfb83e4e9c4edf3717ece6ec580edd952039d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ed/ed7df7d73a36f75c14bff2e56e16055cddb1b329.mp3",
+        "https://api.clthuanxie.cn/cc-audio/72/72b92b03f262c510e9134d4eccce89fd4a2b68f7.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "单词 'dog' 和 'box' 中字母 'o' 的发音相同。",
       "options": [],
       "answer": "对",
-      "explanation": "dog和box中的o都发短元音/ɒ/。"
+      "explanation": "dog和box中的o都发短元音/ɒ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1dbaf469fd7db20bace923ee06349a02a1b7c9d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d95d3d83dc27e561e45afc7c7afb2395f5c274a6.mp3"
+      }
     }
   ],
   "knowledge": null

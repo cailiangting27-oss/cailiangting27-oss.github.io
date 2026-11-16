@@ -16,7 +16,11 @@
       "question": "“那是清澄的形象化。”中的“清澄”是一个描述水清澈的形容词。",
       "options": [],
       "answer": "对",
-      "explanation": "清澄在文中形容水质极其清澈透明。"
+      "explanation": "清澄在文中形容水质极其清澈透明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18e73f3f7de85e92c5a63222f8719237cccfab2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0642049ff5dc6da425ee8f265f5125962909b5bc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“晴天的清晨，每每看见它孤独地站立在小树的绝顶”，这里“孤独”表达了白鹭很可怜。",
       "options": [],
       "answer": "错",
-      "explanation": "这里的“孤独”反衬出白鹭的清高、宁静和悠然，并非可怜。"
+      "explanation": "这里的“孤独”反衬出白鹭的清高、宁静和悠然，并非可怜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96573af84a59d088055e8b0a326aeafec31107d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc04376d9e4469e87d1d368e7e0f1de9a7d818ff.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "“沉淀”的“淀”字部首是“氵”，读音是“diàn”。",
       "options": [],
       "answer": "对",
-      "explanation": "字音字形考查，正确。"
+      "explanation": "字音字形考查，正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67194e95742a523164299449bb6fb8ba5046023d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86ce13edc0e38f2268be3412eeeeab33ea38bffb.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“花生的果实埋在地里，不像桃子……挂在枝头。”这里运用了拟人的手法。",
       "options": [],
       "answer": "错",
-      "explanation": "这只是一种叙述性的对比描写，没有拟人化特征。"
+      "explanation": "这只是一种叙述性的对比描写，没有拟人化特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1ad53055b52e7d576b5e609845b10927d6be34d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3945eafb1e8db466c99dc3e803f61def761bf5c3.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "居然成功/居然坐下"
       ],
       "answer": "爱慕虚荣/倾慕才华",
-      "explanation": "两组中“慕”都表示向往、仰慕的意思。其他组意思有变迁。"
+      "explanation": "两组中“慕”都表示向往、仰慕的意思。其他组意思有变迁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98aea7abe7be045b26fd1fcf1305b130c674be45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/897b46b0b3a19347491dc7801542d84f8823b8e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d59eac6e8fce5fa380907dcb34273594ce9ec8a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/150ac1a1a15da5d42349001359b972fdde01bd21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdaf3b351adf200e7875d7d6faae34dc68dbebae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24822c7bafe6395328a4ab35b0fd54023c063ad1.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "叽叽喳喳"
       ],
       "answer": "波光粼粼",
-      "explanation": "波光粼粼是描写光影在水面上的静态/动态视觉效果。"
+      "explanation": "波光粼粼是描写光影在水面上的静态/动态视觉效果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad0414c33fa2d8b27438079b17efa30143453e47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d9df8f0a1c5af2e189dd37b312408d3e9ba9d73e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6463b2112ed1d03fd0355104ff5798eb71c8f1be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5864cfe48c5e415b89f1f682ad945ebca44ceedd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa26a0a236b69880679274ac22f5df93118bfee0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/0067d03828f3fa94dd69734216a61afcbe86072f.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "种花生、吃花生、卖花生、议花生"
       ],
       "answer": "种花生、收花生、尝花生、议花生",
-      "explanation": "按照课文叙述的先后顺序，先种后收，最后尝讨论。"
+      "explanation": "按照课文叙述的先后顺序，先种后收，最后尝讨论。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8df60e8f691ade3d0af19c18d3ab5dddbe2d9266.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8ca04b9dd30b6dc6f99fbeab04b4b892f248f4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c36fff1974318ec1f3253aec7e1275936ab480a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77fcf69b4cd4efe67614c9c96b27c784e177aa3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff33137bf4a97b5c4bd142df4734db15900f50c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b496ed324498378a21d3c637472532c61410c447.mp3"
+      }
     },
     {
       "id": 10,
@@ -113,7 +159,17 @@
         "说明桂花被泡在了水里"
       ],
       "answer": "说明桂花的香味非常浓郁，无处不在",
-      "explanation": "“浸”体现了家乡、生活完全融合在桂花的芬芳里。"
+      "explanation": "“浸”体现了家乡、生活完全融合在桂花的芬芳里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d02d96bc863922257184f08bf86a428b39702aa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0c89e7fd1e0a451f9a5c6d13675a2edce5cff76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9c030587084ba6f74ab3c6178dcf6c08244dc25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77fe2d57bb531b97185914b26e0e5a78ca1877a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d900fc7c6d56cab34dec5633e030cc8e792f1405.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/299237b476cbbeb99e37e1ac50800bd1337b068f.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "果然"
       ],
       "answer": "必然",
-      "explanation": "偶然代表非确定性，必然代表确定性。"
+      "explanation": "偶然代表非确定性，必然代表确定性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd7d03870fa675733c8f0ba535e9720b02116fbc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d1b95590f1b3108f24c6f1a4e1a0f4ee557d6ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05ff0f8f879d201b14f7826e6fdf5b5371c8c52d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3455e23b6e0e320aa3a8870bddd57682f41419.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/904df0e4d2d270704f64cc7475a8e3f84be8c130.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/439dff2afd0c2ebb426b9a15447b47d1375c6485.mp3"
+      }
     },
     {
       "id": 13,
@@ -145,7 +211,17 @@
         "白鹭的颜色搭配和身段大小都很适宜"
       ],
       "answer": "作者对白鹭的感情经历了从嫌弃到喜欢的变化",
-      "explanation": "作者全文都在由衷赞美白鹭，没有嫌弃之意。"
+      "explanation": "作者全文都在由衷赞美白鹭，没有嫌弃之意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac0d5c727c2f116710daf2f00076068bf3929160.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62d6059a7a8128e09227db82ae007cc5eab23f43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4a15da686662e0696c62afafb93b665b3b11afc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9164639fd17f74e51bc4ad27f78c8c59a48187.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbb7eff066795d42a797d8b5c3e63d1d694d90a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b3bec811121813ef485bb5d3eb0c26e049fa998.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "听觉"
       ],
       "answer": "视觉",
-      "explanation": "颜色是视觉感官捕捉的信息。"
+      "explanation": "颜色是视觉感官捕捉的信息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e508719c19b56e216cf3dd47a71f7c35a3853e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76c6f3df76deffdfee3b42296ecddc43f74e09c5.mp3"
+      }
     },
     {
       "id": 16,
@@ -172,7 +258,11 @@
       "question": "“美中不足”的意思是虽然很好，但还有（   ）的地方。",
       "options": [],
       "answer": "不够完美",
-      "explanation": "考察成语含义的基本理解。"
+      "explanation": "考察成语含义的基本理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8629965bb9411aedeea32060d522f627c84613ad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8407176de03ce06a9960220cf41e7cc6e50fdd4.mp3"
+      }
     },
     {
       "id": 17,
@@ -183,7 +273,11 @@
       "question": "《落花生》课文告诉我们，做人要做（   ）的人。",
       "options": [],
       "answer": "有用",
-      "explanation": "课文中心原话：要做有用的人。"
+      "explanation": "课文中心原话：要做有用的人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f57cd62e0248e1cdc5f810e54347ca95a23ac5e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/ded00b6098a05db9828bd1a13ec52e480bcea09d.mp3"
+      }
     },
     {
       "id": 19,
@@ -203,7 +297,21 @@
         "pián"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "挨近(āi)，便宜(pián)，尽管(jǐn)，镜匣(xiá)。"
+      "explanation": "挨近(āi)，便宜(pián)，尽管(jǐn)，镜匣(xiá)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed02340889f3347ef695b3e18d43fe836f4113a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0a4d7bb719fdf79ed39495aa0ceaf4cce7cd17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0177d9ff3d50d57c2d67f6847e32aec057494ff5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a45d29c654879716b98db2173ae11841747b3589.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66acb38ed4f670334707d7e967a54940e37a7a98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d9c02153ad7cf671b3760be6288c63ecbd656e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a8b18f468b0e34a6a4a549fa054a6ae5031f34f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1615fed5aa123c9fd59ad40b03e640151acef0fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0f8e6bdb04a77265bd3d43bee984df7194144af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/9191dba6fac4bb7bcd0bc4ba032946e9c76c3e52.mp3"
+      }
     },
     {
       "id": 20,
@@ -220,7 +328,18 @@
         "总是"
       ],
       "answer": "这种,珍珠鸟,总是,在笼子四周,飞来飞去",
-      "explanation": "按照珍珠鸟课文描写的动态进行排序。"
+      "explanation": "按照珍珠鸟课文描写的动态进行排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1de08a7423ca4e2f3af616edd23633fe851b5c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83dfd14f0257eeb6a47ba4d21072fc746a867720.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40176fa86a623e3747cd6004b514bc7914448c60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5800fc9643884b50f30b019548a48b1ec3d192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da926280f1192c933fb397d8d626b4ea38872d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11089071d89fe03e9b91389f2848eb23954b5a4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97e320357ef20c9817795a6db02ecc0f4d128479.mp3"
+      }
     }
   ],
   "knowledge": null

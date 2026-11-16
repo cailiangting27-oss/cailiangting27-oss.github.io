@@ -16,7 +16,11 @@
       "question": "把6个苹果分给2个小朋友，每个小朋友一定分得3个。",
       "options": [],
       "answer": "错",
-      "explanation": "题目没有强调‘平均分’，如果不平均分，可能一个是2个，另一个是4个。故说法错误。"
+      "explanation": "题目没有强调‘平均分’，如果不平均分，可能一个是2个，另一个是4个。故说法错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4516356ff88ab1792d1b1b49252dc89e3bcf1300.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/ded410427048a3f3a172352a97cfd39733f10128.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "将10个饼干平均分给5个同学，每人分得2个。",
       "options": [],
       "answer": "对",
-      "explanation": "$10 \\div 5 = 2$。平均分的定义是每份分得同样多，10个分5份每份2个符合定义。验算：$5 \\times 2 = 10$。"
+      "explanation": "$10 \\div 5 = 2$。平均分的定义是每份分得同样多，10个分5份每份2个符合定义。验算：$5 \\times 2 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f0a8f044d71baee75b82859ab9a802189c73b7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e96461cec8ea6553cce371907cfe20abe96255b.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "将10个梨分给5个人，每人数量不等"
       ],
       "answer": "将9个星星分成3个、3个和3个",
-      "explanation": "平均分是指每份分得同样多。选项B中每份都是3个，符合定义。"
+      "explanation": "平均分是指每份分得同样多。选项B中每份都是3个，符合定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6be279f1d4e8eec378d2d0ddf0720770b898b6b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/103907c24e0875808007dc908a2416c59f1c9192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e933b1df80c04f2c55796789bf60f073f27c499.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42ddb5d9ea27519fa5b5e9f7e79642350bd1782e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fe80f0ccd993d988ab838ec0e05b8840f1c7b3d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f51277cad05cb018b175f2fcfbfdd40c6de2ca5d.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "18"
       ],
       "answer": "5",
-      "explanation": "列式：$15 \\div 3 = 5$（根）。验算：$5 \\times 3 = 15$。"
+      "explanation": "列式：$15 \\div 3 = 5$（根）。验算：$5 \\times 3 = 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f56ddbb7dc1bffbed14b547f1dffbb98508aa57b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/100ca8f8be734a18fb8602e96473927ce1785400.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "认为只要是分物品就是平均分，忽视了每份数量是否相等。",
       "在分物的过程中，漏掉了剩余不能分完的部分也属于未达标的‘平均分’。"
     ],
-    "tips": "动手摆一摆。拿出一堆小棒，按照要求一份一份地分，分完后数数每份是不是一样多。"
+    "tips": "动手摆一摆。拿出一堆小棒，按照要求一份一份地分，分完后数数每份是不是一样多。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1b/1b0e2469aa208d27933b328b18b5fb43fd2b12c7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c6/c6fd84f8a2afa06535a4c3903a8435dc4e744c7b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3703372e25422debde8164d08befcf9107bf021.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/775c08af10623d08662e5bf75616488018b06a7a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/22/225d3b0069e931056642b8c893e79dff12e4bd74.mp3",
+        "https://api.clthuanxie.cn/cc-audio/20/20f9b30188f94e381f615ca6e5f9dfc63bff98d0.mp3"
+      ]
+    }
   }
 }

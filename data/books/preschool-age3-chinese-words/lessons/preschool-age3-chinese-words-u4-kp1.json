@@ -23,7 +23,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认识汉字 4"
+      "knowledge_point": "认识汉字 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/2c/2c8cfde621aef6cf2c9fdb83fb7d0f4e0d88a9c2.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e872bcfcffeb7ee337f0ee4c2e1ee3421d99be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7354c8bf524e5807425f72773745df4c684a488a.mp3"
+      }
     },
     {
       "id": 14,
@@ -41,7 +46,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认识汉字 4"
+      "knowledge_point": "认识汉字 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/b9/b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/42/424f23553f2acebd661057b016d44c3962663290.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad1a1cd478acf7bd5fb1c05d7d0c5a5fb4c44062.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +69,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认识汉字 4"
+      "knowledge_point": "认识汉字 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/a6/a6caf2effb1c0ddb386ff14e1278c73187b81815.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/31/314d5590dc4ad73c000c9ff4991e7b8fcadda8a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7317d1e0d3224d64335ed422e16c7e8d63e5b5cb.mp3"
+      }
     },
     {
       "id": 16,
@@ -77,7 +92,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认识汉字 4"
+      "knowledge_point": "认识汉字 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/08/0889c349726f64ac6a687c91b9cc4b6efb69ad07.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/85/852c62473311aca41505f0a88618261a61d37ca7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d66ec67c244a880b309bd031560c361ed69019b.mp3"
+      }
     }
   ],
   "knowledge": null

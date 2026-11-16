@@ -16,7 +16,11 @@
       "question": "直角三角形中只有一个直角。",
       "options": [],
       "answer": "对",
-      "explanation": "如果有两个直角，内角和就超过 180 度了（$90+90=180$），无法形成三角形。验算：$90+90+1=181 > 180$。 ✓"
+      "explanation": "如果有两个直角，内角和就超过 180 度了（$90+90=180$），无法形成三角形。验算：$90+90+1=181 > 180$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5487725fcba3cacc97d37dfe42b7e1735955f80.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a19e1b05e077f4876021bbdaaa236aa0556ec227.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "只要两条边的和大于第三边，就一定能围成三角形。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是“任意”两条边的和大于第三边。验算：定义必须严谨。 ✓"
+      "explanation": "必须是“任意”两条边的和大于第三边。验算：定义必须严谨。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff6ad2f93714cb74f8d67f67002f84544fb5dd8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be4fd4e8a41defeb0db70d462723b62a724ea8db.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "由三条线段组成的图形叫做三角形。",
       "options": [],
       "answer": "错",
-      "explanation": "定义应为“由三条线段围成（首尾相接）”，组成不代表首尾相接。 ✓"
+      "explanation": "定义应为“由三条线段围成（首尾相接）”，组成不代表首尾相接。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d6619737c553491f406bdbbdc5f72e5ad530473.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89701f9fab9aa1de3736c16bdfa3f942c0151954.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "六边形可以分割成4个三角形，所以内角和是720度。",
       "options": [],
       "answer": "对",
-      "explanation": "从一个顶点出发可以引出3条对角线，分成4个三角形。$180 \\times 4 = 720$。 ✓"
+      "explanation": "从一个顶点出发可以引出3条对角线，分成4个三角形。$180 \\times 4 = 720$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e62af1a770e8e53498df276952496a85aece14b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63f103d2d663585d39211e71601daef2e451e61d.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "不等边三角形"
       ],
       "answer": "等腰三角形",
-      "explanation": "三边相等的等边三角形符合两边相等的等腰三角形定义。 ✓"
+      "explanation": "三边相等的等边三角形符合两边相等的等腰三角形定义。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d63976dbac84b1ab4ed06894142570df9d51f5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/919cc9b426219233755985ff1749215502974b3e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6bddd93ae790af1621d5500410aa7ac3f00d1827.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "等边三角形"
       ],
       "answer": "直角三角形",
-      "explanation": "底角为1份，顶角为2份，总共4份。$180 \\div 4 = 45$，顶角 $45 \\times 2 = 90$。所以是直角三角形。 ✓"
+      "explanation": "底角为1份，顶角为2份，总共4份。$180 \\div 4 = 45$，顶角 $45 \\times 2 = 90$。所以是直角三角形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8e3210e068c7014342bb7de3063bf34c65f8e93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a692d9b74b6f06ce7928d492fb1784eee546e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952bbe1b76197ffef23b9bf81ded249667308ef1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/765d8b7d4f308a5f90b163269e711e8f6a2ff0b0.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "钝角三角形"
       ],
       "answer": "等边三角形",
-      "explanation": "三个内角相等均为60度，三条边也相等，即为等边三角形。 ✓"
+      "explanation": "三个内角相等均为60度，三条边也相等，即为等边三角形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2ba3e609e4d75194e16f39162102baccdde898d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952bbe1b76197ffef23b9bf81ded249667308ef1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e6e0769d66388e8533c42ba09a9619edc862725.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f1925937594d54d77b32bbbda6648fc3223a2d6.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "剪刀"
       ],
       "answer": "三角尺",
-      "explanation": "利用三角尺的直角边可以画垂线。 ✓"
+      "explanation": "利用三角尺的直角边可以画垂线。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68a33371cab2a1c1d31e20d2862d827563b21065.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56a8a7fe553e612c472399af7e1f672ff6a0bfa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5ba6d15e8c24cacd411534a61910331dea91a96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01d877cf08d3003b1c6f10408effe1d6cd8c480a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9db829fc07cfee57ada6d615ad440fa0c9c93456.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f29fbe0fc2aa3c2580da6c020ec74f1a5d99d3a4.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "6"
       ],
       "answer": "3",
-      "explanation": "$n-3$ 公式。$6 - 3 = 3$。由此分成4个三角形。 ✓"
+      "explanation": "$n-3$ 公式。$6 - 3 = 3$。由此分成4个三角形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/300bbacbdf5ad8fb8f1261b4b51baf33880c1de4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/2445574370cdb34dabbc65034632e2dc2f1bd861.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "易变形性"
       ],
       "answer": "稳定性",
-      "explanation": "斜钉木条形成三角形，利用其稳定性固定窗框。 ✓"
+      "explanation": "斜钉木条形成三角形，利用其稳定性固定窗框。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f773fb26ebf8575993aae14294421dfd1f80633b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41e60f02ff27727a68a000d81b6a52c1dda32ac2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b040e698eaeb8a0712fb33393c91410ccc7b035c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4ce5bd6d6dbb2468b4b17510c4804eecc9da2a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77e4e85d680e30c335631ff9da5c1b74498d0c40.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/118e94bfe8ed168c9ef3f5b0a094feb559852558.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "组合一(3,3,5):$3+3>5$成；组合二(5,5,3):$5+5>3$成。故2个。 ✓"
+      "explanation": "组合一(3,3,5):$3+3>5$成；组合二(5,5,3):$5+5>3$成。故2个。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/5731a6d988d20d5dd3af68682529d42ef4685fae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22611f5ae861fce5ad98b22adec0876f0b280f93.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "无法比"
       ],
       "answer": "一样大",
-      "explanation": "所有三角形内角和均为180度。 ✓"
+      "explanation": "所有三角形内角和均为180度。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85dbcfc41e726fc38572d58fec7fffcadbda46f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01c3154be0c567172c99b1238d5fd823b55df6de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca16d564128b0fa56db9bf1d85da3c230ea113ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f081b4d8216a0b75e57d00b8c3f1e38e6c9f234b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f88562e16d56e3df2ae72bb3da0056856ea7858.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "等腰三角形的一个底角是70度，它的顶角是 ___ 度。",
       "options": [],
       "answer": "40",
-      "explanation": "$180 - 70 \\times 2 = 40$。验算：$70 + 70 + 40 = 180$ ✓。"
+      "explanation": "$180 - 70 \\times 2 = 40$。验算：$70 + 70 + 40 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe98c2bac52d25a0284686006a6908c1d1beb031.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d943fbc4860d4b37d606041f63523a471ee7edc.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "八边形的内角和是 ___ 度。",
       "options": [],
       "answer": "1080",
-      "explanation": "$(8-2) \\times 180 = 1080$。验算：$1080 \\div 180 = 6$ ✓。"
+      "explanation": "$(8-2) \\times 180 = 1080$。验算：$1080 \\div 180 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/973b41667966f8425428e22955bb07a4818d073d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3ca1158561db8e2b2945ed90e0b241c2e947c999.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$180 - 110 - 35 = ?$",
       "options": [],
       "answer": "35",
-      "explanation": "$180 - 110 = 70$，$70 - 35 = 35$。验算：$35 + 35 + 110 = 180$ ✓。"
+      "explanation": "$180 - 110 = 70$，$70 - 35 = 35$。验算：$35 + 35 + 110 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b20fcb7b664e7b46314725a9927e53ea1461844e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec21d5ce7cb4b4d4424423d419e9603f6b749bae.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "水在不同条件下会变成不同的样子，如汽、雨、雪。",
       "options": [],
       "answer": "对",
-      "explanation": "水循环存在液态、气态、固态三种变化。"
+      "explanation": "水循环存在液态、气态、固态三种变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44cbc377fdde75b4af5c5b756ee5ad0af1f5f08e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/8228b9383415e2fe3ad07dca88eea0288143e1f3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“顶”字是左宽右窄的结构。",
       "options": [],
       "answer": "错",
-      "explanation": "“顶”左边是‘丁’，右边是‘页’，右边笔画多，通常是左右等宽或左窄右宽。"
+      "explanation": "“顶”左边是‘丁’，右边是‘页’，右边笔画多，通常是左右等宽或左窄右宽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a93ca8aa3d1d4ed3337333447ec5abcaaa30346.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5de5fdb8a7042e8ce34441d18e2ff8759b97a6a7.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“有时候我很温和，有时候我很暴躁。”这句话运用了拟人手法。",
       "options": [],
       "answer": "对",
-      "explanation": "运用人的脾气特征描写水的特性，是拟人写法。"
+      "explanation": "运用人的脾气特征描写水的特性，是拟人写法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c63c51f85921baa395f519cd0b17797cfdb15ef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/658fea649d9118c98284c63acfc7ab5621135504.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "小蝌蚪找妈妈的时候，鲤鱼阿姨指引了正确的方向。",
       "options": [],
       "answer": "对",
-      "explanation": "鲤鱼阿姨告诉了小蝌蚪，它们的妈妈有四条腿和宽嘴巴。"
+      "explanation": "鲤鱼阿姨告诉了小蝌蚪，它们的妈妈有四条腿和宽嘴巴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/9949b0caf4ea04084ba2250d438d60f6d0adb529.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7b63abc6679fc3f6bed6fa95665c4de6b5ac197.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "蒸发的水"
       ],
       "answer": "快速流动的水",
-      "explanation": "奔跑、跳舞等词暗示了水流的动态之美。"
+      "explanation": "奔跑、跳舞等词暗示了水流的动态之美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/bae92591ccfe540aaac8b3c26aba25cb136d38c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30eef7a76266127a1917c95f71bd75541863127d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/095a6929b5b08f1b6852b30a63aa59dfa4c4c45a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a673cd2f9f62b75ad5068b3ae7a5bbd4d774bf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bf5c048c5e44a0ebcc3be5c8d1942af58f2b723.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b873b2f9aee1f24470e1f0251e64afbe2d77f523.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "水壶"
       ],
       "answer": "地图",
-      "explanation": "地图是提供地理位置参考和辨识方向的重要工具。"
+      "explanation": "地图是提供地理位置参考和辨识方向的重要工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec5cb10b2880e01b5a6a0dc19bf71e91c791394e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46e1efeb268a3e005eaefa551d7034be8b2d7c6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c835f53fc2e4035f2c8430515ae7c5e3c19a821c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/955baa4a7f83887e02c14f6577d169ddaca7660d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb9474edfc48f0cc4df823d9202b7d11caf355c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53eb6bedb8802236c82ed07094844b6868a96c77.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "好天气"
       ],
       "answer": "植物妈妈的知识",
-      "explanation": "《植物妈妈有办法》强调要仔细观察大自然。"
+      "explanation": "《植物妈妈有办法》强调要仔细观察大自然。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bce1a12652ee10b53f938a9e362a68e88ad9485.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/adcc7c4f90bbb4a27e0de973bff260043c1073c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e80966cfe8b98759e466202a9dc9783128cedd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1eab40e749b15a964c522d33b5f54c53de3ba9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af1e03de3b101552a8ce577e220a78e8cf99b0ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1d11ea217a8d9304543914d364a0d23a885bcf3.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "阿姨（yí） 淹没（méi）"
       ],
       "answer": "脑袋（dai） 教诲（huì）",
-      "explanation": "A项旅行读xíng，B项捕捉读zhuō，D项淹没读mò。"
+      "explanation": "A项旅行读xíng，B项捕捉读zhuō，D项淹没读mò。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0ff3044cbc006145c60ef02912ffd9de44c41b86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd75d796779fa095c1c66c388b82c298de8e2e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad5928a6713b7591ad90b5f90d4cd2e9287984ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1aea33f86c698f5224b1aa5a5aa293985b90a8f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81edfdda995af9b2fd408d071ec7500c91cacdb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d71734b6a678556c2d784aacc6e9aac92016871c.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "甩着长尾巴"
       ],
       "answer": "划着四条腿",
-      "explanation": "描写乌龟在水中滑动的姿态常用“划”。"
+      "explanation": "描写乌龟在水中滑动的姿态常用“划”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b5393d4e39cf17332528e5e2b8f8f72c4457d64.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22629d91954c265203ef1d6de506ce496fd3535c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39c5853b60c0150c5fa183c3b8cdb01bd6065531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d15946c0554946aa6b3d1ca7e813030a876dd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/dec5bb91438eed9dce743d06a8ce609ed043152a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50577fadd2ea9f91157238459428953fc39912aa.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "否定"
       ],
       "answer": "到处",
-      "explanation": "比如“四海为家”就是指哪儿都可以是家。"
+      "explanation": "比如“四海为家”就是指哪儿都可以是家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a990d890d488a767b017f1778e528a86f3641daf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d9740c7355a50ce8c477afe53b9be36432e8583.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fed21b5085583bcd3c06287db30d7bc133372539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70b208202ce59f6b9a7eff400b8928d9d95fa568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b5ec87e3f13a37d021469f5e3bc0dd60231f9d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a25b161177ad9f344d3d898b64735d54eeffe02e.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“海”字的部首是（___）。",
       "options": [],
       "answer": "氵",
-      "explanation": "“海”字是左右结构，部首是三点水。"
+      "explanation": "“海”字是左右结构，部首是三点水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fda010e7a7f897ce79ee7a2d38032437bf4985bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e9fff7cc90dd206dd28beec1fd36bc1533b20a4.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "植物要旅行，靠的是（___）。",
       "options": [],
       "answer": "办法",
-      "explanation": "《植物妈妈有办法》歌咏植物繁衍的各种自然方法。"
+      "explanation": "《植物妈妈有办法》歌咏植物繁衍的各种自然方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d384715148b62385cdffb523e400e8bfd9f1b1c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/eda83306646f6811a859c6c620a2b6ea61931459.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "水稻等作物无法生长"
       ],
       "answer": "A-1,B-3,C-2,D-4",
-      "explanation": "ABC三个对应关系分别是水的正面（利）与反面（弊）评价。"
+      "explanation": "ABC三个对应关系分别是水的正面（利）与反面（弊）评价。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f4a9feaf541bfc87cf4a46b7b80c3696efb8ebe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6ac84eb0c26351337c20b38f564b4323f079fb05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/009940bac5441df99ab881536afc2a7471066627.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb85cbd423be48c7623a27d3edab3d65a14d7e02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094303c99b9d3c18f6f85c67e978ac91a9331a73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad9a8521871ca5f8ae449b9c4434095a5ba61bb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de15f00521bfab38753ddd26b061236d2e7344cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6356a6617f4bdf43b0d5481233afea6e794b810e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/964d6793f0ae2013615b93502b8acd389a65754e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e485ebfa4238e20cc83e2055f2a1bc8c96974555.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "地图"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "手电筒照明，指南针定位，防滑鞋防摔，地图标示水源。"
+      "explanation": "手电筒照明，指南针定位，防滑鞋防摔，地图标示水源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45762a9e719117e66f24d2ec5eb14eb9d4291e82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5c41ef8d25846ca40447ab6222d39491824eb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ea698bcd24331a9a8e0618ed81d7e3b2d6c9b5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06e3d18c7bb9c678840c696b016f04cb94ca039a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4ec348b69b59512e8b44c527633a0dc7d6e4ccf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfa348a5353899ffe20276873f48c47d1089c5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa60c47047dd2e31993f5324bab932e019456cb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e1efeb268a3e005eaefa551d7034be8b2d7c6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ea4bff4088e4fca8e14a6575da3a39e98982cd8.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "一只"
       ],
       "answer": "一只,小青蛙,披着,碧绿的,衣裳",
-      "explanation": "数量词+主语+动作+定语+宾语。"
+      "explanation": "数量词+主语+动作+定语+宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/032feb559584fd0d990560cc900e650a29709b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5ddfc30314dcfaa41da15d79ee2b0299ff54e459.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c88c63df62dcca9e4cbcd7c00fa0161ceddef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/872b3ff90fccbd60ea1c11f24b82f3d827befe20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9f6c2655e44d8e7b5e3bab4ffa14aca4414f3cb.mp3"
+      }
     }
   ],
   "knowledge": null

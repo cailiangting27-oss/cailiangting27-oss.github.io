@@ -16,7 +16,11 @@
       "question": "大山、森林和河流都属于自然世界中的景观。",
       "options": [],
       "answer": "对",
-      "explanation": "大山、森林和河流是自然形成的，不属于人工制造。"
+      "explanation": "大山、森林和河流是自然形成的，不属于人工制造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01883272a4f52d55045f62de5d27c90c1d297cf5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d943ce83f94d6ea595a0e557f83477bee96719fa.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "美丽的彩虹"
       ],
       "answer": "高大的楼房",
-      "explanation": "楼房由人类加工材料建造，属于人工世界。"
+      "explanation": "楼房由人类加工材料建造，属于人工世界。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74d20d256ae8701c2d09d642aaeb1df0f7281178.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c19f7229eec41b569823ac609f6de8d50333c501.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/652ce6908c2c5f5bdce01bc28c1af88f57abe594.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ae7885dd8bfa8db03cb30b0d3acaabe580b70ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9223eccb75b96c8edf31eb445604721a91f1a76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e4d03fc696e1aefef8f527de4859a9675164dec.mp3"
+      }
     },
     {
       "id": 22,
@@ -43,7 +57,11 @@
       "question": "我们使用的尺子是用（ ）制造出来的物品。",
       "options": [],
       "answer": "塑料",
-      "explanation": "小学生用的直尺最常用的材料是塑料。"
+      "explanation": "小学生用的直尺最常用的材料是塑料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10e955c21e50ff0bd4c8d679d7589ed57a0da401.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bca6fc08272955fc5afd71a9bb03b52092fcd48a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "认为木头桌子是自然界直接长出来的",
       "区分不清原材料和成品"
     ],
-    "tips": "看物品是否有人类干预、修改、组合的痕迹。"
+    "tips": "看物品是否有人类干预、修改、组合的痕迹。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/53/537ad48b54a73e860cd93955a1cd81cf69fc7c15.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c9/c94429d88c2a270e7bfb4aaee533cd73dcf73e9f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3c/3c452d5b7d08a9c4cd805a5a0266aab531631de3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ef/efee5c8eae888673820e17010c3184a353af053e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1c/1c4a80bbe97aca828d9f13fdf0be70e0c3b78a13.mp3",
+        "https://api.clthuanxie.cn/cc-audio/79/79144b4a49921d255bfbd6dd9a559140dce9a216.mp3"
+      ]
+    }
   }
 }

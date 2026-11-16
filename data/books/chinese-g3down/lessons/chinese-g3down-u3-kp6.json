@@ -21,7 +21,17 @@
         "因为画的纸张非常珍贵"
       ],
       "answer": "因为它反映了八九百年前北宋都城的市井生活",
-      "explanation": "它的历史价值和艺术价值在于真实还原了当时的社会风貌。"
+      "explanation": "它的历史价值和艺术价值在于真实还原了当时的社会风貌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/250641d3539f0ee535d4ac941878e435653cc528.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a4cbc6ed04b43a455183e237543787d4f26cf7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/486bb3634154f29811488fc08bbd397122121195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e410559c5c9b27563d44ad7fcca3713f7c537489.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b112503a636f34e3443bd18a144cc693954a9839.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/791b19b8c1f4812bd5083a21d47e626155627a7d.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "合成类食物"
       ],
       "answer": "植物类食物",
-      "explanation": "面条由小麦加工而成，来源是植物。"
+      "explanation": "面条由小麦加工而成，来源是植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e83b416ff9ff018123a7a596ab35244c735908e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58deff25bf3d7cc755c314431041413d900322f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7816cbf5a7c869cb92b97183c6e41120c9bfcb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/535076036a595fabada6f949c837db081f671ec9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b617b4ec241b1882d50ca255a8c5a1af6121ca05.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab721395286d7c92e8a3db38e2bed3c3440ecbd1.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "如果我们一餐吃了蛋炒饭，其中包含米饭、鸡蛋、葱，我们认为这一顿饭包含了（）种食物。",
       "options": [],
       "answer": "3",
-      "explanation": "按食材统计，米饭、鸡蛋、葱各为一种。"
+      "explanation": "按食材统计，米饭、鸡蛋、葱各为一种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18821b1f449e4de65d172312174d44f86c5b5bbd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/707d41fe29ddd1f89426a913a8f775bcdbea34c4.mp3"
+      }
     }
   ],
   "knowledge": null

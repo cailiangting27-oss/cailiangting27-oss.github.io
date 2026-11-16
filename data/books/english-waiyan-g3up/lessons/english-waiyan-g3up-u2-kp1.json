@@ -21,7 +21,17 @@
         "make cake"
       ],
       "answer": "make a cake",
-      "explanation": "做蛋糕用 make。"
+      "explanation": "做蛋糕用 make。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93ee2476c90bf025a3cb65de020203e9e3c3b38b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef6a1a96a337105078de826a3276e20ea134dc79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cb982a6c6c876c33bf9d69156e0ec6033ecd896.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa7483f7a3819f0051760889abe94433cf00fde3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04ad07f5be431a89a25953bf11cce73eb4ba17ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be03fce8e673a33d8dcf5606141477300962410e.mp3"
+      }
     },
     {
       "id": 3,
@@ -37,7 +47,17 @@
         "Quiet please be."
       ],
       "answer": "Please be quiet.",
-      "explanation": "quiet 是安静的。"
+      "explanation": "quiet 是安静的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9abbe78c50343adb672bc1a03b77dc3f30c868fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d3e108a026312c0abf37bd08f5eaf024e9b8a732.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bf993ab6b96cf2d5c78c478e4630b4d9f1b4508.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b99d9a142a49c3ec957b48e3ba877faa70516b71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0bfa218b2acff7816a5f66ef4d9c670986ae7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1c8266d158a967fbcafa0f91fe54164fb73345b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "make 与 doing 混用。"
     ],
-    "tips": "做蛋糕用 make，不用 cook。"
+    "tips": "做蛋糕用 make，不用 cook。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2a/2a79efc401ae892cbc789e23b075a5f235a2f6e2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c8/c8563243cab0a813f4e9baaefa039b2e31c9ac44.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/81/81d776b97c05eeaa4f4b0c704f3f695e4498c243.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/53/53a2054829b206262212302b91e100ed99d7842d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bd/bd6613dd6085f36d3663c0bf35ceffc274c72ac6.mp3"
+      ]
+    }
   }
 }

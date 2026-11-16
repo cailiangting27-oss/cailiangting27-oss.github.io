@@ -16,7 +16,11 @@
       "question": "《青蛙写诗》中，青蛙是在大雨天里写诗的。",
       "options": [],
       "answer": "对",
-      "explanation": "诗歌开头写到“下雨了，雨点儿淅沥沥，地上的青蛙说：‘我要写诗啦！’”"
+      "explanation": "诗歌开头写到“下雨了，雨点儿淅沥沥，地上的青蛙说：‘我要写诗啦！’”",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e1f21461964f50d8675b8cad6af406ca9049e65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2507922c6901a325eb7e685a9563824528c191cb.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "在课文中，小蝌蚪想给青蛙当小逗号。",
       "options": [],
       "answer": "对",
-      "explanation": "小蝌蚪摇着尾巴说：“我来给你当个小逗号。”"
+      "explanation": "小蝌蚪摇着尾巴说：“我来给你当个小逗号。”",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eba46a1eb7c7a80dcddfcc443c7ea6d18bcb62dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea5a2523ad5fb0d5b4ef86af442d5be4352ee731.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "问号"
       ],
       "answer": "句号",
-      "explanation": "水泡泡圆圆的，长得像句号。"
+      "explanation": "水泡泡圆圆的，长得像句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86dccb3face59d5ac7da76c935e0ddfbc69d68ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/365c5928ec3db597f19dbb9589638d18dce55b0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a868d6831ab638f4d707d02bef7a440a11df059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43ffb25277aa608ef419b23dbab543371357bb32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05e544ccdbe4b51518566553673bfd82ba3bd985.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ec234854869132b8f407259351a76f18eac8009.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "大海里"
       ],
       "answer": "没有花没有草的地方",
-      "explanation": "大雨点儿对小雨点儿说，它要去没有花没有草的地方。"
+      "explanation": "大雨点儿对小雨点儿说，它要去没有花没有草的地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02d181b684d7f7401e96d9a50992edc552696340.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f5390dcef7f7ff83238a1f126f824be507920316.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63b72af68edbc33f81cd44ec9df0c29d32913fd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a898427f2ea4b9c20215818a6c76eef953fb9a76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c9faa7aead160b43a56841a9803aebafee853.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/baac538fec3aeb0bb19ae7832ab8216dd8d2c6fa.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "大树"
       ],
       "answer": "雨点儿",
-      "explanation": "雨点儿滋润了大地，让花草长得更好。"
+      "explanation": "雨点儿滋润了大地，让花草长得更好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c24be4d060d751f648ad162dea48dc98b788e997.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76cdb81bb9cc61afc7a841fade3106bea234f3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d84632208c74a2849b6074c17e9d635625fb1d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8f7f505f04b47d1b9da04be98d4d4e5018169.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d65dd11ca42189302c816c265ff4dde5a49322a.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "逗号"
       ],
       "answer": "省略号",
-      "explanation": "一串水珠排列在一起，样子像省略号。"
+      "explanation": "一串水珠排列在一起，样子像省略号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1bc5f10477921f26da02fcc2c23417bbea672794.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/52439b6a5020d6cbfabb615398743903341fcdf6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d600f31f933f88f787e789249c449116bd59f361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/451f988c84913c5abf663463a7917feb03dd4cef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/365c5928ec3db597f19dbb9589638d18dce55b0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55ce0ce3e7cfe667fce5da4b79b787e7b9f82b0c.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "非常凉"
       ],
       "answer": "非常多",
-      "explanation": "“数不清”形容数量多得算不过来。"
+      "explanation": "“数不清”形容数量多得算不过来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0c0cb1553169d8241d8d9db906746af68eeda12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0eadbc842982bf63ca8053cfca642aeedff6b691.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b29b551610c225cbdaeb2f3deab947e5311ff495.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c116c330f12a0ad375fa572d98aba94c2dc01b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b312df4b2229c88b53b818a8fa3302496b6bb8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4df2ce24faf54f5cddb6e46d2de0cd8c18e1ae4.mp3"
+      }
     },
     {
       "id": 15,
@@ -123,7 +181,17 @@
         "睡觉"
       ],
       "answer": "唱歌说话",
-      "explanation": "“呱呱”是青蛙的语言方式，在拟人化语境中它在写诗表达情感。"
+      "explanation": "“呱呱”是青蛙的语言方式，在拟人化语境中它在写诗表达情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61af6e66d85dc3ab3469cd151f885c4633577bd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/488ba5bc44d803cf2f1b8f832ee0e66f8d7e8513.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e671f89867ed1cf730d8e9305c8ac5ab4cbeb41a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4298c93dce3ec786105327143dc8b77db1834f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f21495351fc736fc6d6ca5a28b74c9929afccc6d.mp3"
+      }
     },
     {
       "id": 18,
@@ -134,7 +202,11 @@
       "question": "《雨点儿》中，不仅小雨点儿从云彩里飘落，（  ）雨点儿也落下来了。",
       "options": [],
       "answer": "大",
-      "explanation": "课文描述了大小雨点儿的对话。"
+      "explanation": "课文描述了大小雨点儿的对话。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96ab3595ea075693e20b9610be5a04eaab7c7019.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7afbfdca5be86226a06bca8812bd23850e6032cd.mp3"
+      }
     },
     {
       "id": 20,
@@ -154,7 +226,21 @@
         "省略号"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "小蝌蚪当逗号，水泡泡当句号，一串水珠当省略号，青蛙是作者。"
+      "explanation": "小蝌蚪当逗号，水泡泡当句号，一串水珠当省略号，青蛙是作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cd6708785a338278cbd4b61f4a9f87f96be6850.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38a22dcf11fce8224e602125a83894a87dfe045c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21725ec10cd806493a54d82dc85f1351da7aa34a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c0296ed1bb751828541c73b9bca037c06c2c1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76cdb81bb9cc61afc7a841fade3106bea234f3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698bea51247b5db4f5166b5cbace54b55a3773ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/365c5928ec3db597f19dbb9589638d18dce55b0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a868d6831ab638f4d707d02bef7a440a11df059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d600f31f933f88f787e789249c449116bd59f361.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1425eb5ed4c8043da20a37b50272b0d9a65d069.mp3"
+      }
     },
     {
       "id": 21,
@@ -174,7 +260,21 @@
         "花更红草更绿"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "大雨点儿去没花草处让那里开花，小雨点儿去有花草处让那里更绿。"
+      "explanation": "大雨点儿去没花草处让那里开花，小雨点儿去有花草处让那里更绿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86c38e4200ec9910816541096d10038695bc3499.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/ba8726402e18dbf02a61f4a440b49ff4093c093b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4deb5a680dce850a25b12b29258c86ec4156773f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a95a2a62162473e0a8403736ccde95ab7099ab2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f892986c927bcba72a3d4c47ec75bb1b076fe91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/994534c92b6bf734a49b57165d2a2993212ae628.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdbaa32507ecec70c17954fb801a26e88ab27440.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b3b39d55c65654049b1249095f61517323b3056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0a8b0b082f2f4c280a4400391c25a0ffd61e96.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2f024a9b23d60272e266cdfa11dd6a1b40326f9.mp3"
+      }
     },
     {
       "id": 22,
@@ -190,7 +290,17 @@
         "飘落下来"
       ],
       "answer": "雨点儿,从,云彩里,飘落下来",
-      "explanation": "考查课文中的核心句式表达方式。"
+      "explanation": "考查课文中的核心句式表达方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1d84632208c74a2849b6074c17e9d635625fb1d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/202a06889911f25c932a35bc8840521c1375b7e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8ab977960a698140cf24810d2f39a66d082d6f16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e923854406ce4b579337df3993c2b1837d24a42e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6311600953060364e29820a177547448ba833bb3.mp3"
+      }
     },
     {
       "id": 23,
@@ -207,7 +317,18 @@
         "当"
       ],
       "answer": "小蝌蚪,说,可以,当,逗号",
-      "explanation": "考查对拟人化叙述顺序的掌握。"
+      "explanation": "考查对拟人化叙述顺序的掌握。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38a22dcf11fce8224e602125a83894a87dfe045c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/365c5928ec3db597f19dbb9589638d18dce55b0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be3058692f120beec6c06756864764d1691e624e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79176103e6df6bfad424dc54570641a5d4f315a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab440c8ee491d3bc5f4124fad231d24daa1cb555.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bc1b6237cb73d6e3984257b45fa9b491ff517e4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -218,6 +339,16 @@
       "无法区分现实生活与童话语境，不理解事物形状与标点的联想关系",
       "忽略了课文中自然知识的传递（如雨水促进植物生长）"
     ],
-    "tips": "引导孩子观察身边的事物像什么，比如“弯弯的月亮像小船”，练习简单的拟人化表达。"
+    "tips": "引导孩子观察身边的事物像什么，比如“弯弯的月亮像小船”，练习简单的拟人化表达。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a2/a24ba57468c58f91d2a420d7db1f85de6aa255c5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bd/bdd52a9036a557e1e87eb381e35bca33634d0658.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b6/b67cb1561bd41f5643257bad543a1b88bd470763.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/83/83eebbc1340d205e8fad522eb2fba7f9084ad4c6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/71/7175e6b81c2124245a713a0f4524aab28cfc1d3d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/65/656823de347058b00e83db131b4a594cc126b91b.mp3"
+      ]
+    }
   }
 }

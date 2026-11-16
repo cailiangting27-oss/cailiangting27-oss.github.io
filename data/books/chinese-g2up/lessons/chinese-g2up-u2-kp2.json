@@ -16,7 +16,11 @@
       "question": "松树的叶子像一把把小扇子。",
       "options": [],
       "answer": "错",
-      "explanation": "松树的叶子像针，银杏的叶子才像小扇子。"
+      "explanation": "松树的叶子像针，银杏的叶子才像小扇子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/3164aaee087a2cb34e9f02c574a7446bbb18d878.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c444bfee970f08fa72834ab0bca1f4e45707d231.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "雄鹰在高原上空翱翔。",
       "options": [],
       "answer": "对",
-      "explanation": "鹰确实生活在高空中，翱翔是它的特点。"
+      "explanation": "鹰确实生活在高空中，翱翔是它的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b368a8161e99b1e0a9fabffd17e67eefc3b99f71.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/784b2026e81297ad6a4ee55dd132d1d00f3462ab.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "百草香"
       ],
       "answer": "叶儿红",
-      "explanation": "枫树的特点是秋天叶子变红。"
+      "explanation": "枫树的特点是秋天叶子变红。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae29e4633c23610deebf0e097946086e08134b19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7887be098b282b44117b852bb1920829550eb95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/974058dd51f92683203fa2f42a9aa780636410c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c27638aca0334d84cb558e0b5408b469fa389ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/2779a09ab957b3109922bf67bb3484a84c0bd94e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a2d5e07dbec67c901e8ed0923b27c420bcf2f0c.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "生活环境"
       ],
       "answer": "外形特征",
-      "explanation": "文中提到的尾巴、鼻子都是动物的身体部位，即外形特征。"
+      "explanation": "文中提到的尾巴、鼻子都是动物的身体部位，即外形特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d649da70ce5211dabc1f258189e92de55a024eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9ce32f23ba46af7dbcdde1c3af3b6c3989638b3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e5cd7c0ee0032bd778272332d2b625811d52b12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f7a993537809a6696f477b8782036ea0be751d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc00331058b0693a92c60485105ebb0af97f78f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/382b001f97ae582cfd1d7759bfd14d963d9dd009.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "观察动物"
       ],
       "answer": "保护动物",
-      "explanation": "《拍手歌》的主旨是关爱和保护动物。"
+      "explanation": "《拍手歌》的主旨是关爱和保护动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1c11a755638ab57fbe5f1cc092849ef344e6a82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc36ef16d9408136f692aa12b8b301721666da93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/9630946359a9fb56cf3b375a801c6fad4fae9dcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab95c50f7de815c9c5e93dc2e6165714f5e83223.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1826ee8686ca9aed9e4da30906d8db3512ad91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee8a52c216fb093caf1bff73033286e534905eaf.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "竹子翠绿"
       ],
       "answer": "桂花盛开",
-      "explanation": "形容花香浓郁常用“百里香”。"
+      "explanation": "形容花香浓郁常用“百里香”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25aa7467b2a50175c4727d5b249a765b6de26d88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1e344c0898818cb5367de281ad99cd0c8db8a816.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92cf912fda18a57c267efc931c5afa20e268e898.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/847ce1c88b55298dfddf4fc9d3d038188ca612ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58be3d7099749625f8bd3d3ff012d1b0b8a649e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64e7cb43cfc0f0485ba978ca87e5fd0f5b554f1d.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "（  ）树木活化石，银杏水杉满园载。",
       "options": [],
       "answer": "这种",
-      "explanation": "教材原文：银杏水杉活化石。"
+      "explanation": "教材原文：银杏水杉活化石。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7e81942dcebcb24f6269e3f8c6fea22bf201e77.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d9d2665e13ed167a3f3cd989626cbafca03b6b5.mp3"
+      }
     },
     {
       "id": 19,
@@ -122,7 +174,21 @@
         "树冠大"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "杨树高，榕树冠，梧桐手掌，木棉喜暖。"
+      "explanation": "杨树高，榕树冠，梧桐手掌，木棉喜暖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97411bf9279b826af19a5bef9e7f702942e8129c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/42389ad5d63298c6c510bd51b5cbc3e294e52840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/535eefe8698dbc96dfd2cbfa1485834d833c15a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9991f799d0520e76e81fdfd4c38dce4f03fd6c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f523a2f73ee6321be543fc7c987c61bc8f681eb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29557104634f01709181212612d8df79f1d65765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43df8f2cf3bb9b4123ef39c809e7281587fa2d58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1b4ed5490c349eb56d30e1bf25d99f342bca826.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b65839735fb834d7c1fe7d341f731aacdca082.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf014ce82394e4a5e0853c4981e6da5293d862fe.mp3"
+      }
     },
     {
       "id": 20,
@@ -142,7 +208,21 @@
         "深林"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "猛虎下山，雄鹰飞翔，黄鹂唱歌，百灵深林。"
+      "explanation": "猛虎下山，雄鹰飞翔，黄鹂唱歌，百灵深林。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5dd6eb641d6daa6bd47245069779f66e2a822211.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b53a133774b962b419e10c98033e78a43df4156b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/934dd129b281b548b68c5a747bce739483af1437.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/baa3c0c5ba41d7e4324869f6145a1a6b91dddd37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/392887a3558ce3226640d93de9161dce416fbbec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f033534715bcfe1cf34b119b6c4c93aeadf41b8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a3ed3596044dbedff3c8e2f5eb6bd543fbde3ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646478a9b069ab4878b37dc2fb998e2fd1e655ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a46e3c6da7ce0de93d50321b4c4b26b8fdd67cfc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50e636e245a2a1a4c960766cc7856db47cee1297.mp3"
+      }
     },
     {
       "id": 22,
@@ -160,7 +240,19 @@
         "环境"
       ],
       "answer": "我们要,不仅要,保护,环境,爱护,动物",
-      "explanation": "考察递进关系句式的应用。"
+      "explanation": "考察递进关系句式的应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/355ca1175de53cb803f7d2eb099890ec210f6c62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a336013c6e4ef91974d7e6cd12f52eeed0b592e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41ac3e62afaaaacda4f3e9a615fb6de054f3fc60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44b279fb38ffc7903e0a513c7fdb468e103d7b47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dca43095a565f4d38c80ccfd62f9b6320647228.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9eafe7f6f092d5577a982aae05e2a6f2e3f6eb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa3833ea2a46ce6ec3d793bc0dd8373fbb9d9960.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70ddc508b33f55f90c7f1489ca6b602ff4f16d48.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -171,6 +263,16 @@
       "混淆银杏叶和松树叶的形状",
       "不清楚哪些动物是受保护的益鸟"
     ],
-    "tips": "可以编顺口溜记忆，如：梧桐手掌、枫叶红、水杉银杏活化石。"
+    "tips": "可以编顺口溜记忆，如：梧桐手掌、枫叶红、水杉银杏活化石。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fd/fde0dddf8bd0aa6dc48900e84480842e0b398555.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8c/8c91924a47fac3c64064fbe135c58fa553537ca7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/35/3565c01c7d0ea278c4f0deda5d0144e76cf93dea.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/dd/dd7699d77cef534f59b780e36b359b51ed487e2f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f2/f22e480310c39c07a1e3056cd1e346437973763c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/66/6629c14811d702288eb0f746838e29374babab98.mp3"
+      ]
+    }
   }
 }

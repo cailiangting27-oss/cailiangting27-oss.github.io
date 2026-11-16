@@ -16,7 +16,11 @@
       "question": "风向是指风吹来的方向，比如北风是指从北向南吹的风。",
       "options": [],
       "answer": "对",
-      "explanation": "风向即风来源的方向。"
+      "explanation": "风向即风来源的方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab4d5a217421cf59d65d2e5847d1e5f7c527bb58.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c316c03feefaf8638158dbcd107a1f3dcc148571.mp3"
+      }
     }
   ],
   "knowledge": null

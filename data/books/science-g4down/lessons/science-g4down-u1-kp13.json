@@ -21,7 +21,17 @@
         "制造养料"
       ],
       "answer": "运输水分",
-      "explanation": "茎内的导管负责将水和无机盐由下向上运输到植物全身。"
+      "explanation": "茎内的导管负责将水和无机盐由下向上运输到植物全身。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2050762db94f774097b4a850a3347b4934b1f1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b4d8dc69757f7dbbf16c8417f0194c1c11dcfd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be6f6ecd284affec9f79b04a03a6de2b77a71cc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8c8658104c9c1d45b5922d504947e682d436986.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ca173a4b99436f4b073c8667dcf6422e327d466.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/7420ae9137c80ae1d352d8de6c9f741f381fe956.mp3"
+      }
     }
   ],
   "knowledge": null

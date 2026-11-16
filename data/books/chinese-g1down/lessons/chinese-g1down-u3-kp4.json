@@ -21,7 +21,17 @@
         "天黑了"
       ],
       "answer": "他们都有了邻居",
-      "explanation": "有了邻居就不再孤单，所以树和喜鹊都很快乐。"
+      "explanation": "有了邻居就不再孤单，所以树和喜鹊都很快乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a953b8025a85473fe4431fb4166f7535b4d76385.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2a56ef522b72a6ecbbee0e38b199e5011f95195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3801ba08ab84e5f96e329a6b3b2c4213d1a34c4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f5da03389694550c9c8d4019eb6ba091fe57ebe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/099699656c0d56ea386f79a90e76142a8c20d7c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/3804ac3dbf66a86248210556d852c61f1506d974.mp3"
+      }
     }
   ],
   "knowledge": null

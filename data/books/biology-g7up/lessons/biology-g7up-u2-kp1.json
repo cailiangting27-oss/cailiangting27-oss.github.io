@@ -21,7 +21,15 @@
         "细胞膜"
       ],
       "answer": "细胞膜",
-      "explanation": "细胞膜是动植物共有的。"
+      "explanation": "细胞膜是动植物共有的。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f32a5e242951ae0d80819bcf6fd7c0161233d91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a12c6b38186c2585c77b537f8bb865af97edf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c71d064802993e225e5c89261e2b1b6163cfd4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8114e470b4385866717828565abe2e1e4ab5ac63.mp3"
+        ]
+      }
     },
     {
       "id": 2,

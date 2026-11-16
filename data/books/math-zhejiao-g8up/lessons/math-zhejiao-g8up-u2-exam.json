@@ -21,7 +21,15 @@
         "4 个"
       ],
       "answer": "2 个",
-      "explanation": "±3 两点。"
+      "explanation": "±3 两点。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a077c83c695f4d6b9e568c8defe224ca036f3a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "0"
       ],
       "answer": "±3",
-      "explanation": "绝对值有 ±。"
+      "explanation": "绝对值有 ±。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ]
+      }
     },
     {
       "id": 7,

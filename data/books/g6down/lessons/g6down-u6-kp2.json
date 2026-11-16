@@ -16,7 +16,11 @@
       "question": "圆柱的侧面展开后一定是长方形。",
       "options": [],
       "answer": "错",
-      "explanation": "当圆柱的底面周长与高相等时，侧面展开图是正方形。正方形是特殊的长方形，但说法过于绝对。"
+      "explanation": "当圆柱的底面周长与高相等时，侧面展开图是正方形。正方形是特殊的长方形，但说法过于绝对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39d976007c5238951f16ca9f6c7b66ddf4902950.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/899f5e73fb7bef6d7617b2c09cbbad82fe71ebe9.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "70"
       ],
       "answer": "100",
-      "explanation": "$180 - 40 \\times 2 = 180 - 80 = 100$ 。验算：$100 + 40 + 40 = 180$。"
+      "explanation": "$180 - 40 \\times 2 = 180 - 80 = 100$ 。验算：$100 + 40 + 40 = 180$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/552a08b3477ab8901537ac047a679165d3fbfb7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c28aca23f1ef3718a464383d925c66842078edaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42aec089bb0e2afb68049d642664d8534ab3233c.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "36"
       ],
       "answer": "36",
-      "explanation": "$V_{圆柱} = 3 \\times V_{圆锥} = 3 \\times 12 = 36$。单位为立方厘米。"
+      "explanation": "$V_{圆柱} = 3 \\times V_{圆锥} = 3 \\times 12 = 36$。单位为立方厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88070be608bb7b1271c7dab5de1dcd2edd4cd277.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c555644895f4346253775401a934e73972c6e49a.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "24"
       ],
       "answer": "8",
-      "explanation": "棱长 $= 24 \\div 12 = 2$ 厘米。体积 $= 2^3 = 8$ 立方厘米。"
+      "explanation": "棱长 $= 24 \\div 12 = 2$ 厘米。体积 $= 2^3 = 8$ 立方厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edb29e17c3b6ce761dc4c2b6fb9b35f423888777.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb78909416793346b5140b188976a37f49c3a11f.mp3"
+      }
     },
     {
       "id": 18,
@@ -80,7 +114,17 @@
         "2"
       ],
       "answer": "6.28",
-      "explanation": "增加两个底面积。半径 $= 1$ 分米。$3.14 \\times 1^2 \\times 2 = 6.28$。"
+      "explanation": "增加两个底面积。半径 $= 1$ 分米。$3.14 \\times 1^2 \\times 2 = 6.28$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46162c6b163684c62f2d1a6371b2b4749c1d9631.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/983b34771fb7185d04c9603559c9e46f4b70496d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a6c8c7a133f1731357eb05c0a0172ee02f8518a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59226be5c1c97af91d1647c0ebbc1e74df37b150.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/154af07526c3959d21f0cd92513b2fed6737721d.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "一个正方形果园的周长是 400 米，它的面积是 ___ 平方米。",
       "options": [],
       "answer": "10000",
-      "explanation": "边长 $= 400 \\div 4 = 100$ 米。面积 $= 100 \\times 100 = 10000$ 平方米。验算：$\\sqrt{10000} = 100$ ✓。"
+      "explanation": "边长 $= 400 \\div 4 = 100$ 米。面积 $= 100 \\times 100 = 10000$ 平方米。验算：$\\sqrt{10000} = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb86ce3346b9bc7039010a9e3ea7e381d817856c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8c2e2ec5b8ad59351aa6fda7abe578b271ef9e6.mp3"
+      }
     }
   ],
   "knowledge": null

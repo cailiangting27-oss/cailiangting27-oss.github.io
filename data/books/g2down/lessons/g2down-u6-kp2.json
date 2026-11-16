@@ -16,7 +16,11 @@
       "question": "如果除数是6，余数可能是7。",
       "options": [],
       "answer": "错",
-      "explanation": "在有余数的除法中，余数一定比除数小。因为 $7 > 6$，所以余数不可能是7。验算：$7 \\div 6 = 1 \\dots 1$，如果余数是7说明还没分完。"
+      "explanation": "在有余数的除法中，余数一定比除数小。因为 $7 > 6$，所以余数不可能是7。验算：$7 \\div 6 = 1 \\dots 1$，如果余数是7说明还没分完。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/881017fec762ff2ebf93716a6992b54fa0713b9a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07743a7ed3493ea4a5c42c7a2abdfb7cbc681976.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "计算有余数的除法时，余数一定要比除数小。",
       "options": [],
       "answer": "对",
-      "explanation": "这是有余数除法计算的基本原则：余数 < 除数。"
+      "explanation": "这是有余数除法计算的基本原则：余数 < 除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d21372ffb243de84b344d9087ac3e89624a54831.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/4974bcbf91b3bb481568b1dd30048eb33b3d8b75.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "1"
       ],
       "answer": "4",
-      "explanation": "余数必须比除数小。除数是5，比5小的数字有4, 3, 2, 1, 0。最大的余数是4。验算：$4 < 5$。"
+      "explanation": "余数必须比除数小。除数是5，比5小的数字有4, 3, 2, 1, 0。最大的余数是4。验算：$4 < 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f42be3849f70c79ccb52431e1a8aeea994d4acc0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/908fc2cf9863d05c10e63b2bef44c2b94eee6c8e.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "25 ÷ 8"
       ],
       "answer": "25 ÷ 8",
-      "explanation": "A：$11 \\div 3 = 3 \\dots 2$；B：$15 \\div 4 = 3 \\dots 3$；C：$20 \\div 6 = 3 \\dots 2$；D：$25 \\div 8 = 3 \\dots 1$。1最小。"
+      "explanation": "A：$11 \\div 3 = 3 \\dots 2$；B：$15 \\div 4 = 3 \\dots 3$；C：$20 \\div 6 = 3 \\dots 2$；D：$25 \\div 8 = 3 \\dots 1$。1最小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dd620ee54de8a4f94811744d576aad66c0e69be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bc985fdd2798c5cb4b2e7625c841248fed5acbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d800834ae71bd8a4ca701f9b5d99802f24f7d122.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8f3d4eea62c790e21aed365ba243f1e541fb832.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bbe59de6154fba62ebe8a157630e53d21598052.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/0438c0fdca78a4361bcac98e1439d2e05fa14c46.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "商7余2"
       ],
       "answer": "商7余1",
-      "explanation": "$29 \\div 4 = 7 \\dots 1$。验算：$4 \\times 7 + 1 = 29$。"
+      "explanation": "$29 \\div 4 = 7 \\dots 1$。验算：$4 \\times 7 + 1 = 29$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d9ab6da8b0d4db523606fcd3b93fd36c36d9762.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b986430bb86d6528a912447fa4c037a6e2d3d2cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89e135ac3c7e911a788282d41f48eeb661017159.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc057959d21cafcd82f582fe066b0f4277cf7bca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b492aa8a700617fc045023864a36aea3b3c98fbb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/007c738f2ea61a6f0dbd35b9d7440d612c94bf0a.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "10"
       ],
       "answer": "7",
-      "explanation": "根据余数一定比除数小，除数是8，余数只能在0-7之间。选项中只有7符合。"
+      "explanation": "根据余数一定比除数小，除数是8，余数只能在0-7之间。选项中只有7符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/7623e775d4f137ec6c482c7f880f4c1ed29bcbfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/450cbfed477d7e1d848424b772febf8dc201a1d6.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "在 $\\Box \\div 7 = 4 \\dots \\triangle$ 中，$\\triangle$ 最大时，$\\Box$ 是 ___ 。",
       "options": [],
       "answer": "34",
-      "explanation": "除数是7，余数 $\\triangle$ 最大是6。此时 $\\Box = 7 \\times 4 + 6 = 28 + 6 = 34$。验算：$34 \\div 7 = 4 \\dots 6$。"
+      "explanation": "除数是7，余数 $\\triangle$ 最大是6。此时 $\\Box = 7 \\times 4 + 6 = 28 + 6 = 34$。验算：$34 \\div 7 = 4 \\dots 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6a7460ae1aeecfd58ca53c2b974c8aec29c8383.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d6f6c771122db0a457efe59aab0e6cafe5ea50d.mp3"
+      }
     },
     {
       "id": 22,
@@ -113,7 +165,11 @@
       "question": "计算：$19 \\div 2 = ? \\dots 1$",
       "options": [],
       "answer": "9",
-      "explanation": "$19 \\div 2 = 9 \\dots 1$。验算：$2 \\times 9 + 1 = 18 + 1 = 19$。"
+      "explanation": "$19 \\div 2 = 9 \\dots 1$。验算：$2 \\times 9 + 1 = 18 + 1 = 19$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33d78911b1031fdf9fa4b633d1bd9ecf6325226a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/3561feb23a41b9c2dfd32bb87348441d20a1498f.mp3"
+      }
     },
     {
       "id": 23,
@@ -124,7 +180,11 @@
       "question": "计算：$45 \\div 8 = 5 \\dots ?$",
       "options": [],
       "answer": "5",
-      "explanation": "$45 \\div 8 = 5 \\dots 5$。验算：$8 \\times 5 + 5 = 40 + 5 = 45$。"
+      "explanation": "$45 \\div 8 = 5 \\dots 5$。验算：$8 \\times 5 + 5 = 40 + 5 = 45$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fe1c17c49dd4e919c0461641e1cada732300eb1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c30e104877073ab159b00a732e0095256a2817ff.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -135,6 +195,16 @@
       "计算结果中余数大于除数（如 13÷3=3……4）",
       "在没有给出除数的情况下，错误估计余数的最大可能值"
     ],
-    "tips": "看到除数，立刻想：余数最大只能是除数减1。"
+    "tips": "看到除数，立刻想：余数最大只能是除数减1。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4f/4fea135ff5d122c858d475402f4623d64fe21c62.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/58/58748dbf19723276673de52102773f2817f6fbdc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1f/1fcead2efdb5f9858c8ed26f4e116bfe782ed130.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/63/63aa718ea4ed05010f226f955ace54b9a0fd5188.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e3/e3b9e9bf0f417994a20f4311ecedeaf58654f947.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c2/c222ee26558f845523731d9cb15a67f327a3b6c7.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "月相的变化"
       ],
       "answer": "四季的循环",
-      "explanation": "公转导致四季循环，属于一年的周期特征。"
+      "explanation": "公转导致四季循环，属于一年的周期特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2115f599caa28bd8c5da202553c7a803f7520cd0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f615b183e215e21db1f30f2a80b8092c1699c4c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/979819b5988f3c040c66b36caca66881172d4173.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85e5c6017708e3e58dd508b5c90e7ff8a7f42a6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8879815b98e47a009a9088f5a1c1265389bebc3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64bca5439357ca199c51397225208715940be43f.mp3"
+      }
     }
   ],
   "knowledge": null

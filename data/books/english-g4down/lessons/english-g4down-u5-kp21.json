@@ -20,7 +20,16 @@
         "mine"
       ],
       "answer": "They,are,mine",
-      "explanation": "主语They + 系动词are + 名词性物主代词mine。"
+      "explanation": "主语They + 系动词are + 名词性物主代词mine。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/785ec0be737563ba7780090f04b68f0409faa356.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1050686565a1a0f8462fd08c271578ac9b2067e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca3fd24d45935ac6d4600a40e33dff99ba1d4759.mp3"
+      }
     }
   ],
   "knowledge": null

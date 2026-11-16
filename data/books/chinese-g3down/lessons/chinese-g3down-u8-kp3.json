@@ -16,7 +16,11 @@
       "question": "《漏》这个故事中，“漏”指的是一种非常厉害的怪兽。",
       "options": [],
       "answer": "错",
-      "explanation": "故事中的“漏”指的是房顶漏雨的水，是因为老虎和贼心虚才把它误以为是厉害的怪兽。"
+      "explanation": "故事中的“漏”指的是房顶漏雨的水，是因为老虎和贼心虚才把它误以为是厉害的怪兽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4322bd44b7d29eefb75e9bb849a6e7751a21bc77.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/574c21989b07273d021bc9671441e235270ab2e8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "无法准确理解故事中‘漏’的双重含义",
       "体会不到人物动作描写（如：跳、叹气）背后的性格隐喻"
     ],
-    "tips": "阅读时尝试给自己配音或做动作，分角色扮演最能体会人物性格的幽默感。"
+    "tips": "阅读时尝试给自己配音或做动作，分角色扮演最能体会人物性格的幽默感。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/08/088386164f606786351a5ac336fd6724d8365521.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e9/e9888f52951f9f2a6a300df5e37fde21d777c7f7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/23/232f69d98938823184c1d85a0693e7524d258a7d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c5/c5aca296753ddb8fceb5a604fd1150b2af510f0f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e8/e8acec87a17ac5969d80342b908be1fe091d520d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/78/78c43f798143ae9454a2f8ca8f74398db9953388.mp3"
+      ]
+    }
   }
 }

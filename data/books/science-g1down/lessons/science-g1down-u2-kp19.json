@@ -21,7 +21,17 @@
         "蚂蚁和兔子"
       ],
       "answer": "蚂蚁和兔子",
-      "explanation": "蚂蚁有足，兔子有足；蜗牛是腹足，鱼是鳍，结构不同。"
+      "explanation": "蚂蚁有足，兔子有足；蜗牛是腹足，鱼是鳍，结构不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff2727529fa9b1d84f5daee8ee7fbb4726634cca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f83776f8215358477c96e19391839a4b5adf9b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53c09101e7b0b623de0728cab1f052d29ca5bcf7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd908f4a30e70e169e49f6c2b355e59c5af964e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b41d5ed0c732b2b75feb49d7c217771667445925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb612751d5ef9f9f92dbff0b7feda684b3415f02.mp3"
+      }
     }
   ],
   "knowledge": null

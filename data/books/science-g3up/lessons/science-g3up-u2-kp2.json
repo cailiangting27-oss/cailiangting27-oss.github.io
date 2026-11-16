@@ -16,7 +16,11 @@
       "question": "我们可以很容易地把灌满水的注射器活塞向下压一段距离。",
       "options": [],
       "answer": "错",
-      "explanation": "液体很难被压缩，而空气容易被压缩。"
+      "explanation": "液体很难被压缩，而空气容易被压缩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/462da7347374443c6e87e9e2ff5990ba0484cd20.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3d6d25176472c6dceaf09a80c53ed4d8522053d.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "被压缩后的空气具有弹性。",
       "options": [],
       "answer": "对",
-      "explanation": "空气分子间隙大，压缩后会产生向外的弹力。"
+      "explanation": "空气分子间隙大，压缩后会产生向外的弹力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e2d56f52374970754ce80a883c405359737e669.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd33a01a99f506fffdb6367d83189e2d11596487.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "玻璃杯"
       ],
       "answer": "打气筒",
-      "explanation": "打气筒通过压缩活塞将空气压入轮胎。"
+      "explanation": "打气筒通过压缩活塞将空气压入轮胎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4dde791c1babb6fbd1f5f9c9457412db7ee5d39.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b8873e247825bfda5d5018c26bd63ced07ac4a00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75625a8453c675b4d9beadbadda0d2d2f76c57cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09bd1de46e80cf1a3b0ca7226cbfb894181ef83c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/599a6b04837c7ce73320b59d7c5352419db8f531.mp3"
+      }
     },
     {
       "id": 23,
@@ -54,7 +72,11 @@
       "question": "空气受压后的反弹力量我们称之为（___）。",
       "options": [],
       "answer": "弹性",
-      "explanation": "空气可压缩且具有弹性。"
+      "explanation": "空气可压缩且具有弹性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/697676f80033349a895666c71f612b6c0a42d077.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c548c567e61c40adc6b796aba12da220b83c594.mp3"
+      }
     }
   ],
   "knowledge": null

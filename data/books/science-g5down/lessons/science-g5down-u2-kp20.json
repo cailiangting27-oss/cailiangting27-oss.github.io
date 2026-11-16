@@ -21,7 +21,17 @@
         "更换更轻的船舵"
       ],
       "answer": "增大船体体积",
-      "explanation": "根据排水量原理，体积越大排水量越大，浮力也就越大，从而载重量增加。"
+      "explanation": "根据排水量原理，体积越大排水量越大，浮力也就越大，从而载重量增加。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1167e2297a5ed70ac0f289f86dc06b012156d6f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b13c9c5c17e8b4b8ff613c79260dc5b565d785bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbd2dd33df228cdefd79a8e4bc8c86a0d26a8076.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0d82959d067355ee21b6708d7fa3db555c92601.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dd1dcd4f926ede578ec234175dd2ada1be36e53.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89178174e35e2ce9c980678c870ee7c234c62f31.mp3"
+      }
     }
   ],
   "knowledge": null

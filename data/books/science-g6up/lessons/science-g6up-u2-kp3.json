@@ -16,7 +16,11 @@
       "question": "“地心说”是由波兰天文学家哥白尼提出来的。",
       "options": [],
       "answer": "错",
-      "explanation": "地心说是古希腊天文学家托勒密提出来的，哥白尼提出的是日心说。"
+      "explanation": "地心说是古希腊天文学家托勒密提出来的，哥白尼提出的是日心说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb2e922579693fc9db99e87a1d22fd8bc10702fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3642e12e92b1675bba5f7c5a5398d247349763d6.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "地球是静止不动的"
       ],
       "answer": "太阳是宇宙的中心并静止不动",
-      "explanation": "哥白尼的“日心说”认为太阳是宇宙的中心且静止不动。"
+      "explanation": "哥白尼的“日心说”认为太阳是宇宙的中心且静止不动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1ae695a823e488e83528ffee9c1ace2dc227400.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7a6b6833acf48a210a920fd399d422a59f978f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d4b5d354ad684f40b81de0c67536576aed84c4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23a106b64f02d96ffce23b0d0707db48aae57fa5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c4bad563750e633cf6ebb127f80b5c710212055.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25681a0c94dbc5b289a7b8a62bde27321c7f3387.mp3"
+      }
     },
     {
       "id": 22,
@@ -43,7 +57,11 @@
       "question": "哥白尼提出的（    ）学说，推翻了传统的地球是宇宙中心的观点。",
       "options": [],
       "answer": "日心说",
-      "explanation": "哥白尼通过《天体运行论》系统阐述了日心说。"
+      "explanation": "哥白尼通过《天体运行论》系统阐述了日心说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0546098dce37b846bb154598372195e8eae144f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfb2b126f08c27aa936cf8d3d4416d10614cf7d1.mp3"
+      }
     }
   ],
   "knowledge": null

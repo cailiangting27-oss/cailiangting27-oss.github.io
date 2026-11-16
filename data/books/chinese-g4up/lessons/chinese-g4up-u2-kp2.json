@@ -16,7 +16,11 @@
       "question": "在阅读时，我们应该只针对自己不认识的生字提问，其他问题都不重要。",
       "options": [],
       "answer": "错",
-      "explanation": "提问不仅限于生字，还要针对课文内容、写法及联系生活多角度提问。"
+      "explanation": "提问不仅限于生字，还要针对课文内容、写法及联系生活多角度提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a33fccf255d97c4b4ee0c6461f4af21dc0d17c17.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee8b3f73ef2d840499306eb727da8cf6737e7683.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“课文中为什么要把小豌豆比作小天使？”这是一个关于文章写法的问题。",
       "options": [],
       "answer": "对",
-      "explanation": "这涉及到了作者采用比喻手法的用意，属于文章写法维度的提问。"
+      "explanation": "这涉及到了作者采用比喻手法的用意，属于文章写法维度的提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c63232eb27eaac5d7fcca55c4f813ef2460955b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a43c071eeea18e286baec95025f1d6141cc76e82.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "文章第一段有多少个字？"
       ],
       "answer": "为什么说20世纪是一个呼风唤雨的世纪？",
-      "explanation": "理解“呼风唤雨”的含义和原因能直接触达文章主旨。"
+      "explanation": "理解“呼风唤雨”的含义和原因能直接触达文章主旨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74bd250343b08c536766218d3f6806262076745a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/577f39e588fa02104ae09419ba0c83216a68d3eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccf8aaa6b17ef16b8c2ae61b077d5defafcaea71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9b77596506188996ab1fbe4902b4726ceb97d5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d866a6fb633058485ef862e211df682efea1a84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e3e2047d2172aff394e62009fd87246b862966a.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "青鸟和麻雀属于什么科类？"
       ],
       "answer": "蝴蝶在雨天真的没地方躲避吗？",
-      "explanation": "直接针对课文所描述的寻找蝴蝶避雨所处的“课文内容”发问。"
+      "explanation": "直接针对课文所描述的寻找蝴蝶避雨所处的“课文内容”发问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c26076be9a78cf67278b143617e56883fd155b62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8abfbab3a7572d9efc42bcb35d14e8839b03d194.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41b0389470e14866d65e09b1dc3915508ee540e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be1ef26a59a0bc12355898d345d1e7ebefd77772.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9960250c160dee49c8e21a96252aafc788a4d479.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/525e4bdce4a055662000c37c16762cbc0f43f752.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "把所有问题都当成同等重要，平均分配精力",
       "分不清什么是“写法”问题，什么是“内容”问题"
     ],
-    "tips": "问问自己：‘如果我不解决这个问题，我能读懂这篇文章吗？’如果能，那就是次要问题。"
+    "tips": "问问自己：‘如果我不解决这个问题，我能读懂这篇文章吗？’如果能，那就是次要问题。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/69/69631da27df8776fb37ef75d091170e9b1b2c546.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0b0354939971fb349abb0a6f3a5000c3bc2ca268.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6f/6f77dabd0f5b5d7b4f2c7aff19674034641eddbf.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9e/9e93b6303ca2ea3c03f36607bd067e517a38af2f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/39/3991df1a722b2cf3fcf542945fe25d32f3c7fb14.mp3",
+        "https://api.clthuanxie.cn/cc-audio/88/880c178348fe826713090d848527d643d7434aa0.mp3"
+      ]
+    }
   }
 }

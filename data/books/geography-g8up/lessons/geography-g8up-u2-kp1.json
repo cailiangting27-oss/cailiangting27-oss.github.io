@@ -21,7 +21,15 @@
         "太阳能"
       ],
       "answer": "煤炭",
-      "explanation": "煤炭不可再生。"
+      "explanation": "煤炭不可再生。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/efc54b00a7042b512c9598fd13fc142d7102d1f3.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/7a/7a4e4ea687f372366e711ecf94a46671bdf5dd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35678d505f99409fedf402a12f83426ecdbd3e58.mp3"
+        ]
+      }
     },
     {
       "id": 4,

@@ -25,7 +25,21 @@
         "查阅"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "look up查阅，tell a story讲故事，go cycling骑行，ice-skate滑冰。"
+      "explanation": "look up查阅，tell a story讲故事，go cycling骑行，ice-skate滑冰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6026022427f050110d17e31ecf9052c9bdbdef3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/198925bb2ce61088d602bca376b4120ea0be88c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70861e49ee538f1a1e53dd7840b19c414899f77e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2ddf76cd154d983282632e753807cb5244a962b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32a17e4a42e230d8b04952f35a39d068a3743655.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce08aac92c6a3191dc861535b95d8833e75497bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ddd80a6396198f6972f2ebded327720e350abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c43ac52cc0404b1df99790714e0e7acdc766a3c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7743df6b788eb991bcf667a361d61573c8434e02.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdc73c6fa7532d17c6e31a6a3639b0b4dd42d70f.mp3"
+      }
     }
   ],
   "knowledge": null

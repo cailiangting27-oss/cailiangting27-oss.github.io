@@ -21,7 +21,17 @@
         "police officer"
       ],
       "answer": "doctor",
-      "explanation": "医生(doctor)负责救治病人。"
+      "explanation": "医生(doctor)负责救治病人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6436ddc2260a4af938806a87728e126ed5dc9315.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3fb353b512fe99f95471024daee0959a22905d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0160076c9f42a157f0a8f0dcc68e02ff69045b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eec7121ebf641c6e938d95dca3f1fa2a86010126.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f7cde31037682fc0427d033eacc1e4004dc7a82.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0bbf7fb83d5586dd0f75914127c60ea87ebde1f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "随机分成若干类"
       ],
       "answer": "分成两个对立的类别",
-      "explanation": "二歧分类法是确定一个标准，将生物分为有此特征和无此特征的两类。"
+      "explanation": "二歧分类法是确定一个标准，将生物分为有此特征和无此特征的两类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9eda3505f6ba892d9388080e16c129a8b9af2ef9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc2aad7acf9c438bfd2010d02ec4e23372084757.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ce5a8c9697efff7c39cc9b2160f89ce8721c407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d89369d15bd5c2ea6b8442dabd63853dfd29569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/999025fbba9d3e9d7bc1dbc482fcc4d58c73d1d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98e228bb5983bf2f4109efbc1b2cb829492e3f5f.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "在使用二歧分类法将4种不同的生物完全区分开，最少需要进行（ ）级分类。",
       "options": [],
       "answer": "2",
-      "explanation": "第一级分2组，第二级每组再分2个，即可区分出4个物种。"
+      "explanation": "第一级分2组，第二级每组再分2个，即可区分出4个物种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c7c7fc783303e951844692d5acd87505a4d25e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77d1793374793779718c0998635e568d1d0e8c62.mp3"
+      }
     },
     {
       "id": 22,
@@ -43,7 +57,11 @@
       "question": "确定一个标准，将事物分为两类，再确定标准，直到分完为止，这种方法叫（ ）。",
       "options": [],
       "answer": "二歧分类法",
-      "explanation": "二歧分类法是科学分类的基础方法。"
+      "explanation": "二歧分类法是科学分类的基础方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24d2e31b80108e85b1d2cb06d30753ff5d8c992c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73af3932d498a6f8e564e8594351e899a73dc63a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "分类标准不明确",
       "同一级使用了多个分类标准"
     ],
-    "tips": "标准必须是客观的形态特征，如“是否有毛”。"
+    "tips": "标准必须是客观的形态特征，如“是否有毛”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/03/03cf7a0f7218e84529059237b67ea51c6036204a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/62/6297fd191b4e6d2cf9ea8f4d06507b6f797c86b7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/22/2247f50898d5187ea3f065ae86e7c6f4af25d192.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/68/6835b2e4695d211eb0162959a493539fa48ed94e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/01a3a0ffc71a6c58d3b6a22092cb2b2b13d7c591.mp3",
+        "https://api.clthuanxie.cn/cc-audio/be/be5d9608999a64d80f2d435a6acdb5003f2249bc.mp3"
+      ]
+    }
   }
 }

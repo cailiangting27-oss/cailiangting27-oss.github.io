@@ -22,7 +22,18 @@
         "悠闲地"
       ],
       "answer": "小鱼,在水里,摇着,尾巴,悠闲地",
-      "explanation": "主+状+谓+宾的句式。"
+      "explanation": "主+状+谓+宾的句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c65821cddfbc612719d39f10391e4d20a552974.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/560a1e8b7b5f0730e99749476dc9c6db07f1f586.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ec6d0ba4a91832b27c930f74e59478137427cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a178090a63e99ef3cd8dce1dc972f895c70f23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec956ee317eb46a2834b1a53d6e36048e8f73911.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28cc4c445ba9c77f7d76451d94f15d35ef492e05.mp3"
+      }
     },
     {
       "id": 23,
@@ -39,7 +50,18 @@
         "医生"
       ],
       "answer": "七星瓢虫,真是,一位,了不起的,医生",
-      "explanation": "按感叹句的逻辑顺序排列。"
+      "explanation": "按感叹句的逻辑顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd5792e6fbf59e66241721af7a828be5118d5a48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c21c6b3f505e484d70cd978a2f7168e2db27ed56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f41a6778657758a82825e8936c6e54ea6725c689.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa12604ca675aeb7e8b00c026883f4182a2a03b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d76510ebca9057086f11b9f1a0dfce263b4cca73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/552caeb5bd540dc59cae5b73aa6b2a55a2c6f3b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/491f1074cc1a81a2e63836f4925c7af21aa141aa.mp3"
+      }
     }
   ],
   "knowledge": null

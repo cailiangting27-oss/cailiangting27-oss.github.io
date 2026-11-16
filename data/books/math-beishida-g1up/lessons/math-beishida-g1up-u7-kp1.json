@@ -21,7 +21,17 @@
         "6"
       ],
       "answer": "5",
-      "explanation": "15 = 10 + 5。"
+      "explanation": "15 = 10 + 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32cda1873460dce087622700733d8683458e7c56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f61fe1a508f1d6b9dc297c3f312d3855825d0e70.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "十几都是由 1 个十和几个一组成的。",
       "options": [],
       "answer": "对",
-      "explanation": "十位是 1。"
+      "explanation": "十位是 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8cf2bc2b2354f35a852cb7735bac2b8c97633e60.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/258fa98655dea44125f9e15561ae664b95b843cd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "把 15 读成「一五」。"
     ],
-    "tips": "先读十位再读个位。"
+    "tips": "先读十位再读个位。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/63/63210aa79202a0afb3b6b99fc6d22f33f164bc76.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e0/e078db3f2be5afa8b6d8114275beff4022b144bf.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5d/5de8c2c812ab561939734039f8fda249e908a132.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/20/205b8839de2a269909ec34dd1d1e6b58bf3b0199.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/da/dad6b336517c3d71f25f7810c86eccbe7509a9f6.mp3"
+      ]
+    }
   }
 }

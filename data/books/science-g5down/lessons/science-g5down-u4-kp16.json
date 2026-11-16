@@ -21,7 +21,17 @@
         "变成结冰"
       ],
       "answer": "立即停止",
-      "explanation": "沸腾需要持续吸热，撤掉热源后无法吸热，沸腾停止。"
+      "explanation": "沸腾需要持续吸热，撤掉热源后无法吸热，沸腾停止。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf66a568a3afba6081effc2ac3e0379d1ad54fb1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a70d6c07dc9d27b0ab9be03f7dd6d8ac63ef308.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf185ba1cb3c9bdcf82eb7a46e675aa31180c8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b311b0679411cb2ec44660aea268fd8057c88809.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e6c9f307770fe4aeaafec6334d41c15827a89d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a27ff0455dcf22de809041d0c62a9ffda328e83e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "I'm six."
       ],
       "answer": "Nice to meet you.",
-      "explanation": "初次见面或是被介绍认识时常用Nice to meet you。"
+      "explanation": "初次见面或是被介绍认识时常用Nice to meet you。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/fffd4596047690da715939e91b8a2cd024300c0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d169800f36090dec66d66dac922ddf6d2f636c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64753c6fe019c4dad6292319d4387ea91bd3cee9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df30dbf1ec13717f3a423d886ad8309778bf45f9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0ff4263ace4ab6fe91dcaf37a4fb8abe5ac8c38.mp3"
+      }
     }
   ],
   "knowledge": null

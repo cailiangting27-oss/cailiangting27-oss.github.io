@@ -22,7 +22,18 @@
         "麦子"
       ],
       "answer": "小马,驮着,半袋,口袋,麦子",
-      "explanation": "按照主谓宾顺序排列。"
+      "explanation": "按照主谓宾顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49f9307e57c487c8ffb6419d451d4af5f00d0915.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9ba15d846139ded3ffa3aac766f7b753496e015e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f34fc965462927b49cf5ebaba933a9bfa96b773.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/737960744348e79799b56d800f193a4b0ba4ac01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e375f03f4a6625082587ad848bfc2a2676d7af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1dc1ed17a00f5fe3760e9deb136fe36eb1ac657.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfc00a3307d929d28baf89700c2a720f5cf55ebe.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "'take a trip' 的意思是'去探险'。",
       "options": [],
       "answer": "错",
-      "explanation": "take a trip 的意思是去旅行。"
+      "explanation": "take a trip 的意思是去旅行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf0a2b282277788c53431f8f752b6ed0d08dced6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/647b02d86b16deffd9e7965526d09dffd47399d6.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "postcard"
       ],
       "answer": "comic book",
-      "explanation": "comic book意为漫画书。"
+      "explanation": "comic book意为漫画书。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b79cb5f4bf4fe06534393ece92d8faa845fa6305.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e4863ebf6abe77ee14bedee241d64c1af53211e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f18bfb74e613afb11f36bdd80cf05cd5dfad98d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be3440a4ff53e55df138479bd4bdc5cb22e99bf1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a5a9cecabd7476b9d2cfe2d0204968a9bce3861.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef947d293b18a0c546f7742da3277206dfbb087d.mp3"
+      }
     }
   ],
   "knowledge": null

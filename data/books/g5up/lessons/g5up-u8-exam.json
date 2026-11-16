@@ -16,7 +16,11 @@
       "question": "$2.5 \times 4 = 10$",
       "options": [],
       "answer": "对",
-      "explanation": "$2.5 \times 4 = 10$。计算正确。"
+      "explanation": "$2.5 \times 4 = 10$。计算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea77547af55818805cdd462cb09732afc4a46163.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e596fb15f56fed8117c0c4b45bb3316d48b85d7c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "等底等高的两个三角形面积相等。",
       "options": [],
       "answer": "对",
-      "explanation": "三角形面积 $S = ah \times 0.5$，字母相同，面积必相等。"
+      "explanation": "三角形面积 $S = ah \times 0.5$，字母相同，面积必相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e48f8a8a4b0bdd277e5f27c7e7dbf0453ebd32a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc140b336b5d6e410ed01939a0850ad0bd3bd504.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "无限小数一定比有限小数大。",
       "options": [],
       "answer": "错",
-      "explanation": "例如无限小数 $0.111...$ 小于有限小数 $0.2$。"
+      "explanation": "例如无限小数 $0.111...$ 小于有限小数 $0.2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/7720239bd92b539cd76c047d5b2e3fcd861b1f9b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdd9bfe9de9e900e1b02ca6e35c86e2471941d4d.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "直角三角形的面积等于两条直角边长度相乘所得积的一半。",
       "options": [],
       "answer": "对",
-      "explanation": "直角三角形中一条直角边为底，另一条即为高，符合公式。"
+      "explanation": "直角三角形中一条直角边为底，另一条即为高，符合公式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14a45a970b0e09c8cb48fe93bd2c779aacf0415e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d03161e31fa5489d67a5cb9d949b139125517434.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "48"
       ],
       "answer": "12",
-      "explanation": "三角形面积是平行四边形的一半。$6 \times 4 \times 0.5 = 12$。"
+      "explanation": "三角形面积是平行四边形的一半。$6 \times 4 \times 0.5 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c354b1edcc0180d33fd494a10ff0762c3a4d02d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edfb48010c7a7fbc51cf1addfcd19cbe175d7ed6.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "$x \times 5$"
       ],
       "answer": "$x+5$",
-      "explanation": "求总数用加法，即 $x+5$。"
+      "explanation": "求总数用加法，即 $x+5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2f30b764b7866da0e8abb6a62a341f2d54b9df2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87e9f9eb8f39820b3b8cd2c4b06e10d90e0d3b44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58d816f86a2154dcd2fb48197dd9f48c852823db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57b7a1e24a2c30f83eef0b443b7a511d5e2455b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08be8c2cfa58f5e691d0f2694018166042443bea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d2a849f5d29100dff7471146009b899bdc0d004.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "无法判断"
       ],
       "answer": "不变",
-      "explanation": "上底加下底的和 $(a+3)+(b-3) = a+b$，和不变，所以面积不变。"
+      "explanation": "上底加下底的和 $(a+3)+(b-3) = a+b$，和不变，所以面积不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8ff1bf00428749f7555e6833fc68c90856b542a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40c092a3c3a2c7a61a1ae191eb32b25f981c7dd1.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "41"
       ],
       "answer": "21",
-      "explanation": "由 $2x=10$ 得 $x=5$。代入 $4 \times 5 + 1 = 21$。"
+      "explanation": "由 $2x=10$ 得 $x=5$。代入 $4 \times 5 + 1 = 21$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f0f35866c1b505c6d62c087ea75c352c831f0f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/761f22b2c1593d0bb87e0b606f990ba4974706de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f4f50a44a9156f901749f281e5156f80370bcb1.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "12"
       ],
       "answer": "8",
-      "explanation": "$48 \times 2 \times 12 = 8$。验算：$12 \times 8 \times 0.5 = 48$。"
+      "explanation": "$48 \times 2 \times 12 = 8$。验算：$12 \times 8 \times 0.5 = 48$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d196d3609d3da3184d8d89d646fd1ff1eccba8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/041163897412e91ea82f4ce8a0b553f2ce667a1a.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "$(a-5) \times 3$"
       ],
       "answer": "$3a-5$",
-      "explanation": "甲数的 3 倍是 $3a$，少 5 即减去 5。"
+      "explanation": "甲数的 3 倍是 $3a$，少 5 即减去 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb0ef185d2c6beed88ef0aff6fe967656f17cd70.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/3110777018e9a543d265836be16b8621e15cd3ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf2983fefb556fe6e5d8fb9a956c44c8555d013d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff7dd4d62c0d302ed7008bbed6fdd01b6be5017e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b544bda7231aa98667c9283cabda63c7dfe4fb0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45e5b9cf3d77e201a0b32098310dc2d736a7e96f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "$ab$"
       ],
       "answer": "$(a+b)h \times 0.5$",
-      "explanation": "梯形面积等于（上底+下底）乘高除以 2。"
+      "explanation": "梯形面积等于（上底+下底）乘高除以 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/7188c458c0b1eec7914c95e1b5007d083455e2ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a415efa0470822d0e6d97f1b4edec7e6a706c7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/153d3647814a46a7a4ea56e1d8fc29c08f2a95be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/240bfe3fdd219a0b6c518d4ffad94aa85611c44a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef870ce9fefe09b80a97b05a7b9198414c1b35f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca6a28f2fd07546321a489e65b3df89e074ac022.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "220"
       ],
       "answer": "50",
-      "explanation": "设梨树 $x$ 棵。$2x + 20 = 120$，$2x = 100$，$x = 50$。验算：$50 \times 2 + 20 = 120$。"
+      "explanation": "设梨树 $x$ 棵。$2x + 20 = 120$，$2x = 100$，$x = 50$。验算：$50 \times 2 + 20 = 120$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5235950655243714a87d180206073ac0720b254.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09d66f6e5482d9b0ba91815c350fd9af3770819b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f37062d9a65543a46f2ba13299ba77a370a1c4eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d735dc9e4c8bf713aa7ea7af1175f2c4f6c269e.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "如果 $x = 8$，那么 $2x + 4 = $ ___。",
       "options": [],
       "answer": "20",
-      "explanation": "$2 \times 8 + 4 = 16 + 4 = 20$。验算：$20 - 4 = 16$，$16 \times 2 = 8$ ✓。"
+      "explanation": "$2 \times 8 + 4 = 16 + 4 = 20$。验算：$20 - 4 = 16$，$16 \times 2 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8c6339a5e220b324d27bdbd492423d2b589b392.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e69aeabfc1a7c84ae20046e4ec746f6300029132.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "要把 15.5 千克的油分装在容量为 2 千克的瓶子里，至少需要 ___ 个瓶子。",
       "options": [],
       "answer": "8",
-      "explanation": "$15.5 \times 2 = 7.75$，因为是装油，最后剩下的也需要一个瓶子，进一法取 8。验算：$7 \times 2 = 14 < 15.5$ ✓。"
+      "explanation": "$15.5 \times 2 = 7.75$，因为是装油，最后剩下的也需要一个瓶子，进一法取 8。验算：$7 \times 2 = 14 < 15.5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56f835e85b46001d040e9cf595f8f0a3f88ac67e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5622f7a6320daf823d60d8e19ca1c604fd5fefea.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$1.2 \times 5 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$1.2 \times 5 = 6$。验算：$6 \times 5 = 1.2$ ✓。"
+      "explanation": "$1.2 \times 5 = 6$。验算：$6 \times 5 = 1.2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07fa974181d50f602bf4585771c5b14361c4ae27.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70807615c5babe0d19a0f5a009a61253bba34f93.mp3"
+      }
     }
   ],
   "knowledge": null

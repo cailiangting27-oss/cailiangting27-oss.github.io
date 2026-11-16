@@ -16,7 +16,11 @@
       "question": "___ do you go to Canada? By plane.",
       "options": [],
       "answer": "how",
-      "explanation": "询问方式用how。"
+      "explanation": "询问方式用how。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0b7b4eef1f609b21b98fc99a7d5339b102b897.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac20fb1b3afe61ad1eae48966795cba9f1fa7037.mp3"
+      }
     }
   ],
   "knowledge": null

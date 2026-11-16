@@ -16,7 +16,11 @@
       "question": "电路检测器可以用来检测家用电视机的电路故障。",
       "options": [],
       "answer": "错",
-      "explanation": "自制电路检测器只能检测简单直流电路，严禁检测交流电电器。"
+      "explanation": "自制电路检测器只能检测简单直流电路，严禁检测交流电电器。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d098540eeed97b0f3cf724fb170962b11bf4179.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6efbbe0dbe803d1c7b4ee1ad794fcadc5566bbf.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "电路连接是否松动"
       ],
       "answer": "电路连接是否松动",
-      "explanation": "排查故障应遵循从易到难的原则，先检查连接。"
+      "explanation": "排查故障应遵循从易到难的原则，先检查连接。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e2fe9aa271f213f033f3c720099979815f53791.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8afe11ce2f7cae0e996fe80ea18613c9d779a3a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b5330a86b3bdbce12204e5d08f2d3c4b199c58e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/742c7a23a970ccd4bebd24355a716895a0257ef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eefb8a9e348058ce9182a079693b3783f80e8b9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fc27a99f41e165ff5e810d52e07f835d7fed852.mp3"
+      }
     }
   ],
   "knowledge": null

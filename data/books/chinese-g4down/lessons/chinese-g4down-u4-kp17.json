@@ -22,7 +22,18 @@
         "实在"
       ],
       "answer": "猫的,性格,实在,这种,古怪",
-      "explanation": "出自《猫》的首句，调整为规范陈述句。"
+      "explanation": "出自《猫》的首句，调整为规范陈述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d15ac3da2d0ba07c053cac2ef5a97d695efe92c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb4c6948a82dd8b163fb7816c238ca9ffc03f677.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5800fc9643884b50f30b019548a48b1ec3d192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/492e0da98664ab06f32df508ed7fa541cc500af3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53bba7e319a51ae39409cd1433de6ef39fcc109e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fb123139b6c69fbb2120ed51ed117ff642464e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56b5ee86558aa326e443bb6c6f3dc0ff87d4adb7.mp3"
+      }
     }
   ],
   "knowledge": null

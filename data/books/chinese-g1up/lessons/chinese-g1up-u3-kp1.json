@@ -16,7 +16,11 @@
       "question": "字母 'a' 是单韵母中的一个。",
       "options": [],
       "answer": "对",
-      "explanation": "汉语拼音中有6个单韵母：a, o, e, i, u, ü。"
+      "explanation": "汉语拼音中有6个单韵母：a, o, e, i, u, ü。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60260c265cbf337660eed5de2f44a1f7fb2cd6b0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4412b59e8bbeb6fbbe5559e38ad185998db13fa.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "韵母 'o' 的第二声读音就像我们在马路上遇到熟人打招呼时的 '哦'。",
       "options": [],
       "answer": "对",
-      "explanation": "o的二声向上扬，发音类似于惊讶或打招呼的'ó'。"
+      "explanation": "o的二声向上扬，发音类似于惊讶或打招呼的'ó'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a72ac70753869f0673539846c47499614504403.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a7b4001b832c964223eb4ffba63d12d6cf3d5fb.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "给单韵母 'i' 标声调的时候，需要把上面的小点去掉。",
       "options": [],
       "answer": "对",
-      "explanation": "标调规则规定，i标调要去点。"
+      "explanation": "标调规则规定，i标调要去点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23088293fa7e6a72faa32375c0dcd4ad72538e24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7d7a83abc6f8211489df3b748819ba15f393214.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "u"
       ],
       "answer": "e",
-      "explanation": "鹅的读音对应单韵母e。"
+      "explanation": "鹅的读音对应单韵母e。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb61f8b06516d0d24ffc78292a91c5a738d3b058.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a81af3e591ac713f81ea1efe93dcf36157d8376.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e6b3a414a1e090dfc6029add0f3555ccba127f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51e69892ab49df85c6230ccc57f8e1d1606caccc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea162d8578de8765fa1119b91f55c58aa6dd4616.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,11 @@
         "ǎ à ā á"
       ],
       "answer": "ā á ǎ à",
-      "explanation": "声调顺序为一声平，二声扬，三声拐弯，四声降。"
+      "explanation": "声调顺序为一声平，二声扬，三声拐弯，四声降。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae084c6b5bc57ec2b6d87e8027d6341be0897b3c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f602ba52f79f226e266417102596377c2baed5c4.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +112,17 @@
         "i"
       ],
       "answer": "a",
-      "explanation": "发a音时张大嘴巴。"
+      "explanation": "发a音时张大嘴巴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83003627bdd398b0775770bc1b383f72ade32e20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a81af3e591ac713f81ea1efe93dcf36157d8376.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e6b3a414a1e090dfc6029add0f3555ccba127f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042dc4512fa3d391c5170cf3aa61e6a638f84342.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffaa384a79128b3234be4e98500c88614fde38be.mp3"
+      }
     },
     {
       "id": 14,
@@ -102,7 +138,17 @@
         "u"
       ],
       "answer": "o",
-      "explanation": "o的形状像个圆。"
+      "explanation": "o的形状像个圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58fb61625bd17f9fa84cf326a98440cf4e4be083.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a81af3e591ac713f81ea1efe93dcf36157d8376.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e6b3a414a1e090dfc6029add0f3555ccba127f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51e69892ab49df85c6230ccc57f8e1d1606caccc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cf14a7029575bd695d24d6f036d95e4a0e10a3c.mp3"
+      }
     },
     {
       "id": 15,
@@ -118,7 +164,17 @@
         "o"
       ],
       "answer": "u",
-      "explanation": "乌鸦的'乌'发单韵母u的音。"
+      "explanation": "乌鸦的'乌'发单韵母u的音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6eadc80071d629a06662d96f55e07aaaa20ffff1.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/51/51e69892ab49df85c6230ccc57f8e1d1606caccc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042dc4512fa3d391c5170cf3aa61e6a638f84342.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a81af3e591ac713f81ea1efe93dcf36157d8376.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b3d4360821b3b2702728ca016c2d7977eaf3858.mp3"
+      }
     },
     {
       "id": 17,
@@ -129,7 +185,11 @@
       "question": "单韵母 a, o, ( ____ ), i, u, ü，括号里应该填哪个字母？",
       "options": [],
       "answer": "e",
-      "explanation": "单韵母的顺序通常是a o e i u ü。"
+      "explanation": "单韵母的顺序通常是a o e i u ü。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/831bb976f4329285945fc910e3bbeb854e4a3ba9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36df0344274f3d18cbe39ba7c94a9297528d2c6d.mp3"
+      }
     },
     {
       "id": 20,
@@ -149,7 +209,21 @@
         "wǔ"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "a-ā yí, i-yī fu, u-wǔ, ü-yú。"
+      "explanation": "a-ā yí, i-yī fu, u-wǔ, ü-yú。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af00f92f1baca40cf154d2eeba56a7291553ff8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042dc4512fa3d391c5170cf3aa61e6a638f84342.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51e69892ab49df85c6230ccc57f8e1d1606caccc.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/23/233a9476a48db96c5b35dde5ee624daa33648306.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b823bb745b7e127828596e708d63540c3fb005a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06e02e373a359e502ea5d29e92e02170061453f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e36c46877d7e7aaba5e32c57aeb4a1950e063ec7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef063688a075c774913056241aef1202bf5fa5f5.mp3"
+      }
     },
     {
       "id": 23,
@@ -165,7 +239,17 @@
         "o"
       ],
       "answer": "a,o,e,i",
-      "explanation": "单韵母的标准顺序是a, o, e, i, u, ü。"
+      "explanation": "单韵母的标准顺序是a, o, e, i, u, ü。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1ca3bf394e416700fd83d6047f9d1fca467eb0ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e6b3a414a1e090dfc6029add0f3555ccba127f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042dc4512fa3d391c5170cf3aa61e6a638f84342.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a81af3e591ac713f81ea1efe93dcf36157d8376.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94c88d09aa584c13bcfbf72ed478d950a19207f2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -176,6 +260,16 @@
       "标调符号方向写反（尤其是二声和四声混淆）",
       "字母i标调时忘记去掉上面的点"
     ],
-    "tips": "通过口型记忆：张大嘴巴aaa，圆圆嘴巴ooo，扁扁嘴巴eee。"
+    "tips": "通过口型记忆：张大嘴巴aaa，圆圆嘴巴ooo，扁扁嘴巴eee。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/de/decee43d4975d3a0d162cd179492247a0114e5ab.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7b/7bd3970d13836fa687220b4e642fe73707b01e17.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b5/b5a8474b179dcad5768116a351eaeacd12f0d1b8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c2/c2404aa050fa77d929bd676b88066ff8fd9e4e19.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0a/0a9eaeac69fd98bd0982d521ea35435c8eb0e038.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5a6124f6af02a641d105f2ff06306aa6f2de738b.mp3"
+      ]
+    }
   }
 }

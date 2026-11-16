@@ -21,7 +21,17 @@
         "不传递"
       ],
       "answer": "向两端传递",
-      "explanation": "热在固体中会从受热处（高温）向未受热处（低温）各个方向传递。"
+      "explanation": "热在固体中会从受热处（高温）向未受热处（低温）各个方向传递。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/818c9fa510b3bd0881f2bf4a4a6d6da9b5e23a57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f4cabeb8f07829c35280648739f24790b2f55f4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0d2150bbbe27683d57ba0d345943314f9abc241.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8acc7b5e7a47ac0d287085317b92f98abeb58fb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae54314894d84748f14625f45cb1f550bc17f52e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4f089f296f892c058185aedf33fb31a68b9cabc.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "木头能产生热量"
       ],
       "answer": "铁棒是热的良导体，能迅速传走手上的热",
-      "explanation": "铁导热快，在相同时间内从手上带走的热量更多。"
+      "explanation": "铁导热快，在相同时间内从手上带走的热量更多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63f31b242cf867cec24e452ec35dbd6d7ffd84b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53ebb7fed52512de9fcb7906ff3758f0f73362bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/414be6e503865a1e59935cd2fb9cd3087f0f2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c15198ca30dbb5841defe25af8b17445572c35d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38d3931f7a6d2c927a35cb208cee8afe3caeb275.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0525ae429e4e69eebcad8ca6bb25ca725cda43a.mp3"
+      }
     }
   ],
   "knowledge": null

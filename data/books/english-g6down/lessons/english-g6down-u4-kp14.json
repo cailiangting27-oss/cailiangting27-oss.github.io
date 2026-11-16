@@ -21,7 +21,17 @@
         "am"
       ],
       "answer": "am",
-      "explanation": "Now描述现在，I后面的人称代词用am。"
+      "explanation": "Now描述现在，I后面的人称代词用am。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbc4c9bb471e06935f9ab80d03f23dfcfda2c325.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a9746c59bc756f4d87911ec349bd0d72a66e653.mp3"
+      }
     }
   ],
   "knowledge": null

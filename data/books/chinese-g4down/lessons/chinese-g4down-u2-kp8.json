@@ -21,7 +21,17 @@
         "作者不知道确切的时间"
       ],
       "answer": "“大约”体现了科学说明文的准确性",
-      "explanation": "说明文语言要求准确，时间是根据考古推算的，不能完全肯定。"
+      "explanation": "说明文语言要求准确，时间是根据考古推算的，不能完全肯定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d16af0b3bfffb6c98b3850ba5a233f8dc0183c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f7ffd79a88de6011591a10d7a3ec80eb105bdad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/221c1174774addaff9b7cb3e6caa45b91aa3c929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f563bd34de0c993436c153a915b7957e416c7778.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6bd6e1b25d29d52aa202009599e2dcfc8fcd583.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed8ee978aaf6c78700ba4407b0a31cfe6c9101df.mp3"
+      }
     }
   ],
   "knowledge": null

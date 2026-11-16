@@ -21,7 +21,17 @@
         "奇怪的"
       ],
       "answer": "自然生成的",
-      "explanation": "天然指自然界本身就有的，非人工制造。"
+      "explanation": "天然指自然界本身就有的，非人工制造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/7073fa2a7cab70519c7d4ae7f3370a8d34f3e1ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59c9f17e312d6d2900c0e263c10b858a46e98529.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a8ede59388ffbbe854d045a231e3036fa75500a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/807b7109373a2ad43e5184673d1a300796b67211.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d77acf0f5923ec52837372be987310d21e103afe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/879da5e2543f169663a827363fae42532e30ffd2.mp3"
+      }
     }
   ],
   "knowledge": null

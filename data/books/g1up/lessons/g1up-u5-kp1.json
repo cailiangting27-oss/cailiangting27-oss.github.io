@@ -16,7 +16,11 @@
       "question": "在 6，7，8，9，10 这五个数中，最小的一个数是 6。",
       "options": [],
       "answer": "对",
-      "explanation": "在数序中，按从小到大的顺序排是6,7,8,9,10。排在最前面的6最小。验算：6 < 7 < 8 < 9 < 10。"
+      "explanation": "在数序中，按从小到大的顺序排是6,7,8,9,10。排在最前面的6最小。验算：6 < 7 < 8 < 9 < 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c063db811244395632ce1ff966fbf9d1bfa764c7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/2705a98b4e7d1f53d188175f05d6286a01518e6b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "把 10 个苹果分成两堆，如果一边放 4 个，另一边应该放 5 个。",
       "options": [],
       "answer": "错",
-      "explanation": "根据10的组成，10可以分成4和6。验算：$4 + 5 = 9$，不等于10。"
+      "explanation": "根据10的组成，10可以分成4和6。验算：$4 + 5 = 9$，不等于10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8df7d858ce7e5e01e9296ee1386198a54ee7802d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c66e659005b4a5f4aff89a16132146ce0b0f302d.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "5 和 6"
       ],
       "answer": "7 和 9",
-      "explanation": "相邻数是指比当前数小1和多1的数。$8 - 1 = 7$，$8 + 1 = 9$。因此是7和9。"
+      "explanation": "相邻数是指比当前数小1和多1的数。$8 - 1 = 7$，$8 + 1 = 9$。因此是7和9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/517562f4f959fc410499581ee3314ca724d2ad22.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e75f4afaf528849d284cdbcf2634002278423f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c15916fc32403f10b57d5482d0bd184759704e3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23fc179b9db854a29d8cd77d265ed4cc3fe65577.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99ed5d04fa2e760fc0f805f21b500c288c0baf51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc4ef7a54f9bb7dfee86851412ffdf19a23535f6.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "6"
       ],
       "answer": "5",
-      "explanation": "根据9的组成，9可以分成4和5。验算：$4 + 5 = 9$ ✓。"
+      "explanation": "根据9的组成，9可以分成4和5。验算：$4 + 5 = 9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45bd42653d337b11026f963ab1f0f097a06d3f4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc2d58d683f1222b2f6a0899f5214dbfe63c5bb3.mp3"
+      }
     },
     {
       "id": 8,
@@ -75,7 +103,11 @@
         "+"
       ],
       "answer": "<",
-      "explanation": "在数序中7排在10的前面，所以 7 小于 10。"
+      "explanation": "在数序中7排在10的前面，所以 7 小于 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f471154512b329448d96de83cd9ebfedfe6dd237.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6b5bcfe378cc60d6a49e19c6db2752fc7c83de8.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +123,17 @@
         "9"
       ],
       "answer": "8",
-      "explanation": "第7个数是7，它后面紧跟着的数是8。"
+      "explanation": "第7个数是7，它后面紧跟着的数是8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/2662f5ec4023a7cf9fe4075b5d905d88c6194cfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57d17b0f3fc5d8785b21640631fc2bd878c875a2.mp3"
+      }
     },
     {
       "id": 16,
@@ -107,7 +149,17 @@
         "11"
       ],
       "answer": "9",
-      "explanation": "在数序 8, 9, 10 中，9 刚好在 8 和 10 之间。"
+      "explanation": "在数序 8, 9, 10 中，9 刚好在 8 和 10 之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d1db8bb515a7cf11b6dd3c4cfc51c175dcf3029.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd11bab89af111613fe2ec6c082b904c845710f5.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +170,11 @@
       "question": "10 可以分成 2 和 ___。",
       "options": [],
       "answer": "8",
-      "explanation": "根据10的组成，2和8合成10。验算：$2 + 8 = 10$ ✓。"
+      "explanation": "根据10的组成，2和8合成10。验算：$2 + 8 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c16ea0c7eb88d75a46037db9a578389c2d3b84a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70afa345a33fcfd896d35876826a1cb350237a72.mp3"
+      }
     },
     {
       "id": 20,
@@ -129,7 +185,11 @@
       "question": "7 后面紧邻的一个数是 ___。",
       "options": [],
       "answer": "8",
-      "explanation": "按数序排，7之后是8。验算：$7 + 1 = 8$ ✓。"
+      "explanation": "按数序排，7之后是8。验算：$7 + 1 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cfaabe2ef579fa01473fbb2e234704fa219b7db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76a9142a07620d054877feb7d4429ba1ee32ecda.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +200,16 @@
       "容易混淆“几”和“第几”，例如把第7个数当成总共7个。",
       "在写数字8或9时笔顺错误，或者在写10时漏掉0。"
     ],
-    "tips": "可以通过手指操来记忆10的组成，比如伸出双手，弯下一根手指剩下九根，就是1和9组成10。"
+    "tips": "可以通过手指操来记忆10的组成，比如伸出双手，弯下一根手指剩下九根，就是1和9组成10。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/24/24e95d837c61b61842494fc52b2c98442bae619f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/37/3795bba29bab16b7d4e3083e15a6633d0e3504fe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/10/10074bf59333161db4ed405e21f5d7c93770ee34.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ce/ce8dbaa06a5778cbdc30b2b28ba46758056c7458.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b8/b8a5b6bb63d7636a636379dbebb35c5f2fd69544.mp3",
+        "https://api.clthuanxie.cn/cc-audio/66/6627db2ef9cb71e307ff22abb5723fedfde8a879.mp3"
+      ]
+    }
   }
 }

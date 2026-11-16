@@ -21,7 +21,17 @@
         "突兀的"
       ],
       "answer": "清新的",
-      "explanation": "清新通常用来形容空气，指新鲜。宽阔形容空间，狭窄形容通道。"
+      "explanation": "清新通常用来形容空气，指新鲜。宽阔形容空间，狭窄形容通道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e753824d561ef8fe8461b6646ce6f89a3c6087b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5d359ae2e01b26ef5470951df1191c8c3ccccf59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48b888c2338f81c59ac396da04a0da38331ea6b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d24844a1bec2ae672b40d21ad8ce8bc353e08e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f67b2e679743379aa2275eaa397096316d2c060f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94eb334cb303a67b1bba1a72a13a2479ab4c2f81.mp3"
+      }
     }
   ],
   "knowledge": null

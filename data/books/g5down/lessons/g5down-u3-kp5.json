@@ -16,7 +16,11 @@
       "question": "计算一个木箱的容积，通常要从木箱的外面测量其数据。",
       "options": [],
       "answer": "错",
-      "explanation": "计算容积需要测量容器内部的数据，因为容器壁本身有厚度。"
+      "explanation": "计算容积需要测量容器内部的数据，因为容器壁本身有厚度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14587b2608cddf793e4f3c774cc406a2912396fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f26867b4678143b3d47e74a4c7d5779c3ad4703.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "立方分米"
       ],
       "answer": "毫升",
-      "explanation": "日常矿泉水瓶规格通常为 500 毫升（mL）。"
+      "explanation": "日常矿泉水瓶规格通常为 500 毫升（mL）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66450282918a4eeb48967e3284a4ab58d6fcb405.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c0378767fa7840891ae176127803182df84e9db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9011ac3e3b583a27fd0225bdb2a577592ddb9a7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698ebe4e73da3731585ce0c2332c53a9798d2950.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6e1b68f452b3d04f283dee566dc779e21d44de0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/1090bcb4189d01c4c54cdb9de7c4844920b1b52e.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "500"
       ],
       "answer": "250",
-      "explanation": "$750 - 500 = 250$ 毫升，因为 $1$ 毫升 = $1$ 立方厘米，所以体积为 250。"
+      "explanation": "$750 - 500 = 250$ 毫升，因为 $1$ 毫升 = $1$ 立方厘米，所以体积为 250。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/456b17006d79ccaa7ffd2d5f87feb20feedea917.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/ba30fd97b4127db56e9f4d3d9c030d71646fd2e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67de6a669490f0e6bf9d405ba4c66a2cd17cc2ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/404c735f21d00fee39a13210d54844f3cec069c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6adb26f98eac758899a5adbda0a09ee6b0a07e8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "计算容积时用了外部测量数据",
       "混淆1升水等于1立方厘米（实为1立方分米）"
     ],
-    "tips": "排水法计算秘籍：物体的体积 = 放入后高度 - 放入前高度 × 底面积。"
+    "tips": "排水法计算秘籍：物体的体积 = 放入后高度 - 放入前高度 × 底面积。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a6/a64d1354b377223af1a3d5909091c5791d033882.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ec/eceee7f43f91425e18c63835076b98357a7fcab3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/08/085cd4f3f413f3c081f13868ec4d7453aea28a5a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f445707e139ed26f4b1de2c173da108b9c15cd7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6cb7eeda9cacdb56c524425fac9596ac8d6700d9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a6/a6288632bbe450d5bfc2a357e10d05e55964d311.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "观察日记只能用文字记录，不可以记录心情或想法。",
       "options": [],
       "answer": "错",
-      "explanation": "观察日记既可以记录事物的变化，也可以记录观察者当时的心情、感受或联想。"
+      "explanation": "观察日记既可以记录事物的变化，也可以记录观察者当时的心情、感受或联想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a79eb6601f5de5f9d543e5e8eb9e1f7d64fcd88.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b614471faaa51a7720955adbf5b7fbb40cfa912a.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "昨天的午饭"
       ],
       "answer": "植物的高度和颜色",
-      "explanation": "观察日记应侧重于观察对象的关键形态特征变化。"
+      "explanation": "观察日记应侧重于观察对象的关键形态特征变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6eeaf7ba0b75c238ebb2bd72d29c064c3bdb7196.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/247b0347b9d0ecaefc68f87a0732977820772933.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f463c34e1a23aa4ae965fcc3aaf45ec95c1b69b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0999c718b55de03c9974bde112a471724af6cafc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91a9117b3ef2527cac9bb2c8a702442d57b0c3c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/caf501cdfbc0d2642e6da7752e536ba3ac701e9d.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "天气的科学原理"
       ],
       "answer": "观察时的心情和发现",
-      "explanation": "加入主观感受和意外发现能使日记更生动、具有思考深度。"
+      "explanation": "加入主观感受和意外发现能使日记更生动、具有思考深度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c48e22e2b18906bddc5a2ce23318b58c02492362.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/145d2b7cf1b18906b1fff275b24c79e6a0f359fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/702c9b8a59f0a61c40e7aa7db6e84b9597fb532d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a209978e95a1c2ab29814ad55783e33dbb6fcb16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f295344b7fda87bdeddf96291ddb2f5816f2eeb3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75ade5fa5ac214976b3b718d0db6caddd40df41d.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "在观察种子发芽时，记录发芽天数和生长高度最清晰的格式是（___）格式。",
       "options": [],
       "answer": "表格",
-      "explanation": "统计类数据用表格记录最为直观。也可接受“统计表”。"
+      "explanation": "统计类数据用表格记录最为直观。也可接受“统计表”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c20d3b89e523952204028b4f0e54bbbf4688d56a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ea5f070bf9af43e84b6f5cb04b7912dd2cd85e6.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +103,17 @@
         "变化过程"
       ],
       "answer": "时间,天气,观察对象,变化过程",
-      "explanation": "这是标准的观察日记开头和核心内容排列习惯。"
+      "explanation": "这是标准的观察日记开头和核心内容排列习惯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79b29b594393a55e4152ca718cfd694c2d17b1a5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6055fe4b903c404afd700cc2079db661f7bd3a49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7028e4f6335ecd847d4ec19eb4ee79f0a42ba74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3c8564df0c34669070d5956b79b8a14414fb9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f65dc8cbda1eb18103faba1e0828995a92738e3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "漏写标题或日期、天气等关键基础信息。",
       "写成了‘流水账’，每天的内容都雷同，体现不出事物的演变。"
     ],
-    "tips": "推荐使用‘对比法’，每篇日记都问自己一个问题：‘它今天最大的不同点在哪里？’抓住这个点深入写。"
+    "tips": "推荐使用‘对比法’，每篇日记都问自己一个问题：‘它今天最大的不同点在哪里？’抓住这个点深入写。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/db/db16173f96529225cd992cf2dce52c8ce48a3432.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b0/b01c2e6d7a8be619ddf9c3a8959ccea9a44fbe9b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e5/e5c867309aba962b260516828f697365a51fcdf0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1b/1b277c97f6777f74da073be7ceeea09e3c42f6b3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c8/c882b3e6a80254ef3e8b8ea0d52f70e9db3230a5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b2/b2cfb9c6ddd3840a3e93fc79b310db05edd068a4.mp3"
+      ]
+    }
   }
 }

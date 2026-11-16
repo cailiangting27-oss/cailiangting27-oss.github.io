@@ -16,7 +16,11 @@
       "question": "植物的生长只需要阳光，不需要水分。",
       "options": [],
       "answer": "错",
-      "explanation": "植物生长需要水分、阳光、空气等多种条件。"
+      "explanation": "植物生长需要水分、阳光、空气等多种条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d35912738a9e8b38fde0dbeb9e4f758442bbfe77.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52373e44e498f5c479e058b2f34a8a523c044a5c.mp3"
+      }
     }
   ],
   "knowledge": null

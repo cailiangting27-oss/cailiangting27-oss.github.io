@@ -21,7 +21,17 @@
         "倒数着数"
       ],
       "answer": "按顺序地数",
-      "explanation": "按顺序才不漏。"
+      "explanation": "按顺序才不漏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31b966884380c28117cd34933c53d52e9eb490ec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b8cd0460580eb8b63ef3c30b0fe3c2d7b993d75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2664fbfa14b071794bd410ee71c71828f9a1328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff140f80bf4d019c38d53900d44dd1cf9c5fb7ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f8cb1ab88e6166d35cddadccc556b3892a73a31.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/147393dfd164029d68b0b500551492b7ab9e95c0.mp3"
+      }
     },
     {
       "id": 2,
@@ -32,7 +42,11 @@
       "question": "数数时不能重复也不能遗漏。",
       "options": [],
       "answer": "对",
-      "explanation": "一一对应。"
+      "explanation": "一一对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25df47605e843ba0003c1192acf297bb5accd32b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e258f58ef8993564cac53ceda5bedede36150aca.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "数数时漏数或重复数。"
     ],
-    "tips": "数一个划掉一个。"
+    "tips": "数一个划掉一个。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f4/f4d500a3e08bde97b39c37d2401318edd5a785f4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e6/e606fc7db5c7898303192c82c93e5d333d6b78ca.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/63/6304f8e0631c7f31c7849ad42f534897a469e282.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d5/d53894d35d4a26b59a5e2954a1d3a18ef4729dce.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/16/160ba1e002798f7fd782059311a3caca8b10a409.mp3"
+      ]
+    }
   }
 }

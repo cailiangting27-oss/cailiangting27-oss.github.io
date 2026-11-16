@@ -16,7 +16,11 @@
       "question": "1 既不是质数，也不是合数。",
       "options": [],
       "answer": "对",
-      "explanation": "质数要求有2个因数，合数要求有3个及以上因数。1只有1个因数，所以既不是质数也不是合数。"
+      "explanation": "质数要求有2个因数，合数要求有3个及以上因数。1只有1个因数，所以既不是质数也不是合数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2125080dc3518d3877ea631acbca7b3c24f95f7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25528aa4bd6d6f5518881050f9917cc54cbc5183.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "6 个"
       ],
       "answer": "4 个",
-      "explanation": "1-10中的质数有2, 3, 5, 7，共4个。"
+      "explanation": "1-10中的质数有2, 3, 5, 7，共4个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/290968c8ea8735ffe7607c544c31785b209bcb18.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bed45c3a16ef12b9c55dacb854e7560e75d5751e.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "31"
       ],
       "answer": "27",
-      "explanation": "27除了1和27，还有因数3和9，所以是合数。17, 23, 31都是质数。"
+      "explanation": "27除了1和27，还有因数3和9，所以是合数。17, 23, 31都是质数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2ffd56ab67bbaf96285ba378077045b974ae9074.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d435a6cdd786300dff204ee7c2ef942d3e9034e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/632667547e7cd3e0466547863e1207a8c0c0c549.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df0a008770706a8d4b4c78b8082f25b8c54fa7cc.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "奇数"
       ],
       "answer": "合数",
-      "explanation": "两个质数的积至少有1、这两个质数本身及积本身四个因数，故为合数。如 $2 \times 3 = 6$。"
+      "explanation": "两个质数的积至少有1、这两个质数本身及积本身四个因数，故为合数。如 $2 \times 3 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10efc866445c8432e58c910dcda22d8ee46f9064.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/679d7eff6858c52780fb1d7c7f06c73c51c7ee25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d177a1e5c98b742250e4a1d666fa10be60eb19b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3685ea6fafc1ce1c020e07780eb0d38a851195c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf1d841bd73c073fc85797a454d30cdc83e1763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d5182e7756ea9761548b3b253b98585e8802fd8.mp3"
+      }
     },
     {
       "id": 18,
@@ -80,7 +114,17 @@
         "100"
       ],
       "answer": "46",
-      "explanation": "两个数之和为奇数，必为一奇一偶。质数中唯一的偶数是2，故另一个质数是 $25-2=23$。积为 $2 \times 23 = 46$。"
+      "explanation": "两个数之和为奇数，必为一奇一偶。质数中唯一的偶数是2，故另一个质数是 $25-2=23$。积为 $2 \times 23 = 46$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06d3a61a390502e8ae58b91018099d871a7a174d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2ef495a1152561572949784c16bf23abb28057.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7a94858f9f74971e0939e4f4b66082faab8985b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "误以为 1 是质数",
       "误以为所有奇数都是质数（如 9, 15 是合数）"
     ],
-    "tips": "熟记 20 以内的质数：2, 3, 5, 7, 11, 13, 17, 19。"
+    "tips": "熟记 20 以内的质数：2, 3, 5, 7, 11, 13, 17, 19。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/32/32486966a0ff624774c7b3bb5f5fc6a80f981007.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c22a99335467dcb22244f0b8a5debbc5932cb1b6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c9/c968fef519f99ffaf408bda14b466932a80a364b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/cf/cff10515436ecb0dbb9faf1d0e7853db5911e8e2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/29/29fd603260ce3fb97f1aca702b7011dfedb48286.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ec/ecc5e0df3ba8a9969c3848cdb0213bbf0f808174.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "looking"
       ],
       "answer": "looked",
-      "explanation": "but之后是现在时，对比之下前面描述过去的样子。"
+      "explanation": "but之后是现在时，对比之下前面描述过去的样子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d967bf97c55ec79ff2b829ed6bc8219f5a98278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/449d83a43fb8f44703b6233399d95013a4f778c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd31334d1aa966c45547a2b98c41fd0fedf2ddce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dac3990e1a41fe7053d5bcb15792547525cccde5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5d5c13a903eade0f13ac0de6a4d3ce2d2a2ad10.mp3"
+      }
     }
   ],
   "knowledge": null

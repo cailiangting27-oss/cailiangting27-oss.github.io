@@ -16,7 +16,11 @@
       "question": "端午节人们吃粽子，据说是为了纪念伟大的诗人屈原。",
       "options": [],
       "answer": "对",
-      "explanation": "端午节吃粽子、赛龙舟等习俗都是为了纪念爱国诗人屈原。"
+      "explanation": "端午节吃粽子、赛龙舟等习俗都是为了纪念爱国诗人屈原。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afa44fe256ca61db06a662284fcc90d0b747998b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/feb34b36cdc922804d2bca101cd2e76676724c13.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "吃月饼"
       ],
       "answer": "吃月饼",
-      "explanation": "吃月饼是中秋节的习俗，不是端午节的。"
+      "explanation": "吃月饼是中秋节的习俗，不是端午节的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80653c70021b99c2bd8ca2088fc444be9a1f3442.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d648c62443f9c8882353eddee9ba78711fffc0fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc1d77c38ed1863c175e75245089c8636118f832.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bb6f41324d24871b5d63b8e70995d31fa5afb55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf757a57db985710fd507ff28d3b8b3c7e5c9232.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb7f8b882dc3d1392f2e84a1fee28cf4fc2e61f4.mp3"
+      }
     },
     {
       "id": 23,
@@ -50,7 +64,19 @@
         "每年"
       ],
       "answer": "每年,端午节,外婆,都要,包,粽子",
-      "explanation": "考查时间状语在句首的表达方式。"
+      "explanation": "考查时间状语在句首的表达方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23b25708c75382599c05fc23519b7a7eaae35178.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e754b8ef226bc18c7e26a25e56e2ce2f2b634648.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c32e50da6e6a16709c20ec11dcb3dd0f04bcc56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c7137356d57276cf845b9f40b1ce7740dcb3ac7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be459e0eca779929391ff4c761c501d6d12343ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e396634c6ced0074b335fc1c9d69ea61d228359.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a9ee561f9345e0cde756d13503067d316b1b14d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d00cd2e2c009a2ec9db75ecea4b59490c3ce7cf6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -61,6 +87,16 @@
       "混淆端午节和中秋节（吃月饼）的习俗",
       "分不清农历（阴历）和阳历（公历）的日期"
     ],
-    "tips": "通过节气歌或节日歌谣来记忆，联想家里的生活习惯更容易记住。"
+    "tips": "通过节气歌或节日歌谣来记忆，联想家里的生活习惯更容易记住。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4b/4b2b9e98014caf8bdda1b4cb45f1ec23a82c6b6c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/34/348ac77582ee41b8f2f2d8565862d3dcffbf86ef.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b3/b353e53572dcfe07dbb5f3605536f6d003cd1faa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/62/62f82951439e727732f6d408ae195a56469e5227.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d2/d21d83c00923efcf16762ff83bb8cd96a0a2c682.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1e/1e25c73860b85636e74a3388511abe8bcd9e5a8a.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "凶猛的小鸟"
       ],
       "answer": "可爱的小鸟",
-      "explanation": "作者对这只小鸟充满了喜爱之情。"
+      "explanation": "作者对这只小鸟充满了喜爱之情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aed5f1469cc71b4aa4e2c4ec8f3917b2a258d2be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66d943131cc4219f666785072b308aceb2c14349.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e49a40d38213ee22763fd2911b8ded184d9edd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28950d7414883778fcbea8c8d2228a6b6ff8ca90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e75983d0913ae9fdc6c8dcb811f05d0350bc31d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc574215d5a6e7089138b43037d66bdeab9f01e3.mp3"
+      }
     }
   ],
   "knowledge": null

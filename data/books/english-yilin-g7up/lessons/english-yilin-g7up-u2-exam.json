@@ -21,7 +21,15 @@
         "runn"
       ],
       "answer": "running",
-      "explanation": "双写 n。"
+      "explanation": "双写 n。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c49d9cc3c0c83421a1cfb921cdd4aa35dc1ba5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d3933874d353e85c81bb5afb56808a631df4748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,

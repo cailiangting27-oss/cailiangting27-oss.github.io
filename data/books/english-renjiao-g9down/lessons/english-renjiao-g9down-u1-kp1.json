@@ -21,7 +21,15 @@
         "am losing"
       ],
       "answer": "have lost",
-      "explanation": "丢失造成现在结果。"
+      "explanation": "丢失造成现在结果。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/20/2010281d5053cc58bfd1e227e18c25a20f335f33.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

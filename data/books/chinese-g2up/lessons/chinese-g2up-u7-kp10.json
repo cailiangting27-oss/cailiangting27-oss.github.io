@@ -25,7 +25,21 @@
         "云端"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "根据词语意思和课文惯用表达进行搭配。"
+      "explanation": "根据词语意思和课文惯用表达进行搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8640307435afaf7dcb422d829cefa477f57fc278.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad902be0e52cbaf166f4719e4741e8e8c949984e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e58ebd55ac8b8edadefdf231db0f89a5ed7f457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66d42bd46b024782427a22c6ab9a650913ed304.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c9590fe646d90fb93b7bf111918a2b08861c37e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344dbf436e5a7b9781d70e19b1ce1df4e0a92138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b736fce03f87c30137627f3aef02d396822ddf2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f595cb1020c6acbd8c0790cbbab7293147f7ef6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/565481c9bea6d3518858b144ba4cb8b9af42f089.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74049ff2c117844d4257336e6add25cb58d83c26.mp3"
+      }
     }
   ],
   "knowledge": null

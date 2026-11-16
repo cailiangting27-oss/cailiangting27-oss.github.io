@@ -16,7 +16,11 @@
       "question": "吉法师共有 6 根琴弦，其中 1 号弦最细，其发出的声音频率最高。那么 6 号弦（最粗）在单位时间内振动的次数比 1 号弦要（数字填 0 表示相同，填 1 表示少，填 2 表示多）：",
       "options": [],
       "answer": "1",
-      "explanation": "粗弦振动慢，单位时间内振动次数少。此处逻辑选1为少。"
+      "explanation": "粗弦振动慢，单位时间内振动次数少。此处逻辑选1为少。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4987a9c91dc1350dda026c5a93c9989e5d02d92.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d58fa8c1acd9d6b29e9ffdab804ffe266aac7a1e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "一个除法算式的被除数是 320，除数是 40，商是 80。",
       "options": [],
       "answer": "错",
-      "explanation": "$320 \times 40 = 8$，不是 80。"
+      "explanation": "$320 \times 40 = 8$，不是 80。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42cf7e4fd4f1b64f39343bce191a2bac2b22c0f6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45c2d12ed4c1ea0fa87938cc968946e949d2174d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "被除数和除数同时乘一个不为 0 的数，商不变。",
       "options": [],
       "answer": "对",
-      "explanation": "商不变性质：$(a \times c) \times (b \times c) = a \times b$。"
+      "explanation": "商不变性质：$(a \times c) \times (b \times c) = a \times b$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/360767bd3c792ef5b19d12a24a05e39178b1ca45.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b097c2bf27101596e9bedf3790ca9a5284a3a06.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$800 \times 25 = (800 \times 4) \times (25 \times 4) = 3200 \times 100 = 32$。",
       "options": [],
       "answer": "对",
-      "explanation": "运用商不变规律，被除数和除数同时乘 4，计算变简便。"
+      "explanation": "运用商不变规律，被除数和除数同时乘 4，计算变简便。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/380233cde9be8e9e77ef6ccc99bdc4c198155298.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b16c565fb855d42f0bca633e53df20ffac0de870.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "估算结果一定比实际结果大。",
       "options": [],
       "answer": "错",
-      "explanation": "估算可能偏大也可能偏小，取决于将数看大还是看小。"
+      "explanation": "估算可能偏大也可能偏小，取决于将数看大还是看小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/9417292d86a6b14f2c135c81eb3e551c32ba82c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e51d8b7f7cbd08025c1d1a57b25cb77b183b43d.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "减 10"
       ],
       "answer": "乘 10",
-      "explanation": "商不变性质要求同时扩大或缩小相同倍数。"
+      "explanation": "商不变性质要求同时扩大或缩小相同倍数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49470ec94d166edb7cc4fa12c1d01002b22f1ffc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e82d74d26bcb58a2d2eaea194a5c0feef6d95a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7927b72971c3b91225da8a1f7a8516b0c87b7d40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06928ff071690b8e6df6f25d588f2b5639a78777.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/152de5b886e4a5fe38ac6ac9c813ef7a5ebd7d3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7fbab9e886b1b854dce1591f87eb25df70dcf09.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "5"
       ],
       "answer": "8",
-      "explanation": "$40 \times 5 = 8$。"
+      "explanation": "$40 \times 5 = 8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24637cdc0fdf752a2b5d0c88feee28442095e633.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/5825716dd8ec273a5af085cb2bd3b2f410fbd589.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "4 \times 1"
       ],
       "answer": "48 \times 12",
-      "explanation": "同时去掉两个 0，商不变。"
+      "explanation": "同时去掉两个 0，商不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/562ad5fde0a5cecef2944cb38d0a1afd61babbbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e91771461ee2890e0e5fc94f507b48e479552e0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec213b91706de73de663413815d72e118dd35b91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/960ce552e4633892ff407adaadb770acfeb1a5d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40bd81084f69b30003f16fe834599a9afbbb15be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/9215179238ff1ce15f2c84e87fd8d144c0c2e6c2.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "50"
       ],
       "answer": "5",
-      "explanation": "$400 \times 80 = 5$。"
+      "explanation": "$400 \times 80 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33c94649c897ffa7fd4ba433a4039b6d39a87b63.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05a0c462771266716493bf870d69e9736eadfa21.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "5"
       ],
       "answer": "10",
-      "explanation": "$20 \times 2 = 40$（被除数变商变），$40 \times 4 = 10$（除数变商反向变）。"
+      "explanation": "$20 \times 2 = 40$（被除数变商变），$40 \times 4 = 10$（除数变商反向变）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebec934bc3200275ccefa688dfefe95421dc1ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb96986583a4a63c9db25bd06e405a7698ff41f0.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "60"
       ],
       "answer": "120",
-      "explanation": "$15 \times 4 \times 2 = 120$。被除数乘 4 使得商乘 4，除数除以 2 使得商乘 2。"
+      "explanation": "$15 \times 4 \times 2 = 120$。被除数乘 4 使得商乘 4，除数除以 2 使得商乘 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c1f4669d97429a58a55ae0f4cdecf50fb7b1981.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0196ec366e4c6cc0b170a3412953156aea0e71b.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "20 \times 3"
       ],
       "answer": "21 \times 3",
-      "explanation": "整十数相除，可以去掉末尾相同个数的 0 简化为一位数除法。"
+      "explanation": "整十数相除，可以去掉末尾相同个数的 0 简化为一位数除法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fc890caccf163e93a7c44521b213ddb55e27c72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d511499b890107ebcc00efb82f71173aa1b2403.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3cae8aa937fd343a16025167759b1ba291c7609c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12b747a0592273ae27a35a6e7a3f2372e192bd48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97578ade22d981a0187f3190634e4a407b1a3185.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd11d200d2c2a69dd0749846b6f937bb2827f4ca.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "无法确定"
       ],
       "answer": "2",
-      "explanation": "商不变，但余数随之缩小。$20 \times 10 = 2$。"
+      "explanation": "商不变，但余数随之缩小。$20 \times 10 = 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8de3cb4f530248a22a9d0b0b0f1b9f707e80a69d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd02f084b16d64a6bb13cb113ef463b41f29e41b.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "王老师带 600 元去买足球，每个足球 35 元，他最多能买 ___ 个足球。",
       "options": [],
       "answer": "17",
-      "explanation": "$600 \times 35 = 17 \times \times 5$。验算：$35 \times 17 + 5 = 595 + 5 = 600$。所以最多买 17 个。"
+      "explanation": "$600 \times 35 = 17 \times \times 5$。验算：$35 \times 17 + 5 = 595 + 5 = 600$。所以最多买 17 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f83041176c3d24c032d733346f502eac3f0d49e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19d94ebf71dd09ebb3991637b558459196dcc56e.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "每层楼梯有 18 级台阶，小红从底楼走到 5 楼，一共走了 ___ 级台阶。",
       "options": [],
       "answer": "72",
-      "explanation": "5 楼距离底楼有 4 层。列式：$18 \times (5-1) = 72$。验算：$72 \times 4 = 18$ ✓。"
+      "explanation": "5 楼距离底楼有 4 层。列式：$18 \times (5-1) = 72$。验算：$72 \times 4 = 18$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27fc079af5080750a12be361d913c9348d6e648e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dcfea6d019d703719d3a904c184c25e05b54c654.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "直接写出结果：$360 \times 40 = ?$",
       "options": [],
       "answer": "9",
-      "explanation": "$360 \times 40 = 9$。验算：$40 \times 9 = 360$ ✓。"
+      "explanation": "$360 \times 40 = 9$。验算：$40 \times 9 = 360$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89a5de5c5f7fc5f9c28682badec69d41735fcf4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5247a046359278dc4e0693fb966c3e78f892c925.mp3"
+      }
     }
   ],
   "knowledge": null

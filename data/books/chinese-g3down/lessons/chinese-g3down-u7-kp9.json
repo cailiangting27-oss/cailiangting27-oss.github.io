@@ -21,7 +21,17 @@
         "凶猛的雨点"
       ],
       "answer": "凶猛的雨点",
-      "explanation": "雨点通常搭配“细小的”或“密集的”，凶猛多用于猛兽。"
+      "explanation": "雨点通常搭配“细小的”或“密集的”，凶猛多用于猛兽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0ec332b3c9284109376883b9226c201c5ca1fea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/636760cd0ed5ebe89740c89071c44aa3f2b74422.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69e7ca42e6b7018e4252b83b243c4c5c7f16ab83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8a761c217a500f288177017fcad6e5063cac7bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8e6e231a8c51e8d450448476f1224f2092fa4f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7590fb9e32c20324f851af58b06318c7b7f1f3b.mp3"
+      }
     }
   ],
   "knowledge": null

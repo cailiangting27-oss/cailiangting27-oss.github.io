@@ -21,7 +21,17 @@
         "ate"
       ],
       "answer": "eating",
-      "explanation": "Look是现在进行时的标志词，需用be + 动词ing。"
+      "explanation": "Look是现在进行时的标志词，需用be + 动词ing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a59ad60f86ecdeef945996646c87fd5c1a41f172.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d89455758ecc0f43a4a9ea5c37e24194722042f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ecb6d30540b330591bc76ba7779a022845b09b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/301577ef5982bf18860c0a0555375d13bdb56974.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189b7ea01f86694bbb0fd98bed73c059692d1656.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0ffed8eb56b9d2fb8ed9823ccdf46c3a627d2fa.mp3"
+      }
     }
   ],
   "knowledge": null

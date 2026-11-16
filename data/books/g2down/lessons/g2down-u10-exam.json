@@ -16,7 +16,11 @@
       "question": "轴对称图形对折后，两边能够完全重合。",
       "options": [],
       "answer": "对",
-      "explanation": "这是轴对称图形的定义特征。"
+      "explanation": "这是轴对称图形的定义特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae8ef673659a4dd65de9bde16982547bbd855c79.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4ff4a42192822a9c37f3528bf888b879ee9365d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$48 \times 6 + 2$ 应该先算除法，再算加法。",
       "options": [],
       "answer": "对",
-      "explanation": "在没有括号的算式中，有除法和加法，先算除法。"
+      "explanation": "在没有括号的算式中，有除法和加法，先算除法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3bdece550326b865cdb70263589b5fd17591d2c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3943507891a2d1c5aee0de153e0a8dfa8ff95d40.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "最小的四位数比最大的三位数大 1。",
       "options": [],
       "answer": "对",
-      "explanation": "最小的四位数是 1000，最大的三位数是 999，$1000 - 999 = 1$。"
+      "explanation": "最小的四位数是 1000，最大的三位数是 999，$1000 - 999 = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d061305b9d6ae4310508acb524e0488763e0ca9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/780704817f52d30f2d0436de0b1a662e83384cd8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "把 15 个苹果分给 3 个小朋友，每人一定分到 5 个。",
       "options": [],
       "answer": "错",
-      "explanation": "没有说明是“平均分”，所以不一定每人 5 个。"
+      "explanation": "没有说明是“平均分”，所以不一定每人 5 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c247fe1120879946f2cb80b06b594e1b6f3619f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56a0a9ff8fa10b973726a4e92417dcb2ef13e33f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "4000"
       ],
       "answer": "4800",
-      "explanation": "末尾的 0 不读。4800 读作四千八百。"
+      "explanation": "末尾的 0 不读。4800 读作四千八百。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce388460de899d552d0b231109a4a7a8f444dfc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/648217e9f07c6883cce281035b7c5f20eea97398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98e9f55262269a05dd4f1ed788626580fdef2e95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5ca8c8552c95526a48c9a4b7db15fa4e86c11f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b2d81c80b94799aeef126f990f48cdb5505bbc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/820063ebc1fa6769a8b2ecb45997f7e781e7a082.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "8 组"
       ],
       "answer": "6 组",
-      "explanation": "总人数：$25 + 23 = 48$（人）；组数：$48 \times 8 = 6$（组）。"
+      "explanation": "总人数：$25 + 23 = 48$（人）；组数：$48 \times 8 = 6$（组）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14e3855eec44388db6e778f661894b8f8f14c886.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e65ed694abb8efb8d725dadd6563b952b3f573f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29b5734577ea64084f7f3f03e1712cb163344419.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/133d0e081416c2bc7c98454f727434662c3923d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cab1b43bceae2ba65d17551781b786613f00140.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03570f856794339d3c3d351cd089694b414eca1d.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "无法比较"
       ],
       "answer": "一样重",
-      "explanation": "1 千克 = 1000 克，所以重量相等。"
+      "explanation": "1 千克 = 1000 克，所以重量相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da77f69009c951ac16a47694ea01bfbdd9e8da22.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47d993778d587fc9a05de9e8eedce3274a93824.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5324c3ed5ebb6b108bf58f72fc079a9846c9499f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/634b186d1196ce996f2f88cfebc3013bdcc372a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4307479abbbe11c9764da7d669438812b170fa75.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "50"
       ],
       "answer": "46",
-      "explanation": "被除数 = 商 $\times$ 除数 + 余数，即 $7 \times 6 + 4 = 42 + 4 = 46$。"
+      "explanation": "被除数 = 商 $\times$ 除数 + 余数，即 $7 \times 6 + 4 = 42 + 4 = 46$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61dd9653d68da698b5881d599299459549f5d2cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92cfceb39d57d914ed8b14d0e37643de0797ae56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2ef495a1152561572949784c16bf23abb28057.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29fefba5a77bb6aa1c635433818a255262d7e1a5.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "$32 \times 5 = 6$（颗）……2（颗）。余数是几，最少就拿走几。"
+      "explanation": "$32 \times 5 = 6$（颗）……2（颗）。余数是几，最少就拿走几。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/049b1e42e4c6cb7642caec35b233e45f7ea4ea15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36ff0846cb979e9ca9f00fe8bc0faa53610d3b79.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "36"
       ],
       "answer": "60",
-      "explanation": "列式：$63 - 27 \times 9 = 63 - 3 = 60$。"
+      "explanation": "列式：$63 - 27 \times 9 = 63 - 3 = 60$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9eaa53ebeaf81e0355d6aed009d4aee8c7f2e47e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/426c8042fdc3f70a22e63cc43c3d4e7e3060a671.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "5 个一"
       ],
       "answer": "5 个百",
-      "explanation": "5 在百位上，所以表示 5 个百。"
+      "explanation": "5 在百位上，所以表示 5 个百。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06a8f1b3f413b850fde91bd59a72c831dddbbc94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb02d91e739d691b06aa9a94e35040bfae2f755b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77dd0e829145c6ec35da8d5a4a9e72a3ed87cb73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d3ac1ff6642bbce92064255089f5975bb9ee734.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18a1fff28164358598b9a27dd1a7e4121bfc8c66.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f0c5e7ed18effc676f9203ed66a3042761e531c.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "24 + 3 = 27"
       ],
       "answer": "24 \times 3 = 8",
-      "explanation": "根据乘法口诀可以写出两道除法算式，$24 \times 3 = 8$ 和 $24 \times 8 = 3$。"
+      "explanation": "根据乘法口诀可以写出两道除法算式，$24 \times 3 = 8$ 和 $24 \times 8 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc8b1eada2ebfe55534a89b0d221a9f2ac9ed44f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6bb43032dea25ccd7d33c4036d84532ae2f3743c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/151ecb6808fbd09d0af1dc111bcbe556dfed74ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aae99313d8fc097f2d3bb15496e8dae196f61528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecea952dd81d5319a0b2ebb17ef053b1010f3683.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cf3ee40f1acd7d3b4535383d7ac8a65336ddfea.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个四位数，它的最高位是 7，十位上是 3，其他数位都是 0，这个数是 ___。",
       "options": [],
       "answer": "7030",
-      "explanation": "千位是 7，十位是 3，其余 0。即 7030。"
+      "explanation": "千位是 7，十位是 3，其余 0。即 7030。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f34b15ff5b8f2f7fff445183e5b1dca6229e5eaf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57786352bbee8c408deec99e907f224d57a132d6.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "45 除以 9 与 4 的和，商是 ___。",
       "options": [],
       "answer": "1",
-      "explanation": "$45 \times (9 + 4)$ 不是此意。应为 $45 \times 9 = 5$，$5 + 4 = 9$。若指 $45 \times (9)$ 则是 5。"
+      "explanation": "$45 \times (9 + 4)$ 不是此意。应为 $45 \times 9 = 5$，$5 + 4 = 9$。若指 $45 \times (9)$ 则是 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64b3c38e22b781854fef2e143a7821e569e005a9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5756634de292d1e54ab6b6d983315cfd216d1d5c.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$800 + 700 = ?$",
       "options": [],
       "answer": "1500",
-      "explanation": "8 个百加 7 个百是 15 个百，即 1500。"
+      "explanation": "8 个百加 7 个百是 15 个百，即 1500。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef7aa0474adb01ad412a2f583d28a13d1f18f034.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da715a2ed60b06b69e05af7cf1b0f0889c032269.mp3"
+      }
     }
   ],
   "knowledge": null

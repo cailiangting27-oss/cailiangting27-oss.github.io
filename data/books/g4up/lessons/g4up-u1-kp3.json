@@ -16,7 +16,11 @@
       "question": "5000000 改写成用“万”作单位的数是 500 万。",
       "options": [],
       "answer": "对",
-      "explanation": "改写成用“万”作单位的数，去掉末尾的4个0，在后面加上一个“万”字。$5000000 = 500$万。"
+      "explanation": "改写成用“万”作单位的数，去掉末尾的4个0，在后面加上一个“万”字。$5000000 = 500$万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fc531890d38296b6d430cc4bdac53176abf7fd1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/603a4803a6fe1bfee456f2301c7f1d141629d09d.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "无法比较"
       ],
       "answer": "239000 < 240000",
-      "explanation": "两个六位数比较，从最高位看起。十万位相同，万位上 $3 < 4$，所以 $239000 < 240000$。"
+      "explanation": "两个六位数比较，从最高位看起。十万位相同，万位上 $3 < 4$，所以 $239000 < 240000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3cd384829bef744d2eac508e285796c91e8f594.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d521dcce6c0bc4f2158bbb59765728a0a705bc1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9155dda3ae40df66d559c93582d838ca57cb8a4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cabfd4634817b7bcde4b4e892d8fe1c4722f3874.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/179776cbd1c654acfd20e0a16c06d7bd732ff794.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "700000000"
       ],
       "answer": "700000000",
-      "explanation": "7个亿说明亿位上是7，后面有8个0。"
+      "explanation": "7个亿说明亿位上是7，后面有8个0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec0cf0e4f72d6042899035fc23225f21ec00e944.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f41f840e61e4acaed373a21c8d286614698f90ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7447b6f976d551d590e99e3fc4d942acfbbb6af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/690abd60a0ac45d12d5bdf933c3bfdfc6f6bd23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d23f27ed48db4b287d49dfd2aa8676a81fbb0ad9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69a37181cb827192010a142b60fe446de28204dd.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "280 万"
       ],
       "answer": "208 万",
-      "explanation": "去掉末尾4个0，加上“万”字。$2080000 = 208$ 万。"
+      "explanation": "去掉末尾4个0，加上“万”字。$2080000 = 208$ 万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1f8b4555a8a0d1e7b1d812a734a4dd705895ad3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/baab34018148392463ef4c49b5a924409cf5f7b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28dbd229dce3713e208fa3805d9c75d8e240ced9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5139e45ef0b599c0a37d102227d9a00f643c1e1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4954c91b0ec7837db4f3c18eeb51594a9ac03be6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb63223c3c5fcfdaa622e9234c2eeae28f7c61b5.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "用 3 个 0 和 3 个 5 组成最小的六位数是 ___ 。",
       "options": [],
       "answer": "500055",
-      "explanation": "最小的数，最高位不能为0，所以首位填5。剩下的数字从小到大排列：0, 0, 0, 5, 5。得到 500055。"
+      "explanation": "最小的数，最高位不能为0，所以首位填5。剩下的数字从小到大排列：0, 0, 0, 5, 5。得到 500055。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac3f25db0144d8b3e966727ba7d58bf393ccb752.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0bbb67d0e9484266b012b74413ee20e0ac872ff6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "改写后忘记写单位“万”或“亿”",
       "位数不同时直接比最高位，导致判断错误"
     ],
-    "tips": "改写时数清4个0（万）或8个0（亿），比较大数要像排队一样先看人数（位数）。"
+    "tips": "改写时数清4个0（万）或8个0（亿），比较大数要像排队一样先看人数（位数）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/005716ce7d31d6f0e2caa3966ffd19bf260a0c2d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c5/c5e006372049f1454f743e6cb0de7347e766c955.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/33d8c6c4be46ff8aa1eeb6d53959c92ce954d1b9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/87431748def333eccd167e02e5991ccee05dbf59.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2a/2a5777dad7b78a2927aa4acde027b354d1630b1d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9f/9f2809712f4b125551e26dd60dd264316e8a17b6.mp3"
+      ]
+    }
   }
 }

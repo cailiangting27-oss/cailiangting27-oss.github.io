@@ -16,7 +16,11 @@
       "question": "从8时30分到9时，中间经过了30分钟。",
       "options": [],
       "answer": "对",
-      "explanation": "计算方法：9时 - 8时30分 = 30分。或者观察钟面，分针从6走到12，走了6大格，共30分钟。"
+      "explanation": "计算方法：9时 - 8时30分 = 30分。或者观察钟面，分针从6走到12，走了6大格，共30分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/120599f4ee0f75d505a372821e82c6853acee138.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a019669a18ce16e3c4550f7c60f7d7df10c281d7.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "90秒"
       ],
       "answer": "1小时30分",
-      "explanation": "结束时间 3:40 - 开始时间 2:10 = 1小时30分钟。"
+      "explanation": "结束时间 3:40 - 开始时间 2:10 = 1小时30分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/296908e840280bc9b497f534cdf740e004add94b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a9a579a96e2f16125e80b37c5c01d1e08d29e2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf23b7ee23db41e4a76b24247b3ee5aeeec1aa8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b37255ca3a909065158b53752e72b181035144aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31c3a9183f5e96c76c9a169d94507cd4f10183e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d9f236860a9892f4e91b70893ae899bd95fdb94.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "2小时30分"
       ],
       "answer": "3小时30分",
-      "explanation": "11时45分 - 8时15分：11-8=3时，45-15=30分。结果为3小时30分。"
+      "explanation": "11时45分 - 8时15分：11-8=3时，45-15=30分。结果为3小时30分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/982b02977905ca2cfa9ee70633357904a1d268d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8bdfc4953bb68957a392d33f5c46037c815c5a79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/300c2461217cd0e9e20c4c728ff361de137fcad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a833d9e81c4215b1a72b1591601c6a96a01903a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0e587b7ee09d21763c8584680c05f13103913c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b77fe10f45a321998fc19432effb107e05aed095.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "10:05"
       ],
       "answer": "9:35",
-      "explanation": "准点时间 9:10 + 晚点时间 25分 = 9:35。"
+      "explanation": "准点时间 9:10 + 晚点时间 25分 = 9:35。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e61403685150b5024c5bc9ee793ab85d3f9fdbc6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/2076dc2197b641e24b351c0dee4acb9f3a47fadd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df3253192a503e3ec88f71076debc40aefabfd0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1b802da3d1136ce84a3c050516875625e92aca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95f897e385ca5bb5112264ff9bd2299db6ccc2f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22d6c26f18837653281c9f0695aa0b67c2661c0c.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "25"
       ],
       "answer": "20",
-      "explanation": "分针走1大格是5分钟。从1到5走了 5-1=4 个大格。$4 \\times 5 = 20$ 分钟。"
+      "explanation": "分针走1大格是5分钟。从1到5走了 5-1=4 个大格。$4 \\times 5 = 20$ 分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd3bd3570214e0edc61e8c341bc0e68b36345115.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78911375c6b68aa4481554a2024d68b604d7d8b5.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "一场排球赛从 19:30 开始，到 21:00 结束，比赛进行了 ___ 分钟。",
       "options": [],
       "answer": "90",
-      "explanation": "21:00 - 19:30 = 1小时30分。1小时 = 60分，60 + 30 = 90分钟。验算：19:30 + 90分 = 21:00 ✓。"
+      "explanation": "21:00 - 19:30 = 1小时30分。1小时 = 60分，60 + 30 = 90分钟。验算：19:30 + 90分 = 21:00 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f0c8a818c0d1006dcf657f5edc2bf297c17cfa7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cefdd1ad22379bddf6cc0230fd9c3bdca5f4b3e.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,11 @@
       "question": "120 - 45 = ?",
       "options": [],
       "answer": "75",
-      "explanation": "$120 - 45 = 75$。验算：$75 + 45 = 120$ ✓。该题对应2分钟减去45秒后的剩余秒数。"
+      "explanation": "$120 - 45 = 75$。验算：$75 + 45 = 120$ ✓。该题对应2分钟减去45秒后的剩余秒数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/541bebdd7ed261a7c9d0191f8272626f25c74c76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b69494d33e098127311c8c811e1439d24db6c78.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "时刻（如8:00）和时间（如8小时）的概念混淆。",
       "在跨小时计算时，直接用大数减小数而忽略了60进制转换。"
     ],
-    "tips": "可以利用画数轴或画钟面的方法，将抽象的时间段可视化。"
+    "tips": "可以利用画数轴或画钟面的方法，将抽象的时间段可视化。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c6/c614d0d4780cb977d9924f1a3d850471aac68f92.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d7/d73b9e8950396e806463eb37bb1dfbe19e5c1976.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d34cb08cedae8634dbc028c7f8f004adedd4ade5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4e/4e6f29b2cb716d3079e2ce83c616198656de8792.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/65/658c4f068525d62a91ab2b03d7c7c367117377fe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fa/faa00871327b495a1c9ac970142da2fa7e7c4e32.mp3"
+      ]
+    }
   }
 }

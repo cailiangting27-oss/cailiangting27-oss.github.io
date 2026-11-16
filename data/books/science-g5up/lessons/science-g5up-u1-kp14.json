@@ -16,7 +16,11 @@
       "question": "医生戴在额头上的额镜利用了光的（___）原理将光汇聚在病人口腔中。",
       "options": [],
       "answer": "反射",
-      "explanation": "额镜是凹面镜，利用光的反射原理将光线汇聚。"
+      "explanation": "额镜是凹面镜，利用光的反射原理将光线汇聚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1af8f3b3c8c41c8dce1e68f3e18b0f51c0db94d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0bd5b9a235fedf92f795298fe673a9f4d2a93d07.mp3"
+      }
     }
   ],
   "knowledge": null

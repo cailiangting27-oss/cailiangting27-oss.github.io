@@ -21,7 +21,17 @@
         "胚乳"
       ],
       "answer": "胚",
-      "explanation": "胚包含胚根、胚芽、胚轴和子叶，是种子的核心生命部分，能发育成新植株。"
+      "explanation": "胚包含胚根、胚芽、胚轴和子叶，是种子的核心生命部分，能发育成新植株。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a61287fad7da6469d08e808b9910cfa55c38637b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21c4c5d9fa9c0381e43894454cc1f57f08ffd507.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74b7461c2a19c82c452b2c3a297c7afc72c3bcc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d2b87c014140c5e4e0dd0a5e06c3201a20f9390.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09098b16b979f5486e56bc94ceb176f9cdb37acc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/870ee5f300e131a460fa4e8ccf6e1fa3a813c92a.mp3"
+      }
     },
     {
       "id": 22,
@@ -32,7 +42,11 @@
       "question": "种子中为胚发育提供营养的部分是（）。",
       "options": [],
       "answer": "子叶",
-      "explanation": "双子叶植物萌发所需的营养储存在子叶中。"
+      "explanation": "双子叶植物萌发所需的营养储存在子叶中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a086815925a6eb63a6fb13eee73089187115499.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d2a09cf8def0a179a57ed1ef4661adfd64c51b0.mp3"
+      }
     }
   ],
   "knowledge": null

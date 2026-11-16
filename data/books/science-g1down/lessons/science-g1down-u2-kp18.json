@@ -21,7 +21,17 @@
         "都会排泄"
       ],
       "answer": "都会叫喊",
-      "explanation": "动物并非都会发出叫声，如鱼、蜗牛等通常不发出声音。"
+      "explanation": "动物并非都会发出叫声，如鱼、蜗牛等通常不发出声音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/570732650d9bbe62bd9ea2c2999530113781d9e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a13188d07b6ac651c5a7ea2133ed57a31498a2e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6588423862a603007fd2a1a3656ef42801c434f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a2f1889fe0f7531474e0bdf600d7525ac8adad3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae07e3e1074df79d336ddf3420f5100ac1e45702.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f94d0574a021674e7ee0df1d707e1d63e709667a.mp3"
+      }
     }
   ],
   "knowledge": null

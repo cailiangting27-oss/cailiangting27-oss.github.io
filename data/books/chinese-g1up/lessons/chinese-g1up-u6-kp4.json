@@ -21,7 +21,17 @@
         "无"
       ],
       "answer": "近",
-      "explanation": "诗句中“远看”对“近听”，“远”和“近”是一对反义词。"
+      "explanation": "诗句中“远看”对“近听”，“远”和“近”是一对反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7078ac0f13d4972e52ba1319dbffe1f8b9e04c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c84172acf3b8a2ac35d124db209dcd1c55c728.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbd5b75066a6dc39a3d486bfbcda44c9b9774a47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72077749f794f21a6478e5677f0603a6daad5158.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7d687944d4039e94ba7044b8364cf2a5c791062.mp3"
+      }
     },
     {
       "id": 21,
@@ -41,7 +51,21 @@
         "少"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "大对小，多对手，上对下，男对女。"
+      "explanation": "大对小，多对手，上对下，男对女。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6234c6c8ad699998a53e16f5428d59fa23e67a8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0889c349726f64ac6a687c91b9cc4b6efb69ad07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/451b1366afa68d537b072c922072340325dde575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51625d909cf361d830ec25e94d9e5a02abb75302.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6caf2effb1c0ddb386ff14e1278c73187b81815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26bc84961cad3b7b144d9a1d8bb45ed245a28b1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa495b65bd804cee37c42a6d429a819bb8f81254.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02829270d27b0a80e191ed0130bd3b88b912bd73.mp3"
+      }
     }
   ],
   "knowledge": null

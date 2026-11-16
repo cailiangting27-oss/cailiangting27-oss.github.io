@@ -25,7 +25,21 @@
         "有人"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "鬻是卖，陷是穿透，或是有人，应是回答。"
+      "explanation": "鬻是卖，陷是穿透，或是有人，应是回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/973c7bef36c4028c330f3e2ffb83757b25d6b6bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51270f19bd7603a671d1cff5880f59e29877e6c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/baf3298273a6ef90709e3e883f182c2aa5eaa91d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f4d7cfe8c3be030bf15c28d622ab91d7e85c2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3480eb01b72059ee26fe0a83ee7e3ea0011a18b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/965eba5f7f967001fcee1d93547e31311f897574.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df45a91413527e7f1e4a76f32882e1a901ab316c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/065b45705084c0ac49d55849c21c5c7489935bd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95102e68e96dee7db668cf59ec6636dfba23e90b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f279c5853d7e6577c4af25a2d5f2fc531ba828e.mp3"
+      }
     }
   ],
   "knowledge": null

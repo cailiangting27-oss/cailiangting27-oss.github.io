@@ -16,7 +16,11 @@
       "question": "______ is your best friend?",
       "options": [],
       "answer": "who",
-      "explanation": "询问人身份用疑问词who。"
+      "explanation": "询问人身份用疑问词who。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/325f4b69f36338f95e37b2f6fe465818a9d8b838.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ae79c592af2b267c3250a5022643d0f2ae69fd4.mp3"
+      }
     }
   ],
   "knowledge": null

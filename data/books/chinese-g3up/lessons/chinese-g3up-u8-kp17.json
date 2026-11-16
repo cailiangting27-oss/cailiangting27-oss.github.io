@@ -21,7 +21,17 @@
         "孩子们都在水里游泳"
       ],
       "answer": "一个孩子爬上大缸，失足掉进水里没顶了",
-      "explanation": "没即淹没，说明水很深，情况危急。"
+      "explanation": "没即淹没，说明水很深，情况危急。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9c0592dbbb30e79d344d47cd6b649d4eef5ba5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0dc6bdd7f7551adb33fc34ff640ef871c4efd74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa0dc3fb9430357c93ead50ccfbf86d7d361f662.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6c063426ecca32bf2cf390eff7a53c50ad16bf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ac0e49f7301ff3e96c57206da3d4cfebb5296.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6eee0ceb5129c3fc5becab4845e6f6709cba647.mp3"
+      }
     }
   ],
   "knowledge": null

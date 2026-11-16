@@ -21,7 +21,17 @@
         "大声"
       ],
       "answer": "静静",
-      "explanation": "“一动也不动”对应“静静”。"
+      "explanation": "“一动也不动”对应“静静”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b0d1e4cbfccb1e7d64dd52bb313c490eccef2f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a22129b0c6b37b9eb9077def566653faf323c5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b82e8bf5238525ab5132bc6bbd564f1af7db37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3e315e8cb0b024b1e91fd9b4de6f1c53bfa01ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a7e09793f0387319425109d46fbf268bbf943af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8e4d4971da26bd0333ebff17a7c702824f9434a.mp3"
+      }
     }
   ],
   "knowledge": null

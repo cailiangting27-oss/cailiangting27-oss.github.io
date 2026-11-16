@@ -21,7 +21,15 @@
         "friendlly"
       ],
       "answer": "friendly",
-      "explanation": "friendly 友好。"
+      "explanation": "friendly 友好。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41209342f36141100dd8dc887e9ab9dae2f71f87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d9209c4598bfbc38b3c096081bee3a09697e939.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,

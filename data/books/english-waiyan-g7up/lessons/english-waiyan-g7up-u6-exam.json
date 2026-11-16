@@ -37,7 +37,15 @@
         "elephants"
       ],
       "answer": "elephant",
-      "explanation": "elephant 大象。"
+      "explanation": "elephant 大象。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae9e4deba26021986ffd99636da6601f6393631.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,
@@ -64,7 +72,15 @@
         "donkey"
       ],
       "answer": "monkey",
-      "explanation": "monkey 猴子。"
+      "explanation": "monkey 猴子。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab87d24bdc7452e55738deb5f868e1f16dea5ace.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

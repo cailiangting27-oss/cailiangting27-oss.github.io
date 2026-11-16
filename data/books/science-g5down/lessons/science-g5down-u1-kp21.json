@@ -21,7 +21,17 @@
         "不确定"
       ],
       "answer": "变高",
-      "explanation": "生物越多，消耗的氧气和养料越多，对水体及空间的要求相应变高。"
+      "explanation": "生物越多，消耗的氧气和养料越多，对水体及空间的要求相应变高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3f33c4f755c73c358bd03da6cb27deb54393344.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/3454d779027ed4ad9e1f69c6bba332dbe9e98f02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/883e0b16150ab2d547c0a686bf3b4be5f01a409b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832378553ee4ac4c03c46e0d3b7f6cc51b9b8871.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4303e74b1a68e1b100dd77bcc37a1bef4fbb6c3.mp3"
+      }
     }
   ],
   "knowledge": null

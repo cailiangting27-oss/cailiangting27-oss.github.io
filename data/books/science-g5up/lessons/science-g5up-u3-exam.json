@@ -16,7 +16,11 @@
       "question": "日晷不仅能在白天计时，也能在有月光的夜晚精确计时。",
       "options": [],
       "answer": "错",
-      "explanation": "日晷必须依靠太阳光，月光光线弱且方位规律不同，不能直接替代太阳光计时。"
+      "explanation": "日晷必须依靠太阳光，月光光线弱且方位规律不同，不能直接替代太阳光计时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b6c4adce58781730970a4dfc3a59af30dd74322.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ead0794aa3d5d067d1dd48c6f4938f35d18e2d7.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "把一个摆长30厘米的摆缩短为15厘米，摆动速度会变快。",
       "options": [],
       "answer": "对",
-      "explanation": "缩小摆长会缩短单摆周期，提升频率。"
+      "explanation": "缩小摆长会缩短单摆周期，提升频率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62c12af0b555be71aee7970832d50b3cd097ad6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04ea32b47073dca36391f6d5cf3c4e6830ad5684.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "石英手表之所以计时准确，是因为石英晶体每秒振动的次数非常稳定。",
       "options": [],
       "answer": "对",
-      "explanation": "石英振荡器的频率极高且稳定，是精准计时的核心。"
+      "explanation": "石英振荡器的频率极高且稳定，是精准计时的核心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d11f962816d429869198a43e40c84d4c35d7e168.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c65ef7d1924ac69e9dd388dc4ced44a7170bb686.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个摆长相同的摆，如果摆锤重量不同，它们摆动的快慢也是相同的。",
       "options": [],
       "answer": "对",
-      "explanation": "摆的周期只取决于摆长，与物体的质量（摆锤重力）无关。"
+      "explanation": "摆的周期只取决于摆长，与物体的质量（摆锤重力）无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6db347a6459aca05e64cd11dc14b16bb20845bff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/daf63eb0bdb1df01234c638d0fdca59973a2d7b5.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "将水柱高度不断提高"
       ],
       "answer": "使用底部较宽且水位恒定的容器",
-      "explanation": "水位恒定是保持流速恒定的前提，配合稳定的容器结构更利于精准计时。"
+      "explanation": "水位恒定是保持流速恒定的前提，配合稳定的容器结构更利于精准计时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7b786b5fe15d11e0cd2a03c1b8fa5afb404cd42.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/9377e4213868877d34283afc53cc1a37cd2eb6f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f2f74a1479e4ba1bec9241cf07a703666e1be6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5823f7e6490c4327ef9410b3c3e07f6c23a2f82e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc3c03c67ceaa13cff1cb20835d046f8031f8ae2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/637c7ba2aca901b4d6178eee253650f00936790b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无法判断"
       ],
       "answer": "12.3秒",
-      "explanation": "科学实验数据通常取平均值以减少偶然误差。"
+      "explanation": "科学实验数据通常取平均值以减少偶然误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f055cfd4005b92632525a24a9e72a2944b5551fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50c82e037e6a7b7943d2abff69a5d28fe1275486.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba7926de7acb7764f8ee1c985f533895b85d0957.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32fce2d80b14b950d9cef27fcc2985ac959c3290.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9569b8fcd11c71db91282821c1a24041765a956.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "太阳能表"
       ],
       "answer": "摆钟",
-      "explanation": "摆钟依靠重锤或发条提供动力，通过摆来控制时间间隔。"
+      "explanation": "摆钟依靠重锤或发条提供动力，通过摆来控制时间间隔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f997decb5b2fb81e366c1a30b59d45bcae32958.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b5ee8dcaae27251092982f82e0a6ae51ae2d2b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f45520cdc6d520edfce889fb18ac2fe94e382b3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00bd8ad32c226281838b0d61422c15b871026e3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/969f179f648d6455f457db1939a8701474fa4d4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0de21efca5aeae25a19ce88b611a1a85f6157f2c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "上下运动"
       ],
       "answer": "逐渐变小",
-      "explanation": "由于空气阻力和摩擦力的存在，摆幅会逐渐衰减直至停止。"
+      "explanation": "由于空气阻力和摩擦力的存在，摆幅会逐渐衰减直至停止。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afc1e733108ff1914f6b6bb32e1fa622be445892.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/7970d36aad8152f4c8f44e22cefa205d9329b6d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb954f1507ffbb2fa3592efd59ffa96a9609156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c99ae1089b327e184d71266184e79ef6a037fcf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cba912faa1abb300b64acb8cd61400372981e98a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/365674db3e2ccfa2b61f123cbd95c192c63d2a16.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "周围的人都在加快节奏"
       ],
       "answer": "主管感知的主观时间偏离了实际时间",
-      "explanation": "心理时间受专注度和情绪影响，但这并不影响客观物理时间的流逝。"
+      "explanation": "心理时间受专注度和情绪影响，但这并不影响客观物理时间的流逝。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3614f7b24337e7898e41fd6a190f1297ffb82134.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2ebce052ea0198a70a9e767e0b866f44e6451a00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4520d699f8ed15404d378b29c0f4c3f40c242458.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49c76e6929569e95615817fb7b8105025ef87730.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2544809cff9c9c033847427a2390baf5fd8aea98.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/573ec0dd57815d1eabeb86af819331a7796650b5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "造价更低"
       ],
       "answer": "不受天气情况影响",
-      "explanation": "机械钟表不依赖阳光或外部水源补给，使用场景更广。"
+      "explanation": "机械钟表不依赖阳光或外部水源补给，使用场景更广。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b77fd9a88d85419357a0b176edb97291d657cdb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61becba4e65a1be0eb4c3071b842824dc9838ad4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b8f5289e824eb1e42500d01c4a6b4336e76e370.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9843f30c4a87529a4a229fa7ba0cef296dba5e59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a69a6d6165b588337fbe75602fc290421b0cef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35fa7f00763a1310f325f061ee1ba94b271d27e5.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "重量的单位"
       ],
       "answer": "时间的单位",
-      "explanation": "分钟是常见的时间度量单位。"
+      "explanation": "分钟是常见的时间度量单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4df4a43cd17272f402aec9877613317e39a8b97.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03b1e7099e532213bb6a9406abe496fd4530542c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/470c84b93bb2325116e5d9450b0f8fa9ca23ca9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b9593c57035e988fcee12bef61b38b3b58a71f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a396d050da0014dd2441242e491d726c8967c638.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3c9939557a84ccbaaefd840385815eedaf185e4.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "计时器坏了"
       ],
       "answer": "没有保持供水容器水位恒定",
-      "explanation": "对于泄水型水钟，水位下降会导致水压降低，流速显著变慢。"
+      "explanation": "对于泄水型水钟，水位下降会导致水压降低，流速显著变慢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/043cc84abdfec33682a00cbc1da3109df73d3cf7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e171639ee5211247b426c9e67daaa6e6784270cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39880235ebf4b37adf167d4bb4c33bca245fa2e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc6030ae67a27a6325d141cd9473c3b4c0c839b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4ef283eb5d1e2c79a1bbdadc2d2b7d220b048f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/419362ca26f20228b6adc65643c736ffd8358657.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "古代的一昼夜被划分为12个时辰，那么一个时辰相当于现在的（___）个小时。",
       "options": [],
       "answer": "2",
-      "explanation": "24小时除以12个时辰，每个时辰为2小时。"
+      "explanation": "24小时除以12个时辰，每个时辰为2小时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/845085414f760a4446d1869f8d9ba09cb73a4200.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49a3aba0927ccd7693cc804c06079f012843babb.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一分钟包含（___）秒。",
       "options": [],
       "answer": "60",
-      "explanation": "时间进率为60制。"
+      "explanation": "时间进率为60制。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c51687b98b252eb9d0d30acf51cf54550758950a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/7824be696bb7fa30dec79b45d09504d8d1f3d417.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "为了解决水流速度不均匀的问题，古人设计了（___）水钟。",
       "options": [],
       "answer": "受水型",
-      "explanation": "受水型水钟通常配有溢水装置保持水位恒定。"
+      "explanation": "受水型水钟通常配有溢水装置保持水位恒定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50ea3ea762d6d1abda73e3c8c207598ee2275e78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6ca7068542556faa11fe6a7a7da6050ed1fbdbd.mp3"
+      }
     }
   ],
   "knowledge": null

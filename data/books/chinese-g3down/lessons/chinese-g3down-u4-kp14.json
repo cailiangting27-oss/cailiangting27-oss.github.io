@@ -25,7 +25,21 @@
         "做实验"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查对文本主体动作的掌握。"
+      "explanation": "考查对文本主体动作的掌握。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08147ad8b878f7e504ad32d91ca7fa89f2f1da53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f033ebd644b4ac1d28ba9553c1c1de6e149b2380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/875b6ed1ab8af58eb5c58c634f554cbebf42f6c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e55d42fe6396f0b6e764077628d6dd9270604177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7ba077956982af3340e9c9dd31d1188072b1202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a5aa8c25eafbd0811848a6d1521e0abb31e8368.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20611a958fb437d18b4749d4c1b695139bb39ef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2ff2d9c16fe1bd812b8fcf8b1dda6e9d3bd9e649.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0919d82c5a9bb0bd5ec77dacb1e4b77120847c34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1a4db3eb6b77ad226ad242a9ad1dfaa7d3eee92.mp3"
+      }
     }
   ],
   "knowledge": null

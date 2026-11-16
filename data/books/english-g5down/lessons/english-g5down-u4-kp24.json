@@ -25,7 +25,21 @@
         "12th"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "second-2nd, twentieth-20th, third-3rd, twelfth-12th。"
+      "explanation": "second-2nd, twentieth-20th, third-3rd, twelfth-12th。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6ea411bae500b2193e6e79929dfde6ed0a63eb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/352f7829a2384b001cc12b0c2613c756454a1f6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b771a2c51b6b8b7f1ffccc69a588d2eda861ba9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34fb3300b9a77bebdc988ec3edd0d4a6a42a26f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae8d22fc84726d9e47bfba6022fa814b37879828.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42916188bcfe03884008395126e0edaf3e21f3f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a120779984364df17b26153d305f30a829242362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/008413d5e7e72489260d13294a046068d31459c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a02d2422c0497370382350f83859722b8640a53.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13dfbd1bb3a42917550012cd31cb9740e2d1baee.mp3"
+      }
     }
   ],
   "knowledge": null

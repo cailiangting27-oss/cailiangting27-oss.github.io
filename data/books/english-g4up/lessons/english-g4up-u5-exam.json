@@ -16,7 +16,11 @@
       "question": "'Dinner's ready' 意思是 '午饭准备好了'。",
       "options": [],
       "answer": "错",
-      "explanation": "Dinner是晚餐，Lunch才是午餐。"
+      "explanation": "Dinner是晚餐，Lunch才是午餐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae6495c6fab75f4fc13999f10a29a6f97d9ebc8f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d885c27a8e7409d0d5688746c8af4cd120d1dbf.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "Noodles 是不可数名词，不能加 s。",
       "options": [],
       "answer": "错",
-      "explanation": "Noodle可以加s表示面条，通常以复数形式出现。"
+      "explanation": "Noodle可以加s表示面条，通常以复数形式出现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/102833d1e9168dfd48a424e1ad6dd8f8e3842e45.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dbfe7492e66996825b56f36727ec35f464a7681.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在中国，我们常用 chopsticks 吃面条。",
       "options": [],
       "answer": "对",
-      "explanation": "chopsticks(筷子)是中国传统的进餐工具。"
+      "explanation": "chopsticks(筷子)是中国传统的进餐工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/620db0ff590ead4b542922bb3275a7c8f984f7d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80da155b1b1d3f25dfde977ee9dbfcf8b4238377.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "I'd like 后面既可以接食物也可以接饮料。",
       "options": [],
       "answer": "对",
-      "explanation": "I'd like意为'想要'，通用性强。"
+      "explanation": "I'd like意为'想要'，通用性强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11a3d521b41f7f6c5ef7bae4055f5aac888870ba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/079841d59b714ffc710903c707d848ce2e9ac675.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "/"
       ],
       "answer": "a",
-      "explanation": "Wait a minute是固定短语，意为“稍等片刻”。"
+      "explanation": "Wait a minute是固定短语，意为“稍等片刻”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c47b1c9e5acc0249ae2d58c74d8d21133af35aa0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be398da4c8e389ceb7433ff98e38da403d6134d7.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "It's nice."
       ],
       "answer": "I'd like some beef.",
-      "explanation": "问句使用would like，答句也应用I'd like..."
+      "explanation": "问句使用would like，答句也应用I'd like...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d0338a568d11b091f1c9c552369fee908f6db53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78a0db62943ccf424311dd282fe818a5dd3264b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/212d33a321e0eb3ed39ebaa2fbea346bf5dd99e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/202482320fd1fce9abccc3a32d7d87d5018bf30e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd1b96dc9f1973b040a7ca06274af05b6b9555e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c85b580a057b806d8c9c74fc25b76f9aca97aad4.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "mine"
       ],
       "answer": "me",
-      "explanation": "Let是动词，后接人称代词宾格形式作宾语。"
+      "explanation": "Let是动词，后接人称代词宾格形式作宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09a1f916f0dc8b24b8a470aa16b509afdb55d50d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aefcd2b88e98dc00495167a03b34c56a41f72d8c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "at"
       ],
       "answer": "for",
-      "explanation": "use sth for sth表示为了某事使用某物。"
+      "explanation": "use sth for sth表示为了某事使用某物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa68b76c05ec01ab607cca16e9c3d5f3c1a37288.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20c6a578cc021c161082dc5aa2abe14c31d8d954.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "Do"
       ],
       "answer": "Would",
-      "explanation": "Would you like...用于征求意见，比Do you want更委婉。"
+      "explanation": "Would you like...用于征求意见，比Do you want更委婉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff3d2dcecf80afce6cb94d20233647e951a9d08f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88e288f3e3ca8d1137556d908dcb9f355209464b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dcce357b88b8d6779b780da1753169d9d86b223a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d15afbc219f456fb7d85c605ef76322d9338c0b3.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "water"
       ],
       "answer": "bowl",
-      "explanation": "soup, milk, water是液体通常用容器装，bowl(碗)可以直接递。"
+      "explanation": "soup, milk, water是液体通常用容器装，bowl(碗)可以直接递。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed7e5116f798b934a020cbcc15b3926d4a75136b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/93ad1edafafa81c496f7c2f3af2e1d5129b146ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a07eca0993872febdb68d0bbeb05d6f53780c62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/609f1973ef21d65e20e9a94ede2b53455f53da8b.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "What ___ you like for dinner?",
       "options": [],
       "answer": "would",
-      "explanation": "固定句式What would you like...?"
+      "explanation": "固定句式What would you like...?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/725e0481219e657c727fe519ce7a0f862e120462.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dad9b2d2899c1d445a7e2420728fb9b915a3b8a4.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Show me your ___ (叉子).",
       "options": [],
       "answer": "fork",
-      "explanation": "fork意为叉子。"
+      "explanation": "fork意为叉子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0b5f154f9f2486f5ce901053a58287a96e3bf13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d221025d42fc51a633e8d130ceaa21a4a2f5da8a.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "No, ___ . I'm full.",
       "options": [],
       "answer": "thanks",
-      "explanation": "婉拒对方的食物邀请通常用No, thanks。"
+      "explanation": "婉拒对方的食物邀请通常用No, thanks。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cd563fbdea7de7547a0f7cd87a0dde8c87e787f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5f8d09a4c5ba48efd9a53fe626cadae940b4597.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "小刀"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "knife-小刀，spoon-勺子，soup-汤，ready-准备好。"
+      "explanation": "knife-小刀，spoon-勺子，soup-汤，ready-准备好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9d4f0699ec27640cd4706384f02861e89b459de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e32618ee300d43fe570b8bd0113e53c73dc5be4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f557e92965db8298e8e3b0ddeb9224fc4af963ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ad1edafafa81c496f7c2f3af2e1d5129b146ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c0533730caf1f78561c0883fb87bc8d98ef04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03371f6ac239a0eb242b84b1ba9632ba574229a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc4ef67147b2538fd4ba10854932c6efcd748a0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed224c6e847cfee64d8b0d854ce3bf00ffbddd92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e78f3b921dfc1b8446f8c7a4ada06b647504f01.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7b287f43a5e4061920dfd2f12c250507a446959.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "soup"
       ],
       "answer": "I'd,like,some,soup",
-      "explanation": "主语(I'd)+动词(like)+宾语(some soup)。"
+      "explanation": "主语(I'd)+动词(like)+宾语(some soup)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/277979b69d84e64453ca2e6ba5af919da693a05c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34af3d385473b62a136cf6df05480c0d77efb146.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ad1edafafa81c496f7c2f3af2e1d5129b146ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0d128edd0d9942a9aaf8cd8ddc88f8d85e37a93.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "乘法分配律"
       ],
       "answer": "加法交换律和结合律",
-      "explanation": "原式可以变为 $(4.5 + 5.5) + 3.28$，既交换了位置又结合在一起，使用了交换律和结合律。"
+      "explanation": "原式可以变为 $(4.5 + 5.5) + 3.28$，既交换了位置又结合在一起，使用了交换律和结合律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b15258e2f3e5482943885397b7545e79878eae1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d54ea64cdd80f290a00f037e982b1ff99de45a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/464e5b28052eeda644444ef8f90622d68625104f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06bbf86f038c7c03616ce9514cbb79717857eb37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/338ef8eb271cd5ac6bbde63d05de460918afd8cc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c52f85b0ae23aacd5346fc2396fecdab96c59fbb.mp3"
+      }
     },
     {
       "id": 13,
@@ -37,7 +47,17 @@
         "100 $\\times$ 25 $\\times$ 1"
       ],
       "answer": "(100 + 1) $\\times$ 25",
-      "explanation": "利用乘法分配律：$101 \\times 25 = (100 + 1) \\times 25 = 100 \\times 25 + 1 \\times 25$。"
+      "explanation": "利用乘法分配律：$101 \\times 25 = (100 + 1) \\times 25 = 100 \\times 25 + 1 \\times 25$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd237bda6e4e1278bbf5ac00a6c701a9ec0f1548.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec32f4a244caeaaf02cba618397c9f6a25b2b77a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01d31a4c4ac02ff1fa301bdc9c74c4bfed7d8f52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/621e89f3e388d6e5afb9f916af5d6be9ba6b9487.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f94d8c82650f0719ec58904b1f1e291d52b342e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db8cf25853a91c85dd1423d67c0343c810e36181.mp3"
+      }
     },
     {
       "id": 17,
@@ -53,7 +73,17 @@
         "$125 \\times 16 \\times 2$"
       ],
       "answer": "$125 \\times 8 \\times 4$",
-      "explanation": "利用 $125 \\times 8 = 1000$ 是简便计算的常用技巧。$32 = 8 \\times 4$。"
+      "explanation": "利用 $125 \\times 8 = 1000$ 是简便计算的常用技巧。$32 = 8 \\times 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25a0de8b7f26c4674dc29c4966d9bb38aeaa10c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e8/e8b50515aee018f0c2dd9c1e1a6461ee80723fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/339a06133c5ccb7f47630a856a480dd7f73e5a03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b712690d27f4eee0df1e0ae3fca52ec3e56eda3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a302320815e3017ed251b6cf8a5b8249e175932e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9511c51d29dcf3d256b66c0e112aa982230c6f7.mp3"
+      }
     },
     {
       "id": 20,
@@ -64,7 +94,11 @@
       "question": "学校买来 25 套桌椅，每张桌子 62 元，每把椅子 38 元，共花 ___ 元。",
       "options": [],
       "answer": "2500",
-      "explanation": "每套桌椅 $(62 + 38) = 100$ 元，25 套：$25 \\times 100 = 2500$ 元。验算：$2500 \\div 25 = 100$，$100 - 38 = 62$ ✓。"
+      "explanation": "每套桌椅 $(62 + 38) = 100$ 元，25 套：$25 \\times 100 = 2500$ 元。验算：$2500 \\div 25 = 100$，$100 - 38 = 62$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2102b3458ca011d60dc63a85835f787df305de5f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a83ecffbf7b127b91fc7ad5994480f90835b8c74.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "计算：$480 \\div (20 + 40) = ?$",
       "options": [],
       "answer": "8",
-      "explanation": "$480 \\div (20 + 40) = 480 \\div 60 = 8$。验算：$8 \\times 60 = 480$ ✓。"
+      "explanation": "$480 \\div (20 + 40) = 480 \\div 60 = 8$。验算：$8 \\times 60 = 480$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ec5ca44c0518f569e7dc60dfed99a778abf0675.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/68e51035b0a6ab9a661257cd280db6a248890c9d.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "计算：$25 \\times 16 = ?$",
       "options": [],
       "answer": "400",
-      "explanation": "$25 \\times 16 = 25 \\times 4 \\times 4 = 100 \\times 4 = 400$。验算：$400 \\div 16 = 25$ ✓。"
+      "explanation": "$25 \\times 16 = 25 \\times 4 \\times 4 = 100 \\times 4 = 400$。验算：$400 \\div 16 = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/8777583c9326b603d89cfa3a1ae2e4a73da3fffb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5b188415fb47d87ec1785683e5f4b738ab9a261.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "在使用乘法分配律简算 $99 \times 38 + 38$ 时，漏掉隐含的 $38 \times 1$。",
       "减法性质应用错误，如 $480 \times 20 \times 2$ 误算为除法操作。"
     ],
-    "tips": "看到25找4，看到125找8；看到99或101要想到转化成 (100-1) 或 (100+1)。"
+    "tips": "看到25找4，看到125找8；看到99或101要想到转化成 (100-1) 或 (100+1)。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a3/a33ab69113b13dc19d9f32dcc318bce6986b4727.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3c/3c046c81f0871cf7cdc8f5a72c8e46cc57b18984.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ba/baa1e52f722b1f72cd4ada415d0ae0a3d3207922.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/15/15e7ecaad107eddf87eb0a8ee713229970f953a3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/51/51c4e9b699a1307a7a8b1e27af7975f945f44893.mp3",
+        "https://api.clthuanxie.cn/cc-audio/78/783267b4ed6503be31e483d30cf21d8ba8744d74.mp3"
+      ]
+    }
   }
 }

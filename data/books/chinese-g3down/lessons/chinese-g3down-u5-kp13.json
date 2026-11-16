@@ -25,7 +25,21 @@
         "懒觉"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "通过拟人化的功能关系进行关联。"
+      "explanation": "通过拟人化的功能关系进行关联。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f9deab83cf3863647f2ac0009558d6daf8f61ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd52d6c26eac71f33ec9eb77d62a49ef4dcf74b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85c5ac5971c927c52d7e54bd7310a67686309605.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e54c201cc10e230b946d9f7067df41f22af3ad7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf0f66b3fc815543a4e1243dc3c5bf332e0ceadf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b908f4f8db7c65cc60b4f058b88d08fc7ccf03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b859c7be75016c423cddc11ab056e2f31a24dcb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa830747f4f4e8545741be075edb6b7b2ed2ad8a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85b413fc7fa8f38c4bf3cb06fd9ae0371c7ce4e1.mp3"
+      }
     }
   ],
   "knowledge": null

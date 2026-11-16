@@ -25,7 +25,21 @@
         "出租车"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "taxi-出租车, sled-雪橇, ferry-轮渡, subway-地铁。"
+      "explanation": "taxi-出租车, sled-雪橇, ferry-轮渡, subway-地铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21f4eca1b74a43d684e1e414df6553e65b7a5103.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d82205a20287450dad9d71e049f46a57692279c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51b2a2310a67a445b2c4544abb789c76adee2d91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa4835f776c66f2d051239c9ec17aeb77d257b76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b26e5ebda152e81099ec78be2f9c191ee25e1cd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c90cdf9c5be98c1ab9b9f624b55772d6170617eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dad7790f9b47378b430f3bf2af22d8eb0614bef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bfc7eb86f0349a9323ee71dd4f8d5adb2e5cb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14534d703d56e8e8e3571229eafee057dbfa6553.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35c40fb43e7a441f6b796175085bf3d63fd38d7f.mp3"
+      }
     }
   ],
   "knowledge": null

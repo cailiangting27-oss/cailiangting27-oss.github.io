@@ -16,7 +16,11 @@
       "question": "《鲁滨逊漂流记》是英国作家丹尼尔·笛福的作品。",
       "options": [],
       "answer": "对",
-      "explanation": "丹尼尔·笛福被称为“英国小说之父”。"
+      "explanation": "丹尼尔·笛福被称为“英国小说之父”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d39a4a03b40a3688e0a792cb65ea22b1af4d723.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/756fedcc60407c64e05a242fb6bce4bc69ff0d02.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "鲁滨逊在荒岛上非常悲观，他一直认为自己注定要死在岛上。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然有过消极念头，但他迅速调整心态，想办法改善生活环境。"
+      "explanation": "虽然有过消极念头，但他迅速调整心态，想办法改善生活环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/febf2a90798e41cdd5a3f1949324c5cdedd9e61f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63c013135f2ce7c34bd1c2a7280a598112e0b5e8.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "尼尔斯骑在大鹅背上不仅看到了瑞典的风光，心智也得到了成长。",
       "options": [],
       "answer": "对",
-      "explanation": "这不仅是一次地理旅行，更是一场心灵的洗礼。"
+      "explanation": "这不仅是一次地理旅行，更是一场心灵的洗礼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/405e301fe9434e52919688135c1b9a73f21218d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc136285eb08820abafa14446ec262deb5dc5db8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "多读不同国家的文学名著，可以让我们更开阔地了解世界。",
       "options": [],
       "answer": "对",
-      "explanation": "名著是了解异国文化、社会生活的窗口。"
+      "explanation": "名著是了解异国文化、社会生活的窗口。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4a1f3120ae2b8c9a1a91ffe2a710a23a59f7679.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/547204014e93a4445d6f6863a5ead5d170f3c62b.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "桌子上放着一块发霉的面包。"
       ],
       "answer": "他心里矛盾极了：是去救人呢，还是逃跑？",
-      "explanation": "心理描写直接展示人物内心的挣扎或想法。"
+      "explanation": "心理描写直接展示人物内心的挣扎或想法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7fd3cc5d6e77a8449b5bd8783d685e18191ed13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1d16beb521b86a1f44370ce3e24a5cdd32fd5fd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ccd981522e868c02933688536293a549a5a4e6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74d47b8a32963391bcfc0ec923d9aabae346f9ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a4c9b8839d47dcdcbe462db64de165a9f5f2801.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c058225c0eccf829e13546e4e5c3a090ecaeb699.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "理清故事的因果关系"
       ],
       "answer": "改变原著的故事顺序",
-      "explanation": "梗概应忠实于原著的情节逻辑和发展顺序。"
+      "explanation": "梗概应忠实于原著的情节逻辑和发展顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5f971d9032c1ac202d04a4b876ff629cfaa5e98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/04fffee4672bb6b14c11cab4274a4a15a38ddfbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d735c5b18a85c97645b620a0ec08ffac60157d77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5548bcb3ec944caad54dbd4107d307cc6979a36a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d09a1dcda28e447d69fc68cf231dec8cc966c0ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55c247fa3bd07cc062030bd5bfb27ed5aeedd076.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "字数的多寡"
       ],
       "answer": "语言的独特性与翻译的多样性",
-      "explanation": "引导学生通过翻译对比，更深层次地理解文学作品。"
+      "explanation": "引导学生通过翻译对比，更深层次地理解文学作品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3c54ff18c7a9180b99d02313c7e376d26eeea0a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/87/87ad9138ea0c84d02a36b64040b903b169f53e02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3559ebfb4911260a7031b27e1db50616f3e1b1fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9c70165861c2fbbf8e7e3fdee6440de8ae470da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01b9be991a0cd00be5f15088a98a9c13ddcc1324.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/308fc9542870a68650135dd7441043fa48eeb2ed.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "鲁滨逊一定能克服困难！"
       ],
       "answer": "鲁滨逊怎么能不克服重重困难呢？",
-      "explanation": "双重否定加反问表示强烈的肯定。"
+      "explanation": "双重否定加反问表示强烈的肯定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3fa1390baaf4137368519617ef7a75ebbf0aba1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2e498888f79bc85dd5441515c04f3a23040d1f01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d42272172f569a5a3a53fba3151aa0b76ba05502.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/547ec4ead707d8cff1b39e5864c0572f93c1ee3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e778bb7a3ef25fc63debfb008fb8813fdce1d7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/967440763704bc6f1344271121303a388583c2b0.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "都喜欢调皮捣蛋"
       ],
       "answer": "都有极强的探险精神和勇气",
-      "explanation": "这两部名著的人物都体现了对未知世界的探索和面对困难的勇敢。"
+      "explanation": "这两部名著的人物都体现了对未知世界的探索和面对困难的勇敢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c755c3338504916c0ce6c108180f9f2167d00cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c5f8ebbdd58c43a64ff2babca9852b22e9b7a93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/974df3939b1527cd888a00a3ec6158011f4a04bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61e3cd657075049ecd1234372455f131b4f50d89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa7ae9a98b5bad294decd22adbf70f85991c8936.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2eb00643bd77dae98cf4462a47f8ee1fb6b84b69.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "快跑。别回头。"
       ],
       "answer": "“救命啊！”他高声呼喊着。",
-      "explanation": "引号和感叹号的使用符合对话与情感表达规范。"
+      "explanation": "引号和感叹号的使用符合对话与情感表达规范。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c212ccf5072e8002a451525dd41f426c4e3c8b8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be3d691582401e33575ed2be81ae5a0d2310ec45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ea08c4ac2f9b0bb133cbe37c038356c8eeb4f9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a56948e88a5eb25579414bcd0efc1ba17bc0e99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/156875700a42ace1a22f27e77400e1938457567c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc8200654ba461fde5e95a4a6cd4b372757dca64.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《鲁滨逊漂流记》的节选部分由“梗概”和“（ ）”两部分组成。",
       "options": [],
       "answer": "精彩片段",
-      "explanation": "课文的编排结构是先大致了解全局，再精读片段。"
+      "explanation": "课文的编排结构是先大致了解全局，再精读片段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/3412bc4047b4048e7dbb3a71ff7a43c48113bbf4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eeeaf4f7e43ec0c13d4e8547f18c0fbf053eac10.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "尼尔斯骑的那只雄鹅名字叫（ ）。",
       "options": [],
       "answer": "莫顿",
-      "explanation": "莫顿是带尼尔斯游历瑞典的关键角色。"
+      "explanation": "莫顿是带尼尔斯游历瑞典的关键角色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5b58b644a791eed03587f7230c519af2120d6db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d10b2f6c13374b409568b173259ff0ea892181c0.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "墓地见证凶案"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "考查学生对课内外名著情节的辨析力。"
+      "explanation": "考查学生对课内外名著情节的辨析力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6dc0d84c04b0da27d9c597a1eb8fda11c6f28146.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/232b99b656b88112f87d03b2ff6bb1aae505bfe3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b28e95452af6b24d72d59b80d1cb1646ab31445d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf75fccf5e7de8dc14e697430e6107613b7336f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95964a6d313a856b7e0e66d59d67dbc791cd7c6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/266fc2b1f1c21acedf4b7b5c9f30c267dc25fc86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5c0a655443d2de9e6e2813a4e280bdeb8cf6f7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb06cd1f19f20c0786c13425e319ea901c329ca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6ea6d53ad2aaf30bdd13d4a51dcf9ed3e696330.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e66cf742862f2f58363cf8cc01a562110c90302.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "意志"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查课文中关于鲁滨逊生活劳动的常用词汇。"
+      "explanation": "考查课文中关于鲁滨逊生活劳动的常用词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5defea188aa896de765edf9cd46d2065063a0aa0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54487f7c541efc6f8cec14a18a35aa685f62dc90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d33052fb63a8fd2bab45c0ecc53d0e10fe913fbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e77d2e7ea6fb5813dcb70b5a8649fd14e5dcbea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4f4e5fd1919566a58945688cc2960e69c79af87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f1e6486a7f19138afed76f2e703d1cd2d6a5a72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71c19ce5354bb226d57639bc9e90829088cfc9f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da3937b2f9bdc5d49e5c97f7f538303eb3c1462.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82c8503c911ed9c36907ecc374c5b8a40d23f8b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74535ccd89e805e601b019fd87294d805162624f.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "信心"
       ],
       "answer": "他,并没有,对生活,失去,信心",
-      "explanation": "考察基础语序和人物形象总结。"
+      "explanation": "考察基础语序和人物形象总结。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/122cf79d887b9af21eb8ed97d65fd7f37e4a1a0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e31b569a0f1d9ff0c78f766cae3732af1be502da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c02e4a2d06ec7fa18c47920ef789d148fba6b2ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f4be9f285a1f111ef1bb3c04b09fe14fb5f064c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e586a196d931829cea259147ce536f2eff6da437.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33c8580523d3dfddb87b30165f9f0c21e8583699.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40d53af22d486e0894a7b8fe8f9404f3dc8efc44.mp3"
+      }
     }
   ],
   "knowledge": null

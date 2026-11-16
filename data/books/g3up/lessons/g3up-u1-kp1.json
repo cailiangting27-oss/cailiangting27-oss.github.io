@@ -16,7 +16,11 @@
       "question": "钟面上走得最快的是秒针，它走1小格是1秒。",
       "options": [],
       "answer": "对",
-      "explanation": "钟面上有时针、分针和秒针。秒针最细最长，走动速度最快，它每走过1小格代表时间经过了1秒。"
+      "explanation": "钟面上有时针、分针和秒针。秒针最细最长，走动速度最快，它每走过1小格代表时间经过了1秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef4c430ecc791776df0263b76a5748b87f140648.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04bc3ea4869271d4a665c836d0a1f594276cb47e.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "小明系好红领巾大约需要20分钟。",
       "options": [],
       "answer": "错",
-      "explanation": "系红领巾是一个较短的动作，通常只需要20秒左右，20分钟时间太长了，不符合常理。"
+      "explanation": "系红领巾是一个较短的动作，通常只需要20秒左右，20分钟时间太长了，不符合常理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7bc220e1786510799b5c2a0264f1798d91410d36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/085d9620da33e3c7d7bf079f617ae8db97290f48.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "米"
       ],
       "answer": "秒",
-      "explanation": "眨眼是非常瞬间的动作，建立时间量感可知，应用“秒”做单位。"
+      "explanation": "眨眼是非常瞬间的动作，建立时间量感可知，应用“秒”做单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6b4588cb082ab2f808619a1700bdcdbaf622f28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a34801ad9c1073d622f2b790e2e0631a49dc15eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d7416e2e22207b2c85fa5f0fd248730d22518cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb6aaba1a1caacebb6186e0ee69665ba977c6670.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c68ec9f818ec9917c83ebb92bb313fac0591186.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "6"
       ],
       "answer": "15",
-      "explanation": "秒针走1大格是5秒。从“3”到“6”走了3个大格，即 $3 \\times 5 = 15$ 秒。"
+      "explanation": "秒针走1大格是5秒。从“3”到“6”走了3个大格，即 $3 \\times 5 = 15$ 秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20c36d5c0cf969f6626a9d9341171afce246871b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b62fbf8199e752bed096b5474c3b0ce24b7344f7.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "无法确定"
       ],
       "answer": "小悦",
-      "explanation": "赛跑中用时越少说明速度越快。$16 < 18$，所以用时16秒的小悦跑得快。"
+      "explanation": "赛跑中用时越少说明速度越快。$16 < 18$，所以用时16秒的小悦跑得快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e62e41f3bc3ec6ab4bd127b03776944e9f82866b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/667f76d223ce57fa9bb375cb99e909d1c1b6b6e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bedd04b0ca69a4e372766d04219e39fea945bde7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08e63bb600cc3678697b8e66b976f6b4326822cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31e0ad7c8bb06ad85d502aa8105f5e84e87e6b75.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "60圈"
       ],
       "answer": "1圈",
-      "explanation": "1分=60秒。分针走1小格是1分，秒针走1圈正好是60秒，即1分。"
+      "explanation": "1分=60秒。分针走1小格是1分，秒针走1圈正好是60秒，即1分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f34dfa99c09be13b54a8d1b5d001c5ffce0d83b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3ae9bc4e34387579bc350a7426bc205f514ca08e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06222bc068231527e666d068736408acbbc09450.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/547467d659cb9512c671d91ebd8931765a45e77c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/774e49b4016e2b8aa9d4a171671e6c73e2b0f65d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/700e0f2bb1ca31441a743626d4fe3c799c513988.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "4秒"
       ],
       "answer": "45秒",
-      "explanation": "根据常识，国歌长度约为45秒至50秒，分或时作为单位显然不合理。"
+      "explanation": "根据常识，国歌长度约为45秒至50秒，分或时作为单位显然不合理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b11a13a093dc32c76db570ef5764bc2f4c71f93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffe4e9a27b7b7eb8a20ec5a1d4c736bf1c001b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e68ca815b06e9c05b2026e3a84242402a509f486.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37fb39974b018f22bae12d7db89c870780df3f9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d37cd1594a797fd0627cf1a7f0f11dc68a64e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de0528549d2e6160e9357961559ac07d68c984df.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +176,16 @@
       "混淆时针、分针、秒针的形态和功能。",
       "对秒的长度估测错误，例如认为剥一个橘子需要1秒。"
     ],
-    "tips": "观察钟表，跟着秒针的节奏拍手或数数，帮助建立节奏感。"
+    "tips": "观察钟表，跟着秒针的节奏拍手或数数，帮助建立节奏感。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/76/769a862a018a11c87bf194eb993e2d16554a5201.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/52/52238bfd712374ff6eccc1752fc152b166ef40cc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/90/90d5c121d990e1724aa8b525a1f26defcaab0f5d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c2/c2f5f38bf85885d0c63aaa2b35222bf71f418b72.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6a/6a764108050208cfc6b5d2a0be03532cbe5059d3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/08/08a16f1be7c977824f86ff1e8dcf00789744ee0a.mp3"
+      ]
+    }
   }
 }

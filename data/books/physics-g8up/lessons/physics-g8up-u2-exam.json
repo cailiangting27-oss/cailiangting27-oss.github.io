@@ -32,7 +32,15 @@
         "先大后小"
       ],
       "answer": "不变",
-      "explanation": "像与物始终等大。"
+      "explanation": "像与物始终等大。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 9,
@@ -59,7 +67,15 @@
         "小孔成像"
       ],
       "answer": "水中筷子看起来弯折",
-      "explanation": "折射造成视觉偏折。"
+      "explanation": "折射造成视觉偏折。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/d5/d530f0978f850955e6bfede71548773f97541b60.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

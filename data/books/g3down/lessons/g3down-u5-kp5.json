@@ -16,7 +16,11 @@
       "question": "一个正方形的边长扩大到原来的 2 倍，面积也扩大到原来的 2 倍。",
       "options": [],
       "answer": "错",
-      "explanation": "边长扩大 2 倍，面积扩大 $2 \\times 2 = 4$ 倍。故错误。"
+      "explanation": "边长扩大 2 倍，面积扩大 $2 \\times 2 = 4$ 倍。故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be510f17e753c2a06416aae0453ac9ee1406a237.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83c40a1c2fa54a932c4f0e6e56788f6efc08e2fb.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "平方厘米"
       ],
       "answer": "米",
-      "explanation": "长度单位用米。平方米是面积单位，用于描述面积大小。"
+      "explanation": "长度单位用米。平方米是面积单位，用于描述面积大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d6042f71286153805b661ad33bb1e0388b8a5a5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe1c26a2c3c83d4f2e2548b2896c91232d26473e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba30e71d5f7b6bdcc8fca5c2589f778fb7a95fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35671d416ba9324252289b1ba9ec04fa8741f3b8.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "12"
       ],
       "answer": "9",
-      "explanation": "边长：$12 \\div 4 = 3$（厘米）。面积：$3 \\times 3 = 9$（平方厘米）。"
+      "explanation": "边长：$12 \\div 4 = 3$（厘米）。面积：$3 \\times 3 = 9$（平方厘米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99553aa09fe726297e2f38dc423965b4dd225bf9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/7320828c9153b2a9848d6bc45d3544236b22fc48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25a3f1f70b2b4a1a8a0f45c55b1af11c5ba3c7ac.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "12"
       ],
       "answer": "10",
-      "explanation": "原面积：$10 \\times 5 = 50$；新面积：$(10 + 2) \\times 5 = 60$；增加：$60 - 50 = 10$。"
+      "explanation": "原面积：$10 \\times 5 = 50$；新面积：$(10 + 2) \\times 5 = 60$；增加：$60 - 50 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58af3b5acca0582be655a6f51e176abbf0995ba5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ef5a62ba63d725e5d1d4ec6fd87953188b48c47.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "一个正方形的面积是 25 平方分米，它的边长是 ___ 分米。",
       "options": [],
       "answer": "5",
-      "explanation": "因为 $5 \\times 5 = 25$（平方分米），所以边长是 $5$ 分米。验算：$5 \\times 4 = 20$（周长），$5 \\times 5 = 25$（面积） ✓。"
+      "explanation": "因为 $5 \\times 5 = 25$（平方分米），所以边长是 $5$ 分米。验算：$5 \\times 4 = 20$（周长），$5 \\times 5 = 25$（面积） ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e3c98862c9f93f2eaf33195e05ec3c472dd3be7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7beac4453548597c07a15df0afb87c863f874ba8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "混淆两者的计算方法（加法与乘法混用）",
       "分不清两个量在图形剪切或拼合中的变化情况"
     ],
-    "tips": "列表对比区分：周长要‘围’、用线围；面积要‘铺’、用纸盖。"
+    "tips": "列表对比区分：周长要‘围’、用线围；面积要‘铺’、用纸盖。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6d/6db307403db4ba37584b6cef20d1549d39a4ecc9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/84/84bb9d6e56e2fa72e52da33c11227307d9da8d9d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/69/69bf53ab36660ca532aec62ad30588471913bf98.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/55/5565f9537bae7a42a9fac52a10bd43d8e6d13ae2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9d/9d39913406204eec620b277c3527bfcb0e14c9a1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/22/2271d39859735210dfa2375b35e1d3228410be65.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "小蚂蚁"
       ],
       "answer": "小蚕苗",
-      "explanation": "蚕卵孵化出来的是蚕的幼虫，俗称小蚕苗。"
+      "explanation": "蚕卵孵化出来的是蚕的幼虫，俗称小蚕苗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65859bb2e7b532713beb544f58206165d40d8f2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0eb21f40759e16a18a1377a495424aa6dae68929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed9b10ad22ad18e33e8cc31b2312bdcc668c2cdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a31dba90d3f5f0bd74371a43b74ca5eb7cfb1edb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c0950a4d7da5a3315c1a2b15470ef4cdf4ad07f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cd6ded0ce417a436fc957aa93378d5c2e417bc6.mp3"
+      }
     }
   ],
   "knowledge": null

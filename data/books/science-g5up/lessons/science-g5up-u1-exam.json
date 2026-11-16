@@ -16,7 +16,11 @@
       "question": "自然界中，太阳是最强热的光源。",
       "options": [],
       "answer": "对",
-      "explanation": "太阳提供光能量，是地球最主要的自然光源。"
+      "explanation": "太阳提供光能量，是地球最主要的自然光源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e167efdba53b10e49f59c74604aef5f05b1557df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a894bbd5473cef1dd0d66c3c10aeca147b21165.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "光经过烟雾时，我们能清楚看到光路，说明光是沿直线传播的。",
       "options": [],
       "answer": "对",
-      "explanation": "烟雾微粒反射了光线，从而显现出了直线传播的路径。"
+      "explanation": "烟雾微粒反射了光线，从而显现出了直线传播的路径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fae6005557afdff97b47f6e62cd180b7c4c7002.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e242b7232a8181d29700cd4d30cc043f745a7755.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "黑色物体比白色物体更容易吸收热量，反射光线能力更弱。",
       "options": [],
       "answer": "对",
-      "explanation": "颜色浅的物体反射光能力强，颜色深的物体吸收光能力强。"
+      "explanation": "颜色浅的物体反射光能力强，颜色深的物体吸收光能力强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9ad67e04ceb8cb69a51aa1ec5522e056232b529b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11045c2412e2bee025652cef861fdfc8c6e5b1fc.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "雨后彩虹之所以形成，是因为空气中的小水珠像三棱镜一样分解了阳光。",
       "options": [],
       "answer": "对",
-      "explanation": "由于光的折射和色散，小水珠将白光分成了七彩光。"
+      "explanation": "由于光的折射和色散，小水珠将白光分成了七彩光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f602b8f472d8fcfbd6f69e702e46feda4fb27a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/857142e637941a58ed4878542764d8d8611ab17f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "海市蜃楼"
       ],
       "answer": "海市蜃楼",
-      "explanation": "海市蜃楼是光的折射现象形成的。"
+      "explanation": "海市蜃楼是光的折射现象形成的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3d5f18c06d115650ccc0d9978b9f16c24ff4ade.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/1944561454f61699e38fc7ab205f98dddf62f937.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/245dc46911ae01a8677c17d35c3a9af823c08b55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dae19a6088d3d05dde03300437b769082322c12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/6289782fe87f7f36b7d8ca926d849a0ea631ea25.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c53ad743d88e63b3d52dc8d25c4e2edf4f75f120.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "交叉排列"
       ],
       "answer": "在同一直线上",
-      "explanation": "验证光沿直线传播的经典实验结论。"
+      "explanation": "验证光沿直线传播的经典实验结论。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5caae1009f01e7013c359c9fde34c1955007c61.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/072100eb5df9bd7bc96e7ef2e4adfa0214ed9e4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/8336dc31d773a84ad9b3078e7648ce2045a90983.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a0421010a760642e03cf85ec9dc7898ed43390.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f699518877a5f20b6c25324631c07d56cc7e3b38.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e200c113d5620b6e3494271a5b1aa3236db830c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "星星、镜子"
       ],
       "answer": "极光、萤火虫",
-      "explanation": "极光和萤火虫都是自身发光的物体。月球、行星和镜子都不发光。"
+      "explanation": "极光和萤火虫都是自身发光的物体。月球、行星和镜子都不发光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15cc834f347c803222338ab03b4b660bd1165bb2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d880ec0a7e68f44685a929f81d6b71d3b4d8691.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55953e379d153937e5853c0e1d38aeec79f1b8ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/2920deb6e52a73cc0cb9db3f6a1e38cca4a9b0d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/645edb625290ba953e90dd031485657e8d314f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e5ed8f6f0f628115e6bf1d4118908b1b14f5ca0.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "完全合并在一起"
       ],
       "answer": "互成一定夹角反射",
-      "explanation": "通过多面镜子的角度调整来引导光线的反射路径。"
+      "explanation": "通过多面镜子的角度调整来引导光线的反射路径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64efa80886f1d58386dd527ff2d904780a07e1c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b23dcbe10a3755bd76599a680d539101ba843ba7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e94deb1000ed97c845bb84c098bd836eecc6c69e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/716a749a452eec2eafd135c26c259a7684c7c590.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/105aae37ea36bb3fd87ca9e3f05fb5d21c0cf8df.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ac8492f16d45db3f262cff2558be619174d12e3.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "白色光沿直线传播"
       ],
       "answer": "白色反射光的能力强",
-      "explanation": "白色吸热少，反射光能力强，夏季穿更凉快。"
+      "explanation": "白色吸热少，反射光能力强，夏季穿更凉快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0c6a6f1aceefdfb7000178c698c8b17891b60a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d0026ea14b01ddbe3df19d9b7b13cb9bb5ea381.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18e869a44190355fed96906e4f09ce04fb751f6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d5fc9a954abc7f983b674dbcbbcce1d35bc7299.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ca11153161e2b4e229f710818b81a846c9e366e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc0ec88cc7c09e25fe7f72273947fd0c7290819f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "人眼比人耳反应快"
       ],
       "answer": "光的传播速度比声音快得多",
-      "explanation": "光速30万km/s，声速340m/s，所以先看到闪电。"
+      "explanation": "光速30万km/s，声速340m/s，所以先看到闪电。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4ae4a82fcc8029cf61c89e5e3f346a8ace79e8d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/072a6f26ee8a93fbaaebebb8f1b130595989f840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20121d34410823f78cd11b8f9ca4f9b2d0e51a9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3cd3edd41189e7339d71fb1ffe761f2d24ba3a2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7ffb67d98cd6720473d7e768767d849fe64e9146.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78b42b063b47d622a72b9a8ef016319912721182.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "通过了绿光"
       ],
       "answer": "反射了绿光",
-      "explanation": "不透明物体的颜色由其反射的光的颜色决定。"
+      "explanation": "不透明物体的颜色由其反射的光的颜色决定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/599f06e9a39ff85313548f0662ac6d0bbf3ab27c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9964677ea8758293571fdc988d2f093e74cd12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1510b5b52e576faf1ccf88cb267d33c5e22de283.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c4b3815f111f4fa0f619328957a61919863184d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/386b05d3b1570e0a6a6c504e3fdc7250f2cc74d7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9308d146ffd19f63a13de7bccb66da06676d2320.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "苹果周围有光圈时能"
       ],
       "answer": "完全不能",
-      "explanation": "没有光源且没有反射光，人眼接收不到任何光信号，所以无法看见。"
+      "explanation": "没有光源且没有反射光，人眼接收不到任何光信号，所以无法看见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c49880d81fb5e1b2063df766120165df2be614f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b28231830bce63ca10225cb7346fd50eb9c93ece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30fdf3412ea52c2e424e0e4ab190ae1f008b2671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc6a3f2a7f7031a1a07eb49f73b873b4e96b4ae8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e786296fc7195d65e1278fd60269933fb889a4f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c85b25464afeb2078ab567df7900528f094d9477.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "如果潜望镜内部两面镜片不平行，而是成（___）度角垂直安装，我们将看不到海面景象。",
       "options": [],
       "answer": "90",
-      "explanation": "90度角反射会改变光路的逻辑方向，通常潜望镜需要45度倾斜平行放置。"
+      "explanation": "90度角反射会改变光路的逻辑方向，通常潜望镜需要45度倾斜平行放置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13c5561ddd67f7cc7f8e9c1b90dbeb825d10b9f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0842ffb199ea659625ed324af3d497aab0742227.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "在实验中，如果我们将三瓶分别装满红、绿、蓝水的瓶子叠加在一起，最中心重合部分的颜色趋向于数字（___）代表的无色透明或白色。",
       "options": [],
       "answer": "0",
-      "explanation": "此题设定情境，红绿蓝三色光叠加，对应的灰度等级或理想色值为白光背景。"
+      "explanation": "此题设定情境，红绿蓝三色光叠加，对应的灰度等级或理想色值为白光背景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56d1020b06766dc0bb7b4f90802156dc0dcbaa5e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f0d4f99b1a1e4cb6f5da88f994afcbfddbe8b0c.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "光照射到镜面发生的反射属于（___）反射。",
       "options": [],
       "answer": "镜面",
-      "explanation": "平滑表面的反射称为镜面反射。"
+      "explanation": "平滑表面的反射称为镜面反射。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28fc4b4b3dac358a2e762390946640a31e5d56e4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed4f26be3b15f528c42139a0594acbe32e2936be.mp3"
+      }
     }
   ],
   "knowledge": null

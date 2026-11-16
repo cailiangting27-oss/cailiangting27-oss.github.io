@@ -21,7 +21,17 @@
         "doctor"
       ],
       "answer": "astronaut",
-      "explanation": "喜欢星星的人想当宇航员(astronaut)，且以元音开头应用an。"
+      "explanation": "喜欢星星的人想当宇航员(astronaut)，且以元音开头应用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b251889c583641e7415f223c7c72ec4bc610475.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7ec5f7e03481cdff78493115f3a939ec4f2ded5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f83b95350925c0c53cae9f6e3900e0d6cbe77b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10f5ebe6acb4467b71602be4c4fdb44c44fa26b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0160076c9f42a157f0a8f0dcc68e02ff69045b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb463d7fe187063a2ab6a9531811f498e71720ae.mp3"
+      }
     }
   ],
   "knowledge": null

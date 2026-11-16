@@ -21,7 +21,17 @@
         "小草帮他们"
       ],
       "answer": "小鸭子帮小公鸡",
-      "explanation": "基于课文内容以及常识，能游泳的动物会帮助不能游泳的动物。"
+      "explanation": "基于课文内容以及常识，能游泳的动物会帮助不能游泳的动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f440778ce1d23cb3ddcd0f2d0769e945f12bca3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/5030953971bfa27e5f286e256bcdb192208dae33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0fe7aa7328cc2a33d672131c073312c0ceed994.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23fffe59d9098b395d0d057e0745951c3628c8c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f8f5c5d2decfad9de1325d0a633db327730399d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c267f179ef5b2ba41361990740077e4b1d76821.mp3"
+      }
     }
   ],
   "knowledge": null

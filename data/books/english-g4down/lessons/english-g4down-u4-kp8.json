@@ -21,7 +21,17 @@
         "two"
       ],
       "answer": "so",
-      "explanation": "so long表示“很长”，too通常含否定意味（太长了）。"
+      "explanation": "so long表示“很长”，too通常含否定意味（太长了）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6ec57dbd5b7beeef61fc31000fcf3e21d4e9c8d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/164a5c24f5df5918f285228443ab87209785293f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1b646ebd1f6844c60dd91951c6867e43857114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e751fcccbe327154096635b485b951efe5a42a82.mp3"
+      }
     }
   ],
   "knowledge": null

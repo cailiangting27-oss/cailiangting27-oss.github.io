@@ -21,7 +21,17 @@
         "以上均是"
       ],
       "answer": "以上均是",
-      "explanation": "酵母菌发酵、青霉素提炼以及污水处理菌群都是微生物应用的例子。"
+      "explanation": "酵母菌发酵、青霉素提炼以及污水处理菌群都是微生物应用的例子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/687a8a5342a66afb73c754e4c479ab355188d271.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac1f69d5835e920f15e5d38b36676843358d1f5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8065f26eedcdc4e1d997fab713050480b39030d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0ad5cce729602ea3e63d32f2eca91e19b35ea49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5778ae5435d878aa7d527b34c03469bab4d9cd44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7ab2c5834c34a31877e159690a8110527bfaf6e9.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“雪白”的意思是像雪一样白。",
       "options": [],
       "answer": "对",
-      "explanation": "“雪白”是用事物“雪”来形容颜色的白，表示非常白。"
+      "explanation": "“雪白”是用事物“雪”来形容颜色的白，表示非常白。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b3cbee232c7826b2bf373f967df622b94a3eb2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/571b27d08540c0c5c0765a0e2b1d236314d68e7c.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "雪白"
       ],
       "answer": "金黄",
-      "explanation": "稻子成熟了像金子一样的颜色，故用金黄。"
+      "explanation": "稻子成熟了像金子一样的颜色，故用金黄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2817b0dcbce9bfbe851c85fdb5465e54b093c07.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/479b698be806e1ff6ba07908ae99aab743512f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7aca43bdb10b2dfb9de3b8ef4a5a38b4f8ecc992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58d38f02c4e5eb6f72d310b9194ee8b3b7354bf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8225a9780347afa0bbffb851990995c823e8cdfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b1d2e69fe209e0304a2a6d91e139180d1df8421.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "翠绿"
       ],
       "answer": "火红",
-      "explanation": "火红能形象地表现苹果透红的色泽。"
+      "explanation": "火红能形象地表现苹果透红的色泽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4da49274f935b23606199bd5a56aafe63f9c8221.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0fc7e2634f02fb87cf55788f8d401ea19bcb779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58d38f02c4e5eb6f72d310b9194ee8b3b7354bf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b286dd04ac8d24ad37033b4b16eef3f7145c4ba7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1343f68f287c44791d899871b80b39d1b7f8e0e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/284ac42bf78e6c280144f53afb72a86a6931d86e.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "像雪一样白叫雪白，像火一样红叫（  ）。",
       "options": [],
       "answer": "火红",
-      "explanation": "考察仿写ABB式颜色词（或具象颜色词）。"
+      "explanation": "考察仿写ABB式颜色词（或具象颜色词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cc6d4b54978baf63cc6552f6301b83a7bf7d91d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28403f081ded9657d32ba874d5f44199f81b0e7d.mp3"
+      }
     },
     {
       "id": 19,
@@ -79,7 +107,21 @@
         "雪白"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查事物与其常见特征颜色的对应。"
+      "explanation": "考查事物与其常见特征颜色的对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4c2ef30f0608129ae9a3747a7f8d460a839e02f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8f7f505f04b47d1b9da04be98d4d4e5018169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/656b916e94fefb57b30080ccc1be1ceaad198698.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48160724c3d5f9305e0293a661060e9eeff16fd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/479b698be806e1ff6ba07908ae99aab743512f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a62a45ec61df1a842ee77da2f8a915b6a4c6451.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b286dd04ac8d24ad37033b4b16eef3f7145c4ba7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8225a9780347afa0bbffb851990995c823e8cdfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08fe7bcff7b7c142b44f392418fc6d7a6f72bd23.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -90,6 +132,16 @@
       "事物与颜色搭配不当，如“火绿”。",
       "书写“蔚蓝”等复杂字词时容易丢笔画。"
     ],
-    "tips": "平时多观察大自然，尝试用身边的东西来形容看到的颜色。"
+    "tips": "平时多观察大自然，尝试用身边的东西来形容看到的颜色。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3c/3c13d7e9955af3ea1086dd87f71d6281774f8912.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ef/ef1a8c1ff9f6ebe757a9d4e8a9051a9de7faa461.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/73/737c7c5a98bda640afd4e26955b84bbdb0c12776.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/51/515506fb053d3ff1d477594a063e63de2e811568.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3c/3c1d3c9063353e7ed13de05d139c314a07762e64.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a2/a29a35c356298d288852338e1953b46a6bc01bbe.mp3"
+      ]
+    }
   }
 }

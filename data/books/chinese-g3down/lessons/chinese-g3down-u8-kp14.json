@@ -21,7 +21,17 @@
         "懒惰无能"
       ],
       "answer": "勤劳聪明",
-      "explanation": "枣核虽小，但能干活也能惩治恶人，体现了勤劳和聪明。"
+      "explanation": "枣核虽小，但能干活也能惩治恶人，体现了勤劳和聪明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e4ee32adad278d817fcbd5ece76922497fc46c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1765eb86a0e200c207537890b82bb3a946726a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b60b37bc6ba8c1294277802d081b8f77cb162f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4561e7e749a9a48483835d4e85199fe2c039b73f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99fd78451856f7889b53fb660c0ac338206567d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/958bbb0762202528f4648be774a826215ca46573.mp3"
+      }
     }
   ],
   "knowledge": null

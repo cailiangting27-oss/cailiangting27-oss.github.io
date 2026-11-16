@@ -25,7 +25,21 @@
         "跳舞"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "A-flying kites(放风筝), B-cooking food(烹饪), C-dancing(跳舞), D-drawing(绘画)"
+      "explanation": "A-flying kites(放风筝), B-cooking food(烹饪), C-dancing(跳舞), D-drawing(绘画)",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/573cd540217ad99b58e87f40b26d6ba51de62863.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c7a37dcb37a81d791a53d68b694243b5cdb8722.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63577fe817853eeaf5017f6dbafc6a64392229cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b9be56907c5d36be90e52ba60135a5a0df15e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4f99578c04e974810cdd12ceb7ae902de7291d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d601839da068592dd28797f63e139058b5cbf651.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60cb26f83b8e2e2cf8ed5872adaca1f58d3eaf2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b37b1b2e50fc42ad3353d52c74f63a4bc9d7cd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575d491eaa8ca1f455eacd110fe599e043a908fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c38e288d67892eaaf7e8daf3fd416de289dee4e9.mp3"
+      }
     }
   ],
   "knowledge": null

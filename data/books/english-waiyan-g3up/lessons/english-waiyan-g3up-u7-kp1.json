@@ -21,7 +21,17 @@
         "Are you headache?"
       ],
       "answer": "Have you got a headache?",
-      "explanation": "headache 合写。"
+      "explanation": "headache 合写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08cbe751966ee7dda1e977e9169ace11c6cfa319.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b17c9ab2668557901e1c44591e0f5cb4afb58e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d571bee8a9122ee1c020cee9c4b89cdada77bef8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7f34b587cf2050b7c3b168fc0b9bff69788d466.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9185084bc5532602ba7e5fa75511a2c1019729da.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcd8176e2cda86c066b84031d829bbcf3b8f1792.mp3"
+      }
     },
     {
       "id": 3,
@@ -37,7 +47,17 @@
         "a feverr"
       ],
       "answer": "a cold",
-      "explanation": "have got a cold 感冒。"
+      "explanation": "have got a cold 感冒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bfc31c202546a11ad4987fb14a713790908c256b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43d76b7aa21b227f080584e4c7d633efb6ba6380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f740f0ea984c85f3accf578daaeb1ba9086fe678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f856028a7cdad15baa6f72eb4da1cfa6ef78ebab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/595fbc52eb852e5a9a6dfae4a90c0e206ea26419.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15f9e259ee8c5ddc26d95057f5f4e96c0d34e1a1.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "cough 的意思是「咳嗽」。",
       "options": [],
       "answer": "对",
-      "explanation": "cough = 咳嗽。"
+      "explanation": "cough = 咳嗽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a3c98c6256cb9fd162370379e4e77321ddbdfa4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/4806bfda9fdab9ef161ad967b1750a36b68f5152.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "头痛说成 head ache 分开。"
     ],
-    "tips": "headache 合起来写。"
+    "tips": "headache 合起来写。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a4/a48ce47e641e6785a9dd30e38970c36d3c4fcad1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/87/87ee4784b2bb1e718b659ec02c45d35c9f1b7d2d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b1/b17c9ab2668557901e1c44591e0f5cb4afb58e79.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b8/b8db8f7620b4d3eed1575aa9c228996cd275b5a8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0d/0dc998dccc5ae8bdc98d45af4197534d0ea573bf.mp3"
+      ]
+    }
   }
 }

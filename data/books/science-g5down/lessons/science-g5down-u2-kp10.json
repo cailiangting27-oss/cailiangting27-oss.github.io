@@ -16,7 +16,11 @@
       "question": "在制作小船时，应先进行制作，如果发现问题再进行设计修改。",
       "options": [],
       "answer": "错",
-      "explanation": "工程流程应先设计，后制作，测试后再优化。"
+      "explanation": "工程流程应先设计，后制作，测试后再优化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78750b60cdc46560b2a48fb6ce4769bf59713be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47ad793adb94a04b8b96e0f29f18903f50283bd3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "不做方案直接动手制作",
       "忽略材料成本约束"
     ],
-    "tips": "画好设计稿再动手，标注主要材料和关键尺寸。"
+    "tips": "画好设计稿再动手，标注主要材料和关键尺寸。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d7/d75ff479f63f82a5094b9ea6562f233645bcede0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b0/b0bd83a2a3bd16fa3eafd873dd8a634873ab0354.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f4/f44f64d775d8bf78d9557fc663aa7213cfa07537.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/abd6a08c4b501e3719040bc9429cafd47cbfe9b6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/23/23b285afeb675e5307c420f90f5cee1e95fe8273.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a0/a06abbd6f7a8e14da0963d139111a7484cabceba.mp3"
+      ]
+    }
   }
 }

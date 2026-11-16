@@ -16,7 +16,11 @@
       "question": "当回答 'Is he polite?' 时，可以用 'Yes, he is.'",
       "options": [],
       "answer": "对",
-      "explanation": "Is he...? 的肯定回答是 Yes, he is."
+      "explanation": "Is he...? 的肯定回答是 Yes, he is.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/392afbd3844ef8e6a2a90bb81a51b2a443fec891.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd9ee4afbd1eac36011467af6ffb97693ce50431.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "No, he isn't."
       ],
       "answer": "No, she isn't.",
-      "explanation": "一般疑问句否定回答主谓必须一致且使用否定形式。"
+      "explanation": "一般疑问句否定回答主谓必须一致且使用否定形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/725888fe922a94b1701d28dee01d2450b0323f2c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d650a4514cd328a47d17426b4b79353e83e2bfc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46f00fca41c63a4e2ddcfea9ad1c5b2179f55271.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52b2bf6ce73ffb355c941aa7e18c4abe01d45fb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3acbb09ad06da2f29953f1a520b95f6262c8a5f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75685d7005b8a970717ed1b4fdea09b88319e271.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "they're"
       ],
       "answer": "he's",
-      "explanation": "father 是男性，缩写 he's。"
+      "explanation": "father 是男性，缩写 he's。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d326184728f1111aec7406aed9fbafb30d4ca30.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5aa7bb9a46f2e20b5eaf45cb5a201aff1346386d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48acaaf2d0c77c7efc015b269b5c993650172a4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79bbc535e98fe7e64ace715175a9b3d6e4167bf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1010638da6f185e45a7fb6a4f70864479aa1a43f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42a99abd4b2ad2109731a074c624ac213d4e3e2e.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "— Is he funny? — No, he ______.",
       "options": [],
       "answer": "isnt",
-      "explanation": "is not 的缩写，此处填 isnt 符合小写要求。"
+      "explanation": "is not 的缩写，此处填 isnt 符合小写要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1ec8115db1425d28f5a05ec0ef4d78c242548a3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8c3aa26a06a35f9224365a95fdfadfdf80dadf9.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +103,17 @@
         "?"
       ],
       "answer": "Is,she,kind,?",
-      "explanation": "一般疑问句结构：Be动词+主语+形容词？"
+      "explanation": "一般疑问句结构：Be动词+主语+形容词？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23e0dc2134c6ff96dd3880fc22128a874f39eaf8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ef25ae00f40c8471ee44b720036abcc25e96cee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/0929084b46f96e777eeda6a64a8abc08395b245c.mp3"
+      }
     }
   ],
   "knowledge": null

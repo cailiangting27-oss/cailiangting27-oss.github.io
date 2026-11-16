@@ -23,7 +23,19 @@
         "?"
       ],
       "answer": "How,did,you,go,there,?",
-      "explanation": "疑问词+did+主语+动词原形+其他。"
+      "explanation": "疑问词+did+主语+动词原形+其他。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bff7437ca2c18afdda225575112a4d1c9f819a5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/490528f36debf7c15cea5e9a9d1ea024cf6b2921.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/4463fb1ce694f386bf60b95efe68fdbd52bb7a5b.mp3"
+      }
     }
   ],
   "knowledge": null

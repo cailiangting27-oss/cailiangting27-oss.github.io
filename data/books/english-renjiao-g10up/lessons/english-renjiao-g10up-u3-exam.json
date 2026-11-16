@@ -64,7 +64,15 @@
         "Never mind."
       ],
       "answer": "That's a good idea.",
-      "explanation": "赞同表达。"
+      "explanation": "赞同表达。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/87/8721eb15a0553a967967f92b05b35ef2bfcdccc3.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

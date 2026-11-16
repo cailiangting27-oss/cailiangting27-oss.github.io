@@ -21,7 +21,15 @@
         "What's your name?"
       ],
       "answer": "Hello! I'm Li Ming. Nice to meet you.",
-      "explanation": "主动问候并自我介绍。"
+      "explanation": "主动问候并自我介绍。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "What are you from?"
       ],
       "answer": "Where are you from?",
-      "explanation": "be from 疑问式。"
+      "explanation": "be from 疑问式。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7bc5e7f6b5915a1e918b4851d1f128e2b1a57db8.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/a2/a24ed6fd363dc6060911a1206c12f054b34966f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1099b70fc5c92c9ee599a8a588d6b7b38fdb4785.mp3"
+        ]
+      }
     },
     {
       "id": 7,

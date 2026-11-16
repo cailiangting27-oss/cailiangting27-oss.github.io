@@ -21,7 +21,17 @@
         "be angry"
       ],
       "answer": "help others",
-      "explanation": "罗宾汉的故事寓意是帮助他人。"
+      "explanation": "罗宾汉的故事寓意是帮助他人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91a1bc52006686d3b415c704ec34192c41fbccc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ecf5421e5d619b44b118e15702a4800f021275d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76c0bdd75a03ba69adb38bdb31d47ae5a7d41f37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/565ea62ef71c836903d10707031fa84cf300364c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2620298ebd60a063fd640ca389c5f5b4ba4da512.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9dd588505e25afc7ead229b2345fa3866b6eab6.mp3"
+      }
     }
   ],
   "knowledge": null

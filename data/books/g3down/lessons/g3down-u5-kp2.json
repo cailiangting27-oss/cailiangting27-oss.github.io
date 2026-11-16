@@ -16,7 +16,11 @@
       "question": "边长是 1 分米的正方形，它的面积是 1 平方分米。",
       "options": [],
       "answer": "对",
-      "explanation": "正方形面积 = 边长 × 边长，$1 \\times 1 = 1$（平方分米）。故正确。"
+      "explanation": "正方形面积 = 边长 × 边长，$1 \\times 1 = 1$（平方分米）。故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/411f00b8dd775ec1205ee347a055d8f671747838.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/573dd502efbff4bfa71b2847b56c831c1e492471.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "厘米"
       ],
       "answer": "平方厘米",
-      "explanation": "较小的物体表面通常用平方厘米作单位。邮票很小，约 6 平方厘米。"
+      "explanation": "较小的物体表面通常用平方厘米作单位。邮票很小，约 6 平方厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4ab0eb680244413d090593adbd1ed2befcc3b8a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba30e71d5f7b6bdcc8fca5c2589f778fb7a95fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e61fce88e54402e3bae0b5ad18d3c506a83baa4.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "100 平方厘米"
       ],
       "answer": "10 平方分米",
-      "explanation": "1 米 = 10 分米，$10 \\times 1 = 10$ 平方分米。"
+      "explanation": "1 米 = 10 分米，$10 \\times 1 = 10$ 平方分米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2bbf1ad355a3afc06b19b51c20ea031dfb92aef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a2a83ab7403dc04c1d4f43d8f6309234d9a33e40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c30f9a95b737e0c6ae92061febeda2bc0a66a69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c3d5022480b15e7e1e23083114eb05093acf04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73ac063aa683454e114a1100e8bf66fac3492159.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/582caad4c3727238b5a9ab2ba169104f8f1cc1ae.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "1"
       ],
       "answer": "100",
-      "explanation": "1 平方分米 = 100 平方厘米，每个小正方形是 1 平方厘米，所有可以剪出 100 个。"
+      "explanation": "1 平方分米 = 100 平方厘米，每个小正方形是 1 平方厘米，所有可以剪出 100 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8f1ca5a0632ae6fd47ec8bd3fa9e82866549bb2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a21a0f663d25d6b90075cea30af62244211960a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "忘记带‘平方’二字，把面积单位写成长途单位（米、厘米）",
       "单位感知错误，如给教室地面选‘平方分米’"
     ],
-    "tips": "寻找身边的参照物记忆：大拇指指甲约1平方厘米，成人手掌约1平方分米。"
+    "tips": "寻找身边的参照物记忆：大拇指指甲约1平方厘米，成人手掌约1平方分米。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b6/b6c64d730d1fba3cdfe0f287ad994f0eb5723d90.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ed/edc8486cffa5109bd158c60a963ef1f04e69282a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a5/a5bf6522590dd86a904cd8a045dfd7bff125b0de.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c2/c205513ac76b50a65ad5eb44744b022b5704d324.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3e/3e3b49d58247038930258ab72f515ea56bd68756.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7a/7af003bbddf274b326737e26b6733976c54e6682.mp3"
+      ]
+    }
   }
 }

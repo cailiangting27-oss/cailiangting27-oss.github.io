@@ -16,7 +16,11 @@
       "question": "大象觉得自己的耳朵有毛病，是因为小兔、小鹿等都说他的耳朵耷拉着。",
       "options": [],
       "answer": "对",
-      "explanation": "大象是因为听了别人的话才开始怀疑自己的耳朵。"
+      "explanation": "大象是因为听了别人的话才开始怀疑自己的耳朵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9d8e4f58ad966f79c35db9c91ee632114bad3fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fe2a75fb6364980455070b0e353d7257fd76664.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "大象不喜欢改变"
       ],
       "answer": "要保持自己的特色",
-      "explanation": "每个人都有独特性，不能盲目模仿别人。"
+      "explanation": "每个人都有独特性，不能盲目模仿别人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44b7a087a1f85d25e9c268100441ba248c02369b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc85b6c8037d75bc7399cb754d296463b5df4d9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef02b49e1cdf6a37712b05f25696aa9abebfde42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56d34aefb435ef135d47d6118f3f656d05433fb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec53af07489d5b414fac4d98c145c080fd5c0121.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9db745c76321c766a4f515755ab76da163cf692b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "误以为“改变”一定是错的，不理解大象是为了适应环境而回归初心",
       "在阅读时无法准确概括大象心路历程的变化"
     ],
-    "tips": "可以通过对比大象耳朵撑起来前后的不同心理和后果，加深对“特色”的理解。"
+    "tips": "可以通过对比大象耳朵撑起来前后的不同心理和后果，加深对“特色”的理解。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b2/b2204f9827443a3e514c080097a75844ea362997.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/71/716803a4016198f0267982f1f4b6ac8dd84eb7d3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/84/847d0fa652ef1f46dbc268b9c337fdc88d27237c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a2/a2e926dd6dda469dd29c8bffc7620dc001675d03.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/eb/ebc51c9087f6b0f4926382978edf92b1c77cec9a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/11/11be5fea5b15da2b7fcfc8244828a16f6c265b34.mp3"
+      ]
+    }
   }
 }

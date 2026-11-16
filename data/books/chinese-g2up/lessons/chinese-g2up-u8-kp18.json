@@ -21,7 +21,17 @@
         "为了考验小熊"
       ],
       "answer": "为了自己多吃奶酪",
-      "explanation": "狐狸通过不断咬掉多出的部分，最终吃光了奶酪。"
+      "explanation": "狐狸通过不断咬掉多出的部分，最终吃光了奶酪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71adbef6c10e225a9bbc18d3870c4ad34b553493.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6666a300bb92f3eda471b104e9855b477a855c01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7db76edfaed7812bd21ddc720172c680954d9518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f0ab9baefb7d13195e822f1f7e53735c66d97fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2a99ba34adf46963e8671dabfd55011a8489ea7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbbfebfed8f8eba830ecd4140e0b50f8f4aad15b.mp3"
+      }
     }
   ],
   "knowledge": null

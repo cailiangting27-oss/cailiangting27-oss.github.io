@@ -21,7 +21,17 @@
         "那是一颗剧烈跳动的心。"
       ],
       "answer": "我的心跳动得真剧烈啊！",
-      "explanation": "感叹句通常带有感叹语气词如“啊”、“呀”和感叹号，表达强烈的情感。"
+      "explanation": "感叹句通常带有感叹语气词如“啊”、“呀”和感叹号，表达强烈的情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72ded917cf08c95a3d7fbd2728edfedaa66a49fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f974c8e396e91b70c03e9fbc8b7c2ea6362b5f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f9e54fb261a4bca551f74eb021b24307531bd7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49faa93ddf3c23847a56ba856c2f7de1820cddee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72178a544060b8105690d2072e6d7416f054eaa6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/868f9de174c906bf6bbfca2f8dfc75a4b22e21f8.mp3"
+      }
     }
   ],
   "knowledge": null

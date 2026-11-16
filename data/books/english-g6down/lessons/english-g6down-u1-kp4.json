@@ -16,7 +16,11 @@
       "question": "形容词 'tall' 的比较级形式是 'taller'。",
       "options": [],
       "answer": "对",
-      "explanation": "形容词比较级的规则变化是在词尾加-er。"
+      "explanation": "形容词比较级的规则变化是在词尾加-er。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2330267ff8b236960bf9804862e560389b4c2d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3c78287ce30e0269b5f804dea168ff50020747a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'heavy' 的比较级是 'heavyer'。",
       "options": [],
       "answer": "错",
-      "explanation": "以辅音字母加y结尾的形容词，变y为i再加-er，应该是heavier。"
+      "explanation": "以辅音字母加y结尾的形容词，变y为i再加-er，应该是heavier。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de4fef85fd9898bf464ac11a570b345467f82d30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94b81269192b812662d3e379af43e747d6907dac.mp3"
+      }
     }
   ],
   "knowledge": null

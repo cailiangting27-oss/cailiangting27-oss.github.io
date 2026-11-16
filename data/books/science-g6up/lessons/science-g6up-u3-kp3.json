@@ -21,7 +21,17 @@
         "无法判断"
       ],
       "answer": "省力",
-      "explanation": "动力臂大于阻力臂时，杠杆省力。"
+      "explanation": "动力臂大于阻力臂时，杠杆省力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1ccbbc405ccd4ce7c126ce21d590b5d5640a700.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2d3f81cabaf7db70450fe9f659c903a6d20ab7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b932028a487078ff954e51b81c28152fd0f6f8e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da8e1009acaf4c5e74285bbb6039613fef1bd347.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84735938f5ea956c082df5c7183cbfb554b999e9.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "等臂"
       ],
       "answer": "费力",
-      "explanation": "镊子的用力点在支点和阻力点之间，动力臂小于阻力臂。"
+      "explanation": "镊子的用力点在支点和阻力点之间，动力臂小于阻力臂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe150751dc85be03b67b9accb767965834e5e5fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2d3f81cabaf7db70450fe9f659c903a6d20ab7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b932028a487078ff954e51b81c28152fd0f6f8e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da8e1009acaf4c5e74285bbb6039613fef1bd347.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f796d935e5a1a879ee674bb316246e5727511c71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1de8d803522cf0ff11a43030a25dbfb7047eea0e.mp3"
+      }
     },
     {
       "id": 18,
@@ -53,7 +73,17 @@
         "支点"
       ],
       "answer": "支点",
-      "explanation": "杠杆三个要素分别是支点、用力点、阻力点。"
+      "explanation": "杠杆三个要素分别是支点、用力点、阻力点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de48f1a8e59cd20c335f547fa8845f574d7cc811.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90e57aa8529a11aa67f6976997999ef0e3846b38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f395e487849d8f8bef529d6aad6021f828129e3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa723fee4893f0724a018b6ff84fea383e1159d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1db537bfe5e00783924a9235a7066039474241a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/770a974821329edf89a26900a6c857b0673b1234.mp3"
+      }
     },
     {
       "id": 19,
@@ -64,7 +94,11 @@
       "question": "一套杠杆装置中，如果有（）个支点，这个杠杆才能正常工作。",
       "options": [],
       "answer": "1",
-      "explanation": "标准的单一杠杆有一个轴心点或支承点。"
+      "explanation": "标准的单一杠杆有一个轴心点或支承点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/9457318426a56c38678a453501cbb9644044480e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad424d81d5c5727cc9e9b5b2adbc6dc7416fdd71.mp3"
+      }
     }
   ],
   "knowledge": null

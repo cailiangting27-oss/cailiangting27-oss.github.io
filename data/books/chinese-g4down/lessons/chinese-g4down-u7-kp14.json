@@ -21,7 +21,17 @@
         "执行通信任务"
       ],
       "answer": "用胸膛堵住敌人的枪口",
-      "explanation": "堵枪口是黄继光舍己为人牺牲自我的英雄行为最核心的表现。"
+      "explanation": "堵枪口是黄继光舍己为人牺牲自我的英雄行为最核心的表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38cc1957bba27075376ebf4c7be42825f35265f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1afbba698d0fa476c85b5e3c3fbd8cd7a1db1c0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/dee040d65ddc6ff1e957d9a6882456811deb4541.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9dc0e60c9da05ec54e3fc32d56e302ef06098e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14fcceab1db295d8ce60868f209dd5f70ff8c6ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f5e8a2c1884913072ea66ab2c5013a65e713e73.mp3"
+      }
     }
   ],
   "knowledge": null

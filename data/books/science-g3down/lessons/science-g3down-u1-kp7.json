@@ -16,7 +16,11 @@
       "question": "只要有方向，我们就一定能确定一个物体在空间中的准确位置。",
       "options": [],
       "answer": "错",
-      "explanation": "描述位置需要方向和距离两个要素，缺一不可。"
+      "explanation": "描述位置需要方向和距离两个要素，缺一不可。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/986f4ef2dc2d31d1400545fce7b0fc0b1f12d987.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8edca0be45ce143cc04cd7c6fe843a7977741f0.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "他在校门正东方向10米处"
       ],
       "answer": "他在校门正东方向10米处",
-      "explanation": "准确描述位置包含：参照物（校门）、方向（正东）和距离（10米）。"
+      "explanation": "准确描述位置包含：参照物（校门）、方向（正东）和距离（10米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c50918ef7f076a02e6e69f055e6e40bea2da8f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54e617cd31746db0787f3b96af6f019844cf3c0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac0a62b41b747e89d061b0851d34bb6d7d19c308.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8919a488210f0f94ffe22a13c29d21e4736d5ed3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1db423f4323ab53e6047e1bd454effb7b4026103.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6267f6f359de339a04848481075d08fb08365318.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "重量"
       ],
       "answer": "方向",
-      "explanation": "指南针是利用磁场指示南北，从而确定方向的工具。"
+      "explanation": "指南针是利用磁场指示南北，从而确定方向的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b31cdec6c4159d70ef6f0f7ecef0a5d17ecd3d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3480678b68e3ef722997074cb3b3e260420ed34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d531f329efc816435486d4b8bfcc25f1d7b64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a4f2ecb1c08074ed58119537f6969b07c4bba51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ed7180902e4f8eb12317b82dcfeffe030de587e.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "在地图或校园平面图中，通常用“上北、下南、左西、右东”来表示方向。图中共有（）个基本方向。",
       "options": [],
       "answer": "4",
-      "explanation": "东、南、西、北为四个最基本方向。"
+      "explanation": "东、南、西、北为四个最基本方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a3bddd03b830d7138bdae21bc8195eaf6943701.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62a06d6ef6f3ce07d5f4c588ab7ad6d85c3425d6.mp3"
+      }
     }
   ],
   "knowledge": null

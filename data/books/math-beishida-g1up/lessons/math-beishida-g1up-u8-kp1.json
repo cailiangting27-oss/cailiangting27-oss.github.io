@@ -21,7 +21,17 @@
         "长针"
       ],
       "answer": "时针",
-      "explanation": "时针短粗。"
+      "explanation": "时针短粗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07c969d67e2e5cf3105f6d3ee1fb291538349361.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4a82f17864d901771e09052fb3244b100a5f52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2233781732712993ac508172cef99c3e5cd448ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17e904c7ca18ba97a5036fdc9af77b960fe3860b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b776685d0d94477517b2ea2aea95023d1b8b335.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5582523399676d7f1e76c5d219806c703a2c1d99.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "60 分"
       ],
       "answer": "1 分",
-      "explanation": "1 小格 1 分钟。"
+      "explanation": "1 小格 1 分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb04907c939722d63a739160663752afd312e8a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7e00ba5eebf4ea1a9762f6a3d33b6bc9295761a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dff9e2ea93f3ea686a1a65cd391ec8cb4107ec96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9440a04a4cd26403c2e1e2addc72b079b360cf70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57f1e569606cd52db4a1f3735edca05f68b7283b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7ba70f0384bec2689c53021ca74c7cf301d58ca2.mp3"
+      }
     },
     {
       "id": 4,
@@ -53,7 +73,17 @@
         "24 分"
       ],
       "answer": "60 分",
-      "explanation": "一圈 60 分钟。"
+      "explanation": "一圈 60 分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40467b42c332e417b64d348bd0086f0366d32fdf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57f1e569606cd52db4a1f3735edca05f68b7283b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc224301584209ec44d8fc1ad15c0ff00ab71b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7e00ba5eebf4ea1a9762f6a3d33b6bc9295761a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb7ea74f6b00db67c5e1d3f8fdfeec1277bc41a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f956f4a8236de0338c2a86024c5add56c65718b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -63,6 +93,15 @@
     "common_mistakes": [
       "把时针分针认反。"
     ],
-    "tips": "时针短，分针长。"
+    "tips": "时针短，分针长。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ad/ad74e97e6ecb9a9a14ed54b868a0a30cc993bfe8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f7/f738b711eb0a7bd89bf51ef4d052b098879ccff6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cf/cf47a5a118564d9078e6d16945bbc4a2a0404853.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8f/8ff1550ef99bdf1a4accbdf09d7c46e95306add0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/11/11c987ab7b82d86c2cd6bb1da0afe9d07a0feb2c.mp3"
+      ]
+    }
   }
 }

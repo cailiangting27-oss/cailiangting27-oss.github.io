@@ -21,7 +21,17 @@
         "ate"
       ],
       "answer": "took",
-      "explanation": "take pictures（照相）的过去式。"
+      "explanation": "take pictures（照相）的过去式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e4f9d9c99b5b3c83ea7951e29fd06449e266a00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1b416becb29d7acd0c4004ae2f7ec84b199e9fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29596a43a2ef2bbfa00f6a16c0cb1d108bc63e32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189b7ea01f86694bbb0fd98bed73c059692d1656.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99397f95868c5f1773bf1cd1413c2bc23e682732.mp3"
+      }
     }
   ],
   "knowledge": null

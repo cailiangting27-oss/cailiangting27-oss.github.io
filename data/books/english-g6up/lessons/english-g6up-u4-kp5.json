@@ -16,7 +16,11 @@
       "question": "在句子 'He likes singing.' 中，likes 是动词 like 的三单形式。",
       "options": [],
       "answer": "对",
-      "explanation": "当主语是 He 时，动词 like 需要变为三单形式 likes。"
+      "explanation": "当主语是 He 时，动词 like 需要变为三单形式 likes。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c0d52cf70c4e56e5f357b89a261cc9f00a07cbf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b84a4935f3d188099491c70ff52b2ea430b9c520.mp3"
+      }
     }
   ],
   "knowledge": null

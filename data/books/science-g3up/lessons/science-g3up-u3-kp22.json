@@ -21,7 +21,17 @@
         "纬度"
       ],
       "answer": "摄氏度",
-      "explanation": "℃是国际上常用的摄氏温标单位。"
+      "explanation": "℃是国际上常用的摄氏温标单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2836ab83f3d6b8672da70e2824d91d904f2bfc09.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e4e4ba3ed24f6a1d743adda7248e32ce306eab69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3a2ab7764652770709e378c6ce42c1d34dfc27d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cfa2fed10154528aed301cbddd264a1b74a1ed3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9f778711d4b8dd3eb27d1b5c7175df1ba164c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce43c2c1f315a48c810c3782329e1535ef5a09c5.mp3"
+      }
     },
     {
       "id": 21,
@@ -32,7 +42,11 @@
       "question": "气温计主要由液柱、刻度、单位和（ ___ ）组成。",
       "options": [],
       "answer": "液泡",
-      "explanation": "气温计下端装液体的部位叫液泡。"
+      "explanation": "气温计下端装液体的部位叫液泡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05a12663b61c27d2d17931ca721960064dc7219a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97984ef220bb1f135c22859c5e8c4199a263290a.mp3"
+      }
     }
   ],
   "knowledge": null

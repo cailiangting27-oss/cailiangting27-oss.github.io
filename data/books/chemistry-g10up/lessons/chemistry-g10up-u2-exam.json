@@ -21,7 +21,15 @@
         "闻气味"
       ],
       "answer": "加热",
-      "explanation": "碳酸氢钠受热分解。"
+      "explanation": "碳酸氢钠受热分解。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1dd3e618c9e2d21a1e53f268703bc8edc8e5e3.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

@@ -21,7 +21,17 @@
         "山势的高低"
       ],
       "answer": "溪流的变化",
-      "explanation": "通过“宽、窄、缓、急”四个词体现了溪流在不同山势下的变化。"
+      "explanation": "通过“宽、窄、缓、急”四个词体现了溪流在不同山势下的变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a1bb806a66a48de53610499547789cd9787e728.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88f0f387bdb7826d25ec2877ad85d7dca7462118.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6106541b298e35757b51ad419ba9e6c36be7ebbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cada5fab9489b7e4f45a402a5469d7ea34b177fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dbc59e8156c0bcee05d144e4490343742034140.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46a19bf4b2cff0268ba8ffd631ac09d750316559.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "主语是you，be动词应用are。"
+      "explanation": "主语是you，be动词应用are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d838b30b0098107b302c78a0a3e73e59b974835.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1dd24b4e00aed6cd3f4b943ca34a491e34af7da2.mp3"
+      }
     }
   ],
   "knowledge": null

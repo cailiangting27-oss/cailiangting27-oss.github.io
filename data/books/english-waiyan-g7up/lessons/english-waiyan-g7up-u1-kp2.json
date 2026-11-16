@@ -21,7 +21,16 @@
         "Who are you?"
       ],
       "answer": "What's your name?",
-      "explanation": "问姓名。"
+      "explanation": "问姓名。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c7/c71f447d1e0a63091e696422be6cb3282a5934c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/364d0de5600f667003b9bd48368369efcad9d666.mp3"
+      }
     }
   ],
   "knowledge": {

@@ -16,7 +16,11 @@
       "question": "月亮在夜晚看起来很亮，所以它是一个光源。",
       "options": [],
       "answer": "错",
-      "explanation": "光源是指自身能发光的物体，月亮是反射太阳光，不是光源。"
+      "explanation": "光源是指自身能发光的物体，月亮是反射太阳光，不是光源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bd9934bc61a74ce2c8946889ddfcb83f1becd8a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05b08d2d79dbd1aaa789f59993982fa74583f64d.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "明亮的月球"
       ],
       "answer": "燃烧的火把",
-      "explanation": "光源必须是正在发光的物体，火把正在燃烧所以是光源。"
+      "explanation": "光源必须是正在发光的物体，火把正在燃烧所以是光源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07414823ff697de9dc54c8a5dc0eb80070451178.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e91a050c349e8bc1e3c2bfd55d123fa9e960147b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b64efdd338932de78e2d06b8b2d49411ba2aae9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14b7863ef68380cf56731c73309a32ac01bb1c59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ce665cee7943e0a32b0701f3b990c6e9fd302bc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/1299aababe6c5cdac81e1b9f800499b681d72ba3.mp3"
+      }
     }
   ],
   "knowledge": null

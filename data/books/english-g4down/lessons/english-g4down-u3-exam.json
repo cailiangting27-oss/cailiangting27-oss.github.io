@@ -16,7 +16,11 @@
       "question": "'windy' 的意思是'有风的'。",
       "options": [],
       "answer": "对",
-      "explanation": "wind是风，windy是有风的。"
+      "explanation": "wind是风，windy是有风的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6462f51039bd73c9cefe339e6f5d32c72076034.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33c9a453c165e602b7275910f82ef6b59342ead0.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'warm' 的温度通常比 'hot' 要高。",
       "options": [],
       "answer": "错",
-      "explanation": "hot是炎热，温度高于warm（温暖）。"
+      "explanation": "hot是炎热，温度高于warm（温暖）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19d30f853118d7e47fdeae068fa416ef3d17a25f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65d529059a0356b2492a4d91e643d09af04285e5.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "当我们说 'cold' 时，通常指的是'天冷的'。",
       "options": [],
       "answer": "对",
-      "explanation": "cold意为寒冷的。"
+      "explanation": "cold意为寒冷的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81ed7fdc66f355be82e1b463af778d11a8ded89d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df770bcd71a4a12993b56cc679946da73d70ec63.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "It's always snowy in Sydney in July.",
       "options": [],
       "answer": "错",
-      "explanation": "悉尼属于澳大利亚，7月虽是冬季但极少下雪（常识性判断天气的变化）。"
+      "explanation": "悉尼属于澳大利亚，7月虽是冬季但极少下雪（常识性判断天气的变化）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bea397e06144bcdeb4727866f41d790979aa1e4d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1e83aa3e9888ccad265d3baf780d9da49100e28.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "Who"
       ],
       "answer": "What",
-      "explanation": "What is the weather like...是固定句式。"
+      "explanation": "What is the weather like...是固定句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/700952897c6d9b56f7a38aa7a8ea5824f241eac2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8801f9ddf080119d5631f645e3ea308c639a4b9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "rainy"
       ],
       "answer": "cloudy",
-      "explanation": "云（clouds）多说明是多云天气（cloudy）。"
+      "explanation": "云（clouds）多说明是多云天气（cloudy）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60887a75a0ba7bc12ec71acd05406ed284ba9e7f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a53260b3d6e1d0d9d9fdd4b842577fa263c195e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/406540cc31e855fc9e4f46bac2a1b8d3e653d563.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "in"
       ],
       "answer": "for",
-      "explanation": "It's time for + 名词表示该做某事了。"
+      "explanation": "It's time for + 名词表示该做某事了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8856b795a4a4691cdb279f8d8f2ea644e8427daf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dab133a4f09248ed2199b8ef021cf5612a194118.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "warm"
       ],
       "answer": "rainy",
-      "explanation": "带伞（umbrella）说明要下雨（rainy）。"
+      "explanation": "带伞（umbrella）说明要下雨（rainy）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8898b762c065506a6a6ca1587dd2dba3e00e84f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d83fc386ba33f5d5e06441c03df77ebee2beb6e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cce466e54886052c5021c3a42fb536e9e4c57d72.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "No, it can't"
       ],
       "answer": "Yes, it is",
-      "explanation": "5度非常冷，所以是肯定回答且主语一致用it is。"
+      "explanation": "5度非常冷，所以是肯定回答且主语一致用it is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f2b43a3217dca075c99ac8ebd72998c632b1e4f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/4097b3e18d75f00e968ff55cad5628e0000a1488.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45ddbbb6794ec235a7ee63d9141e09d3e24609fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e0875080f6f115f1a7d0a84ee82ea9fdf526a97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48301aeea700ba9642ad3ca741f77443ee4a0eb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c5cdc974cbe1122430ec99fb9e2f706b9ab0f95.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "What's the weather like in Beijing?"
       ],
       "answer": "What's the weather like in Beijing?",
-      "explanation": "考查固定句式的应用。"
+      "explanation": "考查固定句式的应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9e21b5f113eda6b691d7d6e48a241e8638b9f00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71083091a6c57c5bfa3c27f518533fc54842ed96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b6694cccb5562dfbd53fda4703aac13d16b9846.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1068653ab7d47016fd173f9191f7be24392ee292.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9bb876cfdde3e8f45e4e2e3d7c954ba47380c23.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e6b7e429cd66c03cf5d979567fb55d121c0153b.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "It's ____ (下雪的) in Harbin.",
       "options": [],
       "answer": "snowy",
-      "explanation": "哈尔滨常有下雪天气，单词为snowy。"
+      "explanation": "哈尔滨常有下雪天气，单词为snowy。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15e97f40eb7e085842a244a7abb8e3003d82bdf8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23566d75a3bd4535557aec71d154af89d4bd2acb.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "____ the weather like in Kunming?",
       "options": [],
       "answer": "whats",
-      "explanation": "what is的缩写。要求全小写字母。"
+      "explanation": "what is的缩写。要求全小写字母。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/008a1e361233929551cef9677b41b921c81b09f7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6feb088373fa9ae10d68c6160f6ae2b9b4a13281.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "It's 35 ____ (度). It's very hot.",
       "options": [],
       "answer": "degrees",
-      "explanation": "形容温度的单位是degrees。"
+      "explanation": "形容温度的单位是degrees。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6d11f6abf4b725838eeae876ae486cec4d00a47.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2cc84b9f55bc3581ac2d69d5e8f093204d2d8a1.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "堆雪人"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "下雪堆雪人，晴天去公园，有风放风筝，下雨带伞。"
+      "explanation": "下雪堆雪人，晴天去公园，有风放风筝，下雨带伞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb54dac8b2a006ffd363c447598ed77e11ee2c1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7780da2ed9287162dc488c0c0f0ba72651ea9b36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60cb26f83b8e2e2cf8ed5872adaca1f58d3eaf2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d84110de4baf0c71b7e767ced4a72e0ce14b6a7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35553c4c984637b3fad5a8787ce295543086e920.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61bb50d2814a0fee8ce9f994bde95cbfd7f79b8e.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "is"
       ],
       "answer": "How,is,the,weather",
-      "explanation": "How is the weather? 是询问天气的另一种表达法。"
+      "explanation": "How is the weather? 是询问天气的另一种表达法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e40342d8c03b1c9ec042524e04899611d8f4d259.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f98669cc9b81fea7bd27f04b1d03b400f511a9df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d12e5b964ede2a85f584640b3ba05fb2d487830.mp3"
+      }
     }
   ],
   "knowledge": null

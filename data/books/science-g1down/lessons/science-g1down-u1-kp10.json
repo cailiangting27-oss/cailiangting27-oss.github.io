@@ -16,7 +16,11 @@
       "question": "空气虽然看不见，但是它确实存在于我们周围。",
       "options": [],
       "answer": "对",
-      "explanation": "空气占据空间，真实存在于我们的周围。"
+      "explanation": "空气占据空间，真实存在于我们的周围。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49b699ff7935650b726b48a619150f9514d528e7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd217f548194d91c761c4124c04991575f36a1da.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "可以流动"
       ],
       "answer": "有颜色",
-      "explanation": "空气是无色的，观察描述中“有颜色”是错误的。"
+      "explanation": "空气是无色的，观察描述中“有颜色”是错误的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30fd10f7157c3c8908bcba19e2224798cb96a69d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e9c38e27cb76794d0a330db7abe61461ee22922.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39d05bf2169903ebd23de6b986dc5e45012f8387.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f6f197786182e19822d6863038dfd421d5de662.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af537c93de542914916727308d943b3865540089.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41233df22c61626268b82d674ddc2255580724aa.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "放大镜"
       ],
       "answer": "塑料袋",
-      "explanation": "塑料袋密封性好，可以兜住空气并扎紧口袋进行观察。"
+      "explanation": "塑料袋密封性好，可以兜住空气并扎紧口袋进行观察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d51d3952917c8175eb215c45efe31817f6a85789.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c5cc0490b3d3a9c49ede64e72258fb2a8999a8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ae6a38452dc47c19c824c6dedb27e24c745b2e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3785d811c4d3b92c5904be3fdf9fc52464619c77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0398d9d8b83d41a2e316fa8fe7b055e8cee70d72.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/329481de4b30687ea5dd0fc98e0a792980485c33.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "我们周围到处都充满了（___）。",
       "options": [],
       "answer": "空气",
-      "explanation": "空气无处不在，占据空间。"
+      "explanation": "空气无处不在，占据空间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2624e1cf1e38e4d3a4a8c4d5a8cd6da86778634.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71cae2b2d85a80aeda3d9f1723d94fde4404e8bd.mp3"
+      }
     }
   ],
   "knowledge": null

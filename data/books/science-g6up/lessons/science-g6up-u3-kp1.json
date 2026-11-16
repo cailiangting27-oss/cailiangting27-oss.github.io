@@ -16,7 +16,11 @@
       "question": "手机既是一种工具，其制造过程中也包含了多种技术的应用。",
       "options": [],
       "answer": "对",
-      "explanation": "工具是实物，技术是方法或手段，两者紧密相连。"
+      "explanation": "工具是实物，技术是方法或手段，两者紧密相连。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7c1b22b8c65729a6025faf8b8ecf24ae6222b5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e9ad37d84643bfd5553d5d9061df250c82a4e17.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "发明了工具就一定发明了技术"
       ],
       "answer": "工具常常是技术的载体",
-      "explanation": "工具和技术相互促进，工具是技术的实物表现。"
+      "explanation": "工具和技术相互促进，工具是技术的实物表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c8202757b1bcddf335705005319dde5067d2905.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d5bf73b1fb292b85548423318d2e534f231d3ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83eeb88b8783ce7b81ddbfcb00d88c334951ce66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/697d643b9da96de841aabca3af2e75e30ce075cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec062a8e5aa63c7bda450846fc8326f18adc6df5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b012b75998c1c35ff588c8c8b80cadeb21e6b682.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "任务完成的质量"
       ],
       "answer": "工具的颜色外壳",
-      "explanation": "工具效率评估主要看省力程度、时间成本和成果质量。"
+      "explanation": "工具效率评估主要看省力程度、时间成本和成果质量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dba04329b9660413f4a8195ac16c9fd3f82365b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/468b58b6693448ac503b380cbdb43b9e5052ab5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b94d9edbed18d77e23ac5219260d911201add70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cfd5ea01d0a5a86ae299979bda5055683e69cf6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/706ba8ec2946bff51697edd02262f8bea9876aa2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afb7781f3fbdcbdaebd6f61f03ebf68315943262.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "人类历史上，指南针作为航海工具在海上应用了大约（）年历史。",
       "options": [],
       "answer": "1000",
-      "explanation": "指南针在宋代开始由于航海，至今约千年左右。"
+      "explanation": "指南针在宋代开始由于航海，至今约千年左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/791482f74c832c4565ad952d9f98a98c04d16dea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09f412df51ce9f19598788e5ee22531f415f1e68.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "鱼在水里不停地张嘴闭嘴是在喝水，它们不会口渴。",
       "options": [],
       "answer": "错",
-      "explanation": "鱼张合嘴巴是在让水流过鳃部进行呼吸，而不是在喝水。"
+      "explanation": "鱼张合嘴巴是在让水流过鳃部进行呼吸，而不是在喝水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2226bde7f1925fb95c42a501230e7cc2d0d75e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef9fa18dcc770e546e3da15e55fd6da59a2a4cbc.mp3"
+      }
     }
   ],
   "knowledge": null

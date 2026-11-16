@@ -16,7 +16,11 @@
       "question": "单词 'like' 和 'kite' 中元音字母 'i' 的发音相同。",
       "options": [],
       "answer": "对",
-      "explanation": "在开音节结构 i...e 中，i 发双元音 /aɪ/。"
+      "explanation": "在开音节结构 i...e 中，i 发双元音 /aɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8e05b6b38b73b6eaa9c3719024e53639915ea4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0265d4f54862db66854ead70e036ef4a00a0c897.mp3"
+      }
     },
     {
       "id": 15,
@@ -32,7 +36,17 @@
         "pig"
       ],
       "answer": "five",
-      "explanation": "five中的i发/aɪ/，其余三个单词i发/ɪ/。"
+      "explanation": "five中的i发/aɪ/，其余三个单词i发/ɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/526d0eaccd03e326b6434d2377457538804b8a58.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cd4ba93087f27499adb46f6a91ddeb729b9966b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2106122b0aa858f0af80a0a58b94bb92e19f47bf.mp3"
+      }
     }
   ],
   "knowledge": null

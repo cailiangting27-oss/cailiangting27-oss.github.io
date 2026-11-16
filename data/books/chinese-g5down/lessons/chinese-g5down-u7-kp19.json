@@ -23,7 +23,19 @@
         "非常"
       ],
       "answer": "威尼斯,和,小艇,关系,非常,密切",
-      "explanation": "表达两者之间紧密联系的陈述句。"
+      "explanation": "表达两者之间紧密联系的陈述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26cd2ed72834f63218d924a47c96c5ef880b5657.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f4e2cdc076605a37163f931aa27936d3b30826c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/daf4f2dc0e5939d475f6da2cd4ffc444b0040190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84ef8341f431240cbaeb910843a432d410ea18d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eff9e7e50bb50830b0e11929504844d2f586629.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3eb340971ffc2dd9cf4da3994078519f53a568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ebfac670522586cffefa7a12c1f7a19875d5db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/776de6ed6c5b41c2073b77211c230b5037e30ca6.mp3"
+      }
     }
   ],
   "knowledge": null

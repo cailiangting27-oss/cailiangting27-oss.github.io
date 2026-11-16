@@ -21,7 +21,17 @@
         "mother"
       ],
       "answer": "brother",
-      "explanation": "brother = 兄弟。"
+      "explanation": "brother = 兄弟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecf4cfcb5f0e26b363107504ef1619c8b02f272d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d8e5233271a9e187fc4ff59dfe61fdd71fcb99a.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "This are my family."
       ],
       "answer": "This is my family.",
-      "explanation": "家庭作为一个整体用单数。"
+      "explanation": "家庭作为一个整体用单数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdc24ce66d3972426ee03ac96bab1e6b8fd5d339.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/efd1c8648e967bbd45693718b56d7c9fa4c4c7dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7090b835e5797027a749e91682ad4e0515517a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1e8e6b12e401404f21ccfefbafe64c488801dac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76b3371745beb648330879fe9863c159cd60da42.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e476f6f5a95be2ba98f7757b8b924ca5d1757974.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "parents 指的是「父母双方」。",
       "options": [],
       "answer": "对",
-      "explanation": "parents = 父母。"
+      "explanation": "parents = 父母。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b6b12432fdc74136a153f788e38add49d2c2024.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/376cf5635ce737d8d9dcbe14e3cfa1d4b865ef31.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "This are my friends."
       ],
       "answer": "These are my friends.",
-      "explanation": "复数用 These are。"
+      "explanation": "复数用 These are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc6e1478dc2de49b657ef91c53bce28486ebf2f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d68cc8e8bcad0fafac04e990404427109803a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dccf7415cf64ac2fb45fdd69156969b9ab86db4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa2ebc589fe8a4e5cd686b605be0945f1b7aa92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc0b8153417d3236abd94107e406711660f16c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b9fd7830e4a825ce0b3bac1bfa9df561dc91802.mp3"
+      }
     }
   ],
   "knowledge": null

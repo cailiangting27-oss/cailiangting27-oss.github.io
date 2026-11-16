@@ -21,7 +21,17 @@
         "柳树"
       ],
       "answer": "水稻",
-      "explanation": "水稻产出的米饭是人类的主要食物来源。"
+      "explanation": "水稻产出的米饭是人类的主要食物来源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a950962f4e6c9ec23cb25b34be38abf4e9d3e835.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8575751134a5910c7d31a6335d8884db389a4617.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d71a077cd4e64b2ffdb11affdebcfb351efaf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62e267b9e4f385416bef5c83bb1663ea5f639bc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50e6a7257991a7653531decfd164f5075dd799c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd7dc44940aea0094ccb539fd72f564de6ab969d.mp3"
+      }
     }
   ],
   "knowledge": null

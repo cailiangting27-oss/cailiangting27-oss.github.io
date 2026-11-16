@@ -16,7 +16,11 @@
       "question": "I like swimming and doing ______.",
       "options": [],
       "answer": "kung fu",
-      "explanation": "练武术的固定表达是do kung fu。"
+      "explanation": "练武术的固定表达是do kung fu。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5bfb29dc371b467033f11881fdfe201289ee0db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9505a54aeddc8d364feb2de8ef4fd6ed6543cc1.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "我的脉搏跳动10次大约需要1分钟。",
       "options": [],
       "answer": "错",
-      "explanation": "脉搏跳动1次大约1秒，跳动10次大约是10秒，不会到1分钟这么多。"
+      "explanation": "脉搏跳动1次大约1秒，跳动10次大约是10秒，不会到1分钟这么多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b7c8c9522482b6d2e4abc36bae79f1531d7b8bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/349574295e54fa799a8adad5b959a6d0f17f0703.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "半小时等于30秒。",
       "options": [],
       "answer": "错",
-      "explanation": "1小时=60分，半小时是30分钟，而不是30秒。"
+      "explanation": "1小时=60分，半小时是30分钟，而不是30秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3dc1a7aadb414573c1f5e9c324d3e32adb48ad39.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4558274a7acb8ec9cb2354d503d63d66318ee87.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "10:00 比 9:30 晚了30分钟。",
       "options": [],
       "answer": "对",
-      "explanation": "$10:00 - 9:30 = 30$ 分钟。说法正确。"
+      "explanation": "$10:00 - 9:30 = 30$ 分钟。说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec48628c89419cf5810afc6e57de872dd17c1bfb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bdc3c6826b8798e2eedae4ddf4d20fec30fda5d.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "钟面上分针从5走到8，经过了3分钟。",
       "options": [],
       "answer": "错",
-      "explanation": "分针从5走到8走了3个大格，每大格5分钟，共 $3 \\times 5 = 15$ 分钟。"
+      "explanation": "分针从5走到8走了3个大格，每大格5分钟，共 $3 \\times 5 = 15$ 分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0d4f14bc62270a8df49d82c5e7710b5001a933d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06a4697ca80da2f8bbac9d15c5eb63bdd3b31f60.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "宜"
       ],
       "answer": "内",
-      "explanation": "由于系统JSON限制，这里演示符号选择：1分=60秒，4分=240秒。所以 $240 = 240$，填“=”（选项中暂用同位概念）。修正提示：应选带有“=”含义的项，此题正确答案为相等。由于Options不含等号，选C项占位逻辑修正：正确逻辑为 240秒 = 4分。"
+      "explanation": "由于系统JSON限制，这里演示符号选择：1分=60秒，4分=240秒。所以 $240 = 240$，填“=”（选项中暂用同位概念）。修正提示：应选带有“=”含义的项，此题正确答案为相等。由于Options不含等号，选C项占位逻辑修正：正确逻辑为 240秒 = 4分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7b113ed7d2918984c9c580025b41adc8e3b9e3a.mp3",
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/55/55f45903e8c35dccd42c31945cb3946a2b991307.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73041a6d56d7c5591b3897a28f6d6b0f2280ce2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47343accbb80abc52a234fbc8ef8fa31416e197.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "40"
       ],
       "answer": "90",
-      "explanation": "1分 = 60秒，$60 + 30 = 90$ 秒。"
+      "explanation": "1分 = 60秒，$60 + 30 = 90$ 秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/083cb18e8338b21120a00cef4e8fb0a0900300fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7541babb57434e5631ffa2b5639e24f8ce84fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5388acb84ecf097ba44299474a36d05920d6a9a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "8:30"
       ],
       "answer": "8:25",
-      "explanation": "开始时间 8:05 + 持续时间 20分 = 8:25。"
+      "explanation": "开始时间 8:05 + 持续时间 20分 = 8:25。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ed4b4fbf3a4bdd8177168e0bd7a5c92adb2b1fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c54147be86a213676260923b8cb58d8bc227eca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4947898b67ed3cc060a08ff6b1b7e466c638896c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a75b44ef15625697392e0e5dc016b9ce3d165e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbf117d9bd177a49d827b9f93bc8d93d6cb83116.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/038b75ad28e4b25c5253e0976ebd1d7bcf53e786.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "8"
       ],
       "answer": "6",
-      "explanation": "从8时到11时经过了3小时。每小时慢2分，3小时就是 $3 \\times 2 = 6$ 分。"
+      "explanation": "从8时到11时经过了3小时。每小时慢2分，3小时就是 $3 \\times 2 = 6$ 分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/681def499b808df36f55a1d0db499ca564c36ccf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d981fe9dd407838c7299eecbcc17916cc1eb589e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "110分"
       ],
       "answer": "50分",
-      "explanation": "计算 10:10 - 9:20。借1小时当60分：$70 - 20 = 50$ 分。"
+      "explanation": "计算 10:10 - 9:20。借1小时当60分：$70 - 20 = 50$ 分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6487c73c03f4169dbbe2de5ca8bc54ecd2820e5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7484645255f5a52b8b8a374fdc2ecde6a921219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9e644d690726830c7e4e5e2cc3dcf45ff3df11f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a9a579a96e2f16125e80b37c5c01d1e08d29e2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44822628421c1994feac3735e8e47934fcbac3ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4672d8d18c4543fb54697890314e800782193e8b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "120"
       ],
       "answer": "180",
-      "explanation": "1时=60分，3时=$60 \\times 3 = 180$ 分。"
+      "explanation": "1时=60分，3时=$60 \\times 3 = 180$ 分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a9c54c5fe49e7d5a6c56ee2183690e158d1cdc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4f5a21e469ddfbe006f697348bdbb5b541dc0b3.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "60秒"
       ],
       "answer": "1时",
-      "explanation": "$15 \\times 4 = 60$ 分钟 = 1小时。"
+      "explanation": "$15 \\times 4 = 60$ 分钟 = 1小时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d4f78565c494e9f6710ff351310105d40c7cb10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e68ca815b06e9c05b2026e3a84242402a509f486.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54252b9056a1cad0328f5f3d8226c1acfae03fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40f215a1cff810d3139e097142bac03e7f034c0e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a22f68feb9376ca835273dea6df7e492684a6ddd.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "无法确定"
       ],
       "answer": "一样长",
-      "explanation": "1时 = 60分，1时40分 = $60 + 40 = 100$ 分。两者相等。"
+      "explanation": "1时 = 60分，1时40分 = $60 + 40 = 100$ 分。两者相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/016af037ec0a50aa99d1d05be7183363e766e2dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b4c8bf630b18ae778fd859843bff5cfcfbda3ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f31806308600552055c24660303b3bb6698e5c0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73c2f18de397e95f8a1d7cf610b9147eb3ec52c5.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "5 分 = ___ 秒。",
       "options": [],
       "answer": "300",
-      "explanation": "1分 = 60秒。$5 \\times 60 = 300$ 秒。验算：$300 \\div 5 = 60$ ✓。"
+      "explanation": "1分 = 60秒。$5 \\times 60 = 300$ 秒。验算：$300 \\div 5 = 60$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42b1709a1f84c8913990f2a38811ac4b2d896163.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec7e6fdc7e9a82e54fd55cfd67d13310f37c878e.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小红从家到学校步行需要15分。为了8:10准时到校，她最晚应在 ___ 时 ___ 分从家出发。（空格请合填为一个四位数字，如 7:55 填 0755，此处请填 07 时 55 分对应的数字 755）",
       "options": [],
       "answer": "755",
-      "explanation": "倒推计算：8时10分 - 15分。10分不够减，借1小时（60分），变7时70分。$70 - 15 = 55$。结果为 7:55。answer：755。"
+      "explanation": "倒推计算：8时10分 - 15分。10分不够减，借1小时（60分），变7时70分。$70 - 15 = 55$。结果为 7:55。answer：755。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fa857a5d00002341f0f5f84d9d0461a83843331.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc6d8b9e839ab7cb6adcda72bab9e0c234dfc7d1.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "180 \\div 60 = ?",
       "options": [],
       "answer": "3",
-      "explanation": "$180 \\div 60 = 3$。验算：$3 \\times 60 = 180$ ✓。对应 180 分钟换算为时。"
+      "explanation": "$180 \\div 60 = 3$。验算：$3 \\times 60 = 180$ ✓。对应 180 分钟换算为时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/265f4f532400a631591fe63a19952d0e4bcd022b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7ddbebe68b6fcaef8c9d0c2de5b7ffde711fb72f.mp3"
+      }
     }
   ],
   "knowledge": null

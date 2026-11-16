@@ -16,7 +16,11 @@
       "question": "导线直接连接电池的两端会导致电池发热发烫甚至损坏。",
       "options": [],
       "answer": "对",
-      "explanation": "这种连接方式叫短路，会导致电流过大从而损坏电池。"
+      "explanation": "这种连接方式叫短路，会导致电流过大从而损坏电池。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a96856237f3b91b9a5f322d10e8c95f41ba00a1d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f09106e521f0237facbe8494a1ba852b3eeddbde.mp3"
+      }
     }
   ],
   "knowledge": null

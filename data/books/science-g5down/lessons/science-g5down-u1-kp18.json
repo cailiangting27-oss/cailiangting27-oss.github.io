@@ -21,7 +21,17 @@
         "绿色植物"
       ],
       "answer": "绿色植物",
-      "explanation": "绿色植物通过光合作用产生氧气。"
+      "explanation": "绿色植物通过光合作用产生氧气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfe80d568b127b9c1fa6c086c664d0d9f8dd8af9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c1b9d44905f6945a2b15aafc5012bb730542b7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86ce8ed16f46753005f6b8e46eb8795ac6f19630.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7cf25fea77bb5e89e0c529b102095affce76ba1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93e60f5d383df53ce6f76f2f329647de34732b5b.mp3"
+      }
     }
   ],
   "knowledge": null

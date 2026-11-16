@@ -16,7 +16,11 @@
       "question": "《开国大典》是按照事情发展的先后顺序来写的。",
       "options": [],
       "answer": "对",
-      "explanation": "课文按入场、典礼、阅兵、游行的时间顺序进行记叙。"
+      "explanation": "课文按入场、典礼、阅兵、游行的时间顺序进行记叙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbbfc0d0aea032ca9d9917cf8d705a28644829b9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bfc917f672296f7be14755ee4cd9b2556835451.mp3"
+      }
     }
   ],
   "knowledge": null

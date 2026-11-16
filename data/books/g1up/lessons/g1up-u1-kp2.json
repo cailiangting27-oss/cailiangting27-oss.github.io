@@ -16,7 +16,11 @@
       "question": "两个篮子里各装了5个苹果，说明这两个篮子里的苹果同样多。",
       "options": [],
       "answer": "对",
-      "explanation": "数量相等即为同样多。$5 = 5$，所以同样多。"
+      "explanation": "数量相等即为同样多。$5 = 5$，所以同样多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d4da70e3b303e60c7d163468f7c23decf22f939.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d0cb2ace887fd7bb5210f8a11c0736599013396.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "小明有3块糖，小红有5块糖，小明比小红多。",
       "options": [],
       "answer": "错",
-      "explanation": "$3 < 5$，所以小明比小红少，题干描述错误。"
+      "explanation": "$3 < 5$，所以小明比小红少，题干描述错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d3757eb92affe0d778d1f651daf19d5e07b1bb7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b1a5ce398b5bb968ba2f82865687b799a400cff.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "无法确定"
       ],
       "answer": "同样多",
-      "explanation": "数量都是3，所以同样多。"
+      "explanation": "数量都是3，所以同样多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60b9c96ffd31ab25e16be8263858c198dc3e2dff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6942952f040ed275429f4ca698cc705a265399c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d2650860846c0921d0e6932c78f210b3580c6c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42db55aa62bca04a74edfae9bb79953cc81e3e18.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "无法比较"
       ],
       "answer": "青苹果少",
-      "explanation": "$6 < 8$，数量小的比数量大的少。验算：6在8的前面。"
+      "explanation": "$6 < 8$，数量小的比数量大的少。验算：6在8的前面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2e73bdf74f4dd4b8023d6375206b9b80e192a74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e032b3885806d73f2d34d47257322d802dde29b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02c1145c9be2b78d5d97e4daa6e0990326539ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bddc2f8b29c27413188789faf9193d319f68f9da.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "不能比较"
       ],
       "answer": "同样多",
-      "explanation": "$4 = 4$，数量相等。"
+      "explanation": "$4 = 4$，数量相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c44e4093741b9fc8c0c25d0ea4a80514745282be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12d7f4711f3544e7548e8b201afa15ae84c7a1b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9b19a7ed7193f871f589722f74d874430445868.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f326b504ce7dc08be254e2c423a227bcf26b2ce3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd23b19865d4389f3af02e2751a3dbd1662cd982.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "视觉误导：认为占地面积大的物体就多，忽略了实际个数。",
       "术语混淆：分不清“谁比谁多”和“谁比谁少”的逻辑关系。"
     ],
-    "tips": "伸出左右手的手指一个对一个地比，这种身体语言能快速帮助理解“同样多”。"
+    "tips": "伸出左右手的手指一个对一个地比，这种身体语言能快速帮助理解“同样多”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0e/0ec131abc760a3b0b3c1ffaf8e9f70b33bf49819.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/03/03b12fcc9541333e8e09516bf11dde511e20c2bf.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ee/eeb56a5eaa1df98ad5f8ac1cbf1b4f5ca2db9cd1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ec/ec0854e03c755afea32601b2ae2b3f0a7ed94455.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fd/fdcb1e15997fecb6955e7ff5bf863861cef2f572.mp3",
+        "https://api.clthuanxie.cn/cc-audio/76/764d9a3c71874191f2f82ad373269e7738235382.mp3"
+      ]
+    }
   }
 }

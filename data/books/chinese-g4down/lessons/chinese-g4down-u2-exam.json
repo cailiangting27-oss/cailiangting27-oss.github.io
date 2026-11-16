@@ -16,7 +16,11 @@
       "question": "“乒乓”的“乓”字读音是 pāng。",
       "options": [],
       "answer": "对",
-      "explanation": "字音正确。"
+      "explanation": "字音正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ace16417d131c13022ff7b9a0810d2364c79b9aa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc946306bae6e562c4016d28083004b7cc85e9df.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "纳米侦察机通过纳米技术，可以实现完全“隐形”，雷达无法探测。",
       "options": [],
       "answer": "对",
-      "explanation": "纳米缓释技术可以吸收雷达波，从而达到探测隐形的目的。"
+      "explanation": "纳米缓释技术可以吸收雷达波，从而达到探测隐形的目的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42a8eb240dad24d3e8ac7f44cde97ebdb9d6f09e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78d1f11171e3b83f4455276d3104ebe172634e69.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“毫不相干”的意思是两个事物之间一点联系都没有。",
       "options": [],
       "answer": "对",
-      "explanation": "词义符合字面意思。"
+      "explanation": "词义符合字面意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed310736aba166c12a2434cc0d4b65e6f2a50c0f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4dd020e84a21971b2864b5f724b7e8cba69e693.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "推测就是猜测，不需要根据任何已知的事实。",
       "options": [],
       "answer": "错",
-      "explanation": "推测是根据已知事实进行的合乎逻辑的推断。"
+      "explanation": "推测是根据已知事实进行的合乎逻辑的推断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5fbbd6fe3188474562cfe54aad14fea5b8a1c6d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/335275dc389b9b7c8a3ec6d96bb62d7f56d3bbd6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "广阔"
       ],
       "answer": "狭小",
-      "explanation": "狭小与辽阔是反义词。"
+      "explanation": "狭小与辽阔是反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86b1929bf0f9a5d283b9de7c8cbf3c0f24fe47fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57fd50880d93f521b17760820d03e8ffa0ef5cd8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8c703faecc27a17bb5ba624f85eb5d10a1cd2d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b60a5164cbeefac9f4e6a8bd3bc019bc3af5d36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93c779b3526cf672c4c34c25e424ce3cfd123560.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7979c03ef428f3c41dc4446f4f16f78f0c071147.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "在地面奔跑"
       ],
       "answer": "飞向蓝天",
-      "explanation": "最终阶段是具备飞行能力，成为鸟类。"
+      "explanation": "最终阶段是具备飞行能力，成为鸟类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34357979071982c236f2f5d062cb98c3c50931e2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e1ca33f9d1622d44b12577fdcc5145f5d4976d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a666d714fef6e10cf7b41319ca3d82f06a52196.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f913b10e07c695c43453515d91b3edc82e7b0ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/481da77255346e0633db052c28398f13a7f32499.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3263909a4eb32275d655038c41f9d4e6588db805.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "凭空想象"
       ],
       "answer": "查阅资料",
-      "explanation": "词典属于工具书资料。"
+      "explanation": "词典属于工具书资料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/373cb816847f3315fe043731f7243254a1ffaac5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a6dfaefb7dc8f53aa94372c361f8074fa49ecb9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fa8caa5134108f249f453dfff43f9d48e786663.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24127d1e5195eb1d97b0360c4063dfa98b335c72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8788ab3e192fd606c68d0925f94e40ff8cdd10a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03abef7c0a5e1221b5c8b3bc053e38bbf367de38.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "如果……就……"
       ],
       "answer": "不仅……而且……",
-      "explanation": "这两句构成递进关系。"
+      "explanation": "这两句构成递进关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df66de2864ca6438e09c12afc47577fb7c31ff31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c91a74b2cbd87cdbfd5af472caa0e9d1d548e42e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0452eac398fa3dd3c95ffae843eacdf86baab1ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/164603881cfe0795dc7d7a5b90b2cecf51050f42.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "这种“软实力”非常关键。"
       ],
       "answer": "人们管这种技术叫作“纳米技术”。",
-      "explanation": "此处引号标记专门的科学名称。"
+      "explanation": "此处引号标记专门的科学名称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7f0fe0470a38493023f57639405cea1ecd42da7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad1772bb69532a30b261203f0ff86889bc695d25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4dcef035a16bec07087c67475431d93eba488f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0c723c187ffd521f2be4a7d03f70afdc01b3a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da6d3f7b70eccfb696698a4172e6db39ea078fb1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/791b21895941d2ed1253b2223b8cc31047ab1bc2.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "韵律"
       ],
       "answer": "准确度",
-      "explanation": "科学说明要求数据极其精准。"
+      "explanation": "科学说明要求数据极其精准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b955ed779518d641829a908d5cce76708befd81b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/10f48e5a005e633684f896ab637cd6ce1aed26e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae28102ded674d04dc78c7dba25cc479d789ffbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cf7de9b3d751f91c03f19e86eebc7d8b69975eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40ed345fab6517342c7715b304d3b1578be984fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2ab1d0f6faf07e756f8ac59b7a476fdc1f2de75.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“埋在沙里”的“埋”字读作（___）。",
       "options": [],
       "answer": "mái",
-      "explanation": "埋没、掩埋均读此音。"
+      "explanation": "埋没、掩埋均读此音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24db9af29a0db7b6643523728b1550f658dcd8fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aedc90f725376304c4fa5c7d89c915efef2ba3f2.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "纳米技术可以让人们更加（___）。",
       "options": [],
       "answer": "健康",
-      "explanation": "课文结尾总结纳米技术可造福人类生活。"
+      "explanation": "课文结尾总结纳米技术可造福人类生活。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48ed52dfa4dcfb37f9b2de763c136203f34e9ec6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b197180f73f6e7d14ef8e11ffcf8574edbc07503.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "微小"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "灵敏对迟钝，庞大对微小，先进对落后，清晰对模糊。"
+      "explanation": "灵敏对迟钝，庞大对微小，先进对落后，清晰对模糊。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4434da25c96bd33e1c6c77c0147e5bc48fe0adb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e4be457c8754441ef2a2f5f769f3d5f53820169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbde4b93afa453c8e3a930d01e5ef91820fda178.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a3a649dd1f535bebf6855caec1001be584dba2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18a72ea003b5df1f70ea1d3670cdaaf15a4f18a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cf31d40fe88e3a9d6681118c641e88abb98ae15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/3363bbee18db42fc6c13f54b43aeecbdce12d40a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d7f1e739e86553ebdeae9ebbc520ae1e5ca71d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf80ebd6bca56ee24826627b37fc7fe76363bc71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fadf556eb6ff281921a808a4371d749886115d90.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "后合"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "形成成语：翻腾澎湃、前仰后合、形形色色、欣喜若狂。"
+      "explanation": "形成成语：翻腾澎湃、前仰后合、形形色色、欣喜若狂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72dfb84cd554154c3127a75152dbdfa2c58f7d1b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/125ce3329f01e31d68d09d54d816b666b83b9c4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/122c9f8d870c881c72074cb864e3141c66e02933.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a63eaa55f1bff56510df0818932f2476c9674f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cf9812b9a6ab0c4ce12638a56e04d6f0c51c5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/924c676bfb62d43b983c3caa382e712af373ba6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/744cc9fae503c17c35385173c5528af85e78a6cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a94f76d04f46aacd04f7d51fb50d554a17863d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00d7d6ea733dd296214707d6c8a7aaf0200ca15c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5d80eb5d6f9b33477bef20eccbb899b6ef2ca69.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "大森林"
       ],
       "answer": "太阳,暖暖地,照着,整座,大森林",
-      "explanation": "顺序描述背景环境。"
+      "explanation": "顺序描述背景环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cc0596d59bb9a48adc563dd66471d541d173ae1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610dd1146684d6027607a75422a749f289b990ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec79122e63661720d82671ee0234b12e6cecf0f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9d1122d9f23698f9fc20e9386c84923a4d1f605.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bed0e38baef46c154dfdd4a732300ac9137b0b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2bf659446eedea647b94b5c142894736c4a77ef0.mp3"
+      }
     }
   ],
   "knowledge": null

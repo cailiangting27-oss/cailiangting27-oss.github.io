@@ -21,7 +21,17 @@
         "语言交流"
       ],
       "answer": "动作表现",
-      "explanation": "“冲向”、“站上”都是动作描写。"
+      "explanation": "“冲向”、“站上”都是动作描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2ac08ddfd8f927146684e2349eb287579cacb3b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/65c67d5c286695ff09a76c07a161cf9612dc4bc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09e16bb1b8729a4eb7bf52763422874c9598c9d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/ded9c46c22908d76db9e978147317c5479bae451.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff401bb460de37dd5a0ca09cd7efa1c8969825f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac53f69f42b8ee16a72eb11670b4e7c1d5e4e468.mp3"
+      }
     }
   ],
   "knowledge": null

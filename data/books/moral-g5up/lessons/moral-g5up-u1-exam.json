@@ -21,7 +21,17 @@
         "从此不理他"
       ],
       "answer": "认真反思并改正",
-      "explanation": "虚心接受意见。"
+      "explanation": "虚心接受意见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3983f4bdc60ed9f2d1a5528390ef867b183a415e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e318ff98eb3c0979a4ec6a2dd9f4a337484d23f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcb6d8b01c8ca51598d51fc66c8d794a5d46626c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6907c295fa2d75a226ca62ca422d24effaca56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d08504e2cfc459a537355396fc90e2952c800960.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ca4dd3602cc7c96e56b5f3eeaa24e84699bd37c.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "拖延只会让事情变得更紧张。",
       "options": [],
       "answer": "对",
-      "explanation": "拖延加重负担。"
+      "explanation": "拖延加重负担。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f2b4f38f7e65a1beed87e4e090422237428a655.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed79726119a49c63d6c78ea44b81c52b5988ea62.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "抱怨题目太难"
       ],
       "answer": "深呼吸放松并按计划复习",
-      "explanation": "调节情绪再复习。"
+      "explanation": "调节情绪再复习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c8f10131a5a9ddce544a57174757bc0b0340148.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f1843e38cacbeafa927c10dcb0ea5d8c937c88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f45a0e72b66af57af6304972785f4a11cb83a205.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22cc34c431c0add464d97eb84760e8d81ba1b1a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d605934f62ec3126c486fd80d7ecdc9c9113f96.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c818ef2147d99e34945520f21c75e5208ed2bf98.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "发展地看待自己意味着要用变化的眼光看自己。",
       "options": [],
       "answer": "对",
-      "explanation": "发展眼光看自己。"
+      "explanation": "发展眼光看自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/511901518145dadd6785230702d938d5234acb6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/2735f5d6ad74aea8180ba86ad3c4d9d7b58abe27.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "写信时，正文的第一行要空两格，这和写作文的要求一致。",
       "options": [],
       "answer": "对",
-      "explanation": "书信正文的开头和普通段落一样，需要首行缩进两格。"
+      "explanation": "书信正文的开头和普通段落一样，需要首行缩进两格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57ad6b581b766807faed6777967580268696c2b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e06a0fdaa12ef29cf3c1d3974d319293094bb818.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "句号"
       ],
       "answer": "冒号",
-      "explanation": "书信开头称呼后面必须使用冒号，表示唤起下文。"
+      "explanation": "书信开头称呼后面必须使用冒号，表示唤起下文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4cf7d94a8bd2bdc21f4a2490543202da8bda50a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/365c5928ec3db597f19dbb9589638d18dce55b0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e053f58cfd361ded622bae2f478138b4a666e2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/451f988c84913c5abf663463a7917feb03dd4cef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a868d6831ab638f4d707d02bef7a440a11df059.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04a3ce26171f1c6da27536af709aea88e69598a0.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "上方"
       ],
       "answer": "上方",
-      "explanation": "正式书信落款中，署名在上一行，日期在下一行。"
+      "explanation": "正式书信落款中，署名在上一行，日期在下一行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb0782ea442f98bc74aba5c1932a82d5cec269ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/322005830d528db08a8f96158e2a351865cf9569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d267299fa145aa24fbf2112613fda24bde89a01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1dea6908b1b1e0af483d50d1a853868d424d820.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c847d66f6bd65c1faacc0e7e15af19b702c7b1a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/baa5140ee421fa732b0a30f425ee6b3ee7e974f8.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "天天开心"
       ],
       "answer": "祝您身体健康",
-      "explanation": "对长辈应使用敬语“您”，且身体健康是最常用的得体祝福词。"
+      "explanation": "对长辈应使用敬语“您”，且身体健康是最常用的得体祝福词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b1318f2529a6047c8466e947b9ff220ce5d4ef5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/8318e220c3351240fb7a89a37415d4fdf123b61c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5b35266a64e2af1aac24e6305ba09e958d856af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c190895d6b0ca9e94cd7bfe143aabb9ac67bc75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fd37bef7fa36dfdca72b99802387cb7797b9d29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f298bb617e1644f676c25bfd003283a1d6b2e62.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "在书信正文的下一行空两格写“祝你”，再另起一行顶格写“（___）”。",
       "options": [],
       "answer": "身体健康",
-      "explanation": "书信祝福语通常采用分行缩进和顶格的特殊排版格式。"
+      "explanation": "书信祝福语通常采用分行缩进和顶格的特殊排版格式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3663dd4978345726d1090007f5372df66d188b61.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9013ba18b85c1c00f74a49821cbe6757728a9a4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "把署名和日期写反了位置",
       "在称呼后面漏写了冒号"
     ],
-    "tips": "可以记一个口诀：头顶称呼冒号跟，问候祝福不能省，名字日期右下沉。"
+    "tips": "可以记一个口诀：头顶称呼冒号跟，问候祝福不能省，名字日期右下沉。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/48/48ee7166d67566a4aaafb2af1c67e149c096c363.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/89/895e396dbe964c5c97eae421dc158dbfaafab8b8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bc/bc91965293a2d13783807c8921fa364f83c2bc5c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/76/7647fd0e73f269870d4ef9a169ea379af3728741.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/90/90148c56505529274af8940d532dc716f9b2ed5b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9b/9bcf6a431a088d61117bc7d7c402ffecc241a6dc.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "?"
       ],
       "answer": "Are,these,carrots,?",
-      "explanation": "一般疑问句结构：Be动词+主语+其他？"
+      "explanation": "一般疑问句结构：Be动词+主语+其他？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f890d49474e943dc07a766c21d2bf35d6e527e89.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/848c3ce42548a27c032ab23040f4df2010e4bed9.mp3"
+      }
     }
   ],
   "knowledge": null

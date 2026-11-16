@@ -16,7 +16,11 @@
       "question": "$28 + 5$ 的得数是三十多。",
       "options": [],
       "answer": "对",
-      "explanation": "$8 + 5 = 13$，个位满十向十位进一，$20 + 13 = 33$，33 是三十多。"
+      "explanation": "$8 + 5 = 13$，个位满十向十位进一，$20 + 13 = 33$，33 是三十多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06723945380afe47170216888cb9f420d7519494.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b888d2dde26bc1a5a961b00d4b0388d2d43e4ba7.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "63"
       ],
       "answer": "53",
-      "explanation": "$6 + 7 = 13$，$40 + 13 = 53$。"
+      "explanation": "$6 + 7 = 13$，$40 + 13 = 53$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43d273cff4303289b530bbbe996d1c11988a71ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/0286dd552c9bea9a69ecb3759e7b94777635514b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b76da3e608d34edb07244cd9b875ee86906328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1168fe54727cae7b882b776bbdb41abaef04a6c1.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "40 + 18"
       ],
       "answer": "54 + 7",
-      "explanation": "A=59, B=60, C=61, D=58。只有 61 > 60。"
+      "explanation": "A=59, B=60, C=61, D=58。只有 61 > 60。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/7786ea18c4509ffc8ffde20958e67dae62660da1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09de3e9f45dcb2577479de5ac53443a99d90b047.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98f46b3919b8b8bed30235d84ab821c6952877e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77fdb452a1bac22c9af04b0f72f49515befa12b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b5adb77bfcbe22fbbb7a91ac7d96f2c021cebb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bdda49b7b1c6ba1b69d3e156456636e6e24a641.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "19"
       ],
       "answer": "37",
-      "explanation": "$28 + 9 = 37$（本）。"
+      "explanation": "$28 + 9 = 37$（本）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d0c3fd5e109284042c05cbf6eab4ea3f5350001.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7719a1c782a1ba91c031a682a0a2f8658209adbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b7b9f67a3634d4efb6db1b286876927f241453b.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "0"
       ],
       "answer": "2",
-      "explanation": "如果 $\\Box$ 是 2，$32 + 8 = 40$（不合要求），如果 $\\Box$ 是 3，$33 + 8 = 41$（四十多）。本题问四十多包含了40-49，但通常教学中四十多指41-49。若 $32+8$ 为 40 不算多，则选 3。但一年级常指进位到 40 即可。经审题，最小填 2 使结果为 40，填 3 使结果为 41。选项中最小能让十位变为 4 的是 2。验证：$32+8=40$, $31+8=39$。选 2。"
+      "explanation": "如果 $\\Box$ 是 2，$32 + 8 = 40$（不合要求），如果 $\\Box$ 是 3，$33 + 8 = 41$（四十多）。本题问四十多包含了40-49，但通常教学中四十多指41-49。若 $32+8$ 为 40 不算多，则选 3。但一年级常指进位到 40 即可。经审题，最小填 2 使结果为 40，填 3 使结果为 41。选项中最小能让十位变为 4 的是 2。验证：$32+8=40$, $31+8=39$。选 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31248ab98d1f81550aa9965fb6221963e9cf9f31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8946b7efbd653efb6cad9e286e6477710176964.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "一班有 35 人，二班有 8 人，两班一共有 ___ 人。",
       "options": [],
       "answer": "43",
-      "explanation": "$35 + 8 = 43$（人）。验算：$43 - 8 = 35$ ✓。"
+      "explanation": "$35 + 8 = 43$（人）。验算：$43 - 8 = 35$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbcbc102da58ea93e1b67185c53be228d85e999b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9e321b277372bd374f0810861a54329c34fefe5.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,11 @@
       "question": "$54 + 9 = ?$",
       "options": [],
       "answer": "63",
-      "explanation": "$4 + 9 = 13$，$50 + 13 = 63$。验算：$63 - 9 = 54$ ✓。"
+      "explanation": "$4 + 9 = 13$，$50 + 13 = 63$。验算：$63 - 9 = 54$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f0f1356beef1cbbf64769ce48066b54c267e834.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cec8fdea61cf60f574e64af487e7cdc2759943e9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "忘记进位：如 $28+5=23$。",
       "进位加错：个位满十后，十位没加 1。"
     ],
-    "tips": "个位满十不要急，十位别忘加个 1。"
+    "tips": "个位满十不要急，十位别忘加个 1。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/66/668dc8a7b8e2d44f7180ac33e47173628502668a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/84/843bcd212684e969e3a62046523b480792bf7999.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ea/ea9ab9a0e51a44e2f25dcc4bc9e8d85c662b1448.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/41/41df36843fcdfb75de9988e3032d36b9471cf12c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d7/d7642f4221e55a1ff62674880f485a5765c6d0a7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9e/9e6ff41e086d20f9b50f97b4aaf0d527d72e833f.mp3"
+      ]
+    }
   }
 }

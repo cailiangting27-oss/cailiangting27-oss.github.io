@@ -21,7 +21,17 @@
         "Sure"
       ],
       "answer": "No, thanks",
-      "explanation": "后面说I'm full(我饱了)，所以前面应礼貌拒绝。"
+      "explanation": "后面说I'm full(我饱了)，所以前面应礼貌拒绝。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb3edce65d36c7dd4391a1b847abf68b1c1d8e45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f5c43846d4b3bae25587b2514cc916848550f07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c422c2022a294073bc07369a18eafd2f283713a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97cba4858411c435e526dd651157aac20178222c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04b0c5f868311be156eec1748089bf8f190db8fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26e87b55f4a8c4c7c820aef609623d078e23762c.mp3"
+      }
     }
   ],
   "knowledge": null

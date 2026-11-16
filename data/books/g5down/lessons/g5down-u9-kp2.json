@@ -16,7 +16,11 @@
       "question": "一个正方体的棱长扩大到原来的 2 倍，表面积就扩大到原来的 4 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "表面积扩大的倍数是棱长扩大倍数的平方，$2 \\times 2 = 4$。"
+      "explanation": "表面积扩大的倍数是棱长扩大倍数的平方，$2 \\times 2 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e6892b34d6e357b5b69bf8bd896144e828e7f73.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/075c35447ecd4c3cc478fe1c39c22fd0ffaa7240.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "容积的计算方法和体积的计算方法完全相同，只是从容器里面测量尺寸。",
       "options": [],
       "answer": "对",
-      "explanation": "计算规则一致，区别仅在于测量部位不同。"
+      "explanation": "计算规则一致，区别仅在于测量部位不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b25f4046b08f268a81a5941fe794849bee7ecb0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e65b2f43431e38dc59de15ee043287c9087b5a52.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "8"
       ],
       "answer": "4",
-      "explanation": "如果长方体有两个相对的面是正方形，则其他四个侧面完全相同。"
+      "explanation": "如果长方体有两个相对的面是正方形，则其他四个侧面完全相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5366e5d0b85367ab295fc4f3aae7de5a91153f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/023b78caafdd443f47dd2e3887f9bcc83004fcba.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "10000"
       ],
       "answer": "10000",
-      "explanation": "$1 公顷 = 10000 平方米$。"
+      "explanation": "$1 公顷 = 10000 平方米$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b356baaa5891cec94aa937d88f50d723453b3113.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a12a315082a345f1a9d3ad14b214cd36d310cf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41b70965727db1dbeee814467be4bb3343c06a21.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "升"
       ],
       "answer": "立方米",
-      "explanation": "$1 立方米 = 1000 立方分米 = 1000000 立方厘米$。"
+      "explanation": "$1 立方米 = 1000 立方分米 = 1000000 立方厘米$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd640a9c22d070a0d6e7ba30c3549cafe776fae5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d6e1b68f452b3d04f283dee566dc779e21d44de0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a03f13dbcc7ad4efebbba727a40cf5c03c8587f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698ebe4e73da3731585ce0c2332c53a9798d2950.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c0378767fa7840891ae176127803182df84e9db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54fbe1fdba483e94e0142503bee63e21aebee8c8.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "120"
       ],
       "answer": "94",
-      "explanation": "$(3 \\times 4 + 3 \\times 5 + 4 \\times 5) \\times 2 = (12 + 15 + 20) \\times 2 = 94$。"
+      "explanation": "$(3 \\times 4 + 3 \\times 5 + 4 \\times 5) \\times 2 = (12 + 15 + 20) \\times 2 = 94$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/bae446478bf0a09ea39b26fea0ff1b6fbd6d3b6c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/215bb47da8fac3342b858ac3db09b033c6c46e0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/827bfc458708f0b442009c9c9836f7e4b65557fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f40240719af2d4a495a84915e0a446bcbbf8d33e.mp3"
+      }
     },
     {
       "id": 16,
@@ -107,7 +155,17 @@
         "无法判断"
       ],
       "answer": "增加了",
-      "explanation": "切开后会多出两个截面，所以面积增加。"
+      "explanation": "切开后会多出两个截面，所以面积增加。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72b3673aa6148607ef8fac19c1593cfbf2d16e70.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b24253f41e79ed2d6e829cc9dc566a593eb429f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d7c0173f498217195c01459a98bb49e153ed88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1d59e783193bb1c49c9dfbeb4f219cd90a724a0.mp3"
+      }
     },
     {
       "id": 17,
@@ -123,7 +181,17 @@
         "27"
       ],
       "answer": "8",
-      "explanation": "$2 \\times 2 \\times 2 = 8$，边长至少为 2 个单位。"
+      "explanation": "$2 \\times 2 \\times 2 = 8$，边长至少为 2 个单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3526c1a0a40ebad78dfafe03389b4326c94d98e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcb13a7f3d8a7e769606ed8e3bffbdc6860ae0a2.mp3"
+      }
     },
     {
       "id": 20,
@@ -134,7 +202,11 @@
       "question": "一个正方体的棱长总和是 24 厘米，它的棱长是 ___ 厘米。",
       "options": [],
       "answer": "2",
-      "explanation": "正方体有 12 条棱。$24 \\div 12 = 2$。验算：$2 \\times 12 = 24$ ✓。"
+      "explanation": "正方体有 12 条棱。$24 \\div 12 = 2$。验算：$2 \\times 12 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c27dd53e59f1b122ddb9b761a3d1150cd6a3a15.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e61b9b049d0b261de0e286c478b9cc306751c93.mp3"
+      }
     },
     {
       "id": 21,
@@ -145,7 +217,11 @@
       "question": "一个长方体底面积是 15 平方厘米，高是 4 厘米，体积是 ___ 立方厘米。",
       "options": [],
       "answer": "60",
-      "explanation": "体积 = 底面积 $\\times$ 高。$15 \\times 4 = 60$。验算：$60 \\div 4 = 15$ ✓。"
+      "explanation": "体积 = 底面积 $\\times$ 高。$15 \\times 4 = 60$。验算：$60 \\div 4 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f21fdc4f6c8958d14d8ab00b7e9ab11d7eda80f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db1379d90d8a9a2aae3c30c392a146c96eb86e1c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -156,6 +232,16 @@
       "计算容积或表面积时，漏算底面或侧面（如无盖鱼缸）。",
       "单位不统一就直接进行乘法运算。"
     ],
-    "tips": "画出草图辅助思考，尤其是在处理切割或拼接图形的表面积增减问题时。"
+    "tips": "画出草图辅助思考，尤其是在处理切割或拼接图形的表面积增减问题时。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c9/c9d085ffa029c6acd9228c2af237296d4715b653.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0e/0ec5d346b8d9b5805b062006e6760fd847e8922b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/72/724ea1915df925a6ba675c9bcb2373eedb508f50.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/01/0134dfad099a65c84907c4a0081e9fabf658be7a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c9/c98927b8d206cf4f743ed04aae52b75a5f37b058.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e4/e449d5d2172806e056e0796782b5b9b3e64c5040.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "在古代，人们利用阳光下物体影子的变化规律来计时，这种工具叫日晷。",
       "options": [],
       "answer": "对",
-      "explanation": "日晷是古代利用日影长度或方位变化来计时的工具。"
+      "explanation": "日晷是古代利用日影长度或方位变化来计时的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1437f27159b79fb56d32412b5d3913fecfe8c330.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/628723b33ba808a29a2e46a097101ba1da134abb.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "燃香计时是因为每一段相同长度的香，燃烧所需的时间基本相同。",
       "options": [],
       "answer": "对",
-      "explanation": "等速消耗现象是燃香计时的原理。"
+      "explanation": "等速消耗现象是燃香计时的原理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05902c7fc564e5a51b3341ed4668d7260ed17b53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa2dd7d1efb18b2d68bbe3a1a9fd924e78670b52.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "摆钟"
       ],
       "answer": "日晷",
-      "explanation": "日晷由晷盘和晷针组成，利用影子移动来显示刻度。"
+      "explanation": "日晷由晷盘和晷针组成，利用影子移动来显示刻度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11924414738daa94743daa42ad10e047a7bd4e2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f9d4c5d784c549a857e6d26d9ce56c3f50dc27a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d54c76e524c6c9f8ac3cc5f6ca977979a52cfe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b5ee8dcaae27251092982f82e0a6ae51ae2d2b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00bd8ad32c226281838b0d61422c15b871026e3d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19e2bae90a02cedc8de4f602fd427d3f8a92a367.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "香钟"
       ],
       "answer": "日晷",
-      "explanation": "日晷依靠阳光产生投影，没有阳光则无法计时。"
+      "explanation": "日晷依靠阳光产生投影，没有阳光则无法计时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30498bc3536479f1c47f5c3115337e89b34d7944.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d54c76e524c6c9f8ac3cc5f6ca977979a52cfe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f9d4c5d784c549a857e6d26d9ce56c3f50dc27a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b5ee8dcaae27251092982f82e0a6ae51ae2d2b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae23b6d86784cdb10ca766ec127d636d1c33866c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48e24da53c40d76b18c24e7fd9dceaf5ecfbb92e.mp3"
+      }
     },
     {
       "id": 21,
@@ -70,7 +98,11 @@
       "question": "依靠流水的力量计时的工具叫做（___）。",
       "options": [],
       "answer": "水钟",
-      "explanation": "水钟是利用等速水流或受水积聚来计时的工具。"
+      "explanation": "水钟是利用等速水流或受水积聚来计时的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74a69c6518e5cc39be9d63c2faf7e4f08b6bbea2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/814d3fa7e7f176615268dc4d0469e55ec710c6f4.mp3"
+      }
     }
   ],
   "knowledge": null

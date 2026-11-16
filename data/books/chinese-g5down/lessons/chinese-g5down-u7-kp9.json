@@ -21,7 +21,17 @@
         "分号 分号 叹号"
       ],
       "answer": "顿号 顿号 逗号",
-      "explanation": "短语内部并列使用顿号，句子中间停顿用逗号。"
+      "explanation": "短语内部并列使用顿号，句子中间停顿用逗号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7fe824ea4d63170d2b9662e125b3eeed46e8e2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a31589f5ac9999b004576c6d7674c4ab22608f92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e714f8df5cd3f171d5d3190a08f0312ef4aa72b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/826b3dabd0d449eefa369f4a1cdbe5cdd6bc911c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/918f96a20923e85024e03e652201df7ac359604c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f48b5e4885e33b35ff2ae7e9f16d3dccecc8677b.mp3"
+      }
     }
   ],
   "knowledge": null

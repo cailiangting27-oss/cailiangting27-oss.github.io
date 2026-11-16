@@ -21,7 +21,15 @@
         "质子"
       ],
       "answer": "原子",
-      "explanation": "原子在化学变化中不可再分。"
+      "explanation": "原子在化学变化中不可再分。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2bc8db4e5bf928bc82b607a16205cbdc5492d1.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

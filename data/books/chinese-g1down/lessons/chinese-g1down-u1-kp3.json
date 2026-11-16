@@ -16,7 +16,11 @@
       "question": "“睛”字有目字旁，所以这个字和眼睛有关。",
       "options": [],
       "answer": "对",
-      "explanation": "“睛”是形声字，左边的目字旁表示它的字义与眼睛有关。"
+      "explanation": "“睛”是形声字，左边的目字旁表示它的字义与眼睛有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebe9c684f0dc3617aa7971471bff5d0d27084054.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54f491d82cbbc438a4239ddb0516d9961a958473.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "氵"
       ],
       "answer": "忄",
-      "explanation": "心情与内心有关，所以使用竖心旁（忄），写作“情”。"
+      "explanation": "心情与内心有关，所以使用竖心旁（忄），写作“情”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c3f1350b7982ebde23bf296f7dfbb94513fb696.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0ea34a22f0eac2781fec4d2313834095742eee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f7e00c568169609ad148dbd94566dce302c018c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be3e450c24968a84927ac1281ce409b67cf8d9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c73ba64a133984c2ee282a21679b955f714e675.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "情"
       ],
       "answer": "晴",
-      "explanation": "天气晴朗是因为有太阳，所以用日字旁的“晴”。"
+      "explanation": "天气晴朗是因为有太阳，所以用日字旁的“晴”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1a53786dfc2104f4fb4c8d17873deb5eac878de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d05046a439ffa36f09fed98a005e9dda7308874.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7504fca6d707432131b5df000780a27edeb538a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18f5d6e11ca7690b5776789f9a330410523d4474.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b09cd3da0912438cb836a620570bee3064be976.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb1acbec1e483016e1b6df39acbde33eef226e6a.mp3"
+      }
     },
     {
       "id": 21,
@@ -68,7 +92,21 @@
         "晴"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "水清清(氵)，太阳晴(日)，眼睛(目)，心情(忄)。"
+      "explanation": "水清清(氵)，太阳晴(日)，眼睛(目)，心情(忄)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32626e79a1fa003bd133ff3da71f5e507c14c97f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9be3e450c24968a84927ac1281ce409b67cf8d9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0ea34a22f0eac2781fec4d2313834095742eee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f7e00c568169609ad148dbd94566dce302c018c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7504fca6d707432131b5df000780a27edeb538a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b09cd3da0912438cb836a620570bee3064be976.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e577cd812ea49d3f08bdcf6ff2b9193aa9a67912.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d05046a439ffa36f09fed98a005e9dda7308874.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a0c14b3c5af200d7d6a2979c458d6e9406e5a2f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -79,6 +117,16 @@
       "混合“晴”和“睛”，分不清太阳和眼睛的偏旁",
       "将“请”的言字旁写成竖心旁"
     ],
-    "tips": "记住口诀：有水方说清，有日天气晴，有目大眼睛，有心好心情，有言相互请。"
+    "tips": "记住口诀：有水方说清，有日天气晴，有目大眼睛，有心好心情，有言相互请。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/02/02fab6969a29d7cac7ccf1109fcd30e3edd9fa57.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1f/1fb0003f228f154a75df9c46913d4160119cbc91.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/23/23a05a0b24d7c76149633cc86d259b2159f110cd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e0/e075b4fa7ede14af5e01ae2fb8d8c525b9b0e544.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0e/0e4a7f4a56ced9e035d6d315e586dccd2d5d83d3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/35/35d1f84460299200a6c922985f90003988dbfde7.mp3"
+      ]
+    }
   }
 }

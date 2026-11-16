@@ -21,7 +21,17 @@
         "北"
       ],
       "answer": "西",
-      "explanation": "面北左西。"
+      "explanation": "面北左西。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a41879b9e4649cb6af2754723d2b85bb84710c84.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5a048eccf6ff8f6c12516284c928118424e634d.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "下面"
       ],
       "answer": "外面",
-      "explanation": "内外相对。"
+      "explanation": "内外相对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31b5efd4b1db7b71be6f0adfea94e0193719b851.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f595cb1020c6acbd8c0790cbbab7293147f7ef6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39bbac3bb45383350f5754b06399e2176b7a0b72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/430dcbd9fe074160a5c4d4bc87da814b58f3d8b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41becde2bc0d215ce5fc7c3f92a6a2a6a1f8a8df.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "左右是相对的，会随朝向改变。",
       "options": [],
       "answer": "对",
-      "explanation": "相对位置。"
+      "explanation": "相对位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af725616f4488a372a1be06b4ebdfe950a3d404f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36dc1ce9b82aad1df50d310d907964cd7e5d0211.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "1"
       ],
       "answer": "4",
-      "explanation": "前面 3 人，小明第 4。"
+      "explanation": "前面 3 人，小明第 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9cc757a81b4892f93cf1847b2bab27086c31bb5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7667d78452bf15de47f4c27cec870f1ceebbeaab.mp3"
+      }
     }
   ],
   "knowledge": null

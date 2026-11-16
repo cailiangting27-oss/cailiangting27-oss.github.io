@@ -16,7 +16,11 @@
       "question": "'shorter' 只能用来表示 '更矮'，不能表示 '更短'。",
       "options": [],
       "answer": "错",
-      "explanation": "short既可以指身高矮，也可以指长度短。"
+      "explanation": "short既可以指身高矮，也可以指长度短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e335687e6dcde14c2d0427c2994e5c2109579ba2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d6161fa9c42e259d2c6f0daf5cc7f5c2d4e5d04.mp3"
+      }
     }
   ],
   "knowledge": null

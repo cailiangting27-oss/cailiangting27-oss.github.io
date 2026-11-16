@@ -21,7 +21,17 @@
         "只有……才……"
       ],
       "answer": "假若……无论……",
-      "explanation": "这里表示假设和条件逻辑，猫不高兴时非常固执。"
+      "explanation": "这里表示假设和条件逻辑，猫不高兴时非常固执。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/867ad5c5520dabcb337def0e6d6c0ba511d2b189.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/0452eac398fa3dd3c95ffae843eacdf86baab1ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81519dea46e1fee7f3fadc1862fba92b751a4809.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e02415fd71897b092716c1f26c503e2885a387a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fa6cc91018aa0a1758974ca6750610bca1acb8d.mp3"
+      }
     }
   ],
   "knowledge": null

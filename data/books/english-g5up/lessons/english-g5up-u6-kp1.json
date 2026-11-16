@@ -16,7 +16,11 @@
       "question": "'mountain' 的中文意思是 '高山'。",
       "options": [],
       "answer": "对",
-      "explanation": "mountain表示大山、高山。"
+      "explanation": "mountain表示大山、高山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/5147ad3c578ba3ff1944eaaed749c3f129072212.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea2d1b5ab445c3a7a127cbb321e5e5b74c9144d4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'lake' 的中文意思对应的是 '河流'。",
       "options": [],
       "answer": "错",
-      "explanation": "lake是湖泊，river是河流。"
+      "explanation": "lake是湖泊，river是河流。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e57b359c47c58e52fa5d8ce6f9d87c8153209a16.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee7270123f7177c500e9272a5fb14d31d6dde6c2.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "city"
       ],
       "answer": "forest",
-      "explanation": "forest指森林，长满了树。"
+      "explanation": "forest指森林，长满了树。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0f986950aaa73c9762fb7c09862b00a7bb9e5a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/08fbe5a2e401d3368934c290dfdb6e6ee5baf5d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bcd9af79f2d32e856a4ee6b99aae59c185af4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8114546a306ba121b286d2755b51e26e7bdb407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c54892c40a1751663d9aca4e03e6a833056bc9f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69b7fd3c84de4a790f150b7072da7dd241ec8fd5.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "tree"
       ],
       "answer": "lake",
-      "explanation": "在湖里（lake）可以游泳。"
+      "explanation": "在湖里（lake）可以游泳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31964969384edc035e93cb521e2d587402a827dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c45b69bb63a924e785d3c14c0ba893c30846d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce9c4dfa820636eac51590306c07609286d6609.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80655da8d80aaaf92ce5357e7828dc09adb00993.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15d22da31d44f3cc72f153710233a00f9f8c1385.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "star"
       ],
       "answer": "bridge",
-      "explanation": "在河流上方的是桥（bridge）。"
+      "explanation": "在河流上方的是桥（bridge）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a54dcbe8b8e84abdf2e2385f76b5af243e754816.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce9c4dfa820636eac51590306c07609286d6609.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fa1981b4a9a7a3e2f1294354810635b9030c74f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/000e793db70c59309fa6f0f36d0046d110f3be3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e3e01b9af84f54d95f94d24eeb0583332a85268.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ed9fcad686225b01761e839adad4854561848fa.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "village"
       ],
       "answer": "mountain",
-      "explanation": "山（mountain）通常比小丘（hill）高。"
+      "explanation": "山（mountain）通常比小丘（hill）高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1726e15ba883ac171b095659adb49d53e5abf77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c45b69bb63a924e785d3c14c0ba893c30846d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fbe5a2e401d3368934c290dfdb6e6ee5baf5d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bdc3ec682bfbb471422925f9a71fc67e6c0ca3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e8d4fa9eb85f70fe46b0758ebcfcca331a11415.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "hill"
       ],
       "answer": "river",
-      "explanation": "只有河（river）里有流动的水。"
+      "explanation": "只有河（river）里有流动的水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abf05e4e14ebc90477337cee8dc3457b0c6600b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0bcd9af79f2d32e856a4ee6b99aae59c185af4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bdc3ec682bfbb471422925f9a71fc67e6c0ca3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fbe5a2e401d3368934c290dfdb6e6ee5baf5d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce9c4dfa820636eac51590306c07609286d6609.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52019f43770c718f3af835090615e94af7be602a.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "There are many trees and flowers in the f___.",
       "options": [],
       "answer": "forest",
-      "explanation": "森林（forest）里有许多树和花。"
+      "explanation": "森林（forest）里有许多树和花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2dd65a62616910eea8abb6b6f9487947316bf3c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3ccf28ed57332a8b9aa2342f26baaf79f7548c02.mp3"
+      }
     },
     {
       "id": 19,
@@ -129,7 +191,11 @@
       "question": "My grandparents live in a small v___.",
       "options": [],
       "answer": "village",
-      "explanation": "居住在村庄（village）里。"
+      "explanation": "居住在村庄（village）里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3af99ad346e81c3ceebd13316c8770e7be968b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/7701b8845e8cfe30268e4100330367504672f16e.mp3"
+      }
     },
     {
       "id": 20,
@@ -149,7 +215,21 @@
         "河流"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "A高山，B河流，C小山，D湖泊。"
+      "explanation": "A高山，B河流，C小山，D湖泊。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38f10a899447ca0ad7389d8b41e5b5128dbf2ba9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d79ac4a2b1ac0251b7bbbceb4649e4a964bc5597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fbe5a2e401d3368934c290dfdb6e6ee5baf5d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce9c4dfa820636eac51590306c07609286d6609.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c45b69bb63a924e785d3c14c0ba893c30846d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8719975862dba6149f4592bdd1c4f18109c88c19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b817132dd7fd0f8aa58550264ec7186f280abfb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a4d059c83ea0dcdcd457dfb3f46c7501962d6fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6a2f2aa949b5952a130f6e2620bc32749571326.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2af616c536a9d9db7e7999fb2d287b2ce8b66fb7.mp3"
+      }
     },
     {
       "id": 21,
@@ -169,7 +249,21 @@
         "桥"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "A森林，B桥，C村庄，D建筑物。"
+      "explanation": "A森林，B桥，C村庄，D建筑物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d97003275382aae62bf5923feb66308a8223232.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0bcd9af79f2d32e856a4ee6b99aae59c185af4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fa1981b4a9a7a3e2f1294354810635b9030c74f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bdc3ec682bfbb471422925f9a71fc67e6c0ca3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8114546a306ba121b286d2755b51e26e7bdb407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0ded8c870d734ac92c41bd76bfafae6eedec559e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4d0c65415ab51bb59372cb51efd95df6d9be41d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70f4c18c327660f1edaa85614f5441eb9ddc332e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/579c8d68cdfa151e010368ccfa1144b97a631540.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2666f59c72b41a7d5126514375aa91c73e17072c.mp3"
+      }
     }
   ],
   "knowledge": null

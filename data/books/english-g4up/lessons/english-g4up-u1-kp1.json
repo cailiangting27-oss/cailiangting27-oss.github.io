@@ -16,7 +16,11 @@
       "question": "'window' 的意思是‘窗户’。",
       "options": [],
       "answer": "对",
-      "explanation": "window是第一单元核心词汇，意为窗户。"
+      "explanation": "window是第一单元核心词汇，意为窗户。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c75ed34121d1899378fb366abab7e48b61c59f70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34fae8f706512339f54ccb4cc544244e36bf8cdb.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'blackboard' 的意思是‘小提琴’。",
       "options": [],
       "answer": "错",
-      "explanation": "blackboard意为黑板，不是小提琴。"
+      "explanation": "blackboard意为黑板，不是小提琴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97e3435a79f2d511d858ece138c5b3cf26644516.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44efa33a86331d81c59e8122720f080e2027382e.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "This is the classroom."
       ],
       "answer": "Let's go and see the classroom.",
-      "explanation": "Let's...表示让我们...，go and see the classroom去看看教室。"
+      "explanation": "Let's...表示让我们...，go and see the classroom去看看教室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61cd5d84bcf0c5430cc3cac2a9650e9f3365d76e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/106b4aa40450ec7c7cfdab305c61e89bcfce5cd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c468f15891edfe66cfd1be834cc7e27b9e10a138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7cc0da5940bfd8b8766d11a4e7323fc59770749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/005147ea577acdeb6373c8218d5ae9d2c4ad6deb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6abec61961ff9a796757e81b10d4a54db81d257e.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "some"
       ],
       "answer": "a",
-      "explanation": "new以辅音音素开头，使用不定冠词a。"
+      "explanation": "new以辅音音素开头，使用不定冠词a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5cfad8c4f502d54de21b13822fee2067a860f0a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/057bb9c2f4ca6f88a9cb6c47ac2990a13793459d.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "under"
       ],
       "answer": "in",
-      "explanation": "询问教室里面有什么，介词用in。"
+      "explanation": "询问教室里面有什么，介词用in。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5dddc4a789e7023cc70a2405ae0cb57de4352a9c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30bacf753e2dd49c6a4cb77cce91e97b750410ee.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "where"
       ],
       "answer": "door",
-      "explanation": "只有door（门）是名词，可以填入该句主语位置。"
+      "explanation": "只有door（门）是名词，可以填入该句主语位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0611072620e79a0af9b5e2347118f9bdb67f14a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/2680b6746cf8291f98b1e23de31855f7d807d305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46148cc3b4d2b3ac8073f14b0cba7f25ffff54bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/532baabea876484a73a698630ded0c349284b631.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "We have six ______ (灯) in the classroom.",
       "options": [],
       "answer": "lights",
-      "explanation": "灯的英文是light，前面有six需要用复数lights。"
+      "explanation": "灯的英文是light，前面有six需要用复数lights。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf82caeaf0a788f375990c7163d7bdccf080b729.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ec83c5fc75049b34f4594e65f12ca50f21affd0.mp3"
+      }
     },
     {
       "id": 17,
@@ -113,7 +165,11 @@
       "question": "Please clean the ______ (地板).",
       "options": [],
       "answer": "floor",
-      "explanation": "地板的英文是floor。"
+      "explanation": "地板的英文是floor。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/0684735c564c684e9d76ba4d9244db4ad95dedc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cdddf43bbdb52181770627ef95cc9ca42b73dec0.mp3"
+      }
     },
     {
       "id": 19,
@@ -124,7 +180,11 @@
       "question": "This is my ______ (教室).",
       "options": [],
       "answer": "classroom",
-      "explanation": "教室的英文是classroom。"
+      "explanation": "教室的英文是classroom。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3021b104a7b5b1b4f10457f8b9ec94ebd9217f12.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d52276433db5cb79a8c09946f3c105ed5567c4e3.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "讲台"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "A computer-电脑; B fan-风扇; C wall-墙壁; D teacher's desk-讲台。"
+      "explanation": "A computer-电脑; B fan-风扇; C wall-墙壁; D teacher's desk-讲台。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eef053c04f8c86f191527c6d9a45a0901995d2ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c60266a8adad2f8ee67d793b4fd3fd0ffd73cc61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899441143e28aee7287e8da3d7211258f5edbd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb7ada766135202f9c3f1d2ee04f80a8f757c13c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9773a0cbc40c1402e99021e408d6ce1c88b51a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c69ecf43d9fc4600b5c1c90cf75de2e708c693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec87a4b867093a7d5f15fbb655e9034517a4a9e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcca7c29f64ee826cfdb0ff452f77d870e914f96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7883aa62f33328c28661bad851b18cf110879621.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/9514732cf2c8582525afa011ecbe0d53886c3f23.mp3"
+      }
     }
   ],
   "knowledge": null

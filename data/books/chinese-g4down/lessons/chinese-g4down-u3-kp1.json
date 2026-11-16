@@ -16,7 +16,11 @@
       "question": "《白桦》这首诗的作者是俄国诗人叶赛宁。",
       "options": [],
       "answer": "对",
-      "explanation": "《白桦》是中国小学语文教材选录的著名现代诗，作者是苏里南籍或俄国诗人叶赛宁。"
+      "explanation": "《白桦》是中国小学语文教材选录的著名现代诗，作者是苏里南籍或俄国诗人叶赛宁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a8645ad551a2a85b91e66dec5a16f23f83bb434.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee2b432f3304e0b83f4899b274c62b4f9604ea9e.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "“所有的绿集中起来，挤在一起”表达了诗人对春天的赞美。",
       "options": [],
       "answer": "对",
-      "explanation": "这是通过色彩的浓度来表达生命力和喜悦感。"
+      "explanation": "这是通过色彩的浓度来表达生命力和喜悦感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc049cd52a94037b46984d2b48181841da9f1586.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/8938061b0960268d7b06baf8bab8be20251065c0.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "游玩的往事"
       ],
       "answer": "童年的往事",
-      "explanation": "这些事是永不灭的回忆，指作者冰心怀念的童年细节。"
+      "explanation": "这些事是永不灭的回忆，指作者冰心怀念的童年细节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94d4218508991d7f09b03b76d1d52dc653880282.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78569500c5f151c97a7f11f8fe687490b408769d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a61c5a4daab2a51bc080abe5c7ecdb15d524335.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21280db952501039783d070b25d2f81bc36fc272.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6b714700d401c86383c7a279df3dcfefe1e1f9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58408fb626950a5e3e9a7b17a8518f72e6461ee4.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "树木的枝干"
       ],
       "answer": "厚厚的积雪",
-      "explanation": "根据诗意，雪落在树上，就像白色的袍子。"
+      "explanation": "根据诗意，雪落在树上，就像白色的袍子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b94b0f0c4adf5d7d527bc60491040f918616354.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eae5892e5bcb72091608948d31090d039477f951.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e95029f117ba6541a8dc0f606543ae19427c7a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9488c10c4ec2ff45f8fe0b90ed229ad1a1e5ef6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329868da2d1a746cf89dc35f8dda95e11770dc47.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c68edb96e6138155250e421b9c94df0c9e41d5f.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "《绿》一诗中描写了绿的形态：“密密的绿，（___）的绿。”",
       "options": [],
       "answer": "叠叠",
-      "explanation": "根据课文内容，应填“叠叠”。"
+      "explanation": "根据课文内容，应填“叠叠”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddb7a49ccb7f1c976077f30a6003045dc8665d46.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e9f74ff19bedb94ec1547d5976841ca31dc415c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "将意象理解为纯粹的景物描写，忽略背后的情感寄托",
       "在阅读时无法将文字描写转化为脑海中的画面感"
     ],
-    "tips": "朗读时可以尝试闭上眼睛，想象诗中描绘的颜色（如银色、绿色）和动作，从色彩和节奏中体会诗人的心情。"
+    "tips": "朗读时可以尝试闭上眼睛，想象诗中描绘的颜色（如银色、绿色）和动作，从色彩和节奏中体会诗人的心情。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ca/caa1fcd3c916a24bd7f22133e89517a128715844.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/71/71f4ce585bf9f4b1a20426b10ff43303549e8360.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/35/3530d2ee5c3613372d2b689956a621961ed73d4e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/33/33a17d5230b537a463bc98d7b4455b799d68d268.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/da/da8881a9d5f918a45520ef5d60acd9a01f5c618e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e1/e1bc7ffb3c7bd77c20de393833fb1c201bf753f1.mp3"
+      ]
+    }
   }
 }

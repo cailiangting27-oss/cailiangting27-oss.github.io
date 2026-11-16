@@ -16,7 +16,11 @@
       "question": "《石灰吟》中“粉骨碎身浑不怕”的“浑”字是“全、都”的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "考核重点字词解释。浑：全，都在这里表示完全不在乎。"
+      "explanation": "考核重点字词解释。浑：全，都在这里表示完全不在乎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/1739704e6fe5cb10cf121d0af10a74fa8e882884.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c56d9885ec285abf1083d444ec0dcc6925198a8.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "《竹石》这首诗赞美了竹子坚韧不拔的品格，诗人也以此自检。",
       "options": [],
       "answer": "对",
-      "explanation": "这首诗通过描写岩缝中的竹子，表达诗人刚正不阿、不随风逐流的思想。"
+      "explanation": "这首诗通过描写岩缝中的竹子，表达诗人刚正不阿、不随风逐流的思想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/912e215e5ddfca2eccef7592752aa34c73ef6aee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd948acad2bcef9002e956700e866bcbae155c15.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "郑愁予"
       ],
       "answer": "于谦",
-      "explanation": "《石灰吟》是明代名臣于谦的作品。"
+      "explanation": "《石灰吟》是明代名臣于谦的作品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81290207f4ec519052d5b168e1b60b2d85e8114a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3fa7cd11cf92439499474edc2bef4298b0193244.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6853e8719a12d52143199df0ecd0b6475a1ed265.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc8e6f25a7fef2c459fcdbe8f84a9ee2f83d473c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52a3a7df45b01adc8ad5c63c53fb84190031c79f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5c837c6ac1218f88e4904f08f69dcba52f7e2ca.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "安静"
       ],
       "answer": "寻常、平常",
-      "explanation": "等闲意为平常。整句意为把烈火焚烧看作平平常常的事。"
+      "explanation": "等闲意为平常。整句意为把烈火焚烧看作平平常常的事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1491a9a2243c3357721ddb4be78cdca5bdc0cfc6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/837e7a109abfdd3032692463ef4309c939454d7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4573a5d404b5bc46eff086ddf22015da3b6cd615.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/130fdc8f68b139a9f5700b886febabfd4cce42b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67ce17274604017d032293ca4cf70d84580f08f5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98fb827f00fd9d10bf91953b6914467f0630724f.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "奉献社会"
       ],
       "answer": "坚韧不拔",
-      "explanation": "描写竹子在严酷环境中依然挺拔，象征了作者顽强的意志。"
+      "explanation": "描写竹子在严酷环境中依然挺拔，象征了作者顽强的意志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a088a66c36c36e8f13d15b7e4930b513deb5e546.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/acc93f983051503f01cc6706cd3cf3c4654ccc59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cd47f4f323d119a3709479489c8bd13665ce8d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddb1c26724a4f01291282b5983b112895b11b309.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55a1df00fde8a98175a4c482552eae5fd95dba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b51f94957a31b8ecc9ad88b9350c76c26eec79d0.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "随风潜入夜，润物细无声。"
       ],
       "answer": "随风潜入夜，润物细无声。",
-      "explanation": "这是写景诗，非托物言志。前三项分别通过石灰、竹子、梅花表志气。"
+      "explanation": "这是写景诗，非托物言志。前三项分别通过石灰、竹子、梅花表志气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba00f6da75189ec2859b87df71358614743095dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de1da6b85b17522a77f2d7edf384dbd7fda71064.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/704679721203ed7f68a7e3d433c5a8acef2c4e03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f50147b4f96ad6c61674a312ea662eee4f1df93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c5cff42cdb224faf1b055ed5403e431505f330f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67cbd30e1424a3f0bb321ea8104439691b71f326.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "“千磨万击还坚劲，”的下一句是（____）。",
       "options": [],
       "answer": "任尔东西南北风",
-      "explanation": "出自郑燮的《竹石》。"
+      "explanation": "出自郑燮的《竹石》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03e07cfb152cd3dbecdabfdbf51f3abcecee66b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c0b0ebf0db9aee16cb095120e689c324b541340.mp3"
+      }
     },
     {
       "id": 21,
@@ -122,7 +174,21 @@
         "坚韧顽强"
       ],
       "answer": "A-1,B-4,C-3,D-2",
-      "explanation": "石灰-清白；竹子-坚韧；墨梅-雅洁；马-渴望施展志向。"
+      "explanation": "石灰-清白；竹子-坚韧；墨梅-雅洁；马-渴望施展志向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b055d86e3b4cf9329e201a298fc32fcfd98f21d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad7b96f6b3c3882325862b12b9f491107eafca32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e865b4ab9eb8b9890c2e0926a06ad83fb6ea578.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79e33b5c271010252e724b729a7cbe22651681ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c9fa1f025787f0347107a00a6b51e901e9e1c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb44d480bcec6fce7ee61db85630107b92803a19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00f219d4fbb89bba1e79be0d7304dda0e117b661.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf97bbcb2e88b07e61a0296bdd18374b98f113b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c73a529dd93fe1c5c65225a735fb4c838e2d4878.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/592f7b59669c6df69b89c6032fcd2a6eebc3a4fa.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "误将单纯的状物诗（只写景）当成托物言志诗",
       "解释诗句时只停留在表面，不理解清白、坚劲的深层象征意义"
     ],
-    "tips": "记住‘物人合一’，找找诗句中哪些词是形容物的，同时也可以形容人的品德。"
+    "tips": "记住‘物人合一’，找找诗句中哪些词是形容物的，同时也可以形容人的品德。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f1/f127ca124302c0e0f24c2dfd3bf76b60310d1061.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2a/2a7ab24c000c1dfd5202e2d50c74fcae8f7fd927.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ff/ff4639e95af3a107a8eaf29f455375d6f8d59360.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f5/f5dd5fd8370a3842fa9dbf9d023bce969fb8e470.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5b/5bd4479b7a30d686fa048bfdc3670420880b98a8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f1/f1d11828fdc5929b10fc61403d1cf14dddb76aa4.mp3"
+      ]
+    }
   }
 }

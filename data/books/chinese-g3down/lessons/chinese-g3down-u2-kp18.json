@@ -25,7 +25,21 @@
         "双角"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "词语固定搭配考察。"
+      "explanation": "词语固定搭配考察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0f6fecaed256d25762341fbf0c4b7d6afa83659.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ffded267b3700a76411b32271ebf8f55bbd4887e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54487f7c541efc6f8cec14a18a35aa685f62dc90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/945fe23fd0bc75afee3040d4ebc3d46259682866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a144a24c3d1958eeb6a82c983df4d78f880474f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7e076b8d525dd54273d88a1c89d4f90838abe7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a82434e114b8524b89f92775f488aef12dd799.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44b5ad58d1a2790ab0a6251d132a9f0cb48227a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e53ab1da3915983d08777c827cc7cfcde9959f8e.mp3"
+      }
     }
   ],
   "knowledge": null

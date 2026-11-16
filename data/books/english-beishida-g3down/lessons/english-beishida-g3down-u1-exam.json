@@ -21,7 +21,17 @@
         "pen"
       ],
       "answer": "ruler",
-      "explanation": "尺子 ruler。"
+      "explanation": "尺子 ruler。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81400aff5687c9dc15cfc4cae5fc4e60ab902f3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/386a231f3dfd54d42a105187c3ff57c497c0ada3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa439ceac2c3faee8a7a610fcdbfd3afb1a01a52.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "bluing"
       ],
       "answer": "blue",
-      "explanation": "蓝色作定语。"
+      "explanation": "蓝色作定语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba4cbb9778e011c1277067e986a1127308bffbcc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e00f41599ae0ddd8bd36514d9eb63ceff24a6f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8414e0ff81b563648e1353bb4f642dcb40d634be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ad9763bd46719970011ec15803e052a5ad52783.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f7baa01d47b9f5526907930b87c6908bb785e5f.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "book 是书，bag 是书包。",
       "options": [],
       "answer": "对",
-      "explanation": "book/bag。"
+      "explanation": "book/bag。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0f4ca5f81368d0442b3d474f8c4296860a5d354.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/610ca8ddc5180030acced50f02f1b2b287e9f5f5.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "It's a… 用来回答 What's this?。",
       "options": [],
       "answer": "对",
-      "explanation": "回答句型。"
+      "explanation": "回答句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7db65fc67f8629ad2aa889d79ca1c8fd2004948f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b6b5e02c2279dd55a0665ad89304162f3ebcc32.mp3"
+      }
     }
   ],
   "knowledge": null

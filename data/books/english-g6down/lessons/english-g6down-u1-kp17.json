@@ -21,7 +21,17 @@
         "thinner"
       ],
       "answer": "heavier",
-      "explanation": "大象比兔子重。"
+      "explanation": "大象比兔子重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6643d5a712aff52c82b76ab66dc4658b0f79628a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c3c295f075290ead8ad6f94eb282817c7e713c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/794772fb87858d551cea9660614a1098a3952544.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c966b463b67c6424fefebcfcd475817e379065c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/419bc23299c30ba0109ae0e8357e11e6385da652.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87d4471723d5cbd373b5ba1999d101b6442a6815.mp3"
+      }
     }
   ],
   "knowledge": null

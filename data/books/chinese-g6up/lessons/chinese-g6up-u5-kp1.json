@@ -16,7 +16,11 @@
       "question": "在写《我的老师》时，加入“老师昨天去超市买菜”这个事例是合适的。",
       "options": [],
       "answer": "错",
-      "explanation": "超市买菜是生活琐事，除非能体现老师的相关品质，否则与赞美老师的主旨无关。"
+      "explanation": "超市买菜是生活琐事，除非能体现老师的相关品质，否则与赞美老师的主旨无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36da1b4a0a18439e3f7c87eca64dbfe60f5f8a7e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cdb88b1e4ea9844fac597fa435ddd793385f7c46.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "所有的材料都应该详细描写，这样才能使中心意思更加突出。",
       "options": [],
       "answer": "错",
-      "explanation": "应该详略得当。重点表现中心意思的部分要详写，其他的则要略写。"
+      "explanation": "应该详略得当。重点表现中心意思的部分要详写，其他的则要略写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81bf9001b59c477c925951c3593c26bc30c100a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccc5396faeadfee1ffed71eb2dbc29240e89311d.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "在《盼》一文中，作者重点描写了“我”等雨、看雨的过程。",
       "options": [],
       "answer": "对",
-      "explanation": "“等雨”和“看雨”最能体现“盼”字这一中心意思，故重点描写。"
+      "explanation": "“等雨”和“看雨”最能体现“盼”字这一中心意思，故重点描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce85612afc8f15d4cad5eb4435eb3a997fd3b366.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8f69b110ee46210eea089c791fe2945c9238d4a.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "爷爷攒了很久的钱买了一套昂贵的戏服"
       ],
       "answer": "爷爷帮邻居修好了坏掉的收音机",
-      "explanation": "修收音机体现的是乐于助人或动手能力强，与“戏迷”主旨不直接相关。"
+      "explanation": "修收音机体现的是乐于助人或动手能力强，与“戏迷”主旨不直接相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/907b3f1b6c0ded66df9544ddb99d5daad371e963.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/2853dd589cd85411b434254f9c01075ccf7ec3cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/625e0cb34a1c49d48d6b4e3f960d93f82945651a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/010001f244078aa1a83f2164ebf2c3faf1cfba98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc58d8f251b63ea1c2c91b494408758bc7c586b5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90ef6d96d4287614d4b67cfc4c7d060d30cd53e3.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "草木需要雨水"
       ],
       "answer": "夏天万物都在飞快地长",
-      "explanation": "这些事例均指向夏天是成长的季节这一文章中心。"
+      "explanation": "这些事例均指向夏天是成长的季节这一文章中心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfa9f9089fb041926a1f4155d00017c0adcd7f7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2cbbbc643cfdbb46a4cd537d7a8dc19c19916c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb1e8e1fe0b947f86c0b90ba6e32fa006283346f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70c9b639177bed69e78156117bc3830fea98d8fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87ec1b2e725b079880f44030a18941618d36ceb5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d8b90364976cbe7fed33b4e0fc15818c1fca28c.mp3"
+      }
     },
     {
       "id": 9,
@@ -86,7 +118,17 @@
         "热水袋的热量很足"
       ],
       "answer": "人与人之间相互关爱带来的温情",
-      "explanation": "在习作中，通常选取具有情感深度的中心意思进行表达。"
+      "explanation": "在习作中，通常选取具有情感深度的中心意思进行表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c568b9a211452f44975de51fb64f1e597014ec8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aaed56b318301520c020cc8bd6852071c2cbc927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50b1843058828e895f62199b713802e67fb6ea9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b1eb7d1f905fb7d2e214538d5ad917bc1eb8ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dd947ed0e731961a01c2470651dd560d0981f93.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd218a3485bd2a81883a075a948038e13d0e0462.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "犹豫不决"
       ],
       "answer": "迫不及待",
-      "explanation": "全文围绕一个“盼”字，表达了作者急切、迫不及待的心理。"
+      "explanation": "全文围绕一个“盼”字，表达了作者急切、迫不及待的心理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14c082538e53cc470eb471af6f0e70f1376fed35.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d409b9524a9dcbc8e8cbc3c8c8fca23a7cce03b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af9fda6604a3c2679e46586d85d361bed83a72e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b10009a2e9990303c5ea06df60b928882df57da8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/872567140ace19c2b6f155cd99fcb007225d599b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e13983c96304482fbc45151a524689679088efc8.mp3"
+      }
     },
     {
       "id": 14,
@@ -118,7 +170,17 @@
         "慢"
       ],
       "answer": "愁",
-      "explanation": "“发愁”、“盯着”、“半天没落下”都细致描写了爷爷思考棋局时发愁的状态。"
+      "explanation": "“发愁”、“盯着”、“半天没落下”都细致描写了爷爷思考棋局时发愁的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/089fcb7a6688e74d6cc7de457b7ecbe99f0cad89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d21b4e3093be5f212c889ac2c9fb3ff7784dc007.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59ae2bbdc92016aca70d85ae5dca9f632bc5d185.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/807de926bfe84831f777307005934323f71c37a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9aadfb450091e59df1480b6f32ee247114a3b8bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/accbf9f7ae60b5085c22cb72a06f048a1d7cfe69.mp3"
+      }
     },
     {
       "id": 17,
@@ -129,7 +191,11 @@
       "question": "《夏天里的成长》一文中心句中的关键词是（___）。",
       "options": [],
       "answer": "成长",
-      "explanation": "整篇文章的主旨就是围绕“成长”这一核心词展开的。"
+      "explanation": "整篇文章的主旨就是围绕“成长”这一核心词展开的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa026c6c309249ed8a4fecfd7e502034c6acc562.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70cbd24fd34028fb4ad101f942aec1ae9fcb7a03.mp3"
+      }
     },
     {
       "id": 19,
@@ -149,7 +215,21 @@
         "因为贪玩弄丢了日记"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "《迷》对应钻研状态；《泪》对应离别情感；《笑》对应获奖喜悦；《悔》对应过失遗憾。"
+      "explanation": "《迷》对应钻研状态；《泪》对应离别情感；《笑》对应获奖喜悦；《悔》对应过失遗憾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ac8424b7afc0a4e930f36067a967623ed973b67.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e622ef88a8de85a28a847876d474f6698c17499.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/641ea70cd0ad558f8c9da82472da06653dd7a574.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be9f30a0241ee5224d74c9c5238d6b7b51f2c7d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dc63bea67af7e4be62591319fc7836311d7e3a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/192a3bcd5881b43f1b9a09764b125fd202e5c5e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3f1c49515218f421adb4e0ad60463009f495368.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aab68e754bee7c543ed019fe2a9f1063bf3fccf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c1912925e3c841f524ba7a7c7aaec6924ca4471.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/3561365cc4940e4404caf6afb3fa850f9c8c2630.mp3"
+      }
     },
     {
       "id": 21,
@@ -169,7 +249,21 @@
         "博学多才"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "不同的成语对应不同的中心意思，要在习作中准确应用。"
+      "explanation": "不同的成语对应不同的中心意思，要在习作中准确应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49e3c1e0b9266bbe1da78a6c23be789b17bec116.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/023db1603c7658ccca85c5b842e2d987c6ffbc32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646d8eb546a6342cff0e4ae727f91ff207417615.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bc9ab177ac21f78e47fd18bd42f08af6063048f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25003871dda2dad1df86bfea7eafdae5c216349a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03bb772179f5a45d7b75e92123555fe897029750.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fb45ec8bae4615301bf4415fb3095d6b5e1bfa7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a11041a907531b85eb847e4612b78f3ba77d8b5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5053a7112973be5d8d21ef688f88da4d20adfbd7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/001b0eee2ef5c475815d526c47a91ca30ac8cf6a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -180,6 +274,16 @@
       "选材过于笼统，缺乏具体细节",
       "素材与中心意思若即若离，甚至出现负面案例"
     ],
-    "tips": "写作前可以先在纸上列出3-5个相关材料，逐一对比，剔除掉那些虽然有趣但不能直接证明中心的事件。"
+    "tips": "写作前可以先在纸上列出3-5个相关材料，逐一对比，剔除掉那些虽然有趣但不能直接证明中心的事件。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fa/fa226d15b15372f29f1c1e265251c09b38bc57c3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/17/17d49ec1a4d7397f1e887feefc12c20b1692a2d6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d4/d417936f3b0fbf38fca88463d2e18beb85f6c7bb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ad/adf32410c8c254495d82f418e8b5d202633b1101.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0b/0b818786e571be434defe94db064a6bed2738d80.mp3",
+        "https://api.clthuanxie.cn/cc-audio/89/898803f0685aa41c9f33e9a4b9209a9062710c26.mp3"
+      ]
+    }
   }
 }

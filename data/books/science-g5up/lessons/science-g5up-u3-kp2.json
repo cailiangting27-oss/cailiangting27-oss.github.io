@@ -21,7 +21,17 @@
         "将水柱调高"
       ],
       "answer": "保持溢水孔不断流出多余的水使水位恒定",
-      "explanation": "水流速度受水位压力影响，保持固定水位可以确保压力稳定，从而实现匀速。"
+      "explanation": "水流速度受水位压力影响，保持固定水位可以确保压力稳定，从而实现匀速。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d207232e9d752933b94a42d788005235c1e7f2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c850d35653587a2378fa5a20e395e6a10da3c39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18b8f70baf9cec8d73cda0a8fa8d6399c73ac9e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d3ddc5ba947ba11b46256c5e8739b19b2608361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac4c93a273746e5644a0990c344bd2dcbbc29df9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3c45a2fda27fa9efca1691f0f98741dec679864.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "没有影响"
       ],
       "answer": "水位越高，滴漏越快",
-      "explanation": "水位越高，水流到底部孔口的压力越大，流速越快。"
+      "explanation": "水位越高，水流到底部孔口的压力越大，流速越快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1df6a07d28aa211f5a76a97f772238c5c5c90bee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a85adb93cb1e965662959419b1a85df37f398f79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bc1cd4edee5eb87d40595290445478b56a3f390.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de539551485c698661fb961cff3c212142fe852c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73e69da7e7903f4c60e959bb4d58e484548522f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8fd5413102ef1fb393dbfb42e4eec1e5e555674.mp3"
+      }
     }
   ],
   "knowledge": null

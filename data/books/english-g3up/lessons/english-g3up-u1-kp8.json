@@ -21,7 +21,17 @@
         "Yes."
       ],
       "answer": "Hi, I'm Wu Binbin.",
-      "explanation": "面对别人的自我介绍，应礼貌回应并也介绍自己。"
+      "explanation": "面对别人的自我介绍，应礼貌回应并也介绍自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea5f39f75f3617104d2925cbbdfdfa4be7f9b9b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5d9ece2a79cf69bd61be4f298348940e7c8f63d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c53c562dab4b33b3e42f3bc4d8e5719439a9c155.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e51b4aa01a16e78b00ddb1620ab3e4f1d2b3897f.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "Hi, I ___ Wu Binbin.",
       "options": [],
       "answer": "am",
-      "explanation": "I am... 或 I'm... 表示“我是...”。"
+      "explanation": "I am... 或 I'm... 表示“我是...”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8c4219470c86b09bb8b48bbb2fc91a222c826ea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16c36f04765380e701ae4d619952b4e992bc0834.mp3"
+      }
     }
   ],
   "knowledge": null

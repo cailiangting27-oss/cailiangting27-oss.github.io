@@ -25,7 +25,21 @@
         "古怪可爱"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "根据丰子恺、老舍、叶·诺索夫的课文内容进行性格匹配。"
+      "explanation": "根据丰子恺、老舍、叶·诺索夫的课文内容进行性格匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87f038a936bf1b307e6846c40eb570b69d5b7df8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d4858c1668b1e0a0bc33317f69a6d9d99f823c25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e10bd9f09bf8645cbc09111df49cd3a35017e086.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26cf1c4b476aa14bf31f37f68d33e137fd90e3ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bdd3e836a92571b4631ee5fe51a9ea27def02f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c64c965f57d3aff65d3b632789a446d3909a0b41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7175284dfa14453a1b97ba41f0fb8875fe978499.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb5d31776d6c09a9dcc7a8a9c860e16c8f39ed6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55e49daa82dd52ed5be2ea929efc6e17e2a70a8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e3eb8ad820fa98073b7c2fc50ccce3e30fd79e6.mp3"
+      }
     }
   ],
   "knowledge": null

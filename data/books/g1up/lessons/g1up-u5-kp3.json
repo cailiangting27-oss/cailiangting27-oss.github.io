@@ -16,7 +16,11 @@
       "question": "计算 $9 - 3 - 2$ 时，应该先算 $3 - 2$。",
       "options": [],
       "answer": "错",
-      "explanation": "连减运算应从左往右计算。先算 $9 - 3 = 6$，再算 $6 - 2 = 4$。"
+      "explanation": "连减运算应从左往右计算。先算 $9 - 3 = 6$，再算 $6 - 2 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/516803b6fb71a3bcb2c12ba7f423d90fb4a3b09a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37af53b25ed2f67b18067bd4e70ae5f56f5ea2e9.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "10"
       ],
       "answer": "9",
-      "explanation": "先算 $3 + 2 = 5$，再算 $5 + 4 = 9$。验算：$9 - 4 - 2 = 3$ ✓。"
+      "explanation": "先算 $3 + 2 = 5$，再算 $5 + 4 = 9$。验算：$9 - 4 - 2 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f18e23ebce9e4579a42c8826833d81ad80daf62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8f41b641f441038d5648b73809822d61722475f.mp3"
+      }
     },
     {
       "id": 23,
@@ -43,7 +57,11 @@
       "question": "$10 - 4 - 3 = ?$",
       "options": [],
       "answer": "3",
-      "explanation": "从左往右：$10 - 4 = 6$，$6 - 3 = 3$。验算：$3 + 3 + 4 = 10$ ✓。"
+      "explanation": "从左往右：$10 - 4 = 6$，$6 - 3 = 3$。验算：$3 + 3 + 4 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f003598fb95aa78885538d57f5c8b8020aaf7f98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e1bca9d282e14e20b12ad8969a8c708c4d84e6e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "计算顺序颠倒，先算了后面两个数，导致结果错误。",
       "算出第一步后，漏掉了第二步计算。"
     ],
-    "tips": "计算时，可以在第一步的算式下面轻轻写上得数，再用这个得数去加或减第三个数。"
+    "tips": "计算时，可以在第一步的算式下面轻轻写上得数，再用这个得数去加或减第三个数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f1/f17880f56775a923d2b124f0ca8ff7c1c844e002.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/90/90a53b6d8063f4bcaa501286cdf2f523e209fcb8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e5/e5ec3d426d0b79da3278a6aceaf40398f323d233.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/37/3774ce0473ed3628436c4d46bd0dfd8614c53223.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/41/41b164df8e1ebfe528ac914a100b2570d68ad6a2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/26/262e0c708e3bf2dc11af0179dca91649d918b66e.mp3"
+      ]
+    }
   }
 }

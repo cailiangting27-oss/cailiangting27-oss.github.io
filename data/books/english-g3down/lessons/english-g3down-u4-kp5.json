@@ -16,7 +16,11 @@
       "question": "单词 'desk' 指的是我们坐的椅子。",
       "options": [],
       "answer": "错",
-      "explanation": "desk是书桌，chair才是椅子。"
+      "explanation": "desk是书桌，chair才是椅子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/6381f6d96ee3461c6be1fe3233d70bed87d1eee8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2625da20f3343542b0864204ad85ea9b8dd22dc8.mp3"
+      }
     },
     {
       "id": 19,
@@ -27,7 +31,11 @@
       "question": "Where is my ___? (帽子)",
       "options": [],
       "answer": "cap",
-      "explanation": "帽子在教材本单元中为cap。"
+      "explanation": "帽子在教材本单元中为cap。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91df6827e83f82a3ef9bdc2677d1659d2abf6998.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1b29584e5c894b4cb47570bf0460dd62d01f350.mp3"
+      }
     }
   ],
   "knowledge": null

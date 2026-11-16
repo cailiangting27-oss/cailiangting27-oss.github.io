@@ -21,7 +21,17 @@
         "go to sleep"
       ],
       "answer": "take a deep breath",
-      "explanation": "调整愤怒情绪的经典方法是深呼吸和数数十。"
+      "explanation": "调整愤怒情绪的经典方法是深呼吸和数数十。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8160b728e856f85ca3e38a248b3b0235c6ec138.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/4763d130c8a58b0c62bea931d62aa1cebc35efef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9584b778295b25f619cd145caf1f9d54bc689b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c88fb30c595ee11b158b7dbc54de3b3bd71f811.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/820ce1c286b325641373a0409c73eace7de60ddf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58bff0042e641be96c22eb2e59d8aa3ccb72e986.mp3"
+      }
     }
   ],
   "knowledge": null

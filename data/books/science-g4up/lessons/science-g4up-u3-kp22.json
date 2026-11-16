@@ -21,7 +21,17 @@
         "把喷气管折断"
       ],
       "answer": "减小小车重量",
-      "explanation": "减小自重可以减少摩擦阻力，提高行驶距离。"
+      "explanation": "减小自重可以减少摩擦阻力，提高行驶距离。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f0987f5c45b31f9e89bc95c0cc9c53b1efe7872.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f46b79240c24bf6d4e8c48d4270b30b6ae1b86fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7e74327ea3a521c61cda9a42a22a635b0646259.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2cfde7c2016aa752db9ba476ca8ebac51fd0835.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d0093fec5b4690f7adb81bf9706c3b5fc4e71c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a831ea9886bb83c91ff1f8d9156e2c44ff503bf.mp3"
+      }
     }
   ],
   "knowledge": null

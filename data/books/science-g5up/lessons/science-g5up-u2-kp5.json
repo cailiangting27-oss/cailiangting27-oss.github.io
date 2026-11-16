@@ -16,7 +16,11 @@
       "question": "地壳是地球的中心部分，离地面最远。",
       "options": [],
       "answer": "错",
-      "explanation": "地壳是地球的最外层。地球的中心部分是地核。"
+      "explanation": "地壳是地球的最外层。地球的中心部分是地核。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fdd34af27ef1b1034a2a748e7d4c1b6a36db75a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d305161a7d90e170c6300b830dc24244b3176b9.mp3"
+      }
     }
   ],
   "knowledge": null

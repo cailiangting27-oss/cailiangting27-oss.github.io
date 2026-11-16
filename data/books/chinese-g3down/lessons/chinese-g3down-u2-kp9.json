@@ -21,7 +21,17 @@
         "对称"
       ],
       "answer": "称赞",
-      "explanation": "称赞读 chēng，其他三项读 chèn。"
+      "explanation": "称赞读 chēng，其他三项读 chèn。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d4ba7b3ab48e9d65f0f0a35d2071ffb934d94d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f6feabfdbcce305a6216ed1e3029c108be2bb98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1799acaf5457a0607d487b3f39fd3b73c68dfa1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb73ae2e95504c86bb2363e063af9b12cb7a485f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d944c1bc208a8e2af52b73545e486f5ddfa5683.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bdbb75a2a76561fa4729957fed58ae61087c0d3.mp3"
+      }
     }
   ],
   "knowledge": null

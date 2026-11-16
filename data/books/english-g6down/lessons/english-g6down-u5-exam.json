@@ -16,7 +16,11 @@
       "question": "'an' is used before the word 'hour' because it starts with a vowel sound.",
       "options": [],
       "answer": "对",
-      "explanation": "hour中的h不发音，发音以元音开头，所以用an。"
+      "explanation": "hour中的h不发音，发音以元音开头，所以用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/571a15ca4e5d417b12402e46daf3618bcaf2b236.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d8e9a75b44d08932f219b497253fd59db9c46f9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'I will to play football' is a correct sentence.",
       "options": [],
       "answer": "错",
-      "explanation": "will后面直接跟动词原形，不需要to。"
+      "explanation": "will后面直接跟动词原形，不需要to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c68c7eb628b60171494136dba0d0094b4b23a9ae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57e09b76d7da31057a0b815c749d6a324739354a.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'Instead' can be used to show the sequence of time in a story.",
       "options": [],
       "answer": "错",
-      "explanation": "instead表示替代，不是时间顺序连接词。"
+      "explanation": "instead表示替代，不是时间顺序连接词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93a8e64dd199a993cafe6faeb12cc28789ef6b13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07e87f52f8233d04c49b00def314626eb6fc15c5.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "We can use 'be going to' to talk about a dream job in the future.",
       "options": [],
       "answer": "对",
-      "explanation": "be going to可以用来描述未来的计划或目标。"
+      "explanation": "be going to可以用来描述未来的计划或目标。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/3103b0d1aced2d962253373e792b472ce8dbbd6f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8faa08304fb469fc9c4b07da0c1535b190cc5ae.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "under"
       ],
       "answer": "next to",
-      "explanation": "表示在...旁边用next to。"
+      "explanation": "表示在...旁边用next to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0005fb17e36c544d7637b1f060e3c6f0bdf3bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b8fd8727d3bddc84e98e7b827f72392f1d68066.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f25df58dc675e680f4953d0d88ee64467221848.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "Then"
       ],
       "answer": "Finally",
-      "explanation": "根据上下文，睡觉前做的最后一件事是作业，用Finally或后接Then构成的序列中有误，此处选Finally最符合结束感。"
+      "explanation": "根据上下文，睡觉前做的最后一件事是作业，用Finally或后接Then构成的序列中有误，此处选Finally最符合结束感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d8f9c4a26ce4cc61564b93de04b77bf5dd64fd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6cdaaa8cb2e65801aa1c8d80ee153518e1a67b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/916a78d701ded328cd66da58a97ef8cd28a99e84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4927411c62ef73fdf678af336943700e725935a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d93209feaafbc1a12da3a4ff746ce203ae75ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62318e55ddd69ecf2c59e1f5b8e61a0ba5ad0858.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "was"
       ],
       "answer": "will be",
-      "explanation": "明年(next year)用一般将来时，will后面接动词原形be。"
+      "explanation": "明年(next year)用一般将来时，will后面接动词原形be。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eed2c1dd9e577cb3b11b60fd85aa0b02c734e1c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9fc93573816860b2b33427bf672c945ff990bf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63598c8403839b15d65b94754346a3e722eb28c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08392f4d78ec1651a9e3fbe77db1cc7d1bae0331.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "When"
       ],
       "answer": "Where",
-      "explanation": "回答是地点，用Where提问。"
+      "explanation": "回答是地点，用Where提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24b95d7082c6ad748fb5664ca64f211ce8a32545.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/966187570aa49b8bcde1153a83bc1c505c69f9a8.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "It's cold."
       ],
       "answer": "Take the No. 5 bus.",
-      "explanation": "询问如何到达某地，应回答交通方式或路线。"
+      "explanation": "询问如何到达某地，应回答交通方式或路线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5e188391b492759bde9256b2440d8668df52fe3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b34ff0b45d47b6f91e88a26592a1fd7f68396537.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2301cf30505ee55ddcd697e879935c49ec26a58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bface48bc6c6db723d02e7e163a4f3663567863.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e332ac00f3ec29e062c04e1b2485b6e833fb5f9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c33e2218b541e0fd786b5f0c3293c429dc6db5d.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "two"
       ],
       "answer": "an",
-      "explanation": "idea以元音音素/aɪ/开头，用an。"
+      "explanation": "idea以元音音素/aɪ/开头，用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01ecf7c10f22d818ecbbf050ce453baf08b83c19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a2c7f504844960988f5e3963cf9477a6c0b275e.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "Spring, summer, autumn and ____ are four seasons.",
       "options": [],
       "answer": "winter",
-      "explanation": "四季包括：春夏秋冬。"
+      "explanation": "四季包括：春夏秋冬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/141c8c48efd003409af8488e82542d486dd73800.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b77c3a90beb71316d8da2dd3a3f9383c14754c3.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "I ____ going to buy a comic book.",
       "options": [],
       "answer": "am",
-      "explanation": "主语是I，be动词用am。"
+      "explanation": "主语是I，be动词用am。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/295ec521ff7747a2f755832781aaedca53b1f4a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91e27548046327fd34a402f37656a9d3c8390f4d.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "Childern's Day is on the first of ____.",
       "options": [],
       "answer": "june",
-      "explanation": "六一儿童节在六月。"
+      "explanation": "六一儿童节在六月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1ce298996f4da1675ecf9b62eddaa4e6556adc0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da7bd6880244110b7ecb585b6361d9b1c876b5c2.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "歌手"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "pilot-飞行员; coach-教练; singer-歌手; writer-作家。"
+      "explanation": "pilot-飞行员; coach-教练; singer-歌手; writer-作家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/365303c79f0ec7041ddd3510fe52308a58f8aa10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/eec7121ebf641c6e938d95dca3f1fa2a86010126.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63c8ec7f6e2308874076f269e863af55d2cc22e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fdccf09b305ccc3e5617efeed0b9b9f1288ee23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe28f10d2c6dab4e315f2659adaa6a4f16b5e4b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab56b347d4a6362fcb91f1969402716113f7d25b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a9d94ba2aa444b03f1da0db28b02d89e7f1c575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e7a1cbbe9791c3cc335d31b9860918d6536c6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c0adc266c6fa7c0909a4e4b4f3f9574298368eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63e44f040a4d1419c002900dd13cd3389f6b91c2.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "you"
       ],
       "answer": "Where,are,you,going",
-      "explanation": "疑问词Where + be + 主语 + doing。"
+      "explanation": "疑问词Where + be + 主语 + doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b725e51c0d4ea4f70907a0d5f162ed15534a7da0.mp3"
+      }
     }
   ],
   "knowledge": null

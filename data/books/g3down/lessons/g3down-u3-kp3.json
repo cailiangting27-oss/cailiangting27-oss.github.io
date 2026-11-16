@@ -16,7 +16,11 @@
       "question": "在复式统计表中，只能横着看数据，不能竖着看数据。",
       "options": [],
       "answer": "错",
-      "explanation": "复式统计表既可以横向看同一个项目的不同情况，也可以纵向看同一个类别的不同项目。✓"
+      "explanation": "复式统计表既可以横向看同一个项目的不同情况，也可以纵向看同一个类别的不同项目。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c3a046be9e4251bbbb3615662eba86cc7fa644d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74ab5f8fa685db1b9f8fe266a8884863876a5e79.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "复式统计表比单式统计表更容易进行多组数据的对比分析。",
       "options": [],
       "answer": "对",
-      "explanation": "由于数据集中在同一张表中，对比不同类别的数据更加直观。✓"
+      "explanation": "由于数据集中在同一张表中，对比不同类别的数据更加直观。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1ccabd5e5830d8a8903cbfcd04d13cef3d853db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd4cdee6dc1909b7930c2481ba29d1e991f2a88f.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "3"
       ],
       "answer": "27",
-      "explanation": "$15 + 12 = 27$。验算：$27 - 12 = 15$。✓"
+      "explanation": "$15 + 12 = 27$。验算：$27 - 12 = 15$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/220076b7ef9a75f818cfc9388514b46a8c6e625d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/246a167f2fbb10f32d136b4c35b80ed4061f16c8.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "天气情况"
       ],
       "answer": "男女生差异",
-      "explanation": "横向查看不同行（男生行与女生行）可以对比男女生之间的差异。✓"
+      "explanation": "横向查看不同行（男生行与女生行）可以对比男女生之间的差异。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d87d0bba12921b923486915214d02b1ec0b3c61.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1fdc246bd2590f44fa7485c65e73850a89b49253.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab622372c5cac4023eeb78cbd01e11ec57143865.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbe325de643f5b7c8a7707806c611938d3466d23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89eed58cbee071aa2a67ff0c903bb9c64273f67b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4931bd3655f17241a598bd2fbb9e4d9cf868f97.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "无法判断"
       ],
       "answer": "第一组",
-      "explanation": "近视人数少的小组视力情况相对较好，$2 < 5$，故第一组较好。✓"
+      "explanation": "近视人数少的小组视力情况相对较好，$2 < 5$，故第一组较好。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdc778d7bcda3aad44abdc8f4526a691b2f673cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6038989991aa93796f896513d30fe4b19a1ec2f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88d4a8ad5a01e25f4cf5f6e0161d85515edc741c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/eff6553c23a42c12f23eb301eeff2da376de33aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e5ddc9cbf0ff6d496dd98a2fac5f92402fd1d19.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "40"
       ],
       "answer": "45",
-      "explanation": "$25 + 20 = 45$。验算：$45 - 20 = 25$。✓"
+      "explanation": "$25 + 20 = 45$。验算：$45 - 20 = 25$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ee78f8fa7e8519304bb94752a9044fa53faf8bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/1208e6eb3aa22205722b44b9e14a6037dcf1309f.mp3"
+      }
     },
     {
       "id": 12,
@@ -107,7 +155,17 @@
         "无法比较"
       ],
       "answer": "乙班",
-      "explanation": "$45 > 42$，乙班人数更多。✓"
+      "explanation": "$45 > 42$，乙班人数更多。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7b5ec51d8e6d58aa88792231cb51759232cd870.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/69ae78305332f852b10f5dce45c266f96fc3c8ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c532514da08a6e2b0553258fe2e785e48a7dcfcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb840995ecbe72bb56906d9c6a3c6876a49f78bc.mp3"
+      }
     },
     {
       "id": 14,
@@ -123,7 +181,17 @@
         "标题"
       ],
       "answer": "对应数据",
-      "explanation": "表格中心区域填写的是行与列交叉点对应的数值。✓"
+      "explanation": "表格中心区域填写的是行与列交叉点对应的数值。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff586500a5195a5b7cace642b14e18ed885a9eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8655d62d2dd5be427695ddec96f7d140e43fc89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/631ac5defe59e511b2d2aca5dbe1fbe5879ef7bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8b3da9cda140d0036dfb3820ce4aacb60a1fef3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/748d7dc7e3212d62e207d204624705af70ea635c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09396981e48b6e5e45822f5fb9a1b2cadd98d70a.mp3"
+      }
     },
     {
       "id": 15,
@@ -139,7 +207,17 @@
         "2"
       ],
       "answer": "20",
-      "explanation": "$18 + 2 = 20$。验算：$20 - 2 = 18$。✓"
+      "explanation": "$18 + 2 = 20$。验算：$20 - 2 = 18$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e0a8bb4e37eb5a3449b9870a76170f6588ec386.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9ab7db5975813482ef2375d4bbc840a8d798a77b.mp3"
+      }
     },
     {
       "id": 16,
@@ -155,7 +233,17 @@
         "无法确定"
       ],
       "answer": "比80多",
-      "explanation": "$40 + 42 = 82$，$82 > 80$，故比80多。✓"
+      "explanation": "$40 + 42 = 82$，$82 > 80$，故比80多。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5411011d39b3b8fab5a6ca554a9adc2470a3839c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/926f960b680ab7a7da6a7a624ea02fe19bc71b49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d61bfbd89291d935ee5760e855db0c58bda6c2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c7825ad79f762882e29c92e7270a8191bb7a61b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/084487dcd77217c56db9b77f1842638622a0ef4a.mp3"
+      }
     },
     {
       "id": 17,
@@ -171,7 +259,17 @@
         "25"
       ],
       "answer": "17",
-      "explanation": "$35 - 18 = 17$。验算：$17 + 18 = 35$。✓"
+      "explanation": "$35 - 18 = 17$。验算：$17 + 18 = 35$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb2cd2e3d56f4b550ee2f4cdcca74a8d362a63b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a413402e122f4feb52551a5a576f0f5aa121d97.mp3"
+      }
     },
     {
       "id": 20,
@@ -182,7 +280,11 @@
       "question": "复式表中显示：男生15人，总人数32人，则女生有 ___ 人。",
       "options": [],
       "answer": "17",
-      "explanation": "列式：$32 - 15 = 17$。验算：$17 + 15 = 32$。答：17。✓"
+      "explanation": "列式：$32 - 15 = 17$。验算：$17 + 15 = 32$。答：17。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76beb5bf955a7e2bc782c76d664439399b27c576.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7be4a0799e143ba3b29c1560e21fc7dedfcae37a.mp3"
+      }
     },
     {
       "id": 21,
@@ -193,7 +295,11 @@
       "question": "某班有50人。统计表显示喜欢游泳的22人，剩下的人都喜欢跑步，喜欢跑步的有 ___ 人。",
       "options": [],
       "answer": "28",
-      "explanation": "列式：$50 - 22 = 28$。验算：$28 + 22 = 50$。答：28。✓"
+      "explanation": "列式：$50 - 22 = 28$。验算：$28 + 22 = 50$。答：28。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25c24f71fd07b28e55867ed9053631b32fc4bb4d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fde53509c248762ab9490895b2ff98b166e0c96.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -204,6 +310,16 @@
       "看错数据行导致比较结论错误",
       "无法根据数据进行简单的推理建议"
     ],
-    "tips": "读表时可以用手指辅助，左手按行，右手按列，交叉点就是你要的数据。"
+    "tips": "读表时可以用手指辅助，左手按行，右手按列，交叉点就是你要的数据。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e0/e03465c3e32f20f33e9e0ffd71919793b87ae970.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4d/4d15a9585535b7b4a4c797a5d4cc49cdd87adf90.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/29/29abd586789195a0f02c989cd35b071574482079.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/34/34d51b5e16147d24a1fa481b9af22544ea35fd3a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/05/05ecc9df7fb184ae987cca06240a2a45751b2d44.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2d/2d08d3f905491b6989ccef35b63be34cc8b50492.mp3"
+      ]
+    }
   }
 }

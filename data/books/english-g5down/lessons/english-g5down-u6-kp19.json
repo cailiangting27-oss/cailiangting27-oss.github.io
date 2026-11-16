@@ -16,7 +16,11 @@
       "question": "Please talk ________ in the library.",
       "options": [],
       "answer": "quietly",
-      "explanation": "library提示要安静，talk quietly意为小声说话。"
+      "explanation": "library提示要安静，talk quietly意为小声说话。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af7bb2d39ae6b2128403dd167972eb8279e167e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b072089b6bbd0a4e8ba3208c8c644c86f6ebf159.mp3"
+      }
     }
   ],
   "knowledge": null

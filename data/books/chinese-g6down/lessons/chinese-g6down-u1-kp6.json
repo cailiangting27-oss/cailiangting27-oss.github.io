@@ -25,7 +25,21 @@
         "吃鱼"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "鱼谐音余，年糕寓意步步高，元宵象征团圆，饺子形似元宝象征吉祥。"
+      "explanation": "鱼谐音余，年糕寓意步步高，元宵象征团圆，饺子形似元宝象征吉祥。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffb1237886117269063f87995f50453939c9ac7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cda2612502d8ffa33d317441740d828815ca8f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bb71d20ee5dd53e80f3ca326449698434e84cce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a30463dc906ac332220ecb60704be3b33f798dad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8a766507607e7667099e8d1e79e60109bee6a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64884c1079b91fcf59df4b9fdd49d9009c936b1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a062ba15a99d4f643d61a8427f61847afe042479.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/736b10e16790ee67cabea9656004fc46301391f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/839c5a3ee7ca4f9d3b6977393e11d4cf867e42ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1a865a55168e0a3213cc406d08c5196949ac254.mp3"
+      }
     }
   ],
   "knowledge": null

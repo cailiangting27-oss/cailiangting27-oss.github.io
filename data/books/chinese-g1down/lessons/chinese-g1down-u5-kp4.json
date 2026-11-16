@@ -16,7 +16,11 @@
       "question": "“十五个吊桶打水——七上八下”形容心里很慌，不安定。",
       "options": [],
       "answer": "对",
-      "explanation": "这是本单元语文园地中要求掌握的歇后语，比喻心情忐忑。"
+      "explanation": "这是本单元语文园地中要求掌握的歇后语，比喻心情忐忑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67fc3bf9417f1693c00074062de9f957920bcc65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb0d7084825086a5d67e22cc51919f1c229839cf.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "竹篮子打水——一场空"
       ],
       "answer": "十五个吊桶打水——七上八下",
-      "explanation": "形容心里忐忑不安。"
+      "explanation": "形容心里忐忑不安。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f83a04ed6bd93f0bd987ae605ba7fd525adb37e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1f5a93e9423169d9c8e5fd9bda6cbe49273d6f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4b1ab20b0418b4eae5e1ae2ac40f7b01636bad0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/633311d74cd484bc1bffbc17041ed32c1db2298b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b337ef15320e1c89260d01cefc6328138a0ec71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/458b4fc88b08e725c03f365927c5339e5cff902e.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "芝麻开花——（  ）。",
       "options": [],
       "answer": "节节高",
-      "explanation": "歇后语积累。"
+      "explanation": "歇后语积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a54e0e443bbff9af59ebd9eb414050530dc896dd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a9fb7c3bbcbcd60830bf163cb395a06d14c4016.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "只记前半句，忘了后半句的含义",
       "歇后语应用环境张冠李戴"
     ],
-    "tips": "把歇后语像顺口溜一样背诵，并想象竹篮打水、芝麻开花的画面来增强记忆。"
+    "tips": "把歇后语像顺口溜一样背诵，并想象竹篮打水、芝麻开花的画面来增强记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c7/c784674938827c5a87f82160218cb94045c76bba.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3d/3d8292f7a02a5cd99af4ee66ebbc782f1fe2c521.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e3/e35c51e761c4233e47a6760d81123fea5cbd2b2a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e3/e3f181ef5ab2357cb76bbbad26fa6ccd56d10480.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/27/27d5f76e5bb01829d033e5b36400409594dfbb7a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f5/f576b82395087d5dba05f1971421aac60d5a8191.mp3"
+      ]
+    }
   }
 }

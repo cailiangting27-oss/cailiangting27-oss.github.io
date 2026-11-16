@@ -16,7 +16,11 @@
       "question": "在句子 'I have an eraser.' 中，使用 'an' 是因为 'eraser' 以元音音素开头。",
       "options": [],
       "answer": "对",
-      "explanation": "以元音音素开头的单词前通常用不定冠词an。"
+      "explanation": "以元音音素开头的单词前通常用不定冠词an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c9bede65bede05b8b621d53593eada50afd1627.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2baebea7f02cad77da89c9ff854156ed93431019.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "has"
       ],
       "answer": "have",
-      "explanation": "第一人称主语I后接动词have表示“有”。"
+      "explanation": "第一人称主语I后接动词have表示“有”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a4a5753f7aaae9f584e1c89c7dcc783284b80fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e4b927957f0846d026d4c8c6d2595ade4d5fe87.mp3"
+      }
     },
     {
       "id": 23,
@@ -48,7 +62,17 @@
         "a"
       ],
       "answer": "I,have,a,ruler",
-      "explanation": "我有尺子的表达：I have a ruler."
+      "explanation": "我有尺子的表达：I have a ruler.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2a8717191203981dff069fe7f11aafb9711d3e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e175ebfc15e89810d1222e7a1c13d34c31b7e4b7.mp3"
+      }
     }
   ],
   "knowledge": null

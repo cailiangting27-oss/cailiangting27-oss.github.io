@@ -16,7 +16,11 @@
       "question": "《桥》一文中，‘山洪咆哮着，像一群受惊的野马’运用了拟人手法描写环境。",
       "options": [],
       "answer": "错",
-      "explanation": "这句话运用了比喻的修辞手法，将山洪比作受惊的野马。"
+      "explanation": "这句话运用了比喻的修辞手法，将山洪比作受惊的野马。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cede23d7d802acad32f0528ad5d42a3ccfcb13c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/1254b837eb0ee1ff4247dcdfccbef584bb02fd47.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "‘天也似乎黑了许多’这种描写通常是为了预示人物轻松愉快的心情。",
       "options": [],
       "answer": "错",
-      "explanation": "黑沉沉的天气描写通常用来烘托压抑、沉重或悲伤的气氛。"
+      "explanation": "黑沉沉的天气描写通常用来烘托压抑、沉重或悲伤的气氛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2ebb9ec6ebf73b033f768c6a031ed79dce5b7adb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6faef2b0e711f391122ddb0bb765ebe2ee555d5.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "描写桥的构造十分紧密"
       ],
       "answer": "运用拟人体现洪水猛烈和桥危在旦夕",
-      "explanation": "通过‘发抖’‘呻吟’赋予木桥人的情感，营造了洪水逼近的紧张气氛。"
+      "explanation": "通过‘发抖’‘呻吟’赋予木桥人的情感，营造了洪水逼近的紧张气氛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2ea2ff12857937c7cf76a5f83018712c99a4f5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c66f7f91728a43b792cb9bed12beb5a33825dca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25f42cd9744d856da3352a7ee672f29f8e73330f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae8e2df68816ea32d1a6c0b186877b1580a0b5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18b64cd80880f344b0a9caabcc755db1ff94691f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/409176c76d291bd0c83d306dc82301f9d55ecba1.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "单纯描写地理位置"
       ],
       "answer": "反衬穷人生活的艰辛与危险",
-      "explanation": "恶劣的自然环境衬托出桑娜一家维持生计的艰难。"
+      "explanation": "恶劣的自然环境衬托出桑娜一家维持生计的艰难。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aed5858ecaf5c5fac08e70d8f1a2089f632ba3ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a087d712f181df5765813f7fe13171065aa23c6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fac2763226e5bf7a2f8704cfbe24d6222d488da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b5928c1cb26cb488bf21b4cf798469ac0375a02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e22dd0213c11d9a8874d1fdf4e82e6360e3aa05a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/606d25d45fd95f5db577b9e59d537ec675cae13d.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "天气很冷"
       ],
       "answer": "桑娜勤劳持家",
-      "explanation": "环境描写体现了主人的生活态度，表现桑娜的贤惠。"
+      "explanation": "环境描写体现了主人的生活态度，表现桑娜的贤惠。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d009a476540ec57db8d497634feac10627aae89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/6351300d61fff882bc727c444bc378a9389b30f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7435af1dadeac59ef0e53871ffae837ae19d4367.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6de17a3835da845e4be88a2fc5e123809c0d8e08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc86c40ac6fe44ea4576c69454f97c6707ddcc52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb230c60d2c31abf5fb931a1f50f10a48df11461.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "学生容易将单纯的景物描写误认为环境描写，忽视其对人物内心及情节的关联。",
       "答题思路单一，只会写‘衬托心情’，忽略了其对小说结构的作用。"
     ],
-    "tips": "阅读时圈出描写风、雨、天色的短句，思考：如果删掉这句，故事的紧张感是否还在？"
+    "tips": "阅读时圈出描写风、雨、天色的短句，思考：如果删掉这句，故事的紧张感是否还在？",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/db/dba14e8a62b7384927d1ebf5f173dff373e08c92.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/df/df425ea7ee584243df7c77c0a8475d4e5bbedd77.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/51/5167917dad3ee3deef50f489acc3040f25c03e70.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/72/72a49024772a29a72c88b610460400ec0e8ba683.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/68/68394ee45eafe4571e731ee6789af7ffbe337b40.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ef/ef701b82c3bd20a638f8baf0628a6dca75f6a6ce.mp3"
+      ]
+    }
   }
 }

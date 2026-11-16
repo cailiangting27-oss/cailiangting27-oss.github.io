@@ -21,7 +21,17 @@
         "angry"
       ],
       "answer": "sad",
-      "explanation": "宠物生病了通常会感到难过。"
+      "explanation": "宠物生病了通常会感到难过。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/725440ceb1aebc945b8cf4007274d5cb27188c06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4914600112ba18af7798b6c1a1363728ae1d96f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f529c0de3cab3a3f6351a48451fccf2f65685cde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02af53b32d419e8c9d468dcc98f54b617e178208.mp3"
+      }
     }
   ],
   "knowledge": null

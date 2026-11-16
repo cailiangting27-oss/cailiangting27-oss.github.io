@@ -21,7 +21,17 @@
         "He"
       ],
       "answer": "Her",
-      "explanation": "修饰名词name且指代女性，应使用形容词性物主代词Her。"
+      "explanation": "修饰名词name且指代女性，应使用形容词性物主代词Her。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04b5f4e4998d5bd3afccefab0ef68872fde88f2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/79b58b71cd28cfddde8367f3177c2645a7709bf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9deb4eae495272c28216117ab7a9d14e9eca393c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccb260467619d0ad45b51d2868c61d1c07f938ea.mp3"
+      }
     }
   ],
   "knowledge": null

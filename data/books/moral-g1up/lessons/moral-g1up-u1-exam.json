@@ -21,7 +21,17 @@
         "蹲在地上玩"
       ],
       "answer": "排好队不推不挤",
-      "explanation": "排队要守秩序。"
+      "explanation": "排队要守秩序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74602d40c10d76666add6d1247baf6672253a9d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b06272b452a1ff71f4fc11399d9bc6815fdbaba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e832ec5105d7f467b57f06f113f95b9f822eae42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/456fefb9bf3b750a6a3f7615093fb0598a8a619d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec506d3dc09170a7aa7abc5ffe6a013f98088f30.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f652110375285dd034c187826b7c11b765fa945d.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "书本和公物要爱护，不能乱涂乱画。",
       "options": [],
       "answer": "对",
-      "explanation": "要爱护书本和公物。"
+      "explanation": "要爱护书本和公物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fce063ee33fa2bd5491136c4fe73198a76e3f0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17e48040a0e80d5a34b92d731a79501350857780.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "随便下座位"
       ],
       "answer": "专心听讲积极举手",
-      "explanation": "上课要专心听讲。"
+      "explanation": "上课要专心听讲。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c75a7416cfe9a2e7a9ac7f5b98f4d2f8c5aee6b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73ee0f8be3038b93147e67ea6e8b5e26e10ba797.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a793f9bea908f5c1839c9462e385fd2e9bbcff82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3059565e47c11786e47922601119a3ecc0f4fb79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a50a1eec4799d171d619e00e958a514f1fe5cf0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77293f0a21a5bf6350ac7074ccc85eaf9f983aaa.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "认识新同学要友好相处。",
       "options": [],
       "answer": "对",
-      "explanation": "与同学友好相处。"
+      "explanation": "与同学友好相处。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/118390522776ed545cb45457aa40925fe902dacc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95ec14aace99264518328bdac394ab065b3ec8f5.mp3"
+      }
     }
   ],
   "knowledge": null

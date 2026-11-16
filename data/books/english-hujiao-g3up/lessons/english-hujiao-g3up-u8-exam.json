@@ -21,7 +21,17 @@
         "orange"
       ],
       "answer": "pear",
-      "explanation": "pear = 梨。"
+      "explanation": "pear = 梨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/1750a211a0bc0c96d4ba68fb1bf4c543aad050a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e2bf5faa2c3fec1f84068a073b7e51d7ad44a35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3e1a7b9bdd8e2f6ad00f98752f2b25ea1a65b5f.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "I likes apple."
       ],
       "answer": "I'd like an apple.",
-      "explanation": "I'd like = I would like 想要。"
+      "explanation": "I'd like = I would like 想要。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6ce3e4aca34953b6b19512c4cc2f3129912616c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36623d0775923cc113c3e14b1ddd779544d82e6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cc4a4321d37fd257c8b38a299e65effc16fc109.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8d845cf041c82e82b7889518429f6369a0fad26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84e6842bcdea78fdcd30a1074c69f30f959daaa5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b03cbfdcc5aa508061039ed6f7eea311806d3bb.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "fruit 的意思是「水果」。",
       "options": [],
       "answer": "对",
-      "explanation": "fruit = 水果。"
+      "explanation": "fruit = 水果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4505eb9482e9425da387fc9bcc31f609d0659b92.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39ab98a5f480b804de9c29907d94fb3ebfc60a51.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "Yes, I can."
       ],
       "answer": "Yes, I do.",
-      "explanation": "do 问 do 答。"
+      "explanation": "do 问 do 答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6efb7678b95aa038da50c2b019b41854a01f5bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81f43bb5a24b14a667e843387b1724a0b89ab2ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec49420002d410a20cee0a8f2d83028249f6965.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a71953432bf6eff3031fd7e129e8423f0a1bccef.mp3"
+      }
     }
   ],
   "knowledge": null

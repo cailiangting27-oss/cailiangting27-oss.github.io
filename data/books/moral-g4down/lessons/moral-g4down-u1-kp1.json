@@ -21,7 +21,17 @@
         "欺负同学"
       ],
       "answer": "受教育权",
-      "explanation": "受教育权受法律保护。"
+      "explanation": "受教育权受法律保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a2b4600aeca10e33d509cf7dbd70ed59b7f6986.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d31576dbeb82e54d32b86ecb741c9eb5bf0905b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed0211fe02433eb19c83b1539c85471d0b566a13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e95e9b953923d5b59a88e993d6e9161f103ae929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad94b87c9abfb606c9ae314b20b751497ca5dfc6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e2f03829cf3460c9ba901e7810a0757fbd901c1.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "未成年人的合法权益受法律保护。",
       "options": [],
       "answer": "对",
-      "explanation": "权益受保护。"
+      "explanation": "权益受保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e2700e462cb76b646c8c627f4a3178acf2dd844.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af9dfb25becd1ac86b1b892b3f61197e30d98fbf.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "认为可以随意处置自己的物品而不用商量。"
     ],
-    "tips": "权利要依法行使。"
+    "tips": "权利要依法行使。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/64/644583054e0c51da5e4a1f4ea3e95fd068d51398.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/93/93ba1a17415564c9329666a2cae1753a55849084.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ae/aeacf4712136e47237a4ed2f6e7875c51846969c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0e/0e3973c91d4d9d536de476232be7d603316e8656.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d9/d90604ecdd97717ff67af3079ad01ecd40a5e679.mp3"
+      ]
+    }
   }
 }

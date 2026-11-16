@@ -16,7 +16,11 @@
       "question": "我们通常用右手写字，另一只手是左手。",
       "options": [],
       "answer": "对",
-      "explanation": "根据生活常识，大多数人习惯用右手写字，左手辅助。"
+      "explanation": "根据生活常识，大多数人习惯用右手写字，左手辅助。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34ce80d1512bd58c11bd9b3e72229ef0314cc779.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef970759b66b85331e02bf88eade46704aff4dd3.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "小明面对我站立，他的左边就是我的左边。",
       "options": [],
       "answer": "错",
-      "explanation": "面对面站立时，左右方向是相反的。原本的左边对着对方的右边。"
+      "explanation": "面对面站立时，左右方向是相反的。原本的左边对着对方的右边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b55670b92d8268fa038ae679089d0cd1764a9f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/187b8e2d80e1d55b2141812c78acdce45ece4f51.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "哪边都可以"
       ],
       "answer": "右边",
-      "explanation": "根据交通规则和生活常识，上下楼梯应靠右行。"
+      "explanation": "根据交通规则和生活常识，上下楼梯应靠右行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01fa825b71ef65de0afb6c63c5036a784aa52b23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e7739b4d291b505e4ed215b3931c557dd2ff497.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5eedf607322377f94dee893b60618b4a3131d47d.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "另一件物体"
       ],
       "answer": "另一件物体",
-      "explanation": "本题考察对自身左右手的区分。逻辑上右手拿着东西，左手可以拿其他东西。"
+      "explanation": "本题考察对自身左右手的区分。逻辑上右手拿着东西，左手可以拿其他东西。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/0394b58b0f8eaa658154c7d0a184373596cdd1d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd52d6c26eac71f33ec9eb77d62a49ef4dcf74b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac0d4c9d682702c5bf994697ad3bd9f955da296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63d94f36ff880ea8bcba17d0e8b9003df7cf1f98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/573619c7999ac2aec40970e4954fe72c9b3ef6b5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32d9043f0c9f0a1dd28590fea72c000faddaf1f9.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "右手边"
       ],
       "answer": "左手边",
-      "explanation": "向左转意味着以身体轴心向左手方向旋转 90 度。"
+      "explanation": "向左转意味着以身体轴心向左手方向旋转 90 度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/612694e4acc89ac215ba6aa24667146bf1f6c8fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c4be5ac5c8064b021c8c4f06fde48cc0b928dd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b48d851c983c193f06b5b55941b6a71c99276fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc4090567a83057088401b9706cf15b9805457ae.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "无法确定"
       ],
       "answer": "小红",
-      "explanation": "顺序是：小亮、小红、小刚。小红在中间。"
+      "explanation": "顺序是：小亮、小红、小刚。小红在中间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b6b71bb3cee5ca393ff5048699828f89a957992.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b54663124b5205145bf2edb59c39f0499cc807de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60e4c9204129665c6085af440182d17fc7a1ae45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bf942b5cced554d87769e25317be836b7a7f3fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b0616dcd2b8d2a45e4b677dd8f064173fc04dac.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "下面"
       ],
       "answer": "左边",
-      "explanation": "手心向下观察右手，大拇指位于左侧。"
+      "explanation": "手心向下观察右手，大拇指位于左侧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43483c2936e6d51117c37b5797b24d9380cc3e80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/430dcbd9fe074160a5c4d4bc87da814b58f3d8b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/7728e1e9ce2aaa007bd16ff5440c1423bc30dc15.mp3"
+      }
     },
     {
       "id": 18,
@@ -123,7 +181,17 @@
         "后面"
       ],
       "answer": "右边",
-      "explanation": "根据题意描述，妈妈在爸爸右边。"
+      "explanation": "根据题意描述，妈妈在爸爸右边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/606a6deff9fb2b06c125073f075dddf39281b5a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8566923239e4f57fa51af2cdfa3e6a98eff38737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ceb938fbcfa58e48036d27527f3a9c06ea83c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3ea51d1ef684aa74b1fcbaf473ee8a48705c7065.mp3"
+      }
     },
     {
       "id": 20,
@@ -134,7 +202,11 @@
       "question": "从左往右数，第 2 个是苹果，第 5 个又是苹果，这两个苹果之间有 ___ 个水果。",
       "options": [],
       "answer": "2",
-      "explanation": "计算中间人数。第 3 个和第 4 个是中间的水果。算式：$5 - 2 - 1 = 2$（个）。验算：2, (3, 4), 5，中间确实有 2 个。"
+      "explanation": "计算中间人数。第 3 个和第 4 个是中间的水果。算式：$5 - 2 - 1 = 2$（个）。验算：2, (3, 4), 5，中间确实有 2 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b3975135abc3172017fef1bab5c59ef2593a577.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91594984547da4fa0021a9e8277367200b0e589.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -145,6 +217,16 @@
       "分不清自己的左手和右手。",
       "在描述对面人物的左右时，没有转换立场，导致判断错误。"
     ],
-    "tips": "拿筷子的通常是右手，按本子的是左手。多做对比练习。"
+    "tips": "拿筷子的通常是右手，按本子的是左手。多做对比练习。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/37/37945081ae860ae5fb8fb128ec9c783f351e990e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ef/efd9e90354404728402a7528f8717c239047f3c1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5b/5bd25001670b4df9df780e09e349e67f14623dd3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b5/b50c86ef2fafc6cb3fd6d67e3ce1e885b1a4e1cb.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7c/7c38ff24692391828093af07edaa49304be75c23.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d5/d5222b7296dee192761015b31bed3f3f0754fc02.mp3"
+      ]
+    }
   }
 }

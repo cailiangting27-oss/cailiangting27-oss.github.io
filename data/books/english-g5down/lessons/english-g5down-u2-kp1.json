@@ -16,7 +16,11 @@
       "question": "单词 'spring' 的意思是 '秋天'。",
       "options": [],
       "answer": "错",
-      "explanation": "spring意为春天，秋天是autumn。"
+      "explanation": "spring意为春天，秋天是autumn。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02a948a999dfebcc35828a8949f4f7302577ac2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b11807f06f0d8cc912bca4db0ace9911780d14c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "单词 'winter' 的意思是 '冬天'。",
       "options": [],
       "answer": "对",
-      "explanation": "winter意为冬天。"
+      "explanation": "winter意为冬天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21af66fefb6d0e792d8be05d0553f7f7998d75c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ad279939454302996e7a50284d12bfca16bb7a1.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "animal"
       ],
       "answer": "season",
-      "explanation": "询问最喜欢的季节使用season。"
+      "explanation": "询问最喜欢的季节使用season。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf08709696aad03d937ec6e99315463ad4254826.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76f5e403910647272a338c3041dbed08114d8399.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f053b8b6867d63b294d649595d714aa755500d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39ccb32d95edfdbcd882f2b01809724ec640ea16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3199ea056253916c41d65c6fd39b52e5f239873c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75ff1ce77c7b8da94e0fcd4afa1f8a6150540078.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "winter"
       ],
       "answer": "winter",
-      "explanation": "冬天（winter）天气寒冷。"
+      "explanation": "冬天（winter）天气寒冷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c3db52bb50017e985e89328eddd986a2cfce539.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90f5c7765397ca4e4d5c90e89e7f4ac5d755ba18.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "cold"
       ],
       "answer": "spring",
-      "explanation": "春暖花开，所以是spring。"
+      "explanation": "春暖花开，所以是spring。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12955e5102ac46059aaf53bd6bf5d870bf0af69d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/424fa43965bde21e1a972336f3c3bc0dcaafebf5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62107828ad76495099e4aa76689f3d84c037e88a.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "pink"
       ],
       "answer": "gold",
-      "explanation": "秋天常被描述为金色的季节。"
+      "explanation": "秋天常被描述为金色的季节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6519b62a33d85975efb6e3ff363151cfb9b2437.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09feb137fd5e58ac9131bff6c66ba2e70260bf8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0f7f128338b504edbff2838d59a991df26b398a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc8fe4bcf8bae8e91b4055ccd6c73b7e31152be0.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "There are four seasons in a year. They are spring, summer, autumn and ________.",
       "options": [],
       "answer": "winter",
-      "explanation": "填入四季中缺失的冬季。"
+      "explanation": "填入四季中缺失的冬季。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2c13f82984f18fdb28ff290be12c943b5703585.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd19dcf591a5df9bc08044a241df0f3506c95b5b.mp3"
+      }
     },
     {
       "id": 19,
@@ -113,7 +165,11 @@
       "question": "The weather is very ________ in summer.",
       "options": [],
       "answer": "hot",
-      "explanation": "夏季的天气特征是炎热。"
+      "explanation": "夏季的天气特征是炎热。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/011a38a400f9619e33889f17c21ba42b37195a6e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/485668a0b8bf8fe596286c149095ec1e0cf70011.mp3"
+      }
     },
     {
       "id": 20,
@@ -133,7 +189,21 @@
         "春天"
       ],
       "answer": "A-4,B-2,C-1,D-3",
-      "explanation": "A.spring-春天; B.summer-夏天; C.autumn-秋天; D.winter-冬天。"
+      "explanation": "A.spring-春天; B.summer-夏天; C.autumn-秋天; D.winter-冬天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/645afbbb34afeb598b8ce267c86ecd4f7cd3751f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714152477ba9e1d51870643afd83050154e96456.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12d09b2cba08e729601bdb3027f4740746493a24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dc6ec1c5c99a1d2193bb82a9e24696fa423eb62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c79be7f6dc8a26f437e8c519e2cf16ab5f9892f.mp3"
+      }
     }
   ],
   "knowledge": null

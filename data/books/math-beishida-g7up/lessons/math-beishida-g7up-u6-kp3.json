@@ -21,7 +21,15 @@
         "表格"
       ],
       "answer": "折线统计图",
-      "explanation": "变化看折线。"
+      "explanation": "变化看折线。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2482f2ba5ef02cca86563793970ff87ae7200c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c5193171a80eabb70473438ca91a38c92ae2866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e2062fbd306ba0decc8d020d0a766eb1c8d3dd.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

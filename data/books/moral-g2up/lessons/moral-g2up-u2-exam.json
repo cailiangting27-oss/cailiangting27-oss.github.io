@@ -21,7 +21,17 @@
         "122"
       ],
       "answer": "120",
-      "explanation": "120 是急救电话。"
+      "explanation": "120 是急救电话。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f26e021168a3cf2d588902b0e54e6ef2b0575fd0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e796e48332af4142b10ca0f86e65d9bfdb05884.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05a8ea5382b9fd885261bb3eed0527d1d3b07262.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43461f5f10b843e1d0ca6000cc367c3b4c959f9c.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "不能玩火和触摸电源插座。",
       "options": [],
       "answer": "对",
-      "explanation": "玩火触电很危险。"
+      "explanation": "玩火触电很危险。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9d25290fa00f795c1bfe0b94d744002e2c153dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12bf166ace884eb352725774e06dbf2430e01a2e.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "长时间看手机"
       ],
       "answer": "每天跑步半小时",
-      "explanation": "适量运动有益健康。"
+      "explanation": "适量运动有益健康。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c9a4134c3dc73ef80fe4ee81895b856bc292e88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e651df3264fead25026980917b3f0eb7082b8ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/caff790668366c11c03281d3fa23efde57dac613.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f07d716ffe06278ac098d9ae6fa7be2f277d091.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d39fb1251a943cb925d9e89049008e2217315e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e1d426e86eb227fa00cfc8a95389dff48e71f32.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "小学生每天要保证充足睡眠。",
       "options": [],
       "answer": "对",
-      "explanation": "充足睡眠助成长。"
+      "explanation": "充足睡眠助成长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90d09f19b52ba2f2a04ededf9366eed376a897a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3f7967acd7ac890c1f0982a1b518508fc2fbc7b.mp3"
+      }
     }
   ],
   "knowledge": null

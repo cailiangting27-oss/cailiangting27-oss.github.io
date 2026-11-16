@@ -21,7 +21,17 @@
         "每天只想玩游戏"
       ],
       "answer": "在品德和学问上努力",
-      "explanation": "这是《弟子规》内容，强调德才学艺的修养。"
+      "explanation": "这是《弟子规》内容，强调德才学艺的修养。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9ff9045f7cdc6c45ee4783c420e52fec15c3bd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0d43a5d93c20d8d5cbd206a972a1b86847f635c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/666e1bf3e971374ad256dfa64463f451b722ab2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc66f323f8571cd16c2fff9b3df2cf1857697b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b23aa8dd859f31acaf78bcc535318d518825bad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d348c0221f3c8dbb1f06574d04daf215de7bf136.mp3"
+      }
     }
   ],
   "knowledge": null

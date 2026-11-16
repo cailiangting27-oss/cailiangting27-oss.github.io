@@ -16,7 +16,11 @@
       "question": "科幻作品中的想象可以完全脱离科学事实，不需要任何逻辑。",
       "options": [],
       "answer": "错",
-      "explanation": "科幻想象应基于科学基础，并展开合理的逻辑构建。"
+      "explanation": "科幻想象应基于科学基础，并展开合理的逻辑构建。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e495e893225461f89ed7359c8af0a91070cba2e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff9564c3d6cfc9d051bb0845e37237b7646bfe72.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "天气的变化"
       ],
       "answer": "生理发育的需求",
-      "explanation": "这是基于现实中儿童成长发育需求的合理逻辑设定。"
+      "explanation": "这是基于现实中儿童成长发育需求的合理逻辑设定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32a5fe6cee7c9cae2f0e4479cfe0014d1e3a5d7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e5836203f0e675bbe70b7c72d225aa8d41d8db9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b283f643145e7a7c9af5937d2073bdf3816484fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeb6b1aa3df69846bd781036285aaa577e04a791.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714de140d29901ce0c8fd167731c97fe780e76a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39652758dae40b5fdd2282f7fa09a054a576dea0.mp3"
+      }
     },
     {
       "id": 23,
@@ -49,7 +63,18 @@
         "受损细胞"
       ],
       "answer": "纳米机器人,将,在身体里,修补,受损细胞",
-      "explanation": "考察对科学词汇的组合能力。"
+      "explanation": "考察对科学词汇的组合能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a1593f920427597efc684a3f54966cf3224705f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6012c3a2feeeb9511974be3749327fb62080a911.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4170cd50639e50e019d6f8bd2af0bfd0c630b5ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/058ffde5f5f388856ac4703848247619859792c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0c9706ce92ae7768c51c6947847a0853253b594.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/deb5ca321c7f3f2f1774f5d0e6741d9bac9181e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/037945337cff3b21317317b8640bc648fd9b6d15.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -60,6 +85,16 @@
       "把科幻写成玄幻。如：宇宙飞船是用咒语启动的。",
       "逻辑断层。想象出了先进技术，但对人类生活的影响没有合理闭环。"
     ],
-    "tips": "先定一个核心科技（如意识上传），再从衣食住行四个方面具体描述其带来的变化。"
+    "tips": "先定一个核心科技（如意识上传），再从衣食住行四个方面具体描述其带来的变化。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/91/91e0e342a3ab258d12a27bd33128f8c2d4057e56.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d7/d73aa77ed4a2ef0e7b1bdf86a94c7c0643dc4bb4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/26/2614e03f6e6fdf76f2d46ccab45942c80a50c2ea.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c1/c15f8cd3ee3747f9677db3b7dd7f077f2025b756.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6c4aa192b26618a22f330f428bc05e4c4d77b86b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d9/d9c45e24934197337e976e6c4b46412ffaa9a266.mp3"
+      ]
+    }
   }
 }

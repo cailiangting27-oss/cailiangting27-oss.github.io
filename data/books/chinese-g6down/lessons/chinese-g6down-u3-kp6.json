@@ -21,7 +21,17 @@
         "度日如年"
       ],
       "answer": "弹指之间",
-      "explanation": "“弹指之间”形容时间极短，符合本单元《匆匆》的主题；“度日如年”形容心情焦急，日子难熬。"
+      "explanation": "“弹指之间”形容时间极短，符合本单元《匆匆》的主题；“度日如年”形容心情焦急，日子难熬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d16568e784ffe9294f6f578f82307b5f8b60e43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cf33bafaa6d0e6c1f41fa9d1be5d589e1cdce5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24c635264967ab45535ad5b3aa4a26d138cc4f95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79d90904c4a287665745a3b1ce3308197b153040.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97b33aa9a6066cc500b519219721854085dd9caa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/9736b1968f080f32764da9eecec93f151c7f0560.mp3"
+      }
     },
     {
       "id": 9,
@@ -37,7 +47,17 @@
         "傲慢自大"
       ],
       "answer": "汗流不止且泪水直流",
-      "explanation": "涔涔形容汗水多，潸潸形容泪水流，表现了作者面对时光流逝的焦虑和伤感。"
+      "explanation": "涔涔形容汗水多，潸潸形容泪水流，表现了作者面对时光流逝的焦虑和伤感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8bdcaa94657b77567a5f77ab1780ddec61558d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/7667c6e3e61163e25288c19889d69ca9f7e361f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee43b69a89b5cf56902fd4d26ab798ca0af25161.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e25700de1dec55cd19a78e5b8c7cee55d02e9aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5c098da5a29bd635168ae13d4a77bb40fd82d5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14531e343c9ce303add15d2d68f25f34b3fb4b05.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +68,11 @@
       "question": "《匆匆》的作者是现代著名作家（___）。",
       "options": [],
       "answer": "朱自清",
-      "explanation": "本课学习了散文大师朱自清的名篇《匆匆》。"
+      "explanation": "本课学习了散文大师朱自清的名篇《匆匆》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7fae59d3fe1d26fe83fc619f354e088e816c30d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e99d2fe1286dd6378ad1bd415e84162efd187cc.mp3"
+      }
     }
   ],
   "knowledge": null

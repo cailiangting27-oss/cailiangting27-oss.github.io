@@ -21,7 +21,17 @@
         "环境的描写"
       ],
       "answer": "事物的速度数据",
-      "explanation": "科普说明文应关注说明的对象及其特征数据。"
+      "explanation": "科普说明文应关注说明的对象及其特征数据。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8b414f7bd1ca7991722a547a1d5ebd8ba50e3a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/168ddd69d558c887069bd2279af88d34ce4b98eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ae90fe9abb46f62ec5bf67cd93d02e7bfadfa49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4c92ecbb6ddadc1ffa1d785ba01cf5f0e991ab1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e30b02bb735696b3e9995c19f15cc1cd7b70e9a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27afd45d94af5d3d5959b52f381aed10368b50a1.mp3"
+      }
     },
     {
       "id": 16,
@@ -32,7 +42,11 @@
       "question": "带着（___）去阅读，可以帮助我们更快地找到相关信息。",
       "options": [],
       "answer": "问题",
-      "explanation": "针对性阅读能提高筛选信息的效率。"
+      "explanation": "针对性阅读能提高筛选信息的效率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77e6f437de2dad7a3aa57cc1152496b23eda855a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0784e8e074f8258351cdffea1dd52ae40fa5cb8.mp3"
+      }
     },
     {
       "id": 22,
@@ -49,7 +63,18 @@
         "习惯"
       ],
       "answer": "我们要,养成,不发声,默读,习惯",
-      "explanation": "养成良好的阅读习惯是本单元的核心要求。"
+      "explanation": "养成良好的阅读习惯是本单元的核心要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59357969c8fcbfdbf63f07087270d26a822c1b8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a903f0703ecc569c5befff85df64543bd951dcfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63a3502c5dddc7fcfaaed2dd7136401fd65f1be3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a336013c6e4ef91974d7e6cd12f52eeed0b592e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88d3f2bc173c28e93a29a2b748a1c5622a278e7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5992442bf181e30a7b552799c72bc9ef547ca1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f774a73bc4e829131cbd8c36b6ce207f2617682.mp3"
+      }
     }
   ],
   "knowledge": null

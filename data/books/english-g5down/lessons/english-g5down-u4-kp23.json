@@ -25,7 +25,21 @@
         "美术展"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "art show-美术展, sports meet-运动会, math test-数学测试, birthday-生日。"
+      "explanation": "art show-美术展, sports meet-运动会, math test-数学测试, birthday-生日。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1744b5fbc9b430dd604d63517e853ed7a20c5b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b903e32a5b44dd70e999c7332b955f1b1e5c020.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1feabab6cb15b29a88186575a7c393f110bb5d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26772802a42b122508ade1c938130586d384c2e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d98f2c581b10506c6b7376434c945c4f7e87d11e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb640387248170cf5ff88dec74b850c2e964ba3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fecdf271e37878951f9d382d3fef325e283d79b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fde422000bd6d1c05ffe737f24ddbc1b5c6af984.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bb7e706e9ee72e9db680b57ebfe59e4ab0b7218.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01209cb1269f24cafca4db1d58b2d676c83c28d3.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "人在地球上站得住，不会掉进太空，是因为遭到了空气阻力。",
       "options": [],
       "answer": "错",
-      "explanation": "这是因为地球重力的作用。"
+      "explanation": "这是因为地球重力的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6baedbe62aabdab61c009c379b3677963b106f99.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7e658937e5345b17b349a0eeef7f407c45b34dc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "只要把弹簧拉得足够长，无论多重的东西它都能秤出重量。",
       "options": [],
       "answer": "错",
-      "explanation": "测力计有最大量程，超过弹性限度会损坏。"
+      "explanation": "测力计有最大量程，超过弹性限度会损坏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54737c544c4fd828ea6b60a1734ced12c634d936.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26e8ea2cfa5fbce53261341d201685f6e2233053.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "风、流水、电都具有能量。",
       "options": [],
       "answer": "对",
-      "explanation": "自然界中许多物质都以能量的形式存在并发生转化。"
+      "explanation": "自然界中许多物质都以能量的形式存在并发生转化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a5d5da2999bc765b0e94c21e17dec605614f051.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48f94d2ea29e63dea0b3184ac8965ca597750e7b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "小车制作完成后，如果测试数据不满意，就不需要管它了。",
       "options": [],
       "answer": "错",
-      "explanation": "工程设计的关键环节是测试后的评估改进。"
+      "explanation": "工程设计的关键环节是测试后的评估改进。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c250502af137611f95ce90bd537a806511f1bf01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75f513bff83500f0216785ae9a4d555017f6bd27.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "跳水踏板"
       ],
       "answer": "铁块入水",
-      "explanation": "铁块入水属于重力下坠和浮力现象，不属于利用弹性。"
+      "explanation": "铁块入水属于重力下坠和浮力现象，不属于利用弹性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/519dd6a89c993a9377918d1fdbb183ab47547f55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/786baea64f96074891f1be204c8a18c42e179b67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fefd2b0b5d0def7839d01bd3abb6f8ac05be8bce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53041e3787266993f226c4dc2f6637eb904300c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60b6a9f54f193e0374914ef7c430b13a998216a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b2dd1db58f19615d7e35af4004df30c5996e6d9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "北"
       ],
       "answer": "西",
-      "explanation": "反冲力方向与喷气方向相反。"
+      "explanation": "反冲力方向与喷气方向相反。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dccdb45f6ab06d16fc67f5bedf72a17998b72cfc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1ce425f370a4dd8118177ea061150851abf61e48.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "更好看"
       ],
       "answer": "减小摩擦力",
-      "explanation": "变滑动为滚动可以极大减小摩擦阻力。"
+      "explanation": "变滑动为滚动可以极大减小摩擦阻力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bba1e376206b3d2423a2f125564fb0e8b05819fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61b931f3abd98b2dd2f8724c5d793fbe0031c297.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9dce08438a95772ff5f5e6774465beb515a9cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8222036a0c096bd00fb6fa116769c5acf8b483cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e07d654dac89efe7486771564bf2952e66c5f8f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/6147f53813b7d416290912a839e6d2d3c897ce1c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "200"
       ],
       "answer": "2",
-      "explanation": "1N约为100克重量，200克约为2N。"
+      "explanation": "1N约为100克重量，200克约为2N。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8676685e603f74133219d3ef43d61227fe1785df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/9588c3fcb43fc86f5ac79164cedf59e8e7b9e7ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4efc2ef45fa671d6401c8fe6b16413b06b266172.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "箭太累了"
       ],
       "answer": "受到了重力",
-      "explanation": "重力始终作用于箭体并使其下沉。"
+      "explanation": "重力始终作用于箭体并使其下沉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12a29e392691ac966e545b6ecd439fcdd7a10c0a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/10ecd2eee3e57d8565f31a1a60712123c7bf57a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea2b92be0e17bc6c3b4ac0c82f5f0bb9980ceabe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f35ab7b2092820a3510424e1c6907e7632862fde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efc303a499078a8d6e2e2df532da9b6c5b6cfb8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e0639f29ada8d5f263d3f08aea01275c20e040f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "在地上滚动的皮球"
       ],
       "answer": "用橡皮擦擦去错别字",
-      "explanation": "橡皮在纸上是面接触的位移滑动。"
+      "explanation": "橡皮在纸上是面接触的位移滑动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3924bd48ed3f9d4cf57b2c346575b43eca06ad62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7de41b98e8af809a8f36f88bcb7937ebf4068a46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d34b0cd90bf28a3f336eb4d5042e14b7b4200596.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6fde6992e81881ef8b9e88c791aa2a608e2cd1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5abe8694e5fe481dc57d67ae9c0db9a4fd98a6b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d41145b15ebe290158ca72d8b96d6372fb27a093.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "把车身涂红"
       ],
       "answer": "使用大功率发动机",
-      "explanation": "发动机输出功率直接决定动力大小。"
+      "explanation": "发动机输出功率直接决定动力大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79727e823a939fee13464e05a1c58e462c5ee738.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67e5774bc2cd459c1b09d088e4ea4aa047ed4758.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a13030f49d1b51477fa4c3df7137e3da61ad0b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10e92c27f5ce60aed90b6f2e79ea5e76a386e9b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c819f3c434fc49b90e654810b70c5d924802f7e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41e063bc82b63536369077e08538270b3220933a.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "摩擦力"
       ],
       "answer": "空气阻力",
-      "explanation": "流线型能有效引导空气流过，减小阻力。"
+      "explanation": "流线型能有效引导空气流过，减小阻力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb339123389f51be23c6b31733fed73626e58f5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b8eeda10bc032a71375ef0a973ab272308ce2c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6faabf96d975b5810c559945c0688bcd06146a7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5c93b52e51d50ea48745e55faa208d3901c2993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5ae4d3a5a8e1ffbd12c733192ed3d5557a3ce0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b391fb66cea621042b5562411f29c8521e66c5f.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个测力计最大能测5N，分度值是0.1，那么1.5N和2N之间有（___）个小格。",
       "options": [],
       "answer": "5",
-      "explanation": "（2-1.5）/ 0.1 = 5。"
+      "explanation": "（2-1.5）/ 0.1 = 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a50ea990582a0dcf2354477a1b83815e4a48b60d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a367ccd8e6af4e66bb8ac4cb7211af77ecec224.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "要拉动500克的木块，需要1牛顿的力。若增加木块到1000克，拉力需（___）牛顿。",
       "options": [],
       "answer": "2",
-      "explanation": "摩擦力与压力（此处重力转化）成正比。"
+      "explanation": "摩擦力与压力（此处重力转化）成正比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fa178d9e1d3a318d2a0df9047f78ce4b078a67b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b805e3148dde6a20a0c2bb5a7f91344897419960.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "运动的球能把瓶子击倒，说明运动的物体具有（___）。",
       "options": [],
       "answer": "能量",
-      "explanation": "理解能量是使物体发生运动或变化的本领。"
+      "explanation": "理解能量是使物体发生运动或变化的本领。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc86642cdbd4e2b3656a2f0d69cd1262368f957f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/480224d5d95ca605f70446d4b99e57ca8cbd2cdd.mp3"
+      }
     }
   ],
   "knowledge": null

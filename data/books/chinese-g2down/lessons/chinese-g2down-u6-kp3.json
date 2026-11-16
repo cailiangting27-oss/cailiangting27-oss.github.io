@@ -16,7 +16,11 @@
       "question": "岩石上的“雨痕”是由于古代下雨时在泥土上留下的痕迹干涸后形成的。",
       "options": [],
       "answer": "对",
-      "explanation": "雨痕是雨点降落在岩层表面留下的凹穴。"
+      "explanation": "雨痕是雨点降落在岩层表面留下的凹穴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/2405879d7f5a967bc136508a27611fcacfadb48f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/096a7fac0ef944a5d8d3d4daf10656a982ff19d5.mp3"
+      }
     },
     {
       "id": 15,
@@ -32,7 +36,17 @@
         "地上的小石头"
       ],
       "answer": "地上的小石头",
-      "explanation": "文中只提到了太阳、北极星、大树和积雪。"
+      "explanation": "文中只提到了太阳、北极星、大树和积雪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3cd55fba56bede01293927d4852dc33707693ce2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e6426c4ecf7ef2eba44431ed04ed6504dc9f555.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d50b2e16f0ddccc7d8f56286c2e294b7dc82019.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91d27f3c257df437e3a4626dbac2ac200ac9440f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7326309f64b3739afdf0e64651566311735fad10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2da6c1c564245c5178e8d6642121115654438181.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "在岩石中发现鱼的印记，说明这里曾经是（_____）。",
       "options": [],
       "answer": "大海",
-      "explanation": "鱼生活在水中，证明了地壳运动导致的陆海变迁。"
+      "explanation": "鱼生活在水中，证明了地壳运动导致的陆海变迁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a149b7f43cb5c5ce0cb5b99a7752d296cb5ed0c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7c836efc8481fd5e19ebec3a482b4e115d7dba7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "不理解鱼化石为什么会出现在高山上",
       "分不清什么是“印记”和“实物”"
     ],
-    "tips": "把岩石想象成一本厚厚的日记，上面的花纹就是大自然写下的文字。"
+    "tips": "把岩石想象成一本厚厚的日记，上面的花纹就是大自然写下的文字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e2/e2dc1cf885ded37786e8ec25eb0d37842f8051fd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/45/45f317bd74062566394d7ea42f92d84fdf520bfe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c0/c0bff6677122dc0eaf6b8f4c947123a6ac5cd1e3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2e/2e36706ebc5b4767f4f762a269dc14a62304c933.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d3/d3ad8580f638359af2035be649c47a1f7f8ba36c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e1/e139235431a7072f2c30f5a14e28cc696e561297.mp3"
+      ]
+    }
   }
 }

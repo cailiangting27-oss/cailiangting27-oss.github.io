@@ -21,7 +21,17 @@
         "Goodbye"
       ],
       "answer": "Thank you",
-      "explanation": "当别人祝你玩得愉快时，应回答谢谢。"
+      "explanation": "当别人祝你玩得愉快时，应回答谢谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f07441e015dd8fb269c8c60767805fe091e385f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43932ff34182915e6ad662f3876eb0cd388fef93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b50e31a7e1337db9ecb0e2fcb6e65ca27f57df5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98cfb0f5e0fed4e8ebbc725866b52b5263680c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e2fe1598714c01e5cbec04b256bba13e3a63c50.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "追逐打闹"
       ],
       "answer": "保持安静",
-      "explanation": "图书馆要保持安静。"
+      "explanation": "图书馆要保持安静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f84a1ccd8072c3d274031b91b979ddd2e31e7116.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/decf86fb4c1d56d3030c83ab168f85b80df9aafd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/477c29496679977c29106f06e5cc881c60cfbac3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc1ac1d0c1e9e0f7d46dd47007d3de71770fe46f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff0104283cb8a82ae7e5d45ebf9228904ad7fdc7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98aa8c1c76cf1a2ed279c941427ba40f89827880.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "规则能保证公共生活有序。",
       "options": [],
       "answer": "对",
-      "explanation": "规则的作用。"
+      "explanation": "规则的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f2d6b7238a767f8e16000ca9bd4304e2a9e14cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffaea7cb2d084b872ccc0e0904bac0dccb2e1787.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "在图书馆大声说话。"
     ],
-    "tips": "公共场所守秩序。"
+    "tips": "公共场所守秩序。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/03/034a4eff29881db12a894ef80b87cad10ffbd416.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1a/1a850e84fcf3174e301925c7a8c269842840d492.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1b/1be3998b761fc7c41f700296b756dfa5d8ec861b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/61/61c93f4d905bb61e53a87a797b74a5c3d133d9af.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d1/d12fdfdf847ac70f290ba658b0f2a0d12649df06.mp3"
+      ]
+    }
   }
 }

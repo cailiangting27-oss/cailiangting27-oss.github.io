@@ -16,7 +16,11 @@
       "question": "'food' 中的 'oo' 发音和 'cool' 是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "两个单词中的oo都发长音/u:/。"
+      "explanation": "两个单词中的oo都发长音/u:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1fb0504a78773af02941b4347962acade88a4e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/1715e50e7a80b744bd7ac4d9f113121a044ed1d3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "弹钢琴是 'play piano'，打篮球是 'play basketball'。",
       "options": [],
       "answer": "错",
-      "explanation": "乐器piano前面必须加the。"
+      "explanation": "乐器piano前面必须加the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fd1a64fd4c0f0e72aa942e2d749c0cac592b32d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0eea3ff4bb86e456d6de43b235614d448de533b7.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "Can you speak Chinese? 意思是你不能说汉语吗？",
       "options": [],
       "answer": "错",
-      "explanation": "这是一个肯定形式的一般疑问句，意思是‘你会说汉语吗？’。"
+      "explanation": "这是一个肯定形式的一般疑问句，意思是‘你会说汉语吗？’。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75e09d7b3735dc5713bc2d67c43f76fd1cc05fd1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9101b8650475361648adc5e6de63672b5d76cce.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'send' 的意思是发出/送出。",
       "options": [],
       "answer": "对",
-      "explanation": "send email是发邮件，send意为发出。"
+      "explanation": "send email是发邮件，send意为发出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d159631eab14ff7fb52031c8d67f4401ddc1a74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/679a7ce7b3562abd3843b71f13cda42df35bdd6b.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "or"
       ],
       "answer": "but",
-      "explanation": "表示转折关系用but。"
+      "explanation": "表示转折关系用but。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/489ec30cbb6eb6f07286cf43bf715468807b7d55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cffa50a32cb13a240d705317bcec65dd1f31b6ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/786e97b3ee9fc4b292d5852c2c5943153c4ce91a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1b646ebd1f6844c60dd91951c6867e43857114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1758356db21759f7c5a0da9b4dd1db8fd6feab3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0174e59011922a6896e899652eda82e3856e4bc9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "tell"
       ],
       "answer": "speak",
-      "explanation": "表达‘说某种语言’固定搭配用speak。"
+      "explanation": "表达‘说某种语言’固定搭配用speak。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b121e42b537513ab8d9520e0a11c5615b20dc76d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e55e91b2cc22ba117ba8d1546537f7a4c037cf67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc01c6b7487aab92695f7ba918540cf5051f72f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a65265946e25560ce621ab2a0ba9741f63cadbaf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47b8015d98d5103a8a6981a979514855cac10ebc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22ab82d6b099512e113ca8afb402e40b8a39457f.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "I like dancing"
       ],
       "answer": "I can dance",
-      "explanation": "针对What can you do的回答，应使用I can..."
+      "explanation": "针对What can you do的回答，应使用I can...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d06efbe8fc925504a5344dbf825a9f60324a1bb3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b3fb3f08eb7c2ff7576991ac109c4025e8fa811.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc943e529ccb20a55dabdc77757911d976d1b33d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fe6041f68dcc9d134f9936797c981a850907fba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62aa05250db068ec85da1e9fcb93c16b515a0f81.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28adda6b0aff49fba9632cb1f36ac882c42184a9.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "/; /"
       ],
       "answer": "the; /",
-      "explanation": "乐器前有the，球类前无the。"
+      "explanation": "乐器前有the，球类前无the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e0d90c63f7d612a7c7744ca8628678be66477eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cbbbc64de1a429a916f41daf4b9530a370bc0a0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/898af568f0e8d2b42fbaf868e2aebd33b6fd25f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a298f26ccb0ea304ae75c515001a2b021f2f3b00.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6bf215bd7c3eaa6b6bba811e962356da14cb0f7c.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "do"
       ],
       "answer": "learn",
-      "explanation": "help you learn是‘帮你学习’，符合逻辑。"
+      "explanation": "help you learn是‘帮你学习’，符合逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98168d402b1630780009114be101a20601f41db2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b89f90f328fa7e7781c0a3e84545e96d946a0c4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a65265946e25560ce621ab2a0ba9741f63cadbaf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dca5d4cddf5fa5de51b357b937a5fc6b5c63660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d36f3ac79956914981d8e44685d99393ee3801e9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "washes"
       ],
       "answer": "wash",
-      "explanation": "help sb (to) do sth，这里省略了to，用原形wash。"
+      "explanation": "help sb (to) do sth，这里省略了to，用原形wash。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a2eabf0a33d52794ff9e86ca64f0218e9de9f84.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/6814a21e90f4f5d5637f70c8e3e2568818d5570e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f9fc203ffac2c1c84947099108cabdcd9427d7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5683b848d5bf981eee8059765ab9a69a78225b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faa39f8d165805a6b9b01f8360139bffa251ad00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e0c6ca9ae80295458242bee10110555aa30044e.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "No, I can't"
       ],
       "answer": "No, I can't",
-      "explanation": "否定回答用No, I can't."
+      "explanation": "否定回答用No, I can't.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68201a0a16f330fc680efc4e6ba526943d6fe0d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/016f7e70f1614dc50965a665dfe93612b7b1cc8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d75d04c5db3a59dec1089093d793ace76d756bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e779cffb72c3366886766ffded7dc61e119d1c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19094f1c60e5791fb162a298a1baf347985a679d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f31254b1699bf68ba11b970a23fcfaacfb41844b.mp3"
+      }
     },
     {
       "id": 17,
@@ -172,7 +258,11 @@
       "question": "I often play _____ football with my friends.",
       "options": [],
       "answer": "play",
-      "explanation": "根据题干，这里缺动词play。"
+      "explanation": "根据题干，这里缺动词play。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/316eb15a01b6948112be8377ac5e01f940927ad7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4a342ab8b4d5a911c6cd52039c3c3fcf6ab5822.mp3"
+      }
     },
     {
       "id": 18,
@@ -183,7 +273,11 @@
       "question": "I _____ (不能) speak English.",
       "options": [],
       "answer": "can't",
-      "explanation": "不能是can not的缩写can't。"
+      "explanation": "不能是can not的缩写can't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdae5d50f0a8c1e86ffd3af6467967dff0775a20.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecc4a5f6d9bdd4b67c3722357b68674b5645c713.mp3"
+      }
     },
     {
       "id": 20,
@@ -203,7 +297,21 @@
         "拉小提琴"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "play ping-pong-打乒乓球, play the violin-拉小提琴, do kung fu-练武术, wash clothes-洗衣服。"
+      "explanation": "play ping-pong-打乒乓球, play the violin-拉小提琴, do kung fu-练武术, wash clothes-洗衣服。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa3876c454c88916a59509ae9b213f5f99f5c8e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac1f3d0a7dbf2fdf2c980b3a1fe55287ab9bda5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acb53759812d5cc9a237f0e36836c7c4eb12eb6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e24aebee09f6bae7e4288d2488d577ca1156094.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3d36c7efe78b170b9f4b65306cfbda611aedceb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b743a8836fe8da7280f19b20249fe9dda7a4a303.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04ab6e18eaecfb7e235ad8aab2fa37aac8759b3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e283797ebcdda04a81a1dcc77b31a9c03dc2e8a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67585db67879d624813680b4bd82df74de9b4f3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae669c415c8580f257b7e941371c75493b25b10a.mp3"
+      }
     },
     {
       "id": 21,
@@ -223,7 +331,21 @@
         "图书馆"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "游泳在泳池，篮球在操场，读书在图书馆，唱歌在音乐教室。"
+      "explanation": "游泳在泳池，篮球在操场，读书在图书馆，唱歌在音乐教室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/427c29d1a553ada943aa2b177d04f9c2087c881e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b89f90f328fa7e7781c0a3e84545e96d946a0c4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/194d3f28cf63e42a5d880eea228e984837556ae8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f13e0f59fe5fc37fcda2e011cce94eb2cbba69b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86e975081fa2dcbe379ec37eeb02571b795c72b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803401a96663599be119713907514946978f64d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ade333a780d42de1c03c3255b0eed1145d727d6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd380d3ae56e4799048dfad3eae29e2d8c4f2d94.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21347f9f037c2991411413cb0d16d09828ae7eb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40edd10c3c935af24a2c2e7b295e9fb1bf36b7da.mp3"
+      }
     }
   ],
   "knowledge": null

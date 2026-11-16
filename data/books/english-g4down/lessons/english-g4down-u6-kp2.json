@@ -16,7 +16,11 @@
       "question": "'expensive'的意思是'便宜的'。",
       "options": [],
       "answer": "错",
-      "explanation": "expensive 是‘昂贵的’，其反义词是 cheap (便宜的)。"
+      "explanation": "expensive 是‘昂贵的’，其反义词是 cheap (便宜的)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d651046f552a29c7258ab7fe2b8ba4102079019.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03e0c13c7352fe888bfc0aac937045d59ac1ab7b.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "当衣服尺寸正好时，我们可以说 'It's too small.'",
       "options": [],
       "answer": "错",
-      "explanation": "尺寸正好应该说 'It's just right.' 而不是 too small (太小了)。"
+      "explanation": "尺寸正好应该说 'It's just right.' 而不是 too small (太小了)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f69c2a20e3156f162e9edf251686978dcf0110b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e68e6101749000a7c066840ffce6163fa1fdae8.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "long"
       ],
       "answer": "cheap",
-      "explanation": "5元的价格对于手套来说通常是‘便宜的’ (cheap)。"
+      "explanation": "5元的价格对于手套来说通常是‘便宜的’ (cheap)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/298607643236c4dc88f08021c052f73962d218ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0d587ce038c01af32b4e03e5c7dfbafcc2b75bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb8df41a16b4b1c2807a757c1ea2238e46cdcb96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/705af748c7eb5ad6e941ab3132a502ea7dddf98c.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "too long"
       ],
       "answer": "pretty",
-      "explanation": "因为‘非常喜欢’，所以应该填褒义词 'pretty' (漂亮的)。"
+      "explanation": "因为‘非常喜欢’，所以应该填褒义词 'pretty' (漂亮的)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c667606c9fa2c5ccfca33b61998c28fc92e4b98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/162fd259d9c6c8f2c948b632bc2b8ead0a321282.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63e3e110e0fe9312aa149396ea7b745ed17df86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/424fa43965bde21e1a972336f3c3bc0dcaafebf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b18ef8784d34e9de405e11eba3342314e37c8a5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d56c955f180aa11187c4813983684bfc26008172.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "short"
       ],
       "answer": "expensive",
-      "explanation": "500元属于高价，因此是昂贵的 (expensive)。"
+      "explanation": "500元属于高价，因此是昂贵的 (expensive)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6710469fcafdedbed6d2c790d8913c238b9327a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb8df41a16b4b1c2807a757c1ea2238e46cdcb96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8f4e445f745df339e644d801037e7049d0815cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0d587ce038c01af32b4e03e5c7dfbafcc2b75bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45444a8cbcab29c0eb6f3d77e04df7ac38f3cf7c.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "very expensive"
       ],
       "answer": "just right",
-      "explanation": "fits me well 表示合身，所以是‘正合适’。"
+      "explanation": "fits me well 表示合身，所以是‘正合适’。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a038596d70cc0c9bcc27b26876f85995470f9f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b40ce56c05f9df66bc12a4592447e6f29260df3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63e3e110e0fe9312aa149396ea7b745ed17df86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8f4e445f745df339e644d801037e7049d0815cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b18060a6801df85439c59810b845556bbe5dd835.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/284fec470a04a9a5f7477a148c9d8e06af96da67.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "The shoes are $100. They are too ___.",
       "options": [],
       "answer": "expensive",
-      "explanation": "100美元较贵，填形容词 expensive。"
+      "explanation": "100美元较贵，填形容词 expensive。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52d5d97b534399ae00a202cbb0b0b4a9957ad104.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83f0f0b7aec7eeb238f2ec58b10201b3ab6e06eb.mp3"
+      }
     },
     {
       "id": 19,
@@ -113,7 +165,11 @@
       "question": "The gloves are 5 yuan. They are ___.",
       "options": [],
       "answer": "cheap",
-      "explanation": "价格低，填 cheap。"
+      "explanation": "价格低，填 cheap。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c33b1682cfb91109d2c69897a3c24cde454bcf8d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9ae2398c64155ede2db64661588fec047d097d83.mp3"
+      }
     },
     {
       "id": 20,
@@ -133,7 +189,21 @@
         "短袜"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "expensive-昂贵的；cheap-便宜的；pretty-漂亮的；sock-短袜。"
+      "explanation": "expensive-昂贵的；cheap-便宜的；pretty-漂亮的；sock-短袜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/627fbaa31604433e4748bc4a91817d2a3e13b798.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0d587ce038c01af32b4e03e5c7dfbafcc2b75bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb8df41a16b4b1c2807a757c1ea2238e46cdcb96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/162fd259d9c6c8f2c948b632bc2b8ead0a321282.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18c9667c2999cabf0f54d2a87d10ee9d15aef35d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ae34bc41459b3eb383f20c6ae7eaf7d4aae6fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e149780345c054083e96f6185cd205eb5c65501.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/807b7109373a2ad43e5184673d1a300796b67211.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7de0ccb775df54448a6a92d1d01654206edc835.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5751f9494a3700418d96e0b535ac90744988cc11.mp3"
+      }
     },
     {
       "id": 22,
@@ -149,7 +219,17 @@
         "are"
       ],
       "answer": "They,are,too,big",
-      "explanation": "主语(They) + 系动词(are) + 程度副词(too) + 形容词(big)。"
+      "explanation": "主语(They) + 系动词(are) + 程度副词(too) + 形容词(big)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57adeed3089d36dda1249ea05becf775d8fb249d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1050686565a1a0f8462fd08c271578ac9b2067e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/164a5c24f5df5918f285228443ab87209785293f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91841224b929b815b7ba372a436a8370792a6191.mp3"
+      }
     }
   ],
   "knowledge": null

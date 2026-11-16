@@ -16,7 +16,11 @@
       "question": "My favourite food is onions. 这句话表达的是我最喜欢的食物是洋葱。",
       "options": [],
       "answer": "对",
-      "explanation": "favourite意为最喜欢的。"
+      "explanation": "favourite意为最喜欢的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50e242792d2e73dc3b339cc8fa91574c0ab0ec59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79638ca00fe533ac275f34b3fcf79e7eb730fc6d.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "Apples"
       ],
       "answer": "Milk",
-      "explanation": "问题问的是drink（饮料），选项中只有milk符合。"
+      "explanation": "问题问的是drink（饮料），选项中只有milk符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b7c8268ff5309cfca5bfda9b290f83f2d9b8c6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2f4decd56d814d6a535fcf190ee0011a4ac223d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c61eb5df5d78529f719e752eeef8ece81e0caaa8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be42bc14d6b77d1c1685af26e5277c2e2252cb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ef0695bac5a748391040dfd4b7967bb5150551.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7e379b753c8222bbfbbad1cbd246b5871456ce0.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "—What's your _____ food? —Carrots.",
       "options": [],
       "answer": "favourite",
-      "explanation": "询问最喜欢的食物用favourite。"
+      "explanation": "询问最喜欢的食物用favourite。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01cfa550337e3800482d22a0f5ed80c3e9b036bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64b412d4e8065f99f00f79de6ded319a1702fd80.mp3"
+      }
     }
   ],
   "knowledge": null

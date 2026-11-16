@@ -16,7 +16,11 @@
       "question": "One, two, three, four, ___.",
       "options": [],
       "answer": "five",
-      "explanation": "1到5的数字顺序。"
+      "explanation": "1到5的数字顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06627d53d752951d15b06dfcc8ccea6d076820b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3910e93129babc9ff15f2f1c09b8881f5e787adb.mp3"
+      }
     }
   ],
   "knowledge": null

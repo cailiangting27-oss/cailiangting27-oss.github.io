@@ -21,7 +21,17 @@
         "傍晚6点"
       ],
       "answer": "下午2点左右",
-      "explanation": "受地表散热滞后影响，最高温通常在午后两小时。"
+      "explanation": "受地表散热滞后影响，最高温通常在午后两小时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef2f1467b9d980b3baba70e47b0709295a558ef0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43c07c751403eee8828c5998b131e50f72a707b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbee7a2c3fbdd2037f191b7b2dd13efa5395ed2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dc8c13b222e0142dc53f93a2d2941f163b1519f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67bfad62e4879ca30298c54097b1837579d8ba27.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44861326cdc95fdd3ffb9eacb201daf57342567f.mp3"
+      }
     }
   ],
   "knowledge": null

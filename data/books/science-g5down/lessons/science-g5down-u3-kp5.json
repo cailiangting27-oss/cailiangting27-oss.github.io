@@ -16,7 +16,11 @@
       "question": "煤、石油、天然气属于可再生能源。",
       "options": [],
       "answer": "错",
-      "explanation": "化石能源属于不可再生能源，用一点少一点。"
+      "explanation": "化石能源属于不可再生能源，用一点少一点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/5312f2e19a83005024182ca6a4b6f1f9ec31bf8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85396dd71327a8594c50e3c260abfa606e43a649.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "沙尘暴"
       ],
       "answer": "温室效应",
-      "explanation": "二氧化碳具有保温作用，浓度升高会引起全球气候变暖。"
+      "explanation": "二氧化碳具有保温作用，浓度升高会引起全球气候变暖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0ad0725303d7bf13092f728d80b08daf89722d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eaf7166153d02d7bb463e4f1edffc0668e82b76c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3771fa7bfec9f19a65b6012048f8196833386bbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15cb06e394c0a660746b2c86d721e4c850ebe4d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a00f6045ebac27c7d259bac61b6a40eb2bd4245d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/512dc9f7f54e368e4eb178b61e63646948ca110e.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "煤炭"
       ],
       "answer": "太阳能",
-      "explanation": "太阳能、风能和水能是可持续利用且污染极小的清洁能源。"
+      "explanation": "太阳能、风能和水能是可持续利用且污染极小的清洁能源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a16a48d596d4fffd4e7172054b94b3aee39b0a2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d750cfa9d186e472303b9be2eef3b60ec72f556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0de50c16ce85e5d435b2ddc961210936a7fa44e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35678d505f99409fedf402a12f83426ecdbd3e58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a4e4ea687f372366e711ecf94a46671bdf5dd6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35302f4ab2c92aa785c1a127f49d62a21b0cc4f7.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "水蒸汽"
       ],
       "answer": "温室气体",
-      "explanation": "密封袋能让阳光射入并阻挡热量散出，模拟二氧化碳等气体的保温功能。"
+      "explanation": "密封袋能让阳光射入并阻挡热量散出，模拟二氧化碳等气体的保温功能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/060420dc74a8e98d7f25dabe9e5f41953657ebfd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74f2ea55960daef6212e49f18bb2b9ffc64cc24a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6f776622149ddd217d3e068c2f530387954904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abff98d923dc2e752931ade29e8d0be57f1b7a7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/647cc3f52796a9778029d125d659673259f84bcc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7386aff3ff9599752c4609cf46b7f0dd7ec36baf.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "引起温室效应的主要气体是（___）。",
       "options": [],
       "answer": "二氧化碳",
-      "explanation": "化石燃料燃烧产生的大量二氧化碳是主导因素。"
+      "explanation": "化石燃料燃烧产生的大量二氧化碳是主导因素。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/445dacc4e5ab5989a84f39eec83bd89e70101aa5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3db5173ca0b6d25dcb17ca783666619710bb3ca.mp3"
+      }
     }
   ],
   "knowledge": null

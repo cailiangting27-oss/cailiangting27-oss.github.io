@@ -16,7 +16,11 @@
       "question": "'Where is it?' 用来询问某物在哪里。",
       "options": [],
       "answer": "对",
-      "explanation": "Where引导疑问句询问地点或位置。"
+      "explanation": "Where引导疑问句询问地点或位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4399c87c3f620039292f06fffa5b28092672eb3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04d8676e76e0435fdd47254e2adc06101bfc2653.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "to"
       ],
       "answer": "in",
-      "explanation": "in the desk是在课桌里，是常见的方位搭配。"
+      "explanation": "in the desk是在课桌里，是常见的方位搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e1de1382c5f841bbced0ba254e5e67fa4e593bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b2d7f4a1ea79db4c1b07913e52808770c9b8321.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "under"
       ],
       "answer": "on",
-      "explanation": "电脑通常放在老师的讲台“上面”。"
+      "explanation": "电脑通常放在老师的讲台“上面”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc1274ee4fcc6a9bf1710df606db22ef077dc0d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb397449fabe7370de4e726a586750c0e025d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8332086bb8f078b0c9d7097d14ba755eb38d6037.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "under"
       ],
       "answer": "on",
-      "explanation": "风筝挂在墙上用介词on。"
+      "explanation": "风筝挂在墙上用介词on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2156b20e556eeb7d327c9bc8763b23006efcaf77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/9963ee4dcb1052f727431d8c487bf73bf78cd7d3.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "Where ______ my picture?",
       "options": [],
       "answer": "is",
-      "explanation": "picture是单数，be动词用is。"
+      "explanation": "picture是单数，be动词用is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3e4811f7423ac96d52b3056837ad26ad4b50ec8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a53ad2eeb8981e647422a1089c46b88152965da.mp3"
+      }
     },
     {
       "id": 22,
@@ -90,7 +128,16 @@
         "Where"
       ],
       "answer": "Where,is,it",
-      "explanation": "Where引导疑问句，后面接be动词和主语。"
+      "explanation": "Where引导疑问句，后面接be动词和主语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3561983dddae5f866109daf37ce51d7c1b6e2a66.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0106a1d1f0a165ab702495d2812ece09cfd24054.mp3"
+      }
     },
     {
       "id": 23,
@@ -106,7 +153,17 @@
         "It's"
       ],
       "answer": "It's,near,the,door",
-      "explanation": "描述物体位置：主语+is+方位介词+地点。"
+      "explanation": "描述物体位置：主语+is+方位介词+地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdd0892620adefec9bc6fe66ba352b7d6705fcd9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2680b6746cf8291f98b1e23de31855f7d807d305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c46683a8f9c86808adc4afc876b3900a6dcca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/168dfc6e63bd9a7518be4571b96008b374223b4f.mp3"
+      }
     }
   ],
   "knowledge": null

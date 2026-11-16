@@ -16,7 +16,11 @@
       "question": "推荐书籍时，我们不仅可以介绍主要内容，还可以分享最感人的情节。",
       "options": [],
       "answer": "对",
-      "explanation": "推荐理由可以是情节、思想、语言等多个维度。"
+      "explanation": "推荐理由可以是情节、思想、语言等多个维度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2fa9790311c9c31c5f5f23359ac8469ffcee718.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67abf642256c5ce5a8dab0404c321c7441e75943.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "书里的纸张摸起来很舒服，印刷非常清晰。"
       ],
       "answer": "书中不仅有感人的爱情故事，还蕴含着深厚的传统文化。",
-      "explanation": "推荐书目应侧重其内容价值、思想性或情感共鸣。"
+      "explanation": "推荐书目应侧重其内容价值、思想性或情感共鸣。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54c3276b30bff7ad0170f9d3f01be1a178e2ef18.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8a28f7c06f92dedaa191e53033e83de6efa03f0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2e35f8f60d069a3ff8b2f579bb0e0450cc5d3e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9aec6c928a448bc0470ee636c4f27428c47fafea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5ca5fbc9090e46a8e0909f964a440e61e83d79b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66e4bfc505578d3135f4e00c92d3390f2f4dad2b.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "既然……就……"
       ],
       "answer": "与其……不如……",
-      "explanation": "「与其……不如……」表示在两种情况中择优，符合「要精不要多」的取舍。"
+      "explanation": "「与其……不如……」表示在两种情况中择优，符合「要精不要多」的取舍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4dc3cdc38ad20a1f3670fc0d3353e24b5814f38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1991b8d46fc1ac84fd68897ec70ea6a5727a3d5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3adfc23ffe101f7ccf44d44019e26596cd3ad527.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a894a470af607a475ef1273ad5acc4737ce0b9b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb61f8d9ae80aba849c36f68dbb7083f075cfdd7.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "随意翻看报纸"
       ],
       "answer": "从不同书籍中寻找碎片化信息并整合",
-      "explanation": "这是典型的“由点到面”的群文阅读策略。"
+      "explanation": "这是典型的“由点到面”的群文阅读策略。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2b277d1ba37f7c4cd9d102921eb4d587c186a04.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad0dac9778ab99ea1c117029dc3c0206491512e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3817fdb464fdb825e6985d88fd064f0cf9813c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1249dca621079c6d4a2160712eb30570215c401.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33f9634313db012254ef4999802d5beb6e747892.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/676920276a42131233cfa678186e124a9de57927.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "撰写书评时，通常要写推荐理由，即这本书（___）我的原因。",
       "options": [],
       "answer": "打动",
-      "explanation": "推荐理由应侧重文章最吸引、打动人的地方。"
+      "explanation": "推荐理由应侧重文章最吸引、打动人的地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b374e328a1cba31a307cd8b1ce8e6684e7dee60.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/188f2d61d85db73400b2f585bdf3616f7d5735d4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "推荐理由过于笼统（如‘这本书很好看’）",
       "分不清内容梗概和推荐理由的区别"
     ],
-    "tips": "推荐时可以用‘最……的是……’这种句式来突出书籍亮点。"
+    "tips": "推荐时可以用‘最……的是……’这种句式来突出书籍亮点。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b7/b72bf7a88e574759d13c95f2e4af23fece15fea4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/06/068a1e92de4c176febe5f0a81a1cac55933310c3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/56/560ebc75b9be2ae4de04c5cc144e5acadaf67c5d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6e/6e33f83a276f2dcc48629ac3a6943873837fb2fe.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/71/71816632c4c919c43ba91a6630697f6e9401318d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6c/6ce7c962ff4aff9557030aa3adaf4cc8b2e23f45.mp3"
+      ]
+    }
   }
 }

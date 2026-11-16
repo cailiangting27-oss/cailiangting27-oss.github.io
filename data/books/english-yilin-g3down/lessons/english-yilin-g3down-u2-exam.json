@@ -21,7 +21,17 @@
         "aunt"
       ],
       "answer": "sister",
-      "explanation": "sister 姐或妹。"
+      "explanation": "sister 姐或妹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d0058cb96393afeb23620595ac435081823279d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5afc8df8baab874c14a0f776641edd16d00591f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28909cfb89b135ea1bd6846e24e24a7f3215f6bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2b659d918f10ca49177b5a962d6fa1d4c4c89b3.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "be"
       ],
       "answer": "is",
-      "explanation": "He 用 is。"
+      "explanation": "He 用 is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dfb670db4aa7829ee9747e4cefc3aaee4f8cbf3.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e721ec82b2206748c26fa609f155dcb20da7449c.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "grandmother 指祖母或外祖母。",
       "options": [],
       "answer": "对",
-      "explanation": "祖母。"
+      "explanation": "祖母。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e43162d43aa1173d0d7949c977b0d9e7807fe38.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a305248303eec2dd77f210f2fc1a8003cabaf179.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "描述家人外貌要用合适的形容词。",
       "options": [],
       "answer": "对",
-      "explanation": "形容词描述。"
+      "explanation": "形容词描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dce223c61ac93a8743f1b8368e284f799c92bb24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d395199e86d521ec9f16a9894f5f921379ac2e8.mp3"
+      }
     }
   ],
   "knowledge": null

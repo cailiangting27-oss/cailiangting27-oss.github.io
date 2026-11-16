@@ -21,7 +21,17 @@
         "连接"
       ],
       "answer": "翘起",
-      "explanation": "课文原句，生动描写小艇的外形特征。"
+      "explanation": "课文原句，生动描写小艇的外形特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9df7ffbe9de2b1a9c5067c425035606df358569.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03558704ea60fa162af10203c2aae20bfae30160.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a284cb04b1a114f08db37ca3a8266a9d55a89cf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e19ee3985c15bdd5205bb09017338e7bd9b3e1e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7328deebb5bc3ce53dc52471b73df331f6a0f707.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42b240a34eb0f2b40f03365785da7f0c137400c2.mp3"
+      }
     }
   ],
   "knowledge": null

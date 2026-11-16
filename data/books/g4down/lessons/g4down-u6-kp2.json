@@ -16,7 +16,11 @@
       "question": "计算 $10 - (3.5 + 2.5)$ 时，应先算减法再算加法。",
       "options": [],
       "answer": "错",
-      "explanation": "在有小括号的算式里，要先计算括号里面的算式。验算：无。"
+      "explanation": "在有小括号的算式里，要先计算括号里面的算式。验算：无。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddd06956b77cf81b6345f6e8b76ac33b87855ff3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/104ab8e26fedb06e67efe7cb7fbb8ffcf3f5a8b4.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "8 元"
       ],
       "answer": "6 元",
-      "explanation": "找回金额 $= 30 - (15.5 + 8.5) = 30 - 24 = 6$（元）。验算：$6 + 15.5 + 8.5 = 30$ ✓。"
+      "explanation": "找回金额 $= 30 - (15.5 + 8.5) = 30 - 24 = 6$（元）。验算：$6 + 15.5 + 8.5 = 30$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67f97f3af4fb47eb66e2a93c7f93c8659a5bc13e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db9aac9fc1378e7b74750280ae8f8e49481fe72a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c4b8ac63ebb077ac7f1e5c7f2ad1bf50cdabbfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/654396843a5a7cc768bcf6f59bd0e833552617e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81ecf6917c8c60a099742b2b92a6739ff8ccccc2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52e1fde71efdba0bb146a5504e4530eeef57e704.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "18.8"
       ],
       "answer": "27.8",
-      "explanation": "乙数 $= 15.6 - 3.4 = 12.2$。和 $= 15.6 + 12.2 = 27.8$。验算：$27.8 - 15.6 = 12.2$ ✓。"
+      "explanation": "乙数 $= 15.6 - 3.4 = 12.2$。和 $= 15.6 + 12.2 = 27.8$。验算：$27.8 - 15.6 = 12.2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f402e537ff29af8b1804658824008324efb5abbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22b119b3bbf208ffc0f88aacb54ac508eedc7878.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a057a623f8313c0ddfd71bc2e900a2cd87f41d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b6b64281121f7e28a94f228c42b06682b1f4a1c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48262b65c935d6137554203748f0ef7853c3e58a.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "不够",
-      "explanation": "$45.8 + 12.5 = 58.3$（元）。$58.3 > 50$，所以不够钱。验算：$58.3 - 12.5 = 45.8$ ✓。"
+      "explanation": "$45.8 + 12.5 = 58.3$（元）。$58.3 > 50$，所以不够钱。验算：$58.3 - 12.5 = 45.8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8684cab6c4a225468cec7c0ba82b525d0681485f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c73fa2ada34e2761532328554027ce6f5a963cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a69bf3c14fe83508d83e3afa99402009905963cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e26bf726bf199c7ef630150b011dc4e6247c61f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70a537bf68590cd6019aa39256a794534cb974cf.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "一根绳子长 10 米，第一次剪去 3.6 米，第二次剪去 2.4 米，还剩下 ___ 分米。（1米=10分米）",
       "options": [],
       "answer": "40",
-      "explanation": "剩余重量 $= 10 - (3.6 + 2.4) = 10 - 6 = 4$（米）。$4$ 米 $= 40$ 分米。验算：$40 \text{分米}=4\text{米}，4+3.6+2.4=10$ ✓。"
+      "explanation": "剩余重量 $= 10 - (3.6 + 2.4) = 10 - 6 = 4$（米）。$4$ 米 $= 40$ 分米。验算：$40 \text{分米}=4\text{米}，4+3.6+2.4=10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb58e581ec8d05cfbcf3f9643f56f2bed44a5428.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9318cd25f8ee8acbfacf0d82305ecf1b657f3e79.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "运算顺序混乱：在有括号的情况下先算了括号外的减法。",
       "看错数字：在多步运算中将上一步的结果抄错。"
     ],
-    "tips": "复杂计算建议每步写出过程，特别注意括号的存在会改变运算级别。"
+    "tips": "复杂计算建议每步写出过程，特别注意括号的存在会改变运算级别。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/57/57a72e95e6c03662b53d3145876b743d4831ca92.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/91/916d2f3a3c29c4fb6de7d1f1f236beef72af5312.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fb/fb9f0ba075ea8cc915a8e1a962b26e41526ed3b5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3c/3cbb6ea4d4104727c72cc6eaf1e8ee0d369f2930.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d5/d5443944f04ecd25433ec8fc20802f2a3d4556dc.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b5/b57f16da7db7b6384d90fd734308c3672f1064b8.mp3"
+      ]
+    }
   }
 }

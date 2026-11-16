@@ -16,7 +16,11 @@
       "question": "《故宫博物院》一文是按照从北到南的顺序进行讲解的。",
       "options": [],
       "answer": "错",
-      "explanation": "《故宫博物院》是按照空间方位顺序，即由南向北的顺序介绍的。"
+      "explanation": "《故宫博物院》是按照空间方位顺序，即由南向北的顺序介绍的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74171724dc15797f3760742f9ac2d0fc1a0b0be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a73f970d316c37fe7a9114793bb07894314f028c.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《宇宙生命之谜》的开头和结尾互相呼应，强调了地球之外是否存在生命是未解之谜。",
       "options": [],
       "answer": "对",
-      "explanation": "文章首尾呼应，强调了人类对宇宙生命的不断探索精神。"
+      "explanation": "文章首尾呼应，强调了人类对宇宙生命的不断探索精神。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e169d4c3d7443e30f566ae42974d394182da8709.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0eb7178ae718229a2773671aa9805ebda39918d.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "提出假设、寻找论据、得出结论"
       ],
       "answer": "午门、三大殿、后三宫",
-      "explanation": "这是典型的空间方位顺序。"
+      "explanation": "这是典型的空间方位顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/928daf2eb5155591a7805efd9b6a68e126053c55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d32c21c594378be874db1f6761e8dfc337229c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e153cf88f33dfbfba46a1fb9d8b6829b3f1f05dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af8d2db19d04a00a515dde8ddc97a34c8cc235db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6ddd27f7db78832272b2b737e0dab251aec06f6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dac89a58c54d544cbfe8b68c52aaf8865017b55e.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "火星自转周期太短"
       ],
       "answer": "火星上没有液态水和足够的氧气",
-      "explanation": "根据科学推导，液态水和氧气是生命存在的必要条件。"
+      "explanation": "根据科学推导，液态水和氧气是生命存在的必要条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30c8f031c7be8873d3cc1cc97f725496733319a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/5703036382494e031cadbc36ac64aab48180f817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3792c3d2b3cbc7c256682a934df385399d9024be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc4a563dfbcb3e5750f8a467751d58312427ecf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0155ad9f41f61d723db828d11017b4325613b0d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a441895ad68833c652af62810fcc6a765adb50fc.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "故宫是我国古代建筑的明珠。"
       ],
       "answer": "根据目前的观测，火星表面极其干燥。",
-      "explanation": "“根据目前的观测”对结论进行了程度和时间的限定，体现了说明文的准确性。"
+      "explanation": "“根据目前的观测”对结论进行了程度和时间的限定，体现了说明文的准确性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b24c64b703f62b8c40b18d7092ce7b88e15083c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56da1c3098f68e837a5003e50ad63c69bed65f8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4c42bc2aa79c767a4b2e296c06988a3f9952523.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52b011f4b9bb5f1773f4e709889b6ae54c882e81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a78b7613d23db952bd95cc65b1004032f5f6b19.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cdc2e55a10d8da524fdb2615311890b08db92875.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "故宫建筑群规模宏大，主要建筑都坐落在一条贯通南北的（___）上。",
       "options": [],
       "answer": "中轴线",
-      "explanation": "故宫建筑严格按照城市中轴线左右配置。"
+      "explanation": "故宫建筑严格按照城市中轴线左右配置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/913edb9a0115063890a05f542da68a31ef32ca30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99b3f4cc94b6f40d573680b4fefabb167c0547cd.mp3"
+      }
     },
     {
       "id": 21,
@@ -106,7 +148,21 @@
         "操作步骤"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "介绍建筑多用空间顺序，科学探索多采用严密论证逻辑。"
+      "explanation": "介绍建筑多用空间顺序，科学探索多采用严密论证逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7df49a5129fe8f6ebcc1635ee840b0f3f14135f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/885978e4c8a2dae60869926521c8b5f190097244.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba85abeae7f908f428ed514406704c185f6afb72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c409990c7dfe9775b5774baacd7fad6e4789cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edd8ca77928c0b957cd26f1a7385b2acd67babb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/9620b03b3fdeaebae5d3d9847087cebb3d963d3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae4bda2a78e5509133d1127e318b653659c9dfee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a7f7d7066cdbed1d9f0c1a248a6924610bce632.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/6157c8e3863b9038c6242b7273587395553e7203.mp3"
+      }
     },
     {
       "id": 23,
@@ -123,7 +179,18 @@
         "琉璃瓦"
       ],
       "answer": "故宫的,琉璃瓦,在阳光下,显得,金灿灿的",
-      "explanation": "描述了故宫屋顶琉璃瓦在光照下的色彩美感。"
+      "explanation": "描述了故宫屋顶琉璃瓦在光照下的色彩美感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15f9c6fb9536c42d49b55a61c715b96f85f2703d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5e1b8a364f5e1f1fcb31017f6952621791583d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4939679c57839a431e1985880a8b82c80295973.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6854660ab3369fb79f19f207571ad6e687edfe45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f4272245e55f44c1913b1480334594744d47174.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d03e548702d28854d8e9f98cbc4f498f713272ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad9cc655b87230e275bc565aa819aa633b26178d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -134,6 +201,16 @@
       "在描述空间时，方位转换混乱，找不到基准点",
       "忽略了说明文中‘可能’‘大约’等词语体现的科学准确性"
     ],
-    "tips": "遇到介绍建筑的文章，可以尝试在草稿本上画出简易路线图来辅助理解。"
+    "tips": "遇到介绍建筑的文章，可以尝试在草稿本上画出简易路线图来辅助理解。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cf/cf11b80dfa5455674b7d10fc13cf77926aeb15a8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1e/1e19b5ab5a4d56c29ce36b848c91e66f9b52d830.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/66/6667e633e8589d52f9f48ddbce803b7206f9e59e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ea/eae58e336945cde92949e42c86f20d76709b92fe.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/74/741ddef29cd70a66dc6e8ce0b9792267e8383222.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a9/a99d480391f77b34470eb106ce20262e0544e2c3.mp3"
+      ]
+    }
   }
 }

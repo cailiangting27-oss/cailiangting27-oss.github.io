@@ -16,7 +16,11 @@
       "question": "“安安静静”是ABB形式的词语吗？",
       "options": [],
       "answer": "错",
-      "explanation": "“安安静静”是AABB形式，“静悄悄”才是ABB形式。"
+      "explanation": "“安安静静”是AABB形式，“静悄悄”才是ABB形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9a71db0e27ea508741639ee3d416452ee1593c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/070aa39bf9345207a2a289f8fe5f5b70444572d8.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“叽叽喳喳”是形容鸟叫的声音。",
       "options": [],
       "answer": "对",
-      "explanation": "“叽叽喳喳”通常形容很多小鸟在叫，也形容人多说话杂乱。"
+      "explanation": "“叽叽喳喳”通常形容很多小鸟在叫，也形容人多说话杂乱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68298fc0e3e6df0b49654546c2674031a72ec016.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae3843da1b1e11500adc8f41ec373eba944a85ea.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "红润润"
       ],
       "answer": "静悄悄",
-      "explanation": "形容教室没有声音用“静悄悄”。"
+      "explanation": "形容教室没有声音用“静悄悄”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/617767bc8d04d94c50d0b4611e68db9994c0c8b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed9286e9f7a877d5b945f16a57f2e7bbf65308c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bcff56f2194b8c2de6a1f71c9c89f9f2d58002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1974b9c54dc47971cf97b0e2c894c664a01d01c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f44901505d7ae72bdd2da840e1fdad1041433ba6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d94206dab00e52d195c59324e9a45d5de2dc8994.mp3"
+      }
     },
     {
       "id": 19,
@@ -63,7 +81,21 @@
         "茫茫"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "红彤彤，绿油油，黄灿灿，白茫茫。"
+      "explanation": "红彤彤，绿油油，黄灿灿，白茫茫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8e79e605c5cdbdff7936c33e0ae1829a3ddda48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e3127724b85b4f938f73d079f80e3f3a8c138c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/579625d5ac904b19e88e39e3d52652e8a067513d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7720f8ea0aba7de47ac932a47e89cb84e5284526.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1ae3cda4beb527944d6ae143126619809788c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2de25b552a59c1fbaef26463079c3e49fa9fa4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/271987c3c269594b0eb63f99cfc826352cc3973b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/205aa34c30c762b64b4680eb20d81c330b022a97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb907b49046d0fc525efd7d74a432af13070c93.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b384c4edc14c9a7e10dd9030b030509c94f9e02a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -74,6 +106,16 @@
       "与AABB式（如：安安静静）混淆",
       "第二个和第三个字写错"
     ],
-    "tips": "按照分类来记，比如颜色类：红彤彤、绿油油、白生生。"
+    "tips": "按照分类来记，比如颜色类：红彤彤、绿油油、白生生。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/17/1712f3124754dbad94d555c64b0a8dac478eb6e9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d8/d8b6b3335e0ab69f250113e02a7cbfb4427539be.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2f/2f4b7801b49993bea8a1bfed1be4cab85251d52e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2e/2ef03e7db99c2f31c568563d62a67b6266ea7df2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/83/8395deba897e2ea5a06e7262720d6c400f5096c0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bc/bcd642b4fbae609f0cd35b4b8015ed2546654963.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "《示儿》中‘万事空’的意思是作者认为世上所有的事情都是虚无的。",
       "options": [],
       "answer": "错",
-      "explanation": "‘万事空’在诗中指陆游临终前除了没见到国家统一外，其他事情都已不再牵挂。"
+      "explanation": "‘万事空’在诗中指陆游临终前除了没见到国家统一外，其他事情都已不再牵挂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01d3a86fabe1c5078c5b467f411f484fa4d16028.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43ebef39bb417ac035fe34add0b0f8cceaf99506.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "诗句‘直把杭州作汴州’中的‘汴州’就是现在的杭州。",
       "options": [],
       "answer": "错",
-      "explanation": "汴州是北宋的都城，即现在的开封；杭州是南宋的临时都城。"
+      "explanation": "汴州是北宋的都城，即现在的开封；杭州是南宋的临时都城。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6deaa405f386101870ab57a83971dde9bd4af5fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f23657fd250d407cbb135cd79188a77d5502fbe3.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "汴州(biàn)"
       ],
       "answer": "汴州(biàn)",
-      "explanation": "喑读yīn，擞读sǒu。"
+      "explanation": "喑读yīn，擞读sǒu。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e45be699d58c421c6c8b9253735a4195aec738ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/0029abb810b39aef22ead5b6805c9672c2a7f1d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e23c6f6bb541e39493939d2da9f9e8438648387b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0410de11598471a5025531cdded9397a576e869.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9aaf856a6162486f3cac086833436ea60fb2850.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a937763638954ec9bea44bac602fea39f8ce0adc.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "严肃认真"
       ],
       "answer": "精神振作",
-      "explanation": "‘抖擞’在诗中指振作精神，希望清政府能重整朝气。"
+      "explanation": "‘抖擞’在诗中指振作精神，希望清政府能重整朝气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c273195d63ccb5fef8f6c9cab1aecd14103f5bca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/0483bb8bd06ef4ed064acb150238eb07b88fee7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8f8cb079144d839196417280df683ef34e67f37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5c613bd61b553d266aeb486c90ce9818551a219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da1d4c1e5c590335e9723e0959e4f09cb13f9ada.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18f78d88e1236ab6a5151d69d9ccf6fa234797fa.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "万事皆空"
       ],
       "answer": "不见九州同",
-      "explanation": "诗中明确表达‘但悲不见九州同’，指还没看到国家统一。"
+      "explanation": "诗中明确表达‘但悲不见九州同’，指还没看到国家统一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a658b225d24040d923acb12e05e8fdef5e65e65.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/4063819f64b776f235df205d4dc59c5c9c6fce3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c50d4c7b06a6b28d5ef35c5aa9666b5c54830b9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5de5e3b1e221df74d022fa4130e0a5d9855372e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a068882c713c372093ca0a474421f7dcbfc18a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd0bf3e7e0f722229fd051fad7f045b6dfdabbbf.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "自然的微风"
       ],
       "answer": "娇淫腐败的社会风气",
-      "explanation": "‘暖风’讽刺了南宋统治者的纵情声色、苟且偷安。"
+      "explanation": "‘暖风’讽刺了南宋统治者的纵情声色、苟且偷安。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff72ee2828444e9c7e0e5f490e3ea2a567c2476a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/692a3dff1f711e3a0a3a0703ed5465de6340b896.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00d69cf681773641442899206c9491952e61bad6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/7522936cb7ebc9115e9496103be4212307fc5f2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c07b8f1ed92ad6c09fe1f9e0f1e2a10002263741.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7eac098165bb390a88b96b6b170db7431e4c7f35.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "天空"
       ],
       "answer": "中国",
-      "explanation": "古代中国分为九州，因此九州作为中国的代称。"
+      "explanation": "古代中国分为九州，因此九州作为中国的代称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3cf20be2d6c6c0041a7b610672ff7ea0c1f69cc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/668c70f344bc46046864611d8c761fcbc7c97f9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/850467469fcd1cf7775873f975e26bd5ce8549cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73bc0a5534d68e3542356c1982861b2414ae776d.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "王师北定中原日，家祭无忘告（___）。",
       "options": [],
       "answer": "乃翁",
-      "explanation": "‘乃翁’指你的父亲，在此诗中陆游指代自己。"
+      "explanation": "‘乃翁’指你的父亲，在此诗中陆游指代自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/533152b32dfe009eb647569ec5d0953e2f4b137e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac2870d835709fadeeae0b65d28cae0d9b4b7ca0.mp3"
+      }
     },
     {
       "id": 18,
@@ -129,7 +191,11 @@
       "question": "林升在《题临安邸》中用‘西湖歌舞（___）’表达对权贵只顾享乐的愤慨。",
       "options": [],
       "answer": "几时休",
-      "explanation": "休意为停止，整句表达了什么时候才能停止这靡靡之音的质疑。"
+      "explanation": "休意为停止，整句表达了什么时候才能停止这靡靡之音的质疑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/174154377f9c0be9f543f5919d43dd4d722b9369.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34a8184adcaaaf158eff626a53f2d1decc574855.mp3"
+      }
     },
     {
       "id": 19,
@@ -149,7 +215,21 @@
         "《题临安邸》"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "陆游《示儿》，林升《题临安邸》，龚自珍《己亥杂诗》，梁启超《少年中国说》。"
+      "explanation": "陆游《示儿》，林升《题临安邸》，龚自珍《己亥杂诗》，梁启超《少年中国说》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3ee110a7b219f7b8d84b0f4ee6db63857f5ff7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e821bfdf2a0a6d5fc1530b587d62eb5e6788c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e93957c147936f4c4de7e7764371076be93b3ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25117458f9b8f219db7a1100f2c5cd8e8cfff82c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb0132bd00a7dab1e94f3afb8ac9b58a6d8e0323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01fbf35f2a7bec2c355e220602a44233501fe3ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfb589d688155bfc61c6a801895ce120ab41f04e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f227995a72b831f4ebf82e166ef9fc081148b5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/069c919403d674204ece4cef858a7f28d2e0f16f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/692633c4ea4d5dd489c20c7eb87f04d8e8f1dd3d.mp3"
+      }
     },
     {
       "id": 21,
@@ -169,7 +249,21 @@
         "打破常规"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "元通原；九州代中国；喑指沉默不语；一格指固定模式。"
+      "explanation": "元通原；九州代中国；喑指沉默不语；一格指固定模式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1e2bb6640d7d89ec76ecf099ed5a1c57f698d86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/82/82248687198474f4781fcbcf72682c9c51dd66dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/376b2786ca1c535fa0b75feb4f76242acc075b1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/809314f4604c262285010d6dfc7c2c156dc083f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/281d18cc69c6ba89e934a7120238c6e95bd48768.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7f659841566cccb36e6ac64c50f569f9a59d186.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/468bfc687d4668f07237161a123086776886e65e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/976b90f227cf38618598bcb49e434abf5d202569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b3c2fb28f77ead5ca85ca275e93dcafc5b68f51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/926a97daccb97b8dff4ba6dcda7af4c13a5120f9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -180,6 +274,16 @@
       "容易将‘九州’、‘元知’等古汉语词汇理解为现代汉语意思",
       "忽视诗歌背景，无法体会《题临安邸》中的讽刺口吻"
     ],
-    "tips": "朗读时应注意情感变化：如《示儿》应沉郁但坚定，《己亥杂诗》应充满振奋之情。"
+    "tips": "朗读时应注意情感变化：如《示儿》应沉郁但坚定，《己亥杂诗》应充满振奋之情。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9b/9b4e5ee3431be483ae4203f47cc30b1cdbbc670a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5a/5a6d87159f5a10cd230f78ae8bb4d445250fe0e8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e3/e322b6a671d0f3739b950afd73e270f8c961ba94.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/86/86b03774be0781761942f5297b5b0811d2e67930.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/03/03b4b4135d76777defc09d5c636ecbed28a97334.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ab/ab7c6068745c683f71e3c75227469ae7e2ad1718.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "文章的标题通常能提示文章的主要内容，有助于快速阅读。",
       "options": [],
       "answer": "对",
-      "explanation": "标题是文章的眼睛，能够高度概括文章主旨。"
+      "explanation": "标题是文章的眼睛，能够高度概括文章主旨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eeebb4bf384ac0d516c56e7e76b364c0ecd1b8ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3a611a94e3b46a076e01467e0b66812eba3949c.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "急急忙忙"
       ],
       "answer": "协调有序",
-      "explanation": "文中有明确描述走搭石时“协调有序”的关键词。"
+      "explanation": "文中有明确描述走搭石时“协调有序”的关键词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4b5cf2720e6841e2ed965a5c65eb472e6f662d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/9629a3ef3f584f11f00be8b476c5af9d5813b974.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f88630704ab181cd76d60a5eb8aa05b7869dd22b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d354247cdf15a220795c2e6647966237e186c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b705183ca84183c3aacd0a65a3bd95bcca3ea814.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e15a971ae1ca58119400b95bfa6df6d4c641495.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "蔺相如很勇敢"
       ],
       "answer": "秦王以城换璧",
-      "explanation": "起因是秦王提出用十五座城池换和氏璧。"
+      "explanation": "起因是秦王提出用十五座城池换和氏璧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/1146c9a3b42d8dfc2701e73a4c2f13e0ca5d5728.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45f97568c5c8883cf26f297c72ad35cf6178f987.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69d8886481ff7f2ab258c905a8f021f3d8e18929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/987157c5205f4d9ab8b27e65ce5e256ab5b534fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a3267cf3d40524be7902d1fa931b6d5f80f2daf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b5b3509b6a81902595602de1473c7939a12119a.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "为人豪爽"
       ],
       "answer": "不守信用",
-      "explanation": "只顾看璧却不提城池，体现了秦王的虚伪和无信。"
+      "explanation": "只顾看璧却不提城池，体现了秦王的虚伪和无信。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04e7fac394b2072c7f20183d24b9419483f57d71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d091b01642d0f6ba823a9763dfa7041b3ecf61ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f94368c7df76f2524c055ea71698de5da67f5db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9eea09f0a3cdade919646af70ce1019037eb756.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1163c77868103c5bdb36371ab553506903413578.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31ca28b5f73d3a7aee57075eb55d2f31dbfffc5f.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "《将相和》中包含三个故事，分别是完璧归赵、渑池之会和（___）。",
       "options": [],
       "answer": "负荆请罪",
-      "explanation": "这是课文《将相和》的第三个核心故事情节。"
+      "explanation": "这是课文《将相和》的第三个核心故事情节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e91dd0e25636610eb2b4d80148a7efc2c4cee76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a29455670dd3ad6dd9053c2ef95fc4ecf286675.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "平均用力，每一个字都仔细研读导致速度过慢",
       "找不到中心句，把具体的举例说明当成了核心观点"
     ],
-    "tips": "阅读前先看课后习题或带着“是什么、为什么、怎么样”的问题去扫描，目光会像扫描仪一样精准捕捉目标词汇。"
+    "tips": "阅读前先看课后习题或带着“是什么、为什么、怎么样”的问题去扫描，目光会像扫描仪一样精准捕捉目标词汇。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5d/5d4dedb278cc321c78da0d36825fdfff3ea9e588.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ab/ab38c9b573b704b381c846aaef315546b4b2eadd.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b9/b992a2208511499f97a80b2ef3bd54e62e0e845f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a1/a1bf71c0a08cac72cfe124cdd1600984b13b9ae7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/95/95ed5bbcfd399ae4a77ff26b805e0448f0afc2a5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/42/42346f48e4e531926dc4be5d2c504c097f6dc39c.mp3"
+      ]
+    }
   }
 }

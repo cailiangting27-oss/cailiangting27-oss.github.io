@@ -25,7 +25,21 @@
         "生气的"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "scared-害怕, angry-生气, worried-担心, excited-兴奋。"
+      "explanation": "scared-害怕, angry-生气, worried-担心, excited-兴奋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c101ca5d46de23ccd8ebdecab714e52488c67112.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34305c61a64c3c5cce8c9bbf4c2396dc468d5846.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3dc3889b6f5348962783987cdc04f9776866ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f529c0de3cab3a3f6351a48451fccf2f65685cde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e18c596687b703375ed7e859e5dccbc8ee9d79c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3785ae9328a0af5f5ba6f976d3e50900dd4a0c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c98a820a6520d4a1abaf11d9e3e40b36baa6d7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ed6df22a7cfa4cb84d1861410fcfc43c5c0bf7b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10e1d4c0fd80f8e11e748dedb6ab9ab26ff6b68a.mp3"
+      }
     }
   ],
   "knowledge": null

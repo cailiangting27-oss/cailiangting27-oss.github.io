@@ -59,7 +59,15 @@
         "强烈的太阳活动"
       ],
       "answer": "强烈的太阳活动",
-      "explanation": "强太阳活动不利。"
+      "explanation": "强太阳活动不利。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/e1/e104f64ec2903094b8df6cb78aa7dc9ece2c3a33.mp3",
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "计算 $35 \times 0$ 的结果比 $35 \times 1$ 的结果小。",
       "options": [],
       "answer": "对",
-      "explanation": "$35 \times 0 = 0$，$35 \times 1 = 35$，$0 < 35$。故描述正确。"
+      "explanation": "$35 \times 0 = 0$，$35 \times 1 = 35$，$0 < 35$。故描述正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ef996741619e02fb8439be72cfc38679eaa3418.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b75e6ef9f99c2d143aea37c51cfc758075ff3b3.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "混合运算 $6 + 3 \times 4$ 应先算加法。",
       "options": [],
       "answer": "错",
-      "explanation": "混合运算中，有加法和乘法时，应先算乘法。$6 + 12 = 18$。"
+      "explanation": "混合运算中，有加法和乘法时，应先算乘法。$6 + 12 = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b2186eb18ecc980dacf70faa2038a4c4816c9c1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d58fab249d89ecee5748424b6ac97cd4b351ba7a.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "6"
       ],
       "answer": "0",
-      "explanation": "$42 \times 7 = 6$，没有余数，即余数为 0。"
+      "explanation": "$42 \times 7 = 6$，没有余数，即余数为 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12cc9709899dfd8704966561194d19d7a4869242.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/339ec55082a0d1ab8c638af2505583c7acdfcb64.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "64"
       ],
       "answer": "60",
-      "explanation": "利用逆运算：$36 + 24 = 60$。验算：$60 - 24 = 36$。"
+      "explanation": "利用逆运算：$36 + 24 = 60$。验算：$60 - 24 = 36$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/caf17d55699bf68356bb181c6f29bae54973ccc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22fc9cc8896bc8dca919b0bb2463ae6a05f39c0f.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "一样快"
       ],
       "answer": "减法",
-      "explanation": "有括号的要先算括号里面的。$8 - 2 = 6$。"
+      "explanation": "有括号的要先算括号里面的。$8 - 2 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/208434954e499870e6c3a5eae16ff5b3183a9991.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d924213c88fe62445b6cafbcf6748cd1eb2d9163.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/091420381a9bd8545518745e3f826ebc3581461a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e8808d32ccdabb23d827bb8e9b09a6f05b59398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08e63bb600cc3678697b8e66b976f6b4326822cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/223761a8d6bbac1992a05715798decbbe92a9a1e.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "计算 $72 \times 8$ 的商是 ___。",
       "options": [],
       "answer": "9",
-      "explanation": "根据乘法口诀“八九七十二”，$72 \times 8 = 9$。验算：$9 \times 8 = 72$。"
+      "explanation": "根据乘法口诀“八九七十二”，$72 \times 8 = 9$。验算：$9 \times 8 = 72$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/6932d48f42388bf42d50f0e32d3c7a7dbade78ba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96e24c3dae766bc193b1395d45ff786078bf43d1.mp3"
+      }
     },
     {
       "id": 22,
@@ -97,7 +139,11 @@
       "question": "计算：$45 + 28 = ?$",
       "options": [],
       "answer": "73",
-      "explanation": "$45 + 28 = 73$。验算：$73 - 28 = 45$。"
+      "explanation": "$45 + 28 = 73$。验算：$73 - 28 = 45$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f33d368c2f2aef0cca0445d479b83a08124f3161.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/2069e8d6ad8142502b10e71cb65c17378474f4f0.mp3"
+      }
     },
     {
       "id": 23,
@@ -108,7 +154,11 @@
       "question": "计算：$64 \times 8 = ?$",
       "options": [],
       "answer": "8",
-      "explanation": "$64 \times 8 = 8$。验算：$8 \times 8 = 64$。"
+      "explanation": "$64 \times 8 = 8$。验算：$8 \times 8 = 64$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d7a9d66efb5c05c17fa7cc653d3f81f83ecd220.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da01b35e6343d87ac4e522691df8e722b2d7b0e6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -119,6 +169,16 @@
       "混合运算中直接从左往右算，忽略了先乘除的规则",
       "有余除法中余数大于除数，忘记继续除下去"
     ],
-    "tips": "背熟乘法口诀是基础，做完题后一定要用逆运算验算一遍。"
+    "tips": "背熟乘法口诀是基础，做完题后一定要用逆运算验算一遍。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d4/d42bd9cc0bda0a38f48d74382ef5964dadd4397e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7a/7a1754cab24703b50e0d2c939943a6abcf988d8e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/18/18fdcf4e902af5aa5cecb5e065faa452959f75eb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d2/d2c040cd1f23dbcaf1f01564defe880edd67782a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8b/8b8501891e5960fb87b00635638bce1c829987f6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/79/7984ee53c2392e2d59b192671b4ca9a0f601c0a3.mp3"
+      ]
+    }
   }
 }

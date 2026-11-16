@@ -21,7 +21,17 @@
         "拟人"
       ],
       "answer": "设问",
-      "explanation": "自问自答是设问修辞的特点。"
+      "explanation": "自问自答是设问修辞的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8c8ee63264798e5d65e31a6245525d6686aac7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4baa5bac2d40f58a1c0048de9c14806cd2f03a48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d381cece45db79bcc750d90a01185e75302e6ff.mp3"
+      }
     }
   ],
   "knowledge": null

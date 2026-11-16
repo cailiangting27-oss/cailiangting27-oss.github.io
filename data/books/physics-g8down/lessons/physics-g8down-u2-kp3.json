@@ -21,7 +21,15 @@
         "无关"
       ],
       "answer": "等于",
-      "explanation": "漂浮时二力平衡。"
+      "explanation": "漂浮时二力平衡。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e2e25fc2d26a83bec26966707646561f8139c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b445321cbdd126dea29675fb58b4aec09fa6fc62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd0f3091158a7877b3292d925f901da30929ad67.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 4,

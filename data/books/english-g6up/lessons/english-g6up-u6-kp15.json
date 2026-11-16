@@ -21,7 +21,17 @@
         "Good idea."
       ],
       "answer": "Don't worry.",
-      "explanation": "安慰紧张的人可以使用'Don't worry'（不要担心）。"
+      "explanation": "安慰紧张的人可以使用'Don't worry'（不要担心）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e72b66a8f57d1bd34806f5cc0cb1a1b0f37d07e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ffc806f6732745946dd6e908e9513fbdc049751d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/888c9fba84f5816e7c4f7261ba52c78b1e2ae023.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/860de5f7b65a3c62b43122136d2dce25aeab8e75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0936c429351330a24a75a7382b6594ea631f840.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab436fa61f5179e1d0013f6509b3923c17881218.mp3"
+      }
     }
   ],
   "knowledge": null

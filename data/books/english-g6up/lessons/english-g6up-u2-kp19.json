@@ -16,7 +16,11 @@
       "question": "Don't go at a red light. We must ___.",
       "options": [],
       "answer": "stop",
-      "explanation": "红灯必须停下。"
+      "explanation": "红灯必须停下。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e12056d60b7eb1f94bda26274e082bbdaf3b4dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/688af56c3f4ca8244c50af070eb6175de00a6013.mp3"
+      }
     }
   ],
   "knowledge": null

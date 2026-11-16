@@ -16,7 +16,11 @@
       "question": "写对话时，为了避免单调，我们可以用动作或神态描写来代替“说”字。",
       "options": [],
       "answer": "对",
-      "explanation": "不使用“说”字，直接通过人物的神态和动作引出话语，能使表达更生动。"
+      "explanation": "不使用“说”字，直接通过人物的神态和动作引出话语，能使表达更生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/baecad7cfb523e11fbf8647cd62ba75b98dde107.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20ab6d14d805511be7393194be995b1848f0201d.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "老师怒视着窗外：“大家要好好听讲。”"
       ],
       "answer": "老师怒视着窗外：“大家要好好听讲。”",
-      "explanation": "“怒视”表示生气地看，与“好好听讲”这一温馨提示语境不符。"
+      "explanation": "“怒视”表示生气地看，与“好好听讲”这一温馨提示语境不符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/875dfb54776778b2a10327633a33ddadd789e940.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce52ba093f968400cfd49ba2dbb591e772b5516a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b0535981b349c5a6b4628f2b52acc46dfca21b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c8b6610b90042d582d4bb17cd093d393beeabb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/661799b9e3be5a0896cbb5a3cd27528c1abc0d1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/407954690a1b8e9e3f43d8950d983958af18b23e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "全篇“小明说”、“老师说”，阅读体验感差。",
       "引号和逗号、句号位置摆放错误。"
     ],
-    "tips": "试着用“吼、叹了口气、摇摇头”来开场，后面直接加冒号或逗号引出话语。"
+    "tips": "试着用“吼、叹了口气、摇摇头”来开场，后面直接加冒号或逗号引出话语。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/19/19d47533a3d112efa6e57507dccdf7d6816454cf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/96/964d24971b2de519e4554934161fc112f2ddf04a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/05/055b634fb4dc7e8408047d309d60660fc1952b50.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b2/b2b4a4b08f0ea4d9adf30ca3777208b91aa07e45.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f5/f57b8967f20dc33aa2b4d2ab36799be818d24565.mp3",
+        "https://api.clthuanxie.cn/cc-audio/09/0965d8b69206b2d45b0a65267ed4415adcc7a8d4.mp3"
+      ]
+    }
   }
 }

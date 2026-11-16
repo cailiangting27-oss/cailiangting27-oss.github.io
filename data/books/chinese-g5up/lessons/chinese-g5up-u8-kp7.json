@@ -25,7 +25,21 @@
         "向不如己的人请教"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "A匹配广泛阅读，B匹配向不如己者请教，C匹配读书不细究，D匹配勤奋好学。"
+      "explanation": "A匹配广泛阅读，B匹配向不如己者请教，C匹配读书不细究，D匹配勤奋好学。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f334b0b8edfc3c56ba90dae1fdb793dec8f8fff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6afc320c8f73cb181395634abb59877ab5485e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db75d56833bae7ae839bc40d5de132afeedd91ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da655a8ad8ccf3581964eb8c6b21d8f069ca40e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/911c3c004566b79fca681a9507ced6afee838e0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa62aa0dc29d5ebd9219cfe1a1a01749188f6f78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2341d965bfe04f9ae0969e0b469c90d2936fb478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af584cabdbf3eff828238cc0dab6c02c2d95e891.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a46682f0b13b92b02505fb8aafaf7be0bbee855.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fccd588f054df1adc2fe4d913e82179790dd403a.mp3"
+      }
     }
   ],
   "knowledge": null

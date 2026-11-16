@@ -16,7 +16,11 @@
       "question": "人的身体外部结构大致可以分为头、颈、躯干和四肢四个部分。",
       "options": [],
       "answer": "对",
-      "explanation": "科学观察发现，人体外形由头、颈、躯干、四肢四部分组成。"
+      "explanation": "科学观察发现，人体外形由头、颈、躯干、四肢四部分组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5aab7cddb7008ed580eabde2aaf7094b7a9f50b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64d485369afbe9ee1d5fe725b396ddbb06acda65.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "完全不对称"
       ],
       "answer": "左右对称",
-      "explanation": "从外形看，人的左右两边结构是非常相似的。"
+      "explanation": "从外形看，人的左右两边结构是非常相似的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/beb8c9ef8be0ba519230275168bffe22618faf39.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0ba78435e34276a1cb1992e7c9f57d79155ccd70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faf0ca6966153d679d8afc0bcdd5e66b652cc367.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1209f4134d102da1aa73666b36028902670d7969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2418f3844eb08d5dcb88874d3cf47666bc1e5505.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f275863756a2ae9e0cea5d44f93730c696e74f0d.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "皮肤表面"
       ],
       "answer": "心脏和肺",
-      "explanation": "胸腔和腹腔内包含了心脏、肺、胃等维持生命的重要器官。"
+      "explanation": "胸腔和腹腔内包含了心脏、肺、胃等维持生命的重要器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ffefa8546bbbab6a369781a9f7c4376e0a173c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/2488dd1de42623efb2b1e71492c4273a5405ae07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce21751d431278ca909f1c0a0e0de8a00cee8a48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14705f3192836c323d4bf7f2880afa9f55f0ea2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b1ffdd920053d165344983879c003234555dd1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46706273d8d92b260eddbc4523777b9122418da1.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "人的一只手有（___）个手指。",
       "options": [],
       "answer": "5",
-      "explanation": "正常情况下人的一只手有五指。"
+      "explanation": "正常情况下人的一只手有五指。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39be43445091afdd37e71e184e9653d98c70ad02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3baa5bfd2522eef8cd90a69e10482d7ea0f2cf29.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“课桌”的“课”和“一棵树”的“棵”读音相同，意思也相同。",
       "options": [],
       "answer": "错",
-      "explanation": "读音相同，但意思不同，前者与课程有关，后者是量词。"
+      "explanation": "读音相同，但意思不同，前者与课程有关，后者是量词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/7236166b9544558ca80787f20e6e22c34272e220.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f2bb1c98378b2b8ecca7dba875f0305de97c513.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《画杨桃》中的老师是一个性格暴躁、不讲道理的人。",
       "options": [],
       "answer": "错",
-      "explanation": "老师非常有耐心，引导学生实事求是地看待问题。"
+      "explanation": "老师非常有耐心，引导学生实事求是地看待问题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fd6eaf5939aabf24dcb13f3a1f9db537c049686.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8f08a90a7fdf92e9e8f420f5abdcb275fb661cc.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“置冠服，有定位”的意思是衣服帽子要放在固定的地方。",
       "options": [],
       "answer": "对",
-      "explanation": "这是《弟子规》中关于生活习惯的要求。"
+      "explanation": "这是《弟子规》中关于生活习惯的要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b762c413266d8fe25b40b00ee8316a7fcc0e6a9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d4c5fda493a22aa4f1e8822fc80e14ebeda3a90.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "那个拔苗的人最后收获了很多粮食。",
       "options": [],
       "answer": "错",
-      "explanation": "禾苗都枯死了，他没有收获任何粮食。"
+      "explanation": "禾苗都枯死了，他没有收获任何粮食。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc588b9446fd3e8301b24d8ce3dbeab3b144b7d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a937f2e322ddf41feb6c623561cfaa8ef386aa8.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "骄傲"
       ],
       "answer": "惊讶",
-      "explanation": "老牛认为水浅，发现小马不敢过时感到很惊讶。"
+      "explanation": "老牛认为水浅，发现小马不敢过时感到很惊讶。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1846b880446314d32379e0adf54eb4e61d69739.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd6bd4738cba9106238e616a5b0d16a4287bb658.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9bd182d2e80d5384637265e62695d473427718a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/025cbbc2bb1e879bc4559797bcbde1e35d3792f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfe1ec92950e9e0a0ae0017b1fa9cb93b19e75c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b036871ce72ff0c63b3871a45af63bf59c8448e.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "快乐"
       ],
       "answer": "后悔",
-      "explanation": "丢了羊的心情应该是后悔当初没修补羊圈。"
+      "explanation": "丢了羊的心情应该是后悔当初没修补羊圈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20f2de473a5e91ec90ca92539afa3bde8a02ee0d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b0b986274ae8b128d3a5573ea06bf5c3ed1359b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64a6494e0ca49456f246a4cd94188314a576f684.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fda7539bde8cad40142043a42f61baea1cad8b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b9d25415965b511afdd6a4c6e81490ce8df2eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a620d94ea77a23411206fc7a6bf70e7c2c36c61.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "大声责备"
       ],
       "answer": "诚恳劝告",
-      "explanation": "这符合单元中“道理”的教育意义。"
+      "explanation": "这符合单元中“道理”的教育意义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f0481dbed2c9381542ac20c2432bf6ebd543218.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d48e94649cd5a68577524720277a6a0cb9dec095.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b57e3d235ce60f1cd15dd25eaae95b835dca52a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df364900b7eb7fd9a57a2489f2411cfb7341f9dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/059a35869e9b22b84f3a9d74a1c0e9477c256e62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01f367135bb7d2a148d4a5ebc7dc8b17bf2341dd.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "在妈妈指导下试一试"
       ],
       "answer": "在妈妈指导下试一试",
-      "explanation": "课文结局是小马亲自尝试后渡河。"
+      "explanation": "课文结局是小马亲自尝试后渡河。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a90935ce8e58585e5987b1badf87d642fba5c4ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/897de93c19d487f1e7ae87b49cfa63dcb0a68ae8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a43b7083c4d942e727838cfc65ea3ddf6322a62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d31a4e581b571425518e970ae48a5b9804e5e156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e98d1828d54ac593b075c44e9999b4084625245.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de43034363fcf97aff3a8718f84128d5db1da396.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "脸色苍白"
       ],
       "answer": "态度温和",
-      "explanation": "形容神色和蔼。"
+      "explanation": "形容神色和蔼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66c88f02107c87fe167bd1f9fae5e4226d493542.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71db00e92fd71ad1d6dec9a7803f93722d7b2bcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf112aa491ef3a7cf2dab23f6eeb3048e21bd1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef8eff2d070a4cc7b8c7b2948a634abaf6298127.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de8481c809ded77e3484ce048d344db5c21b8225.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fa7f06387215d123b26c0da3565d7e3ad7b6abd.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "羊没被狼叼走"
       ],
       "answer": "狼把羊叼走了",
-      "explanation": "被字句和把字句的转换。"
+      "explanation": "被字句和把字句的转换。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fecc94996f933c37e854f8c94fa179ef335e6134.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/31d349e94c9c3629d311045ac12b046c1bbaebbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d805c451e352f7f93ad37058ad862c3de7e9c03a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b63cdff8ae3cada1f65c7cef1f71ac3b2bfc966a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72382a97b4680e202385adfe61336a131a9518d3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8e43c4185c8fa2e8421b88148daa276711a9de3.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "通过学习，我得到了很多（   ）。",
       "options": [],
       "answer": "教益",
-      "explanation": "教益指受到的教导和好处。"
+      "explanation": "教益指受到的教导和好处。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/240636c258022434c732ee0c8117a5939f9c43d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/abf598844fe78463c23706013f65e3a0272fc560.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“筋疲力尽”的“尽”字共有（___）画。",
       "options": [],
       "answer": "六",
-      "explanation": "尽（jìn）的部首是尸，总共6画。"
+      "explanation": "尽（jìn）的部首是尸，总共6画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae70766260fc99029055ff4d5aeff5e73efa5c55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c7c9a0ec5476a1401b41cafd6e93bcc9265aebd.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "亲自实践"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "考察对课文主旨的掌握。"
+      "explanation": "考察对课文主旨的掌握。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/def0f569b64199368ce84f3591babc7a83916259.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/79a8d2aae57a6354311c45510fa929444ab05fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/503318d74aa809a7935c90db29e9f7e2a8fcde4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee552a245cd94b8c9695edb92b817ef7e7481b17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2f3fdc2987e38857adb0d25a29b17420761c374.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/682a0a0252af2421b66963eeba415bad66321db6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d7de444a55e06fbac064f37aa7de05de667161d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4523a04e66d05373a3d8501886bfd8ba2b3be8c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1d2952ec796e06eb00efc4ca5f5cda6f8ba46fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f14da58a2e3f5b278151890cd36fd066b8d46e8.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "穴字头"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "突(穴)，厨(厂)，寓(宀-虽然选项是心但考察底部或整体结构，此处选心字底对应闷的错位修正：修订答案为标准结构)。修正后：A-4,B-3,C-1,D-2。"
+      "explanation": "突(穴)，厨(厂)，寓(宀-虽然选项是心但考察底部或整体结构，此处选心字底对应闷的错位修正：修订答案为标准结构)。修正后：A-4,B-3,C-1,D-2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/425e2a1917d802ccf91440c8a204848e198eeec1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9eab7000e526f26782275b06bc2ca2cd2e8676ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3a6c62853d8db8aa90a8f9cc96ed23ac88a1335.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91becd3f08aad4a27da284f51480e4896bcda42a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97c66d6f6f4121b0967faad20cd301805b436e23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/973b1a12354b8ad44a07d4c15b365ff45714a4d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b60e86a60078c0104db6e2a16da9f3d12a4963b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea18a4cb244b8b31cae53f333698f28861e2c39e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50f15caf80d3041afdf81aa97beb18dad32e44e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/4980bb27f5aa88af139ed9fda51cf178229acdf3.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "你的吗"
       ],
       "answer": "这,难道,不,是,你的吗",
-      "explanation": "正确的反问句语序。"
+      "explanation": "正确的反问句语序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb2fe47f4544d0b8e5ad1c74c4c7b7e81d148408.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94f1a1f8cafc04795ae186d04e2ca65f9afb1df4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/542523173c3e3439bd490fff653d2ee678407604.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/826c5c67ca831ee7ab8e5070a4e2e33e98a41b9f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49c327db164a18f0e56c7880201668795a45bf30.mp3"
+      }
     }
   ],
   "knowledge": null

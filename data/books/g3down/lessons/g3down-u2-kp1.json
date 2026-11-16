@@ -16,7 +16,11 @@
       "question": "因为 $4 \times 2 = 8$，所以 $800 \times 2 = 400$。",
       "options": [],
       "answer": "错",
-      "explanation": "因为 $8 \times 2 = 16$，所以 $800 \times 2 = 1600$。题目中的等式错误。"
+      "explanation": "因为 $8 \times 2 = 16$，所以 $800 \times 2 = 1600$。题目中的等式错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d5a66c4990d400058656f0e7f63821700bab134.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a19a191cd9604b0c00e2db2af1977829916f571.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "20"
       ],
       "answer": "30",
-      "explanation": "$240 \times 8 = 30$。口算：$24 \times 8 = 3$，再在后面添一个 0。"
+      "explanation": "$240 \times 8 = 30$。口算：$24 \times 8 = 3$，再在后面添一个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3ae5d08bdeded37d6629105b00e9e39b16f59814.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31b0ad793910714c9ec27795a6eedc68febc2cc2.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "121"
       ],
       "answer": "369",
-      "explanation": "$369 \times 3 = 123$。可以通过各个数位之和能否被 3 整除判断。"
+      "explanation": "$369 \times 3 = 123$。可以通过各个数位之和能否被 3 整除判断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de9db2d8d6762706d75d85b9ad666a15b8e0a5da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77873674e5df0c6b070f8dd195293533838ca7a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/904f2cc1c3677bb35876e91f4716341c06769cc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e06d22c8893e27d5a7243bd185faa94cc593072.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bd7954c40c1e59a900f71ea3a266732609915b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7306b4620924bb9aee64478f4e7b1bf3d874eed.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "80"
       ],
       "answer": "50",
-      "explanation": "$400 \times 8 = 50$。验算：$50 \times 8 = 400$。"
+      "explanation": "$400 \times 8 = 50$。验算：$50 \times 8 = 400$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd82543792045311598c973524cb3647a6954fc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ebe141e9ed0b851cb397a70848d97fb20853889.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "学校买来 180 本新书，平均分给 9 个班，每个班分 ___ 本。",
       "options": [],
       "answer": "20",
-      "explanation": "$180 \times 9 = 20$（本）。验算：$20 \times 9 = 180$ ✓。"
+      "explanation": "$180 \times 9 = 20$（本）。验算：$20 \times 9 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3974b26b835e7a016d69ab1094f27464df78245.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c621eac9ebef959519906fc0785125d8ba37a37.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "商的末尾少写了 0",
       "口诀应用错误，如把 $24 \times 6$ 算成 3"
     ],
-    "tips": "记住“先切掉 0，再补回 0”的口诀，但要注意观察最高位是否够除。"
+    "tips": "记住“先切掉 0，再补回 0”的口诀，但要注意观察最高位是否够除。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/26/2678f271e6888932184e123b781f8b3954bf65ba.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/24/2454f8dedc5b6948967cc6f4d0fee8a7d93df84d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/54/542db181051f0a468be2c4a02fef9661f94acd13.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/7b/7b03ef32c04df1db050fb694f4954df4f15ec204.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1c/1cc8db96566efa1af4bd08f956e618c624794ceb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/31/31eee4d80f55ff3c8a64389e2a81a23c56816d0d.mp3"
+      ]
+    }
   }
 }

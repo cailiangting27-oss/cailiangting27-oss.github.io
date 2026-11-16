@@ -21,7 +21,17 @@
         "大小"
       ],
       "answer": "用途",
-      "explanation": "都是文具。"
+      "explanation": "都是文具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/565ad51c1beb2b6aa9575f0bf41ce504350a0919.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c49c8f25a7a48a3971027e0c7bf263570395bfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/835512df038c405d6b18d24dd1842d2b83a535d7.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "大小"
       ],
       "answer": "颜色",
-      "explanation": "按颜色。"
+      "explanation": "按颜色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6b4e82fe571b558c6de43263e27a2225a38e153.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c49c8f25a7a48a3971027e0c7bf263570395bfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa4a0fe488a2392fa07a8d89ac0237903689f912.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "一次用两个标准混着分。"
     ],
-    "tips": "一次一个标准。"
+    "tips": "一次一个标准。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6f/6fa7fc4a6b5d9234fae0f0eeb9a1cd1798610712.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b4/b4e96ac3d29651e734b7b37ff2315375ecf108c2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/93/935dbd4186780383783e94d561dc8be384a990c1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fe/fea2d8b9d53345b6615366f3446ea5eb246e2389.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/81/8189f557b7f327f482a0fdb348f379eefa5bb236.mp3"
+      ]
+    }
   }
 }

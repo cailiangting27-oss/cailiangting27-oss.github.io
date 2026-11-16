@@ -21,7 +21,17 @@
         "hat"
       ],
       "answer": "Whose,hat,is,this",
-      "explanation": "Whose + 名词 + is this? 是固定句式。"
+      "explanation": "Whose + 名词 + is this? 是固定句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/753dd64f33afc6e3072dd7d0fcbbf8f7afcf3e4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92af8564df0bb474bc0563e903d75a7765f9e938.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10e5866050d20afe8ccae04456491db7908a96ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b5b0711267cdb052187440a79d227b6d2e0bb9a.mp3"
+      }
     }
   ],
   "knowledge": null

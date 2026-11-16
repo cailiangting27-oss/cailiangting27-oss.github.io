@@ -16,7 +16,11 @@
       "question": "声音在固体中的传播速度通常比在空气中慢。",
       "options": [],
       "answer": "错",
-      "explanation": "声音在固体中传播速度最快，液体次之，空气最慢。"
+      "explanation": "声音在固体中传播速度最快，液体次之，空气最慢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13bec3487d5d07e1529246b4c453962f7d0af9ef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d046a918a18d99f0d7df9002a26dbabc02f44ee.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "吸管"
       ],
       "answer": "棉线",
-      "explanation": "土电话利用棉线这一固体介质来传播振动信号。"
+      "explanation": "土电话利用棉线这一固体介质来传播振动信号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44c7838683f264f18851284caae9b5d2e637f050.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a5a81afcc1e41408a0106bf6cddcd9a4151d72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6df022beb5287d87df25dc56a878d2d184dcdb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/168a7689ea7e5f074f00f732fd983cfaf8b5052c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e5e15d37a8105eddb8c0bef6e5b8e7418be735c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "认为真空中可以通过大声喊叫传声",
       "由于土电话线没拉紧也能传声"
     ],
-    "tips": "记住“介质”是声音传播的桥梁，没桥声音过不去。"
+    "tips": "记住“介质”是声音传播的桥梁，没桥声音过不去。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4e/4e2d24ac79b9c525a0f7791309d90283e9570a6c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b5/b59c14a19d3e3ff1126e78bd1ff0ced17bcd9c98.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f4/f4796fb0fc3c8c5160050c14f3d224bb8c0df388.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/10/10cd72cb98b1d7e872e28841848c0f68369aa3d5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/88/886047503ef3fb39d519d3760a2bc5e7621c72d2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/de/de9372a8dc5c7e629ec8cd3dd6c519c52a24efa3.mp3"
+      ]
+    }
   }
 }

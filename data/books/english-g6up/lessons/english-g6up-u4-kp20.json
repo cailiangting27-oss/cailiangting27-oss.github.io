@@ -21,7 +21,17 @@
         "his"
       ],
       "answer": "What,are,his,hobbies",
-      "explanation": "特殊疑问句语序：疑问词+be+物主代词+名词。"
+      "explanation": "特殊疑问句语序：疑问词+be+物主代词+名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39789e4850fed2ebd516a24949667a39b408088b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f86199e049b9c1b807310bcc23f6135ad1f3a431.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b187a9ed471ef7465c5d78cc7b4b1846f07ac76d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72ad6f01b3ce616976b78185d65ab8ae791edd5e.mp3"
+      }
     }
   ],
   "knowledge": null

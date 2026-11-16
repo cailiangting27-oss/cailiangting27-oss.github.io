@@ -21,7 +21,17 @@
         "连接点"
       ],
       "answer": "灯丝",
-      "explanation": "电流流过灯丝时产生热量，使其发光。"
+      "explanation": "电流流过灯丝时产生热量，使其发光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f25f678b38579233f8d1cd14e9bf3082f721e88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/7936e277007915460f881db34288e9cffcad9236.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/297c62606bce82e3ae4f4f16521d2953136338ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0ba3ffa49532504505956af4c3b78038cb23da50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5be5cd8347c6c05ab45838b63a872eef216066.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8b6750a6acbd87477cccf9620d3047b4afdf8b5.mp3"
+      }
     }
   ],
   "knowledge": null

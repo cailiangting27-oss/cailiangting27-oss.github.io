@@ -16,7 +16,11 @@
       "question": "剪刀的锋利刀刃利用了斜面原理。",
       "options": [],
       "answer": "对",
-      "explanation": "刀刃是斜面的变形应用，用于切开物体。"
+      "explanation": "刀刃是斜面的变形应用，用于切开物体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3395ef88cba38ab58bbbdadfcef850e26ef6103.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0e774796082cfb4c449068bd761582b27ce6576.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "增大阻力"
       ],
       "answer": "省力",
-      "explanation": "手柄长（动力臂长）于刀刃（阻力臂），属于省力杠杆。"
+      "explanation": "手柄长（动力臂长）于刀刃（阻力臂），属于省力杠杆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4aea38992a0f1fe623196101b44dd46efa381d42.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2d3f81cabaf7db70450fe9f659c903a6d20ab7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19d9bb3fc575a9960789214c476337f26284c77f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2620fe8ecddc8555e72e946e0d30124fde747156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a714b456fb5c50b8d84ed918afad1dc84401b5e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71d254ef44a352b1cddc24dbde4c66ad20a365cb.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "斜面工具"
       ],
       "answer": "费力杠杆",
-      "explanation": "理发剪刀为了移动距离大，牺牲力，属于费力杠杆。"
+      "explanation": "理发剪刀为了移动距离大，牺牲力，属于费力杠杆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e242c22cd943db458786cc50a04a0c282bacf012.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3bc79d2dbd2cb62c146d5b97e5064ea6f4def35e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/759400c21dc9ff3d7421075a74a6e5e067dc36d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d29b26d0aee5b165414934d74379c2defd18752.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b58d9d87f9df91e5f2b5fc301049566dffab835.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b0f7c0b4b7c633aa4b64e7d3c7e3c54d46e08ff.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "剪刀其实是由两个（）和两个斜面组合而成的工具。",
       "options": [],
       "answer": "杠杆",
-      "explanation": "剪刀通过中心轴支点形成交互杠杆。"
+      "explanation": "剪刀通过中心轴支点形成交互杠杆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/169a2353341298954cdc9d0dfeac66e977d6fd5d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08b9d31a40ada6caf1a0d2f207bf0f1fa5f2a109.mp3"
+      }
     }
   ],
   "knowledge": null

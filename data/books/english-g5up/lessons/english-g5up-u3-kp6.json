@@ -16,7 +16,11 @@
       "question": "单词 'sweet' 的意思是 '咸的'。",
       "options": [],
       "answer": "错",
-      "explanation": "sweet意为甜的，salt/salty意为咸的。"
+      "explanation": "sweet意为甜的，salt/salty意为咸的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff5da12d941ba8a70b3fbb0bc0629d4eaa169d36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63e6987a148e7ae4fe90488167ada66123c7b916.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "healthy"
       ],
       "answer": "hot",
-      "explanation": "tea通常与hot搭配，且在负面语境下可能指太烫了。"
+      "explanation": "tea通常与hot搭配，且在负面语境下可能指太烫了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df02aa5f6d01aec5a866b09690e3ffc9809b6e00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a4c84cb83788005285d9c9e6f6d6c046b4c39e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab9d1883a9724bf883dcc196d7ed1e8f5d2fb63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de18ccfa15e841c4efe6788a08eccda935650bb1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b60845067a0c91ec4d16bbed40baae139581bc2.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "The grapes are _____. They are not sweet.",
       "options": [],
       "answer": "sour",
-      "explanation": "如果不甜且描述葡萄，通常是酸的（sour）。"
+      "explanation": "如果不甜且描述葡萄，通常是酸的（sour）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cb357b02562af8f9161c10c94a5dd9fb377d593.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd53b103212cdc982526025f37405685c7801856.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -53,6 +71,15 @@
     "common_mistakes": [
       "误认为 hot 只有 '热' 的意思，忽略了其 '辣' 的含义"
     ],
-    "tips": "通过对比学习，如 sweet 对比 sour。"
+    "tips": "通过对比学习，如 sweet 对比 sour。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/75/753d42bf105eb51daf3c7683d85f9318fd354264.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/82/8200a61356e1c14a5f29909c7c613e30cfcaf484.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7a/7ad5bf041c49e66b7a158812e61bf19f8f217469.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/56/56e8b51c4b9bfbd16772837fc6f27d2525353456.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/98/98ab6a4670086068124d9076874ef2f64ae44fa5.mp3"
+      ]
+    }
   }
 }

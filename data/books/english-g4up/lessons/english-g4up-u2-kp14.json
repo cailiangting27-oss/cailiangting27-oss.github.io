@@ -21,7 +21,17 @@
         "Thank you."
       ],
       "answer": "Great!",
-      "explanation": "Great用于表达赞叹和称赞。"
+      "explanation": "Great用于表达赞叹和称赞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afef94f9ef9fdc0ac314019dcceb35a6e894f835.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/471adfc1082c7ffb13b9bbaf3d74312e8ac38fff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf8ede6939e07cccedc58ae7e701dd7e23c1fb17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3396091d2ea87f013d10d6136fbe77999934240f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "询问对方的爱好，可以说 'What is your hobby?'。",
       "options": [],
       "answer": "对",
-      "explanation": "What is your hobby? 用于询问一个人的爱好。"
+      "explanation": "What is your hobby? 用于询问一个人的爱好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d50b26d40476913ea6bd9051d354a3e615ecc2e4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/522c3c9f62a7d32ddf6f5372cbf9ef8e1613ae14.mp3"
+      }
     }
   ],
   "knowledge": null

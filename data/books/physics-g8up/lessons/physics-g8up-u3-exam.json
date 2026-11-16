@@ -21,7 +21,15 @@
         "沥青"
       ],
       "answer": "冰",
-      "explanation": "冰有固定熔点。"
+      "explanation": "冰有固定熔点。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d90a6e5e817122f3be327123d1bf351691b0070.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 8,

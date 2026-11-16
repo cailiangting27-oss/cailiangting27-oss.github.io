@@ -16,7 +16,11 @@
       "question": "复式统计表可以将两个或多个单式统计表的内容合并在一起。",
       "options": [],
       "answer": "对",
-      "explanation": "复式统计表的定义就是将两个或多个有联系的单式统计表合并成一个表，便于比较。✓"
+      "explanation": "复式统计表的定义就是将两个或多个有联系的单式统计表合并成一个表，便于比较。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/4404e973426e2d0827352401a9df450bd01ff2a5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e251e715c2a35f3173909791b87ea285b34d6bf9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "复式统计表的左上角表头通常被分成两部分或三部分。",
       "options": [],
       "answer": "对",
-      "explanation": "表头斜线将空间分成几部分，分别表示横栏和竖栏的类别。✓"
+      "explanation": "表头斜线将空间分成几部分，分别表示横栏和竖栏的类别。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/294d31ea43139bb087b60ff63cc5ea0effe9cb17.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c87f1fbb73f4767844ceef67aeb5599d6568a549.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "数据"
       ],
       "answer": "表头",
-      "explanation": "统计表最左上角的格子称为表头。✓"
+      "explanation": "统计表最左上角的格子称为表头。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e26ccffa98726f017e02946e4a01377c9817d0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/163aec9194a17383a22445f6651c80f86dcce879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b80b9f869919b0364f939909124edb6cc22e7c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/748d7dc7e3212d62e207d204624705af70ea635c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54b8a90b3ce64ee629e52dc09db406f55fab0f44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3b2d306e4f3c262d9a9e6a4b2c0606ff9d79b40.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "上方正中间"
       ],
       "answer": "上方正中间",
-      "explanation": "统计表的标题通常置于表格上方的正中间。✓"
+      "explanation": "统计表的标题通常置于表格上方的正中间。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddd60f56bad3fa560fe70b538ffbedb4fd508073.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/440495fc2df71c67226b2f2e93f49ed70488916a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e4e7a177d71600fb9c662052a07b35350778a3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1dea6908b1b1e0af483d50d1a853868d424d820.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a004f56a8f1534f8befca6e773afa5523449b09e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bfd1ba7b84311daf28fede420f4b399a103f7b9.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +103,17 @@
         "平均数"
       ],
       "answer": "总数",
-      "explanation": "合计是指所有相关数据的总和。✓"
+      "explanation": "合计是指所有相关数据的总和。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d396c185903d5ac343018b490e454d084527a6c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01821997b758dfcb9f30377a1eed971e96c628d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3d641f190fe88f528eb8be9f9770797f0dee5fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/367ff5ddd2cca0736997a163c354e278831c35fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce06dff4437370812e7ad615a6a81c15d9b8fe0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d088750aa9bb20fd0dbc7da932de6b966f689336.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "混淆表头中的横向和纵向说明文字",
       "漏写统计表的标题或日期"
     ],
-    "tips": "观察表头时，沿着斜线看，上方文字说明横排内容，下方文字说明竖排内容。"
+    "tips": "观察表头时，沿着斜线看，上方文字说明横排内容，下方文字说明竖排内容。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/26/26fbff7c87bc2e85d1a2fb05d77126eaa814b182.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/84/8486578c4dbe4e429a113d2431c96aa935abf332.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/08/08d39fee77f7da91f4b9092899117c243a189461.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ee/ee43b8b73d6997a1f7eb970e15143f23ea3d510b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/86/8681fd103d69509481bac493f232b00933adf494.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c0/c062a4eaeffbc4d58cee08f7832ff60d3bac19ae.mp3"
+      ]
+    }
   }
 }

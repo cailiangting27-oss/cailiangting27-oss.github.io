@@ -16,7 +16,11 @@
       "question": "观察不仅要用眼睛看，还可以用耳朵听、用手摸、用鼻子闻。",
       "options": [],
       "answer": "对",
-      "explanation": "全感官观察是细致观察的重要方法。"
+      "explanation": "全感官观察是细致观察的重要方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7edeb090b79bfa3c6e4bbb9c19f8236a5357a078.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01b28da1e89da750e0ac61ce0e51a4749f1b0de8.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“骚人阁笔费评章”里的“骚人”指的是风骚的人。",
       "options": [],
       "answer": "错",
-      "explanation": "“骚人”在此处指诗人。"
+      "explanation": "“骚人”在此处指诗人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12789449d0a96489740c07a2fe45dd220add155f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fa788cc789d2334c7f665c76bc7fa2eb71e486b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "如果没有细致观察，法布尔不可能写出《昆虫记》这样严谨的作品。",
       "options": [],
       "answer": "对",
-      "explanation": "严谨科学的作品建立在极为细致的观察基础上。"
+      "explanation": "严谨科学的作品建立在极为细致的观察基础上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17833a2d09ff528da4c6ac4587a022846dbc1baf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/020177abc7ce8d4194fe25da5e50db4d30f081de.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "《暮江吟》这首诗是在描写冬天的景色。",
       "options": [],
       "answer": "错",
-      "explanation": "根据“九月初三”可知这是晚秋时节的景色。"
+      "explanation": "根据“九月初三”可知这是晚秋时节的景色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b4abfcd9dff11acbdb22da85a9da4028f08897c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/924fb1f06ebe8b11db031adab6c268b8a44de9d4.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "漆黑 透明"
       ],
       "answer": "碧绿 鲜红",
-      "explanation": "“瑟瑟”指碧绿色，“红”指夕阳映照下的鲜红色。"
+      "explanation": "“瑟瑟”指碧绿色，“红”指夕阳映照下的鲜红色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93ec4624d498cc632b95db4cb2393343290c97a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/9633cf56348a63221047403ca93f06f29e994b8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16696d0fa7ea0533ddb9b94ea43627226156d83d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5db8cd1fbf068a9253a35d215fa46837ffd152f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1f993993e61e242a6cb20e3c8d7d4c6a9a81012.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1b40616cd97277ca0247e299e836485f47a70c5.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "心情"
       ],
       "answer": "心情",
-      "explanation": "日记格式通常首行包含日期、星期和天气，心情属于正文。"
+      "explanation": "日记格式通常首行包含日期、星期和天气，心情属于正文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/126e7b8ae9796b09ca36f29ea92b0dccc4fb5a64.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6fed9af8313ea3fab6a53f69e71c08f17dd4d3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e35269378d9c3ed40b7d8e0b29854d126bb3d54c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6055fe4b903c404afd700cc2079db661f7bd3a49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/300ee58e24cfd4c81b7d7ec54f38ddcd4823e99c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3abece1917b7fb4e04595928289c758c7a3e6b4c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "动作缓慢"
       ],
       "answer": "不肯随遇而安",
-      "explanation": "课文明确提到蟋蟀不利用现成洞穴体现了其勤劳、不随意的性格。"
+      "explanation": "课文明确提到蟋蟀不利用现成洞穴体现了其勤劳、不随意的性格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b3cd496b47a266bcb9d103ab927aa71b921db28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aeffb7c24561c65976ea9e6b203046311c589660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0188704113c7231e1c84fdb99028ed7e242cf5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67538d5528b5d86a706770e6590bed7c05d88c6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/111e95f3cb7615dd17fe385efe805d8b16b705e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7db8faa6daa1d0ec7a14c6f1f1101e359ee4f244.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "随机观察"
       ],
       "answer": "连续观察",
-      "explanation": "“连续三天”强调了观察的持续性和动态过程。"
+      "explanation": "“连续三天”强调了观察的持续性和动态过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3df119bf245eca7f76d2f75259dfad152ab9a8d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/06754eea8d6d83e2ed35df87584c9a89fd5e43aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5f134fb261de766de13826d77fa85884c965a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d26a0b047ad05db4e5aa648ae8fa4d8a065cbdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/726908d00b21c1886129f94a9bc39d4e1b907107.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d65288aad8ccb733195d7dc58fa95189c45fe498.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "五颜六色"
       ],
       "answer": "五颜六色",
-      "explanation": "五颜六色形容颜色，非动作或结构描述。"
+      "explanation": "五颜六色形容颜色，非动作或结构描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efa183847d734045fd6f0feada4dcd82f630abee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38c5e9f57313d53f721ef1cccbcf499408f4ac69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b372fac7d5852f132c75744be9a4db118879104b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f7f03cb7aaeb78f0531dffda23f1fdb7690cd05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e104d87ea84625ede2487d6eb76de2ab5d95c6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31d6fbbfbecde87e5e33bd6250d9455d9ee34afe.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "开花时间"
       ],
       "answer": "颜色与气味",
-      "explanation": "白指的是颜色，香指的是气味。"
+      "explanation": "白指的是颜色，香指的是气味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/943240a862a769c7b9e907c7a97fcda5f3a13359.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1f7ff96c35142349525b2f13d7c7ec2faedfa147.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/207f0b6a30465ea37205d0602a3c1e95ad74d6bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c007d37603f537ee11fe4f9ab960d91757527985.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25a1a8d5991895a7de11cff09d4626dd3228acda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/345a37e072df54ff4e78394b7ece314dd23bb42d.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《暮江吟》的作者是唐代大诗人（___）。",
       "options": [],
       "answer": "白居易",
-      "explanation": "考查文学常识。"
+      "explanation": "考查文学常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/444f65e7110609e6926b6257306826a9ce99a21b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/513796fef091f2ea227a1ba7afbb0a9538bd0b92.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "爬山虎的脚要是（___）墙，不几天就枯萎了。",
       "options": [],
       "answer": "没触着",
-      "explanation": "精准记忆课文描述的条件关系。"
+      "explanation": "精准记忆课文描述的条件关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59387a22544f64c2988dd426bdb867f1309227eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9223bc2a21ae39a8b9ce528fe14bbb3951ce518.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "不及"
       ],
       "answer": "A-1,B-4,C-3,D-2",
-      "explanation": "阁笔=停笔；逊=不及（差）；末巧=略微；瑟瑟=碧绿。"
+      "explanation": "阁笔=停笔；逊=不及（差）；末巧=略微；瑟瑟=碧绿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6868c28ce2f8f5ac6e56c450931552dba4cb68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0adac26a525978388ea1ee20d0fec92692b58e0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac383bb2cc59c187e649ec30f1c3bcfeef4dde37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d149ede2f9816aca1b7149e206e4bb0e1ed0ac19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967acb3a12fb48113ca30dd1bb0c153c61fd601a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32ce24c4f0b923bc3cdfd6ae7028da888d9279f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afec1becea998846a2692d324ac2a0a48b88e4ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832f2ef754ac03de9aba30ea24619c1fa568fced.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9771763dfdb026d64d64dc8fda8f02c38d5fbea1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/1562005bc152bc2b14d04cdd384c6345f07f735f.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "清理"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "考查对《蟋蟀的住宅》中蟋蟀建造动作的精细化理解。"
+      "explanation": "考查对《蟋蟀的住宅》中蟋蟀建造动作的精细化理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c3627b6ba50adc984d18563b2ee16bc56d82153.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de6600c8b6f5e28d3b798cffa2389b6a6cbcd7f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3be1fa3cce0be4c25924b0904c61df6786f3a40c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf3ca7ccda82d2100f63cf383aaaf8d0caf72352.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e259edfa34cf1c51f505c64c9ed57841e374e32e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14f378179ccd7a3599292d55f1f0a4e64cc1285f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54487f7c541efc6f8cec14a18a35aa685f62dc90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72d258949a723a295c8e33b3793116c45aa83df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/907c3945d8c5be56143a094d14b999caee4d0f4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8adc71f9600f51cc167a616fdc3ec73c4eba682e.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "发现"
       ],
       "answer": "只要,细心观察,就会有,发现",
-      "explanation": "考查条件关系的句子结构。"
+      "explanation": "考查条件关系的句子结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8c128df9b949a4196c6a55eb2003ae74ca0181f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd0b22564f1bb4104e65a97fb2d18ede3aef4c65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd463838e4c4af902e111f7e86b099c97d7c32d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7dc1bb6cef16f0db9a0c5472920f3f6deec9e73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/523e40a074ebe85d057abe949df1164df69883d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1dd8057e13603f655478c9aab76f90c0ac06e14e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "0 除以任何数都得 0。",
       "options": [],
       "answer": "错",
-      "explanation": "0 除以任何“不是 0”的数都得 0。0 不能作除数。"
+      "explanation": "0 除以任何“不是 0”的数都得 0。0 不能作除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19f8ca6354e884fa94709604cda6e484cbbc1a9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef0d3113bd9b0a03108e63289958ad1e2e4951cd.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "3"
       ],
       "answer": "1",
-      "explanation": "$60 \times 3 = 20$，商的末尾有 1 个 0。"
+      "explanation": "$60 \times 3 = 20$，商的末尾有 1 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4d1eb0b1cd0b8f98faca900429d9e3a8b430958.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdb3fff20a4065bc6696fb176b64d0f620306236.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "3"
       ],
       "answer": "1",
-      "explanation": "$8 \times 4 = 2$，$0 \times 4 = 0$，$4 \times 4 = 1$，结果是 201，中间有 1 个 0。"
+      "explanation": "$8 \times 4 = 2$，$0 \times 4 = 0$，$4 \times 4 = 1$，结果是 201，中间有 1 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/303cd4117fd8973803da0415d0faf725ff554516.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06b3dee7f47aeee34b55f2fb54c73b6e1dabe72f.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "123 \times 3"
       ],
       "answer": "450 \times 5",
-      "explanation": "$450 \times 5 = 90$。$630 \times 6 = 105$，$720 \times 4 = 180$。此处需选商整除且末尾为0的典型。"
+      "explanation": "$450 \times 5 = 90$。$630 \times 6 = 105$，$720 \times 4 = 180$。此处需选商整除且末尾为0的典型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c820604cd4d9cd2067929bf3e66baddca34e4ecf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/948777903fdd8b1df7c6b164738247c64287d8d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82ede5ac16a52aacecdcbaba90c8339dabbbb995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/589c35cc2262237ef5dc613a9a73d00ac310a189.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32ded638272f823b3c27b27716488b2116827942.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/105482348846c54d51717b74e71f0c72bf11a013.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +109,11 @@
       "question": "计算：$309 \times 3 = ?$",
       "options": [],
       "answer": "103",
-      "explanation": "$309 \times 3 = 103$。验算：$103 \times 3 = 309$ ✓。"
+      "explanation": "$309 \times 3 = 103$。验算：$103 \times 3 = 309$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7c5a228daf97d248f964b3cc847bdb3dcee15e6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a6afb62f638f29d6adf14de1f5bdb8be6e6c428.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "中间不够除时漏掉商 0",
       "末尾没除尽或刚好除尽时漏写末尾的 0"
     ],
-    "tips": "数位对齐是关键，哪一位不够商 1，就在哪一位头上点个 0。"
+    "tips": "数位对齐是关键，哪一位不够商 1，就在哪一位头上点个 0。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cd/cdcadd18f3b763e20e32aa291d0bbe23b2ae8be2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ad/ad1d22d152866780993347b1c12d6f6db4e04a14.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c5/c505f9d15c3f40e2f21e8d7992550274e4f33d4b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/58/589acd4231e5281315382a817ae472903d7d0e56.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/33/33d5b5e484c2ad4b6dc14d1f25eb8e48407509d6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ae/ae8f55ae97fdd2dc398defe9cd2922c8940e9814.mp3"
+      ]
+    }
   }
 }

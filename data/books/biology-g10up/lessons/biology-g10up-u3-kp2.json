@@ -21,7 +21,15 @@
         "光"
       ],
       "answer": "光",
-      "explanation": "暗反应不需要光。"
+      "explanation": "暗反应不需要光。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5a/5ae567c880da47c96752fc4bc5713e7b858acb83.mp3"
+        ]
+      }
     },
     {
       "id": 4,
@@ -37,7 +45,15 @@
         "都不产生"
       ],
       "answer": "第三阶段",
-      "explanation": "第三阶段产生最多。"
+      "explanation": "第三阶段产生最多。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/198805355d85d67ce43b6bc30aa1e89c8b6c61bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0aaccd4ac8a6ee14c3fedec328aed3bbb8ff9c29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/798eea3fe1434f48c06a771d6b6a01d44204d818.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 5,

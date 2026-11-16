@@ -16,7 +16,11 @@
       "question": "在除法竖式中，商和除数的积写在被除数的下面。",
       "options": [],
       "answer": "对",
-      "explanation": "除法竖式步骤：一商、二乘、三减、四比。乘出的积（商×除数）要写在被除数下面进行减法。"
+      "explanation": "除法竖式步骤：一商、二乘、三减、四比。乘出的积（商×除数）要写在被除数下面进行减法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/492468fd04ed9e264298ad45d305f1928755352d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31c20cf07d8a4121fa6c36227ff17a86a18cacb8.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "被除数"
       ],
       "answer": "余数",
-      "explanation": "竖式计算最后一步的差即为余数。被除数 - 商 × 除数 = 余数。"
+      "explanation": "竖式计算最后一步的差即为余数。被除数 - 商 × 除数 = 余数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e9182a90e77d854844140af2f9575869668e7ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce413903b80f4852f0312b8c171c599ccd6b851.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb8e7b2ac44e1c29dd238f29ec388127447e9a87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edf2d7b21ac26d6f2de340cdb3255ab51ee8cf19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d84147da8b0c2d15b31efd77e4a2f845ae0cc81.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74003ede444a45600b131eda5e46d2d6bc5db9e5.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "任意位置"
       ],
       "answer": "个位",
-      "explanation": "26里面有5个5，商是5。在除法竖式中，商5应写在被除数6的上面，即个位。"
+      "explanation": "26里面有5个5，商是5。在除法竖式中，商5应写在被除数6的上面，即个位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c03421aee3ddd508a6311a7d0fae995c2260975.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e7751d1c9cbbb798632f85f175bd74c555107a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7e9838e2cdee571d816cbf3c6f3cf16e8a95e44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f422c17cbdb35714cfa51665d0067a73e8a0fd8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2ed46fe63c2e709143379ab88a0e90c8deed8f0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "商的位置写错，没有对齐个位",
       "被除数减去积时计算错误"
     ],
-    "tips": "口诀：一商二乘三减四比，数位一定要对齐。"
+    "tips": "口诀：一商二乘三减四比，数位一定要对齐。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/62/6248b995330edaeb6e0b1982f28740e96823907b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0d/0db7506f596818f1d3c1b565f3fabeb35b575b67.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/334598272fc71244d47f6e9dc05494f5d7783784.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4b/4ba466c70277d7a70e1f843a1582d269b4d23192.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/58/5861f90890abea6d6ba5fa7155e2e8055128f31d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0e/0eae6be0b30e7f4ed5cf1b87750cc1394f4f04b5.mp3"
+      ]
+    }
   }
 }

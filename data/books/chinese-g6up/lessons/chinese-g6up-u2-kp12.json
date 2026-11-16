@@ -21,7 +21,17 @@
         "班长说：“快跟上”。"
       ],
       "answer": "班长说：“快跟上。”",
-      "explanation": "A项格式规范；B项“说”后应为逗号；C项双引号内标点正确但语境单一时少见；D项句号应在引号内。"
+      "explanation": "A项格式规范；B项“说”后应为逗号；C项双引号内标点正确但语境单一时少见；D项句号应在引号内。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6c836f85f0e3b3854631ef34275201de65d2307.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf58b9715c8a5cc61e65f58383011a1eadeb0925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00b0706ff6a57f750b9c0c098513aab73b07a550.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b67d40534deea297ad5531a3564fd1be92f972d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78efa6326899e824c4dadb8912fd8556948d2eaa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90cba203377434a5b39f71d3cb242a9ce54bf682.mp3"
+      }
     }
   ],
   "knowledge": null

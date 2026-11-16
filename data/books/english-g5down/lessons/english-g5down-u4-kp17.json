@@ -21,7 +21,17 @@
         "two"
       ],
       "answer": "third",
-      "explanation": "周日是第一天，周一是第二天，周二（明天）是第三天third。"
+      "explanation": "周日是第一天，周一是第二天，周二（明天）是第三天third。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85896372e67f38baa3f34c58aeed165d19de072c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/352f7829a2384b001cc12b0c2613c756454a1f6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b802f384302cb24fbab0a44997e820bf2e8507bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34fb3300b9a77bebdc988ec3edd0d4a6a42a26f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0a7d8ab24292528cba6bf574edfcf46e55a9e7e.mp3"
+      }
     }
   ],
   "knowledge": null

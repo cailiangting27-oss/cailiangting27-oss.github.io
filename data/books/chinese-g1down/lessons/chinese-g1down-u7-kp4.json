@@ -21,7 +21,17 @@
         "空着手"
       ],
       "answer": "空着手",
-      "explanation": "小猴子见异思迁，最后去追兔子，什么都没得到。"
+      "explanation": "小猴子见异思迁，最后去追兔子，什么都没得到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be763d3c4100624ad82badb2ce7ff3b0843e66ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8531dc2f3fb0510d992ab5a4be4898cda5322d17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/591461e76b003067149b3bbc9d1fa9a8ebf9172c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a589fa617df5e3337e051f98e1c650849af2372.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5eaa030c5ddab7ad80e2532f87b7b62aef8d23e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39a444a73bb677fffbb401ff4157832c74abcb2d.mp3"
+      }
     },
     {
       "id": 22,
@@ -38,7 +48,18 @@
         "兔子"
       ],
       "answer": "小猴子,去,追,一只,兔子",
-      "explanation": "按照主谓宾顺序排列，小猴子是主体。"
+      "explanation": "按照主谓宾顺序排列，小猴子是主体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6afc40a0a0a8ba61bd3f1aa1cccc02c1f39a1d16.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6f1c909440f8b5b256777f47bff8275e04cf8a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/412bb3fe1538f879ccd6fe2663de2dba93042323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daaa92bcf8a1eca9f8fe4c1e086fe78821b0ae0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0270cd898d2ed19c51fed6770485eefdfa1b56b9.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "每个人的一“拃”长度都是完全一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "每个人的手部大小不同，因此一“拃”的长度存在个体差异。"
+      "explanation": "每个人的手部大小不同，因此一“拃”的长度存在个体差异。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/336087fb08b88721081d40dbdfd332cf629775f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6a8bc3ba6953a04bab26c5c86efe8fd2e05df2d.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "大拇指和食指"
       ],
       "answer": "拇指和中指",
-      "explanation": "规范的一“拃”是指张开的大拇指到中指的距离。"
+      "explanation": "规范的一“拃”是指张开的大拇指到中指的距离。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6095c8dbe7eca50055bcc9d67cbbd90204ea190.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a95e4a644a5b03e146f4bfce094b659bec1281fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2459a6f249b9416054c0c33b1a62319ddc61b36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae671ecd58bb7304e7ae1b27b2b44522ae893917.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f777454f390fe3edeed220034d88846bd0463ff9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dba91c7871e828b411f69fce820a89b67c39e703.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "讲台变高了"
       ],
       "answer": "老师的手比学生的手大",
-      "explanation": "物体长度固定，单位越长，测得数量越少。老师手大，拃长，所以数值小。"
+      "explanation": "物体长度固定，单位越长，测得数量越少。老师手大，拃长，所以数值小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6ab8eb9ee0d93afbc982ae85d9345139c1084382.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3a09bdf1f1fe3c2dd89da0d7fc46aea318001bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4f788cf4c4cf22e8201ab8868e7435521c5efbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cb2f3e1ebccea4672e67cac17ebf3affab34156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a5bb8ba61bbca7908d4c1d2d065d90027856817.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d3cad11a0c574bb7745d7180eb566975fd5c25f.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "眼睛"
       ],
       "answer": "步",
-      "explanation": "古人常以步测量地块大小，属于原始的身体测量工具。"
+      "explanation": "古人常以步测量地块大小，属于原始的身体测量工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a89731c3774c2cfd104758655d063a5b917d4c06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/5274e916ac90f075e854307293a94003bd219ac2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05b6b4a475f5850bad889136935d1959b5d119eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb3ce4ecbb277acc5888da34683e5847047ae0f0.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "小明用手测量书本的长度，如果第一拃从书头开始，到书尾正好测完了3次，这本书的长度就是（___）拃。",
       "options": [],
       "answer": "3",
-      "explanation": "测量次数即反映了物体的长度单位数值。"
+      "explanation": "测量次数即反映了物体的长度单位数值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af4b0734e537f36d08ee1f4ab9c81a1cb1d7ae8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30fdfc0e9c49937a6d351bd0bc8f230ce555aa41.mp3"
+      }
     }
   ],
   "knowledge": null

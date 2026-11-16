@@ -16,7 +16,11 @@
       "question": "“小草从地下探出头来”是通过视觉和想象观察到的春天的变化。",
       "options": [],
       "answer": "对",
-      "explanation": "通过视觉看到草生长，通过想象赋予它“探头”的动作。"
+      "explanation": "通过视觉看到草生长，通过想象赋予它“探头”的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a61c4cbe0f8b2de636d283f415cd29f6f0a78dcc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/248e095d45dd5e0b6e33a93ad4c6f0ce71a53ab9.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "春天非常热闹"
       ],
       "answer": "春天刚刚到来，不易察觉",
-      "explanation": "遮遮掩掩、躲躲藏藏体现了早春景象细微、需仔细寻找的特点。"
+      "explanation": "遮遮掩掩、躲躲藏藏体现了早春景象细微、需仔细寻找的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c82717323aa017762d95429e342796af4094aacf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe23853e123054344b2494e3621a54527e5c35c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc453cf871fa11a0e0b9fd24c80b065c7b1d6839.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d6428ad56b8e33f246af6bc2c8f489c75b4e7e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f525d9eff30f929199100944e8938dd7fe2042a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da4f635bbc33ea1cd35a958072fae53f5f786cbf.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "翠绿, 难闻"
       ],
       "answer": "嫩绿, 袭人",
-      "explanation": "形容早春草色用嫩绿，形容香气扑鼻用袭人最为贴切。"
+      "explanation": "形容早春草色用嫩绿，形容香气扑鼻用袭人最为贴切。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ed0c5457ce4c34395a5077b84ee39ac31daa85e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/47c1a91de783f29e99539b71f16fa77a181d336d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2699260cf3b443b467518ed2d0c20ff68244a812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/128050cd07c8ae8e5d5e62ca64bf471844767638.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6549d4d80c07446f833b7ea981d9d661a20e22e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a0486837deee0150eb257212fa9985b17ad38bc.mp3"
+      }
     },
     {
       "id": 19,
@@ -68,7 +92,21 @@
         "桃花"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "嫩绿的柳条，粉红的桃花，金灿灿的油菜花，雪白的梨花。"
+      "explanation": "嫩绿的柳条，粉红的桃花，金灿灿的油菜花，雪白的梨花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e5bb2ed97a6317fc848b4fab29e1350e06841ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/649175bf2a0adb7cafda0eea2fb329cda03bf845.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78a1782900373849576fbf50dcc7aa0ca95c2360.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f4272245e55f44c1913b1480334594744d47174.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d828c1ffb2e03be3b7ebcecc02478707f67742d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71d8e82c4eb8975d1c1c6bba21b088980b4fdb49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d7cd8909b93d404e6171ae9e876047b6e64d77d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f1e9745adef8eff4fd95faa2a948f1d8a8393f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0d3fc48506f99232d2edf0851abedaa5ad9912f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/189a98e32dd105bbfd01421e96b73c817a33f5dd.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,19 @@
         "春天"
       ],
       "answer": "孩子们,在,郊外,快乐地,寻找,春天",
-      "explanation": "主语后接地点，再接修饰语和动词宾语。"
+      "explanation": "主语后接地点，再接修饰语和动词宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73511d76e6803c124c55a9897d1025f321c2b9ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/9893f15e9cf32dd23290fabb3c483fa38344c9a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/768df1b2712ea96c4598a9f9dbd098d56d4a2d50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60ceac67af19576e146e42bd82b79b6919ef8afa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8e22ad82c9311913896bc25eb044b79ee2fb4b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82ca344c7a9eec1b4148c20d4835a54dbfe808d1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +147,16 @@
       "观察过于单一，只描写看到的颜色，忽略了声音和气味。",
       "形容词使用重复乏味，如只会说“很好看”。"
     ],
-    "tips": "仿写练习时，试着先说出你观察到的一个细节，再给它配上一个合适的动词。"
+    "tips": "仿写练习时，试着先说出你观察到的一个细节，再给它配上一个合适的动词。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b5/b50a6213aef26041dc60780ca32fdf3cc9ea6c23.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ba/ba74c3ba8e5599365ca968f08ca65687bc7e121b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fd/fd0c38f9adf22ef01f5b40d461a4b22a0785a668.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/abf4e354850d73a2e7f28acc8cda88c2cb3e7d67.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/93/934386e504d0c2a548c3f8052f94c5618bbc7fe9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c9/c966e9ca05d483073b9b6836bec5ac83e0c025a0.mp3"
+      ]
+    }
   }
 }

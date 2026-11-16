@@ -21,7 +21,17 @@
         "丘陵"
       ],
       "answer": "高原",
-      "explanation": "海拔较高、地面起伏较小且边缘陡峭的地形称为高原。"
+      "explanation": "海拔较高、地面起伏较小且边缘陡峭的地形称为高原。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/617d0629444696a3ba7807f3d37e0edf6944ddfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/44171796d9eed65eec616739cef54a3bef5d8445.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f785eb75581f50334271c7e2bfabcb300a00c4f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bb7d65bcfef1716504858bd97c97a7e1b543a30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47087ed9ad61257dbcfb576bcbd22b58d0c407c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98ec8c7e1a0a466119b6c2f94a576e3ab524af8a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "搬家 倒退"
       ],
       "answer": "搬家 倒退",
-      "explanation": "功夫应为工夫（时间），终子应为终点。"
+      "explanation": "功夫应为工夫（时间），终子应为终点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62c58d980fd6568a0974aa2e97b178240e34ee77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e239218370005fd117e92212f84b62e3b6ae2ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac1ac1d3fda25b6cf7c6d453e59ec21ae7b42f0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5733cc53435cbb96d8a04c91be2d237357f31b8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b8d6ddfe13c6b2ea6754e37fd25495e83aaa545.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85fc20bf198eb28485611cdc27bab443f570b3ea.mp3"
+      }
     }
   ],
   "knowledge": null

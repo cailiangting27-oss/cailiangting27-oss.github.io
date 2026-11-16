@@ -16,7 +16,11 @@
       "question": "人类第一位进入太空的人通过观察发现地球是圆的。",
       "options": [],
       "answer": "对",
-      "explanation": "加加林在太空中看到地球是一个蓝色的星球。"
+      "explanation": "加加林在太空中看到地球是一个蓝色的星球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af82b7cf7278da4bfd4335053e29c5523a576267.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19c78da379e1c09b9c922b7cd4d34178b403bb0b.mp3"
+      }
     }
   ],
   "knowledge": null

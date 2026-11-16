@@ -16,7 +16,11 @@
       "question": "“创造性复述”就是要把故事背下来，不能改动一个字。",
       "options": [],
       "answer": "错",
-      "explanation": "创造性复述可以变换人称、添加细节或大胆想象。"
+      "explanation": "创造性复述可以变换人称、添加细节或大胆想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/7869b50cfb9d82cf8537e1b37f84abaf6a49bfd6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af590c05bd3d2e9582aa80a0ebadc5701dcf0ce6.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "详细描写小白蛇报恩时的场景"
       ],
       "answer": "省略掉海力布变成石头的情节",
-      "explanation": "关键情节不能随意省略，否则故事不完整。"
+      "explanation": "关键情节不能随意省略，否则故事不完整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4502699ca4829733900e0e24554fb2a1a7c86f34.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/3590058b20cb16741d8493545c5ec4153d48e120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f14ef75474059b279d0be4ce8991af6f3112ffda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/782a5d8c49ce41b0c122478cd2ac7c10d56d5df2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/212858d01db4ddbab52fa6be6735a733f46d8fa1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/543da8be16853bce586ae40112da2a2efd86ce42.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "在复述《牛郎织女》时，我们要通过（________）来让人物形象变得更丰满。",
       "options": [],
       "answer": "添加细节",
-      "explanation": "通过动作、语言、心理描写增加细节使复述生动。"
+      "explanation": "通过动作、语言、心理描写增加细节使复述生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba97d759cd3047e7cbfb8f9d8433cc3359047b8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cf4e115ed0cb7f18cf4bbafcf57c29bc6d9dcfe.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "复述时改变了故事的原意或漏掉关键的核心逻辑",
       "想象过度，脱离了民间故事原有的风格背景"
     ],
-    "tips": "想象一下如果自己是当事人，当时会说出什么样的话、做出什么样的动作，从而自然地增加细节。"
+    "tips": "想象一下如果自己是当事人，当时会说出什么样的话、做出什么样的动作，从而自然地增加细节。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/27/278547ee2c9aff73067804e66e5a432393e66b80.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/22/22ff9128edd39985a5b0aa83b5b4fc5ef3c6f2ee.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5a/5acb34112d90b26f6ed72c0f86ff01e736d45573.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9d/9d4a39eb2e18de2e6e93c120cd0cb8c687cb6c3b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9cb494a6790d5c2b94dca9f6d5a22bcb92b90b73.mp3",
+        "https://api.clthuanxie.cn/cc-audio/08/088483b62e533e89d4f6ac3386ebe3adfe0422bb.mp3"
+      ]
+    }
   }
 }

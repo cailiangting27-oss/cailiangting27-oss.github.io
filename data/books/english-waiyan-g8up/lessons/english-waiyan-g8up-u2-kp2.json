@@ -21,7 +21,15 @@
         "Never mind."
       ],
       "answer": "What can I do for you?",
-      "explanation": "服务行业常用语。"
+      "explanation": "服务行业常用语。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/25/25b02b6f1b5d3c256b8d360b0d0aaa7c14814e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8721eb15a0553a967967f92b05b35ef2bfcdccc3.mp3"
+        ]
+      }
     },
     {
       "id": 4,

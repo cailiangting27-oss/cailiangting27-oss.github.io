@@ -16,7 +16,11 @@
       "question": "实验发现，相同距离下，挂3个垫圈小车用了10秒，挂6个垫圈小车用了（___）秒。",
       "options": [],
       "answer": "5",
-      "explanation": "在一定范围内，拉力越大，速度越快，时间越短。此处取逻辑上的减半简化。"
+      "explanation": "在一定范围内，拉力越大，速度越快，时间越短。此处取逻辑上的减半简化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/2006f12f9da12ec23293e6f22c1cf50b1010d6d7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11a7619073be82972da8fcd4b5f9daf13b6a27c6.mp3"
+      }
     }
   ],
   "knowledge": null

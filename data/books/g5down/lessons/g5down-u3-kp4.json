@@ -21,7 +21,17 @@
         "576"
       ],
       "answer": "8",
-      "explanation": "正方体有12条棱，棱长为 $24 \\div 12 = 2$ 厘米。体积 $V = 2 \\times 2 \\times 2 = 8$。"
+      "explanation": "正方体有12条棱，棱长为 $24 \\div 12 = 2$ 厘米。体积 $V = 2 \\times 2 \\times 2 = 8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47d44f1641c07bd2bfe75cc7015707ee6fe31f6f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fb914ab018d3fbf1e69f5bcd0caa0559f47fe0c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e839e115451e3ccc1f481b2b0486f14cd79143f5.mp3"
+      }
     },
     {
       "id": 11,
@@ -37,7 +47,17 @@
         "50"
       ],
       "answer": "100",
-      "explanation": "$V = Sh = 20 \\times 5 = 100$。"
+      "explanation": "$V = Sh = 20 \\times 5 = 100$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c36db023d0b8ed403cd483bc60e2378fabdb4c01.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32c88983382047c65b8369c002b4c31f2ad1612a.mp3"
+      }
     },
     {
       "id": 16,
@@ -53,7 +73,17 @@
         "8倍"
       ],
       "answer": "8倍",
-      "explanation": "体积公式为 $a^{3}$，若 $a$ 变为 $2a$，体积变为 $(2a)^{3} = 8a^{3}$。"
+      "explanation": "体积公式为 $a^{3}$，若 $a$ 变为 $2a$，体积变为 $(2a)^{3} = 8a^{3}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38e06cb3bb6055ead22ffd67d25fc5fba6a1d6ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56c28de6c99b0ada0c07ce51cab182d2d45db11b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/896f9141d582cd80689d94fe10f5a6f6d345edef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dec94a6d09c603a7f1c9570d0c44f6476808bcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/325481e1fb12b0e9dd508df831103a58dc5ecdc5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bce7a34177f074afc52c1a13476d784a490a8720.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "一个长方体容器，底面积是 100 平方厘米，里面盛有 5 厘米深的水。放入一个物体后（完全浸没且水未溢出），水深变成 8 厘米，物体的体积是 ___ 立方厘米。",
       "options": [],
       "answer": "300",
-      "explanation": "上升高度为 $8 - 5 = 3$ 厘米。体积 $V = Sh = 100 \\times 3 = 300$。验算：$300 \\div 100 = 3$，$5 + 3 = 8$ ✓。"
+      "explanation": "上升高度为 $8 - 5 = 3$ 厘米。体积 $V = Sh = 100 \\times 3 = 300$。验算：$300 \\div 100 = 3$，$5 + 3 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/044e9e0ccad231894f5bdf09c37ca930308d76ad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6023dc909f67e2ed1c63116049ea004eaf579f10.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "$12 \\times 5 \\times 8 = ?$",
       "options": [],
       "answer": "480",
-      "explanation": "$12 \\times 5 = 60$，$60 \\times 8 = 480$。验算：$480 \\div 8 \\div 5 = 60 \\div 5 = 12$ ✓。"
+      "explanation": "$12 \\times 5 = 60$，$60 \\times 8 = 480$。验算：$480 \\div 8 \\div 5 = 60 \\div 5 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab817e829b416e6cd75c8c0a1c48b8bc5680ddce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/7229d9534502a18091087b508fb31421220a6d6b.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "$15 \\times 15 \\times 15 = ?$",
       "options": [],
       "answer": "3375",
-      "explanation": "$15 \\times 15 = 225$，$225 \\times 15 = 3375$。验算：$3375 \\div 15 = 225$ ✓。"
+      "explanation": "$15 \\times 15 = 225$，$225 \\times 15 = 3375$。验算：$3375 \\div 15 = 225$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4964c7a74782f521b971eea27a6c7ca6cb6e6d9f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/7413c594f60f9cab5d4858dc6cca580e2bf2ee9d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "计算正方体体积时用棱长乘以3（应是三个棱长相乘）",
       "公式应用时单位不统一就直接相乘"
     ],
-    "tips": "看到底面积和高，直接相乘就是体积！一定要统一单位再计算。"
+    "tips": "看到底面积和高，直接相乘就是体积！一定要统一单位再计算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/38/384aa55c9e6462c85b75c18cbe52e971e3266001.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c6/c68375da083f48527475751558a577b605d2bcf4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/da87d8005d1e6e39b72d380285ebeca97a7181b7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/83/83a8fdea316872e8e1cc1d58f31829f96156e968.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9d/9d2b9b5f92877e41aad3bd0a050998742981f70c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6c/6cd149b5a014eeddd9229129c1d6efda901acc74.mp3"
+      ]
+    }
   }
 }

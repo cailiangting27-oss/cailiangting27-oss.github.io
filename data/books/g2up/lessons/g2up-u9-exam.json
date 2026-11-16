@@ -16,7 +16,11 @@
       "question": "两个两位数相加，和一定是三位数。",
       "options": [],
       "answer": "错",
-      "explanation": "例如：$10 + 10 = 20$，和仍然是两位数。"
+      "explanation": "例如：$10 + 10 = 20$，和仍然是两位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71c7f5437b0bd77631b8cf4808eb67671ebb2559.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfef060abe044af5b47e300665773e7f1dea35dd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "所有的直角都一样大。",
       "options": [],
       "answer": "对",
-      "explanation": "无论角的边多长，直角的度数都是固定的90度。"
+      "explanation": "无论角的边多长，直角的度数都是固定的90度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7af33ff42cff9731cad8f3aeda79f073a8a175a9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa87801f4e25e5e8d18a0ff2a4478b5a4f1a0704.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$88 - (30 + 10)$ 的结果等于 48。",
       "options": [],
       "answer": "对",
-      "explanation": "$30+10=40$， $88-40=48$。计算正确。"
+      "explanation": "$30+10=40$， $88-40=48$。计算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a50086949961f19462dadcefebfcf73c993cde0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8662e180208344ec807b47cdb2c4f13f84e460a.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "每两个人握一次手，三个人一共要握6次手。",
       "options": [],
       "answer": "错",
-      "explanation": "三个人分别是A、B、C。握手情况是：A-B, A-C, B-C。共3次。"
+      "explanation": "三个人分别是A、B、C。握手情况是：A-B, A-C, B-C。共3次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a366eea8289a912598ec677169e003dfb9ebc4cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd248f51480f01687916e36c1b70babdb9c2022e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "71 - 22"
       ],
       "answer": "28 + 25",
-      "explanation": "16+24=40; 80-32=48; 28+25=53; 71-22=49。只有53>50。"
+      "explanation": "16+24=40; 80-32=48; 28+25=53; 71-22=49。只有53>50。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b410a5357932cf6c67de6afdc6a1fb717f5290f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/642c557e82cf3e39a7a3388a91875b3e2cf1be71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82424a3d5d16976d9cd675b95713142a3fad7090.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb5c399d927ba8c21870f0728004a52d366ebb36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a0f6e37f60d6af246499fd7f754abeea286ec81.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b05878be0fd283b0acd098e6f40ddfe2cb804aa3.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "5 + 6 = 11"
       ],
       "answer": "5 × 6 = 30",
-      "explanation": "口诀“五六三十”对应因数为5和6，积为30的乘法算式。"
+      "explanation": "口诀“五六三十”对应因数为5和6，积为30的乘法算式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f670df8ef240b6c3d85dc9a6b6d2aa83b25f18b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bcfa04c6ba959b65bdb322b54e3994fef277a7c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcb2872c080b6990cc6018081043a9adb60781fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1a642cc17114bc08f5b85b49217d01d7f0d0325.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0f7fe31081a3431c1f81aee3cdbd7b1509c86a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64a492581ec67c4482f5d4a46fdbd401d9d4f40f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "32"
       ],
       "answer": "28",
-      "explanation": "$4 \\times 7 = 28$（条）。口诀：四七二十八。"
+      "explanation": "$4 \\times 7 = 28$（条）。口诀：四七二十八。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f571facc0984de9953e0d476a40757f13dcf712b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca3d4a145477b5869250e1106062ec36819cddbd.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "30"
       ],
       "answer": "33",
-      "explanation": "问题求两天“一共卖了”多少，用加法：$18 + 15 = 33$（辆）。"
+      "explanation": "问题求两天“一共卖了”多少，用加法：$18 + 15 = 33$（辆）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19143d83be32167e4f5efd251006a5c926a6a4a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6692ea5df920cad691c20319a6fffd7a4a766b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64d3b2d0788e30f1cc07a9dc345eb6a1e5fc03ad.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "4 × 4 - 2"
       ],
       "answer": "3 × 4 + 2",
-      "explanation": "4个3相加是 $3 \\times 4$，再加上最后的2，结果是 $3 \\times 4 + 2 = 14$。"
+      "explanation": "4个3相加是 $3 \\times 4$，再加上最后的2，结果是 $3 \\times 4 + 2 = 14$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ece94b2f98ec2fd37b5d361be79bd85c71f182c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/19acc8658d9ecc30443792ced9cdd63d800bb174.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9da7aeb4fc26ff0bab9d1296f2851f6fe5c031b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/452d86280e80e9f9da643fe9bd70cbf88b539e5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2a89a4688b1e8dab4a75cd0b4d1c3f781ff37a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95b6b972e3d4efefb02f47866252bcae852bc43c.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "无法判断"
       ],
       "answer": "不变",
-      "explanation": "角的度数只与两条边张开的大小有关，放大镜只是放大了边和图像，不改变张开的角度。"
+      "explanation": "角的度数只与两条边张开的大小有关，放大镜只是放大了边和图像，不改变张开的角度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59e126bfb596ef951eeee81031c0c7d03c3b7cb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/041c2f56c11ff97ee9bafdebc881a30726c0d868.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "8"
       ],
       "answer": "8",
-      "explanation": "7个8比6个8多1个8，也就是多8。"
+      "explanation": "7个8比6个8多1个8，也就是多8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cdf1a11d81944bd7d1f0ff964f2f61d6c9a80fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0e48e9b9b90f241a0b8b1f8ebd53a2f50036486.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "6个"
       ],
       "answer": "6个",
-      "explanation": "可以组成的两位数有：12, 13, 21, 23, 31, 32。共6个。"
+      "explanation": "可以组成的两位数有：12, 13, 21, 23, 31, 32。共6个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b574631a692f7765605e06a0dd2e675e5201078.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f6e151d6d1d2407265bba48bd7494a353f7b357.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小华有一本故事书，每天看6页，看了8天，还剩15页。这本书一共 ___ 页。",
       "options": [],
       "answer": "63",
-      "explanation": "1.已看页数：$6 \\times 8 = 48$（页）；2.总页数：$48 + 15 = 63$（页）。验算：$63 - 15 = 48$，$48 \\div 8 = 6$ ✓。"
+      "explanation": "1.已看页数：$6 \\times 8 = 48$（页）；2.总页数：$48 + 15 = 63$（页）。验算：$63 - 15 = 48$，$48 \\div 8 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a1ec43818b59e0e602183d2cc682ffd4cebe59d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c94919a0e92ed1999feba2955442bd59e38b792c.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "三个同学跳绳，小红跳了35下，小东跳了28下，小刚跳了32下。他们一共跳了 ___ 下。",
       "options": [],
       "answer": "95",
-      "explanation": "列式：$35 + 28 + 32$。$28 + 32 = 60$，$35 + 60 = 95$。验算：$95 - 32 - 28 = 35$ ✓。"
+      "explanation": "列式：$35 + 28 + 32$。$28 + 32 = 60$，$35 + 60 = 95$。验算：$95 - 32 - 28 = 35$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b275e2b839def08db8092a21d2654b51eb495f7f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50e394075ee8c00e6dba41572110e9e43cc9a5c1.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$90 - 43 = ?$",
       "options": [],
       "answer": "47",
-      "explanation": "$90 - 43 = 47$。个位：$0-3$不够，退一当十，$10-3=7$；十位：$8-4=4$。验算：$47 + 43 = 90$ ✓。"
+      "explanation": "$90 - 43 = 47$。个位：$0-3$不够，退一当十，$10-3=7$；十位：$8-4=4$。验算：$47 + 43 = 90$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/334108fb5167921d6d1630e387adfe13ab7a0795.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0e25a2ba2d591adfa486cac6557dfe4fb164883.mp3"
+      }
     }
   ],
   "knowledge": null

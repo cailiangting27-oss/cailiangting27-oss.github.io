@@ -21,7 +21,15 @@
         "高温区"
       ],
       "answer": "大渔场",
-      "explanation": "交汇处易形成渔场。"
+      "explanation": "交汇处易形成渔场。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a5e5ffb7afb7833121ddb1e7e8fad8ce85b857a6.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,
@@ -48,7 +56,15 @@
         "降水"
       ],
       "answer": "地表径流",
-      "explanation": "人类可修水库等影响径流。"
+      "explanation": "人类可修水库等影响径流。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/89/89fd5c6cdf163e5758ba9ac1d5fcf51e08427da9.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/35/359d8d520c565ffaaa025eaf55f2dc7134fdb63b.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

@@ -16,7 +16,11 @@
       "question": "黑板的长大约是4厘米。",
       "options": [],
       "answer": "错",
-      "explanation": "黑板属于大型教学工具，单位应该是米，大约4米。4厘米仅有一根手指左右的长度。"
+      "explanation": "黑板属于大型教学工具，单位应该是米，大约4米。4厘米仅有一根手指左右的长度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05be91c7158f3cf2682d228c6b77aa3416ef00a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/434d3a4a657e49549aea6074518bd3f589b996b9.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "一个角有两个顶点和一条边。",
       "options": [],
       "answer": "错",
-      "explanation": "角是由一个顶点和两条射线组成的图形。应该是“一个顶点和两条边”。"
+      "explanation": "角是由一个顶点和两条射线组成的图形。应该是“一个顶点和两条边”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0195d055195ea54e3a482f248797bafe9e39267b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/1891b743f11680b7d91b95d139b9eb97fcf5c36c.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "角"
       ],
       "answer": "厘米",
-      "explanation": "二年级学生一步约40-50厘米。米太长，元和角是人民币单位。"
+      "explanation": "二年级学生一步约40-50厘米。米太长，元和角是人民币单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a1d533c55218180cfc2d9ee37a651e2691af544.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/622f3c5acb0e3c96620f795bdd08896e2a5d9490.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/198631ac546ec303ed17885540ba9041d45a3136.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96f2ce140fd30f06af321c514c9ad917730f5e2e.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "平角"
       ],
       "answer": "直角",
-      "explanation": "9时整，分针指向12，时针指向9，两者相互垂直形成直角。"
+      "explanation": "9时整，分针指向12，时针指向9，两者相互垂直形成直角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6f00c0cadcc8316374b9b77bbaa0cb2794c0894.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec758163cad80e6761543bbde67752ce7603130b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3a60889e0db7a03e0113fd96595a7c25e0ab729.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "60分钟"
       ],
       "answer": "30分钟",
-      "explanation": "分针走一个大格是5分钟，从12到6走了6个大格，$6 \\times 5 = 30$（分钟）。"
+      "explanation": "分针走一个大格是5分钟，从12到6走了6个大格，$6 \\times 5 = 30$（分钟）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/860975157165c766159f8a35521aa2001307031f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/72/7297c638fbbaceafb9dd557ff9bee067944ec761.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb27ef06b91a02f3f2ef71575dd242f46efa270b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e72455c7ea20ff40051eb0465e0cad39c61ece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98f69813c945a3a853b470fac3e11e67db44b9d6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa432b238763a4426348866352bfbd0d631e1912.mp3"
+      }
     },
     {
       "id": 17,
@@ -91,7 +129,17 @@
         "无法比较"
       ],
       "answer": "一样长",
-      "explanation": "长度单位换算：1米 = 100厘米。两者数值相等，长度相同。"
+      "explanation": "长度单位换算：1米 = 100厘米。两者数值相等，长度相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2f4619e046b6de9965e74a8b9fba60a1348f1ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5545b473566a1ad740bcee3be377aa618b39f38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e3d246a8a7fc45c4847f9655204d1242f751849.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/2431dc708ea5eb72fed78e12fe8d4698757fb646.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "3米 = ___ 厘米。",
       "options": [],
       "answer": "300",
-      "explanation": "因为1米=100厘米，3米就是3个100厘米，即300厘米。验算：$300 \\div 100 = 3$ ✓。"
+      "explanation": "因为1米=100厘米，3米就是3个100厘米，即300厘米。验算：$300 \\div 100 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e3678dfdbad03d8de82400feab8b2fa7d971c29.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02ca62a0a3caaebfe338152b0df1fee3db3938d9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "长度单位选错，如将教学楼高度写成15厘米。",
       "读取时刻时，当时针接近下一个数字（如8:55）时，误读为9:55。"
     ],
-    "tips": "感知单位时可以用身体做参考（如食指宽1厘米，张开双臂约1米）；读钟面时，先看时针走过几，再数分针多少格。"
+    "tips": "感知单位时可以用身体做参考（如食指宽1厘米，张开双臂约1米）；读钟面时，先看时针走过几，再数分针多少格。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/bc/bcb87e8a33e8b2874c2a7f15203b3e62b4ac5ff3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/04/04d4d72a6450d892308dbe1546fe63a3e9ad148b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d727bc045a7cfef6ed2dfc95ad68c657e0683c9d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/db/db5863e575de6d0e65f70f831399675db36ca172.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d6/d689e6495ff0a41cf151417c4cd524719089c4ca.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4a/4a509f452f84056761618ac554c4535b4d95b9cd.mp3"
+      ]
+    }
   }
 }

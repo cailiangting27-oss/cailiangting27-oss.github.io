@@ -16,7 +16,11 @@
       "question": "昨天的后一天就是今天。",
       "options": [],
       "answer": "对",
-      "explanation": "时间顺序是：昨天、今天、明天。"
+      "explanation": "时间顺序是：昨天、今天、明天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/387c8848e21ef9882cf925f6a353d6df64cb233d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e75296988383308c26c334c4ddba90554086878.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "五"
       ],
       "answer": "一",
-      "explanation": "昨天是今天的前一天。"
+      "explanation": "昨天是今天的前一天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7aaf28b16878840bb6025314cb54959f1a776ecd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d274eee8a175062ac04a45821689db93da5ccfae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49ddb069d5b8358521ebc0dc49d8a6b22de8b231.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f88740b348014a4eef0d2132f6cc2fced6f5b3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f07f53d63e166c78821aba2e482990e6674bb17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/5438702b73959dfc6094a4f9aa63527996df7f70.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "以前的一天"
       ],
       "answer": "还没到的一天",
-      "explanation": "明天代表将要到来的那一天。"
+      "explanation": "明天代表将要到来的那一天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/315b65bfa077672069d6c7bd6c3e7f3493be79a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1b44c70868d3394ca82c31432c9215aeca3c085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce9e366abf92318e16b6fba23e4c10913e538b7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9e6c801c946d31f21008991532daeab37822d5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7b3076256753500c9ae9a161c42231fe0419b5e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec4afd6d75173f61e68accab3a6a7531a6be1e6a.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "时间顺序：昨天、（）、明天。",
       "options": [],
       "answer": "今天",
-      "explanation": "昨天、今天、明天构成了连续的时间链。"
+      "explanation": "昨天、今天、明天构成了连续的时间链。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/280e900f9eb28113092f28ce3899dee19c6984fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89f97d8e3d0aee12bf3c35c5ba4ff406e63dd581.mp3"
+      }
     },
     {
       "id": 23,
@@ -76,7 +104,18 @@
         "一起"
       ],
       "answer": "我们,明天,一起,去,学校",
-      "explanation": "时间词通常放在主语之后，表示将要进行的动作。"
+      "explanation": "时间词通常放在主语之后，表示将要进行的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b76ce230d32c11cf7af79a7fb6ac7a1f71c8f7a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08610a85a1b50b73fc799df32d0c8dd386dd586b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a85181e8e3c82af9ae1ff9a5253d12b85bde21e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d31b077aa1c0ce0f0d3a2cee2be264785d863df.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -87,6 +126,16 @@
       "分不清“昨天”和“明天”谁在前谁在后。",
       "无法在具体语境（如：明天是星期三，今天就是星期二）中进行推导。"
     ],
-    "tips": "通过观察日历或绘制“时间轴”小图，标出今天的位置，向左跳是过去，向右跳是未来。"
+    "tips": "通过观察日历或绘制“时间轴”小图，标出今天的位置，向左跳是过去，向右跳是未来。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/31/3153fe2e3e65aeff3e524fbd30a8889ed179694f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a3/a35d9c37f66f68fbe7201de0c1a5a046346478c5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0c1b17b19c982c1c2c347c286ad9191c538049f8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d8/d804b585c8f9fbbde535da28e2bb9c973e899be1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/20/2003862660aa5ef2de53ee2ecd96c8c7f12db1f5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/32/32b68825d5d1672e1c4b82e6263bb36c93f40201.mp3"
+      ]
+    }
   }
 }

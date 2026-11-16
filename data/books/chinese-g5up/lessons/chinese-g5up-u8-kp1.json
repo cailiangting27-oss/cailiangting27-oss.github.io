@@ -16,7 +16,11 @@
       "question": "《古人谈读书》一课中，朱熹认为读书最重要的是‘眼到’，其他都不重要。",
       "options": [],
       "answer": "错",
-      "explanation": "朱熹提出的是“三到”，其中“心到”最为重要。"
+      "explanation": "朱熹提出的是“三到”，其中“心到”最为重要。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f96516e9b6ed834611931471d40952f69ae73fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/637925e4a6067e40882f568950724a8d5ab32544.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "孔子说的‘知之为知之，不知为不知’，体现了一种诚实的学习态度。",
       "options": [],
       "answer": "对",
-      "explanation": "这是孔子关于实事求是的治学态度的名言。"
+      "explanation": "这是孔子关于实事求是的治学态度的名言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a03676bf0778582023436f15f718e76e9293a10.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a511fd9564afa2e9f681eef1dd875b48166cdb7.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "心到、手到、耳到"
       ],
       "answer": "眼到、口到、心到",
-      "explanation": "朱熹在《训学斋规》中明确提出：读书有三到，谓心到、眼到、口到。"
+      "explanation": "朱熹在《训学斋规》中明确提出：读书有三到，谓心到、眼到、口到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca109b525a3637b22902f1f37a29c12b1c8ab7f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53207f0b7ed5b5205d5e3435c6328e3a8b059051.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d990796b800c90e34b7ea61f84262791dde88a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e57f8f8630ac7fd5b6c4734d9f9c829391a1c9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f7477d44827de64fbecc6c3cb6b7c03f4d471e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93b989fa4757dc9a45a47c1f24fa60803a978542.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "可耻"
       ],
       "answer": "以……为耻",
-      "explanation": "这句话意为：聪敏而勤奋学习，不以向地位比自己低、知识比自己少的人请教为耻。"
+      "explanation": "这句话意为：聪敏而勤奋学习，不以向地位比自己低、知识比自己少的人请教为耻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d8b0143ab7cd62c5ff21c0785091d0e0e6c0f08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3bd57ca569615bfcf42285ecae63426eadaf668.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80b935eb807b6a6445c4732386fba3c0110d59fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c8737b12bc5ff701ee236a6935bf8165af6bd0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc91a44dda2b03fae01ecd2f83ef0229c7755cdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df10f0cda2fb25dc48f2280e29524058cf6cda6b.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "zhì，标志"
       ],
       "answer": "zhì，记住",
-      "explanation": "这是古今字，在古语中读zhì，意为记住、记述。"
+      "explanation": "这是古今字，在古语中读zhì，意为记住、记述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f822a3e6e1664f9be0567d4ca7943b6954a83a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0b025870e8191c6f9e63f3d86f265a7262892f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a9001ed457fa1d59f088c4ea1a9df1988931d0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e475257a046e2c0b9d3527d27e396d3154c625e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/061284ff59aa69a3bf31dfe5c56063310936dbd1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d60efdaed74403c7653ffb0df3245bc268aea2ba.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "只追求读书数量"
       ],
       "answer": "三到之中心到最急",
-      "explanation": "朱熹特别强调心到，即读书时必须专心。"
+      "explanation": "朱熹特别强调心到，即读书时必须专心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a566917d5c58b3dbe264c1a11cf0d768e8974bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30bd0dc405a02608346d0f84d88ce41aa4486155.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90596a6e3b15e53827eee39090fe9e7a6825de95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6ad958a9f089ecd8e4683ab9af720d618c7ad6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c04ef635a36acb0b0619835ff9ee3716bff0502.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/309d21d33c1cc196d956ba07235b9c7d8607eee8.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "‘知之为知之，不知为不知，是（___）也。’",
       "options": [],
       "answer": "知",
-      "explanation": "出自《论语》，这里的“知”通“智”，智慧的意思。"
+      "explanation": "出自《论语》，这里的“知”通“智”，智慧的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19f3845c03266e228493b620736caccbac068d42.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67d489d00181ce03868a2f8736dce3a835234541.mp3"
+      }
     },
     {
       "id": 17,
@@ -113,7 +165,11 @@
       "question": "朱熹认为读书的三到是眼到、口到和（___）。",
       "options": [],
       "answer": "心到",
-      "explanation": "心到是三到中最为核心的要求。"
+      "explanation": "心到是三到中最为核心的要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/070d889f519d1a0f03f411fd98021c3bc6b5a88d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a80dc9614789d8874db67f9e510a1371f59a2f1e.mp3"
+      }
     },
     {
       "id": 19,
@@ -133,7 +189,21 @@
         "诲人不倦"
       ],
       "answer": "A-1,B-4,C-2,D-3",
-      "explanation": "考查课文原文识记：敏而好学对不耻下问；学而不厌对诲人不倦等。"
+      "explanation": "考查课文原文识记：敏而好学对不耻下问；学而不厌对诲人不倦等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56a9861967c4869a6da0ca1690de0b6d1318409e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5f613d4b48206f84a339dd15c45f844c888bf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4e706dfd6652ea14dd1815f5de862c5e0c8b4c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8b40d6b86675bc11f9ac9b90c71d1b770982a67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2118ec1b7cd2de1bd976642d9ec574c2edce21c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db75d56833bae7ae839bc40d5de132afeedd91ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9f662650d12572326eee7304c4639af2c1ae025.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4e706dfd6652ea14dd1815f5de862c5e0c8b4c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff225f3afe76bfd9cde3b48a1021e376d7dab0e0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c609e361b861f6cf53eb8b272ead7bab7f49b2a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -144,6 +214,16 @@
       "将‘识’（zhì，记住）误读为‘shí’",
       "误以为‘不耻下问’是不用感到羞耻地提问"
     ],
-    "tips": "朗读文言文要注意断句，结合课文注释理解一字多义的现象。"
+    "tips": "朗读文言文要注意断句，结合课文注释理解一字多义的现象。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a00ccdcfe3ae329473d0c19667e28aa60d6b479d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d8/d829d76d5c9f16e1aecb346b7b430b5cff22698e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f567bfeda9f300d9bdd21ad6041b22c1bbaef05.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e9/e9c88389e2a4654c3ab3ecf2a0d7e94fe5d6e08b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8e/8e2fcb8dec64738acc1cd70428495fceeec6d883.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b4/b4c081e285c118a6311caf42b139fab5d893a8f9.mp3"
+      ]
+    }
   }
 }

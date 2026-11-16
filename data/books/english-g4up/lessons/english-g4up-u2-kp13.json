@@ -21,7 +21,17 @@
         "How"
       ],
       "answer": "Where",
-      "explanation": "答语在描述方位（on the desk），提问用Where。"
+      "explanation": "答语在描述方位（on the desk），提问用Where。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c7ff9eafcff8aa7529bcd3f4f348e39d8531ac7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8745722f4079f8689e77f9bbdf58c60348238d5.mp3"
+      }
     }
   ],
   "knowledge": null

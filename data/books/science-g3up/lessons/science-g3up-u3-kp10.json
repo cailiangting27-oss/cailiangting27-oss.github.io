@@ -16,7 +16,11 @@
       "question": "阴天时，云量通常占据了整个天空的四分之三以上。",
       "options": [],
       "answer": "对",
-      "explanation": "气象学规定云量覆盖天空80%及以上为阴天。"
+      "explanation": "气象学规定云量覆盖天空80%及以上为阴天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06b985b26d4b3cc678fb8c87e929000b0633517a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/9784355b2d90e2785eeb8b631896f0141f7fe603.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "分不清多云和阴天",
       "认为卷云会带大暴雨"
     ],
-    "tips": "高大的积雨云常伴随强降水，卷云出现通常预示着晴好天气。"
+    "tips": "高大的积雨云常伴随强降水，卷云出现通常预示着晴好天气。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e0/e043b685a60f52f0cbbccfb145cf9fe5a2cb83c1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/be/be26ffb4ddbec1b7a324f4d6f6d873e0f784dba2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/75/75d3f8aa725d69a88570d8f86e04c652a15b2ef3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/42/426a8785268a6a4ded2da91fad643a5ca860a43a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/24714c56ed937d49aca88ae5c7fc2952fe8cf4f4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/cf/cfc2c201aa0bef45d4c913a5d0570a9ebd2c47cb.mp3"
+      ]
+    }
   }
 }

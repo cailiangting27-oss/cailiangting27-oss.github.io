@@ -16,7 +16,11 @@
       "question": "yi是一个整体认读音节，可以直接读出来。",
       "options": [],
       "answer": "对",
-      "explanation": "yi、wu、yu属于整体认读音节，不需要拼读。"
+      "explanation": "yi、wu、yu属于整体认读音节，不需要拼读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8dc25907096af359f5423efa1138787c3eac14e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8ef1324cd1571be6bf001f15741c6daffb8d35e.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "zhi、chi、shi是整体认读音节。",
       "options": [],
       "answer": "对",
-      "explanation": "这三个属于声母后面带-i的整体认读音节。"
+      "explanation": "这三个属于声母后面带-i的整体认读音节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/907d38a412b08ed3d2267334e6c659f966744061.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf3e8167eb9007f65e8d6d5e693f4996885a3b97.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "tian"
       ],
       "answer": "yue",
-      "explanation": "yue是整体认读音节，不要拼读。"
+      "explanation": "yue是整体认读音节，不要拼读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d301279393d62071be48bdc894c691e5dd65798.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c0596b8ac609191181a90517d51c0b486f23799.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7b89b5b754d6e4f93af929c23eba2239757ca7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88bad360bf302e910256cbc1aa8473ae4af25ab4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e4be739e23e6011d6f6e619ed8231c2e300f19f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/062e12d29396ed2afb51c62f0a4ad16f0aa0281a.mp3"
+      }
     },
     {
       "id": 14,
@@ -59,7 +77,17 @@
         "yan"
       ],
       "answer": "yuan",
-      "explanation": "yuan是整体认读音节，不要拼读。"
+      "explanation": "yuan是整体认读音节，不要拼读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aea79394065bf2b7fd7b841947c050fb99b79d53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62094dd800f813de6a47ea4f5e137aced93c354d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/056ed9abe6e76643b8f5abde8ec0fad1c01e6dfa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35015dd23b25a435592d3418396d595f5ef2cbb1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e958ec5a56cd9794647c3623b3aa5a85122e74a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/7077966b57f5e7c2f90a9755f1e4f5e460fd5fa9.mp3"
+      }
     },
     {
       "id": 21,
@@ -79,7 +107,21 @@
         "五"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "zi-子，wu-五，ri-日，yu-鱼。"
+      "explanation": "zi-子，wu-五，ri-日，yu-鱼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8630b050bb3ee311944a6706c3e9bbd50e821e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1396bc8a5619af2d9f66a3d7b7abd12a471a957c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/364b4594cb84856c1eefa049565fb14dcefb688e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/268013331b64ca4d55371ebd0f7340aae217ae65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62094dd800f813de6a47ea4f5e137aced93c354d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92468fdf7c343269f7f3e4bd81e5d22a0e19980f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/219e08c960260762b72feca09bdd17aa3ab61910.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f07f53d63e166c78821aba2e482990e6674bb17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc64005f45852029591a506e72f51b46a21764aa.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -90,6 +132,16 @@
       "习惯性进行拆分拼读，如把yu读成y-u。",
       "将yuan拆解为y-u-an，实际应整体识记。"
     ],
-    "tips": "编顺口溜：i u ü 见大y，变身整体别拼读；zhi chi shi ri zi ci si，见到小i躲进屋。"
+    "tips": "编顺口溜：i u ü 见大y，变身整体别拼读；zhi chi shi ri zi ci si，见到小i躲进屋。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/96/967dd0ac568d2acb3d1bc04e341334f8af213eaa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/70/70549350ff269aa4a040ae4f9f4d367fe3a03c12.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e9/e99a51cc8a1a672e26ef3ada71dab18309dabf54.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/be/bef1a592158d148318ee301ecc30ad14c4cd830d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b9/b9d8d764e6a06feb0dcb78595739bab6ab40fa65.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7e/7e7c9b083be02d48b3fc858cd2a2b65790fa7778.mp3"
+      ]
+    }
   }
 }

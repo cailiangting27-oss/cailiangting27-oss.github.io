@@ -16,7 +16,11 @@
       "question": "当别人说 Thank you 时，你应该回答 You're welcome。",
       "options": [],
       "answer": "对",
-      "explanation": "You're welcome 是对感谢的标准礼貌回问。"
+      "explanation": "You're welcome 是对感谢的标准礼貌回问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe5a1ab9b67af79136988d37b69ad2306c124f11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa38fac6b07cdaa9c613f46f02d8dc27a62ea35d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "I'd like some water. 的意思是我想要一些牛奶。",
       "options": [],
       "answer": "错",
-      "explanation": "Water 是水，不是牛奶 (milk)。"
+      "explanation": "Water 是水，不是牛奶 (milk)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9acdcd5b7fc91667ef5fbac7b5fc496130ff3f00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e17b41ea0b87f670f55e1387b85f21579367248.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "Great"
       ],
       "answer": "Here you are",
-      "explanation": "递给他人东西时说 Here you are（给你）。"
+      "explanation": "递给他人东西时说 Here you are（给你）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e91bd07eb460c9cdd49ffcdabebd3e3e46ac298e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5276601f311e31575c03478a10a9a84d6265de3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e01343bfb3caff652880e6a9d341754fc6f39748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd846adf34307e77ff7d457b28a426470fc0bad9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a99ff82a43dd3b133d8c2f01124ff2b03c4ac8de.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "an water"
       ],
       "answer": "water",
-      "explanation": "Water 是不可数名词，不能加 a/an 或变复数。"
+      "explanation": "Water 是不可数名词，不能加 a/an 或变复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0da04570165aabf80803af4dd05301147676266d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6fcef9285ef6a94b1ec94512235089c9e04ec35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e5ee19287692d4f4fddd5174891b4e99b7028c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c65ec14064510da6d0303953ef0c135f7db25d1b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31e218bec044bb0a9cd51e3a2706c2e87a119844.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "Fine"
       ],
       "answer": "Thanks",
-      "explanation": "接受别人的提议或招待后应表达感谢。"
+      "explanation": "接受别人的提议或招待后应表达感谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a529059e92cdc6e031ae1f0e9a100b9b28c2711.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61dedcf053ff33692baacbf7789c5d7195d9acbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9ce3bd4224c8c1780db56b4125ecf3f24bf748b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97cba4858411c435e526dd651157aac20178222c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/226d7ec9afb2799e267e4c2c03be0ec2da38f4fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15c16a6baa72e0a4d9bc7351014d2b86f60b66b1.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "the"
       ],
       "answer": "an",
-      "explanation": "egg 以元音音素开头，使用不定冠词 an。"
+      "explanation": "egg 以元音音素开头，使用不定冠词 an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a315de0cdff77577f55ff86888bb7308ebc34874.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/233c4b761b525110c700115d3c1392d936029992.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "I'm Sarah."
       ],
       "answer": "Sure. Here you are.",
-      "explanation": "Sure 是对请求的肯定回答。"
+      "explanation": "Sure 是对请求的肯定回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87551777e8cb11ceb597ce624f87b2bcf6e47b38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/72/72180530af6f8491943e667dfab222ce6bdd0dd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8907b0a4004666ff75531a89c3d88c010ffefda8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab29856cf238ead7144935558ba058a6998a5d6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8057407aa2454acaec7cd81d64fb6ff7360bb0aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a0f5150d004d82c61627001cff324dad3fa154b.mp3"
+      }
     },
     {
       "id": 17,
@@ -118,7 +176,11 @@
       "question": "I ______ like some rice. (我想要一些米饭。)",
       "options": [],
       "answer": "would",
-      "explanation": "I'd like 是 I would like 的缩写形式。"
+      "explanation": "I'd like 是 I would like 的缩写形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/3151bca5211622fac39e909db3b9ef688f1d3b59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f0033d0d843fe9ba1434061816dcaa75e971644.mp3"
+      }
     },
     {
       "id": 21,
@@ -138,7 +200,21 @@
         "我饿了。"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "根据句子的交际功能进行匹配。"
+      "explanation": "根据句子的交际功能进行匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d88d00926d3e48fc296beeecc803004ad229347d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/5972982fd30bd5eb87de7d57af7b01354f8b13c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f51fb7f4ea1ef7696c65e0f78a599fffe5527d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25b02b6f1b5d3c256b8d360b0d0aaa7c14814e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81962c8f7238312db10e257045d7bd24ccbd5e3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88e3d374f2a1ee39621275e8006bc3a2ed5a2b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef70158e076d75aa5108f6a9daecda2aea173333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72dc79b53fee6372119aba15abcf1554922ab88f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0719ea8456edf8ace68da7e24d24d41d95c85d94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4606a650b918d88c96523cf37288642aa800362.mp3"
+      }
     },
     {
       "id": 22,
@@ -154,7 +230,17 @@
         "like"
       ],
       "answer": "I'd,like,some,juice",
-      "explanation": "固定句型 I'd like + some + 食物。"
+      "explanation": "固定句型 I'd like + some + 食物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13654bf2cb304df0bccb47049598c42e93b4452c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34af3d385473b62a136cf6df05480c0d77efb146.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ef879175424a11fbc65e95737df3df8822b8a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca74bab4271918701ff69632999406405dee358b.mp3"
+      }
     },
     {
       "id": 23,
@@ -171,7 +257,18 @@
         "water"
       ],
       "answer": "Can,I,have,some,water",
-      "explanation": "询问是否可以吃/喝某物的疑问句型。"
+      "explanation": "询问是否可以吃/喝某物的疑问句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74ac311e9508c176c79e2e9b5a419c6281f62275.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88e288f3e3ca8d1137556d908dcb9f355209464b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea6907087d0b9f62ad1946c8b9363d3b523d837d.mp3"
+      }
     }
   ],
   "knowledge": null

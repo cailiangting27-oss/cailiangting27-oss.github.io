@@ -16,7 +16,11 @@
       "question": "《月光曲》一文中，贝多芬是根据盲姑娘的联想即兴创作的。",
       "options": [],
       "answer": "对",
-      "explanation": "贝多芬被盲姑娘对音乐的热爱感动，从而即兴创作。"
+      "explanation": "贝多芬被盲姑娘对音乐的热爱感动，从而即兴创作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/248dc025ca9c2ee748b99cd140ae12e755309fab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18a69b1820cf259595e9e99f66c1140a2591f160.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“微波粼粼”这个词语形容的是海面平静没有波动。",
       "options": [],
       "answer": "错",
-      "explanation": "微波粼粼形容水面在阳光或月光照耀下，细小的波纹闪烁光泽。"
+      "explanation": "微波粼粼形容水面在阳光或月光照耀下，细小的波纹闪烁光泽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64eb68c489d8ecc75bf855731b87b711193afde1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3202e4016b210f3e7863c988341501389dc5d36f.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "嗅觉描写"
       ],
       "answer": "动态描写",
-      "explanation": "“升起来”体现了景物的动态变化。"
+      "explanation": "“升起来”体现了景物的动态变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdea39600d2bd55bdda1c0fd8b43736f30d189f5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a4c55c6a28d25b86ec4343e5db5b329e972457c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/799ddd65accc5817a8c540581380d339b4a58d2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2349b821efdd031bb741318598f69d1181eecc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5adeaee1f161f2c2af54c6f80cc075d07635ded0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bc1f069b36096039580dbf0f295d8194af94e6b.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "淡雅"
       ],
       "answer": "明亮",
-      "explanation": "“日”代表阳光，“日边来”给人一种非常明亮辽阔的视觉感。"
+      "explanation": "“日”代表阳光，“日边来”给人一种非常明亮辽阔的视觉感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fbaaa0931033631359fd1f28e5a683dc9239af0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bacbe4a1844cec6c4880d876e0d7c39eb211bb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d0c6da6a2d5e8160d5111a51c10ccb60230f362.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1343f68f287c44791d899871b80b39d1b7f8e0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/620984639101072f9a69037dce9d6d3f1b9d8fad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8db30a0e7d0855f42cd90e7c6dd066ae8d28a4e.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "波涛汹涌"
       ],
       "answer": "波涛汹涌",
-      "explanation": "随着乐曲激昂，画面也从静谧转为波涛汹涌。"
+      "explanation": "随着乐曲激昂，画面也从静谧转为波涛汹涌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd99aae00a67a68ae30181fda20a1593c84835c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/012dc04685d94f201b3e602e886fdaa0d743b48f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b123f83855e509ea102a7cfaa97878e7500dd469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34063545d297927f9bfa13d94bf0fd3c96ae100a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f8dca18b79ecb4ceb62dd0928b75fe463fb382c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd646fcf07f2127285846e53083e141b93342e48.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "形容贝多芬弹奏乐曲入神，可以用（___）这个成语。",
       "options": [],
       "answer": "炉火纯青",
-      "explanation": "该词形容艺术造诣达到极高的境界。"
+      "explanation": "该词形容艺术造诣达到极高的境界。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/6109be24eaff93074a424d807f10a61a6129297c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ed9d32f053bbe540467ad18813919884e1a3078.mp3"
+      }
     },
     {
       "id": 20,
@@ -106,7 +148,21 @@
         "五墨六彩"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "古琴名曲高山流水，钢琴名曲月光曲，画作讲究墨彩，戏曲讲究基本功。"
+      "explanation": "古琴名曲高山流水，钢琴名曲月光曲，画作讲究墨彩，戏曲讲究基本功。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bb3076eef17d29d602587155f858f7047598b2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dbe2f13f781e66c85e72ed52adf552eb8b25a7d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c355303e5f2d116d77b307c7c4dc9422a7bb3210.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b96b17560d2a40c88edcb6dd569585f902759b57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30baa58225d9d42c58879655f8c33b853b9c5a5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f8aed1d552f0e0dd6f5fcd6a4dbd9e36114e256.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/bae818e2ac3d4a91b1aee2bc6fd5992b50dd413b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e632539c33898907a3f1c1e30c1625833b1e2a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0430a356970f6b9155ceb3e1ac4007fefdaf62d0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3738d0304d958db8a2b11791308e31374d5e2b2a.mp3"
+      }
     },
     {
       "id": 21,
@@ -123,7 +179,18 @@
         "弹奏了"
       ],
       "answer": "贝多芬,弹奏了,一首,美妙的,钢琴曲",
-      "explanation": "主谓宾句式，形容词修饰宾语。"
+      "explanation": "主谓宾句式，形容词修饰宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdea606cd8929d0df75ab87c2030d4147e73908c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8cc6026b3273547fd4bcdcb3eec1c2d9cc973bb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf43722fe089e1c7dac253118ad4a310220007b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8be534c992be7f5b1307e5447d6447b08b4c748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/643998c338259eedaa2e9571a9229acb1f94e15f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd05c49230ff18979f154e5f21c37a8e3f4cbb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/895c53d8e36a739966ee044f36e4d56c46bc7b0e.mp3"
+      }
     },
     {
       "id": 22,
@@ -139,7 +206,17 @@
         "在生活中"
       ],
       "answer": "在生活中,知音,总是,难寻",
-      "explanation": "语义连贯的叙述句。"
+      "explanation": "语义连贯的叙述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21b8c84f107fe53dcedf84cce1765f8b08e80ef1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/11089071d89fe03e9b91389f2848eb23954b5a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6efbbbfdf0349e6d7dc690244d7ef433bc167d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1558c534c14f15aeb2d60dc83465f0358fe0b9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c606c9b1d5c0637946ee2b3d7d3a9cd05ee8d06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/584271abea44cad5c86d0ae1c5f52b710080dba0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -150,6 +227,16 @@
       "无法分清乐曲变化与联想画面之间的对应关系",
       "忽视动词在画面感建立中的作用"
     ],
-    "tips": "闭上眼睛想象作者描写的景物位置，像看电影一样连接每一帧文字。"
+    "tips": "闭上眼睛想象作者描写的景物位置，像看电影一样连接每一帧文字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4e/4e98cc09d7f85a28cc6028f667d2d9c2161e4d21.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9b/9b4dc590079e75c493b2be4dc2f3aa4761941275.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/32/329e9ff0aaec59bc3cac9a74314e52dae1cfe1eb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b4/b4968f30885c3cd1fe6d4928c8064fe7ddab1bec.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/dd/dd6ce7abcbca1dead0295e415dee773aba928abc.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e5/e5eea52e76a8d8c8e2b4957b93505abb70157969.mp3"
+      ]
+    }
   }
 }

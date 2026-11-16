@@ -21,7 +21,17 @@
         "站在教室中间不动"
       ],
       "answer": "原地抱头躲在桌子下",
-      "explanation": "此时应迅速寻找遮挡物，保护头部。跳窗极其危险。"
+      "explanation": "此时应迅速寻找遮挡物，保护头部。跳窗极其危险。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c7ccfc1560fce0b331a806ad629721893b3e0b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25ee7b9a3ea86e96b9038ae8bd870d8d78c12a70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1feb8ebdbd65fb4afdb261a3eca7fc612066f935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3773d5bf378ab04d5884fd621b1e89cdaba43d96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7021af4fe46b380a9724668acf61d92797dbd2a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f31b31d6a9d2db1d8bd1067a0edaf1f8bb8090ac.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "从 9 个零件中找 1 个较轻的次品，分成（4，4，1）三堆和分成（3，3，3）三堆，保证找出的最少次数是相同的。",
       "options": [],
       "answer": "错",
-      "explanation": "分成（3,3,3）保证次数最少是 2 次。分成（4,4,1），若前两次天平平衡，则只需 1 次；但若天平不平衡，在 4 个中找次品还需 2 次，共 3 次。保证成功的次数（3,3,3）更优。验算：$3^1 < 9 = 3^2$。"
+      "explanation": "分成（3,3,3）保证次数最少是 2 次。分成（4,4,1），若前两次天平平衡，则只需 1 次；但若天平不平衡，在 4 个中找次品还需 2 次，共 3 次。保证成功的次数（3,3,3）更优。验算：$3^1 < 9 = 3^2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/eca31c52cd3081630319a1855bbdfcb8c95ccc6d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e8a1c716d87e27f94addcd483905d27c14f2e4f.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "已知 27 个零件中有一个较轻的次品，保证能找到次品的最少次数是 4 次。",
       "options": [],
       "answer": "错",
-      "explanation": "$3 \times 3 \times 3 = 27$，即 $3^3 = 27$。对于 27 个物体，通过三分法只需要 3 次就能保证找到。4 次不是最少保证次数。验算：$3^3=27$。"
+      "explanation": "$3 \times 3 \times 3 = 27$，即 $3^3 = 27$。对于 27 个物体，通过三分法只需要 3 次就能保证找到。4 次不是最少保证次数。验算：$3^3=27$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97cbb15915272e93a395c2c759033b7dabe5066d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/796c744a820b59a0268740c310088b6aa3848037.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "5 次"
       ],
       "answer": "3 次",
-      "explanation": "因为 $3^2=9 < 12 < 3^3=27$，所以至少需要 3 次。验算：(4,4,4) -> (1,1,2) -> (1,1,0) 共3次。"
+      "explanation": "因为 $3^2=9 < 12 < 3^3=27$，所以至少需要 3 次。验算：(4,4,4) -> (1,1,2) -> (1,1,0) 共3次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d9e9e3e42abcdcbf660a325cffb18356fed6982.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5b0d41cefdec876fe5fa75ea1a3f0f2c6d1cc33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04b7aad9650cb3562bc0e84ffa7381a9996bd833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6350c687bd070d040073c2eebe980ba3ee7e070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79143054c9c3b220109449dd45f7f850b7931ec3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97da6c21b38312fdf9cb69d88d9c0f99b9b23c35.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "12 个"
       ],
       "answer": "9 个",
-      "explanation": "利用公式 $3^n$，当 $n=2$ 时，$3^2 = 9$。验算：(3,3,3) -> (1,1,1)。"
+      "explanation": "利用公式 $3^n$，当 $n=2$ 时，$3^2 = 9$。验算：(3,3,3) -> (1,1,1)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e6e557e70c5142c341387bd52fd7ce49e71ad08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b15988bb52519a59218877097a1b3441313af51a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd2ee1339f2c31fa5b67bb326a51aadc2ac7c3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ceecfdc369baa3813ea1c7d0e49365743f8cc16.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "27"
       ],
       "answer": "9",
-      "explanation": "根据 $3^{n}$ 规律，2次对应 $3^2=9$。验算：10个就需要3次了。"
+      "explanation": "根据 $3^{n}$ 规律，2次对应 $3^2=9$。验算：10个就需要3次了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4ce489668862b42e0470c27c0b34386bc001ab04.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a043a736d8fe86496da66a2918af442538756a22.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "27"
       ],
       "answer": "40",
-      "explanation": "80个需要4次（因为 $3^3=27 < 80 \times 3^4=81$）。选项各数中，40个也需要4次（因为 $3^3=27 < 40 < 81$）。验算：40与80同属 $(27, 81]$ 区间。"
+      "explanation": "80个需要4次（因为 $3^3=27 < 80 \times 3^4=81$）。选项各数中，40个也需要4次（因为 $3^3=27 < 40 < 81$）。验算：40与80同属 $(27, 81]$ 区间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57f1a5355e2ebf7df724547962e7040bd9e76010.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/156a3e7e3b361c0c766f7ecac792fcf4b9a98233.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +155,17 @@
         "6 次"
       ],
       "answer": "5 次",
-      "explanation": "因为 $3^4=81$，$3^5=243$，100 在 81 到 243 之间，所以需要 5 次。验算：$3^4 < 100 \times 3^5$。"
+      "explanation": "因为 $3^4=81$，$3^5=243$，100 在 81 到 243 之间，所以需要 5 次。验算：$3^4 < 100 \times 3^5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/865845d891118c276232a0b58d5ab8692946ed3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/04b7aad9650cb3562bc0e84ffa7381a9996bd833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6350c687bd070d040073c2eebe980ba3ee7e070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79143054c9c3b220109449dd45f7f850b7931ec3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e775d1de1330fb16cdb9fd6ff2ab92199c5c44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a45cbe861835d8bb89d0ae2bf34611b3437733d5.mp3"
+      }
     },
     {
       "id": 21,
@@ -118,7 +176,11 @@
       "question": "通过 4 次称量，最多可以在 ___ 个零件中保证找出 1 个较轻的次品。",
       "options": [],
       "answer": "81",
-      "explanation": "公式 $3^n$，当 $n=4$ 时，$3 \times 3 \times 3 \times 3 = 81$。验算：$3^4 = 81$ ✓。"
+      "explanation": "公式 $3^n$，当 $n=4$ 时，$3 \times 3 \times 3 \times 3 = 81$。验算：$3^4 = 81$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd2019fc33bed3e7121ef36ef80ac24f3da11c54.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b32339508383cc61f3244376d7a9aa64e82fc98.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "计算：$3 \times 3 \times 3 = ?$",
       "options": [],
       "answer": "27",
-      "explanation": "$3 \times 3 \times 3 = 9 \times 3 = 27$。验算：$27 \times 3 = 9$ ✓。"
+      "explanation": "$3 \times 3 \times 3 = 9 \times 3 = 27$。验算：$27 \times 3 = 9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2eb269bf87b399153d18dc264ab319c2c7a1625.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef45bd00c8f6bab7e8a157f7ee8bc2bcd20836b.mp3"
+      }
     },
     {
       "id": 23,
@@ -140,7 +206,11 @@
       "question": "计算：$3 + 3 + 3 + 3 = ?$",
       "options": [],
       "answer": "12",
-      "explanation": "$3+3+3+3 = 12$。验算：$3 \times 4 = 12$ ✓。"
+      "explanation": "$3+3+3+3 = 12$。验算：$3 \times 4 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e3a52490ebbb8f3e6d110e32a7d6af58edf0c00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d2cb712c3d23fb0b32075b418e7785bfc25bfdb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -151,6 +221,16 @@
       "记混幂运算结果，例如把 $3^3$ 算成 9 而不是 27。",
       "无法准确判断数量所在的区间，如认为 10 个只需要 2 次（实际要 3 次）。"
     ],
-    "tips": "背熟 3 的前 5 次幂：3, 9, 27, 81, 243，考试时直接对号入座找区间。"
+    "tips": "背熟 3 的前 5 次幂：3, 9, 27, 81, 243，考试时直接对号入座找区间。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/88/88fb666cd5023d964f257bc3680cbaa3dfa210db.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/51/5108a8901a26f038930c086096c20eecc5bfea08.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d676000a6843f94418bf59443c17b0ed4a294e45.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d2/d20d7a52f4c481af4eaf6dfb1fd2b684ef3fcccf.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/08/0860aac127471adb6ef68dcfe20a513b7b698b2a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c1/c1c58110e93d4e69c741165b033e4337eb8469a4.mp3"
+      ]
+    }
   }
 }

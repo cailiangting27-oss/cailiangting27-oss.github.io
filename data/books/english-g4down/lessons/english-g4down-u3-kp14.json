@@ -25,7 +25,21 @@
         "温暖的"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "warm-温暖的, cool-凉爽的, hot-炎热的, cold-寒冷的。"
+      "explanation": "warm-温暖的, cool-凉爽的, hot-炎热的, cold-寒冷的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88f9f218abb1717c07ef61c88f0c792353e92e71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d83fc386ba33f5d5e06441c03df77ebee2beb6e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d8d76ba15bde3ef1602f477f32fd64e32fea5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/424fa43965bde21e1a972336f3c3bc0dcaafebf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3abec08a9eb112219fb597ab9bf9a3c1ebc88257.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9889c9e75c7b93143eb28f6d72c0a5363bb329cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efa548c01252b437c4dfe02d6db60db0f49c7d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ede457112e61698efe4ddb188c45b8c8bb61f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fe47412debcc7fdd68a1e660a4b0da53df206b4.mp3"
+      }
     }
   ],
   "knowledge": null

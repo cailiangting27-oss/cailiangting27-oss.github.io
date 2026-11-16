@@ -21,7 +21,17 @@
         "把卷子藏起来"
       ],
       "answer": "拒绝并说明这不对",
-      "explanation": "考试作弊不诚实。"
+      "explanation": "考试作弊不诚实。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8824f66fd339906e8d1d98b8a4b5aaa268b25731.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45d0376769bd375a4b598ff57331224ea6910355.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/037e8aef5f9a9855ef2c195a2ed698905a3116bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55f1d1313725ef99f15bed87441049f433f9e940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ae51ddea1852a470820c2c7c28a4b94ebfac969.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94ff3ca79bee000b1a8eda6a3ed395eb8465b095.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "集体活动中要听取不同意见。",
       "options": [],
       "answer": "对",
-      "explanation": "合作要听取意见。"
+      "explanation": "合作要听取意见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6dcd0199ea9e9eef9aaa09e75bfd4f1990e8311.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93f773c0b01de5494f84e9c6dd248be07a4e252b.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "退出"
       ],
       "answer": "民主商量",
-      "explanation": "分歧要民主商量。"
+      "explanation": "分歧要民主商量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7ae1194d91aca935b87d835835f66e2ecaa0d823.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3d0b4a71e6cf7e7664aaa88b99ba08aa769343e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fe7ebf3cb759dcd5695765fa82d27ef938a2ee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/139d4660ceda3f07b9c9e0d174b654c2b733ab02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/feecb1e6adecc96cff42a41eb880baf063591342.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a14c67da7c30b089db0ff9db5dbd76a073ee6dd0.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "诚实的人更容易获得信任。",
       "options": [],
       "answer": "对",
-      "explanation": "诚实获信任。"
+      "explanation": "诚实获信任。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c858ee3399391c0c8fda1bb649befa722b20e8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d759dd3f91814666472fbc5cbb0214571084b5f6.mp3"
+      }
     }
   ],
   "knowledge": null

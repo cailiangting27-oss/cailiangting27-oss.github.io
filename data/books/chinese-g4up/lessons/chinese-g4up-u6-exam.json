@@ -16,7 +16,11 @@
       "question": "写批注可以帮助我们深入思考，加深对文章的理解。",
       "options": [],
       "answer": "对",
-      "explanation": "批注是边读边想的过程，有助于深化思维。"
+      "explanation": "批注是边读边想的过程，有助于深化思维。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eba6d41a124a340965799511129faa272d843d0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f66903bf9fab5b37009b142e4760059e27029cfd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“深红的太阳缓缓地升起来。”缩写成“太阳升。”是正确的。",
       "options": [],
       "answer": "错",
-      "explanation": "缩写应为“太阳升起来”，核心动词“升起来”不能拆分。"
+      "explanation": "缩写应为“太阳升起来”，核心动词“升起来”不能拆分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bed8c5f06adc1660e98bb66053cf6533e181b86.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d2108e88f7a25124e168523b466b46e990923d6.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "批注必须使用规范的汉字，不能画任何线条或符号。",
       "options": [],
       "answer": "错",
-      "explanation": "批注包括符号批注（圈点划线）和文字批注。"
+      "explanation": "批注包括符号批注（圈点划线）和文字批注。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b36db441c30e9c920c0ab79ead627aa317b73d4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f51e8fa1d63720f508a4a7917f369dda1942e67.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“他感到身体里的热血在沸腾”这句话运用了心理描写的手法。",
       "options": [],
       "answer": "对",
-      "explanation": "通过内心的生理反应来体现激动或愤怒的心理。"
+      "explanation": "通过内心的生理反应来体现激动或愤怒的心理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7fd7a2ec51b701ac634c5f26a860b8a5574d8e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20f6084533a9235616e0e65ddb830495950d9ef4.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "蝉被捕获了。"
       ],
       "answer": "小蝉被螳螂捕获了。",
-      "explanation": "“被”字句缩句时要保留受事者和施事者。"
+      "explanation": "“被”字句缩句时要保留受事者和施事者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f911de105869a1c088b6a8cfa03564ed9d1eb182.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d957598745c505ea9b1497045121ef24b2c9a005.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/372501dd8108a5a7c9570d305a6fd20c7206bbb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2d237d12b509128498b384f1bcb6b057c44df44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06dbe366c22ebec528235af3fabf29f2bdc72426.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f381d8177f2882d9d6c019356983bf702368d2a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "陈述句"
       ],
       "answer": "反问句",
-      "explanation": "用疑问的形式表达肯定的意思，答案尽在其中。"
+      "explanation": "用疑问的形式表达肯定的意思，答案尽在其中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dbbf4f0249bbd26ebb23648464ecd48eb102508.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c9f919d9abbd163c27c6cf55d826c8062fa59e93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62426ddf1d08cc23870db41ec4ae12506da88a9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283f1510cc8d694184bb229fbf46f334410c8aab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7a5a4166e361357b9c3e17afb08d04a584db935.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cede7d636c30a0be369bdda8c1287152fd6d9c71.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "对大陀螺的羡慕"
       ],
       "answer": "战胜强手的喜悦",
-      "explanation": "我的小陀螺战胜了大陀螺，取得了意想不到的胜利。"
+      "explanation": "我的小陀螺战胜了大陀螺，取得了意想不到的胜利。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d21d717b788f50145aaa5bf63ee6a1e9e7f00229.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c9c558eea35ec1aeb19db062c884f5860801e13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f10b8b9e49b6902d65051c81ee705a9214685ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f3dcff8a03896065b884e0453e4a1bff1232df3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24393773b8ffc534ea543a41587ff23ba0910276.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88cd6873230d72e673043070041825a348bd8ddb.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "包含"
       ],
       "answer": "包容",
-      "explanation": "与朋友相处需要的是宽容和包容。"
+      "explanation": "与朋友相处需要的是宽容和包容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd6d75c951bab258b9aa25c297966651d88d2c64.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/551fa0083406c548bdf3375d647733a5bd4906b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3ab77d86d34df62642047c5d2403bcf4a23b455c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ab394d07d17fc5eb40ccddc9b36f55565d35a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f896fb3776bb0bca7b88e81e26f5b1cd44ee5976.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef33740dc51b2f4883ca809d0723f7b258501366.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "得意扬扬"
       ],
       "answer": "慢腾腾",
-      "explanation": "慢（A）腾腾（BB）。B、C、D分别是AABB、ABAB、ABCC。"
+      "explanation": "慢（A）腾腾（BB）。B、C、D分别是AABB、ABAB、ABCC。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/910560f322acd1a0784b8512af555166ea72bd8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad1bdf1221dddf460bb9e801588b2675abacda05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5623c1252047c7fbe8bcf1e89f70f193998b6d97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06f9b349389c2b7fa8291555d397440ad8e1fc32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fc35ea9a9abc52cd1d0031e79f162a89be7e845.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/663d6388ab2be81117583eb35762d3e9850ed4bb.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "语言"
       ],
       "answer": "动作",
-      "explanation": "“发抖”是身体各部位的运动状态，属于广义的动作/细节描写。"
+      "explanation": "“发抖”是身体各部位的运动状态，属于广义的动作/细节描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5a222e6e7a977fbad721d813a128ea40df371c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/659d9882e7e4566060cbee30b54a1bdf9d1321ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/325f68a1bbb8e94cc58612e4f88cb6d91ed0292c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9d9827827e1cd5727fbd2ce65c9c5723ba38579.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd99b225a08ea013db537f05cbf4814613665169.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bb04361ff14f7faa0da793546d56a122bd66bf5.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“它（鹅）总是（___）地站着。”（填一个本单元四字词语）",
       "options": [],
       "answer": "高傲",
-      "explanation": "课文中多次描写鹅的高傲姿态。"
+      "explanation": "课文中多次描写鹅的高傲姿态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cfe4ea6ec8965bef61a8fb5ec728144c5087583.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f930216843d697014425fb139c7704c08c246fdc.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“露面”的“露”读作（___）。",
       "options": [],
       "answer": "lòu",
-      "explanation": "露出、露面读lòu；雨露读lù。"
+      "explanation": "露出、露面读lòu；雨露读lù。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/befa6c3fc758f698fd9cfe51e72cb088b9bc5cad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8459e8adf9cf156823008c512337fef5fef445f7.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "排戏"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "牛和鹅里有金奎叔，老虎里有排戏，陀螺即冰尜儿，水墨画是诗。"
+      "explanation": "牛和鹅里有金奎叔，老虎里有排戏，陀螺即冰尜儿，水墨画是诗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58d784e26da1fee1d8bd2488b2178e790831b089.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c82e109e09361b0c7a247e75ad01654aba9bbf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/874b23e103aeb42bff66c314eab20011d1452c35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/842cb4da7180e56d56a8e043d55013529da1c85f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62353d13fe90718bc65cc4dd28507e693aef731e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e514429ccc8dea398a8a4bd1e5c31c707d1a5f32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cb7650969dee0104f012a21f375ad8eed206e53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0be4650741a516b1492e0ceacffb84e20f41c96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20756ce51cdf30ad03111c0c4741c0fb738037f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e254909659b69a815fd57a2bd0ee6f0d3f972e4f.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "piě"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "撇piě，帅shuài，拙zhuō，甚shèn（注：选项中shùn为干扰，D对应正确位置应为甚/甚的变体，严格对应答案结构）。"
+      "explanation": "撇piě，帅shuài，拙zhuō，甚shèn（注：选项中shùn为干扰，D对应正确位置应为甚/甚的变体，严格对应答案结构）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/92af7746b8eee5b955bf284d3f6d2e8cdfc3b04a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/861ac9bd4a5c19b4f4efd12f8e39dcc4928d3845.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8f5b4f028f102450ade95805ac35d59138eb904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b957e19bc2b31f1666c09678afd6280fc7320047.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f67fac4767f4d31d89cd7268337420314e6c461c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/494d6028cf47d1ca2ec94c696a672ce259810d36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b557898c7e29ee5191f36b9a9831d45559d24ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71ff233bf484439489861dbae04f474443be39cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/823cfc96cc49d50c6ca054ccae0f37550bac02ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/1265c78bf130dad8d54509528667b21b3e7762fe.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "做批注"
       ],
       "answer": "我们,要,边,读书,边,做批注",
-      "explanation": "我们（主语）+要（助动词）+边...边...（关联词）。"
+      "explanation": "我们（主语）+要（助动词）+边...边...（关联词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdf5a01ac112d6f2397217503f2c2f781dda035e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93e27107a133fb3ec777db55264b19f9b3fce67a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/586e4f0ccf873275dfb24a9d39fd1c5d8726ca93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1bd09c4bbeee977901a5491cea46b245c05f1a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/586e4f0ccf873275dfb24a9d39fd1c5d8726ca93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e9897459d7017f9ae8d9e544995322c7aac1105.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af0b3bf7e0dc465e5488b7ffd27ff3080be3490d.mp3"
+      }
     }
   ],
   "knowledge": null

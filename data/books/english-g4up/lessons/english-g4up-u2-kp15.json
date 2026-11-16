@@ -21,7 +21,17 @@
         "the candy"
       ],
       "answer": "candies",
-      "explanation": "根据教材情景，表达书包里的多颗糖果，常用复数candies。"
+      "explanation": "根据教材情景，表达书包里的多颗糖果，常用复数candies。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0ef5d04d58fd58abf1aa7e7dfbee7a44a4cda77b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ceb5d40d2df85247e27affd7809001b0a4a8105b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/615923d86676636fc71d02a42c09350eb61e9948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24e9d9f94d9c60fae79fdce14a4d3c1cf9a09c87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/793d043d6f1972cb975bf98055e4fbc9b63fdff3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71924d2578f3d9ed8db7fcb2769951ea23f924d0.mp3"
+      }
     }
   ],
   "knowledge": null

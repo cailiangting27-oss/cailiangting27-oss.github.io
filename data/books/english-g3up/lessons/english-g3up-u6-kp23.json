@@ -25,7 +25,21 @@
         "六"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "six-六, seven-七, eight-八, nine-九。"
+      "explanation": "six-六, seven-七, eight-八, nine-九。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf898f1bfb2ab6757c0a0085a17fa8be7cbd0a9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d479fa0ef92542c808003731bc478f714ec1da4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4ddce182ecfb739a19a2b263412c2343dd4fc98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a2b9f17beaf4c904d503b1a58fb01ba04f8a03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2142fb62fd47115cc6b5717e6426ebc88bce6c68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7db1eeb5c3746b6625047193939edad3c9f5a946.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d72c724e03b360484cd7a9000f14544b50a0957.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14c1f5490cedbefc796baf0a44f12b53cb106422.mp3"
+      }
     }
   ],
   "knowledge": null

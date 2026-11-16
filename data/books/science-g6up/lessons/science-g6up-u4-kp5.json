@@ -21,7 +21,17 @@
         "导线长度"
       ],
       "answer": "线圈匝数",
-      "explanation": "根据控制变量法，探究哪个因素就要改变哪个因素，其他条件保持不变。"
+      "explanation": "根据控制变量法，探究哪个因素就要改变哪个因素，其他条件保持不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8dc6a90a7bc00f1041116638c00606f91c34542.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c7e45607c81ea9dc99fac1c49474a755939ff01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ef03e2f574f23d4399334501c4e3cfb35f6517f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11138da7823be4f41dc11a8205e877e0da40c28d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd82aeaeaf713787fc98c66d0bcd32b970a1004a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d889d67668f3e3c176fa9625913371f33224e40.mp3"
+      }
     },
     {
       "id": 9,
@@ -37,7 +47,17 @@
         "取走铁芯"
       ],
       "answer": "增加线圈匝数",
-      "explanation": "电磁铁磁性强弱与电流大小、线圈匝数成正比。"
+      "explanation": "电磁铁磁性强弱与电流大小、线圈匝数成正比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7db6b217dc8c342d7ab0f51ec82864b13f4cabe6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09064127c366e3846a26a8a3c99eabeab4cbc8c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f32d38595136182a9acc1c9b6d1a147fbca1423e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72518451b70586b5d557513203d1db48121c938d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22dbd0b15c0c479aea1ab779923c90cdc3272935.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f72be638ea5f9827ecf33e1a2d5dbb08aa1b92e.mp3"
+      }
     },
     {
       "id": 18,
@@ -53,7 +73,17 @@
         "用手感觉热度"
       ],
       "answer": "吸引大头针的数量",
-      "explanation": "吸引大头针的数量是衡量磁力大小可量化的指标。"
+      "explanation": "吸引大头针的数量是衡量磁力大小可量化的指标。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f93458136a3b5c91e0a5ee74c0ecead3249e4649.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/554e1ebba3b24a4f5f5cf0a4544f8c91099aded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9629458e585c2536cd7d0a60438ae94bffcefac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8c274b42712476d8f6601a67c536cc16f6a716d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/843392e08f7cbb2eaa32ed22349f523f83d8bf0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56669cd9746cb33fdd7899f784800208407e0176.mp3"
+      }
     }
   ],
   "knowledge": null

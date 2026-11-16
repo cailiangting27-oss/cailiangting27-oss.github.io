@@ -16,7 +16,11 @@
       "question": "制作成长纪念册时，我们可以按照时间顺序来编排资料。",
       "options": [],
       "answer": "对",
-      "explanation": "成长纪念册常见的编排方式包括编年体（时间顺序）和栏目式。"
+      "explanation": "成长纪念册常见的编排方式包括编年体（时间顺序）和栏目式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49151b7973cd88025fbc05e04713c637d5515364.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/185e5bc7cb09ca6419a457f0d3aff621d4d7a3a3.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“编年体”是指按照人物的性格特点来整理资料的方法。",
       "options": [],
       "answer": "错",
-      "explanation": "编年体是按照年份（时间）先后顺序来纪录事实的体裁。"
+      "explanation": "编年体是按照年份（时间）先后顺序来纪录事实的体裁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2aab445ed978473d95dbe0c6805b93cb59eb66e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/739cf8160364add3d4fdab61ca6d3d9498c27ee0.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "事情发生得突然"
       ],
       "answer": "形容时间过得极快",
-      "explanation": "白驹过隙比喻时间过得很快，契合小学毕业的时间感慨。"
+      "explanation": "白驹过隙比喻时间过得很快，契合小学毕业的时间感慨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/8623808c067720ad11fd1b135f8925fc4efa4dec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf3300f7b50305e67c7a3f120ac6198f64d53469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/136bf45864bb34dff8acbda1102747e9d6c36efa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/2974ef35a6df01eea4580116b0faa85e9abcf81c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a5d9b8f945a33e7f6d72ab7ae8ed60a748c8a4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a90a78c4f8cbf23d1e3f3e647f3aa6b023f0d086.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "友谊长青"
       ],
       "answer": "收获硕果",
-      "explanation": "奖状代表了学习或竞赛的成绩，用“收获硕果”最为贴切。"
+      "explanation": "奖状代表了学习或竞赛的成绩，用“收获硕果”最为贴切。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54131abccda216df09ea0fef4dce2d461db33a98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f3a631aa1fd91e3d349673c50ab928f7c5a0360.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e325f2c499be90700b5cd5acd671093f41841ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cdb86f2267f4d8d9fc5306c76f151a9287f5a17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a244f2f54ee5aa5b31d3d06271dbc05e4b9175a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27996dc828b15bed02c1e3993a6d9234e4f6317f.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "《运动员进行曲》"
       ],
       "answer": "《送别》",
-      "explanation": "《送别》曲调依依不舍，内容契合毕业离别的情感。"
+      "explanation": "《送别》曲调依依不舍，内容契合毕业离别的情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/980f79d862ad2d750bf491d22227ea17ab6cf600.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1dce16e62084e19e1ab773cef5aaa95f76010ab3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283569054369cdd5e745599f94936042e7256346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e836eb7fb150f807c5b9ddb0b9f82761d57d6b38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39d4ad8b807a4df4bba7af634381c23262d4d810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8772bb282d5bb897eacddaeb6f5902dda902e11b.mp3"
+      }
     },
     {
       "id": 18,
@@ -86,7 +124,11 @@
       "question": "成长纪念册中，我们可以用（___）线这种工具来展示每年的大事件。",
       "options": [],
       "answer": "时间",
-      "explanation": "时间线是梳理成长素材最直观的方法。"
+      "explanation": "时间线是梳理成长素材最直观的方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de69792c7095a9497063361f28a91e63944e6317.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ee51882ff19e5936819ab8f7085b84415832d51.mp3"
+      }
     },
     {
       "id": 19,
@@ -106,7 +148,21 @@
         "中学的理想"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "温情瞬间对应照片，我的足迹对应成绩记录，恩师难忘对应评语，展望对应理想。"
+      "explanation": "温情瞬间对应照片，我的足迹对应成绩记录，恩师难忘对应评语，展望对应理想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e3e078df769d4575db0d741df4690ab71b59534.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a76a2181356b507d65bc60e9ed2b708a357ea1c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2f96c21a4cf83c1a66801fd454b9d072c280ecc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/727d48d27f1bc21c06ac8c36046d10841bee5a81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8524420a8c1865a389f985e61c165f57b9dbb469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeaf53c7cb462562c7feb43787d6769c3da01129.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/750230bc95c1ca8086e2d112db68aea4ad7c6dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dba9195e422434821b986c1024521dae27ec796.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/364f8e76e392d7438318e7f2bc2f2b63694845fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa2421b17173da6d28eb7b7bcee6573eff85be79.mp3"
+      }
     },
     {
       "id": 21,
@@ -126,7 +182,21 @@
         "理想一致"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "考查对毕业主题高频四字词语的理解。"
+      "explanation": "考查对毕业主题高频四字词语的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ed265dba67ac11e74d1fa8f008d7e45f10384b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dbacf7c9e2ea3c8d4da1a034a8f6d6a916be25f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19b756e73a3155f321148726ec681dd91f1f4257.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f16ea9d76391366cd7a650593a5764eb50c714bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d7d819428935a6af9417179f2c9b59c87760558.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c814b401285a12d2319e333dea0eb238ff291f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d80b49a8b087c752a057b8d1efe9699f06e50338.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c649d97ed0baca4025197c007e546f16815fc40d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/003bc519c686a02d4da4c2e47dbbfbcfb90cc25b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bdd5799a91a1bd640acbeffc596651c8e002414.mp3"
+      }
     }
   ],
   "knowledge": null

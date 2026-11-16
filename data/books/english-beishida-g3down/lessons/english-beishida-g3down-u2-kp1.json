@@ -21,7 +21,17 @@
         "mother"
       ],
       "answer": "grandma",
-      "explanation": "奶奶 grandma。"
+      "explanation": "奶奶 grandma。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b197956373e9cdd02036a24ff120b8e7debbdce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88ebe8bf78169fcfe6d8a68b040ca600284bacd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f136523a96b2ae2700bb1fe8dfd8e2dbec55e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28909cfb89b135ea1bd6846e24e24a7f3215f6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc98addf7841bb0dd6058ee9fb74a319262bac61.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "family 指家庭。",
       "options": [],
       "answer": "对",
-      "explanation": "家庭。"
+      "explanation": "家庭。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42991aa71c8c6032b33a71f5ca624c2c8dc376f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1de883c34dbf5415468b8bd83676eb9b2b8154f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "把 grandpa 与 grandma 混淆。"
     ],
-    "tips": "注意对应。"
+    "tips": "注意对应。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6f/6fc6088e92554e3a488b0da7c890b55d8363f393.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/91/916018893305680ef5234973702acbf64124d3ec.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/33290a131276b6aafa9cad788186ccccf7349d2d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f9/f9b71c6009863f48ed51d9bc032623e0cb699b0c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f6/f637b9572b935564c69994598d5464930a8e5c0b.mp3"
+      ]
+    }
   }
 }

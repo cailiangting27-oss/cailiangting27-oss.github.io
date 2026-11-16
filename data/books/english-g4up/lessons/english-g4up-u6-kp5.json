@@ -16,7 +16,11 @@
       "question": "'doctor' 翻译成中文是“老师”。",
       "options": [],
       "answer": "错",
-      "explanation": "doctor 指医生，老师对应的单词是 teacher。"
+      "explanation": "doctor 指医生，老师对应的单词是 teacher。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81700418d70b48ea62bad3575e89344f64120fd9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c07472add24ad2e7262923b1f34d39636f9cf46.mp3"
+      }
     }
   ],
   "knowledge": null

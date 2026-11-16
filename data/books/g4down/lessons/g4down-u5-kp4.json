@@ -16,7 +16,11 @@
       "question": "把一个三角形剪成两个小三角形，每个小三角形的内角和是90度。",
       "options": [],
       "answer": "错",
-      "explanation": "无论三角形的大小如何，其内角和恒为180度。验算：$180 \\div 2$ 不等于 90 是错误逻辑。 ✓"
+      "explanation": "无论三角形的大小如何，其内角和恒为180度。验算：$180 \\div 2$ 不等于 90 是错误逻辑。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b6b92b9b717a0725e0afe633063102bb8fccb79.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b6e165605da2c170d7121c96d74eaed7f140683.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "45"
       ],
       "answer": "90",
-      "explanation": "$180 - 90 = 90$ 度。验算：三个角和为 $90+90=180$。 ✓"
+      "explanation": "$180 - 90 = 90$ 度。验算：三个角和为 $90+90=180$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78eaee8111630bcf8a6eda444d2066207ab65f4b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f63aa506aa097da8d73b710c5ef464b2998d6180.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "60"
       ],
       "answer": "45",
-      "explanation": "$(180 - 90) \\div 2 = 45$ 度。验算：$45 + 45 + 90 = 180$。 ✓"
+      "explanation": "$(180 - 90) \\div 2 = 45$ 度。验算：$45 + 45 + 90 = 180$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdadf3b9874b2e8a6bbba4acf8c0daa1047f3858.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4505bfc0d52829716be50d9c0cf88e8462767b81.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "无法判断"
       ],
       "answer": "无关，都是180度",
-      "explanation": "三角形内角和定理适用于所有平面三角形。 ✓"
+      "explanation": "三角形内角和定理适用于所有平面三角形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/faaca749f0c623a935e63de04463cb3b392f6d01.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c70e3408332d6fad4497ba239c76917f5593a67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e86b720d21311c4e78aae334c7d50f3bfdca696.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa50a20ca692bfd44ab5576eeb13749f0438525d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38b41c85f2a917c65350c7b87c9efc35b8598334.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "已知三角形的两个角分别是30度和60度，第三个角是 ___ 度。",
       "options": [],
       "answer": "90",
-      "explanation": "$180 - 30 - 60 = 90$。验算：$90 + 60 + 30 = 180$ ✓。"
+      "explanation": "$180 - 30 - 60 = 90$。验算：$90 + 60 + 30 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e2cc0676b04bff089cb9f3c66d0dbd5d465f60c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a99540dd631d189113bacf216cd40edf9484d0d.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "$180 - 45 - 45 = ?$",
       "options": [],
       "answer": "90",
-      "explanation": "$180 - 45 = 135$，$135 - 45 = 90$。验算：$90 + 45 + 45 = 180$ ✓。"
+      "explanation": "$180 - 45 = 135$，$135 - 45 = 90$。验算：$90 + 45 + 45 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12d5bc395abfdf8248d3d27e6e5cdebf728d8a9a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/431950479aa0ddfffe7627abfa87088129dde43a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "认为大的三角形内角和大，小的三角形内角和小。",
       "等腰三角形计算角度时，忘记有两个底角相等。"
     ],
-    "tips": "等腰三角形求角：已知顶角求底角用 $(180 - 顶角) \\div 2$；已知底角求顶角用 $180 - 底角 \\times 2$。"
+    "tips": "等腰三角形求角：已知顶角求底角用 $(180 - 顶角) \\div 2$；已知底角求顶角用 $180 - 底角 \\times 2$。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/35/35bafdcddd6125c88685ab3cfb07c09df54c53d1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/74/749faf4246e5d94e7733dcacaac77f7b902f0764.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/db/dbff5ef2232f8264b5b6a1c2f002ceae020ce236.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/74/744ef812450d33c8cceac816b0e0dd7b314891b6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fd/fdc0df0c277b502ea68873ac4a87ae891dac6fa5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8c/8c82aefdc2de7f720e518710ec488f362871fc76.mp3"
+      ]
+    }
   }
 }

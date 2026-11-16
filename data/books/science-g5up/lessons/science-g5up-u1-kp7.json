@@ -16,7 +16,11 @@
       "question": "我们能够看到不发光的物体，是因为这些物体反射了光进入我们的眼睛。",
       "options": [],
       "answer": "对",
-      "explanation": "人眼看到非光源物体是依靠其表面反射的光线进入眼球。"
+      "explanation": "人眼看到非光源物体是依靠其表面反射的光线进入眼球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d40db4ee427403814b0d12d550817c3a922e3626.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1b5e7733cb633faf0c5bd2f1436f58f50a12105.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "凹面镜"
       ],
       "answer": "凸面镜",
-      "explanation": "凸面镜对光有发散作用，可以扩大驾驶员的视野。"
+      "explanation": "凸面镜对光有发散作用，可以扩大驾驶员的视野。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88b0154f05794c3e617dbb985292a31cdbeede6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f2908ee06f5896f284aeb8d4cda9a6e178a47bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f16b1d4a3487cafbc1a1d0ee0867a8a2c17ea76e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40daeba605691fd6ddb9feef3b052afccb6ca9e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1dcf4138b90f2765bb01a9e9cee7abe629def29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/4283dbbf29401baa5caeafb9bc02ba94e6cc07ee.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "直线传播"
       ],
       "answer": "漫反射",
-      "explanation": "表面粗糙的物体会向各个方向反射光，叫漫反射，所以各个方向都能看见。"
+      "explanation": "表面粗糙的物体会向各个方向反射光，叫漫反射，所以各个方向都能看见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8e2f4608e8b62e7af8de76b8dd65da2dbe0b25e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7ef08118837329eebd88789699270f3000f2e982.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccb3a36f6d8bfd3748d41e376f1ead010ee3e7dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec4bd199a114ec18d8b53788e280c6391bced045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/487680f03086f00be269d4384d296093448828d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24be6888bebf154f5431a2e64148e94589a9405c.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "两面平面镜成90度摆放，中间放一玩具，可以在镜中看到（___）个玩具的像。",
       "options": [],
       "answer": "3",
-      "explanation": "根据公式可得360/90 - 1 = 3个像。"
+      "explanation": "根据公式可得360/90 - 1 = 3个像。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f59058eb037a91e112b7d4f1bfc4dbf8d1f859c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0657dc9d04eb1d1e6b12b9f00827ca9f6632aee4.mp3"
+      }
     }
   ],
   "knowledge": null

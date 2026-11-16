@@ -16,7 +16,11 @@
       "question": "锦鸡的羽毛非常漂亮，由于受到惊吓会开屏。",
       "options": [],
       "answer": "错",
-      "explanation": "开屏的是孔雀，不是锦鸡。"
+      "explanation": "开屏的是孔雀，不是锦鸡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/536180c2ff046c9f30c9af74d8f2e744f81c46d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bd12293c099dfe80ac1dd1e1affaa4d32b25306.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“深”字按照部首查字法，先查三点水，再查7画。",
       "options": [],
       "answer": "错",
-      "explanation": "“深”字除去部首“氵”，右边部分“罙”是8画。"
+      "explanation": "“深”字除去部首“氵”，右边部分“罙”是8画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58b8a68c8734e782b1d3fc8b554acadd168ee38b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5f9cdddb1f9d09873beafe421fce237f4bf0073.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“冬季里，雪飘飞，新制棉衣暖又轻。”写的是农民冬天的生活。",
       "options": [],
       "answer": "对",
-      "explanation": "《田家四季歌》描写了冬季农民的情况。"
+      "explanation": "《田家四季歌》描写了冬季农民的情况。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/608d1f23aa2b620841229cff9fc4c43a5ac824dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b79abc537fb2ca42a9d3be067a187ef8f48b5e29.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“一丛大山”这个词语用法正确。",
       "options": [],
       "answer": "错",
-      "explanation": "大山应用“座”，灌木、翠竹才用“丛”。"
+      "explanation": "大山应用“座”，灌木、翠竹才用“丛”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a38dccb7677b88df9ba51598dcbea8cacf813de1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0bec86f61be376c599b08b36e6e9da8a7c8ec061.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "群"
       ],
       "answer": "层",
-      "explanation": "“层”用于楼层或层级，不用于人。"
+      "explanation": "“层”用于楼层或层级，不用于人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/566a3c6b3b1c7e100053bf0370e65906004b0e29.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74c77a8ab02863de2c656257934c6822a262b728.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7895e237ab170e28ef42fccde279ae1b8edb4c65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a867dcff6070d276cf59b21784b98fb4e2e43aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30847a6707b79c0a868ad518764d0dbc30b11171.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "心脏"
       ],
       "answer": "肺",
-      "explanation": "森林可以净化空气，常被称为“地球之肺”。"
+      "explanation": "森林可以净化空气，常被称为“地球之肺”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/1622c69e69785f44b697639e42f61747d132a4b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4ab2be79d09563246a457bc1d57ae1ef9e78d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca8c2f79bfbc75825af2ed485bca4a16ce329284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6015a44b79f94197c4b3db6be42e8a00b5e3697b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/110248e55b8decc0a20e151bd6f57c7805c528a0.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "一把红旗"
       ],
       "answer": "一把红旗",
-      "explanation": "红旗通常说“一面红旗”。"
+      "explanation": "红旗通常说“一面红旗”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a53125893b72ec9b4f74398086ab1d3fc53e72d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d417fcd224b1677c64a43d445a1010c315791.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cbe92c6f7e15ebc5f4e255e52c1d35887514012.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59e197d6174196b5aec6f7983919e15a8bffe8ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb3fd3bee6c6c1848d051d8a746ce60d46c30951.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7ab2d473b810b5881938d31c7c793c9df8aaafd.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "生活环境"
       ],
       "answer": "色彩丰富的外形",
-      "explanation": "红冠、花外衣、金黄脚都体现了色彩的美丽。"
+      "explanation": "红冠、花外衣、金黄脚都体现了色彩的美丽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a777431955579c10c25d5158626845b8f69e5602.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7994157e50be7c0d52eadd1b450a88772a68c32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6cf6929c8de3bc43bcf5524f8bea99f324804d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832a48ca4a1a46576a3ade13340822a63a931193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc00331058b0693a92c60485105ebb0af97f78f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/559d604f786f16f4cec1e91a81744141bb0d8d0a.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "封面"
       ],
       "answer": "检字表",
-      "explanation": "查字典顺序：部首目录 -> 检字表 -> 正文。"
+      "explanation": "查字典顺序：部首目录 -> 检字表 -> 正文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f42e99d051889048a912c3f6b2dff24f977921f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/2005faf065551e1812281fbe92ba053ced144065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f85a3b3bfd1547fdb31a29a1ab7dcb11400990f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18de309e8204d52c4a93c14ddfbc7f04661f2a00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8bb31e17014487c11d921d06a4255203a3707ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84a0a834d6895bb37d622f4e2299b71168ace640.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "生机勃勃"
       ],
       "answer": "五谷丰登",
-      "explanation": "五谷丰登专门形容粮食丰收。"
+      "explanation": "五谷丰登专门形容粮食丰收。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6dfc0d40b874f09741fb29822d0d2c8b33f99422.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84f5dba437947197afa022c97272aa343fe4b87b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/961b376e5c8c7f2c2afb895bd93a8e867f7d1ad5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78678b4416d8ed73b7533cd5a216d287c0aac196.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acc93f983051503f01cc6706cd3cf3c4654ccc59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a3819aa47a76d46c94c1dc5a91164c3af96184e.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "写出合适的量词：一（  ）石桥。",
       "options": [],
       "answer": "座",
-      "explanation": "建筑、大山常用“座”。"
+      "explanation": "建筑、大山常用“座”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f76abd4ac9c28c07678c2b13a320fb72f93d40ee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf7a74785fcb69e050acf3311e91f20bd1586c25.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "什么树叶像手掌？",
       "options": [],
       "answer": "梧桐",
-      "explanation": "梧桐树叶形状似掌。"
+      "explanation": "梧桐树叶形状似掌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5a624722e00207620d7ffe43f513594fc24b34f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/108571850d2d16ee676b677ec4303a906eee4edb.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "打场"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "春种，夏忙，秋收，冬藏。"
+      "explanation": "春种，夏忙，秋收，冬藏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76bf2dafa070aea09e577f693d11be6394fe36a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e450648252d8bbde3ec5cb3b62002be9f3bdc49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce0a21de8541f96c65d6ecf5008248d4d2b436ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d8f4aeca8506d3d5215ac27272e9ee8a4a27e23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5ca75a91f1a53c67ffe94e366a41cda9c342963.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abdcb9ac99d6bab6bd1785ac56e598e90dd84277.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1e8a3ee6a07f6f2d82837abbed1087649ef9478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9df47fb89aacf861e5c8e4766faf733f6c024993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/fff7261d02235b78e3ffb05d3acef64bd8408355.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf51810cc994b223bfaba521f0bb50dbade1eec1.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "轮"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "搭配关系：溪-条，月-轮，竹-竿，花-束。"
+      "explanation": "搭配关系：溪-条，月-轮，竹-竿，花-束。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1845b58a9b95b879230648d0992659ba53695a9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef1bc0bc2ebf30a6354267064a1d467e5ffffc5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e90bbeb73a27093b170815553594642de59ccdbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6c6033eada7bba86eca4b0ac486861c016a7851.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4633ff9092ea1490d759777035f9d143bdd183.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e798ef0b79b9f96935207e42eafae02348687ccc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bce2ef61514a87a9049532a48d328f5b5d7fa3a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69c1cde2c3d4ccd8239349bca0faee1cb653e548.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8880e7f2c695ecc2149d1d6bc466b15f283d324.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/541d2312cdebc6fbf2388da82e56421fb6081761.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "红红的"
       ],
       "answer": "红红的,枫叶,真像,红红的,手掌",
-      "explanation": "描述秋天景物的特征。"
+      "explanation": "描述秋天景物的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/932289ac404b7ddb8cca18641cc87f54ff363a6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1943f0a474f2b8650f2bfa051a37c95c5c4c13a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/2947f6f1f12d6130de7528255e263450094ec813.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b08be73bc178704b2c639cdcd042de1bf5b367ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/128403c2c03296c9b1f30b89d3eff66141bd4142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1943f0a474f2b8650f2bfa051a37c95c5c4c13a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5e96c88627ccdff56d36a10358a76936fb08a55.mp3"
+      }
     }
   ],
   "knowledge": null

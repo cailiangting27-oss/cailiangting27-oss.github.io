@@ -16,7 +16,11 @@
       "question": "自行车架做成三角形，是利用了三角形的稳定性。",
       "options": [],
       "answer": "对",
-      "explanation": "三角形具有稳定性，不容易变形。自行车架正是利用这一特性保证结构稳固。验算：稳定性是三角形独有的几何特性。 ✓"
+      "explanation": "三角形具有稳定性，不容易变形。自行车架正是利用这一特性保证结构稳固。验算：稳定性是三角形独有的几何特性。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83339581724b16f180df5ebed6255a8ee0b215e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/292ed506dae46050cfbf3d735170454b9bd98841.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "无数条"
       ],
       "answer": "3",
-      "explanation": "三角形有三个顶点，从每个顶点向对边引一条高，共3条。 ✓"
+      "explanation": "三角形有三个顶点，从每个顶点向对边引一条高，共3条。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/642467b369434e377811f808206157bc2c5233b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af044da8085f5fb2a70daf83411c0999cb0cf51d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bde19efd04c10dc59e3f08f2b3f53ab9b12fe0e.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "方形桌椅"
       ],
       "answer": "埃及金字塔面",
-      "explanation": "金字塔面是三角形，构造稳固。推拉门利用四边形易变形。 ✓"
+      "explanation": "金字塔面是三角形，构造稳固。推拉门利用四边形易变形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/6665a3107ba57ee8cfe77afea17af4d970fc8809.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23537f1c53f601816c19f3849b6af0a6c36e29e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7ff9e9bdd999a57f6db0db8eb2ecc9a04c5e137e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6c57d46e1c766b8b764745a0775fc0791175868.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ad1c82522be6b3ca1d61871ca7ff0387569de0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49a03221b72849d7338cb33ad22d3f801eef89ad.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "24"
       ],
       "answer": "8",
-      "explanation": "$24 \\div 3 = 8$ 厘米。验算：$8 \\times 3 = 24$。 ✓"
+      "explanation": "$24 \\div 3 = 8$ 厘米。验算：$8 \\times 3 = 24$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2199124d70f5f3c09d25ad38708efe9e7f06c0de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c22ba078e92c22845224a7328d51f3d0097b73f.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "三角形有 ___ 个顶点。",
       "options": [],
       "answer": "3",
-      "explanation": "由三条线段围成的图形有3个顶点。验算：定义概念 ✓。"
+      "explanation": "由三条线段围成的图形有3个顶点。验算：定义概念 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de3ad0a6d2e255d583d400e2bb354f82abad5c88.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a38ee9130949bbf2cd83f232508ba2d0b13f51e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "画高时没有使用虚线或忘记标垂直符号。",
       "误认为三角形的高只有一条。"
     ],
-    "tips": "画高要用三角尺的直角边，一条贴着底，另一条对准顶点。"
+    "tips": "画高要用三角尺的直角边，一条贴着底，另一条对准顶点。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/dc/dc3b3b1f50e93cfdd6da3cab925f5081c1d14f8b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e2/e2c004310a88213b0465b7f5294bf7d0a25b3eff.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/89/89f5ff576f82414928da633f1ac0a4b990136c0f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/68/6884dfc7b1a8ee4a4b9e9d89f29e78dc5ab871af.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8f/8ff7e491ed1506c19913ee01ff01d3feb931e22c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/13/13e76390ea55e1fb8fe17beb83d2b2a2e035c79c.mp3"
+      ]
+    }
   }
 }

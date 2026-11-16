@@ -21,7 +21,17 @@
         "鲜花盛开"
       ],
       "answer": "自言自语",
-      "explanation": "自言自语是描写动作或神态的。"
+      "explanation": "自言自语是描写动作或神态的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b98e0626b0b585aa0a6e71c0baf7173c9700f8d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/524599b6c7702f49f6e1cdc25f7de47be7a9dc16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a845dd420e6431283ef17bc8cf36e79b53eff01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a22129b0c6b37b9eb9077def566653faf323c5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/036bda5682d3026c4050acab6a31ab11d7ec21cf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5345e7ca74363a415b6cdd64472ff009200b2a0e.mp3"
+      }
     }
   ],
   "knowledge": null

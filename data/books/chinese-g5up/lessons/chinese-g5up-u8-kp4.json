@@ -21,7 +21,17 @@
         "反问"
       ],
       "answer": "比喻",
-      "explanation": "将书比作“长生果”，运用了比喻的修辞手法。"
+      "explanation": "将书比作“长生果”，运用了比喻的修辞手法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f14d4a486d5fd6aa25c5d514e9df2205785ff07.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe2891e0b4a974a6aed36cdc2759726e205b2577.mp3"
+      }
     }
   ],
   "knowledge": null

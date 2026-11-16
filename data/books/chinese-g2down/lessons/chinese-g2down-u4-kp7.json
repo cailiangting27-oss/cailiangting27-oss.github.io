@@ -21,7 +21,17 @@
         "胆量"
       ],
       "answer": "称量重量",
-      "explanation": "在“称量”中读liáng（动词），其余三项中读liàng（名词）。"
+      "explanation": "在“称量”中读liáng（动词），其余三项中读liàng（名词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db468cdc84960c6628a02cc3bb5183207c705181.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3f6d32e1a58e1b20ce4c5e1706c16262073bdc1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ace87194cf773c71b2e95de43dbb2eb6f40b0195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/043b41ab7d676582b6a7cd3ff6635e700a498923.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a8d88d5e9d0063cabf472d2d78bac52d693041c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/891648ec79de88a3d55de30d4989a53a7bc1940e.mp3"
+      }
     }
   ],
   "knowledge": null

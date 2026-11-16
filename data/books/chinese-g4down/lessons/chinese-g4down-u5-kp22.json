@@ -25,7 +25,21 @@
         "内洞"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "蜿蜒的小溪，突兀的岩石，漆黑的内洞，明艳的野花。"
+      "explanation": "蜿蜒的小溪，突兀的岩石，漆黑的内洞，明艳的野花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bba45c16f3ef4c78ed2e979aaee7638fe9fa0d57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1c42dc944f3dadc8e47e85e56ad66733ea0271c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f67b2e679743379aa2275eaa397096316d2c060f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a8df31c4293ab8b9b42b1d78b3440b53c85deca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b80008a8c6bdfe3c3dd7eb172309bde337904ac1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30dbe6736fe4c7658ed3d2dc32569e92d0796b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89fdb3d5221fb97b90430cddd28ebfeab0194852.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef1bc0bc2ebf30a6354267064a1d467e5ffffc5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54a4d1721470a091aa398a22babc023e487b481f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e74a243cdc53227b1b926c830cd848211744468.mp3"
+      }
     }
   ],
   "knowledge": null

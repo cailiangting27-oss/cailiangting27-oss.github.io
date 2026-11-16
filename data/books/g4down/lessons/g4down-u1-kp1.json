@@ -16,7 +16,11 @@
       "question": "在减法算式中，差一定比被减数小。",
       "options": [],
       "answer": "错",
-      "explanation": "如果减数是0，差就等于被减数。例如：$5 - 0 = 5$，此时差不比被减数小。"
+      "explanation": "如果减数是0，差就等于被减数。例如：$5 - 0 = 5$，此时差不比被减数小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2a637210be444e25e3c194ec8c144bf950d5e20.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d33e9f8f0a7e773a9546b2944ebb4a1b59a10ea.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "加法是减法的逆运算。",
       "options": [],
       "answer": "对",
-      "explanation": "已知两个加数的和与其中一个加数，求另一个加数的运算叫做减法，所以减法是加法的逆运算。"
+      "explanation": "已知两个加数的和与其中一个加数，求另一个加数的运算叫做减法，所以减法是加法的逆运算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7008b0d52e2143e75cc37a7faaf32cdad0c7c65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/046fb83721a06e042070c40d235937ab600272c9.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "$\big竞 + \bigcirc = \triangle$"
       ],
       "answer": "$\big竞 - \bigcirc = \triangle$",
-      "explanation": "根据“加数 + 加数 = 和”，可以推出“和 - 一个加数 = 另一个加数”。"
+      "explanation": "根据“加数 + 加数 = 和”，可以推出“和 - 一个加数 = 另一个加数”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60b2cf279c1a2620ef71bb8384670c211d194fa8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eaf54c05104eb8c15e8f9f4ca1e1405d50ec6b19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e1c3965047ea4120679a78b615a03661879d883.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/226fe55a40955538176b61748624e4806e8871c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b4b420ffcf496899daa1b7f7ac49aa16dd0eed6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/407fc0fd7762396c5306b7d6277363e3f19fb0d6.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "150"
       ],
       "answer": "200",
-      "explanation": "被减数 = 减数 + 差，$75 + 125 = 200$。验算：$200 - 75 = 125$。"
+      "explanation": "被减数 = 减数 + 差，$75 + 125 = 200$。验算：$200 - 75 = 125$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b73dac968ff1a77ed09524c9c1d0e6ec0b13ae0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13682ac418603aa0966369d46bbf282f562acf47.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ecd445b46ffbf49e83ad566be7874558a7b2e7b.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "320"
       ],
       "answer": "380",
-      "explanation": "$500 - 120 = 380$。验算：$380 + 120 = 500$。"
+      "explanation": "$500 - 120 = 380$。验算：$380 + 120 = 500$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50fd2d08643f4dee8b33d0299d6892b7bb259b1c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf32406111908544e504c84731147f072cdf2fbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c30749cf5bc74c7c3a7e5c8411512825e95333a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6153f0b97fb44420cd413a37979f8e6219fc3f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fdec83a2662ffe53af456402cbaeafa380b15b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f0ecf8d9db1669cabe98b995fd95016d38b6121.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "被减数是 350，差是 150，减数是 ___。",
       "options": [],
       "answer": "200",
-      "explanation": "减数 = 被减数 - 差。列式：$350 - 150 = 200$。验算：$200 + 150 = 350$ ✓。"
+      "explanation": "减数 = 被减数 - 差。列式：$350 - 150 = 200$。验算：$200 + 150 = 350$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83ee17d1e8283407a762a81283b526908aebc3e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a0a333ce34c7fb39f80b4789ebffd4ba83cca2b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "求减数时错误地用差加被减数",
       "认为减法的结果“差”一定比被减数小（忽视了减数为0的情况）"
     ],
-    "tips": "可以通过‘加法验算减法，减法验算加法’的方法提高准确率。"
+    "tips": "可以通过‘加法验算减法，减法验算加法’的方法提高准确率。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/50/50eeb0812b18a3b9f90516eb6879e1ce8b2ec960.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1a/1a23464cb430395de165fe5ea719e4f324fae783.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a6/a639109690b5f464843361d4b06de7f0138ac9dc.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/775bc90b1405e7514ccdff3c1c5fcae11f0d53b8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e8/e88bf4ef37a8393da5848e1a7cca84ff3d16149a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/77/77f5893f1b7e304a2ceb379674fca19e205f33f2.mp3"
+      ]
+    }
   }
 }

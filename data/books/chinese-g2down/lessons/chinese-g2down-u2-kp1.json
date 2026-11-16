@@ -16,7 +16,11 @@
       "question": "朗读《雷锋叔叔，你在哪里》时，我们要读出寻找的急切心情。",
       "options": [],
       "answer": "对",
-      "explanation": "寻找雷锋足迹需要带着急切、深情地口吻朗读。"
+      "explanation": "寻找雷锋足迹需要带着急切、深情地口吻朗读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b31e7690c63c1c05d4696725b07b1aed4c8d8d31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67700337e88c260d1968612167233d593d91eed1.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "他的好朋友"
       ],
       "answer": "迷路的孩子",
-      "explanation": "课文第一节中提到：雷锋叔叔抱着迷路的孩子。"
+      "explanation": "课文第一节中提到：雷锋叔叔抱着迷路的孩子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71b8da5a120e9df79c5d99f299fe8d2f29180d8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/849435e5df0072f1cbd428bca6812f6668c6dc7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59a50c9ffdee1702f044044f707775aa614b3c80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d5b8bec67cf3c1f5d5951a6c62f402293117323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ff8c74041d988d0734954d471235e74129cd48c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9f9685dbc25dd76744d7384d2fcb173c9acdc8a.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "完全重复"
       ],
       "answer": "问答形式",
-      "explanation": "诗歌采用问一句、答一句的形式寻找雷锋。"
+      "explanation": "诗歌采用问一句、答一句的形式寻找雷锋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fbcf8169dff17c67367e8e869369b33d8e2210b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c38988dd9fbbefde8ada282f581b18c7354e2fc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5eec2c395e7c8f37cc2fe4dc9f129af2cc4da2fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6412a49660c561f2917daca7b070e8603049c5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d5094fa9a8fbad378a156bbbeadd3b207fc7fc5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60163a91f201c2672fd4cb37ca96289b933801c5.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "我们要到处分发东西"
       ],
       "answer": "我们要学习雷锋乐于助人的精神",
-      "explanation": "这表达了雷锋精神的传承。"
+      "explanation": "这表达了雷锋精神的传承。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d084df62f1d88608bfaec9ed8059e8896e630383.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/508fb86e1aba986c2a9ae06d32c1895250c998bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6240d622327a4d9a5735825eba980911fa85257.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09d423ba83e9cdf092f18febb90568ffb99e05e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7469e63be9eb4759ce170e23a82b93c8cd8cba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6c33851a236cc5cc09352faf75ca7593cad76df.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "他在幽深的丛林里，洒下汗滴；他（）年迈的大娘，踏着路上的荆棘。",
       "options": [],
       "answer": "背着",
-      "explanation": "雷锋背着年迈的大娘，是课文原文内容。"
+      "explanation": "雷锋背着年迈的大娘，是课文原文内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/762e8668ad9f542ae6beb4d15a0c8fb8c83014b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6b6d0032d55eefa67306421ea660ca4be95eac5.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "静静流淌"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "溪边抱孩子，路上背大娘，荆棘丛里伸出援手。注：D-4属于逻辑配对。"
+      "explanation": "溪边抱孩子，路上背大娘，荆棘丛里伸出援手。注：D-4属于逻辑配对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e793740a100b6a087f8d9302092617ba0afff331.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef1bc0bc2ebf30a6354267064a1d467e5ffffc5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5508a1c47bd2704dd028f0ed2acff3fb0a9d12c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/360225ab94a02871aa75950947d2f98e4ed9d2cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70dbca93fe428eb3c7ce92741971d67462a9a213.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd1bcf8b8973570b71237791f5cd81d79a509d57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9a11a31bb3d9d91481c50f0d6bcadc7d986766e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad1a18de45b5df7106f72af3a386ae38531d7224.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b73c8c066732fc5808750c9105afae99f3473a9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c57149d96b4744dde5153f3a78247e982ec3456d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "读问句时语调平平，没有起伏",
       "忽略诗歌的节奏停顿，一读到底"
     ],
-    "tips": "朗读时想象自己真的在森林中寻找一位老朋友，眼神跟随文字移动。"
+    "tips": "朗读时想象自己真的在森林中寻找一位老朋友，眼神跟随文字移动。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ba/ba716a68c907c85f20c2cad8e1cc165118022ebb.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/79/790d5ba30d6f988091a8b9211c5820055df81291.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8a/8a1b62ab4241c0896dcb8c96ee09d73d2d2ca2f3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f16561cfde368239c1ad8e1b25a0ccb97276f07.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2b/2b34ffac78ec9cd6d06f8900cea1861cef096470.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e7/e7cdc46f31308d2194ead1ce098657e57e9b8fa5.mp3"
+      ]
+    }
   }
 }

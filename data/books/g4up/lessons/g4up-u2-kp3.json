@@ -16,7 +16,11 @@
       "question": "学校多功能教室的面积大约是 2 公顷。",
       "options": [],
       "answer": "错",
-      "explanation": "2 公顷是 $20000$ 平方米，教室面积通常在 $100$ 至 $200$ 平方米左右。验算：单位量级不符。"
+      "explanation": "2 公顷是 $20000$ 平方米，教室面积通常在 $100$ 至 $200$ 平方米左右。验算：单位量级不符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50c0c85a7a4497ab51600e8aa672d95605b78e94.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/960609b1fe07c55e69f32b09764c26540ab1f5ac.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "平方分米"
       ],
       "answer": "平方千米",
-      "explanation": "描述大城市的土地面积通常使用“平方千米”。"
+      "explanation": "描述大城市的土地面积通常使用“平方千米”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/265a592ed3e7f703d387cc7c155906c46f1a7a05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28213b325f059ae9d2e8f5a23cceab5ce551ba07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9e8c3f5f92c0298b83db026d522fd36f866a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9af8d4077ee00b891bd5b547e0385cec31912906.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "平方分米"
       ],
       "answer": "平方米",
-      "explanation": "足球场边长约 $100$ 米和 $70$ 米，面积约 $7000$ 平方米。若填公顷则过大。"
+      "explanation": "足球场边长约 $100$ 米和 $70$ 米，面积约 $7000$ 平方米。若填公顷则过大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5004cd07c29565f7b411058e7e8bc16b8ef09943.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28213b325f059ae9d2e8f5a23cceab5ce551ba07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9e8c3f5f92c0298b83db026d522fd36f866a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/faaafc711ba26084608aa1810e478e28ae2f2953.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "$3$ 平方千米 $= 300$ 公顷，$30 < 300$。验算：进率是 $100$。"
+      "explanation": "$3$ 平方千米 $= 300$ 公顷，$30 < 300$。验算：进率是 $100$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b10816c2aa91b17e1d4c8f969a2122d3aeedc15a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fad5eb81420cce5cf6c63e07031552e49b3653ac.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +108,17 @@
         "1000 公顷"
       ],
       "answer": "100 公顷",
-      "explanation": "$20$ 千米 $= 20000$ 米；面积：$20000 \\times 50 = 1000000$（平方米）；换算：$1000000$ 平方米 $= 100$ 公顷。"
+      "explanation": "$20$ 千米 $= 20000$ 米；面积：$20000 \\times 50 = 1000000$（平方米）；换算：$1000000$ 平方米 $= 100$ 公顷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/047d47a0f0686e7d34054c7da7c1e0b23b315074.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5fde33ffce76364fb2986bc9dc4dcfe54158f9f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55654cd044e79a1e56b2deb6f4b4a11988cc69dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfa116e490a5a94d85625138c112c48ccaa4de3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d3afe1d0245a22f6fb905805eb821cd67dc05b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/680b04675ebb39970e3ab84b407be8e7522c7455.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +134,17 @@
         "1200000"
       ],
       "answer": "120000",
-      "explanation": "$1$ 公顷 $= 10000$ 平方米，$12 \\times 10000 = 120000$（人）。"
+      "explanation": "$1$ 公顷 $= 10000$ 平方米，$12 \\times 10000 = 120000$（人）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a135c7f437259ce6da5ef6929f2b7865127b5f69.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73ee4958bdb5a056029ebd39b8abbaa3dbc0f333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb46f8e5019ea01b1c23838fc12704cae467c1a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7453e215b7431cc51bb658a46e0128e204829b06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/712a9df18b3c94abf29fc7135a4ed9aa5899d10e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ed23fc41456b83ac8ac6f09fb7150efa346bba2.mp3"
+      }
     },
     {
       "id": 21,
@@ -107,7 +155,11 @@
       "question": "一间教室的长是 10 米，宽是 5 米，___ 间这样的教室面积是 1 公顷。",
       "options": [],
       "answer": "200",
-      "explanation": "教室面积：$10 \\times 5 = 50$（平方米）。$1$ 公顷 $= 10000$ 平方米。数量：$10000 \\div 50 = 200$（间）。验算：$200 \\times 50 = 10000$ ✓。"
+      "explanation": "教室面积：$10 \\times 5 = 50$（平方米）。$1$ 公顷 $= 10000$ 平方米。数量：$10000 \\div 50 = 200$（间）。验算：$200 \\times 50 = 10000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/776a9279787a40def0295fa8e4585cd198c880c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1d259d34c559a2de1e6f2d2023ede478b2700f2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +170,16 @@
       "不看单位直接相乘，如长 500 米乘以宽 2 千米。",
       "生活经验不足，将学校面积填成平方千米。"
     ],
-    "tips": "做题时先看清单位，如果是大数换小数就乘进率，小数换大数就除以进率。"
+    "tips": "做题时先看清单位，如果是大数换小数就乘进率，小数换大数就除以进率。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/28/28aa251625d34a3585dd2ad03afb6033145a7f40.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1a/1ae7f0fd497e6b5facf5eded0d30f2b632259a54.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/dc/dc1bc089a13b5c43f6ba6c9692e5caa3e9262b3a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2b/2bbc1faffc87b9cf49406dfd192724ae4b3ca82d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/61/617a72c890bd2d0931fb3a35f2a46197765f5d92.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2e/2e440e034149c377c997099991da2d80c8107a49.mp3"
+      ]
+    }
   }
 }

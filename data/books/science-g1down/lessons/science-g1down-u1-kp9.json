@@ -16,7 +16,11 @@
       "question": "水是一种没有颜色、没有味道、透明的液体。",
       "options": [],
       "answer": "对",
-      "explanation": "无色、无味、透明是水的典型物理特征。"
+      "explanation": "无色、无味、透明是水的典型物理特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a081f0a272b1b1570d41538236afe2fb7e8e9345.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a705c3b6c5edd4bb471e2db3be22ad799cb363b.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "透明度"
       ],
       "answer": "都会流动",
-      "explanation": "水和洗发液都是液体，共同特征是具有流动性。"
+      "explanation": "水和洗发液都是液体，共同特征是具有流动性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4afcd711590ee9d5971e9b6a55a14b566fbe2e7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b12f1daaeca8d8fd0ae33b483ca13093272dd23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13f48f0659a986a4e491a37d40b86f584fa6900a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61b101b501cb32a97ab6a75112d853cc042599a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f160c81d02a98f261681342f5aa773ea6f77c39c.mp3"
+      }
     },
     {
       "id": 21,
@@ -43,7 +57,11 @@
       "question": "水是会（___）的，所以它没有固定的形状。",
       "options": [],
       "answer": "流动",
-      "explanation": "流动性是液体的重要特征。"
+      "explanation": "流动性是液体的重要特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da02cc53fdcf91f0ac94944be041cc06a26b8abb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/913f3e7f46f1fa1ba79c5346571e50c53571449c.mp3"
+      }
     }
   ],
   "knowledge": null

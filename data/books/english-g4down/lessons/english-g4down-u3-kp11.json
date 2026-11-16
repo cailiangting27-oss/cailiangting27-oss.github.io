@@ -21,7 +21,17 @@
         "Goodbye"
       ],
       "answer": "Good night",
-      "explanation": "睡觉前说晚安(Good night)。"
+      "explanation": "睡觉前说晚安(Good night)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afcda5fcb221fed36adfbd4ec90dabb3936f99d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13fd0a3ec7c352d01eba2942e5d9134834589b71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/897ecf7fc9b61c36ad686804da5a9af33975a425.mp3"
+      }
     }
   ],
   "knowledge": null

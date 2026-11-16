@@ -16,7 +16,11 @@
       "question": "住房的供水系统是通过水管与外界水源连通的。",
       "options": [],
       "answer": "对",
-      "explanation": "住房系统是一组相连的零件或部分构成的整体，供水系统负责引入、过滤和分配水。"
+      "explanation": "住房系统是一组相连的零件或部分构成的整体，供水系统负责引入、过滤和分配水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6bf8721ec345d8677e66992079d77c778dbe1d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3ea6058ea6996e653b877fee4061b82ed7baea0f.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "设计方案的改进不需要考虑成本，只要效果好就可以。",
       "options": [],
       "answer": "错",
-      "explanation": "工程评价是多维度的，成本控制是工程师必须面对的关键限制条件。"
+      "explanation": "工程评价是多维度的，成本控制是工程师必须面对的关键限制条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95525357c95510516a530e7ace066571e1dd20b7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d7a3573740ce9c8283e3456f6da8ad3c570f4dc.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "神舟飞船的发射属于一项宏大的科学探索，同时也属于一项伟大的工程。",
       "options": [],
       "answer": "对",
-      "explanation": "航天属于复杂的系统性工程，包含设计、制造、测试等环节。"
+      "explanation": "航天属于复杂的系统性工程，包含设计、制造、测试等环节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e48ed55e42b332764cee7d4ac9045cf017f60432.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b5a0d5aaffed7c519e72afeafc75e0fba751562.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "测试塔台抗震能力时，通常可以用晃动桌面的方式进行量化模拟。",
       "options": [],
       "answer": "对",
-      "explanation": "在教室内，通过不同等级的震动（如专业震动台或模拟晃动）来检测稳固性。"
+      "explanation": "在教室内，通过不同等级的震动（如专业震动台或模拟晃动）来检测稳固性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ead5ad9e19c6c08d0a7cf064796f4fe1aef3533f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbb3569dcd5a09c0bcf179cdf8b1f703acf957d8.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "第四阶段"
       ],
       "answer": "第一阶段",
-      "explanation": "工程的第一步是明确任务，了解目标和限制条件。"
+      "explanation": "工程的第一步是明确任务，了解目标和限制条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48596cba79d8eb12ff6d77f618cefc1b902c0631.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/198805355d85d67ce43b6bc30aa1e89c8b6c61bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0aaccd4ac8a6ee14c3fedec328aed3bbb8ff9c29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/798eea3fe1434f48c06a771d6b6a01d44204d818.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/893559abd6b6918edccb215bc5ed70aa186acdb8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6d342f26d7d4251685bb856d435a5b74e40ed37.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "三角形"
       ],
       "answer": "三角形",
-      "explanation": "三角形的三边长度确定后，形状就固定了，具有稳定性。"
+      "explanation": "三角形的三边长度确定后，形状就固定了，具有稳定性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b7e056f247b2b54b24f612bfa5c79cff068fa39.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a75ad7527d56012002b08c8b8b6de46d2e05193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a631d4703e3917a3ce15965a9898fe302ccfd61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa8aab3ec75cc59b68234f2ff95d40f2b8e094b0.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "埋怨队友配合不好"
       ],
       "answer": "反思设计中的问题并进行优化",
-      "explanation": "失败和问题是改进设计的契机，也是工程师成长的必经之路。"
+      "explanation": "失败和问题是改进设计的契机，也是工程师成长的必经之路。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71e3aca1ea5e910fbebcd65479b5f7e8264cc211.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4ffbad11360530cddeb795225d6af1a5cdf4701d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5afe7ed0c3539809b21f1a9b9244da3582e8ad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46dad0329cd327bd7ab30a07f9d58d9d4499f9fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56f4a646bdac93ba8bbeaa70f06f258661c86759.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d543a9acd6634178add8ede21545acb811c8462a.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "这种吸管质量不行"
       ],
       "answer": "平衡成本与安全的关系处理不当",
-      "explanation": "工程需要在安全、性能、成本之间寻找最佳平衡点。"
+      "explanation": "工程需要在安全、性能、成本之间寻找最佳平衡点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1ff4a8fa27b38985eb6855b42c412b3efa6527df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/11d6ee36daa490e2160ed45ad93498ab7b2b0d67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b5bc5732d8fae880abe961e0408ce48bf5d9131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8dfe52ee3ad98956026374d33899ed79080c1ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2394573beb9979059df69cb3185d75fe19a585ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0266c0cd6da979248e75a109a7427142e4f1a2ae.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "直接当作最终成品使用"
       ],
       "answer": "测试设计和发现潜在问题",
-      "explanation": "模型测试是验证设计可行性的低成本且高效的方法。"
+      "explanation": "模型测试是验证设计可行性的低成本且高效的方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d990469540214f252c35ac57af25d8a2aebdf5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b73b630de4fec4af30e471bd72d3a6d3fcaf49f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adca7718e2272566987cc39c32f772f2367a6550.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26d09edc3101dc5d520d34f61e25cae53adcb036.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08ca77dc3feb14cc8edd6f45abef74dabb2b85af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34c0c1e2ac04a57fc9faedfce90b1b4775fce3de.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "没有负面影响"
       ],
       "answer": "增加结构负荷且浪费成本",
-      "explanation": "过度缠绕胶带会增加自重并增加材料成本，不一定是好的设计。"
+      "explanation": "过度缠绕胶带会增加自重并增加材料成本，不一定是好的设计。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6a5880653ab71ca5329ea533883cceaffa9c8cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c199795ecf6bf6c6ef6823cd4b3f5f35518a994.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c251ba460b302668889632e21d8b26cb1f39a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9764d34a78797687b66141deddf983fde6b6addf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18882ecd2fb697d3d68d9636c55cf106dc5c18fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/debc23956a831771061c5c138283d8f1d5e291a2.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "水立方游泳馆"
       ],
       "answer": "胡同里的临时棚子",
-      "explanation": "工程通常具有明确的设计、施工和长期的使用需求，而临时简易搭建不算严格意义上的工程。"
+      "explanation": "工程通常具有明确的设计、施工和长期的使用需求，而临时简易搭建不算严格意义上的工程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb77bc15025672d9c27df976abbfedd7fd694c94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d17e7a2d82911d9cc3e7920a0870c0f507d4dfe5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb5e37176a7207689278d4bc947b6d053e9c2558.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05b95f41c896bc3fd75e9f5036a52dc4daf80b84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78b501d6fa11cbf2b341175df69b78a9774c5481.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1ad254240666a44d2a322a6c9566bd6139af9c21.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "尽量不接触地面"
       ],
       "answer": "底部做得重一些，重心降低",
-      "explanation": "上轻下重、重心低是物体稳固的重要条件。"
+      "explanation": "上轻下重、重心低是物体稳固的重要条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/2581eaef02d5823049aef253437df365cdcd60c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b25bdf3c89efa0017aa2c0d467ecea42a46b180a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2f6a3a4f099d651b0fa1c69c416bbd7be4a1335.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd33a515214ca31a988d77f3f23051216cb5a51b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53273d4db4aaad50a7a796314747fc2884b7bfd3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/eac8f421217315dca666417d21d6bbf31fd710d0.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "在制作高60厘米的塔台模型时，如果实际高度只有58厘米，在评价表中这一项得（___）分（假设满分3分，每差1厘米扣1分）。",
       "options": [],
       "answer": "1",
-      "explanation": "高度每差1cm扣1分，差2cm扣2分，剩余1分。"
+      "explanation": "高度每差1cm扣1分，差2cm扣2分，剩余1分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64b076e2d046459a0f6442a384aaa5619606fdf7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8ee5aa7d3794f8ece3230de346826e7ee45fded.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一套普通住房通常包含卧室、客厅、厨房、卫生间等（___）个及以上的独立功能区。",
       "options": [],
       "answer": "4",
-      "explanation": "基础住宅一般由这四个核心区域构成。"
+      "explanation": "基础住宅一般由这四个核心区域构成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8ade3db7dfca390b7441c284e73fb4e0f02dc78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a510b2b3d6dcd7178e9cf4d96d3a91b6c78020cf.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "工程设计的核心是（___）技术，通过技术手段解决实际生活中的难题。",
       "options": [],
       "answer": "核心",
-      "explanation": "工程与技术相辅相成，核心技术是工程成功的关键。"
+      "explanation": "工程与技术相辅相成，核心技术是工程成功的关键。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c867d0186232917a540e4e4146937bec620d502a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e62e06fa0a1978428987dc6902eb01833ea5f34.mp3"
+      }
     }
   ],
   "knowledge": null

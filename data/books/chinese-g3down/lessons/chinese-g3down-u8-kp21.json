@@ -22,7 +22,18 @@
         "跳了起来"
       ],
       "answer": "急性子顾客,在,裁缝店里,又,跳了起来",
-      "explanation": "主语+地点+动作的结构。"
+      "explanation": "主语+地点+动作的结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/188c27b6494218b8f1d31af13ac666a5e54e9e4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a556b8cdbdc78097b84e99181aa06f3e084b476.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/776be27c9527aa770d3f5e94728020e81e279ab0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c2b677cfdc75c37439de6f8469dc759c1048f50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9d281ab2d116496b4e413440665955bac8976a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b959ce064ca08fe20add6032d57c724f935700dc.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“这一叠传单”中的“叠”字读音是“dié”。",
       "options": [],
       "answer": "对",
-      "explanation": "叠字只有这一个读音，读dié。"
+      "explanation": "叠字只有这一个读音，读dié。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a611925c95e9414703aae579db44f1a1271acd1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5704568601a408d7d52ff6de5ffa887632cf36e5.mp3"
+      }
     }
   ],
   "knowledge": null

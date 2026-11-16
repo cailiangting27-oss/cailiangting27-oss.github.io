@@ -16,7 +16,11 @@
       "question": "在句子 'Check it out' 中，Check 和 it 之间通常会发生连读。",
       "options": [],
       "answer": "对",
-      "explanation": "辅音k和元音i相连，通常需要连读。"
+      "explanation": "辅音k和元音i相连，通常需要连读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f61287bd2bff252bf938da7095bcd50bc02a849.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5e2b9c93894e3df936b7dd742f09cf32e9d387e.mp3"
+      }
     }
   ],
   "knowledge": null

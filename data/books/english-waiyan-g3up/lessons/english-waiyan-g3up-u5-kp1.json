@@ -21,7 +21,17 @@
         "I can have an ice cream?"
       ],
       "answer": "Can I have an ice cream?",
-      "explanation": "元音音素前用 an。"
+      "explanation": "元音音素前用 an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9052a82765c1a9d7c9170028324960f2a8123bab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f41ab20b90ead5ddbadfebc5b2b840ff3c997c45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c9d17b3c4d0139a59642b1d68a3a4b50a5bcdc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51a4fe0f5b19ec48c0b1184bcc242e4ba9765c16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca609d97b1d5d087be054e913be4f48a0bb95a85.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d86ebca59d9d11c9490d26d06ecad8037d56003.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "Yes, please do."
       ],
       "answer": "Yes, you can.",
-      "explanation": "问 you 答 you。"
+      "explanation": "问 you 答 you。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bd5c478b342497ab089bf080cbc2ffccaca0832.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9b7f311a0fbfaead32e2e31dba1d379c239df35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec49420002d410a20cee0a8f2d83028249f6965.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e5bcc88841ed72f68f92130a3b2ce0171be7e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bca6340affaf24dcd383a2536dcb6a9dfc3b717f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dc3b8b1a19d32a978dcc89a22f2df6bb8e53f28.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "Can I come in? 是在请求许可。",
       "options": [],
       "answer": "对",
-      "explanation": "请求进门。"
+      "explanation": "请求进门。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1d40631ca65211a8c28dfeefaaf4e40d4d574d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf98458a86ec4010cc91c3be55560611b1471f28.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "请求时用 Give me…（不礼貌）。"
     ],
-    "tips": "礼貌请求带 please 更好。"
+    "tips": "礼貌请求带 please 更好。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/19/19671019af36fa21254cabddb02ac0cbe931b0b6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fa/fa1193b24e7ee23b50fae5df88cefb74982c5fa3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b1/b1bf5c952f0a0c27df40151320746baf141507cb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bf/bf9c53875d8847649b96e67be7d1aa2a92464971.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bd/bd04bf21372bae3ac1ba96b0066c7db53a95ab69.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "在轮轴的轮上用力，一定可以省力。",
       "options": [],
       "answer": "对",
-      "explanation": "在轮轴的轮上用力能够绕轴转动从而省力。"
+      "explanation": "在轮轴的轮上用力能够绕轴转动从而省力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1ff94b35df857727cce3227640ac4907c8896b7f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/554a58f90a3ff24b732c3884d3904ab1068b063d.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "磁极相吸"
       ],
       "answer": "磁极相吸",
-      "explanation": "指南针利用磁性，非机械工具原理。"
+      "explanation": "指南针利用磁性，非机械工具原理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77ddc61142d25bbc3e2950a6d524e9ebb14c7386.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/edaa33a157d56d7087aa94be0453e9b5f3f52ba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f61e0d138eb1fdee4fdd7dd278297ce3948bf672.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b0aadfaa509b870b0025bb942a19341110e2d27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cc941a37338040acaee7d2193c7c64ad519355c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a69bde4191515467d2b03dadb71ede87b00a63da.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "粗糙路面大",
-      "explanation": "接触面越粗糙，产生的摩擦力越大。"
+      "explanation": "接触面越粗糙，产生的摩擦力越大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9ce8540cf2a34767f41c2eecb53c6cec1046c869.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/564d66e332175bf49b1411f47f0be27d45659dca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b47e1032942c639851cdcce966c4e044720d0ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aecd0814c75ee04321cf8eb10637bbe38a2a86d3.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "由半径较大的圆轮和半径较小的轴组成的简单机械叫做（）。",
       "options": [],
       "answer": "轮轴",
-      "explanation": "轮轴包含两个同心圆结构。"
+      "explanation": "轮轴包含两个同心圆结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d301f42b996fbba7229cfdfcb2209dd737e19f82.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aea67788b0ea8b38261c9995e32759ca7b68c0be.mp3"
+      }
     }
   ],
   "knowledge": null

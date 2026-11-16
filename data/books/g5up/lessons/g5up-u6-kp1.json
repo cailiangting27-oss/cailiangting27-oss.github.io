@@ -16,7 +16,11 @@
       "question": "平行四边形的底越长，它的面积就越大。",
       "options": [],
       "answer": "错",
-      "explanation": "根据公式 $S=ah$，面积由底和高共同决定。只有在高不变的情况下，底越长面积才越大。如果高变小，面积可能变小。"
+      "explanation": "根据公式 $S=ah$，面积由底和高共同决定。只有在高不变的情况下，底越长面积才越大。如果高变小，面积可能变小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d8c1902058939ca7555b3a75711c413063cb41c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44a6f65797dc0b140930995036c26a4045966a05.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "120"
       ],
       "answer": "60",
-      "explanation": "$10 \\times 6 = 60$（平方厘米）。验算：$60 \\div 10 = 6$ ✓。"
+      "explanation": "$10 \\times 6 = 60$（平方厘米）。验算：$60 \\div 10 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b160cd1991cd961ebf26cc8c4196ae55ec386bb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/7251195220523525792cd42fa2e466f0b7933041.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "变小",
-      "explanation": "拉动时周长不变，但高变短了，底不变，因此面积变小。"
+      "explanation": "拉动时周长不变，但高变短了，底不变，因此面积变小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6ba0009d108b4bd2a04ff7fe27ad5d66ac8631bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f882eb7b120597033899a41bcb7c2474bfce4893.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "3"
       ],
       "answer": "6",
-      "explanation": "$3 \\times 2 = 6$，根据积的变化规律，面积应扩大到原来的 $3\\times2=6$ 倍。"
+      "explanation": "$3 \\times 2 = 6$，根据积的变化规律，面积应扩大到原来的 $3\\times2=6$ 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5be7affd0f89a919dc5b04c452bc31ee889ce08c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7527b295a6caafde814d8f4d7aa2b901202001a3.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "4"
       ],
       "answer": "8",
-      "explanation": "$48 \\div 6 = 8$。验算：$8 \\times 6 = 48$ ✓。"
+      "explanation": "$48 \\div 6 = 8$。验算：$8 \\times 6 = 48$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afffd4a2d75a4fba7ad6b3e25602488b3c4e35bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ade1ea1f75810ad617168beebdf0e5ae6bb4300a.mp3"
+      }
     },
     {
       "id": 19,
@@ -91,7 +135,11 @@
       "question": "一个平行四边形的地面，底是 20 米，高是 5 米，面积是 ___ 平方米。",
       "options": [],
       "answer": "100",
-      "explanation": "列式：$20 \\times 5 = 100$。验算：$100 \\div 5 = 20$ ✓。"
+      "explanation": "列式：$20 \\times 5 = 100$。验算：$100 \\div 5 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12d905590f6e2762721c2b87dbf11dbb92fc807a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df9b98009da4bef1c4d86697c691fe8c31047641.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "计算面积时误除以 2（与三角形混淆）",
       "计算面积时没有找准对应的底和高（高必须垂直于底）"
     ],
-    "tips": "拉动长方形框架变成平行四边形时，周长不变，但由于高变短了，面积也会变小。"
+    "tips": "拉动长方形框架变成平行四边形时，周长不变，但由于高变短了，面积也会变小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/43216a11e9cd3bb08d5a2400c8cd0ac41b610c8d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/27/2709bf432ac5d5bcc336823584cba1b959bb8207.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6d/6d94a469add56f4024ff97c55ec75a8c04ca42e9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/61/614408c41bdec0f156fbb981c2027d8181ce23e0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a3/a3c18995171d9dac4ca4c296a1bc23d52ccf3b25.mp3",
+        "https://api.clthuanxie.cn/cc-audio/83/8387f1abf31b639e0ece1a2f807bed733e479236.mp3"
+      ]
+    }
   }
 }

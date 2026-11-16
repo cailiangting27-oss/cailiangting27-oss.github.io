@@ -16,7 +16,11 @@
       "question": "“诚”字是平舌音，“实”字是翘舌音。",
       "options": [],
       "answer": "错",
-      "explanation": "诚(chéng)和实(shí)都是翘舌音。"
+      "explanation": "诚(chéng)和实(shí)都是翘舌音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82009f754546a8a859b191b39d0f7a75a029400f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cce724b8bc15713ceca29898d86060941c944586.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“群儿戏于庭”中的“庭”指的是“家庭”。",
       "options": [],
       "answer": "错",
-      "explanation": "在这个语境下，“庭”指庭院、院子。"
+      "explanation": "在这个语境下，“庭”指庭院、院子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf9d6845bf5d6e11235a9c563f9c13188cb91a81.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4ee7949d1713f3bbd212ab2bea2d334ac88267c.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“一定会飞回来的！”男孩肯定地说。这句话的标点使用是正确的。",
       "options": [],
       "answer": "对",
-      "explanation": "提示语在后的标点规则，引号后用句号。"
+      "explanation": "提示语在后的标点规则，引号后用句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b57f5ec11c88407a5b3ccf4bd13ef8601db45a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d4f246f50114fd24f6ab3449a661eb785befac7.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“惋惜”和“可惜”都有“舍不得、感到遗憾”的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "这两个词是近义词，都含有遗憾的意思。"
+      "explanation": "这两个词是近义词，都含有遗憾的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/2294edfef650ce9c261f99d4b9dd7e88d9d92454.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/477b7a77a6ed65bfbb75838d42fce7f906f66532.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "珍惜  烈宁  可惜"
       ],
       "answer": "粉红  面包  胸脯",
-      "explanation": "B项“或许”，C项“战火”，D项“列宁”。"
+      "explanation": "B项“或许”，C项“战火”，D项“列宁”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19dcb57ea9b60eb73b66ff51251a87f050e869a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98904242b2343751ee7e5c6801373e640da4c01a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8c3fae5a4344db06c829d3d2ca06caa590e577f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b06dc40804be428191cf618b929d3406ee1629a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4dafba19b9ce221141c2227ed5c65d64dad581e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fb1290fde75ae913dd301e837f01e944ed3e0d2.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "水干了"
       ],
       "answer": "水一下子涌出来",
-      "explanation": "“迸”字生动表现了缸破后水流出的迅猛，暗示得救之快。"
+      "explanation": "“迸”字生动表现了缸破后水流出的迅猛，暗示得救之快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca81fff3cb9b151c2826ba215e7674475a7c0e05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed1e4a7b8cc54d628de9bb1cad827cc29925fdb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5ee970124a07746a3456b83017f69aece05d6ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9efd760afb81381f5936303075e27af42ab11a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6922cf1648aa402eb860962cefaa3776cf7fdf3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2bc62414ea4263d428f448f2bb2b9ef9f51913cb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "借我书，听见没？"
       ],
       "answer": "请问，我可以借你的这本书看几天吗？",
-      "explanation": "使用了礼貌词“请问”，并以商量语气表达。"
+      "explanation": "使用了礼貌词“请问”，并以商量语气表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4bdf033c137dab58921c21a463e00bad540c94e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a90e90e82dc7c6132b61c1dd1857da594aa6f6f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/114fbec9f7879238a37a93e67a8b5c0a7fdbee59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82055c7fdc5126e75b8e8118751fad512a192dc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/788484160627bf2818c95c7cd976deb95d6f81ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cecfd1253c02befa622961e2412e326c5784fc96.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "白求恩动作缓慢"
       ],
       "answer": "白求恩非常珍惜时间，在和死亡抢人",
-      "explanation": "争分夺秒体现了对伤员生命的极度负责。"
+      "explanation": "争分夺秒体现了对伤员生命的极度负责。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b4aa7aa893cb69e68ee4bb0aee52f227f6746c3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/10ad4dcb1a7b4f222d3c8c5b96a0e8f027d50c8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48ea922ea85480bc1bbbfba7cb11bdc8be594833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17f3841dc9e8440fe5ca9d39a7ac94568300c992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/639c8069c3249e563ee293a128ba3e5f1a9ec628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0ff5fbaeba0da6b8d13e55ca9f1a1ff5fea3c1de.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "列宁害怕那个男孩"
       ],
       "answer": "为了保护孩子的自尊心，让他自觉诚实",
-      "explanation": "这是《灰雀》一课蕴含的教育温情。"
+      "explanation": "这是《灰雀》一课蕴含的教育温情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5dbd309708daaf87772e3c314a78b2a8df2afde2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af932d6320e542c08387ae8464b392617131c26d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b048cc16ecd60559aa67d7ac49106c3518b5722e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4426024487cfb7057c66a8d71081fe35b53f065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/fff4487546421a9102fc49ce3006f4e3b6f0d8bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2a5fd25ea4aa01d403282a2825107df309b68fa.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "列宁家太远了"
       ],
       "answer": "男孩还不够诚实",
-      "explanation": "送回灰雀是男孩改过自新、诚实表现的行动证明。"
+      "explanation": "送回灰雀是男孩改过自新、诚实表现的行动证明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48f549ed086da8f1aaf2b535f5bf39f3594d8559.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91db7d873cd97a508c43ec2c7f1c68b0fb6fa669.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52377084fde4fe394568d5b58d20edfd1962ca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd520e14f9ba93a7fc6c441d6d62055867b67b47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c082fe41c6f9fd455d9fcf058461631d9426d682.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2eb3e0a0e956a08326e19e38f9e0f0f13ae20178.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "列宁（  ）地问：“会飞回来？”",
       "options": [],
       "answer": "自言自语",
-      "explanation": "自言自语是书中的原词，体现了列宁说给孩子听的技巧。"
+      "explanation": "自言自语是书中的原词，体现了列宁说给孩子听的技巧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5428b153f3e8906329f82e1a64d9a607783874e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/284a9420416c7279c9a5e1d01f43e031a9cac868.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "形容白求恩工作的成语是：争（  ）夺秒。",
       "options": [],
       "answer": "分",
-      "explanation": "考察成语“争分夺秒”。"
+      "explanation": "考察成语“争分夺秒”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2846bcacc30351c72b48190a721d8c0f04ad673e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5ff6182c3a3baa3eb6543353f43d50603b4dbc86.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "没有"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考察多义字在不同语境下的含义。"
+      "explanation": "考察多义字在不同语境下的含义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b2d7ceb0c7c01451f6a5153e11f9e338ffb12f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f946d2961abe34fda9f43d645d0a1943b9ca13a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df96e37ca4b98b56ef2462a6dce478475e0bd398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55a5ee99aa2f83775419a65c0a3cd1564190e33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15a8ef2fb530a35dd9e89c8417e7c737d731ee9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d51dd8d130ce462e444239d77070d038fb8e920a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0864a46cdb517bc2101e1e750dd1b39a0ec29469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd646bbf9e9bcd15d78646b0097394aefac64580.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dcff1ebe3337ec442505591882999abdceb4926.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12b55f1588d70e4c502155cfa13f4fd77b740c67.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "惋惜"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "本单元重点近义词掌握。"
+      "explanation": "本单元重点近义词掌握。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c32a10d362345be73723499542b372aac48e56c3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/904df0e4d2d270704f64cc7475a8e3f84be8c130.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef1979d22544f238fabe461f13a1ac47b1209368.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62f3726a5703bd5a4dface6a9c95b9fd651534aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/313a609ba5c85a1d9e611107dc35200b7404844c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/493c2bf532c97a4cc51b288a921a916ec8511c13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc5dc7595afefba43cd16efb904ba72a71c4fdf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d59129599f9c8c9c33ab6d74f9013e793fc592e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc3e3f2cb341a955be0643a7bd4f074a3a3fef14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c9b112de8009fc2a36546d777255fbb6536d8de.mp3"
+      }
     },
     {
       "id": 22,
@@ -222,7 +334,16 @@
         "群儿戏于庭"
       ],
       "answer": "群儿戏于庭,一儿登瓮,足跌没水中",
-      "explanation": "按照起因、发生的顺序排列。"
+      "explanation": "按照起因、发生的顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b08a6a82ef22f098f5a4df33dcbb4dfb9ff7d7df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/05fe9556c6d6ff5462a61d7366299da34e231a52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df1f3f45bfd44a91b042a827bdbfa4f865a9d795.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e3a04e24f68bdf2980c644b145f90023f12c847.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7efe227a4db3b4dcbb1677b462ab544d6d627074.mp3"
+      }
     }
   ],
   "knowledge": null

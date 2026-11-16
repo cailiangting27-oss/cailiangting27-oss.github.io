@@ -21,7 +21,17 @@
         "No, it isn't"
       ],
       "answer": "No, they aren't",
-      "explanation": "these引导的疑问句，回答主语统一用they。"
+      "explanation": "these引导的疑问句，回答主语统一用they。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bef38a6f08898cf41e83515d572b3e9f020b6ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45ddbbb6794ec235a7ee63d9141e09d3e24609fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/568d6a8566328a74ff2beb7e6d536090b9719133.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4af848468c781f5759949bebd462ea25a8132781.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4097b3e18d75f00e968ff55cad5628e0000a1488.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3da8b558fb690a343d61bfc79d60d595759f552f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "大——小"
       ],
       "answer": "大——小",
-      "explanation": "诗中有远近、有无、去来，并没有提到大小。"
+      "explanation": "诗中有远近、有无、去来，并没有提到大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf67b81d481578429e7f152c3e60c91b1c5753a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d84eba6c0e3f23c15d6d90213a86e6796993acc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef7969c2bc9ad5235eec6df229cc9ed593a73438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775c4472a68a654f11b9f1c7791653d4e8f4ad06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c18600e81ead0500fc2327fe1cf04d456a89bad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43805d59701f9ccc287b653bc91386c5cd89b849.mp3"
+      }
     }
   ],
   "knowledge": null

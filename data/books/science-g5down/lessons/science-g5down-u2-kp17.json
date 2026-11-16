@@ -21,7 +21,17 @@
         "排水量更小"
       ],
       "answer": "稳定性好",
-      "explanation": "双体船底部分开，横向稳定性极高，不容易侧翻。"
+      "explanation": "双体船底部分开，横向稳定性极高，不容易侧翻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00fe354d7ac58b3c2893642bbd682b32c15db246.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/099a6534acf1f6fd4a938ca08cdba958056af5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/253cb56ac66b1cb9c56f6e7c757639834e439956.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0530b72f80c385be6a1644c55bd671f11d3f24e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da55ce785e8a3a5a5e449f1adcd8b91e8f0be6a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0acb3f93a98d50c685ceec48dfd71270d2fb59a2.mp3"
+      }
     }
   ],
   "knowledge": null

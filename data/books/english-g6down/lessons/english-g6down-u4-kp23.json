@@ -21,7 +21,17 @@
         "There"
       ],
       "answer": "There,was,no,library",
-      "explanation": "There was no... 句型表示以前没有某物。"
+      "explanation": "There was no... 句型表示以前没有某物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e960ce6b2d140319c8b76fc1006b2740ef258b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd1286353570c5703799ba76999323b7c7447b06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02a81a8e26f7dc6f0bd48a2f3603ff0f3ba706bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcde8399ff37e9f1cc6db560a0c08fb04c881f67.mp3"
+      }
     }
   ],
   "knowledge": null

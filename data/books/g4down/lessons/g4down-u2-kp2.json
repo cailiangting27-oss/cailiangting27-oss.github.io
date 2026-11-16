@@ -16,7 +16,11 @@
       "question": "两个几何体的形状不同，从前面观察到的图形一定不同。",
       "options": [],
       "answer": "错",
-      "explanation": "不同的几何体从同一方向观察到的平面图形是有可能相同的。"
+      "explanation": "不同的几何体从同一方向观察到的平面图形是有可能相同的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf814c725a2d100d87968d55f5c5587c42281c90.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1167edc251e6476caad0781a95029f2c06880a80.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "都不对"
       ],
       "answer": "可能相同",
-      "explanation": "虽然形状或组合方式不同，但在前面的投影面可能完全重合，所以是可能相同。"
+      "explanation": "虽然形状或组合方式不同，但在前面的投影面可能完全重合，所以是可能相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f83c8c1b5ebc81c042cb079946734176edb73ccc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c3ac7ceb9101c833d93ad7a91c2f2e090b6a4f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92a825caeeed23bc2d3df95a0438f319c0d2e232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98d53b276f046eb961620269325d0230143f83f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8defaed7922da76897d8a74f3633992a59543f72.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8194d52d6b784406167d7b0b7af8d646a12f0813.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "正面面积不相等"
       ],
       "answer": "使用的小正方体个数可能不同",
-      "explanation": "正面看到的平面图形只决定了其轮廓，深处遮挡的部分可能隐藏了更多正方体。"
+      "explanation": "正面看到的平面图形只决定了其轮廓，深处遮挡的部分可能隐藏了更多正方体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/341458c5c57f7e70dece4c1de327c787a3349bd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2fdd074c44c37e2c07d476f34940fe6e5ebb8586.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/373a4acc35444b85a1ba4499e6b4b4775f83367d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fff360d7149d6e7f70aa6f6579268677e1290b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/321bdf6376c21c8729a69eafb9cda80163556e2c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/433ac7ac2f2bacaed986dd92d15152752aacda68.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "无法比较"
       ],
       "answer": "一样大",
-      "explanation": "每个正方形面积相等，都是4个正方形，所以它们的平面投影面积相等。"
+      "explanation": "每个正方形面积相等，都是4个正方形，所以它们的平面投影面积相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d242ec507486b14a56f820939291fb7a10e3543.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cbd4d82d02b658ff5d495ea14d87dd54bea7a441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fde44f1ef49c35cbb911cc1b773de4b63d9e85e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de7a98f8b8493efa1cebf08fd84a53394a69d8cd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "错误地认为只要正面看一样，这两个物体的用法或体积就一定一样。",
       "在比较时，分不清“形状相同”和“面积相同”的区别。"
     ],
-    "tips": "找不同：对比两个物体在同一视角下的长（横向格数）和高（纵向格数）。"
+    "tips": "找不同：对比两个物体在同一视角下的长（横向格数）和高（纵向格数）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ad/ad475656044d570d23d911ca6f3e32abb2505e8a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/70/70e54d2c60a70a98abc02d60636ddb16a175d993.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/53/5372dcb3217fee417a14c35edffc6730bfa10ffe.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/76/7664a1b3155206311ba0c2be0ad667976d9a68db.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7f/7fa04e7139049f0214be1da72d5228c637a63bef.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2c/2ca1f28efbe12a86e3b0bea783a7d78dacd26c49.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "记录实验时，我们可以按照“实验目的、实验准备、过程、结果”的顺序来写。",
       "options": [],
       "answer": "对",
-      "explanation": "有序的逻辑记录是科学观察报告的基本要求。"
+      "explanation": "有序的逻辑记录是科学观察报告的基本要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46ed7486a68c64e882172a213efa733c26b1ce37.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bc46dc5de887f7078bec48b74c8436b1c8a3bbd.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "记录飞回的时间"
       ],
       "answer": "在蜜蜂背上做白色记号",
-      "explanation": "做记号是为了辨别这几只蜜蜂是否是实验的那几只。"
+      "explanation": "做记号是为了辨别这几只蜜蜂是否是实验的那几只。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85afa48602ae6249d8394213c85194499c49b00a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/dfc154a507c72826a7be0e1ed4515ff6e1b06b9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28235ef95712cf55d0c5c0b59c4790ef70699556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb4e1aedc212012dd19c02cb233544c1a4588f07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51b418d6093eee6704c302d9748e828d845b2804.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cf43cc10838302f375cdd71a5913c34c51b4a37.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "实验步骤颠倒，逻辑混乱。",
       "连接词使用单一或完全缺失。"
     ],
-    "tips": "可以先用序号标出步骤，再用“首先、接着、然后、最后”将序号连接成一段话。"
+    "tips": "可以先用序号标出步骤，再用“首先、接着、然后、最后”将序号连接成一段话。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a8/a8fb10c800b157286949c549ba259f96960a6618.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1f/1f1570e6b441c0a737f9d212d244da3c01a62fb5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/77/77a539c3757cd14018559f9854414059c24a1bae.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3c/3c00db32b6ad057cf178b03f6643a2455dd68cb0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c6/c624f2f5ee83a2ec016d71b41954cbe13ee6cba4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f8/f87cf18f4bc7d0bb6b2626cdc41693a9543960dc.mp3"
+      ]
+    }
   }
 }

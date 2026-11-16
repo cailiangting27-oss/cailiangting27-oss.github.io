@@ -16,7 +16,11 @@
       "question": "英语单词 'kind' 的意思是'善良的'。",
       "options": [],
       "answer": "对",
-      "explanation": "kind 译为善良的、亲切的。"
+      "explanation": "kind 译为善良的、亲切的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07fa6c1e602fa92dcf3746579003863802996a90.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93b8ee7821f8bf6e71dc916d2f9d5c8405d82d6d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'young' 的反义词是 'new'。",
       "options": [],
       "answer": "错",
-      "explanation": "young 的反义词是 old。"
+      "explanation": "young 的反义词是 old。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/9864d064e230fc05d56daa7b5c1a711055e05087.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e399775275eaa300475c9721fa67e006aa1a087.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "单词 'sunny', 'windy' 结尾的 y 都发 /i/。",
       "options": [],
       "answer": "对",
-      "explanation": "在多音节单词词尾，y 常发短音 /i/。"
+      "explanation": "在多音节单词词尾，y 常发短音 /i/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1372532b64037b926639c291131f37d3a57eb6a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/439409e6e488317bef6a5b2eab90f9628a64f0e2.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'What's he like?' 是问他的长相或性格。",
       "options": [],
       "answer": "对",
-      "explanation": "like 在此句中作为介词，询问某人处于什么品质或状态。"
+      "explanation": "like 在此句中作为介词，询问某人处于什么品质或状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c35fe97b88c8ed78bf1d4a762c9da6e68825a4d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12539f4012bca6eb64df25f31b2e5c1add3b1c21.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "He likes music."
       ],
       "answer": "Mr Wu.",
-      "explanation": "Who 引导的疑问句回答特定的某人。"
+      "explanation": "Who 引导的疑问句回答特定的某人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5ffd90537a7297eafc7940537cd756b2371678d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38737e01343940ee420c4dfec59de6f241f83c46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/781c18fe32deb8f74e69a234c5635569d9d30c00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d9d93d38807288c0b4a13169ff0b55cc6c08946.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/affdf5ae873012a6b41abdb4429b6ddd45c1707c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e5a29c67677ffc8051d98fc32e5584dadaef984.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "she isn't"
       ],
       "answer": "she isn't",
-      "explanation": "Ms Wang 是女性，排除 he；后文说她严肃，说明前面是否定回答。"
+      "explanation": "Ms Wang 是女性，排除 he；后文说她严肃，说明前面是否定回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9bcd8506b4c0186a840fb8f7b0cb44806eb6546.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/766d6bac288c8b5cdc99c83783e12189276b9585.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e61af736aa222b5907a0d19577c2cd849a6c17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e35815437800f40025a733003d34b5153045db41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01961cb47d8c25509b3c72d47893941b5f436512.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63d08fac0083c973ce00dbb7b89cf9d4a66e4c7c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "baby"
       ],
       "answer": "shy",
-      "explanation": "shy 发 /ai/，其他三个发 /i/。"
+      "explanation": "shy 发 /ai/，其他三个发 /i/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0135e4d011fe53d27786f47f0664786dc2ce7531.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf48095db4e17be217019df7119028e9e8365847.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/615923d86676636fc71d02a42c09350eb61e9948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df399330d331a0c6a2f8e1056a9eeb66ea904027.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cf34755b9de3322045869f47dc449b4785b8226.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69ee0bc54b7a41fe4c42ebfa6eef3cd150e1ab2e.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "What"
       ],
       "answer": "What",
-      "explanation": "What is ... like? 省略了 like 时，常问的是身份或概括。但标准课本中 What's ... like? 完整问性格。"
+      "explanation": "What is ... like? 省略了 like 时，常问的是身份或概括。但标准课本中 What's ... like? 完整问性格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa6cff3569a6f0920c389ca706394a81a0da6558.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e10af251b6ed2ce34e711496bf02834ee1067ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20971dfd92946298d360502c826787c4d0d53c36.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "Am"
       ],
       "answer": "Are",
-      "explanation": "主语是 they，be动词用 are。"
+      "explanation": "主语是 they，be动词用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06d1ba5a365e7d05b3d3fd764feba0eaf205fcb1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a47109ee9df5886f4fc3501e447706767399b93d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfd8d4794ee5d302ff8c9d9893c669727d01a9a1.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "strict; kind"
       ],
       "answer": "kind; strict",
-      "explanation": "根据 PEP 五上 Unit 1 对 Robin 的描述，他是 kind 的，但不 strict。"
+      "explanation": "根据 PEP 五上 Unit 1 对 Robin 的描述，他是 kind 的，但不 strict。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9a7d2616c483ac9014bcc6bad2b89b8f0a519e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37bdf8fc6ce111eee0ee886a7ed9f6c8791e82e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/905b34add77aa7f49adf030d08b4498bbbd260a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbb7e933d036aa823cdcbc9868f299ec16efdf8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2b7b9a2faef01106c4042d41fe24fec11f0bae9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55b467b0a8a345fd3b30080202d7038a91cda58e.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "Sarah never speaks in public. She's very ______.",
       "options": [],
       "answer": "shy",
-      "explanation": "害羞的对应词是 shy。"
+      "explanation": "害羞的对应词是 shy。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/961a2e5d5ae751014bc588bf50ac48ac52ac1e1d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93989c315acc179b1ddb9b47b6d5ae0fff960517.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "What's your friend ______? He is quiet.",
       "options": [],
       "answer": "like",
-      "explanation": "问性格特征固定句型 What is ... like?"
+      "explanation": "问性格特征固定句型 What is ... like?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbde3fed614288ce333991071faccd33a62d819a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b89d88e68a233bd8331a7b4c417546f67aae1108.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "Our PE teacher is not thin. He is ______.",
       "options": [],
       "answer": "strong",
-      "explanation": "不瘦的对应描写常是强壮的 strong。"
+      "explanation": "不瘦的对应描写常是强壮的 strong。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30dd4f465233cdd00f15c624511814819eb82a9f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c8177b191d7dfa3636e45930d5a4e5f93145e1b.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "一个有礼貌的男孩"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "词组配对，注意形容词修饰名词的对应关系。"
+      "explanation": "词组配对，注意形容词修饰名词的对应关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/373ff62becfea9ee767706bebb45c3d4f21f9345.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a24ef94516fc2505aaafe1b4df1df15e84b9c7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33d1d2aff0510ab7ab001ca6fca7003815c4904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b9a20d5a0bb57b394edd6f94268d5f952304cbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edfa610bf3fa517111cb228b36b66609996d7ee5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d742c06ab72d5958fa7651455fd5ccecf1a2a86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46f66c32aaf653cea0529659fc6addf3fa3235fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26083cf22fe53605f3eb5470254e87f0119adf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b1304e2279ed6e515d8337c24c3738cfbf810a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f657bccf629e7e78dd5c34654e04b8a08042a55.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "?"
       ],
       "answer": "Is,your,teacher,funny,?",
-      "explanation": "一般疑问句：Be+形容词性物主代词+名词+形容词？"
+      "explanation": "一般疑问句：Be+形容词性物主代词+名词+形容词？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdfcab40ebdfb88f526c1a143ced7caf506f5992.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf48095db4e17be217019df7119028e9e8365847.mp3",
+          null,
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fffe11db67f77a0206dc7375804f7015849476a.mp3"
+      }
     }
   ],
   "knowledge": null

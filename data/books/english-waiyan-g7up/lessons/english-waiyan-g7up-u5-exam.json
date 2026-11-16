@@ -21,7 +21,15 @@
         "is like"
       ],
       "answer": "likes",
-      "explanation": "三单加 -s。"
+      "explanation": "三单加 -s。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aecba335e84ca9e3a2b7990230dcf248e6826e42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee82a6fe83bdfcc2cf5037f9a812f1239f1829da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f6334181abd08a5e5386bd949a39504d56e205a.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "math's"
       ],
       "answer": "maths",
-      "explanation": "英式 maths。"
+      "explanation": "英式 maths。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/3529b24dfdbc8cd6390e15f558708c71e1d89b75.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

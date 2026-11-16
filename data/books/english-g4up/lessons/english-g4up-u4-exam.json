@@ -16,7 +16,11 @@
       "question": "'bathroom' 与洗澡有关。",
       "options": [],
       "answer": "对",
-      "explanation": "bathroom 意为浴室。"
+      "explanation": "bathroom 意为浴室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db35d3c68993cc3e891e4192276a92e35849206e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/409c12a1c49bb1aa4f13ad7ee276d823f65418ff.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'sofa' 是沙发的音译词。",
       "options": [],
       "answer": "对",
-      "explanation": "sofa 对应中文“沙发”。"
+      "explanation": "sofa 对应中文“沙发”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/719da5dcd907454583ca818d6402049243ac532f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/122e41bf0ec2443256666af8ff4c7c3ed554af94.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'bedroom' 的意思也是书房。",
       "options": [],
       "answer": "错",
-      "explanation": "bedroom 是卧室，study 是书房。"
+      "explanation": "bedroom 是卧室，study 是书房。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc020141c5971d50a0ce43930a2f29994f2a8e38.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ad5acf2ba3db2436554b1ca18037ef97620ffd4.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "单词 'mule' 里的字母 'u' 发音跟 'cute' 里的 'u' 一样。",
       "options": [],
       "answer": "对",
-      "explanation": "两者都是 u-e 结构，发 /juː/。"
+      "explanation": "两者都是 u-e 结构，发 /juː/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6774ff2712989d6c9f694b0ffb3d7628be0287b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba5c31d20fbb7f7392ce2badf628ad044f1c51c8.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "with"
       ],
       "answer": "on",
-      "explanation": "在桌子上用介词 on。"
+      "explanation": "在桌子上用介词 on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a3fd2e1214c26da15262ff752cbde5bf88dcbf0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f4112d0585cdf781cd18c6ab4f5e53eb04f33c9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "she isn't"
       ],
       "answer": "they aren't",
-      "explanation": "复数一般疑问句否定回答用 No, they aren't。"
+      "explanation": "复数一般疑问句否定回答用 No, they aren't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39250ab33823379152870f7ee5898e376aea3f5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99b37090b4203536667244fa9f162d967d9b4688.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/841565690879dab40f00ff14f77ad6d5e6ee4e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65347a57198d9aa788abc6ea47abe77ac0c04589.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01961cb47d8c25509b3c72d47893941b5f436512.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba6952d52e9cf7f4f6a9bb8512fa05d41999213a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "run"
       ],
       "answer": "excuse",
-      "explanation": "excuse 里的 u 发 /juː/，其余均发 /ʌ/。"
+      "explanation": "excuse 里的 u 发 /juː/，其余均发 /ʌ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d162023a5a08ac9a00e22d3273af01ea3a104937.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/32c70cebf110eedb8637b5e875a6c94f1ef6e8c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad00c690d667f9dc6834a33aa36f56e2d3df78d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fb2c3ed1012cbb9ad25858b2507bec0eb3a72db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1cc7a38e91b2b0ab6301e44a8748ace8806d0186.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "bathroom"
       ],
       "answer": "study",
-      "explanation": "书房（study）是读书的地方。"
+      "explanation": "书房（study）是读书的地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b64c612275f9de27433269f705188b62eae49a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/122604decb5a6e3989745b352da8004cf940fb21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f56c0ac09ef740a2b7c6409b5ef046ae6ccd42f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bfb05496f963647e4d2c8b9a3ba6c0265800b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e75f308a6964660a6073595fe73f71ecd78d75d.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "cooker"
       ],
       "answer": "bed",
-      "explanation": "床（bed）放在卧室。"
+      "explanation": "床（bed）放在卧室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb38ebb92942104edced234ce3462646df980ece.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a82c7a5e37077d52db198435e33225cfcbf0de6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f2b83563239e866cfee0a98bc94960d2ddf0570.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/738af497e820b8017df5afe19e732b5877c77fd7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/7479ecb47f61cac001f54e8508cf3f25254a4f3b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "kitchen"
       ],
       "answer": "living room",
-      "explanation": "电视（TV）通常在客厅。"
+      "explanation": "电视（TV）通常在客厅。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/606d3f173b8046154c28508209e2b1abaf83c7f4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/122604decb5a6e3989745b352da8004cf940fb21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bfb05496f963647e4d2c8b9a3ba6c0265800b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f56c0ac09ef740a2b7c6409b5ef046ae6ccd42f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b4720db1776ee1def544509fd00f3c63741e00c.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "Go to the ______ . Have a nap.",
       "options": [],
       "answer": "bedroom",
-      "explanation": "小睡在卧室。"
+      "explanation": "小睡在卧室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f66860010d0c689f05efc92026350494466e4e69.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3665029208aa27d46d51d3106e82a38b5be43e6.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Is your father in the study? Yes, he ______ .",
       "options": [],
       "answer": "is",
-      "explanation": "肯定回答用 is。"
+      "explanation": "肯定回答用 is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d62bcb586a93d3f97f6d4a74a35c7a54213c7be6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe97edb47955ae2ef9016e1ecd31938bfea6888c.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "______ are the keys? They are on the fridge.",
       "options": [],
       "answer": "where",
-      "explanation": "询问位置用 where。"
+      "explanation": "询问位置用 where。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc21c22bad10a914e7f40cccc3e89adf10e7d22b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aac5adcc7ff86895a3d1b18c7b073b5c2a9161f1.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "take a shower"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "A客厅观影，B厨房做饭，C浴室洗澡，D卧室睡觉。"
+      "explanation": "A客厅观影，B厨房做饭，C浴室洗澡，D卧室睡觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a75537870b3296d0bdf27f93887cc5feefd366f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/122604decb5a6e3989745b352da8004cf940fb21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f56c0ac09ef740a2b7c6409b5ef046ae6ccd42f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bfb05496f963647e4d2c8b9a3ba6c0265800b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/009e058c883c683e1330228851ecafe3265c8f51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84e10c457f91faa6117fd5900e42236b05ed00e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbcfb1be04803250e8e6a30d4c54117f6800fd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41c35ec9741a669e76f63ac0b7146b6fe31ac7cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44d455722c732ec599a92a4f27ce98fd87bf009c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e078337c6b3bf06d9584f03daf470dab2768a23.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "are"
       ],
       "answer": "Where,are,my,keys?",
-      "explanation": "特殊疑问句：疑问词 + are + 物品。"
+      "explanation": "特殊疑问句：疑问词 + are + 物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a4c4340885d878aab70d35ad6e317d716de26a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c06061073450cfdba35eb69770eed93030eec0dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/8567325feefd010337af3df0d936f7a24e057549.mp3"
+      }
     }
   ],
   "knowledge": null

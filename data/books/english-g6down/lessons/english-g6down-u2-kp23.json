@@ -25,7 +25,21 @@
         "喝茶"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "drank tea-喝茶；read a book-读书；saw a film-看电影；slept-睡觉。"
+      "explanation": "drank tea-喝茶；read a book-读书；saw a film-看电影；slept-睡觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/dee9ed9d8ac1f947aa97512b80fd019abf6ea425.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f167373a5ec73d63c04e64a67d6e30c7a8b6e228.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d7995a99a2ff26796272bf471ef871127541eb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5551c96073a5e1e85c306dc10162755419c1851c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7a4c3540e0f578f91874d3b787e70d843236e39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e2b5e9921a43c917de4de62c52bbbed14b44d6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1bd09c4bbeee977901a5491cea46b245c05f1a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d853579afd051f8bf9f65ecdf5f27d9ab239f613.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d1554c86ae4d6ce12f9d75c5e588af1fcec0763.mp3"
+      }
     }
   ],
   "knowledge": null

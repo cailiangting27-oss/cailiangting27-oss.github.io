@@ -16,7 +16,11 @@
       "question": "梯形的面积等于平行四边形面积的一半。",
       "options": [],
       "answer": "错",
-      "explanation": "只有当梯形与平行四边形等底、高相等，且这个平行四边形是由两个完全一样的该梯形拼成时才成立。描述不完整。"
+      "explanation": "只有当梯形与平行四边形等底、高相等，且这个平行四边形是由两个完全一样的该梯形拼成时才成立。描述不完整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d10cfa9a7464718cbe2ccd49a84753a374c9c2c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff037106cab33022b706a5976218f452a72ba7c2.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "20"
       ],
       "answer": "25",
-      "explanation": "$(4+6) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$（平方厘米）。"
+      "explanation": "$(4+6) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$（平方厘米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82d5e81bd9f4db89383ec54f0b93e7d8a1e5a299.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0d59e8f1e1fddf1ed1b9b67b429eaf319cb76de.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "梯形是平行四边形的一半",
-      "explanation": "拼成的平行四边形由两个梯形构成，所以每个梯形面积是其一半。"
+      "explanation": "拼成的平行四边形由两个梯形构成，所以每个梯形面积是其一半。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e88d6bc7fafb3e05799c4ce252fad3806831d23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df7d12a5a42e1f0a5a9c1e7629158435a5dd6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83d6ada4a9f3ad190417eb0ce13875feba85c820.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e861420d2baea32df4bbf51b0e2210fab02c3262.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/3475c7f5870c4638e9644292dcb9c4c9812a4162.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "无法判断"
       ],
       "answer": "不变",
-      "explanation": "上底加下底的和没变，$(a+3) + (b-3) = a+b$，所以面积不变。"
+      "explanation": "上底加下底的和没变，$(a+3) + (b-3) = a+b$，所以面积不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87bd2fb3ec5f7521de5d22d992f9b2b545e1733f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/605806b6fcd55c39cd477426ccd9c380d4701000.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe43f1577032ceada44964db01195848ab3213f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34621fd341b88e37023b4456018e773aaa7b4b56.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "一堆圆木，最上层有 3 根，最下层有 7 根，一共有 5 层。这堆圆木一共有 ___ 根。",
       "options": [],
       "answer": "25",
-      "explanation": "圆木堆积符合梯形规律：$(3+7) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$。验算：$3+4+5+6+7 = 25$ ✓。"
+      "explanation": "圆木堆积符合梯形规律：$(3+7) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$。验算：$3+4+5+6+7 = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2ca069e7776ed57e154f2c98ef50a52f77fb3d60.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/1643811a31bb282a444a3a2b0048c6948b4533fd.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "计算：$(15 + 25) \\times 4 \\div 2 = ?$",
       "options": [],
       "answer": "80",
-      "explanation": "$15 + 25 = 40$，$40 \\times 4 = 160$，$160 \\div 2 = 80$。验算：$80 \\times 2 = 160$，$160 \\div 4 = 40$，$40 - 15 = 25$ ✓。"
+      "explanation": "$15 + 25 = 40$，$40 \\times 4 = 160$，$160 \\div 2 = 80$。验算：$80 \\times 2 = 160$，$160 \\div 4 = 40$，$40 - 15 = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/7072b3ed1cfe769e6f8f4c304877c74cb96abfa2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/7816e2d90c15da2a31bdc2d9a0b4f9b8f5d8d37e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "忘记除以 2",
       "上底和下底没有先相加就开始乘除计算"
     ],
-    "tips": "计算圆木堆堆数时，最上层根数相当于上底，最下层根数相当于下底，层数就是高。"
+    "tips": "计算圆木堆堆数时，最上层根数相当于上底，最下层根数相当于下底，层数就是高。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3b/3bd875813aad2916c41ba28401d9818199fdb7b1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/10/104f44360943f6aac4ec6e7bc035c7478ab40612.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8d/8d0cd807088d19d9c608e48406bc2e625375a92f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0a/0a141ef638d39dc493de521f2f44b7a5e9c40bb9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8f/8fda90e33fffaad70dc75ef571f27c82d7cdedd8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f2/f2b38837a89fa031a4b17892a8be8d116b8066c4.mp3"
+      ]
+    }
   }
 }

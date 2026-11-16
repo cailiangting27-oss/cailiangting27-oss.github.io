@@ -21,7 +21,17 @@
         "手机游戏"
       ],
       "answer": "长城",
-      "explanation": "长城是世界著名的中国文化遗产。"
+      "explanation": "长城是世界著名的中国文化遗产。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/29b6ac388245c7f7185b3384c89f5e27bfb896f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2ea37363bcf73472f6423da4f9035b3b70f5b95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4525be7636fff1a755d66fc708fbb0591d6af005.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe29d7cc26829a89837bf2e7c3f521208b744a21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d1fed6ab8ca1f725e21157913576c2aa549ee34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d333266f7c330c057be8a8c5a88303ab044072a0.mp3"
+      }
     }
   ],
   "knowledge": null

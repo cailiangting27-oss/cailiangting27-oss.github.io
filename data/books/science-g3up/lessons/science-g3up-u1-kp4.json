@@ -16,7 +16,11 @@
       "question": "只要不停地搅拌，食盐就可以无限制地溶解在水中。",
       "options": [],
       "answer": "错",
-      "explanation": "一定量的水中所能溶解的物质是有一定限度的。"
+      "explanation": "一定量的水中所能溶解的物质是有一定限度的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98107180fc635fa90a421afa0bca75a20838dc14.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aab8852812a66da03971cd160111c0a40858a809.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "无法比较"
       ],
       "answer": "食盐",
-      "explanation": "实验证明，在相同体积的水中食盐的溶解量远大于小苏打。"
+      "explanation": "实验证明，在相同体积的水中食盐的溶解量远大于小苏打。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fe9fe077e6b82e97f05baafc2624111c6e8d712.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/0034f55cc129796d3a4a86a297b468a3f4025f4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73b62d2481f5c1d1610f87aa603dbe95ecaad38e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99f9a6254c6a010788cd8e3d9ca8822ef1a09304.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a425cf8ac0d9951111c45f197a2c06b3d76a7dfa.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "把盐研碎"
       ],
       "answer": "加一点水",
-      "explanation": "增加溶剂的量可以溶解更多的溶质。"
+      "explanation": "增加溶剂的量可以溶解更多的溶质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d265ac0f0b7196c68ea166d3336e127f2bd251f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38cb614a857a7771aab1853f1d0bbc79a22a1d14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/448e53b4d0cb09b1867f5f4e722944949e8caad5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19530ee5ed6eca763316ca22a3f31044a46b67ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a876bd2802962327ed677aa80b6b16f899937ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c057d2aaf4f38c6b7829784e94e3c4c73bb7b83.mp3"
+      }
     }
   ],
   "knowledge": null

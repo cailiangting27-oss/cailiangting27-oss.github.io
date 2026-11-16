@@ -21,7 +21,17 @@
         "抄别人作业"
       ],
       "answer": "捡到东西交给老师",
-      "explanation": "拾金不昧是诚实的表现。"
+      "explanation": "拾金不昧是诚实的表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03678fda30ff7c4276711ac69f130e5daf763321.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1041ca49dd6d8f9203ecc1baa561d51a5d703017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce20f65378d5d4c725574d1dfd9a153931dfc876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f124dcaf05c5363fc603b6cadd3384bf1c4b21c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f61608b1f6b6d27db2a682cfe9dc621df072d386.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db5323629241579c241549e3341b4ff460a0cfea.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "小组合作时要听取大家的意见。",
       "options": [],
       "answer": "对",
-      "explanation": "合作要听取意见。"
+      "explanation": "合作要听取意见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/0019ec79e114eec7099c8807a3ac9de836d69e33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93f773c0b01de5494f84e9c6dd248be07a4e252b.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "抢过来"
       ],
       "answer": "礼貌沟通",
-      "explanation": "要礼貌沟通，不强求。"
+      "explanation": "要礼貌沟通，不强求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac8cda4c7d0f3d2e112fc7d530d86ac9e53a5278.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fde7f607e84ed36395c8ff90c407cb70bf25c599.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/351dae1e3ea61df7e538a1e1964063096f1ab36b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88910a9aef4d65a3f11f24bd1335194477376e99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60b2f8e5153009f3d7d619828f44662b26e52a26.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3836ec1a72f6eb40f04d6bcc3c15fa1e2e04be6.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "说谎可能会失去别人的信任。",
       "options": [],
       "answer": "对",
-      "explanation": "说谎会失去信任。"
+      "explanation": "说谎会失去信任。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/2774530b22f5ee8a72791b134578cda567bc9d5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7663a003633d586dc98f32eec9019fa2db7055b4.mp3"
+      }
     }
   ],
   "knowledge": null

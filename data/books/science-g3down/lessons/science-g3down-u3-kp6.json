@@ -16,7 +16,11 @@
       "question": "太阳和月球都能自己发光。",
       "options": [],
       "answer": "错",
-      "explanation": "太阳是恒星，能发光发热；月球是卫星，反射太阳光。"
+      "explanation": "太阳是恒星，能发光发热；月球是卫星，反射太阳光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc3a447833ebfae8d1f4f9b05656c76479843671.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b092f1d1363d7962af96f5d439aaa836f524f72.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "大峡谷"
       ],
       "answer": "环形山",
-      "explanation": "月球表面最显著的特征是密集的环形山。"
+      "explanation": "月球表面最显著的特征是密集的环形山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17c14fed3d47b680f08d96d172a0cab83da88c1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b19cd1dbce76c31adda3fdcc24c8bdc5aee7f06c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b247c3e6783b29f1772c0ba7baf9f3a454ecb97a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d58cbda857cbb97168e95d2864a339ccafa01214.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/057e958b237f22179df8b04b448f212eba929b60.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bed3061c46ee9c940681d5edb6598020d7b511ec.mp3"
+      }
     }
   ],
   "knowledge": null

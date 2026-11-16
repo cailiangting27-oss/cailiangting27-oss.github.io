@@ -16,7 +16,11 @@
       "question": "所有的地图都是上北下南绘制的。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然“通常”是上北下南，但并非“所有”。有些特殊地图会有特定指向标。"
+      "explanation": "虽然“通常”是上北下南，但并非“所有”。有些特殊地图会有特定指向标。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/1936df133af78140db5caf1d85ea75b8edd63030.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2aef55be576d50da9555e114d6d239ef841192e4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "燕子每年秋天都从北方飞往南方。",
       "options": [],
       "answer": "对",
-      "explanation": "候鸟习性，秋季飞往温暖的南方过冬。验算：常识正确 ✓。"
+      "explanation": "候鸟习性，秋季飞往温暖的南方过冬。验算：常识正确 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ee6a54fed51a010ec71943c5467b5ba9fceeb71.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78a42e36243eba285d055bf30d995ae0feafdda3.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "因为太阳从东方升起，所以太阳升起的方向就是东。",
       "options": [],
       "answer": "对",
-      "explanation": "这是辨别方向的基本常识。验算：东升西落 ✓。"
+      "explanation": "这是辨别方向的基本常识。验算：东升西落 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fbad4c9aa20ee96a3e94ca5589112a7d0def9c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c93cf19c69b55b65f7367b1ac0a22196dff22553.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一个人一直向北走，不改变方向，他能回到原点。",
       "options": [],
       "answer": "错",
-      "explanation": "一直向北走最终会到达北极点，无法通过直线行驶回到出发点（除环绕地球极点外）。"
+      "explanation": "一直向北走最终会到达北极点，无法通过直线行驶回到出发点（除环绕地球极点外）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7de2a4aa174b556258a5ca7655a04880dcf5174e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3725c1a7c911d8b6f04b153f08c1be884dfa180.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "北"
       ],
       "answer": "西",
-      "explanation": "背向东面，则面向西面。验算：东和西相对 ✓。"
+      "explanation": "背向东面，则面向西面。验算：东和西相对 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bf83e538bc5209403044c333a68827f0b6e712c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e637c017a3d231e50a7944f78a67ac39b20bb49a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "北面"
       ],
       "answer": "东面",
-      "explanation": "地图规则：左西右东。右面即为东面。"
+      "explanation": "地图规则：左西右东。右面即为东面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31d2f764faa17607941f5ec04b2161625ac7316a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37df5b6beed628b510cb55d9c4caad4b545a560a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c0580ae3ec430f4a22d71eb4e76e1c5a32bbfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9f8732750edf699f8c0d5edd3fd5ec73182468.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e7e6e9fff22cc5da78a474902aa192f289d3e9b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a27acb705e1b21d7cebfbee4a005c0797fddeb8.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "北"
       ],
       "answer": "南",
-      "explanation": "早晨太阳在东。面东则背西，左北右南。验算：右边是南 ✓。"
+      "explanation": "早晨太阳在东。面东则背西，左北右南。验算：右边是南 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25f03cdbfba710600b371bb563cfdacbf0613370.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1ffee60139680db093d5a2214f0f60630b164313.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "西南"
       ],
       "answer": "东北",
-      "explanation": "往返路线方向相反。西南的反方向是东北。验算：西对东，南对北 ✓。"
+      "explanation": "往返路线方向相反。西南的反方向是东北。验算：西对东，南对北 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2c5cf93783708f1a3f03d64e882675c4b88d69a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f04280546704cd59b5dc821976845944f4fdecca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e430d01fff7387dd121b2131156962be2e55e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a305aa94fb1b731d725a25982c3c03432b01e52a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acd11bc62fbc1a65b8230d48764dbeda67f94327.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30d287e6c5f7452d55b365828a1f8091a6eeb915.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "西北"
       ],
       "answer": "东北",
-      "explanation": "小明相对于家走了“南+西=西南”，那么家相对于小明就在反方向“北+东=东北”。"
+      "explanation": "小明相对于家走了“南+西=西南”，那么家相对于小明就在反方向“北+东=东北”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9c748eb828ad49c60ec848de060c8478ada7514.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99e430d01fff7387dd121b2131156962be2e55e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f04280546704cd59b5dc821976845944f4fdecca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acd11bc62fbc1a65b8230d48764dbeda67f94327.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a305aa94fb1b731d725a25982c3c03432b01e52a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d6f02340a75f19be7f6373ec0c765f59d793e62.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "北"
       ],
       "answer": "南",
-      "explanation": "在北半球，南面光照多，树叶生长更茂密。验算：生长习性 ✓。"
+      "explanation": "在北半球，南面光照多，树叶生长更茂密。验算：生长习性 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/8070bcf8d2a9efaf1aa49d6d3a3bb4dcc2c5b92e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/346865cca62e2636df218fd96835491e11cf82d3.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "南"
       ],
       "answer": "东南",
-      "explanation": "北转 45 度是东北，再转 45 度是东，再转 45 度是东南。验算：$45 \times 3 = 135$度，北顺时针 135 度是东南 ✓。"
+      "explanation": "北转 45 度是东北，再转 45 度是东，再转 45 度是东南。验算：$45 \times 3 = 135$度，北顺时针 135 度是东南 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/dea632642c15f8a1863e4ead17ff8643399e4d89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f04280546704cd59b5dc821976845944f4fdecca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e430d01fff7387dd121b2131156962be2e55e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ece96c00d664957f86d6b177541b521a40aea23.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "北面"
       ],
       "answer": "西面",
-      "explanation": "B为原点，A在西南，C在南。C到B是往北，A在B的西。在同一维度上 A 处于 C 的西方。"
+      "explanation": "B为原点，A在西南，C在南。C到B是往北，A在B的西。在同一维度上 A 处于 C 的西方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be6aaad6f91582e9408af2cbb6acaafb74751de5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37df5b6beed628b510cb55d9c4caad4b545a560a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9f8732750edf699f8c0d5edd3fd5ec73182468.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c0580ae3ec430f4a22d71eb4e76e1c5a32bbfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e7e6e9fff22cc5da78a474902aa192f289d3e9b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd03d839f3546ad25c945bc4d75186ffea93e279.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "学校买来 80 棵树苗，准备种在操场四周。如果每个方向种 20 棵（不计角上重复），一共可以种满几个方向？",
       "options": [],
       "answer": "4",
-      "explanation": "$80 \times 20 = 4$。东西南北四个方向。验算：$20 \times 4 = 80$ ✓。"
+      "explanation": "$80 \times 20 = 4$。东西南北四个方向。验算：$20 \times 4 = 80$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ab9f5bd7bc17a32c24bcf49b9ae55b8e10744c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45b3e5a6390546dfcd2e976a5dcfe4b2da73cb79.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小明向东走 30 米，接着向西走 50 米。他现在相对于出发点在西边多少米？",
       "options": [],
       "answer": "20",
-      "explanation": "向东为正，向西为负：$30 - 50 = -20$。绝对值为 20 米。验算：$50 - 30 = 20$ ✓。"
+      "explanation": "向东为正，向西为负：$30 - 50 = -20$。绝对值为 20 米。验算：$50 - 30 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe6f17daa2b3faa40c54513d3859a6ef5b627f07.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b6e6365595adb020558b6caeb64dae8badd14e3.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$50 \times 6 = ?$",
       "options": [],
       "answer": "300",
-      "explanation": "$5 \times 6 = 30$，所以 $50 \times 6 = 300$。验算：$300 \times 6 = 50$ ✓。"
+      "explanation": "$5 \times 6 = 30$，所以 $50 \times 6 = 300$。验算：$300 \times 6 = 50$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccf4652921a3a532bc26bb4e66582cfde498a8dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4eb10fbb5b81c5e5255b15765815043c5243fd31.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "魔方是正方体形成的。",
       "options": [],
       "answer": "对",
-      "explanation": "魔方每个角和面都相等，是标准的正方体。验算：外观比对符合 ✓。"
+      "explanation": "魔方每个角和面都相等，是标准的正方体。验算：外观比对符合 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/5563e4545e089246f2e295d46566eb9a5990c2c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff89137b1b44c5ab1d1c6ceb8dc7aa7b636d25cd.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "圆柱可以立着放，也可以横着放。",
       "options": [],
       "answer": "对",
-      "explanation": "圆柱有两个平面和一个曲面，立着放平稳，横着放可滚动。验算：物理形态描述 ✓。"
+      "explanation": "圆柱有两个平面和一个曲面，立着放平稳，横着放可滚动。验算：物理形态描述 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fee3a1f56102f0cfbf8ba26c0d9be9bf3b5e0112.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c09f1bdb10f2f8be595670a5fde0447ab5cbe929.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "球体没有平平的面。",
       "options": [],
       "answer": "对",
-      "explanation": "球的表面是完全连续的曲面。验算：几何概念验证 ✓。"
+      "explanation": "球的表面是完全连续的曲面。验算：几何概念验证 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/593b7f928685f1bbfd9956b8da129a2abcde1659.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e12647e0161814b97ee6bcb98fac7f05f29eda82.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "长方体和正方体都有 12 条边。",
       "options": [],
       "answer": "对",
-      "explanation": "两者都有 12 条棱。验算：实物数数得 12 ✓。"
+      "explanation": "两者都有 12 条棱。验算：实物数数得 12 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/436971914ac6deb6abcb95591167a02bcd95b7af.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5651913651bb05afb80df206b5434b7053124cc2.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "正方体"
       ],
       "answer": "长方体",
-      "explanation": "数学书有厚度，是由 6 个面组成的立体图形，是长方体。注意不要误选平面图形长方形。验算：立体 vs 平面辨析 ✓。"
+      "explanation": "数学书有厚度，是由 6 个面组成的立体图形，是长方体。注意不要误选平面图形长方形。验算：立体 vs 平面辨析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50aa49b91b41e044aea5602e877a818041050670.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8ef937bf8cca5bf0798c84ee4e2f3e1078b3972.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "正方体"
       ],
       "answer": "球",
-      "explanation": "球没有棱角，曲面全对称。验算：滚动方向分析 ✓。"
+      "explanation": "球没有棱角，曲面全对称。验算：滚动方向分析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8a35115e4a7af7dea434c4b11b3e8f30ae472ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e96b9e6449a00c4c28351f3da3022dfc9ba8b866.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "跳动"
       ],
       "answer": "滚动",
-      "explanation": "横着放时接触面是曲面，会滚动。验算：受力滚动特征 ✓。"
+      "explanation": "横着放时接触面是曲面，会滚动。验算：受力滚动特征 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6476da411efe712e99b721042afd6654c64c8897.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3723aab5a9b827f2773a69a17bc93aa47fc82341.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/220e687c20900aebc48c14a9ef6c300ce0ecaf36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a95e93f23ae7f5722e32b270a163617166dc487.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e19ee3985c15bdd5205bb09017338e7bd9b3e1e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdf1f6698c524b7c3ca53ba8ae000fe2e58ab1ab.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "都一样大"
       ],
       "answer": "都一样大",
-      "explanation": "正方体特征：6 个面都是大小相同的正方形。验算：定义核对 ✓。"
+      "explanation": "正方体特征：6 个面都是大小相同的正方形。验算：定义核对 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7ab53d59603b41dfa3d48bcd696d2d9e5777274.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/49dbbe9c03e66c8bae4bb9eeb9300b1078515627.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1fb1e15363bfff2d889fbf8708681cb492cb73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2151b27b42e73af88205565cf50fac244c23a111.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfb7ee6b40f54c9a1c4219cc86bcf256565e1f56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e7693d614f4a5f81d8b1937eff1c571a3ae426b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "12 个"
       ],
       "answer": "10 个",
-      "explanation": "两个长方体各 6 面，共 12 面。拼在一起时，有两个面重合被遮住。$12 - 2 = 10$。验算：$6 \times 2 - 2 = 10$ ✓。"
+      "explanation": "两个长方体各 6 面，共 12 面。拼在一起时，有两个面重合被遮住。$12 - 2 = 10$。验算：$6 \times 2 - 2 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58396ecea3aac6c7ead96a486342054b1a66ceb2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e96c929637f6dbf2567bdbcd66dbf36a0ddbf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/373f69198c2f610ceaf843bc28106499bbc6628e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd2ee1339f2c31fa5b67bb326a51aadc2ac7c3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/4232acc379a77a4c04819a645e71e3e73bdce8e3.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "8 个"
       ],
       "answer": "7 个",
-      "explanation": "切掉一个角会由于切痕多出一个面。$6 + 1 = 7$。验算：切削操作空间想象 ✓。"
+      "explanation": "切掉一个角会由于切痕多出一个面。$6 + 1 = 7$。验算：切削操作空间想象 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3903bfffa992c42403ecf7bad18e6b79daea8cf1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f78a0d32af281d8e0245086a13ca9ac61a9c4125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e96c929637f6dbf2567bdbcd66dbf36a0ddbf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81c5967a19e9b222892d71e980f87630a7074f33.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "三角形"
       ],
       "answer": "圆形",
-      "explanation": "球的剖面永远是圆形。验算：几何切面分析 ✓。"
+      "explanation": "球的剖面永远是圆形。验算：几何切面分析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/219c49e7620dc167b7051fc9b3e88aa1554ec309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a8d21bdec027d2483f60deb8cd05899d7182b9a.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "以上都是"
       ],
       "answer": "长方体",
-      "explanation": "球是曲面，圆柱有曲面，只有长方体 6 面皆平。验算：排除法 ✓。"
+      "explanation": "球是曲面，圆柱有曲面，只有长方体 6 面皆平。验算：排除法 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/7747c246d8a05745db8e9e65966e97b189f0b381.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd3aadacd34e9d21223c3c470fb3eefd691c2e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55342ff3d3736ac151e19ecda0d2b4662dfb2879.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一间教室有 4 个角，每个角放 1 个球，一共需要 ___ 个球。",
       "options": [],
       "answer": "4",
-      "explanation": "列式：$1 \times 4 = 4$（个）。验算：$4 \times 1 = 4$ ✓。"
+      "explanation": "列式：$1 \times 4 = 4$（个）。验算：$4 \times 1 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05597076387f633e6c968a864a4c111e31edc323.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c2027a7cbe2b51c96c1d33b36cdf11b67525725.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "把 2 个正方体拼成一个长方体。原本两个正方体一共有 12 个面，拼成后消失了 ___ 个面。",
       "options": [],
       "answer": "2",
-      "explanation": "两个面靠在一起，这两个面就都在图形内部不可见了。列式：$消失数量 = 2$。验算：拼成后剩下 $12 - 2 = 10$ 个外部面 ✓。"
+      "explanation": "两个面靠在一起，这两个面就都在图形内部不可见了。列式：$消失数量 = 2$。验算：拼成后剩下 $12 - 2 = 10$ 个外部面 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c24d22e2f283739839f5b22c65f39ca16f77dbdc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4dfa9a13eff5781c05c7b5bb7542fe80474bf41e.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$8 + 8 + 8 = ?$",
       "options": [],
       "answer": "24",
-      "explanation": "$8 + 8 = 16$，$16 + 8 = 24$。验算：$24 \times 1 = 24$ ✓。"
+      "explanation": "$8 + 8 = 16$，$16 + 8 = 24$。验算：$24 \times 1 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/515fc75993ce087cc2d305c1a861d4cfbeb9e629.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf47cfdf88bf8e1b7cb9a765b0a16aa13a3ce28f.mp3"
+      }
     }
   ],
   "knowledge": null

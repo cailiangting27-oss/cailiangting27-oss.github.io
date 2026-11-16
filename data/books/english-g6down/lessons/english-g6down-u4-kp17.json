@@ -21,7 +21,17 @@
         "grass"
       ],
       "answer": "sky",
-      "explanation": "星星通常出现在天空（sky）中。"
+      "explanation": "星星通常出现在天空（sky）中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50db134ba058f78878a93e98b7409b3c720b8092.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4de1dacdb3df162d9cc7d742fd803ee7b7459b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5737ef08a3ec16a337ac79a1d719fb91acba20a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbc29b76c59b382aca12201c44929002ef1778ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9543cff8a52cfa4fa12114c86d8aa91b7c07bec.mp3"
+      }
     }
   ],
   "knowledge": null

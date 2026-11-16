@@ -16,7 +16,11 @@
       "question": "在老舍的《猫》中，作者说猫性格“古怪”，实际上是表达对猫的喜爱之情。",
       "options": [],
       "answer": "对",
-      "explanation": "“古怪”一词在此处是明贬实褒，体现了猫性格独特可爱。"
+      "explanation": "“古怪”一词在此处是明贬实褒，体现了猫性格独特可爱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/490ab12ab187a6042e48a3f5eb2f362d56517bd7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd656b218eed3310495820de842bae8fbd52a44e.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“它要是高兴，能比谁都温柔可亲。”这是一句明贬实褒的话。",
       "options": [],
       "answer": "错",
-      "explanation": "这句话是直接描写温顺，不含贬义词语，属于直接赞美。"
+      "explanation": "这句话是直接描写温顺，不含贬义词语，属于直接赞美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d10d9d95263a245e70ac29cc0cbf41f87c07408.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/613c3701ae4306c23c913f83c633f54e929f53a9.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "害怕白鹅咬人"
       ],
       "answer": "对鹅的调侃与喜爱",
-      "explanation": "“鹅老爷”运用了拟人化的称呼，带有戏谑和亲昵的感觉。"
+      "explanation": "“鹅老爷”运用了拟人化的称呼，带有戏谑和亲昵的感觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f40c69c678ab67e708cfeb414cd7321761437d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/8803ad901263d2b3bad6c41c926b1131f3f469eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/833470eb8f51c685de57c1dc12460e384e5a01de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b01f5639a1ff86e557c82bee4cb64a8e59a34259.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d49cfd7ceb518c9bb315ada9c498ddbe3c176dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9237be5c84f0e805f90ae5d6aa2d53c33539aeb.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "美丽"
       ],
       "answer": "英雄",
-      "explanation": "文章结尾作者从讨厌转为敬佩，赞美母鸡是英雄。"
+      "explanation": "文章结尾作者从讨厌转为敬佩，赞美母鸡是英雄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87e36623dd64f2692c96cf4e82686ea35fb18f56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d0891b58d72bb0e436840b5ac4fd0d03fcb5220.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/253922bca567493a120af975884266d82de5ac96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4aba4491d5b448553f5f420b1d59ba2b328b3c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e15915eae6609a45d9d1f0c8cb5fd22ed0893d3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66e0b71e5ea2b1cf006c3b6292469d1aa3239106.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "误认为作者真的讨厌这些动物",
       "在仿写时只学会了贬义词，却没能通过语境体现出喜爱的温度"
     ],
-    "tips": "朗读时注意带上调皮、宠溺的语气，就能听出作者其实是在“反向表白”。"
+    "tips": "朗读时注意带上调皮、宠溺的语气，就能听出作者其实是在“反向表白”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/46/46888f2dafd54621a284c91feeb5ae12cfed811d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/67/67ea1ff990a1024be8c9ae8fba64fb9ecec4a18a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8c/8cb803c10135d396b61847b02f89a66c6d5ab30c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5a294661532f02d9ad0e79b80f3a68f6a08f81d6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7b/7bb0f1cd3b50d575611bfd78f2bc958b221ba2b2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/34/3439f4526eb16b65c52f1bf4bf135cb458f8429c.mp3"
+      ]
+    }
   }
 }

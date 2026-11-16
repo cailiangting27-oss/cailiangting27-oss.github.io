@@ -21,7 +21,17 @@
         "操场"
       ],
       "answer": "喜鹊",
-      "explanation": "通过拟人描写，突出了喜鹊阿姨带着小喜鹊晨练的过程。"
+      "explanation": "通过拟人描写，突出了喜鹊阿姨带着小喜鹊晨练的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c03794ebc8ddf4aebf95e246592a6369112b468b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ef8f7f505f04b47d1b9da04be98d4d4e5018169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f2fa095c2f01347b1c153335c321c4f468bcd70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803401a96663599be119713907514946978f64d3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/975baa995f27b41ab206e55517e9000c34bdfd44.mp3"
+      }
     }
   ],
   "knowledge": null

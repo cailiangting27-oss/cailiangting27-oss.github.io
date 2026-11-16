@@ -21,7 +21,17 @@
         "大名"
       ],
       "answer": "美丽",
-      "explanation": "形容景色通常用美丽。"
+      "explanation": "形容景色通常用美丽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74061e75c37bf4252e88f58077333f6f1ad6efc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62dce9a796caf43d7d29115a86efcd465152fd67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e15915eae6609a45d9d1f0c8cb5fd22ed0893d3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3e0d51447bf9d671d852966049e143c41efd345.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e046733875f1fce6d30cd173d7b1dbb6e0cbe70c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7d986c175c3fb7d0e3024d2dcee1b68f5c63bd4.mp3"
+      }
     }
   ],
   "knowledge": null

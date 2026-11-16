@@ -21,7 +21,17 @@
         "弹射传播"
       ],
       "answer": "动物传播",
-      "explanation": "倒钩可以挂在动物的皮毛上，随动物活动移动到他处。"
+      "explanation": "倒钩可以挂在动物的皮毛上，随动物活动移动到他处。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a4796cb587309c669a1ea5c4b09fc73f181485b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/745dbd452719f062f69c752ae36c908a675c6cd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cccd9f57ecd81547032bb1fd6a46d49021f9f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5541c144808fd2cf8d2062afc47ede1dc90982eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed314192c2cb141b11996f576466458c830097d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8370c160185b61d62f79b0dcded25ce7a30e6c32.mp3"
+      }
     }
   ],
   "knowledge": null

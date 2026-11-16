@@ -16,7 +16,11 @@
       "question": "近似数一定比准确数大。",
       "options": [],
       "answer": "错",
-      "explanation": "近似数可能比准确数大（五入时），也可能比准确数小（四舍时）。例如：$43 \\approx 40$（变小），$47 \\approx 50$（变大）。"
+      "explanation": "近似数可能比准确数大（五入时），也可能比准确数小（四舍时）。例如：$43 \\approx 40$（变小），$47 \\approx 50$（变大）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d257129a09c53b853c9f43fc5a9bde84a73e3de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/036625be17abd356ea7c114784ee29b0c8c1e5a3.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "86000"
       ],
       "answer": "9 万",
-      "explanation": "看千位上的数，千位是6，大于5，向前一位进1。$8+1=9$，所以约是 9 万。"
+      "explanation": "看千位上的数，千位是6，大于5，向前一位进1。$8+1=9$，所以约是 9 万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dc0ce595c4b75d5ce261c44082be920d074f07d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13acbd497b13b2d285b92272374b71163a47a6e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3018af097fbfec68d3e3bbc2c0cc35489ceb2144.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a316720daef9d1371a995431bfd435e5518245ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/436a7d759cda1cf2a96831f7f01dedf1ade01fab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20233eefa3773e58a0b12cd13cc486d42ce81766.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "3"
       ],
       "answer": "9",
-      "explanation": "省略万位后是40万，说明万位3向前进了一位，则千位□应 $\\ge 5$。选项中只有9符合。"
+      "explanation": "省略万位后是40万，说明万位3向前进了一位，则千位□应 $\\ge 5$。选项中只有9符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da768839a994668de5a5b81eca54841c8255a6b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b52d5941fdf3d1e371f953d1f8fcc4b1b43f9a06.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "100001"
       ],
       "answer": "95000",
-      "explanation": "要使原数最小，应由 9 万“五入”而来。千位最小是5，百、十、个位最小是0，即 95000。"
+      "explanation": "要使原数最小，应由 9 万“五入”而来。千位最小是5，百、十、个位最小是0，即 95000。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f6bff0c6da8e54c427d265b0a3ded58f17fdf2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/245a7023f2a87213707ceb6bf080a4431dda50ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a045b7efa463c6ed195c644163f4168952fbd34a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a9b95e6530d644ee6c5c083db08a84fe67d5b27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66eafce88f4193989c11197e15d548786eaac5df.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/599c61906afea9cb24729b69f299c5404f8f9be5.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "49□300 ≈ 50 万，□里最小填 ___ 。",
       "options": [],
       "answer": "5",
-      "explanation": "进位说明千位□必须满足“五入”，即 $\\ge 5$。最小填5。"
+      "explanation": "进位说明千位□必须满足“五入”，即 $\\ge 5$。最小填5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19d086ad28c3743e70474d50e9708303cc3d502d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1ab829cbe4cccb92cfb6e8ae77870e26c175435a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "进位后忘记把后面的位数全部改写成0",
       "看错了要省略的数位"
     ],
-    "tips": "省略到哪一位，就在那一位下面点个点，看它后面紧邻的那一位决定四舍还是五入。"
+    "tips": "省略到哪一位，就在那一位下面点个点，看它后面紧邻的那一位决定四舍还是五入。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/bc/bc85fe82e955951e1f9872eea7947b0c51414c7a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/02/02225cc4940cd9cf364213cca14dbac1810c8097.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/28/28d1b37cffb6187c7ff09866b2740f3b3f28e61d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/86/86af88b027c110e7315f3d1b652a837d4d610588.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/74/7435fe086025b4f6aa92cf358f262da164c9c8fe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9e/9ed6794e36b803de386565f1b6392adc11f85ac3.mp3"
+      ]
+    }
   }
 }

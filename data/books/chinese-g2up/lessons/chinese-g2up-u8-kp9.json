@@ -21,7 +21,17 @@
         "胆小如鼠"
       ],
       "answer": "惊弓之鸟",
-      "explanation": "惊弓之鸟比喻被弓箭吓怕了的鸟，指受过惊吓的人遇到动静就恐慌。"
+      "explanation": "惊弓之鸟比喻被弓箭吓怕了的鸟，指受过惊吓的人遇到动静就恐慌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01b9d57e15393742062fcf491097ab95388e4541.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e1b60cf4173d07ac4a0854d75a315c86fe4de67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0060e72186c929ae347cc35d5d2d905e56cc7d07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cab710775b17111d10e32f6ac20920d341b7c96f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4ff2221c7ffa342d883d5849711e9dff56034ea5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc3c5930340880eb9e80688ef70abc63b86cb14b.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "乌云、彩虹"
       ],
       "answer": "地震、海啸",
-      "explanation": "地震和海啸通常被视为地质灾害，而非普通气象。"
+      "explanation": "地震和海啸通常被视为地质灾害，而非普通气象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be25912e783ac7536fe14e197edc8fb8a27bf985.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f57e23ba9e07361813e6a5f2314664de1460eaa6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21768dac99a324a1a674014bd7f5dfbbb108ac70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc14b15e92c816358f7f82feb9ac11982a2c90ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8961c342bb00989e4a8e86938b6e917f77fe8b5e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8b38c0ebb7e9aaaebf82e5dffb8820ed238d88b.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "儿"
       ],
       "answer": "众,儿,皆,弃去",
-      "explanation": "出自《司马光》，描述别的小孩都吓跑了。"
+      "explanation": "出自《司马光》，描述别的小孩都吓跑了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab4db5ab65a44d9dd41b429f8c809d29c1e804e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/181bf71c919313bca0aa3e2d89f29c35552246df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1f64f56752697252d7ac12f8c929408ba616707.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2beda89ac316e9bfc74427d517cd7d9425ee615.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06af8ec0f409f31595297a24b6a728eff4eca5b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd42fa83456e8e1a375a7b320eab978f52b0ef93.mp3"
+      }
     }
   ],
   "knowledge": null

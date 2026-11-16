@@ -16,7 +16,11 @@
       "question": "《要是你在野外迷了路》告诉我们，大自然的指南针只要细心观察就能发现。",
       "options": [],
       "answer": "对",
-      "explanation": "课文主旨在于引导学生留心观察自然。"
+      "explanation": "课文主旨在于引导学生留心观察自然。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44a8fb3bd1ac3a0040167d027695777d24508547.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/911bf574774e74acfa688150c6020429be11e433.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "因为太空中没有氧气，所以宇航员在飞船里会飘来飘去。",
       "options": [],
       "answer": "错",
-      "explanation": "飘来飘去是由于“失重”而非缺少氧气。"
+      "explanation": "飘来飘去是由于“失重”而非缺少氧气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abf659fa24ad12d5333effe7c7c8192e36e20e74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bda3052f1e1b43edaf1edf55d252cd6fa55f1c1a.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "“帮助”的“帮”字拼音是 bāng。",
       "options": [],
       "answer": "对",
-      "explanation": "读音正确。"
+      "explanation": "读音正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72e548c94fd4df917e4ae777a173966a8a2bd5e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dd79fe26858ca243e310627e56021774b0f9c16.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“太阳是个忠实的向导”这句话使用了拟人的修辞手法。",
       "options": [],
       "answer": "对",
-      "explanation": "将太阳比作向导，且赋予“忠实”的人化特征。"
+      "explanation": "将太阳比作向导，且赋予“忠实”的人化特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a1171856261a8cab916dd9be52f1bb2c05b273c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc89a7bfb841b34991769d3d2d079130796a2e53.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "北方"
       ],
       "answer": "北方",
-      "explanation": "基础天文常识。"
+      "explanation": "基础天文常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4c160628c6790560a4862c413fef5041b43eeb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5efd206af0f13008ec70a797f512dd11b587d192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96a32270925b0d5e53c765433344691fec2e5ffa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c23287b82bee0728a0c06fb3b0223951d6082db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49c1d08379d195a9785223cf293dfd11699b7054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af94721316f61de1353c441918928b667ede0f2c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "躺在床底下"
       ],
       "answer": "绑在睡袋里",
-      "explanation": "太空生活中因失重需固定身体。"
+      "explanation": "太空生活中因失重需固定身体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b24e61b3dd3e0ffc7f3cc538ef0f3162431b7ff6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b66bd950d1e6e34bee57ec5b192149689b67b95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2511aac5ff6757db36e8f0c1d9518e057c67d941.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65ae1768662a0f512ebc7ff5fbea27fadb605d45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d9d1766cea2a6f7f61331ae1bec0ae64a0bad75.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac3cb34f3d08f73507aae28079c747f27a30eabb.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,11 @@
         "，"
       ],
       "answer": "？",
-      "explanation": "这是一个反问或询问句。"
+      "explanation": "这是一个反问或询问句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b240ae533d1386df17460f3785dd3478d51d2678.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22c2cfe63fc73dc9283bf7965b9ea0130d344042.mp3"
+      }
     },
     {
       "id": 10,
@@ -113,7 +153,17 @@
         "位、种"
       ],
       "answer": "道、块",
-      "explanation": "考查量词正确搭配。"
+      "explanation": "考查量词正确搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e360e5153863c31c46940cb2c7f0603dd1d11f87.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66137bb863677167b02ca6c006bb45109e584302.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efa4dfe89c9cac08080884dbf27d6c9fce7bc782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6ce9e29b0df4e0341cc151b342e32808d8e6953.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/193f6710f9fb03656dfbd39833f01a75a3169377.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d8ed0ba0ed823cbebe29d1e408638d0abd00820.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +179,17 @@
         "平凡"
       ],
       "answer": "特殊",
-      "explanation": "逻辑关系练习。"
+      "explanation": "逻辑关系练习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34c09cec90611326a0436f6475112871bc59a8ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f0aaccbc0dcda37daa045cb4cda85177bedafdb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/759edd9927b852fa9ede15d0b4630bf6f191a231.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/971b6e5a0a75ac77891e2165b25ad4baf0901c88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b8b569bc3bfd26aa481abac080037b32002d4fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/623ac6c2eb54500541287b00d6beeaf062984cb1.mp3"
+      }
     },
     {
       "id": 13,
@@ -145,7 +205,17 @@
         "努力"
       ],
       "answer": "亮晶晶",
-      "explanation": "ABB式词语。"
+      "explanation": "ABB式词语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e2b9bdf7bc0721fa87fd232dd208f2928aa5457.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c2e3397e61554810ea7ad5876884a043bfe6135.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5623c1252047c7fbe8bcf1e89f70f193998b6d97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/133c0e3dfc8bb82611a4d6ac50deca285994c028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/896a78742a92bf711a0e27efbac6e55b19b3ccdb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1166b86df26a9172d155565904aab70ba220a54.mp3"
+      }
     },
     {
       "id": 15,
@@ -156,7 +226,11 @@
       "question": "形容天气的四字词语：风雨（_____）。",
       "options": [],
       "answer": "交加",
-      "explanation": "基础词语积累。"
+      "explanation": "基础词语积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/116757084c6eb7f9dc57838e824030476c7c4fc7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76ee67ca3d27d9d406c577e45f0c8fc81a462ce1.mp3"
+      }
     },
     {
       "id": 16,
@@ -167,7 +241,11 @@
       "question": "接天莲叶无穷碧，映日（_____）别样红。",
       "options": [],
       "answer": "荷花",
-      "explanation": "《晓出净慈寺送林子方》名句。"
+      "explanation": "《晓出净慈寺送林子方》名句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9ab383a1fc3a0b89c5906e99a1b1b914d0113f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76e495575f4558271b01bda45899b9ee81ed5b55.mp3"
+      }
     },
     {
       "id": 17,
@@ -178,7 +256,11 @@
       "question": "大自然的“书”指的是（_____）。",
       "options": [],
       "answer": "岩石",
-      "explanation": "出自《要是你在野外迷了路》或相关地质科普内容。"
+      "explanation": "出自《要是你在野外迷了路》或相关地质科普内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2acad866f9afcd009c556f15fa1c6fa73d2978e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f41da6cf6cb3d50ba4b1061a96c0edd7506cac79.mp3"
+      }
     },
     {
       "id": 19,
@@ -198,7 +280,21 @@
         "天空"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "常见动宾搭配。"
+      "explanation": "常见动宾搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1b8d92ea730c32719007f45bcefb5b91733a5fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/65fc81e161198bc670b3c8062c8519ada69646bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c0247a2ad0cc54385464e5ec377c4e33ac0aa8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a31fde98813d56d75d0f9f5bd0d9b32de7484d04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8e22ad82c9311913896bc25eb044b79ee2fb4b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d531f329efc816435486d4b8bfcc25f1d7b64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fcbc0dac1be83338c1b26409684a87a5b70215.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79c65e258545222d410a91b1a501f73e98bbabb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96e701adad0238514c91d9202ff4a8d8697463c5.mp3"
+      }
     },
     {
       "id": 20,
@@ -218,7 +314,21 @@
         "失重状态"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "综合单元知识点。"
+      "explanation": "综合单元知识点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3dc647c59f27b33a255dc87302a7c0fc4d3da475.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6049e568c006a72fe27f6c69f206ecebdfbad2f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2016214f7da408f3f825e4162987598b259a4d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53256553361c0b92ad9da6e9dee46d8170867580.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/9645b19d3a8e48c4dc18cc7e3ff7221b47061c1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9fcb470a3e26647639aca230730de8315ddb7dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88137ae8a024cf8d6b0e53486d47de4d80642b8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff26ee3aa8b7919b7492c07e10ca90365fab8a77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fedf2fbc842a38dcede5875f4f41e46aa81cc04b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87a1600845221ad55ab9e175c2fd464e6ae58dae.mp3"
+      }
     }
   ],
   "knowledge": null

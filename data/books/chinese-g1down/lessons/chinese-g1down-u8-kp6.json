@@ -21,7 +21,17 @@
         "下午"
       ],
       "answer": "早晨",
-      "explanation": "题干明确提到了“早晨”。"
+      "explanation": "题干明确提到了“早晨”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/282bcc8c174c6432ae2fde28b13764fcd245c9f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5382c1dbbbfc9ea638ff80a2743a40ec4f9320.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76a41594927dbeb5dca9f5403d7e70c2515c570a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb9cbce4395b6ecdffb071cee77eb8b6fe038eb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dfaab6548e19d4f3b6a499fedb8970ebfb1369a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/110b837063adadca931bcdd45fb1609499d250c2.mp3"
+      }
     }
   ],
   "knowledge": null

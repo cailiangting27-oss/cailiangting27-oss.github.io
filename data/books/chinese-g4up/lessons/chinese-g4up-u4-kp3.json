@@ -21,7 +21,17 @@
         "没有顺序"
       ],
       "answer": "起因-经过-结果",
-      "explanation": "记叙文的基本结构是起因、经过、结果。"
+      "explanation": "记叙文的基本结构是起因、经过、结果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8bf8ba87559bd5ffb3725a9f7c648bb1820c769.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac08d769a9bc3efd8b5617337824d4f918c332ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d57c53436a9cd40d054bac307349ecbe41e1537.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad56afb4747bec30c0960711167313f37c12cf9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea2e962c8c7a0a79e3a9d0c186d3793656fd7e06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79c8070b621933e7b6cdfb70cc1a77a8d4d67a21.mp3"
+      }
     },
     {
       "id": 23,
@@ -38,7 +48,18 @@
         "起因和结果"
       ],
       "answer": "按照,起因和结果,经过,叙述,故事的",
-      "explanation": "本题练习叙述结构逻辑。"
+      "explanation": "本题练习叙述结构逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9303fa774a6ffc1c728791bdce07244c8206a19a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d83ae8a87ab04d699d629d7f64d96380780bea46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7617b77a30e44e431ec3d1bac9f1adb4ef8db99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfc2cb157cb5b52e23f1c97788cf62e0e1e42a7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bef193fce19a36c578523d7d362184d7f77fabc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f535cef7b387eeffdcac1c5aea080bd904040b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6bff31829eba8fcc74f6adbcc4d3ab01b9db31d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -49,6 +70,16 @@
       "经过描述过于简略，直接从起因跳到结果。",
       "复述时缺乏描述性的词汇，把富有美感的文字变成了生硬的流水账。"
     ],
-    "tips": "分段绘制“情节坐标轴”，标记出故事的高潮点，复述时重点突出英雄努力的过程。"
+    "tips": "分段绘制“情节坐标轴”，标记出故事的高潮点，复述时重点突出英雄努力的过程。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/35/35d1513a4a9852f9b5822120e38546855b353555.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6a/6aeada5804cb94cac83af036025ff55d1d62be5f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9e/9e4b500be0d4e60c2c1a130951197613d53faa6e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b0/b01ffd5a6db0ebe89296ae538b3a5845063a5ba3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/50/50eabdfa8601fec752cf286c36e43072be155fcf.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4c/4c1ab849771ea53491c4976925fa9c8362195bed.mp3"
+      ]
+    }
   }
 }

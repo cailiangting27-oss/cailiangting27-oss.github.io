@@ -21,7 +21,17 @@
         "拔掉船舵"
       ],
       "answer": "向左偏转",
-      "explanation": "舵的方向决定航迹弯曲方向，偏右需通过向左移舵修正。"
+      "explanation": "舵的方向决定航迹弯曲方向，偏右需通过向左移舵修正。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/1698e28df6ef8e8a5e379a22ac05ce06a9dce1d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/11c1745b41be05fb368ad3ef7799efe395941b8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f283c535a467d037ad7b4f63d69ca3adc5feb515.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aefd3032da81c6557c126b9b658a8c9242599b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a401acec3d394229a5e7497b88238d667f9ac5ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ace0076b5e8fba5db26d40ae18105a2335212333.mp3"
+      }
     }
   ],
   "knowledge": null

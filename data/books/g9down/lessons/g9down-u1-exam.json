@@ -21,7 +21,15 @@
         "16"
       ],
       "answer": "8",
-      "explanation": "$a=\\frac41=4$，$b=\\frac42=2$，$ab=8$。"
+      "explanation": "$a=\\frac41=4$，$b=\\frac42=2$，$ab=8$。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ]
+      }
     },
     {
       "id": 8,

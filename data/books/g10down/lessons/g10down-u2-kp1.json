@@ -54,7 +54,15 @@
         "$-i$"
       ],
       "answer": "$-i$",
-      "explanation": "$i^3=i^2\\cdot i=-i$。"
+      "explanation": "$i^3=i^2\\cdot i=-i$。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7984b0a0e139cabadb5afc7756d473fb34d23819.mp3",
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

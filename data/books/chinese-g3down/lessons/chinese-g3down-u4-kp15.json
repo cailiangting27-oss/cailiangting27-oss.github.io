@@ -22,7 +22,18 @@
         "实验"
       ],
       "answer": "法布尔,仔细地,观察,蜜蜂,实验",
-      "explanation": "按照主状谓宾顺序排列。"
+      "explanation": "按照主状谓宾顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d59cbc3aa2d5d8ffa0ca6b73cf3be8d6872746ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7ba077956982af3340e9c9dd31d1188072b1202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3d8a56f226746278366f5b0c729a7be003a729b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c89a83f853c1f589dcc53cd6bd18523fb9a6bda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f033ebd644b4ac1d28ba9553c1c1de6e149b2380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b769b83c3dc420df14659acf817b53056a7f05c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a17d386d27abf793d7e3fc225fa968d1231fbfe7.mp3"
+      }
     }
   ],
   "knowledge": null

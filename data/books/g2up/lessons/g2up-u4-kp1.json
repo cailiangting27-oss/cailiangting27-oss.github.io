@@ -16,7 +16,11 @@
       "question": "$4 + 4 + 4$ 改写成乘法算式是 $4 \\times 3$。",
       "options": [],
       "answer": "对",
-      "explanation": "$4 + 4 + 4$ 是 3 个 4 相加，根据乘法的定义，可以写成 $4 \\times 3$。验算：$4+4+4=12$，$4 \\times 3=12$，结果一致。"
+      "explanation": "$4 + 4 + 4$ 是 3 个 4 相加，根据乘法的定义，可以写成 $4 \\times 3$。验算：$4+4+4=12$，$4 \\times 3=12$，结果一致。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a52f0df48d0f9e299c1fa11f9aca39bafb6ec0e7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd70e63a0f14fb5b0ad1e5c9853a53074d7feccd.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "在乘法算式 $3 \\times 6 = 18$ 中，18 叫做和。",
       "options": [],
       "answer": "错",
-      "explanation": "在乘法算式中，相乘的两个数叫做乘数，得到的结果叫做“积”。18 是积，而不是和。"
+      "explanation": "在乘法算式中，相乘的两个数叫做乘数，得到的结果叫做“积”。18 是积，而不是和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3a475379d027549e0aae3c6221b08c2174f8148.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09f592edd04b0c95d5bcc731a9cf340a5d62ff18.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "3 + 3 + 3 + 3 + 3"
       ],
       "answer": "3 + 3 + 3 + 3 + 3",
-      "explanation": "3 个 5 相加是 $5+5+5$，对应乘法 $5 \\times 3$ 或 $3 \\times 5$。而 $3+3+3+3+3$ 是 5 个 3 相加。"
+      "explanation": "3 个 5 相加是 $5+5+5$，对应乘法 $5 \\times 3$ 或 $3 \\times 5$。而 $3+3+3+3+3$ 是 5 个 3 相加。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/575004df4309c39b40ad3e786086eebcd4d8ade6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d6be6abb7840e7c89fe356ed7e6d198ccc1a37c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/858cc105f1a43fa263d159be944ddc7f14e50eaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/389761e8dbf9577148a7636cbdbf5be380308441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9945a002a7be89d8b36a7a6434b9233758648f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b68b962360b6c99e894d7fb8cf240346df737572.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "将不同加数的算式（如 $2+3+2$）改写成乘法",
       "混淆乘数和积的概念，把积说成和"
     ],
-    "tips": "记住“乘法是加法的简便运算”，看到连加就要想到能不能变乘法。"
+    "tips": "记住“乘法是加法的简便运算”，看到连加就要想到能不能变乘法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/17/17b5e48d93cb3db1de5c4b7b06462834c1b1ab67.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9d/9d28bd0e1a218d9b7f5535986b20597123f1113b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/01/013c7fd42d7cecc496a99e319735c9f624962286.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0a/0a342b95ebb039cedccfad5b3daf5c98b5b48636.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0a/0a5ca51dfc60add7ebd112d1984fba8a0db77cea.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3c/3c004a112ab7c70772afeadbd89cf1fd4a62db2d.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "只在晚上需要"
       ],
       "answer": "必须有",
-      "explanation": "种子发芽不一定需要光，但长成幼苗后必须依靠光合作用制造养料。"
+      "explanation": "种子发芽不一定需要光，但长成幼苗后必须依靠光合作用制造养料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14ebf3e3778be22350eca8550a5855551a422d7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a7cd2d9358cdf9f89be6ca9ab730320b603ddfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/849d8aec2f97234696c226a2ef2739d517a567f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/256049e880b88bfd8927e2372b21cdc4612bc71d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31c9eef723ef7e3c2d2646f009959a6e4752424d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6755e055b630af33ab54641202320a7fdb9290ff.mp3"
+      }
     }
   ],
   "knowledge": null

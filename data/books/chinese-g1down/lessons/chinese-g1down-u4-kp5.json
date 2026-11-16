@@ -21,7 +21,17 @@
         "红红"
       ],
       "answer": "笑嘻嘻",
-      "explanation": "描写家人的神态，笑嘻嘻最为生动贴切。"
+      "explanation": "描写家人的神态，笑嘻嘻最为生动贴切。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15cb73001c3c1baf410d2ea49fd002a64b18d3f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d946dacd501a0616389239fcd4e1df676ac9eff9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed9286e9f7a877d5b945f16a57f2e7bbf65308c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bb1c13afb0eed84fc87f7370fab911eb6cebfa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01318b540b8fd4df729e70e8c7e6aff0227d8624.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b3411fb572d4583a79d91df4437b1d6bdd56b94.mp3"
+      }
     }
   ],
   "knowledge": null

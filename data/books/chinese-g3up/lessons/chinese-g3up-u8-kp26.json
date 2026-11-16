@@ -21,7 +21,17 @@
         "它"
       ],
       "answer": "它,明天,一定会,飞回来的",
-      "explanation": "出自《灰雀》中小男孩的保证语句。"
+      "explanation": "出自《灰雀》中小男孩的保证语句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03ac39356534d0fdb94e5df6745356566deb0128.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74144509c9ce0e7d6e1c6ec02e226c6c5a39c9b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b76ce230d32c11cf7af79a7fb6ac7a1f71c8f7a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2d4dc01d1794b85926154560ce04d1d8c9f71fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1969106a8ffbb8714eb14b0a13023ce0b44a8e37.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e11c1218812b0aa8fc5fb9dac3ec401cc209c99b.mp3"
+      }
     }
   ],
   "knowledge": null

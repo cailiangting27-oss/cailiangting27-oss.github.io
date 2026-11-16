@@ -21,7 +21,17 @@
         "北极"
       ],
       "answer": "正极",
-      "explanation": "电池铜帽端为正极（+），锌壳端为负极（-）。"
+      "explanation": "电池铜帽端为正极（+），锌壳端为负极（-）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23639efd9b798afac3402d9f3c6f3040bb0468bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/ebe0fb67047f1a789cfb58cdd132e9dbb0def0cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fd127db14d6a93b285014936e2fe423b015ea43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d282ab1cab505ad5f5a90e85b1e85d29cbff44e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d00b92ba24ca53afb5854ac9f4c734437836d0b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/867756f3df465e84321b4f8dd63a5021b3a92761.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "普通干电池通常有（ ）个连接点。",
       "options": [],
       "answer": "2",
-      "explanation": "电池包含正极和负极两个连接点。"
+      "explanation": "电池包含正极和负极两个连接点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2e1753363f1a7d009653bb744cee4ca603ad6f6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02833de07d5d63de0ed090942f44466fb043a7c9.mp3"
+      }
     }
   ],
   "knowledge": null

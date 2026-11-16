@@ -16,7 +16,11 @@
       "question": "在搜集图片资料时，只要清晰，不需要注明拍摄的时间和地点。",
       "options": [],
       "answer": "错",
-      "explanation": "为了资料的严谨性，注明时间、人物、地点是必要的整理工作。"
+      "explanation": "为了资料的严谨性，注明时间、人物、地点是必要的整理工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa958178ee378dc4b594af9b6f652feb2bf1fc33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/309a9d7c571d62b944ee27aa6182c33718d97991.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "活动策划书的内容可以根据实际执行情况灵活调整。",
       "options": [],
       "answer": "对",
-      "explanation": "策划书是活动的指南，但在实际执行中会有动态调整。"
+      "explanation": "策划书是活动的指南，但在实际执行中会有动态调整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/832fe4c9f3908a71ebf024037b6dc8cf8d1c81ee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c827fbbe4893d6be639744f2a0acb03a4161ef4.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "制作毕业纪念册的活动不需要写策划书，直接动手做就可以。",
       "options": [],
       "answer": "错",
-      "explanation": "大型综合性学习活动通过撰写策划书可以更有条理地开展。"
+      "explanation": "大型综合性学习活动通过撰写策划书可以更有条理地开展。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c115cf9f66fafaa629b560f32c2a9ae1364e5909.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e534ce3c6d2a5e1938ffe45ce633f26051e448a.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "写毕业赠言时，字数越多说明感情越深厚。",
       "options": [],
       "answer": "错",
-      "explanation": "赠言重在情感真挚，而非字数多少。"
+      "explanation": "赠言重在情感真挚，而非字数多少。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb8fedc2eb99dc639dc435e2a4362d7b6ccbcc77.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b1634ee2f4b5f7ebbcef9910dce8e99d8d5932e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "测量学生身高"
       ],
       "answer": "明确谁来参加",
-      "explanation": "参与对象确定了活动的服务范围和规模。"
+      "explanation": "参与对象确定了活动的服务范围和规模。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28bfddedfe759f809c707acfebce248967902342.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/490db9543fe63a9f97ace2e586bc0b4b04d6583d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dc0f6b555b8465d18ea781cfefbbda33fe9b928.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7805b50ee0f7dc202c9909c06831e7f5da5a51f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78db0762999d04a1b378ff0fef883d77054018c3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65a82bc40578b627a230aaf458f65735af73b616.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "邻居阿姨"
       ],
       "answer": "亲爱的老师",
-      "explanation": "叮咛、星辰指引等意象通常用来赞美老师的教导和引领。"
+      "explanation": "叮咛、星辰指引等意象通常用来赞美老师的教导和引领。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/357f3e746149e166ebb39a15cf9f23bc734458db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d58b561133d652f830506e1ba1a35a85151e70f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8b08d76d43e88908cf6b07ca4feb484d403ec46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34335facce45096233eed92233fb727a9ccf23a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8a8f810ad62a5893230ab9024a25aa5f0bbe137.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8f898dcdd85c339e6a9ca0c9567b2b1ade1635c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "很有名的人"
       ],
       "answer": "辛勤的园丁",
-      "explanation": "“辛勤的园丁”是比喻老师最常用且高尚的拟法。"
+      "explanation": "“辛勤的园丁”是比喻老师最常用且高尚的拟法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7de36783c0e85c36662720629d2e867e592dec6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51706242d4e28f6539bd43149290611dbef1ce60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79d3b0f783584c1def490e48599bc1c91593041b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50b1e588562ed7c1114320c523c0a164b5f1f8a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3819bc81a354ea20a6479d5b74bf3d9225844bc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a96b7bdc81247eb77f9bf2f575b0015a019ccf2.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "观后感小作文"
       ],
       "answer": "数学课的笔记",
-      "explanation": "数学笔记属于学科学习范畴，与长跑比赛主题不符。"
+      "explanation": "数学笔记属于学科学习范畴，与长跑比赛主题不符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/794ced0a69cc78caabd45ba5f38592baca0a4315.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d3953b0f60fc936a8934e3cb4123540ea9861a36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd7e467f3c3e92b817a207601eb8853651b3008.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6074db672adb95c157309e7705fe2ac1a26e9dd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/244a334e88b720901ee26ed39c9686b887062029.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2c8ae4abbe0465c485df8d70a130ca257258e13.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "无奈和乞求"
       ],
       "answer": "自信和豪迈",
-      "explanation": "这是高适写给董大的送别诗，意境开阔、激励人心。"
+      "explanation": "这是高适写给董大的送别诗，意境开阔、激励人心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e4c5811eb3493d16a5246020148942e71c11dfd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1eed6b50ded9e6d5575581755014c5bd48e74d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa64bf3435074b4064247904209785a9d9758790.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a92f36bd47e2085964bdec3705d75cd9a89cbb9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03d97447043c417ec80a18e476c6845cd0f9ed44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05841a4826dce22144cee64b21952303aa6fa2ed.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "考试总成绩"
       ],
       "answer": "考试总成绩",
-      "explanation": "策划书的准备工作是为活动服务的，考试成绩不属于此项。"
+      "explanation": "策划书的准备工作是为活动服务的，考试成绩不属于此项。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/110084ac259d72e9bb0ab041d3a5c51e65d72120.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b739cf94d42f44a5d118ff87e0db07fbbbe83116.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ed2bef0e43fa37417512c499da9587c9a0512d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc3e2e06b69681f7a5c5455f775a5d3503d182d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b544576ac0b926de82c9fbe7dee731f5c8e3daf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c22bbd66b5a6b7e31ab6c9a3d158b158aac103d3.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "制作纪念册的第一步是（___）素材。",
       "options": [],
       "answer": "搜集",
-      "explanation": "没有素材无法整理，故第一步是搜集。"
+      "explanation": "没有素材无法整理，故第一步是搜集。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4e6c59950b2e888ed14f7da1e0e121cd4858b8a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56b7e253e26c6ffc58944fdcb023f60a9c5e4d19.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“劝君更尽一杯酒，西出阳关无（___）。”",
       "options": [],
       "answer": "故人",
-      "explanation": "王维《送元二使安西》，表达深厚的离别之情。"
+      "explanation": "王维《送元二使安西》，表达深厚的离别之情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a44a7c9ab812289283a404914b8e930bb6ec837c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b6ab74d0d2126e1e1e2b5b54fceb052cd3f57d0.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "筹备毕业礼"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "匹配学生在小学不同成长阶段的典型活动。"
+      "explanation": "匹配学生在小学不同成长阶段的典型活动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e99e4dedd501fffe3f6f0ebdc27d9d30a7de4c5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a30b4f267e8eabf9b981250d15d3549b810c7b68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a78437c8eca93934aa96399f74248c68786cb64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84499d52de84ae0f948829e1b2f8679f80595b14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bf4c0ad0fa55c306686ea21c55b33cad4f7a650.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/457ea044f3eceb1b4947e822798639a99285f5c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05866d977b790e7bb2b6aa8d4c15ad6e8a8755ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d35810874b6f1ea7baf244064059c9db7cbc4a0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d58586e47a187d08ae6c1f09ee9cd314b65614c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9b20b98882cd70e682483045a5261dd36b7f0cd.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "你是我的好闺蜜"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "匹配不同维度的赠言主题。"
+      "explanation": "匹配不同维度的赠言主题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf916e83d33874adc7ae3db9f55f9f9810b83d56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df89b874191a2f0c9c6511866c578e6cb0b13a91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/847d07b94cf74ae23844cf72e0f39ec83873fcb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78224263077fc41775beef2cc793323d4680e8e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53bc49cc4553b44b1f631b8c97618ae169b14ecf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/babba68ca806d8193dbbce7c676446d1df3e473a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7d5b0d9e02cdd5e613ac1f40af79c61799126bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a0ccdd7e6db4cb188a11f736eb943768b9a2f13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea4936b520c71e3a44d077d2bda123fd39e9b891.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd498401660603734b742b17e91303a6cc3bdc14.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "设计封面"
       ],
       "answer": "搜集素材,整理资料,编排成册,设计封面",
-      "explanation": "制作过程需先有素材再进行后期处理。"
+      "explanation": "制作过程需先有素材再进行后期处理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/520d4e59696498ac239fec62ae0eaa997516a63c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d33837be52335817298659c296019c1a7180e964.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85ae3179a6b6479fdfccd9bcf275a02e824eb70d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cfd3b98dcec35d6214f0b84839b7a4ed9cebde9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe0e34ac8d90e548079eec24fe4b066cda76bcf7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08922ea937e740d750fa9e7fc0fd39eda5099033.mp3"
+      }
     }
   ],
   "knowledge": null

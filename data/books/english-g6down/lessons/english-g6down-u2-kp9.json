@@ -21,7 +21,17 @@
         "looked"
       ],
       "answer": "saw",
-      "explanation": "昨晚看电影用see a film，过去时需用saw。"
+      "explanation": "昨晚看电影用see a film，过去时需用saw。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93594db2a738dd5f3fa2fddfbcac5a9f260e2282.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29596a43a2ef2bbfa00f6a16c0cb1d108bc63e32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd31334d1aa966c45547a2b98c41fd0fedf2ddce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe0deff3ad597b10c37654259d6ad1ef82383bbe.mp3"
+      }
     }
   ],
   "knowledge": null

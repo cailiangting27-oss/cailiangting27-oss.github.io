@@ -16,7 +16,11 @@
       "question": "'reading stories' 的中文意思是'阅读故事'。",
       "options": [],
       "answer": "对",
-      "explanation": "reading stories 是本单元的核心短语，意为阅读故事。"
+      "explanation": "reading stories 是本单元的核心短语，意为阅读故事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4a7f0d7bd773123c4d23546192fb3d646b2899f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c8e3b199f8b6f0f14b4e0441356c0e0a29716e7.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'climbing mountains' 的中文意思是'钓鱼'。",
       "options": [],
       "answer": "错",
-      "explanation": "climbing mountains 意思是爬山，钓鱼是 fishing。"
+      "explanation": "climbing mountains 意思是爬山，钓鱼是 fishing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/509d3a5fadf0a93af49250592a16d1a5eb422cfe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57f383a064b01042e818076c93f919ad377c3826.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "'singing' 是 'sing' 的 -ing 形式。",
       "options": [],
       "answer": "对",
-      "explanation": "like 后面跟动词 -ing 形式表示爱好。"
+      "explanation": "like 后面跟动词 -ing 形式表示爱好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb982883295a9588af84c3e0afcc7e7483833c89.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35d4b1cbc9424e72c205042bf39714ab5bd0fd96.mp3"
+      }
     }
   ],
   "knowledge": null

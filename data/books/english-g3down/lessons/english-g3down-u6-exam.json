@@ -16,7 +16,11 @@
       "question": "单词 'leg', 'red', 'ten' 中的 'e' 发音都相同。",
       "options": [],
       "answer": "对",
-      "explanation": "这三个词字母e都处于闭音节，发短元音/e/。"
+      "explanation": "这三个词字母e都处于闭音节，发短元音/e/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f447caf9a1d470d7e312ed8ae2a399070dfd0ab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef7dce096adbc27d23b63db9a23e09b8d9032426.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "数字 12 的英文是 'twenteen'。",
       "options": [],
       "answer": "错",
-      "explanation": "12是twelve，不是twenteen。"
+      "explanation": "12是twelve，不是twenteen。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b362dc97ab887502adde6a4430908f01228e1c02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fdf76522ae5e892bca8334782d19812ec59f90b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "数字 18 写做 'eighteen'，这里只有一个 't'。",
       "options": [],
       "answer": "对",
-      "explanation": "eight结尾是t，加teen时中间只写一个t。"
+      "explanation": "eight结尾是t，加teen时中间只写一个t。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4e490f769ab2940c89563156bb90d2206dc5e82.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/910e401e0db4281e4fc90fa5f2e3c84dfe49536b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "How many caps do you see? 回答可以是 I have four.",
       "options": [],
       "answer": "错",
-      "explanation": "问see（看到）应用see回答，have是（拥有）的意思。"
+      "explanation": "问see（看到）应用see回答，have是（拥有）的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93eec27235cfd149a63e620797dd042e0bf8ac0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a698038af285fbbdc0e893210ec1c0ecda2f9f3f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "fifty"
       ],
       "answer": "sixty",
-      "explanation": "常识题，60分钟但在三年级下常考查对基数词的认知，选符合逻辑的数值词。"
+      "explanation": "常识题，60分钟但在三年级下常考查对基数词的认知，选符合逻辑的数值词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6df26779bcb9768fbb881a7a1172da1035512539.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c54450b325c13c06f573cc8750b42e81e0126528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88ddff0da7c9c2be0e47c8aa8165964f36aae93c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/387f1fe4b7f07681b0893ad24d62a2893aa33e67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f7a7912b3588c92069158935a536f88fc7c2d4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b184184874f0c48d9b7f6e27a034b2272c203ca.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "Thank you"
       ],
       "answer": "Let me count",
-      "explanation": "当在查数时，常用Let me count (让我数数)。"
+      "explanation": "当在查数时，常用Let me count (让我数数)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3df8a92d4c71e8d7d48dd797db9c6b4c153c4d5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b430101f5bde29a6a0297b9841c18de3f81cb115.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e01343bfb3caff652880e6a9d341754fc6f39748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d397d6616a1748f7d2111faa1505fc06ba9d3171.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b50e31a7e1337db9ecb0e2fcb6e65ca27f57df5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29a79e5d86a1fb829a186a214a95435e084b460e.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "Very"
       ],
       "answer": "So",
-      "explanation": "So beautiful! 太漂亮了！符合课文句型。"
+      "explanation": "So beautiful! 太漂亮了！符合课文句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86ddeb4048a666527dcf927b18d2f07ab626cd21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26c0ca793e8f7074d3f8c82877440040dbf9523b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23ce0c06108fdd29a864559a1daf081f5b60f3ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76fcc41768bc9e0114b2ff994ff2af996b380ab6.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "eleven, twelve, thirteen, fifteen, fourteen"
       ],
       "answer": "eleven, twelve, thirteen, fourteen, fifteen",
-      "explanation": "考查基数词排序。"
+      "explanation": "考查基数词排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68e0c584dc2af2c4a6ea8820ad47220fdecfe69f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2331a3925d31a739d5e2002caf977eb2e2dbc63e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aeb95c06fd6810d9c25d11f37744515afb22420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3aaac98ae42a04214084d844a4de5f2f967d77b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdae0ad1d3cc039493d96a0bc1dc0a0c23ae93ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60e7c75b852640cb5f97edba09b9b25c919efa8f.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "Hello"
       ],
       "answer": "Great",
-      "explanation": "提议比赛，赞成时用Great。"
+      "explanation": "提议比赛，赞成时用Great。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f6a1e5e8b22ab6f837b4f32d0ff76f0bf884be0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd846adf34307e77ff7d457b28a426470fc0bad9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/816c52fd2bdd94a63cd0944823a6c0aa9384c103.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12cca3e743f3a175b000ceb99d70cf5f8cfccaa2.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "no. 16"
       ],
       "answer": "no. 16",
-      "explanation": "表示编号用No.加数字。"
+      "explanation": "表示编号用No.加数字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bf75d005ec04a4d70144085c1cab7bf4c681f4f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d94d09a927e42ba4dd8b89c900ed60498dda4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c18291ad34ead1822eee2281bbacd6eddec4713.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2ba2f77c4ed91790f4bf79761b17de1d3f2517a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/868f473a0f994f9c0e4ba42e10534227c19af436.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "Nine and nine is ___ .",
       "options": [],
       "answer": "eighteen",
-      "explanation": "9+9=18。"
+      "explanation": "9+9=18。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/516f639ee04f21269f5b2aab626cf59b4296e82b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5ff467ba7a939aa6a97082beb366165033f2853.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "How many ___ (鸭子) do you see?",
       "options": [],
       "answer": "ducks",
-      "explanation": "How many后跟复数形式。"
+      "explanation": "How many后跟复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b76361d380724acba149727a54a9243978584686.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab65276cce1d8bd3a7a8ce1b3a1f2cacb8d616aa.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "My father has ___ cars. (20)",
       "options": [],
       "answer": "twenty",
-      "explanation": "20的英文是twenty。"
+      "explanation": "20的英文是twenty。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51244905cca972e75b539f15bc1f42b3b2bf4fcd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/799cdcd54397935b233a59f2c0139e5623aabdd4.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "十四"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "基数词匹配。"
+      "explanation": "基数词匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdd6b4b6651c2608464e1f093745382639e60758.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b521f9394fabb794ecc4f5902d1f4b42ca0b4744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a13a01d705b372be5da08b0751c65714b10dfe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5cf896e678bdf9519adaa8b434a1676adcf45db5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70c6adb61515ca0eda2ac63e282d40a976e27e68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7724d77746565fa001849b39461966f3ed68475.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a35c2e8d1a4d58775a8c9a15e8b216c8e26ba3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08fdd3fc42431152118e2444967172a6f651a808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fb0b387cbd8e162eb7b5442c5dc6a2fa1785a54.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/461fe4005b8d0d5c35501d825c21983a8936698c.mp3"
+      }
     },
     {
       "id": 22,
@@ -216,7 +318,19 @@
         "do"
       ],
       "answer": "how,many,balls,do,you,have",
-      "explanation": "询问并列物品数量的固定句式。"
+      "explanation": "询问并列物品数量的固定句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1ae6752d8eb276898d18d7bf030c6f0034120fe4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99e4f5b9e5272cc0b5ff5f29909fd508cd49e5f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b064373fb4dd7356db6e83ec9c39e31ba9c335c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15a13cd56fab629ae0999b07db131704b9a7b08f.mp3"
+      }
     }
   ],
   "knowledge": null

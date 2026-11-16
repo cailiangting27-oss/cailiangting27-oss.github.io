@@ -21,7 +21,17 @@
         "No, I am."
       ],
       "answer": "Yes, I am.",
-      "explanation": "肯定简答用 Yes, I am."
+      "explanation": "肯定简答用 Yes, I am.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a8baf9a6459fbd9dc454122c2f5911fed2a26b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c13b6aed60f9ebc67b777e3e9f6dcf7792501db9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/522c1f25c24af76ae6884143fe241e132d4f4a26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f57846952d736b04f9b9508b59bf0cefd59c11f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc538b67c3834af6b4c95d4a6bdd4a5e875afe60.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "Are you…? 是一般疑问句，用 Yes / No 回答。",
       "options": [],
       "answer": "对",
-      "explanation": "be 动词开头的一般疑问句。"
+      "explanation": "be 动词开头的一般疑问句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2b699adcda843c77507bdc9d097b93ce63719b4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f378a1f917286369a2599e6318ce0ddf90b4f790.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "回答写成 Yes, I'm.（×，不能缩写在句末）"
     ],
-    "tips": "肯定简答不缩写。"
+    "tips": "肯定简答不缩写。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e3/e3d7c77b96024c11e22ffa7d9a619f4932e3bee8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f1/f16df570189e01b5f9c2230918dd4a86e4fa8984.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1d/1d4153b095c461374ddd950af6f4a61c629be433.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8d/8dd1bc65d7d081d3423c6a8e96554512f5264b6a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/87/87de18ae7607c515d10767b77c2ad546ff2f5a63.mp3"
+      ]
+    }
   }
 }

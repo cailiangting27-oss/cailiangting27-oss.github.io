@@ -16,7 +16,11 @@
       "question": "假分数都大于 1。",
       "options": [],
       "answer": "错",
-      "explanation": "假分数的分子大于或等于分母，当分子等于分母时，其值等于 1。所以假分数是大于或等于 1 的。"
+      "explanation": "假分数的分子大于或等于分母，当分子等于分母时，其值等于 1。所以假分数是大于或等于 1 的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff56333b5851553d072673c1007b93f3012cf18.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5170640e22053758afda1d0bff136706a59a1a1.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "7/4"
       ],
       "answer": "3/4",
-      "explanation": "真分数是分子比分母小的分数。3 < 4，所以 3/4 是真分数。"
+      "explanation": "真分数是分子比分母小的分数。3 < 4，所以 3/4 是真分数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a81e38b22e4beb5bd10bae564c14e4ce61750672.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/ba1b11af09082e3db75cb63c588a0827fb8883fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a13338039b890a8665ad64f8dda567375318b4c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc80df1f23a810ec9e1b7b0863bf8d648ccf9930.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899d95a73cdc50f85d78986390591502ff04598.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/368cb1afd8d2d2994aa51d62a1db337558828132.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "8"
       ],
       "answer": "6",
-      "explanation": "真分数的分子必须小于分母。分子 a < 7，最大的整数是 6。"
+      "explanation": "真分数的分子必须小于分母。分子 a < 7，最大的整数是 6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e7ce7bd705e1c588a7985df301569f864111829.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d9253b0e1bea5008687313de0c2edfd21ed690e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "认为假分数一定大于 1，忽略了等于 1 的情况",
       "将假分数化成带分数时，余数忘记写在分子位置"
     ],
-    "tips": "分子是分母倍数的假分数可以化成整数。"
+    "tips": "分子是分母倍数的假分数可以化成整数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/88/883218f12dbdd3d13329849da67c2c99189d175f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4a/4a315b53414e3232dc231adda0c72b79a60748c3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/84/84688684727fcf7d2f7d34ba2f083e6224ed9d8e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3b/3b5a8fe1b8e53d28f9a680f4d97d2b7742348852.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d1/d1cc3b24200931dab5c59e475dbc90091a63fc2f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/db/db0a660737336d2198f99c278b8881756b30d0b4.mp3"
+      ]
+    }
   }
 }

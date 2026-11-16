@@ -21,7 +21,17 @@
         "108 元"
       ],
       "answer": "36 元",
-      "explanation": "先求单价：$12 \text{  } / \text{  } 3 = 4$（元）。再求9本总价：$4 \times 9 = 36$（元）。"
+      "explanation": "先求单价：$12 \text{  } / \text{  } 3 = 4$（元）。再求9本总价：$4 \times 9 = 36$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cae35c1968c5e2a2522d2f1aeebcc0b2eb08bbd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0ecd0e76feaf7e21f23bcfa582028ab975cd687f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec08553914260e2a1cefe5c4c2c7c52a9116aa72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/889f63129133c967a37c0cd925c3fcecbe2e1865.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b07586b279269defd2035d1107e4bca4bc0cf99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82c8da6bef57e11761d555c32bfc3d5f7bfe1ab1.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "20 枝"
       ],
       "answer": "10 枝",
-      "explanation": "先求单价：$32 \text{  } / \text{  } 4 = 8$（元）。再求数量：$80 \text{  } / \text{  } 8 = 10$（枝）。"
+      "explanation": "先求单价：$32 \text{  } / \text{  } 4 = 8$（元）。再求数量：$80 \text{  } / \text{  } 8 = 10$（枝）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3ee8094d2f5ea2ae962971aaf4e181bee705ef9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf8d0dd14dcfaf1507b08c1d254128399e942c93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61e761c63b2d8413758bdc558cf06851e4e0b270.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dcf746699622de0310fbf8b91ffa0bb18aa6c6fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a503ef86d341edf3cba5be28b0169448caf44d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6345e85edf56311b2c01e629daa6d642666a4d35.mp3"
+      }
     },
     {
       "id": 16,
@@ -53,7 +73,17 @@
         "40 本"
       ],
       "answer": "5 本",
-      "explanation": "总本数：$2 \times 20 = 40$（本）。每人分得：$40 \text{  } / \text{  } 8 = 5$（本）。"
+      "explanation": "总本数：$2 \times 20 = 40$（本）。每人分得：$40 \text{  } / \text{  } 8 = 5$（本）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c5571791a0ba3dc5e7898eeaf77843e6df605b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/893cdb61654f2e4fb8d13834017ccdfcfbbb3b5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5fe2c4473013199b1fba116b26ea4f2219f0560.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dca1ea79dd60921e40297256dfe54b2666fd276e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e096cc06f94d6f2e85a8c4766c225a043b759a12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b514dda2d0e8c9e850fd847266e18c9b2466e088.mp3"
+      }
     },
     {
       "id": 17,
@@ -69,7 +99,17 @@
         "300"
       ],
       "answer": "900",
-      "explanation": "298 接近 300，$300 \times 3 = 900$。"
+      "explanation": "298 接近 300，$300 \times 3 = 900$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb222e64a293a24e47a8aa1f6bc04d5b07f31b6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15aa0c7e8fbd2923db7041d012e8838d66b9572d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28cc2209b234d9183848f1c6a8ff13e0311057b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73ee4958bdb5a056029ebd39b8abbaa3dbc0f333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d64dd5139c8c12dafd8ace175babc54cccbfc8f3.mp3"
+      }
     },
     {
       "id": 21,
@@ -80,7 +120,11 @@
       "question": "3 名同学 2 小时做了 18 朵花。照这样计算，1 名同学 1 小时做 ___ 朵花。",
       "options": [],
       "answer": "3",
-      "explanation": "先求3人1小时做的：$18 \text{  } / \text{  } 2 = 9$（朵）。再求1人1小时做的：$9 \text{  } / \text{  } 3 = 3$（朵）。或 $18 \text{  } / \text{  } (3 \times 2) = 3$ ✓。"
+      "explanation": "先求3人1小时做的：$18 \text{  } / \text{  } 2 = 9$（朵）。再求1人1小时做的：$9 \text{  } / \text{  } 3 = 3$（朵）。或 $18 \text{  } / \text{  } (3 \times 2) = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b579b9af6f023c6e7fa96d8fa890fb6753b3dc8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da6b4ec686dc35b60a49299a4f7987ad79f2ba46.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "估算时找不对近似数，误差过大",
       "两步计算题找不准中间量，运算顺序错误"
     ],
-    "tips": "先读题确定是“求总数”还是“求每份数”，画简单的线段图可以帮助理清思路。"
+    "tips": "先读题确定是“求总数”还是“求每份数”，画简单的线段图可以帮助理清思路。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b3/b3170ea9f5cb1be6dbcd2b8b3cd543ff226c3f91.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/69/69e8b038e3da33da1cf235a7ed4d75f3bf557360.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/82ee81f3c2cf3fa86751f43c485a143c6059d8f6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6d/6d1a30951f06ae2975042c045f7a2e99a0cfc702.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ea/eac7d55f583271a2685802cd4b48bb976558ecfa.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6e/6e8e0ff85157f63d403b1d09c3bcbec845ea83c1.mp3"
+      ]
+    }
   }
 }

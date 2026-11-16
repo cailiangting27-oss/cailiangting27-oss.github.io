@@ -16,7 +16,11 @@
       "question": "燕子低飞说明天气晴朗，适合阳光下运动。",
       "options": [],
       "answer": "错",
-      "explanation": "燕子低跳是因为空气潮湿，昆虫飞不高，燕子低飞是为了捕食，这是下雨前的征兆。"
+      "explanation": "燕子低跳是因为空气潮湿，昆虫飞不高，燕子低飞是为了捕食，这是下雨前的征兆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f31a777b5dda496a7bfe4afa6211081ffb2edcbb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f1eb404f554e8133366c011a07dab8fba93e7e5.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "蚂蚁搬家通常是因为快要下雨了。",
       "options": [],
       "answer": "对",
-      "explanation": "下雨前气压低，土中水分多，蚂蚁会提前往高处搬家。"
+      "explanation": "下雨前气压低，土中水分多，蚂蚁会提前往高处搬家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12323285dedfeaf8eb0ab8bb6978061b8a36690e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/189df642ac789ed898c70fde8cb8db0c01742062.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "小鱼游到水面上呼吸是因为水里的氧气变少了。",
       "options": [],
       "answer": "对",
-      "explanation": "下雨前气压低，水里氧气减少，小鱼必须浮上水面透气。"
+      "explanation": "下雨前气压低，水里氧气减少，小鱼必须浮上水面透气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cb634ef5b85ea7f1c63d15e11bd81f353999183.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/1832b9f97e2fef6f54aa4e50c00a765824a1935f.mp3"
+      }
     },
     {
       "id": 10,
@@ -54,7 +66,17 @@
         "飞向太阳"
       ],
       "answer": "低空飞翔",
-      "explanation": "下雨前空气潮湿，昆虫翅膀带水，蜻蜓会飞得很低来捕捉昆虫。"
+      "explanation": "下雨前空气潮湿，昆虫翅膀带水，蜻蜓会飞得很低来捕捉昆虫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec6d3230a205629781ac1aedd49c6e68d38fc176.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1dee3c9b2be81954e0ff406985792abbc78c0d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec2d2c967b373456144b4b9560ce2b73e5d374ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c037666bfdba43d7edeb6b0b9a9d1546f0688d95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5777bf5759df87984c19ff7d593ee6c6d765ac62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/839dd21af22b25425db581f66a434f29b4ef859f.mp3"
+      }
     },
     {
       "id": 13,
@@ -70,7 +92,17 @@
         "感觉周围闷热"
       ],
       "answer": "燕子飞得很高",
-      "explanation": "下雨前燕子应该是“低飞”，而非“高飞”。"
+      "explanation": "下雨前燕子应该是“低飞”，而非“高飞”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23fbe03376b74d66067e5277a993b5913daec3b7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f395c04755a1348f7ae3db1d4582769fa16de45c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4cf51995fe691355a35f9fcff2a5dafe2ca6155.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4eadf691d898b546d4e3f470da31311629b073d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6aaa5e3c0a102b0b8f2dbcbc56d431283b4073f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a16eff31d50ecb4b5d61ca7213af18ce5be306d.mp3"
+      }
     },
     {
       "id": 14,
@@ -86,7 +118,17 @@
         "空气潮湿因素"
       ],
       "answer": "空气潮湿因素",
-      "explanation": "原文明确提到“空气很潮湿”，导致翅膀重导致低飞。"
+      "explanation": "原文明确提到“空气很潮湿”，导致翅膀重导致低飞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e28f3b3708572270a0f4424f4a06344f47e39e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c99313a0acbf4db7a7f9a2088440d2cc5cddaefc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4eaec9371c36a307468a4c76cb4842d0b635b76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15c94e71e7212a5a12311d7d6802916406b080ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbaafa9ec1af472f1cc4bada7149e212712f5350.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/eada48eb8fb797d02ffdaf1731993ac037221ffa.mp3"
+      }
     },
     {
       "id": 17,
@@ -97,7 +139,11 @@
       "question": "小白兔在弯腰割草的时候，感到天气很（___）。",
       "options": [],
       "answer": "闷热",
-      "explanation": "课文《要下雨了》开头描述兔子感到很闷热。"
+      "explanation": "课文《要下雨了》开头描述兔子感到很闷热。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02cafe3e41f3a131d43f3f49be2e3a9f6c1558b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da5324e44b99537a735a5f0669e36dc8145dcc61.mp3"
+      }
     },
     {
       "id": 21,
@@ -117,7 +163,21 @@
         "水面上透气"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "根据《要下雨了》课文内容匹配。"
+      "explanation": "根据《要下雨了》课文内容匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e771c2a7051b5df9697d91a270b8e524df74f03c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a81c5d73781e208b65326573f0c2ed334f470e9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/683dad6e7ec803e1c90e525d7a93b29cd4b5033d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5f9f9a8d17ee0b84ac963a5224b2d4c28441de1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7831e9d4cebe7a1c9656c0742a2a58bf54f2ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/983a2251e6f9f66646c80a032b669e2514ed590d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93d61e2139b6b5dd7438fb3e9cfa053776ec24a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b14e6bb7c7d853998bcca705162f9adabd94cec0.mp3"
+      }
     },
     {
       "id": 22,
@@ -133,7 +193,17 @@
         "在"
       ],
       "answer": "小白兔,在,山坡上,割草",
-      "explanation": "合理的语序是：主体+地点+动作。"
+      "explanation": "合理的语序是：主体+地点+动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80a974666061bae2c6860ad8a7f9bc41febbf0e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/480b784d88a52832d8c0263cce8b04a8b4a8b83f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/683dad6e7ec803e1c90e525d7a93b29cd4b5033d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb7a3e077aaef36f4e2603aa7d57801ed92192db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31a2bf41cffb2a4954474951dbbd0b3c553341e1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -144,6 +214,16 @@
       "错误认为燕子是为了玩耍而低飞，不能理解‘空气潮湿’这个科学原因。",
       "分不清蚂蚁搬家是往高处还是往低处。"
     ],
-    "tips": "记住口诀：燕子低飞鱼露头，搬家蚂蚁大雨流。"
+    "tips": "记住口诀：燕子低飞鱼露头，搬家蚂蚁大雨流。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e7/e761bca6325761086bc9fa0024fc45e0fc42e56f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/03/0357e11446893e37cc854a8a40665a9b01786087.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b5/b54e657d40d6ec12b0de13d5a7c510da6f9da60d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c6/c66384a77af00eb54f3adbc7ac9fd299b60e0bdc.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d5/d50dca335a8bbda632897bc37650a1a25ed88829.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6c/6cc4f69e150e4f741a24f94c3a1ed3efe69c9a4c.mp3"
+      ]
+    }
   }
 }

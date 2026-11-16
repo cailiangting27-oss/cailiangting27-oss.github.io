@@ -25,7 +25,21 @@
         "今天上午"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "tonight是今晚，this morning是今天上午，next week是下周，this afternoon是今天下午。"
+      "explanation": "tonight是今晚，this morning是今天上午，next week是下周，this afternoon是今天下午。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9cb1bcb7afe6863e9ca5074d3e1d41a0cffb4bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4ce0cba1df89d614b0141c38978920e6b48f1661.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b823c60e2423f55ddabd89ed6f3512cc70d5b24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3619af6b122959c3bf7710901b2616a06b6ab2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c23381325088a2afe515ca90956f9a0aa708661.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee9ca425044a1ee1d6402ff83aa14940dd047c26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b029a74527f8b457b53fdb6cc406973dcd96dcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83e252a1d9612292f42755114f90b12fa5ea03e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05e61eda395ce11a06e915f68a861ec09066757c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c6783dbb1b5184dbf092540ca7899a73d9204e0.mp3"
+      }
     }
   ],
   "knowledge": null

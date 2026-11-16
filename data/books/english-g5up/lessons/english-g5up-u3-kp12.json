@@ -21,7 +21,17 @@
         "fresh"
       ],
       "answer": "sweet",
-      "explanation": "冰淇淋的显著特点是甜（sweet）。"
+      "explanation": "冰淇淋的显著特点是甜（sweet）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e705dc24ce1d450799adf04785729ccdca22ffac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/457774c6f0228627cad243f9b8d5ae6f27e1fac6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31c31e4d9247bebdf28b7592c06c194459a6e31c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a4c84cb83788005285d9c9e6f6d6c046b4c39e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14967101f1e892ae3c4c8da5dffd4e509187bd6a.mp3"
+      }
     }
   ],
   "knowledge": null

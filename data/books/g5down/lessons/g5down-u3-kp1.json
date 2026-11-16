@@ -16,7 +16,11 @@
       "question": "正方体是长、宽、高都相等的长方体。",
       "options": [],
       "answer": "对",
-      "explanation": "正方体满足长方体的所有定义，且其长、宽、高均相等，因此正方体是特殊的长方体。"
+      "explanation": "正方体满足长方体的所有定义，且其长、宽、高均相等，因此正方体是特殊的长方体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d74f8ff99f34fc22adc0422308d8ce7ea257cb4e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6691804d87d9883279fbb83e9a766980be3b9ee4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "长方体中相对的面的面积一定相等。",
       "options": [],
       "answer": "对",
-      "explanation": "长方体由6个长方形组成，相对的面完全相同，因此面积相等。"
+      "explanation": "长方体由6个长方形组成，相对的面完全相同，因此面积相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2af41305ebaac719e421872a57914ae3a061573.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4cd1d7a5575633fb7e71318675a313e90643419.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "12个"
       ],
       "answer": "8个",
-      "explanation": "长方体有6个面，12条棱，8个顶点。"
+      "explanation": "长方体有6个面，12条棱，8个顶点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32955634e58d7d0bc1c75bf1b6a2804a8fe7aaf7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8169cc2bef1a8041d8e3d8c57a681f4c13dafdf.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +77,17 @@
         "6组"
       ],
       "answer": "3组",
-      "explanation": "分别是长、宽、高各4条，共3组。"
+      "explanation": "分别是长、宽、高各4条，共3组。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/337a09d04e798de694456b8cce6eb263fea5cb32.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f4daab1f286efd4be57086c8d58ce45b6b6f7d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faca18c627a5faddebd4ab671deb41a89f1eaa63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e82ee9870953c437a8b33701f300a7fc700e29b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/178a1097a477eda936bdddda3ae3c7cb5a06a50a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d05150a88b199b4a797ac55c8a99285780b05892.mp3"
+      }
     },
     {
       "id": 19,
@@ -70,7 +98,11 @@
       "question": "一个正方体的棱长总和是 60 厘米，它的一条棱长是 ___ 厘米。",
       "options": [],
       "answer": "5",
-      "explanation": "正方体有 12 条棱且相等。$60 \\div 12 = 5$ 厘米。验算：$5 \\times 12 = 60$ ✓。"
+      "explanation": "正方体有 12 条棱且相等。$60 \\div 12 = 5$ 厘米。验算：$5 \\times 12 = 60$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be6d0530988dacb15fb6f19ae0ce423155575786.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40302b98b9108197a57749093a1f6d89e8412e94.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "误以为长方体只有四个面",
       "数棱的个数时重复计算或遗漏"
     ],
-    "tips": "找家里的火柴盒或魔方观察，记住“面、棱、顶”的数量是6、12、8。"
+    "tips": "找家里的火柴盒或魔方观察，记住“面、棱、顶”的数量是6、12、8。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a4/a42e1a56922c476de11d722f37e48229a939e4b8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/46/46d5cb74cc252497de7e6cb401d25de4312c2b55.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a0/a00497838c5b35ced5780cd0f975fa6687365252.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/77db595fe9799d78f6fa4b7e131f0acc6de60c33.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6c777de56aecf945fdbfd64c5be07222196968b6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ef/ef6d4b7a2e968f26a937e1694176b0d538b82307.mp3"
+      ]
+    }
   }
 }

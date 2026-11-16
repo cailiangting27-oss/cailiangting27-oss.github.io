@@ -16,7 +16,11 @@
       "question": "单词 'pencil' 的中文意思是 '铅笔'。",
       "options": [],
       "answer": "对",
-      "explanation": "pencil意为铅笔，pen意为钢笔。"
+      "explanation": "pencil意为铅笔，pen意为钢笔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39ddbfb3987d7593a7f57c10e80d9de363fa0bf0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2bd55c0c10ea803bd926016a6a0252ab874605ba.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "ruler"
       ],
       "answer": "book",
-      "explanation": "book意为书。"
+      "explanation": "book意为书。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89452b8a7527c9fab3760a0cb3dff38a915c06b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e030d9cae2551eedfa1be479c2bec468dfbbe468.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "eraser"
       ],
       "answer": "crayon",
-      "explanation": "crayon表示蜡笔。"
+      "explanation": "crayon表示蜡笔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1376196d516d3493a67c69837852af1629577005.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fc512490a15036460b5489401439d6da5407fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be869cf4a4e31001428dbb2d077e000b1c54121.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd761b6e2ada5dbe995912daf2eeb7d503f94298.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f774a4713361aec2147f28d1d61c308ed7e2c1d.mp3"
+      }
     },
     {
       "id": 20,
@@ -68,7 +92,21 @@
         "书"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "ruler-尺子, bag-书包, book-书, pencil-铅笔。"
+      "explanation": "ruler-尺子, bag-书包, book-书, pencil-铅笔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41cae610637c3d41c93b282619298478571a5ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fc512490a15036460b5489401439d6da5407fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e54c201cc10e230b946d9f7067df41f22af3ad7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd52d6c26eac71f33ec9eb77d62a49ef4dcf74b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe04274ceff3059706d742eaa9e9db3368ab0949.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b657e80cce0661b6355d05256b6f17bc2d89b78.mp3"
+      }
     }
   ],
   "knowledge": null

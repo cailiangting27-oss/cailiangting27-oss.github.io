@@ -16,7 +16,11 @@
       "question": "琥珀的形成只需要几百年的时间。",
       "options": [],
       "answer": "错",
-      "explanation": "琥珀的形成需要经过几万年、甚至上千万年的漫长过程。"
+      "explanation": "琥珀的形成需要经过几万年、甚至上千万年的漫长过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee031a9645d85afd3e7bdd660a9e61f4486d0750.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c72514e76047efa1c386167f362fc69c10b1142.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《琥珀》一文中，小苍蝇落在大松树上的情节纯属文学想象，没有任何科学依据。",
       "options": [],
       "answer": "错",
-      "explanation": "文中的描述是根据琥珀中保存的标本形态进行科学推测的。"
+      "explanation": "文中的描述是根据琥珀中保存的标本形态进行科学推测的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed72082993fb1b924df871bb954edcecf2acd7fe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f993ca83999ebb92508ca270d7a0f9064efaa5b2.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "恐龙学会了游泳"
       ],
       "answer": "恐龙身上长出了羽毛",
-      "explanation": "羽毛的出现是恐龙向鸟类演化并具备飞行能力的关键特征。"
+      "explanation": "羽毛的出现是恐龙向鸟类演化并具备飞行能力的关键特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25997d09d00b44be314713187aaacc0e403b7b85.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4fc8b9a1678c96ca6f956810e0b7b296212c7352.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16580ef33099de930e4f144a18f564b1d200fbe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bd1ceda00d014d3d970ee48e7df75323b759472.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c219892d4565f16787f3464488f34fcc5eb977d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd3b137d49990d8ad4f926cb78ad2b83f72b84a5.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "看到科学家留下的记号"
       ],
       "answer": "看到两个小东西的挣扎形态",
-      "explanation": "琥珀中苍蝇和蜘蛛的相对位置让科学家推测当时发生了什么。"
+      "explanation": "琥珀中苍蝇和蜘蛛的相对位置让科学家推测当时发生了什么。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ac5b00a6c3a901c2eb2be61d1ec65c6e48649e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2399606e4fd79f47d48caf819c7b8ae4e99edcac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8df33ddf8d2cecb55e990e3131102c9457ec3be3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a378ebc903cb976dd38b838e6f6561ae35c69d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7828e853d854cec1ebc717a884f652ef9b34ac7e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/725f9235d29800911d2da3026d8df7df29216c2a.mp3"
+      }
     },
     {
       "id": 23,
@@ -76,7 +104,18 @@
         "深处"
       ],
       "answer": "松脂球,长时间,掩埋在,地壳运动,深处",
-      "explanation": "描述松脂球在漫长时间里由于地壳变动掩埋在地下深处的过程。"
+      "explanation": "描述松脂球在漫长时间里由于地壳变动掩埋在地下深处的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b7996f438f1c8ea514ccfd1d6d635a56d6cf31c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed8e929865643417518d34d7e6e464483088080b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f70960cfa53e461e957b6c517058ed2c0da9612a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6859a512cbd3858f64600f6e25c9ece869af52ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1b29e3c00def9c6910e597679e1e71a74f63d41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/258f85e940802c7f69b0ed75543d13b21847e005.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05ee9d305de3f93638cb618f22dd8d32f3b634b0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -87,6 +126,16 @@
       "将推测等同于瞎编故事",
       "混淆推测与绝对事实的界限"
     ],
-    "tips": "寻找文中的关键词如“推测、估计、大约、可能”，体会科学语言的严谨性。"
+    "tips": "寻找文中的关键词如“推测、估计、大约、可能”，体会科学语言的严谨性。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ae/aeefa55310e11776237d73b78bd12f8ea65de3cd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6f/6f5219b681c311dd002c345b5830ad789f2ccc09.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a7/a75e2e171fc29450edecbeeca02f843a255ca6f4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/54/54a3ce5299b7ea2d151e418eeb58a51ef4db5052.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4d/4de30c2acc82ca53d41e8b33040cf7c120e02f07.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d2/d24f7d4af6bf6a1fd9faaa30aa80ce2adaaa1a7c.mp3"
+      ]
+    }
   }
 }

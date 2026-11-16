@@ -21,7 +21,17 @@
         "How"
       ],
       "answer": "Who",
-      "explanation": "回答是人名，询问人物用 Who。"
+      "explanation": "回答是人名，询问人物用 Who。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7301c4025c8a823fd251b97e1f9ecb8c50492e37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/3004cca9b633f086b299cbdf91874adb57e46912.mp3"
+      }
     },
     {
       "id": 8,
@@ -37,7 +47,17 @@
         "She likes cats."
       ],
       "answer": "She is very kind.",
-      "explanation": "What is ... like? 用于询问性格或外貌特征。"
+      "explanation": "What is ... like? 用于询问性格或外貌特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10baadfb5f03fa52366dc8245cc5eddb6cc11c13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6da0c69bb79a1c6341f119b8a989c8d7dca9d769.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e4c7e097f0ad81b1d82718b574356e5ebb87c04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ed2eaff2b9f50d75bca835f0c41c3171951b4d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0013fcfe1fdca75fdd8e48d3eab4db91ac912749.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6208a02a5c007389e5e1ed2786047cc2ed4cf788.mp3"
+      }
     },
     {
       "id": 15,
@@ -53,7 +73,17 @@
         "Is he friendly?"
       ],
       "answer": "What's he like?",
-      "explanation": "描述外貌身材需要用 What's he like 提问。"
+      "explanation": "描述外貌身材需要用 What's he like 提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b21ccacfd49aab77c5a8340b92ff3620433b5a34.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1250267c59b17c087f0cc66117f155c48cb2350.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a2542cc67609d8bde3685ff3c6e26a48ef2ddf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/791c74d0bf3dde6c7df64b01a4a38fec8b9093a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0ff8342c34d634ab5088b66c096ebb56836df4ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/258ae3906d6b42a7c01ff5126c535adb7d0b5aa3.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +94,11 @@
       "question": "______ is your English teacher? Mr Smith is.",
       "options": [],
       "answer": "who",
-      "explanation": "询问谁是老师用 who。"
+      "explanation": "询问谁是老师用 who。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cadcae0d09c60137712628a0db3130e453420b88.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15edf58630e61043b3577877470eb5b03f701aaa.mp3"
+      }
     },
     {
       "id": 22,
@@ -81,7 +115,18 @@
         "?"
       ],
       "answer": "What,is,he,like,?",
-      "explanation": "句首大写，询问人的特征句型：What is he like?"
+      "explanation": "句首大写，询问人的特征句型：What is he like?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9a2ecc15ffc671c163cef3bbdea0b6513e356cf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41c8b42c58f6a7a9cb9b5a5a88c0937b717bd787.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "9 + 5 = ？",
       "options": [],
       "answer": "14",
-      "explanation": "把 5 分成 1 和 4，9+1=10，10+4=14。"
+      "explanation": "把 5 分成 1 和 4，9+1=10，10+4=14。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b1b6451ccd3341b461b2558c96e548442ea9967.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15992aefbf9c384ddcfbddf9b76392b6a6e9d53a.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "13 − 6 = ？",
       "options": [],
       "answer": "7",
-      "explanation": "想 6 + 7 = 13，所以 13 − 6 = 7。"
+      "explanation": "想 6 + 7 = 13，所以 13 − 6 = 7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4490785db8e99ab22f7ba2ba9e26da9962c8e7f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/971477d4afec11e9576596635c299d6357dd0601.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -37,6 +45,15 @@
     "common_mistakes": [
       "进位加法忘记进位。"
     ],
-    "tips": "看到 9、8 想凑十。"
+    "tips": "看到 9、8 想凑十。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/54/540f4cea296482004188c7b5d8d27f4019dc5c3b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c3/c358ff431c0c61b559a33e7baf8617efac7fa349.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/04/04a0b6ad998f4bb1c76ba56ba9ed4efe809be446.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/dd/dd9e027ff5bbb98fb64a4c1ecaf4f7ba473206e4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9f/9f9ddcf54954b2c0d9de9b2e717057caf05cab2b.mp3"
+      ]
+    }
   }
 }

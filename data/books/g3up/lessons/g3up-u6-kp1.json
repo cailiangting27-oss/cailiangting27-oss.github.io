@@ -16,7 +16,11 @@
       "question": "$40 \times 5 = 200$",
       "options": [],
       "answer": "对",
-      "explanation": "$40 \times 5$ 可以看作4个十乘5，等于20个十，即200。验算：$200 \text{  } / \text{  } 5 = 40$ ✓。"
+      "explanation": "$40 \times 5$ 可以看作4个十乘5，等于20个十，即200。验算：$200 \text{  } / \text{  } 5 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63a303c729c8440720d3b1b6ee74f7c4b085557d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c4887595ab23009efbbcbfb9da039b593432c73.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "1210"
       ],
       "answer": "1200",
-      "explanation": "$3 \times 4 = 12$，所以 $300 \times 4 = 1200$。验算：$1200 \text{  } / \text{  } 4 = 300$。"
+      "explanation": "$3 \times 4 = 12$，所以 $300 \times 4 = 1200$。验算：$1200 \text{  } / \text{  } 4 = 300$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f08f7d3ec34a15ba54b8896b40a4c91bdca1758.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73ee4958bdb5a056029ebd39b8abbaa3dbc0f333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e4bbea3af2e4861ad5a445aaec573e02f9aca2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c7b84eeaec18233e982d101637ab2a4033c6fb0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/538ed9b622a35ca06d1864591affc98260726ae1.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "不添"
       ],
       "answer": "一个",
-      "explanation": "60是6个十，乘8得48个十，即480，所以在末尾添1个0。"
+      "explanation": "60是6个十，乘8得48个十，即480，所以在末尾添1个0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6397ed0f6235b2c5e1d72d30f0a6c1e13cce43f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8fbb0340c3a8e6185083b8bc91631e4557e4f80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0679ff1b934ed611512bb12dc053bf31038f9935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7fb6acf2d061f44a617c20e0a60d1f5754f612e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f15ccbad83e6f5125d706bb643fc08ea123bc12a.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,11 @@
         " ≈"
       ],
       "answer": " =",
-      "explanation": "$20 \times 3 = 60$，$30 \times 2 = 60$，所以相等。"
+      "explanation": "$20 \times 3 = 60$，$30 \times 2 = 60$，所以相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44a0d17b98e0c421ed592d49610def1cc2213070.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e476fddc46b66c0a3e84533e33d6a7f410b5513b.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +103,11 @@
       "question": "一只螃蟹有 8 条腿，40 只螃蟹一共有 ___ 条腿。",
       "options": [],
       "answer": "320",
-      "explanation": "列式：$8 \times 40 = 320$。验算：$320 \text{  } / \text{  } 8 = 40$ ✓。"
+      "explanation": "列式：$8 \times 40 = 320$。验算：$320 \text{  } / \text{  } 8 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96d41907f258cb8432e0f7d3e10dba6a6ebc9aa3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67601330f583ab138c658d6209a6728501dcc8ae.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +118,16 @@
       "计算时少写末尾的0，如 $500 \times 3 = 1500$ 错写成 150",
       "口算表内乘法不熟练，如 $60 \times 7$ 算成 480"
     ],
-    "tips": "先用盖住“0”的方法计算表内乘法，算出积后，看因数末尾有几个0，就在积的末尾添上几个0。"
+    "tips": "先用盖住“0”的方法计算表内乘法，算出积后，看因数末尾有几个0，就在积的末尾添上几个0。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/61/61d1a3dd15b5e681840bb9fff837e28baddd20af.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c6/c64802b013d6c6574426eed6ea7f1b1692bb6f38.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/77/772b784ac6860d6b61d3d4f1bb57482a7ff083ff.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/05/05fae45728637bf662cef5182b624f2aaa897294.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/33/338fceb22ae4d8fcd46e7199bfbad8607746fdf5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5a35e2a05abedb9047006b87313649912579d2b7.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "如果……就……"
       ],
       "answer": "虽然……但是……",
-      "explanation": "由于前后句呈转折关系，应选“虽然……但是……”。"
+      "explanation": "由于前后句呈转折关系，应选“虽然……但是……”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df20022423b2db794f38b7afbd0058c681871f81.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cdb4bdf8584d25e603a43c4e89b5e079e75b9e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0452eac398fa3dd3c95ffae843eacdf86baab1ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0679d08f8cf477c31345cfeaa267d531a0c57f03.mp3"
+      }
     }
   ],
   "knowledge": null

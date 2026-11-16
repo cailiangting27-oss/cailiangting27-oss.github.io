@@ -21,7 +21,17 @@
         "she"
       ],
       "answer": "your",
-      "explanation": "这里需要形容词性物主代词修饰 mother，意为“你的妈妈”。"
+      "explanation": "这里需要形容词性物主代词修饰 mother，意为“你的妈妈”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9cc5c37419d9c900f18d294c043152d6c47782f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bd8709be9130825473400dff260701e2673c8ac.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "man"
       ],
       "answer": "cook",
-      "explanation": "What's your father? 询问职业，cook 表示厨师。"
+      "explanation": "What's your father? 询问职业，cook 表示厨师。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/810e835473c75ca32d153c7fa854be6a392f8c3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0117691d0201f04aa02f586b774c190802d47d8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3ba4d993e2dbcd87a6390a0cd67e6eab0b01a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8175e3c8753aeb1696959f72ede260ebf3ea14c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de828693895baba8919da7667099993e2d526c5e.mp3"
+      }
     }
   ],
   "knowledge": null

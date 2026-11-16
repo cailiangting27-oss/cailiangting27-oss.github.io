@@ -22,7 +22,18 @@
         "给花园"
       ],
       "answer": "孩子们,给花园,带回了,快乐的,春天",
-      "explanation": "按照主语+状语+谓语+宾语的顺序排列。"
+      "explanation": "按照主语+状语+谓语+宾语的顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/462e8bf8952f490eb83a6ead9f854547549e0afa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/9893f15e9cf32dd23290fabb3c483fa38344c9a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f867d672f36b86e47f1e7e6e07f8e9601d8ed19d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d5d8f36be86d183c89f6a3c24b47bef5883b6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/438bd73e723348833e43cfbbd16484c693ec2232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5f1d38cadb9b0ead91027a33ff8857aae8b068c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cc29e5946dd77fc24556ac3f1b99a0656311922.mp3"
+      }
     },
     {
       "id": 23,
@@ -39,7 +50,18 @@
         "开在枝头"
       ],
       "answer": "绽放的,花朵,像,笑脸,开在枝头",
-      "explanation": "这是一个比喻句，花朵是本体，笑脸是喻体。"
+      "explanation": "这是一个比喻句，花朵是本体，笑脸是喻体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11e36b170bd623463e191f6de946f2ab6b30145e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/483b57dc0a44ef993727ff4e00ffd7ac166d77aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34487eb5afefef3a10c2333c0617866e45838de8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d24c64a8a8680a34c5ca8133ade81180ddc130e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8c96d95e35a57adf2c3f6ccb580c51450f2134c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/273bd74aaec7fc11ca8632cf14880cea0aea1e06.mp3"
+      }
     }
   ],
   "knowledge": null

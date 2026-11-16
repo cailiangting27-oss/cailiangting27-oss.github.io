@@ -21,7 +21,17 @@
         "计算"
       ],
       "answer": "看，查考",
-      "explanation": "观察的意思是仔细察看（事物或现象）。"
+      "explanation": "观察的意思是仔细察看（事物或现象）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84631ba2fa92bae81806644723407cd88e7d19c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/05e5db459e651f7795a88540d552b1046e3a5566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27c99021b382f095830ab6ab86df7f06984b979b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27849e9d2183aa6eb1447677050ae54c66b2fc3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f783e5b6b9c59f9e8ea98a83eb95492a630c6da4.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "《大自然的声音》中，风被作者比作了一位音乐家。",
       "options": [],
       "answer": "对",
-      "explanation": "文中第一自然段明确指出“大自然有许多美妙的声音。风，是大自然的音乐家。”"
+      "explanation": "文中第一自然段明确指出“大自然有许多美妙的声音。风，是大自然的音乐家。”",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4837f7bcaff893b3f7de74e14cdceec7506b8aa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22bc36584449218d21284355f72eb37cf813f726.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“哗啦啦”和“滴滴答答”都是描写声音的象声词。",
       "options": [],
       "answer": "对",
-      "explanation": "这两个词分别模拟了流水声和雨滴声。"
+      "explanation": "这两个词分别模拟了流水声和雨滴声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd44b88952f8924c189d5cb87b3b6a8c3ca3941c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e16d05437c47879472391212687035f404aacc4.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "动物"
       ],
       "answer": "动物",
-      "explanation": "课文中提到“动物是大自然的歌手”。"
+      "explanation": "课文中提到“动物是大自然的歌手”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d5452f54fc49deb4de2b116498e70a6b3368ba8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/315a1bd4002c00f123e2673b1b4639fdb6ef84c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41ac3e62afaaaacda4f3e9a615fb6de054f3fc60.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae40b04e3533575a55468f50b724f97eb9ee70ed.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "喧哗的声音"
       ],
       "answer": "小声说话的人",
-      "explanation": "“呢喃”原指燕子的叫声，文中形容声音细小。"
+      "explanation": "“呢喃”原指燕子的叫声，文中形容声音细小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab1024602df69545b70a1678eae21f1fc1668251.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59afcf8bd33b4bd1a9f621acb0b71d9e64574f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a78e4911f2d1c138878d2c0a7c85ab2e87ce48d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86fb2bebc368cb6e2e6e1c6a6e350ad29bf9f8e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3ce6c34ea5ae25cef649a48d026c5b1e444b13a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b39fb4cd6420a3c325809e65d16c4cc85b09fb22.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "描写流水声，常用的三个字的拟人化动词词组是：淙淙地（___）。",
       "options": [],
       "answer": "流着",
-      "explanation": "课文中提到“小溪淙淙地流着”。"
+      "explanation": "课文中提到“小溪淙淙地流着”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7ab922f649084d74b11442de3e9d00df2bcbe186.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56eab090304813a16c06ab760606c0f4fe3dfeba.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "将象声词书写错误，如“哗啦啦”错写为“画拉拉”",
       "无法区分“比喻”与“拟人”在文本中的融合使用情况"
     ],
-    "tips": "朗读课文时尝试带节奏感地模拟这些声音，利用对比法体会“呢喃”与“澎湃”带来的不同画面。"
+    "tips": "朗读课文时尝试带节奏感地模拟这些声音，利用对比法体会“呢喃”与“澎湃”带来的不同画面。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a0f926be81c8e0b2086a9da26b13edfb7ba8f9fa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d7/d7159706d8c04e93c2424ced05612da22851385e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9a/9af4790f818fb5e3ae0b43e9a1415e41b46f0b3c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fb/fb976466d36dabdfb4f3c09656f61acac0733da7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/451d1e0869d04d8b776fefbadfcc04d2d3bc4386.mp3",
+        "https://api.clthuanxie.cn/cc-audio/69/69adb305c246061528e179c2b222f4826d1a1001.mp3"
+      ]
+    }
   }
 }

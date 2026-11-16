@@ -16,7 +16,11 @@
       "question": "植物进行光合作用获取营养物质属于化学变化。",
       "options": [],
       "answer": "对",
-      "explanation": "光合作用将水和二氧化碳合成为有机物并释放氧气，有新物质产生。"
+      "explanation": "光合作用将水和二氧化碳合成为有机物并释放氧气，有新物质产生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/440602476e01e9d29a7b11cbfbf10e4282eb9b85.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/323546dc0356ac1bff7310113f2c0fbfa9cfa0e7.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "味精"
       ],
       "answer": "麦芽糖",
-      "explanation": "唾液淀粉酶将淀粉分解为麦芽糖，这属于化学变化。"
+      "explanation": "唾液淀粉酶将淀粉分解为麦芽糖，这属于化学变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecf3d7a3c9808f35df4e46d29c8b82973866ce45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/391d633d967acc73e8f0b7b2409f7ef4fc499a78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d4cdb0fc34b52a317a44a66def66961ae0674b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1629217f3c7679d86b484522ab0f0e91ee0af3c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a16f8d2bee7d0a83208b1e3a7ddb0ba43d4a97c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce21a306ca2c7c305bef32e72d0ea98c029d99f2.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "简单蒸发"
       ],
       "answer": "化学变化",
-      "explanation": "动植物遗骸经过漫长的化学反应转化成化石封存的能源。"
+      "explanation": "动植物遗骸经过漫长的化学反应转化成化石封存的能源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c39bab0c2028bf9784a5c5324c2a64b57d6cfb0d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5bc1b0471fa63729d56cadd2fc2b9808162f439c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3732a1f62a6166760871c63828620ccef462878b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fda138677558e0c57582ed4ebf6eebb48a81145.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6565e12ff749936389eca79a377d3d442f8e957.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df6231e030e34268eb9fb049453f7a72b3078e97.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "都没有"
       ],
       "answer": "物理变化和化学变化",
-      "explanation": "磨碎食物是物理变化，消化酶分解食物是化学变化。"
+      "explanation": "磨碎食物是物理变化，消化酶分解食物是化学变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/0406ff26407b7776e980a09b538ad49e464e0a33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5efb73117a8e547422920d7a2bbf1861dd6f1daa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b42dad18e838d0d1755fe0707809228bca8ca22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f3d926d791d46e066c314659a0d834793edfc3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65c62e281a5ace7dea42b6f3dd4c52fa3cb17925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72cb61f20557ff43fb4fa47afdc98b2b85e325d5.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "绿色植物利用太阳能把水和二氧化碳转化为氧气和（___）。",
       "options": [],
       "answer": "养料",
-      "explanation": "光合作用产生有机物，通常在小学阶段表述为养料或淀粉。"
+      "explanation": "光合作用产生有机物，通常在小学阶段表述为养料或淀粉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd5d8b2db7536282d8153c890ee6ade6a16c3f23.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e46e827e21cd2a4b458a4736ca2cb1e0d65abbb.mp3"
+      }
     }
   ],
   "knowledge": null

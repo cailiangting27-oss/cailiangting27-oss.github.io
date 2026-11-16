@@ -16,7 +16,11 @@
       "question": "单词 'red' 和 'leg' 中字母e的发音是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "两个单词中字母e都在闭音节中发/e/的音。"
+      "explanation": "两个单词中字母e都在闭音节中发/e/的音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f77363c8d9d4da5be5510d7fcc4488124d6a9ff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff6b4f0bcbb5abcf074539e2495dd526274d9aa9.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "red"
       ],
       "answer": "he",
-      "explanation": "ten, pen, red中e发短音/e/，而he中e发长音/i:/。"
+      "explanation": "ten, pen, red中e发短音/e/，而he中e发长音/i:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4408019267bdc59b68d3fc4d03735d2f3ff34e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f8951894627d81668638758422d8a154ce1857c.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "I have ___ (十) pens.",
       "options": [],
       "answer": "ten",
-      "explanation": "数字10对应的单词是ten。"
+      "explanation": "数字10对应的单词是ten。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7c4ee2ee7249cd0988a0a9dab4429ca1e8be960.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5eb655c931050ff14875cd6458fc472f66756847.mp3"
+      }
     }
   ],
   "knowledge": null

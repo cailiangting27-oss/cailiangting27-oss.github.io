@@ -16,7 +16,11 @@
       "question": "写倡议书时，署名应该写在日期的下方。",
       "options": [],
       "answer": "错",
-      "explanation": "在倡议书右下角，应该是先写署名，再在署名下方写日期。"
+      "explanation": "在倡议书右下角，应该是先写署名，再在署名下方写日期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a44cf7fc77264abfeba2275a8d1ae5a01166c7d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9d72c4e43f4e5005373a36fcc4cbe2ff9dbe50f.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "署名"
       ],
       "answer": "标题",
-      "explanation": "倡议书格式第一行应为标题。"
+      "explanation": "倡议书格式第一行应为标题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65991fc80616adcad16a5e2daced55832debd71c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5134eb19ce667bd598a06d4a2281ee01c9ea5d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/748d7dc7e3212d62e207d204624705af70ea635c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bceb1545778fff7d3b72cb48eec45ce748ad26f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb5b27ac409467a45601303694fe41143db542fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a6818f8a1310874890dd9474871bc8c036a6f32.mp3"
+      }
     },
     {
       "id": 21,
@@ -52,7 +66,21 @@
         "写书的时间"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "这是标准的倡议书格式对应关系。"
+      "explanation": "这是标准的倡议书格式对应关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61125cb9b56f11ca0cb87bf0b5535dd8b1b909d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bceb1545778fff7d3b72cb48eec45ce748ad26f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0d95bc304ff4cb1472e7d6e0be3b7a67b34646b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb5b27ac409467a45601303694fe41143db542fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6fed9af8313ea3fab6a53f69e71c08f17dd4d3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df1988bec91fcba61c3aaa6538e5c58b28d48e1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dad6b8e15c8e54fa370a7ce817a60d6d2e77471.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91eb11f34b0e052ab6eeb1f90d35f702a1b8120f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6c25532a273c2799c5f76f76e98a7e7f33bb526.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55d8cf0e0a6f080aa3f8c361cda29d4d440e4055.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -63,6 +91,16 @@
       "署名和日期的位置写反，或者未右对齐。",
       "称呼后面漏掉冒号。"
     ],
-    "tips": "记口诀：标题中间站，称呼顶格看，正文空两格，署名日期右下方。"
+    "tips": "记口诀：标题中间站，称呼顶格看，正文空两格，署名日期右下方。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/00fa526a7cace81e8cc92dff30a291d02fc7f5e8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/45/45f8993face8ffb47282c2a4f94239314a63a989.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0f/0f8585125d1a18b2a3464be2503b58fa6ca6def4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2d/2db0f85f2e3497745a565fc0f7986783cf5651df.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8a/8adfe3d552687c0e41d925aa12dff5c80681ed05.mp3",
+        "https://api.clthuanxie.cn/cc-audio/cf/cf5408edb80bf663e6a45e358d2c4567b8a7ad1a.mp3"
+      ]
+    }
   }
 }

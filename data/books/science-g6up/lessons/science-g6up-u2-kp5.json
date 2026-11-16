@@ -16,7 +16,11 @@
       "question": "在同一地点，一年中正午时分影长最长的是冬至日。",
       "options": [],
       "answer": "对",
-      "explanation": "冬至日太阳高度角最小，影子最长；夏至日太阳高度角最大，影子最短。"
+      "explanation": "冬至日太阳高度角最小，影子最长；夏至日太阳高度角最大，影子最短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7215e6d1c4f5f1ef6a41c0a9cb596a7b82109f4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9a4c5d746a40b5eca2d6a7bcd48245e2cc3a3dd.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "水钟"
       ],
       "answer": "圭表",
-      "explanation": "日晷是计量一天内时间的工具，圭表是测量四季正午影长变化的工具。"
+      "explanation": "日晷是计量一天内时间的工具，圭表是测量四季正午影长变化的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae89736f13bc71227dd9a78820c89e1db0f09e1e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d54c76e524c6c9f8ac3cc5f6ca977979a52cfe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/959527fc1d1e47deaeae4c8409c39f8fc3873051.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b5ee8dcaae27251092982f82e0a6ae51ae2d2b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f9d4c5d784c549a857e6d26d9ce56c3f50dc27a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73952e2b289ba00de4449f6a866ea4537c208d87.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "保持不变"
       ],
       "answer": "逐渐变长",
-      "explanation": "夏至正午影子最短，之后太阳高度角逐渐变小，到冬至影子达到最长。"
+      "explanation": "夏至正午影子最短，之后太阳高度角逐渐变小，到冬至影子达到最长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eeab670c2bbb43e2a2b66287feb8aff47c3f3931.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b811dc401cfa80830706d300181c49993d6c87d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfb457ca11c88748394779a0b62c5615a4b8d3d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/913debafe52d4105b39534fd9c7dc7452b7091a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb954f1507ffbb2fa3592efd59ffa96a9609156.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f45711c58f3b6dbb90093c1bf88e02106d893386.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "赤道地区变冷"
       ],
       "answer": "没有四季温差变化",
-      "explanation": "四季的产生是由于地轴倾斜导致公转过程中阳光直射点变化，若地轴不倾斜，阳光直射点将永远固定在赤道。"
+      "explanation": "四季的产生是由于地轴倾斜导致公转过程中阳光直射点变化，若地轴不倾斜，阳光直射点将永远固定在赤道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b66a828296292d3e1ab78170fb93fc8f6182de7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca87bc345944c78db55e2eda648bdfaf282a2550.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da072efa83838e1659ffbb6a6529758fb2dfe1b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77b6ae8fd91bacf9e24a8258ff53b6179c276cf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95dd497a2be47861317a757872e2db6ba4ae507a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/cad82eb04c820d035c1e63f3caf530fa5694b47d.mp3"
+      }
     }
   ],
   "knowledge": null

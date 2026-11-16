@@ -25,7 +25,21 @@
         "拟人声音"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "梳头是动作，枫叶红是颜色，像伞是比喻，唱歌是拟人。"
+      "explanation": "梳头是动作，枫叶红是颜色，像伞是比喻，唱歌是拟人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e60e4a035c9f281f6f1a977a90d69e3189d8f78c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/364393e1cef6df203b4bd74d346423b72bcb2367.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472ffda4a51f362e84520914c6c9d79936f29c26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e11ad413d5425fe43e0f3202074f8f2762f1eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/869e28567609633ff6709325f5e9354d7c01e9ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f11d112fe5cf6d924cf4f643d1d0e134098b49e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d606dc7e9174d3a305458fba09e3d4aac282d85a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b464166c5979e1329f8bc1fd6eabead5d20ca33d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32074e107a20769dcbaedb6d8923b4c65517981d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55be6a2683a95e57dcd8b34d0ee265299d623635.mp3"
+      }
     }
   ],
   "knowledge": null

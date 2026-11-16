@@ -23,7 +23,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 14"
+      "knowledge_point": "认字小课 14",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/7c/7c7a06f0ea592521905cb5ed1304041cc77721de.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c61ef92a229827656f4222acec0c25974caf7992.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b168309e421a09c6ff6910a9ff0df9272b68b003.mp3"
+      }
     }
   ],
   "knowledge": null

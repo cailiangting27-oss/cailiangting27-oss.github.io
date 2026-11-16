@@ -21,7 +21,15 @@
         "大肠"
       ],
       "answer": "小肠",
-      "explanation": "小肠是主要场所。"
+      "explanation": "小肠是主要场所。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/da/da97a97eba52850582e81ca3f62ba69ebd493830.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,
@@ -48,7 +56,15 @@
         "维生素"
       ],
       "answer": "糖类",
-      "explanation": "糖类是主要供能物质。"
+      "explanation": "糖类是主要供能物质。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09b9d736da2881f3ca4f628e63df9a43e5e65b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35a3b3cd712367674a251d164945073e33984e39.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

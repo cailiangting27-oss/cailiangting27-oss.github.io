@@ -16,7 +16,11 @@
       "question": "单词 'house' 和 'mouse' 中字母组合 'ou' 的发音是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "它们都发 /aʊ/。 "
+      "explanation": "它们都发 /aʊ/。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/908107661522532bd776e3195526aa9a3c9b4fc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95dd26ce7a555b249f8a4aa2d2d041d9a7f08ce4.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "touch"
       ],
       "answer": "count",
-      "explanation": "sound和count中ou都发/aʊ/。"
+      "explanation": "sound和count中ou都发/aʊ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b2817e0422e43a2faf6ad21b59a5b82cefb836e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee97d2f28ccffbc411abafd0a61751a89bf3a9bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee9f38e186ba06f57b7b74d7e626b94e13ce2556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ad1edafafa81c496f7c2f3af2e1d5129b146ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4d1f0193879cba82d65c5752c4ba5cbb43a7188.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/318cec244e9373ba1e156b79890627629acd5b72.mp3"
+      }
     }
   ],
   "knowledge": null

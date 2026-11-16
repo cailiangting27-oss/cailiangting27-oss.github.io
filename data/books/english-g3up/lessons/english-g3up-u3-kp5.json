@@ -25,7 +25,21 @@
         "鸡蛋"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "egg-鸡蛋, fish-鱼, gift-礼物, hippo-河马。"
+      "explanation": "egg-鸡蛋, fish-鱼, gift-礼物, hippo-河马。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cdf4e119bf7ca3c37f6534c531ba5a396eee168.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6024f12494d3a99d8bda9b7a55f7d140f328a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7b2fb7443bcfed3bac3d67aca009e4a523bd3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/663710be8faf9596f83446fe5148f6be1849e4ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92468fdf7c343269f7f3e4bd81e5d22a0e19980f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82510965ce83d9be8a41e3f3ce542a04795f639b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e82677e917d755b44d67481439a47dd3319aae4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5216482077f532e769994436134288cfe0d90739.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b49308659fc65318eb9ee5a9eb5c5318e9a28f75.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "I'm."
       ],
       "answer": "I'm not.",
-      "explanation": "否定简答用 No, I'm not."
+      "explanation": "否定简答用 No, I'm not.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52e851dbadc5ad159a754fd1432d37fe99be3454.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1a853a67bdcca18e2ee9f0a9c5861b6f8b4b123.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bf3c42a03ee31aeeddf15febf2ac472bb1b0575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc1e40c78ee4d15e2c4e868cdeb88222d39344c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/308b7a604a602921733fbab33443a35890f539d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/035f4eb70f25fba740c97301ccc5cd6075b30097.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "Nice to meet you."
       ],
       "answer": "What's your name?",
-      "explanation": "问姓名。"
+      "explanation": "问姓名。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f6dfbbcfe0844a219fe6dfd0a604d5443501a06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fd86043494186cacc0538628d0038c807df468d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64753c6fe019c4dad6292319d4387ea91bd3cee9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/364d0de5600f667003b9bd48368369efcad9d666.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "I'm Lily. 也可以用来回答 What's your name?",
       "options": [],
       "answer": "对",
-      "explanation": "I'm… = My name is…"
+      "explanation": "I'm… = My name is…",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64da56e9ab71679a3418861aa888b621e7238d09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e404b874c690751743a6408e218dffc124e2b776.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "Are Jill you?"
       ],
       "answer": "Are you Jill?",
-      "explanation": "确认身份用 Are you…?"
+      "explanation": "确认身份用 Are you…?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4acb0aa03e771c804b5804ea138aed9fe19abcea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88cd0b622fe97564f3dfd4ee1c52dce03ef69eae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4818661d6b60cb03983b63edd21ee572c72343df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9022ba5657ddfabe1529c1e66e76242cb9f12ac1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/551dd25d7fe2903de3ffe7b87ac89b51dd35142c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5bc55dc53866bdbdd980db1521669377290e628.mp3"
+      }
     }
   ],
   "knowledge": null

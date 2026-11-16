@@ -22,7 +22,18 @@
         "?"
       ],
       "answer": "How,do,you,feel,?",
-      "explanation": "特殊疑问句结构：疑问词+助动词+主语+动词原形。"
+      "explanation": "特殊疑问句结构：疑问词+助动词+主语+动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c804634fb62e9b89ba66d5298763c87b27f86d76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccfcd3664e192e6102e17eeca539a257bd731410.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d69835cb6d93cbd72640df4ae4779877eedc1820.mp3"
+      }
     }
   ],
   "knowledge": null

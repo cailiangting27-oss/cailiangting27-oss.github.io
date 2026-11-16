@@ -21,7 +21,17 @@
         "垂直向上"
       ],
       "answer": "有水的方向",
-      "explanation": "植物的根具有向水性，这是植物为了寻找生长所需水分产生的适应性。"
+      "explanation": "植物的根具有向水性，这是植物为了寻找生长所需水分产生的适应性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e824f5504c01e1fa29448fbceb0284e5d62b31f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7ccebf7f1ce862e0922f9e6e2fd88f4460a55709.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f58c4b344d369c143399a10c3f2db10a17b86b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d92bf748b5c24354e5b8026c30a24e798acd6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c82f66caa91fa93356562daffb9eb18345c94e7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04204e6b7425561452d3513a34b5fc0d4eae3f2d.mp3"
+      }
     }
   ],
   "knowledge": null

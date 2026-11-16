@@ -16,7 +16,11 @@
       "question": "在一个笼子里，如果有 4 只鸡和 2 只兔，它们脚的总数是 16 只。",
       "options": [],
       "answer": "对",
-      "explanation": "$4 \\times 2 + 2 \\times 4 = 8 + 8 = 16$ 只。故对。"
+      "explanation": "$4 \\times 2 + 2 \\times 4 = 8 + 8 = 16$ 只。故对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67a332036b016fe78ce7e4ff6dcf23626ad960ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6b4fc7a4ccfb817d5a7c0c37d857e9cd5a74ca9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "由于鸡有 2 条腿，兔有 4 条腿，同样的头数下，兔的腿一定比鸡多。",
       "options": [],
       "answer": "对",
-      "explanation": "兔腿数是 4n，鸡腿数是 2n，4n > 2n (n > 0)。故对。"
+      "explanation": "兔腿数是 4n，鸡腿数是 2n，4n > 2n (n > 0)。故对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71a01b62fc3b894f3963e895f957447755662ced.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5f21095d92aca85f9e7b3d1eef567913c5e4214.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "列表法只适合在头数比较少的情况下使用，如果数量太多，过程会非常复杂。",
       "options": [],
       "answer": "对",
-      "explanation": "列表法需要一一列举，数量庞大时效率极低。故对。"
+      "explanation": "列表法需要一一列举，数量庞大时效率极低。故对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/762bfa738803199bbc21aecac36720b4d66fbd8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/247925a5bc52708c434f49f8a3b311859a626af2.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "鸡兔同笼共 10 个头，脚数可能是 35 只。",
       "options": [],
       "answer": "错",
-      "explanation": "脚总数 = $2 \\times$ 鸡 + $4 \\times$ 兔 = $2 \\times$ (鸡 + $2 \\times$ 兔)，必定是偶数。35是奇数，不可能。故错。"
+      "explanation": "脚总数 = $2 \\times$ 鸡 + $4 \\times$ 兔 = $2 \\times$ (鸡 + $2 \\times$ 兔)，必定是偶数。35是奇数，不可能。故错。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b457c34390c9e6398844a8c4d6c830cf5c1408d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b6f1c15f0fd7b88909415532944b7a3adfea135.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "无法判断"
       ],
       "answer": "一样多",
-      "explanation": "假设全是鸡：$20 \\times 2 = 40$。少 $60 - 40 = 20$。兔：$20 \\div 2 = 10$。鸡：$20 - 10 = 10$。故一样多。"
+      "explanation": "假设全是鸡：$20 \\times 2 = 40$。少 $60 - 40 = 20$。兔：$20 \\div 2 = 10$。鸡：$20 - 10 = 10$。故一样多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0115f9a3191347f7468b8fc2e978d4ef1e8f7e65.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd7a68c9641702e5761b5706b664ed41209c77e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5895a12cb727974816710d963b0ec75f263ed5f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fc689596a45193f151e8ddac5c38ec0e1bdc77b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "6"
       ],
       "answer": "3",
-      "explanation": "单位转换：$2$ 元 = $20$ 角，$23.1$ 元 = $231$ 角。假设全搬好：$100 \\times 3 = 300$ 角。破一只损失 $20 + 3 = 23$ 角。破：$(300 - 231) \\div 23 = 69 \\div 23 = 3$ 只。验算：$97 \\times 0.3 - 3 \\times 2 = 29.1 - 6 = 23.1$ ✓。"
+      "explanation": "单位转换：$2$ 元 = $20$ 角，$23.1$ 元 = $231$ 角。假设全搬好：$100 \\times 3 = 300$ 角。破一只损失 $20 + 3 = 23$ 角。破：$(300 - 231) \\div 23 = 69 \\div 23 = 3$ 只。验算：$97 \\times 0.3 - 3 \\times 2 = 29.1 - 6 = 23.1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c700c4b89b24d007c708579273dc2171eafa24cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/0372cc4181cfdd1cbbd3e9a65afb02d68bc2c385.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "90"
       ],
       "answer": "80",
-      "explanation": "总数是 100 只。$100 - 12 - 8 = 80$。验证钱：$12 \\times 5 + 8 \\times 3 + 80 \\div 3 = 60 + 24 + 26.6$（不合题意，单纯考察数量减法），题目问小鸡数量，直接由总数-公鸡-母鸡得出。"
+      "explanation": "总数是 100 只。$100 - 12 - 8 = 80$。验证钱：$12 \\times 5 + 8 \\times 3 + 80 \\div 3 = 60 + 24 + 26.6$（不合题意，单纯考察数量减法），题目问小鸡数量，直接由总数-公鸡-母鸡得出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1eda0f3714265a63e765255d215de7e45e912c4a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08b83913bf88f1194d1a3b812551aef9ffa7fbed.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "20"
       ],
       "answer": "15",
-      "explanation": "假设全中：20 × 5 = 100。差额：100 - 60 = 40。投不中次数：40 ÷ (5 + 3) = 5。投中：20 - 5 = 15 次。验算：15 × 5 - 5 × 3 = 75 - 15 = 60 ✓。"
+      "explanation": "假设全中：20 × 5 = 100。差额：100 - 60 = 40。投不中次数：40 ÷ (5 + 3) = 5。投中：20 - 5 = 15 次。验算：15 × 5 - 5 × 3 = 75 - 15 = 60 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5acb96bf557a1407a78d854074a480d63939be28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53da87636bc1e969cb67be267e84321ffbfb8ffe.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "不变"
       ],
       "answer": "增加 2",
-      "explanation": "头数不变，增加一只兔必然减少一只鸡。一只兔 4 脚，一只鸡 2 脚，净增加 $4 - 2 = 2$ 只脚。"
+      "explanation": "头数不变，增加一只兔必然减少一只鸡。一只兔 4 脚，一只鸡 2 脚，净增加 $4 - 2 = 2$ 只脚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a78254b994d3c78c0f8869a7c19d29a177d03de3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/ebb6fef34863325a1710533e83e39e8049b61dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/add6d188217baf3aa1fe747995b3704948d9fa63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb6da53a1f1bda2a0d602d266fe5d1004c9ebc10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25baa217c0104b2650f67ef7c6fa3e470fdd9dcf.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "6"
       ],
       "answer": "0",
-      "explanation": "假设全蓝：$20 \\times 6 = 120$。差额 $40$。红：$40 \\div (10-6)=10$。蓝：$20-10=10$。差：$10-10=0$。验算：$10 \\times 10 + 10 \\times 6 = 160$ ✓。"
+      "explanation": "假设全蓝：$20 \\times 6 = 120$。差额 $40$。红：$40 \\div (10-6)=10$。蓝：$20-10=10$。差：$10-10=0$。验算：$10 \\times 10 + 10 \\times 6 = 160$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/6108e1099f1b39bafe37c6ca8ed2c86b4e2a4743.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3ddb2f69f628b756e4695c4f88788162b8d2f120.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "20"
       ],
       "answer": "15",
-      "explanation": "假设全对：$20 \\times 5 = 100$。多出 $100 - 60 = 40$。错题：$40 \\div (5+3) = 5$ 题。对题：$20 - 5 = 15$。验算：$15 \\times 5 - 5 \\times 3 = 60$ ✓。"
+      "explanation": "假设全对：$20 \\times 5 = 100$。多出 $100 - 60 = 40$。错题：$40 \\div (5+3) = 5$ 题。对题：$20 - 5 = 15$。验算：$15 \\times 5 - 5 \\times 3 = 60$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efe75efe3495965efe6defca17d786a6afbaa308.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/baf7f5c26da0fe4c889fb2b323b9552cea83c229.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "60"
       ],
       "answer": "48",
-      "explanation": "当全是兔时脚最多。$12 \\times 4 = 48$。选 48。"
+      "explanation": "当全是兔时脚最多。$12 \\times 4 = 48$。选 48。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fbd578fb7dc402260d433203d2cc3a781dabff4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5e0abd1344c3d044806146c9a12503c6729d5bd.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "鸡兔同笼，共有头 100 个，脚 320 只。鸡有 ___ 只。",
       "options": [],
       "answer": "40",
-      "explanation": "假设全兔：$100 \\times 4 = 400$。多出 $400 - 320 = 80$。鸡：$80 \\div 2 = 40$。验算：$40 \\times 2 + 60 \\times 4 = 80 + 240 = 320$ ✓。"
+      "explanation": "假设全兔：$100 \\times 4 = 400$。多出 $400 - 320 = 80$。鸡：$80 \\div 2 = 40$。验算：$40 \\times 2 + 60 \\times 4 = 80 + 240 = 320$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c7b156de9df4b5379b99aff73bc68755582805f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/108e3fb46679b4bbbff01804191272863d382c4e.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "租用载金鱼 8 条和 11 条的鱼缸共 10 个，刚好装下 101 条。11条装的鱼缸有 ___ 个。",
       "options": [],
       "answer": "7",
-      "explanation": "假设全 8 条装：$10 \\times 8 = 80$。少 $101 - 80 = 21$。11条装：$21 \\div (11 - 8) = 7$。验算：$7 \\times 11 + 3 \\times 8 = 77 + 24 = 101$ ✓。"
+      "explanation": "假设全 8 条装：$10 \\times 8 = 80$。少 $101 - 80 = 21$。11条装：$21 \\div (11 - 8) = 7$。验算：$7 \\times 11 + 3 \\times 8 = 77 + 24 = 101$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d41e008e64c58b1e6841f993a706b9eddc66883.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/601d0390e333ffc45ea8ef43e5e9b714a11d71b9.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$(200 - 100) \\div 5 = ?$",
       "options": [],
       "answer": "20",
-      "explanation": "$100 \\div 5 = 20$。验算：$20 \\times 5 = 100$ ✓。"
+      "explanation": "$100 \\div 5 = 20$。验算：$20 \\times 5 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/771aa1ed02b449c478809a08ea8bd1d32445d239.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef96c2787bfdddb20ea6218a2293363c860b30f9.mp3"
+      }
     }
   ],
   "knowledge": null

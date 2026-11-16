@@ -22,7 +22,12 @@
         "say": "rabbit",
         "type": "en"
       },
-      "knowledge_point": "英语小词 2"
+      "knowledge_point": "英语小词 2",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/6d/6d0ebbbdce32474db8141d23d2c01bd9628d6e5f.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb3126dbb6991d234065087789e0f3dd31507665.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c10bf40a852a7444279007b1289edf4f69a7b6ba.mp3"
+      }
     },
     {
       "id": 6,
@@ -39,7 +44,12 @@
         "say": "bear",
         "type": "en"
       },
-      "knowledge_point": "英语小词 2"
+      "knowledge_point": "英语小词 2",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/09/09f5edeb4f5b2a4e4364f6b654682c6758a3fa16.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b50fddb47325e1068419eb32cf37f45c963416da.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a766303c3e721cac4cdd08b153ce5cff6cce70a2.mp3"
+      }
     },
     {
       "id": 7,
@@ -56,7 +66,12 @@
         "say": "cow",
         "type": "en"
       },
-      "knowledge_point": "英语小词 2"
+      "knowledge_point": "英语小词 2",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/8b/8bbddb4a037421a7b1e1b1bdd6447b03097f0df1.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6eee00e93c037d0d60efb95967eb67128a26c876.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b592ef18a0618a14bdc37899ad904693fbe8937.mp3"
+      }
     },
     {
       "id": 8,
@@ -73,7 +88,12 @@
         "say": "pig",
         "type": "en"
       },
-      "knowledge_point": "英语小词 2"
+      "knowledge_point": "英语小词 2",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/2c/2cd4ba93087f27499adb46f6a91ddeb729b9966b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a6b88966e72b8266d4936259f738b325baeda98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3a412cd75eab5b564120bdefc1756477c72ea8c.mp3"
+      }
     }
   ],
   "knowledge": null

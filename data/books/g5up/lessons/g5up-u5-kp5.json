@@ -21,7 +21,17 @@
         "x÷3+x=240"
       ],
       "answer": "x+3x=240",
-      "explanation": "桃树 $x$，梨树 $3x$，一共有 $x + 3x = 240$。"
+      "explanation": "桃树 $x$，梨树 $3x$，一共有 $x + 3x = 240$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd172e71e3b65af558e3abcca7eeca11f911eb99.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8fd0f030f90d5817c89a9bf28c64471d5626a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0752af9d7cc8e4ec6ee45da2ac836cd0669b0656.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adec76a066c20bb4235d601dab4f1abba24aa227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d3c8cb4653e68d510f4a5a0cbec43bf493d537c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dd38cc2968ed456cb67c0cf418aca7f054b9a5f.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "40+x=450"
       ],
       "answer": "40+x=450",
-      "explanation": "相遇问题的基本关系是：速度和 $\\times$ 相遇时间 $=$ 总路程。第四个选项没乘时间，是错误的。"
+      "explanation": "相遇问题的基本关系是：速度和 $\\times$ 相遇时间 $=$ 总路程。第四个选项没乘时间，是错误的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d818637bc1554e3d8658e702c99821437722418.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/151803a2a87d1b31bc8d034f75a0c748cca588cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c837a08a34747381b2c6ed704c65fa062e6d42a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cb21c1525aab81af60b346d105635e6bc6aef33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94f8c51a9b8a6570deef617c885d8b1754768e1a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c65989d569472cabccd8b2cef5d59e5de4647806.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "相遇问题列方程时忘记加括号，写成 $v_1 + v_2 \\times t$",
       "设两个未知数 $x$ 和 $y$（五年级只学一元一次方程）"
     ],
-    "tips": "画个简单的线段图能快速帮你想清楚数量关系！"
+    "tips": "画个简单的线段图能快速帮你想清楚数量关系！",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ea/ea73115e8e3211a04c235b591191514c6d8f5c96.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6c/6c718698201294cfc0838ff73d27f93ffa019618.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/69/6985b6360f374fa78996892036d158bb22780338.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a1/a15b7a25161e7b9e4a721a4ee33f3a4856eb7c88.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/90/908f4b730cfb413cdfade0eaf42e595d0102a583.mp3",
+        "https://api.clthuanxie.cn/cc-audio/be/be645fa329e92a7737a7a64d23cabc99a527c55d.mp3"
+      ]
+    }
   }
 }

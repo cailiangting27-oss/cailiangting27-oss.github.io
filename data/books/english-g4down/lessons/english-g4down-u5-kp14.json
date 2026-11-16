@@ -21,7 +21,17 @@
         "No, they aren't."
       ],
       "answer": "Yes, it is.",
-      "explanation": "Is this 开头的疑问句，肯定回答为Yes, it is."
+      "explanation": "Is this 开头的疑问句，肯定回答为Yes, it is.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9efa859e609724413a1d07dde5a63c97d773edc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/772a087a7633bb149858c42ef5a37fdc3596904f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daf2cb4fb6da513d9de72203586f8c71e916f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66b35682dae5fb0e2f43192f3d532d007231697b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c25d193a121fb24385ac2739a353ed6bfe824fb3.mp3"
+      }
     }
   ],
   "knowledge": null

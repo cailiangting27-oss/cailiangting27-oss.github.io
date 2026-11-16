@@ -21,7 +21,17 @@
         "急忙"
       ],
       "answer": "温和",
-      "explanation": "亲切形容态度和蔼，温和最为接近。"
+      "explanation": "亲切形容态度和蔼，温和最为接近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/977677770e82e2f0e5208e1810d389ec99bf871c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/29b4fc177b00eeb630735c2fa9e0342092e020a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c91e970ec91828a8b8cd29055b6c2dfdb3c43bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16af919b6d5461d5bbcd159010556de3471a7ea3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8aab08fccb4ca59c29922e84a061cb1f630da739.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bea434e16d2766b5e9d307ef554751ba2ecd09a.mp3"
+      }
     }
   ],
   "knowledge": null

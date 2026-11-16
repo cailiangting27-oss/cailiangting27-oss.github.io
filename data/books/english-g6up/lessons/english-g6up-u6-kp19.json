@@ -25,7 +25,21 @@
         "生气"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "be angry-生气; be afraid-害怕; see a doctor-看医生; wear warm clothes-穿暖和的衣服。"
+      "explanation": "be angry-生气; be afraid-害怕; see a doctor-看医生; wear warm clothes-穿暖和的衣服。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c516c84694406b1b803ccc1dd654d20094d144b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/2620298ebd60a063fd640ca389c5f5b4ba4da512.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87668ef97ff2bf4dfc2b5b5669f7de430e849d22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0aba63c403a26eddc73b27b2cbcc812fa5085493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6c93c380989271c6912528e71d4c952ce200904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f9a55ccb3c65c71a570da9b613ca55c2e23ab4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/760047d7c412713c23a20699fd06d0142c4ecb91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e22c12f95dcc7396685f9f1116b60a6d3d770a5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cfa09d980cbc16ea249d64127858a7ce4af64d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e417069c071826905722bea1fa668e41f665e06.mp3"
+      }
     }
   ],
   "knowledge": null

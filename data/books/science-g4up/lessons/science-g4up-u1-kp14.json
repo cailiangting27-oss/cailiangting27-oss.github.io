@@ -21,7 +21,17 @@
         "越响"
       ],
       "answer": "越高",
-      "explanation": "短管内的空气柱短，振动速度快，产生的音高就越高。"
+      "explanation": "短管内的空气柱短，振动速度快，产生的音高就越高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21cc7eb6c64f790aeb0a27347367103a430b2426.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5ec62a138e740f91eb7b11db5c52b20aef7942b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1259f64f2e01d922efc55eaa40d4892f9a4f818f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73e9420b460c30fd659e039479053180da6f3074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac5636a131de6569153a6939be0535d355b7c748.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdba5e134c7956c0e37600c9bd894f628a8b485a.mp3"
+      }
     }
   ],
   "knowledge": null

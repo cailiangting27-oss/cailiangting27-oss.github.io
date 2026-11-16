@@ -25,7 +25,21 @@
         "手心出汗"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "紧张会出汗，生气脸会红，伤心流泪，自豪叫好。"
+      "explanation": "紧张会出汗，生气脸会红，伤心流泪，自豪叫好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07dc302f631be9e26566f7692c462453cfdf7aa1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/168469b0bac956f0700c8cc52c9a9913940dc66c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cfa09d980cbc16ea249d64127858a7ce4af64d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/025cbbc2bb1e879bc4559797bcbde1e35d3792f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3017ebc38b71411f4760a6e29bb1274457cf23b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a544f138e6f4124d8ef1a62237bf8869a2305e4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a494671eceee264e9edd2633af63078c33902484.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59adc13cd32f70c2c01fd36eda1fadfcd1156e72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9061d0185ccc4481e612bf3d214d791554a145c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f486f41e43cb84a1b914ed95e33e48b3320c239.mp3"
+      }
     }
   ],
   "knowledge": null

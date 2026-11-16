@@ -21,7 +21,17 @@
         "水会打乐器"
       ],
       "answer": "雨声很美妙",
-      "explanation": "通过拟人化的“打击乐”体现出雨声的节奏感和美感。"
+      "explanation": "通过拟人化的“打击乐”体现出雨声的节奏感和美感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b809349cac9081cdb191baa8eccbe111012b3f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91c1a587e4ee6a3f2621e78434d0c4149c902269.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d2aa54f7684b6fbea1be59f4f376ea1af91275c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f73344d51a38237821b9f8268bda3214a0d63b44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e4667c144b18fc98a05f91ad96b435867e86b08.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f42b016cf5657476fdc9f033302ba7c26cfb80c8.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "只有空气"
       ],
       "answer": "液体",
-      "explanation": "声音通过空气传到水面，再经水传至潜水员耳中，证明了液体的导声性。"
+      "explanation": "声音通过空气传到水面，再经水传至潜水员耳中，证明了液体的导声性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3fca981a7b0ec1683698c82d74ef86104273fc4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf17047b4d5434029fda3bcd0f1e30b8ac5f9564.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ebdf68eebccb52fb8e89f8881c034bf088b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25924644ff2f2df5a1ce5e7b8e91c15722cd2f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afe48da0ba97721357d0b2e36939e4187e140ac8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/2340ab903eafb8f1f23601f7fb7ae5486863fd06.mp3"
+      }
     }
   ],
   "knowledge": null

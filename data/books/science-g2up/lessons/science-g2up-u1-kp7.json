@@ -16,7 +16,11 @@
       "question": "为了建房子，我们可以随意砍伐身边的树木。",
       "options": [],
       "answer": "错",
-      "explanation": "我们要爱护自然资源，不能随意破坏生态环境。"
+      "explanation": "我们要爱护自然资源，不能随意破坏生态环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7bd9df181c0a76868db8732ec314a188c645488.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/706b91bba3f2a018e5a05f1e5686bf6945d2329c.mp3"
+      }
     },
     {
       "id": 14,
@@ -32,7 +36,17 @@
         "塑料"
       ],
       "answer": "棉花或蚕丝",
-      "explanation": "棉花和蚕丝是来源于自然界的衣物原料。"
+      "explanation": "棉花和蚕丝是来源于自然界的衣物原料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/9501591339b657ece00b5c5ed1b81e3424e7f08b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/940ae43788e242b29def104327b346a3647d5ea4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30dbe6736fe4c7658ed3d2dc32569e92d0796b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/7557a2a656b9b93dbfee79291f607597ca5e4c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf33d514c1a703ddf7f1c2fd297e242d6fcd1c51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d7203f3ed417b92f9478dc05cf37c52ef9e983a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "所有的用电器都是将电能转化为动能。",
       "options": [],
       "answer": "错",
-      "explanation": "不同电器转化形式不同，如电铃转化为声能，电饭煲转化为热能。"
+      "explanation": "不同电器转化形式不同，如电铃转化为声能，电饭煲转化为热能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80486f76daafa12eb0daff84f48884b972fcc002.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93aad8218a077c537be69419c3a43a2b57807343.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "电磁铁没有南北极。",
       "options": [],
       "answer": "错",
-      "explanation": "电磁铁和永磁铁一样，都具有南北极。"
+      "explanation": "电磁铁和永磁铁一样，都具有南北极。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b63a223bfdd25b0ab348123b90cf83ea0c2d9daa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/0004163602d7b5809974b75a8d9a2156f654cdbc.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "能量在转化过程中，总量保持不变，但往往会散发热量。",
       "options": [],
       "answer": "对",
-      "explanation": "这是能量守恒定律的体现，转化中常伴随热能损失。"
+      "explanation": "这是能量守恒定律的体现，转化中常伴随热能损失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ea859955402e9f80d1862c3c46a374f1b65a21e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfc4a85ebf2c214302c9082f93fe2574e5959b0a.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "节约用电不仅是省钱，更是为了减少化石能源消耗和环境污染。",
       "options": [],
       "answer": "对",
-      "explanation": "目前我国主要发电方式仍为火力发电，节电即是减碳。"
+      "explanation": "目前我国主要发电方式仍为火力发电，节电即是减碳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60d54eb21dcd525b04ca199106cffdb28c5c8e1d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5b2536f10f96ffba14788a4ac5908b9cfb1a087.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "齿轮咬合转动"
       ],
       "answer": "磁的相互作用",
-      "explanation": "电动机利用外部磁铁与内部电磁铁（转子）的同极相斥、异极相吸原理运转。"
+      "explanation": "电动机利用外部磁铁与内部电磁铁（转子）的同极相斥、异极相吸原理运转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56604c022fb75609912713beff48ab05bd615bce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c8638161486e08f75a84513b5eaf815b875271e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9eb7509d7ca27ecefda839721f1504c64df17541.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bde0922284dd4c215954a598e20b1915fe986026.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0613a9f76dbf8085fa9ea794833e24285d89995c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62c38e2535e07847e77891bd7692ca0688ff8560.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "消失"
       ],
       "answer": "变大",
-      "explanation": "两个增强因素叠加，磁力必然显著增强。"
+      "explanation": "两个增强因素叠加，磁力必然显著增强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a073126ff22b2dbbd27fa5341ebb8dea6455598e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd9a217782adf35c360decf3442ddd2f348f5592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/456c56d97a099657511424dee24c29fb7e6d40aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f80bf8a2d5a94e25f18d4c171edd4bf40c64c424.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "甲乙极性不同"
       ],
       "answer": "甲的线圈匝数多",
-      "explanation": "在电流相同的情况下，磁力大说明线圈匝数多。"
+      "explanation": "在电流相同的情况下，磁力大说明线圈匝数多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8182a2718e18bfd6b027d03d9a2b222ee3f4068.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3bcbe9fb88a9957b2eec257fcbb6def7a91fed9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d9a9633a85390c023aa9c96d15ccb51a464c826.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ec738d718c5906a8a4bb6d8f0852796c53648aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f2596a86546afcfbe78608009e1cf3faf8ecea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e768d5db0643f383977cb3db5825de2afb3d8bf8.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "化学能"
       ],
       "answer": "光能",
-      "explanation": "激光切割利用的是高能量的光束。"
+      "explanation": "激光切割利用的是高能量的光束。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c792ba1638831ab11fd964759787fa2e1a80716c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d741e51a1a74e0d5f6ff527f486a962be0f8a10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3ee22027c59dc7b148c9ff58e3a1859c285de17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a2850f511c89fea2a6771752d23f733d22c0426.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6aba2d4bf5176f8a213e398fa51d08e1d6e210ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0bdea2ec42d3de316050cbba570159c6ac6e68e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "水的循环"
       ],
       "answer": "能量的储存",
-      "explanation": "植物固定的太阳能被转化为化学能长期储存在煤中。"
+      "explanation": "植物固定的太阳能被转化为化学能长期储存在煤中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a879adda4dc97abfb5628d609b069b531e7efbc9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5bc1b0471fa63729d56cadd2fc2b9808162f439c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e43f3e8a1bbe224ad1b4f4a8c6185cf75d3b1912.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07d621e19e666f4803dd3d6775f03fe1c057f95a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a5e4daac51a13de2baa2e6eeaca74edf96e72da.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/776e1b729c621d6a678a1553aa71824ceb9ae4ee.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "把铁芯换大一点"
       ],
       "answer": "把电池正负极对调",
-      "explanation": "对调电池两极即改变了电流方向，从而改变电磁铁极性。"
+      "explanation": "对调电池两极即改变了电流方向，从而改变电磁铁极性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/1965489345202719247adbef178255a80d1aa41c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/1172e4d44e27580f32fb89628fa76240a6ba8e55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45185946fed76ee819710a1f24c35af5e5c4f979.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9a14a87d3b4796f5076634353dc5f149a8f4bd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd5865fbe9173952c806d5f1b77ee76a90e5dd7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/067a2f551cc3e52f0c61c9aeca4a89bacc0331e9.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "能量无法通过物体转移"
       ],
       "answer": "能量只能从一种形式转化为另一种形式",
-      "explanation": "能量守恒定律明确能量可以转化和转移，但总量不变。"
+      "explanation": "能量守恒定律明确能量可以转化和转移，但总量不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd8a343b069ab65054a3317fc7c1371ce82c5cad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e37799a7ed0b30afa9ee15927dcb1f36e48f557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb26831a8e3a823c547991afe84263701d3cb714.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca632e643930eecc6b9501a2ba4d496cc17a01c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddda8f6d18676f1a91e96f493a16603a1fc9b1f8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14c799dc494bac9e4ba453db3e1cf5ef972ebd6b.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "太阳"
       ],
       "answer": "太阳",
-      "explanation": "所有生物链的起始能量几乎都源自绿色植物固定的太阳能。"
+      "explanation": "所有生物链的起始能量几乎都源自绿色植物固定的太阳能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09dc4f79baa5ed13fe53bcae8ea129b184b2af55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/674477160929631a149cb2e37c0861a2ffb4c662.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daaa92bcf8a1eca9f8fe4c1e086fe78821b0ae0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f1efc3b619b12d38164b3610171e17bf13680a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/702291aa1bdc7072f0d3b766b042cce349269a71.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一只 20 瓦的节能灯与一只 100 瓦的白炽灯亮度相当。100 瓦白炽灯消耗 1 度电的时间，节能灯可以工作（）小时。",
       "options": [],
       "answer": "50",
-      "explanation": "1000/20 = 50。"
+      "explanation": "1000/20 = 50。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f511f4857b0f705dc026c3938f14365c14c1b3d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d69c41678df38ddf8ab6c11c92128442476e4179.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小电动机内通常有（）块固定的永久磁铁。",
       "options": [],
       "answer": "2",
-      "explanation": "常见的小电动机外壳内侧有两块弧形永磁铁。"
+      "explanation": "常见的小电动机外壳内侧有两块弧形永磁铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89018c2f1e96583ddc11fa018096e52a03b5721c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b91b33bfd187cc6c04cecc253a771b01d69a0f67.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "电磁铁是利用（）产生磁性的装置。",
       "options": [],
       "answer": "电流",
-      "explanation": "电流流动产生磁场。"
+      "explanation": "电流流动产生磁场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f4d59fb454ea4ba486bed1a544a92e5d6d0913c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94a71b1ac34616125242b06d56a63202e4bb0160.mp3"
+      }
     }
   ],
   "knowledge": null

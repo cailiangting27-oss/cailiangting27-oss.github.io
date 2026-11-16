@@ -21,7 +21,17 @@
         "me"
       ],
       "answer": "those",
-      "explanation": "cows是复数，主语需对应复数形式those。"
+      "explanation": "cows是复数，主语需对应复数形式those。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b42d259545231ad66798c2e70a963e99052ec7a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33b82201081ec7c438cb5d9a36cd72bcb153050b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ccf720ae2a65bf420d3032289d78d77e9b8739d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/209dc933d5e037a84defddf83c4c05c4411f5f04.mp3"
+      }
     }
   ],
   "knowledge": null

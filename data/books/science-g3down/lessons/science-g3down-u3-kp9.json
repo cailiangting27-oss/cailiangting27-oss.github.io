@@ -16,7 +16,11 @@
       "question": "月相的变化是没有规律的。",
       "options": [],
       "answer": "错",
-      "explanation": "月相变化具有周期性，每月变化一次。"
+      "explanation": "月相变化具有周期性，每月变化一次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6821d545da926d0cde7b891f33240222db17e4d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8db62f3176c78e2261cd0de81e7a6eda0b0f1699.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "没有变化"
       ],
       "answer": "由圆变缺",
-      "explanation": "农历一个月中，上半月由缺变圆，下半月由圆变缺。"
+      "explanation": "农历一个月中，上半月由缺变圆，下半月由圆变缺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f782dff588f11033b46dee2bbb368e0ea96dea2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66dc8cde778d806d9b89ca55d0a11d8db8a3f115.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/603e91def920ec7c188eaa9b3981af3ccbbeb31c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89d67018de68eac5f4272f0985a631b485e78296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832378553ee4ac4c03c46e0d3b7f6cc51b9b8871.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a604f5aa17411267df918a90d8def670a000a4a0.mp3"
+      }
     }
   ],
   "knowledge": null

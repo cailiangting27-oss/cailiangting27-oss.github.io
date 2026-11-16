@@ -21,7 +21,15 @@
         "at 8"
       ],
       "answer": "at",
-      "explanation": "具体时刻前用 at。"
+      "explanation": "具体时刻前用 at。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 4,

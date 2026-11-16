@@ -25,7 +25,21 @@
         "古诗十九首"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "纤纤擢素手出自古诗十九首，韩翃写寒食，王建写十五夜望月。"
+      "explanation": "纤纤擢素手出自古诗十九首，韩翃写寒食，王建写十五夜望月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/8954d83910fd82db29aa8ad33f009a6c5cf30c81.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c6e23c443fd3a2352cb72ef699e96577319e2451.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/221bcf63687145ca5aae2f82bcc58bd67caba7b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45d816c0b273a55b2ee1153f323a0f84e8ae9ecb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68cb53f022df9eee3f0c6215c367e8bd0d09c88c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b9ef1515dbe29c43a94f8fe0bb8d2d3253c05eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f666abf00b0f7d2291c38b400fcac7ef10cbbb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b33f7f027df651e3eb200e64f3836be8605187cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33dd7656054a1d906e9275a20cd4cd909cc4fe3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bce75df89eb78446c36181438cd1a0d0e1c529a6.mp3"
+      }
     }
   ],
   "knowledge": null

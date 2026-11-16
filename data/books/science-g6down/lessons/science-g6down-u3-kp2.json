@@ -21,7 +21,17 @@
         "1000厘米"
       ],
       "answer": "110厘米",
-      "explanation": "太阳直径约为地球的109倍，按比例约110厘米左右。"
+      "explanation": "太阳直径约为地球的109倍，按比例约110厘米左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5859e23174a33510e90fa11abbf5570f7401de4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c9ef7628f436e42a19f91748c8ce13724a759bed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0588d78be36d06e9295fcc1660ecb052d591db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f36e2e3c72cfd163d49506efbdddb3cf69f1196f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9456616822fa2bc6cae66c9b3e257813f5c51627.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b186476c07725260329a9f99bb8c3a9485973037.mp3"
+      }
     }
   ],
   "knowledge": null

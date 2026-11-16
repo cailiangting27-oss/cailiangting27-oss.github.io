@@ -21,7 +21,17 @@
         "I have a birds."
       ],
       "answer": "I have a bird.",
-      "explanation": "单数前加 a。"
+      "explanation": "单数前加 a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/680283ad1f1daf1390c5fd323698ad5b04c363cf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8a25ba09e5b22064ade20b3946d3a4c4418197f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fd5677fd2f8baf8f368f78fef10aefa47becb5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f00d1f4daeadbe42cf9cc270397800d8e8c9502.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b9040fcc6ea2fa2015fa58a06eaddb2d2807b4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5575f04d66657e02fa1151350290cf69368e9a73.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "I have a birds.（×）"
     ],
-    "tips": "数量大于 1 名词用复数。"
+    "tips": "数量大于 1 名词用复数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ff/fff81a88e174196147d8e1f053f452ed339b5a3e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9c/9c0265dad6cee92b30db633ec26be56f757dba96.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/de/ded4d51d60459234e82c0c5e5b563377484e2e6e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/31/319919e8b3d20721dc1c1bba3d5b386cc419df1f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c3657cb0aa0ff6521059b63b499083d67f174f59.mp3"
+      ]
+    }
   }
 }

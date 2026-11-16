@@ -16,7 +16,11 @@
       "question": "快速阅读时，大脑可以直接捕捉词组或短语，从而整体理解。",
       "options": [],
       "answer": "对",
-      "explanation": "“视幅”大有助于提高速度。"
+      "explanation": "“视幅”大有助于提高速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db8a6d90af889b47199c5242ce39daa6c1d35ff8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/192c6c476bd7d7ba280e9a26d80b62fee4b2ee0e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "对于科普性文章，我们只需要读每段的第一句话就能理解全部内容。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然中心句很重要，但细节论证也是理解的关键。"
+      "explanation": "虽然中心句很重要，但细节论证也是理解的关键。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9ccd48a7928c81cbb03e2b90f3c22133a9191a8a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bda88bd4a030ab0abd3c605e8eabf671a439f07c.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "缩写文章时，人称可以根据需要由第一人称改为第三人称。",
       "options": [],
       "answer": "对",
-      "explanation": "为了叙述简洁，常进行人称转换。"
+      "explanation": "为了叙述简洁，常进行人称转换。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3514a80f14c65e1118cd3dd668db0526cb028c69.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/642ec2e505ab57d1a6c2f599e6a28c82e8c78413.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "阅读速度快的人一定比阅读速度慢的人理解得深刻。",
       "options": [],
       "answer": "错",
-      "explanation": "速度与理解深度没有必然的绝对正相关关系。"
+      "explanation": "速度与理解深度没有必然的绝对正相关关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d86fc2986be58317aa7efed44509f01ab05143a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27dc2895a19919e893428d779a3ff364442b30c3.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "呼吁保护动物"
       ],
       "answer": "比较不同事物的速度",
-      "explanation": "通过对比体现“什么比猎豹的速度更快”的主题。"
+      "explanation": "通过对比体现“什么比猎豹的速度更快”的主题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f74fd223f6b15bf50702e05b1048659b86ae83a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc49ab53e2b402c74f194c860ee15814a27f0621.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65664799d464f6bc70e4ffef8fb244ce46001103.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c2b6832acf3ac7df73565b46f6a70aab6c26050.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8c9b7f5b444767a32d959756727a8e4066c4f3e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe8dbdd133c3d06eb81bf42bed75d15be4757adb.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "是拟人句"
       ],
       "answer": "是递进关系的句子",
-      "explanation": "“不仅……还……”是典型的递进关系。"
+      "explanation": "“不仅……还……”是典型的递进关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19ef1fcaef97ef4bad7e43eaa5b4e2140fa9e36a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f33fa5fcaf0755a3b3c30dba233feb7550175810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95abdef8a5beb72486828ff17271120e9bafe2ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de86f19fd00e60d499bd4818d749a5d5a64115a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd6681c2dcc63e8a85f62ade31589b011e20ec4d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/788464d857e74a59a92ed6dad5d442db707d3543.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "能力"
       ],
       "answer": "会盟、宴请",
-      "explanation": "指古代国君之间的正式会谈。"
+      "explanation": "指古代国君之间的正式会谈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b43a131c0d179cb8e7d2bcb943431c71960d538.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14304745e4d69ad3136fc1d53ab2fe18b9cdd361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0a1d812247033eb6eccd2285b40d676c215966b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/748c2dd37ea2b7a6fe6113469953be509384aa28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9d53ce7f4fbc233b07ae5a06ebd3e1076084d6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/741adcfa8e40bf28634ac482701f9490077bf7b6.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "背诵法"
       ],
       "answer": "扫读法",
-      "explanation": "扫读用于快速定位特定信息。"
+      "explanation": "扫读用于快速定位特定信息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4938e8125fb59b01cc63ef6dca1a8d1ddf2c6096.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/eef91f99930bfe29731453260047efaa2e08e719.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15d3050494ac4a33c6217954e5ba7f17c6fe5ad3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cae81a05daa8e10df1ac96b1a9dcc6be3760a612.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9eacd8b68a53cb813c9bf3426311c3628ef07c5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f335e57564aab79cc5a027671855bdee9038831.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "吊板、火隔"
       ],
       "answer": "吊板、火隔",
-      "explanation": "这些是地道内针对烟熏火燎设计的设施。"
+      "explanation": "这些是地道内针对烟熏火燎设计的设施。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/867c2916a5d7da939117b506d5e64047b06116ec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/aca7af553fb13b373a19ed672a6b0519813814f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62801a254a4a8d31383b4e8342ae8f0e6a5825d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b19952483f6214d66169b530953b86b58303d0e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f2cac5ec4247ec9e1ec2ee27375f503e1982f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5ffe44f330e4306987b989651b9e02e83f3a1689.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "复述大意"
       ],
       "answer": "逐字阅读",
-      "explanation": "逐字读会限制视域，降低效率。"
+      "explanation": "逐字读会限制视域，降低效率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d842591cf670932d1cbb8cec49f26df70d753bbe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/19f67e9f2aa78152a229793e921a2c9dd09e3dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/294c96633a1f983b9cdbe277189bf493fef33c08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d408088059dd2c55e3a67e7e6abb310b149f65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c73d78efec7f66a1fa0eff59160dc1f6093a4311.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5578e3b6b122965f86e1a1b509fc095db3a1950b.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "不回读指的是阅读时不反复看（___）读过的内容。",
       "options": [],
       "answer": "已经",
-      "explanation": "克服目光回跳是提速的关键。"
+      "explanation": "克服目光回跳是提速的关键。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f507f89cbeef53b61fdea43b2fbb2e439a16330d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8413b96f3cfef259fb627673412741693bd6ac0c.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "通过关键词筛选，我们可以知道蔺相如是一个机智、勇敢和（___）的人。",
       "options": [],
       "answer": "爱国",
-      "explanation": "蔺相如所做一切皆是为了赵国利益。"
+      "explanation": "蔺相如所做一切皆是为了赵国利益。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3922dc73afdb60d5b33b2a07e4d14fb778c27eeb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d84db8d4aaab013a6390b16569533cf6917e215.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "真心"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考察对词汇语义的理解。"
+      "explanation": "考察对词汇语义的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/333f7d24227195c49a1380547fc5d3efe82367f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6628153c95a83f34a4bca307dd671c3d94e26237.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6bbb0407014477ed333fddb52224d975d57bc87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a35f579150d6a00f8c2a59d427db3a22ce7b81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cc716aae7cef03a6bbc37a6fb01add5f1b3aed6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03e210a66d071e8b40b15cb47a3bde137d46edbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70d2cae4d1c001d430b880a479c4bcdbb081dea7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fbeb5de765c017186eb958a1b9e76f49df8cf85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc9108f94020444255da17f24e33530d30d139f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/490b7c5a303052a083a72c1e1d74682a93e60114.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "嘴唇不动"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "针对提高阅读速度的方法进行归类。"
+      "explanation": "针对提高阅读速度的方法进行归类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93ad4957711ba2729bcb03c8abba1cc64bec375c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a903f0703ecc569c5befff85df64543bd951dcfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb7810362044d1d18eeaeaf5a8db215ddd307f9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7260630473ab75eb08a5440354aee0200fd11351.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55867bfc22c535b769e3ddeaa1251ee95d0f5148.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9797d0df98eb84254b0445e25042b14547946e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f1b408ee02c33447e827666ae6723dea3381b51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73eb1062912b00749de8b8ea53bfebf6119c0313.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39a9145f308a0ade262b1e5b9800544d8ee0c43d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0cff57f4fd7aae6934a85173546151f60922523c.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "快速"
       ],
       "answer": "我们,能够,快速,捕捉,重要信息",
-      "explanation": "句子逻辑：主语+能+状语+谓语+宾语。"
+      "explanation": "句子逻辑：主语+能+状语+谓语+宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91bae6db0c861a1155d0a9c982af159f21602bd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/457c0eb7d30644c3a58f13b8181a5b02642b90a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/875b5fe32647215f59fb49c9d995eb0599bb8b0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebc5b9161fd581946731050879efde5723a00f03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/975beacd5a2c1f8ddd84ec4cbe43676a57716c08.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96bb5e1cac264f4f7ccdd968312e4820399d5079.mp3"
+      }
     }
   ],
   "knowledge": null

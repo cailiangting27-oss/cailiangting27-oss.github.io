@@ -21,7 +21,17 @@
         "干旱"
       ],
       "answer": "干旱",
-      "explanation": "刺状叶减少了水分蒸腾，是适应荒漠干旱环境的表现。"
+      "explanation": "刺状叶减少了水分蒸腾，是适应荒漠干旱环境的表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/199f45593d82ddb8b5e21115bc928ae6dbfca5e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/017dcabf4878439d4685ad95141b1004e3c7a35d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7db1965c21ff0ff8e68eb038cc00b46d7b377a52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4ab3d9330cc5619fcca2943ecc92d76e777db96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3721ed347e9cb7ed1aa15cd5546275258327786b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0b8f3d1931a2165cfe97426b676fcaee4d75738.mp3"
+      }
     }
   ],
   "knowledge": null

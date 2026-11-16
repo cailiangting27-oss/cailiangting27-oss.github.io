@@ -16,7 +16,11 @@
       "question": "'eight' 这个单词表示数字 '7'。",
       "options": [],
       "answer": "错",
-      "explanation": "eight是数字8，7是seven。"
+      "explanation": "eight是数字8，7是seven。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c39949417b2982825791ae318704cc21a180b4f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab4143ed50f2e39b46f09ecff6f75f54116ad651.mp3"
+      }
     }
   ],
   "knowledge": null

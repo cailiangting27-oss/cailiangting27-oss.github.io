@@ -21,7 +21,17 @@
         "姓名权"
       ],
       "answer": "受教育权",
-      "explanation": "剥夺上学机会违法。"
+      "explanation": "剥夺上学机会违法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/337e86d6cfdbf298bc41c9b84ff513a54a5290c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d31576dbeb82e54d32b86ecb741c9eb5bf0905b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97914111379d7479d38b3d8765b3cfa3ff664dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccc23e81d45731c6e4d516fa8e0774dcd5a9b5dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86173dfd46b50f0dd207a06ed279bf4642422982.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12a02b9ce7d2429fab408c6f7757fd0ad7241289.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "在图书馆大声打电话会影响他人学习。",
       "options": [],
       "answer": "对",
-      "explanation": "要尊重他人。"
+      "explanation": "要尊重他人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8887ee75bb99328a40ae5739729aab78ec082306.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa6decef62cc0b87dacafe06ef24c5d8199ed69f.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "和同桌说"
       ],
       "answer": "先举手再发言",
-      "explanation": "发言先举手。"
+      "explanation": "发言先举手。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b48e0f7643396053d07128ca1b34efdc78718a2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/856eb53ba67f775044c129092e1bc60bdb698051.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7db62371ed44ac7a46e87fbb2a4ac5d92c09909c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91b9c871e540dc5750d88003eae6019e08223e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e48190f7e01cc9f9899ff8607ff83a719211c92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be0d5628e399abf5a7e95a77083625ecab6e59e7.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "权利与义务是相互伴随的。",
       "options": [],
       "answer": "对",
-      "explanation": "权利义务相伴。"
+      "explanation": "权利义务相伴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b66a754b19df60543db9a4112f71e2b174aa67db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eec182e7978729ba1a8e9e62873f0f5e26e8c60d.mp3"
+      }
     }
   ],
   "knowledge": null

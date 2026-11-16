@@ -21,7 +21,17 @@
         "by train"
       ],
       "answer": "on foot",
-      "explanation": "距离近通常选择步行（on foot）。"
+      "explanation": "距离近通常选择步行（on foot）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9be7e91d81b8bfc110a2a8e9f1df03b481f40bb0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e54356f4a1dc36184deff28f678568df0c9a309.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7208fddc99a7db4dff2b8d4765ff19bb8fdf2289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bdb72d8c6cce4ecd1e936d684191c32e6cc695c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b09442667881d2f1a75077482f0f3ed4b8ea66ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d49ef7a1937ccb47492653adc09ecccfb999d2af.mp3"
+      }
     }
   ],
   "knowledge": null

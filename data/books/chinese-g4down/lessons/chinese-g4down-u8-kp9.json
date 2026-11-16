@@ -21,7 +21,17 @@
         "辛副"
       ],
       "answer": "介绍",
-      "explanation": "进升应为晋升，辛副应为幸福。"
+      "explanation": "进升应为晋升，辛副应为幸福。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11f9c4026e9dd70181eb7775f923600211c597af.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4f2d68fb8e1d920e10e0ef92f4c744224db9713.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45fa4e00db7e36a7ba8e93d7a3ee8976c889c114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ac3fe00e74dd7b9d6794f43f4b6f4c49db8f87c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7f48011b99e9c224b3a34a229c2adf2037009ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61807749a763564a586ab989905bd69924e8704d.mp3"
+      }
     }
   ],
   "knowledge": null

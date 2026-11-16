@@ -32,7 +32,15 @@
         "无数个"
       ],
       "answer": "5",
-      "explanation": "$-2\\le x\\le2$，整数为 -2,-1,0,1,2 共 5 个。"
+      "explanation": "$-2\\le x\\le2$，整数为 -2,-1,0,1,2 共 5 个。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/262796743b908064dd5e9114782e25754d050a6e.mp3"
+        ]
+      }
     },
     {
       "id": 8,

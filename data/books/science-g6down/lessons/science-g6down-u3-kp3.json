@@ -21,7 +21,17 @@
         "火星 木星 土星"
       ],
       "answer": "太阳 地球 月球",
-      "explanation": "日食模拟实验的核心是模拟日、地、月三者的位置和遮挡。"
+      "explanation": "日食模拟实验的核心是模拟日、地、月三者的位置和遮挡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7687b5751e0c3d4a67b285d8ab9578887dd6c9e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a80a9c11881beb7df1575c83f317dc1a53963f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d601ce55159c7757e56d376dfebfeaa94ed2a8b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c9f787c27a148d6596393b865b03406740ea070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7170aae0f2786c762314b66fc405c16fba7e856.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a898f1aaa2ba20279e27bb95f6b4bf28423b81de.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "I"
       ],
       "answer": "mine",
-      "explanation": "mine是名词性物主代词，相当于my hat。"
+      "explanation": "mine是名词性物主代词，相当于my hat。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/127d6948ff3356028dfadba16d124dfc438315ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a2ca5c0224a922c9ceec99bbd78b88acb678a14.mp3"
+      }
     }
   ],
   "knowledge": null

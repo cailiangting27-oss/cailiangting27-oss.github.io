@@ -16,7 +16,11 @@
       "question": "比例尺是一个比，它没有单位名称。",
       "options": [],
       "answer": "对",
-      "explanation": "比例尺是图上距离与实际距离的比，单位统一后相除，比值不带单位。"
+      "explanation": "比例尺是图上距离与实际距离的比，单位统一后相除，比值不带单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47c22c2792a80c1e2def84207c7b4c436bfec275.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e00f9c0e72ff69fc12a6e02caa124bc830fff8ab.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "$2:1$"
       ],
       "answer": "$20:1$",
-      "explanation": "8 厘米 = 80 毫米。比例尺 = 图上距离 : 实际距离 = $80:4 = 20:1$。"
+      "explanation": "8 厘米 = 80 毫米。比例尺 = 图上距离 : 实际距离 = $80:4 = 20:1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/1549b2ae77c29343a1ae11fc8d2482f1b179e831.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/32e1a1a7adf986532b7598e896785a56c785f779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cdf471763c744b3315cf349c52aa9b2c620743f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42396b0d8d15f93b0665d433cb298b1264edf557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b3714d1977e2e6fa2c03536bd04eabab371fd18.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c274c5a7f2075b498fe60477bfa8fdb2709c0a5.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "3"
       ],
       "answer": "300",
-      "explanation": "$6 \times 5000000 = 30000000$ 厘米 = 300 千米。"
+      "explanation": "$6 \times 5000000 = 30000000$ 厘米 = 300 千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbfcf139df84a8c4e28289fa22d2030f702c5a7f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/7507d41ecbd162a0d6dfdaaa9988a91184351735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e39e41e0dcedc54bbdf8a969b5e79ee58e3e2414.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "比例尺 $1:2000$ 表示实际距离是图上距离的 ___ 倍。",
       "options": [],
       "answer": "2000",
-      "explanation": "比例尺 $1:2000$ 意为图上 1 厘米代表实际 2000 厘米，即 2000 倍。验算：$2000 \times 1 = 2000$ ✓。"
+      "explanation": "比例尺 $1:2000$ 意为图上 1 厘米代表实际 2000 厘米，即 2000 倍。验算：$2000 \times 1 = 2000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/dae48847ba35f44c0e7fd466d22f63098fd78ed6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5ee173f6743ecce4267ab6e144d83abcdd25d71.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "单位换算不熟练，少写或多写 0（1千米=100000厘米）",
       "将比例尺的前后项颠倒"
     ],
-    "tips": "放大比例尺前项大（如$20:1$），缩小比例尺后项大（如$1:5000$）。"
+    "tips": "放大比例尺前项大（如$20:1$），缩小比例尺后项大（如$1:5000$）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/96/96ee586ee71500897875bc13f29127bc9b900d1c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ec/ecedd187ab521eef9f5be73d84398d01ef486650.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/30/307ce4735696abf0699c19e98579e17509611ae2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/61/61952bcda0a1e69b30dcb83fd42bb0f69e062b8b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a3/a3c63ce316a6d21ef0206d9ec030102da18fc1c8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e3/e3239dc31c84be46f2c602fe4b16acef20b06f0d.mp3"
+      ]
+    }
   }
 }

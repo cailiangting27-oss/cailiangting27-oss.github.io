@@ -21,7 +21,17 @@
         "设问"
       ],
       "answer": "比喻",
-      "explanation": "把闪烁的群星比作极小的蜡烛。"
+      "explanation": "把闪烁的群星比作极小的蜡烛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bca5f2b6917e549baa81e74415956e739f50e01.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4baa5bac2d40f58a1c0048de9c14806cd2f03a48.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/550ddfe392f470df4857b5a41ca5d128b30f1573.mp3"
+      }
     },
     {
       "id": 10,
@@ -37,7 +47,17 @@
         "由远及近"
       ],
       "answer": "时间顺序",
-      "explanation": "根据“清晨、开始、慢慢地”可以看出是随时间推移进行观察。"
+      "explanation": "根据“清晨、开始、慢慢地”可以看出是随时间推移进行观察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b56712a46c53c1a19a9e29ab193d9cc09410637b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee89dc7e16abb90a80380646d0ba38e2b744dd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24eb1188e3c81708967eeb014eaf5a1a95f91951.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0b66267eebaa6bdecabe41704f73df5bb06e336.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ec0fe20bcca13dcf0d073e010d31f8da13320df.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "描写只停留在表面，没有时间轴的变化描述。",
       "比喻不贴切，未能体现出景物的“奇妙”特性。"
     ],
-    "tips": "观察时试着闭上眼睛听一听，睁开眼后想一想它像什么，特别关注它变动的过程。"
+    "tips": "观察时试着闭上眼睛听一听，睁开眼后想一想它像什么，特别关注它变动的过程。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/26/26baec9d07c2099f7c0a9268cd0cff3839c4646d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0bce21fddab59fe2366c308a070c598f20ac4698.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/da2f133ecfa7a8ccb2c9c3df2cc51f74bf7277ff.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/31/31b8ca6e2d0259670aea5e7180c0b7b25d8ec400.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/15/157a7c36c87cab8ac63b8e1a186c9dfb658a4fb6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c4/c47d9d4e51249192b5b5b075201c98c934a5cacf.mp3"
+      ]
+    }
   }
 }

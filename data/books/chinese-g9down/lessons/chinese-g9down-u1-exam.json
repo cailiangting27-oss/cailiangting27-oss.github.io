@@ -37,7 +37,15 @@
         "对话推进"
       ],
       "answer": "回忆的往事",
-      "explanation": "往事是线索。"
+      "explanation": "往事是线索。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/03/03f0cedab008ca869de13ed57be4fd46b0a66626.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 7,

@@ -16,7 +16,11 @@
       "question": "我们可以用眼睛观察物体的颜色。",
       "options": [],
       "answer": "对",
-      "explanation": "眼是视觉器官，主要功能就是观察颜色、形状等。"
+      "explanation": "眼是视觉器官，主要功能就是观察颜色、形状等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62737e0eabfd03e0e4a53d8f95ccf9bdcd105a22.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/148b56dfe11fc1961f03cd0b8a8b937765a75384.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "很重"
       ],
       "answer": "球形",
-      "explanation": "球形描述的是几何形状，红色是颜色，粗糙是表面纹理，重是质量。"
+      "explanation": "球形描述的是几何形状，红色是颜色，粗糙是表面纹理，重是质量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41adda89bf4c4e91e891e96b1a872169e15cd253.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/081f5c7b6cf045e78feb5f88b4ca9f98d8d4b568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cace413d5c4afa3c7e74dd76ccdac333c94221c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3935585ee7bbb0cb445f9e99fea304b9dea13db7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/809566c19f8b5f865ea5eaf4e093512220ca6e39.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "鼻"
       ],
       "answer": "鼻",
-      "explanation": "鼻子是嗅觉器官，专门用来感知气味。"
+      "explanation": "鼻子是嗅觉器官，专门用来感知气味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53785c1e405f59307415e4f1b539eefe0b7a68c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/6191d800ec61bed2416af2c1fea3452eb2634e81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8481effa10a79282d8a63ef7b7fae89968233779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/221a718b20d35de751d461fed09b8243bc72d59a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8940dd82b05634919cc55cce879b5ce22d5f6758.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5529c79612505e1d87e986864db8266872493a83.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "形状"
       ],
       "answer": "粗糙度",
-      "explanation": "触觉可以感知物体表面的光滑或粗糙程度。"
+      "explanation": "触觉可以感知物体表面的光滑或粗糙程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72f9edde47667b60c4565afd56e0d5c26b46d01f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c902086ca892abd93bdfee506dc0e4d49383de8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b12f1daaeca8d8fd0ae33b483ca13093272dd23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d75c021fc159fc17f972040c3753364ac9680cb.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "我们每个人都有（）只眼睛用来观察彩色世界。",
       "options": [],
       "answer": "2",
-      "explanation": "常识题，人类拥有2只眼睛作为主要观测器官。"
+      "explanation": "常识题，人类拥有2只眼睛作为主要观测器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec9b006aba9eeb3bc9f6dd2e655dd1caa26994be.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c2b23a2b773a372ce22460b7f6971afb3f4758a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "goes; took"
       ],
       "answer": "goes; took",
-      "explanation": "usually 用现在时，yesterday 用过去时。"
+      "explanation": "usually 用现在时，yesterday 用过去时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae28eda40978bcde238a5f43800a24d257800a74.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/a6/a60dac44f1be6d5c7e4b4b60e6f8f41cc44192cb.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "an; the"
       ],
       "answer": "an; the",
-      "explanation": "an apple 泛指，the apple 特指。"
+      "explanation": "an apple 泛指，the apple 特指。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/8b/8b587e93bb2f6b54f873e432fcb4390642b3da7e.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

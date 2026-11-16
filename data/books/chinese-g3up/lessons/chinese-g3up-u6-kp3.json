@@ -16,7 +16,11 @@
       "question": "“鲨、鲤、鲫”这三个字都带有“鱼”字旁，意思都与鱼类有关。",
       "options": [],
       "answer": "对",
-      "explanation": "“鱼”字旁是形旁，表示字的意思与鱼类有关。"
+      "explanation": "“鱼”字旁是形旁，表示字的意思与鱼类有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8c0079f2db184e6ce04cc41c1d17e3992e977f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4b4b0b175f106fcd71a16ecae3c53b32e9897bf.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“蜻、蜓、蚂、蚁”这些字都是由形旁和声旁组成的形声字。",
       "options": [],
       "answer": "对",
-      "explanation": "这些字左边是虫字旁表意，右边是声旁表音。"
+      "explanation": "这些字左边是虫字旁表意，右边是声旁表音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/466760575ac0b4aa9bfc2682597e2fe8c9d63dc4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/328368f56727c74012ca69a9aa24ff38e9f940e1.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "“蝌、蚪”两个字的偏旁都是“虫”，因为它们属于昆虫。",
       "options": [],
       "answer": "错",
-      "explanation": "蝌蚪属于两栖动物，虽然带虫字旁，但分类并不属于昆虫类。"
+      "explanation": "蝌蚪属于两栖动物，虽然带虫字旁，但分类并不属于昆虫类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e949e7fb2895efdbde04c33e5ef795356785b5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18e9686abbe8f1506c8de4d0c91744c5b0ecd2cc.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "远近高低"
       ],
       "answer": "江河湖海",
-      "explanation": "江河湖海都带有三点水，与水相关。"
+      "explanation": "江河湖海都带有三点水，与水相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de682b3a2cdb9963b3c9faf5046fb86b8ed9a9c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/60b2ed2b6a3cf10c9b0f62fda706d80b227bb918.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4511aa103cfbf5babba39f7b20e21653a1f555bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81784e43b4152ba82fee66f08ca4abb78429733a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6e72d58f09c3026511e992135e04cfb56ee2ea6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffa121b6f405fc10e43bba4532a80e162708c797.mp3"
+      }
     },
     {
       "id": 17,
@@ -65,7 +87,11 @@
       "question": "“螃、蟹、蜈、蚣”这些字共同的偏旁是（___）。",
       "options": [],
       "answer": "虫",
-      "explanation": "这些字由于都与昆虫或节肢动物有关，故偏旁为“虫”。"
+      "explanation": "这些字由于都与昆虫或节肢动物有关，故偏旁为“虫”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9ddd9bed9cb065a4fe01eca9c2ae1dc150e1656.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3edbd8dbb338bf0f4dc129a09cc331749376026d.mp3"
+      }
     },
     {
       "id": 21,
@@ -85,7 +111,21 @@
         "水族类"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "根据形旁表义的基础规律进行分类。"
+      "explanation": "根据形旁表义的基础规律进行分类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4eeae8ea9b921e06258775f732a7bbcf9b05008c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94b4e1cbb5ba950bd7481a019994f5a797fc414e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2947460fee950c31ba76514342ff52bc0c7634e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e0b70058aa8fb7f92154476d9c3e4a99b8837c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a11809182a5f46f5f80087a0e84c2a1314d5f186.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b52e233c07ba4997046f9e941e30cac743d6043.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/970a05e90ec32cf2a6080bb15fde35e3ab3e7a46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d56b25fc96695adf694c4ae637209a9128a12fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ac5b95046d08761a6e20b4ce244be04eb086580.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8ef8eb59dfd94f13316a6d81d03deba6e1e78ce.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -96,6 +136,16 @@
       "将偏旁与实际生物分类混淆，如认为虫字旁的都是昆虫",
       "忽视声旁对读音的提示作用"
     ],
-    "tips": "编一个偏旁分类小口诀，如：‘虫’字边虫子多，‘鱼’字边游水间。"
+    "tips": "编一个偏旁分类小口诀，如：‘虫’字边虫子多，‘鱼’字边游水间。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/55/55763be086887cccc5cbb06093dbd4ba2d51481d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/32/32b679a1d2ac094408a7c4dda336cfb6b4d248f5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c3/c3a357e1b6a07e237a9e80dce9306af303e58411.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/35/359922b8cbd0fab1747ad7317ce3aad698fe91a2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/09/09bbaa20cb97f2f74b52d79b91a8d035ad54188f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/33/33fba421d481a3ef676c1cccada0aa50a8ae80ee.mp3"
+      ]
+    }
   }
 }

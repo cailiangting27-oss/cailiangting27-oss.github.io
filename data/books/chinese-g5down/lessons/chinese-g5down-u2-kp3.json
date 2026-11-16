@@ -21,7 +21,17 @@
         "表达感想"
       ],
       "answer": "简要介绍,内容,联系实际,表达感想",
-      "explanation": "读后感通常先简述内容，再结合生活实际抒发具体感想。"
+      "explanation": "读后感通常先简述内容，再结合生活实际抒发具体感想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b9f7cd1147391298efa25ce50092471e152628a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/163aec9194a17383a22445f6651c80f86dcce879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/636090f2d70fc812e7f7315073ab1ae1fb3a4a3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/214b3a8253d3de3eb786e56d194c3cab9adbeb87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98da918f8f7f48bf1bc95617cee9b48ef122f83d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f333cc2ef81ed884c11fd256c0a0ecd3c65cc6d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "大篇幅缩写书本内容，最后只有一句话感想",
       "感想浮于表面，讲大道理，没有结合自己的生活实际"
     ],
-    "tips": "读书时就在空白处随时记下自己的感受（批注），写感时直接选用最有共鸣的一条进行扩充。"
+    "tips": "读书时就在空白处随时记下自己的感受（批注），写感时直接选用最有共鸣的一条进行扩充。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/50/508ddc862293c7230f7a84ba77426c4dbfc9170d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5b/5bbe8c6526a15a5145ce7016e343aea772b5ff55.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/83/830392f968734a6ea759a9d06e8816cd12a50609.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/29/29b64c1a2ded5097e091d3fb3c852d158c231acd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ba/ba77144bddad35d830debeb4a0b6a7cd9b3b5598.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b9/b92f404219e62134e3f1452b9bb72ec7fa811051.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,15 @@
         "分数"
       ],
       "answer": "无理数",
-      "explanation": "$\\sqrt2$ 是无限不循环小数。"
+      "explanation": "$\\sqrt2$ 是无限不循环小数。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/58/58306b30f4f6a32b0fec21dfda7e01442b10ec9e.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 9,
@@ -32,7 +40,10 @@
       "question": "实数与数轴上的点一一对应。",
       "options": [],
       "answer": "对",
-      "explanation": "一一对应。"
+      "explanation": "一一对应。",
+      "audio": {
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e258f58ef8993564cac53ceda5bedede36150aca.mp3"
+      }
     }
   ],
   "knowledge": {

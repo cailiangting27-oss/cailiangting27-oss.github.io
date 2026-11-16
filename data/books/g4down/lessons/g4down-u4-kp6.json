@@ -16,7 +16,11 @@
       "question": "保留两位小数就是精确到百分位。",
       "options": [],
       "answer": "对",
-      "explanation": "保留两位小数是指小数点后保留两位，第二位即百分位。"
+      "explanation": "保留两位小数是指小数点后保留两位，第二位即百分位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e145036cf704095977667bbb80e0d07b28c59436.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e4302115b0d0ede60c32e5017321f2f3c892509.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "9.0"
       ],
       "answer": "10.0",
-      "explanation": "保留一位小数看百分位。百分位是 5，向前进一。9.9 + 0.1 = 10.0。末尾的 0 不能去掉。"
+      "explanation": "保留一位小数看百分位。百分位是 5，向前进一。9.9 + 0.1 = 10.0。末尾的 0 不能去掉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b70be01ee5edbb0438ab0b0a1c34967a82182f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c23f7da7070511444ebc75875fd9d202b5dd13cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a70c9e9a51579a7afc940154fda92cb9e34041.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b85ab32eaa572c8016edf68011078dceed8149e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/aff5a096cbb3898ad2d389a2c05a3d75c8645302.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "5.85"
       ],
       "answer": "5.84",
-      "explanation": "采用“四舍”法能得到的最大原数是百分位为 4 的情况。5.84 舍去后是 5.8。"
+      "explanation": "采用“四舍”法能得到的最大原数是百分位为 4 的情况。5.84 舍去后是 5.8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/138f3ce97678edb962d00480663e492af80d5373.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/3887bf580d977cb9ef913735a4ed8eb661ab6db3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74d083e8c8b63b687fd408281be5a2d7510df86a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e4cf6a528e459dfb470385ddd564438c40bf78b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e323dd7b26b6e9e5c5f57dd8cd53eead6104bfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/2254f87c6c56f8d0269aa9d8a9f74be6401ff533.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "25.68 万"
       ],
       "answer": "25.7 万",
-      "explanation": "256800 = 25.68 万。保留一位小数看百分位 8，进一得 25.7 万。"
+      "explanation": "256800 = 25.68 万。保留一位小数看百分位 8，进一得 25.7 万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0764e50418f13190f8af5725c79159b29d26f2f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d62d0f58e65a928b1139fbfd8ff89c4027713a90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b08541c8c78ac505b87ed3f404df16692360090.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b458620c9568240a94388a38bd90ad47542cd55c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6543b1bb355dd77dc9ffb5f929ec1db42b23cb6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e21e2236ca4ddc6c9056104c46013cfbfd8735c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "保留一位小数得 10.0 时，习惯性把 0 去掉写成 10",
       "在近似数中间随意进位"
     ],
-    "tips": "保留到哪一位，就把那一位之后的数画圈，看圈里的第一个数决定舍还是入。"
+    "tips": "保留到哪一位，就把那一位之后的数画圈，看圈里的第一个数决定舍还是入。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b4/b4b3baa8dee442260189521744c24d36f893ee1b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7e/7e784c89e6fe2d47c11064dfc608604a8e391185.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3e/3e45de406b118f5a4022f622b261d38fc19a36ce.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/36/365f5e567d5f3137930b0b87e9025d607b7b9f53.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e9/e9584c5c4d2fed5e6a5f3267ea9cdf3bb168d9b5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/16/16ee847365b7f56a2a116852743643978b4961e4.mp3"
+      ]
+    }
   }
 }

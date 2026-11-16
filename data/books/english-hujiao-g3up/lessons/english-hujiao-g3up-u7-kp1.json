@@ -21,7 +21,17 @@
         "school"
       ],
       "answer": "classroom",
-      "explanation": "classroom = 教室。"
+      "explanation": "classroom = 教室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff9e702b2d52c30ae07940a4aec7a2ef8d8dfe18.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be45c8f0f4f7d92b7eaeb969088b6209e23b81b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d767bf5b72373d12f0efd4406677e9ed076f592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a5a05c01ee6e7b614f4055d6908eaee91d9c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/321bb6f58742915096809951488f7fc610c6ee12.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "desk 与 chair 混用。"
     ],
-    "tips": "desk 桌面大，chair 是坐的。"
+    "tips": "desk 桌面大，chair 是坐的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cb/cb25816c160c3a61724436508c71d5fd743bba7c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3b/3b51ce767420c8b24304dad409fde556c856a1fd.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/14/1418c7e7358d2220c64c4b6f423fc8b2068bf46c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/23/2342e989e925e6e96b4587374c41593649cff463.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/07/07641fe083ac769171680d7e01e81cc3ecb2b3a1.mp3"
+      ]
+    }
   }
 }

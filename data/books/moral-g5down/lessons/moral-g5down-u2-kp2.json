@@ -21,7 +21,17 @@
         "在网上乱骂"
       ],
       "answer": "冷静保留证据向有关部门反映",
-      "explanation": "依法维权。"
+      "explanation": "依法维权。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/267e8b3577af3246cbd425957072fd2edeeb6291.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd517b61c83e74641b381bb37d1f203635153e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f6d31924ecf1fa52c2953da5ca1429a3fec16bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faeeef8e93d6b25af40e79439e703140634b62f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f475897a196bd00bb7dc1a1d813ce07d1106912.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8fb011b2dbd82c5ec8afbee4c81d98aac8dd470.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "未成年人自身也要增强法治意识。",
       "options": [],
       "answer": "对",
-      "explanation": "从小懂法。"
+      "explanation": "从小懂法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5beff7b8a5ddceb67274e761fa77f0c646fd5347.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9ffd16290a50e657ad61ae1869c37a9ae6562655.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "自己动手报复。"
     ],
-    "tips": "维权要讲方法。"
+    "tips": "维权要讲方法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a7/a7228059e5e31725ad12a6438904f2ba66838689.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f0/f022980744b27c961eb1240965ce4f8880e98260.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2d/2dd0b9a9045960dbddde8cf2cb8a4bd07797159a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/50/5037911a85952962bc47a9940cceadb4d2776e4b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/00/003385437248a5072befb32e383785214d6d4a0a.mp3"
+      ]
+    }
   }
 }

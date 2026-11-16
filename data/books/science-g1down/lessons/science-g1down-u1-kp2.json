@@ -21,7 +21,17 @@
         "来回摆动"
       ],
       "answer": "向下降",
-      "explanation": "由于重力作用，较重的物体会使天平托盘向下沉。"
+      "explanation": "由于重力作用，较重的物体会使天平托盘向下沉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5aec4df0f5698d5be1ba42a125e3c7526ed32089.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b518babf53a522a04e3fe6147e081bf089920793.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e63bf157bc38fad160e5667dd7cd376bb9646b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1b3fa2be43d14317ec5c74c684d8b9588ab9e5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62f3294815bd466f95b3a7d7bd675ad517806801.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b60648eba484bb06c6a7e6b827b73362cb53722.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "一样重"
       ],
       "answer": "丙",
-      "explanation": "逻辑关系：甲 < 乙 < 丙，所以丙最重。"
+      "explanation": "逻辑关系：甲 < 乙 < 丙，所以丙最重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a7b0f6f97f50bc8324259608001cc475ce60b81.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b85dd8d61a8cfb57f67c0971abd4763193b2f19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3458316756ea82e7351d0af35a972b5a81e50fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72e61fc706ef838b4ff8ac2a0e6776dc5f6de90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/634b186d1196ce996f2f88cfebc3013bdcc372a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66551ffecf544ede36cf9d089859a46741f6bf95.mp3"
+      }
     },
     {
       "id": 19,
@@ -48,7 +68,11 @@
       "question": "用一个大球和一个小球放在简易天平上，两端平衡一共需要（）个质量单位。",
       "options": [],
       "answer": "10",
-      "explanation": "假设具体情境中的质量数据，此题考察对数量的概念，填入示例基准数10（符合一年级数数范围）。"
+      "explanation": "假设具体情境中的质量数据，此题考察对数量的概念，填入示例基准数10（符合一年级数数范围）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2f234c472a2cbc7354e2c03774de9e0dcf4fc34.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a951013c874ee77f8bd4b3b0bfa8b1553bd9fb59.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "认为大的物体一定重"
     ],
-    "tips": "天平倾斜的一端代表该物体更重。"
+    "tips": "天平倾斜的一端代表该物体更重。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9c/9c46c010612d0a681bd913a13daece48cc238073.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/40/403e21ad2523d149b8a8079254668ca229f9a334.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4b/4b6eb7393a136a5252c0c6bc0f6423817b8b0917.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/08/08886e9cef9815c92228b55f51e5fc343103f0b2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/30/300562ec116221b3a166527797b31a2920998dd7.mp3"
+      ]
+    }
   }
 }

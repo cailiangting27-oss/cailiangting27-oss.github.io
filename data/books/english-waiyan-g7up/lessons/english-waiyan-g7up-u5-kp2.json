@@ -21,7 +21,15 @@
         "Wenesday"
       ],
       "answer": "Wednesday",
-      "explanation": "W-e-d 开头。"
+      "explanation": "W-e-d 开头。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/5656b9b79b0316fc611a9c30d2ffac25228b8371.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

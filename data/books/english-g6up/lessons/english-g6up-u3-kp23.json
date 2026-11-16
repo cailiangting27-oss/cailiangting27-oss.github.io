@@ -22,7 +22,18 @@
         "?"
       ],
       "answer": "Where,are,you,going,?",
-      "explanation": "Where引导的be going to特殊疑问句，结构为Where+be+主语+going?"
+      "explanation": "Where引导的be going to特殊疑问句，结构为Where+be+主语+going?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/792d50a048e8362d0d03eed991ef67c4b10d2d8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c3c17bfef162ccf2859a3984e80ed94deeefea1.mp3"
+      }
     }
   ],
   "knowledge": null

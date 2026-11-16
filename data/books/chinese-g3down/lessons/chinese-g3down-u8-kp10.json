@@ -21,7 +21,17 @@
         "因为天太黑摔了一跤"
       ],
       "answer": "因为他们以为对方就是“漏”",
-      "explanation": "老虎和贼互相惊扰，由于心虚，都把对方当成了传说中厉害的“漏”。"
+      "explanation": "老虎和贼互相惊扰，由于心虚，都把对方当成了传说中厉害的“漏”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/506f74ef4914707d6f2200fe471c887c14a15944.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c03a618774921c70e48299259dbb65652843c38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1213b007ee113bfc061ecae622fa23651988f5bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c63695c484e122c9fea94602e7184c57392a96a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a8217f78e1e974d856eb1d59d6393b114142ae9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8889b9dcd453cc12c0a40984a762da119abbca81.mp3"
+      }
     }
   ],
   "knowledge": null

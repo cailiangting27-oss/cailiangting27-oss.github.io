@@ -16,7 +16,11 @@
       "question": "“一口咬断牛尾巴”的谜底是“告”字。",
       "options": [],
       "answer": "对",
-      "explanation": "“告”字上面是“牛”去掉下面的一竖（咬断尾巴），下面是一个“口”。"
+      "explanation": "“告”字上面是“牛”去掉下面的一竖（咬断尾巴），下面是一个“口”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50ad051bdad881883603e503b228131e5649bc1f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/216c7cee4c070f1d8d3129833d2ba0fe6197cc23.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "种"
       ],
       "answer": "秋",
-      "explanation": "左边是禾苗（绿颜色，怕蝗虫），右边是火（红颜色，怕水）。"
+      "explanation": "左边是禾苗（绿颜色，怕蝗虫），右边是火（红颜色，怕水）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/003f722de662d6988b6b2057fd70fe86a01e83e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d8f4aeca8506d3d5215ac27272e9ee8a4a27e23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3eb340971ffc2dd9cf4da3994078519f53a568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1001e5f30a1b47ba43a44a4a73298d6208fa65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f09a897c5cc2c83760ab2864ecdb8aea173168ca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c7b118da2667f24c5775febaf604c8f9e9a94f8.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "一加一（猜一个字）：",
       "options": [],
       "answer": "王",
-      "explanation": "“一”下面加“十”是土，再加一横是“王”；本题通常指“王”字的构造。"
+      "explanation": "“一”下面加“十”是土，再加一横是“王”；本题通常指“王”字的构造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95160d783a62afbd412e49133af9ddd25a981119.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/985d4541a65401334e32f09a324d58dd551b8189.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +77,17 @@
         "非常"
       ],
       "answer": "我,非常,喜欢,猜字谜",
-      "explanation": "“非常”是副词，放在动词“喜欢”前面。"
+      "explanation": "“非常”是副词，放在动词“喜欢”前面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc0766fbd2fec87917d3c08d0cf319813606bcf8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/28aa475a79f26b22a04a41191bb05056c4c8e9a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/916ff47e25d715f6b634999a2342cfdaa3876fb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ebfac670522586cffefa7a12c1f7a19875d5db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e268d09124169743b63b49f27f97c4020046ccfc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "只关注谜面意思，忘记了寻找汉字部件",
       "不能区分左右结构的描述，导致猜字错误"
     ],
-    "tips": "看到谜面先画一画。比如“左边绿，右边红”，就在本子上画个禾苗，画个火焰，字就出来了。"
+    "tips": "看到谜面先画一画。比如“左边绿，右边红”，就在本子上画个禾苗，画个火焰，字就出来了。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fd/fd8c8f0796f2e73d392aadb14af520000924ca51.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d3/d3c3209b5bca4039e3b5935aec082954f20c88df.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0f/0f5c6bff4b033fde2c07a6568196518009d09140.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/01/01bfd6cefc350011104f1511db574018590f28f1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1b/1b38518231fb85cab6ec33a95f836c3e6485d7b0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f5/f50126317d0a66ae9717563fe64b3872971329c2.mp3"
+      ]
+    }
   }
 }

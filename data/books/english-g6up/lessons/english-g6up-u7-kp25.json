@@ -21,7 +21,17 @@
         "light"
       ],
       "answer": "Wait,at,the,light",
-      "explanation": "祈使句以动词原形开头，表示在灯前等待。"
+      "explanation": "祈使句以动词原形开头，表示在灯前等待。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9730fedf2d54aba78fb1a89c38ed75fbdc5cc584.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34dbd5c4c8a64801891d960b57133767c3104fe7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfccc06f14414bff5a59be7fc90abf4404b47fc8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/730b3ba974c6447aeeb66b3e23ddd71818f654b6.mp3"
+      }
     }
   ],
   "knowledge": null

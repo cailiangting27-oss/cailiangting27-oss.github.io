@@ -16,7 +16,11 @@
       "question": "句型 'When is the art show?' 是用来询问美术展在什么地方举办。",
       "options": [],
       "answer": "错",
-      "explanation": "When引导的疑问句询问的是时间，询问地点应使用Where。"
+      "explanation": "When引导的疑问句询问的是时间，询问地点应使用Where。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/5725a1a7d367d9ec9253878cc459a399c1899647.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cb9fe82ad4cbfadaeb2c5463869c6468d4da73b.mp3"
+      }
     }
   ],
   "knowledge": null

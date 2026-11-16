@@ -16,7 +16,11 @@
       "question": "我们可以说“一支欢笑的人群”。",
       "options": [],
       "answer": "错",
-      "explanation": "量词搭配不当，应该是“一群欢笑的人”。"
+      "explanation": "量词搭配不当，应该是“一群欢笑的人”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e01f9d99d5df6bbaa1439f3f9eabb1f8fd838b1b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/316c3d435ae76a8378c3df56c38dfae11d57d8ee.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "一片翠竹，一艘海鸥"
       ],
       "answer": "一竿翠竹，一只海鸥",
-      "explanation": "翠竹常用“竿”或“节”，海鸥用“只”。"
+      "explanation": "翠竹常用“竿”或“节”，海鸥用“只”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de727716c1e56ef39922a5aec0cce72d80ceb664.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa2e765ce744a3d40aefa3682bb95608b71c358f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a0bfb0ab70776fc2e7ff8f2ceb1487f37ac962a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/276acc66485b900b646628c4e8fd75079b0d76c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a75330b2fe10f68aaaca4c4de018ddb574119ad8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2639c5982addb4d78dee4fba41239a71bbe9a32.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "口，座"
       ],
       "answer": "艘，条",
-      "explanation": "大型船只用“艘”，小型船只用“条”。"
+      "explanation": "大型船只用“艘”，小型船只用“条”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5ba5e9f14696bb99d2b1c7ea486eff61c9e367b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/5510e135a06d9870d3f42bec1b28f6de1ac3f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee0734763db5b30c7a9485df7383775368695843.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d113a63e8bc8ba4b2d7280a00960fe9cb14d9bf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91ba784fefa1e82ca1ecec92a1cda606f6ea6cdd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9bb2ca21386b268fc21e33934b28c116f8cd992.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "根据偏旁猜一猜，一（  ）小溪，横线上应该填哪个量词？",
       "options": [],
       "answer": "条",
-      "explanation": "溪流长长的，通常用“条”。"
+      "explanation": "溪流长长的，通常用“条”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8e0225c5e91c22dcf04119c2b683043eb8ada36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/deec14910d5a9f81caf41d516a3f5418e8d5baf8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "将“艘”用于小船或将“只”用于大型建筑",
       "乱用“个”代替所有特定量词"
     ],
-    "tips": "观察事物的形状，长条用‘条’，大件用‘座’，成对用‘双’。"
+    "tips": "观察事物的形状，长条用‘条’，大件用‘座’，成对用‘双’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9b/9b07f1927eb5cb291205bd7ff6fdb539de192e4c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/cf/cf1140c890bd66d7f09696f14d6dba9546f9307d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/db/dbf7dfc9759f70749ccd624f5c077abfee39183c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/29/29f720e5f5109e37c08a7f593e5b139316be0732.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/73/73c6376f9290159cdeca8f127ac2defbedf0cf2f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9d/9dfd77471c8204b227b96bb1f2b67390fc4b0b6d.mp3"
+      ]
+    }
   }
 }

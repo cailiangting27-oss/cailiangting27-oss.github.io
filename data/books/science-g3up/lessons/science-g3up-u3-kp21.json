@@ -21,7 +21,17 @@
         "西风 2级"
       ],
       "answer": "南风 4级",
-      "explanation": "烟向北飘是南风；树枝摇动约4级（风吹树枝动）。"
+      "explanation": "烟向北飘是南风；树枝摇动约4级（风吹树枝动）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b28ac35051b198b0e9201aaa06a3a735865a72d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/601b365bb170fb31d6cee3e01e8ed8808a6c89b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5984f29e992e0297565df208d311cca3b4e008d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15cdbd96319878bb5867a004a75875c2f86797a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e272b2e3ddb50b93651b51d972016a0d2c33f5b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0bdc29ed1709338f09b6d41d37ceabd53ccc3b36.mp3"
+      }
     }
   ],
   "knowledge": null

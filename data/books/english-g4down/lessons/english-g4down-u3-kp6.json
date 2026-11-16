@@ -16,7 +16,11 @@
       "question": "询问天气可以用 'What is the weather like?'",
       "options": [],
       "answer": "对",
-      "explanation": "这是询问天气的标准格式。"
+      "explanation": "这是询问天气的标准格式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fde8f67d0f59bc0cdfe4d9be5ce352dcbc0be9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b553ec7e33821a27b13c3719510f031ea661c5b.mp3"
+      }
     }
   ],
   "knowledge": null

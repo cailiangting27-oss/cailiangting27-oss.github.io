@@ -25,7 +25,21 @@
         "表扬"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "考察词义对应关系。"
+      "explanation": "考察词义对应关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3eebf983ccd29c28f32f647702d07d15c2236e6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf3fb057c9d58aa7bbd96bf39cd3f9337484d2f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86bb48bcd30171281ea8d26a64894f8208ab4882.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/195f4167102edc790e9515c8956cb46d9f1b2dad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a56c6a9f5ffb7129beb35fceb751711180653ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f992f7f256ad44bce8bc6369bef890a3f8a34ac7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea57571dfaa3901fde6d62eae94881b627133521.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf0af71df7f8a3d1e5bdd8d221feae32d62485c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f27f1d19644e4a6a431359c42d9f98a2c4acf4a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3332c16d6046adb59ff06d1769e67e2e2c6c2b1c.mp3"
+      }
     }
   ],
   "knowledge": null

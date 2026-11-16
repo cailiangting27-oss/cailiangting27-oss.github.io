@@ -16,7 +16,11 @@
       "question": "写“二”字的时候，应该先写下面长的一横，再写上面短的一横。",
       "options": [],
       "answer": "错",
-      "explanation": "汉字书写遵循“从上到下”的原则，应先写上面的短横。"
+      "explanation": "汉字书写遵循“从上到下”的原则，应先写上面的短横。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68ba74eba718b5567b901a497be629cc49cfae2c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5bda043c9cab944018ec38e028684920b702994.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "左下格"
       ],
       "answer": "横中线上方",
-      "explanation": "“三”字第一横位于上半部分。"
+      "explanation": "“三”字第一横位于上半部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49c68491cd401fdf86be4c24998735f5c3bd6c04.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5cd00e2c90e08b93910f72ab64cadb131465f86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfcf57e2fec1f73668ef85db894518ac84053c81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/704d81b248bf6b9d6c467012adeb9cc3bf711e2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15c8e9d5585c1a19c6c41b9de8b4bedca6e0b33b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f9012ad657bbf432117945cf52f75df0354284f.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "口"
       ],
       "answer": "上",
-      "explanation": "“上”的第一笔是竖，“十”和“天”第一笔是横，“口”第一笔是竖（但作为首笔符合题意）。此情境下“上”更典型。"
+      "explanation": "“上”的第一笔是竖，“十”和“天”第一笔是横，“口”第一笔是竖（但作为首笔符合题意）。此情境下“上”更典型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74c3ccffa22a2b85e3f5d9c98e5aa6249a78cca0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa107f05b67772d77f966813ea6355312b48c88a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3304d1e49e3eaa7072ba35285041ebb452a0c0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ec046fc5665208f810c0bf8b9be203898c79144.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "“二”字先写长横再写短横（逆笔）",
       "字写得顶格或偏向一角，未居中"
     ],
-    "tips": "书写前先观察笔画在田字格中的起笔和收笔位置，养成“一看二写三对照”的习惯。"
+    "tips": "书写前先观察笔画在田字格中的起笔和收笔位置，养成“一看二写三对照”的习惯。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c5/c5d5ca0958454e1920996fb0ac4000fcdf3c371f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/cb/cbc2e5f941d760ebd6897f8eafba55844df55649.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2c/2cfb3b1b54a50399ad4cb46a066b912f37385eb2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3a/3a120751571f86cf29a8afa122da816b712d66de.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/23/23566726fd57b5a27ad7fe00e2f318a268df8a57.mp3",
+        "https://api.clthuanxie.cn/cc-audio/df/df3037a4fac5cc060b011a7cf024664b6f1ed43b.mp3"
+      ]
+    }
   }
 }

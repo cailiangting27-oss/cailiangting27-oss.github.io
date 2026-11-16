@@ -21,7 +21,17 @@
         "a potatoes"
       ],
       "answer": "potatoes",
-      "explanation": "表示泛指一类事物，potato需用复数形式且es结尾。"
+      "explanation": "表示泛指一类事物，potato需用复数形式且es结尾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36c8877ae98efa783d20b72754ea6318e8a54158.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e2e95f5ad970eadfa7e17eaf73da97024aa5359.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8819d19069fae6b4bac183d1f16553abab16b54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc182bc9d09b51c2afe78eca1cf776b21bb7293d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/382cbf07b3ffe8a0e5cc0d3cbc351aa56e5db48b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30c75b1dac99c74e99748ebcc44bd2a55a831950.mp3"
+      }
     }
   ],
   "knowledge": null

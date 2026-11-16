@@ -59,7 +59,15 @@
         "反而向左"
       ],
       "answer": "角度较小",
-      "explanation": "量程过大读数不精确。"
+      "explanation": "量程过大读数不精确。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

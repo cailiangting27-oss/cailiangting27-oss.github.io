@@ -16,7 +16,11 @@
       "question": "'go swimming' 的中文意思是 '去游泳'。",
       "options": [],
       "answer": "对",
-      "explanation": "go swimming意为去游泳。"
+      "explanation": "go swimming意为去游泳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26869abc0b5d5754e9f9254b4e8d357b3ad32ff0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7da401dbcc2271068ac49712e9b00dd9413da780.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "go swimming"
       ],
       "answer": "pick apples",
-      "explanation": "秋天是收获的季节，常摘苹果。"
+      "explanation": "秋天是收获的季节，常摘苹果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b54350c6eecedf37e585eb07a213d02cc0e33987.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f26bfe11c8e9ca7fd9a8fea8eb3d4144dd2702.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b18e4126b1f76f80c27ef591f0d415a99ddb68b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/098afe3354e0934f2c0d55175defc76a86e9002f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/756ef0c900861b758cc0f7454d2c4d4904e97202.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/188c95a8ea2505c8d174145ea11b0b82fd184915.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "go"
       ],
       "answer": "go on",
-      "explanation": "固定搭配go on a picnic意为去写生/野餐。"
+      "explanation": "固定搭配go on a picnic意为去写生/野餐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee4ed47ec87ce534cef4bfe1645a9e9053e02a25.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56d9996cf2463dea0efb460ffd58824d5b7382a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c6dd761f24c4ac4fb95bb1bd183d4815802bfc7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8fc8a63169c3d64dfe30ecb8fc150569cbf26a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3704212e0bfdd24ba3b649748af0154a1380963b.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "I can make a ________ in winter.",
       "options": [],
       "answer": "snowman",
-      "explanation": "冬天的活动是堆雪人（make a snowman）。"
+      "explanation": "冬天的活动是堆雪人（make a snowman）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/070bba0e2453062fa1e410143cb23b1574421992.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49c30fc09151d43826dcd4284e267adc26e218c7.mp3"
+      }
     },
     {
       "id": 21,
@@ -79,7 +107,21 @@
         "堆雪人"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "A.go swimming-游泳; B.pick apples-摘苹果; C.plant trees-种树; D.make a snowman-堆雪人。"
+      "explanation": "A.go swimming-游泳; B.pick apples-摘苹果; C.plant trees-种树; D.make a snowman-堆雪人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/178e58705454228da72759c364ead6a72e863af6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/756ef0c900861b758cc0f7454d2c4d4904e97202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b18e4126b1f76f80c27ef591f0d415a99ddb68b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/098afe3354e0934f2c0d55175defc76a86e9002f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f26bfe11c8e9ca7fd9a8fea8eb3d4144dd2702.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14c1579b71043817262c8361248c91b33e1fdb39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47f371c5068f59342ce218efecd16eef0e48a61e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b66f447bfcb94e60dd5363485a63016d3ca7861f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35553c4c984637b3fad5a8787ce295543086e920.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5502319e9fa66372aa9ad7ce9da7851bf5073090.mp3"
+      }
     },
     {
       "id": 23,
@@ -97,7 +139,19 @@
         "."
       ],
       "answer": "I,go,on,a,picnic,.",
-      "explanation": "陈述句结构：主语+谓语动词短语。"
+      "explanation": "陈述句结构：主语+谓语动词短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b82bd14a6c2431a29a51461b6aa367432c1eb02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cb7f0ef8917f1721d79bcb5f0abe14648edc6f4.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b54420b16bde40f28468358e7ee7722f011e70c8.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在句子 'Did you washed your clothes?' 中，washed 的使用是正确的。",
       "options": [],
       "answer": "错",
-      "explanation": "助动词did后面必须跟动词原形，应为wash。"
+      "explanation": "助动词did后面必须跟动词原形，应为wash。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0652c18ae8f1c5ebc49ab046266be0dce071e24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa35eb80a975e5aefb17dec79bbaf294ad4e1629.mp3"
+      }
     }
   ],
   "knowledge": null

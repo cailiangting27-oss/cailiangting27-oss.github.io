@@ -16,7 +16,11 @@
       "question": "“迎上去”和“追上去”的意思完全一样。",
       "options": [],
       "answer": "错",
-      "explanation": "“迎”是面对面，“追”是在后面赶，方向不同。"
+      "explanation": "“迎”是面对面，“追”是在后面赶，方向不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abdcc4a7fef3285cbe1bf5d8c5c90ddd8c9def2f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49fc1621e7cdffa43eed8b85da71cfbc4eb05b8d.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "大嘴巴"
       ],
       "answer": "白肚皮",
-      "explanation": "根据课文描述，青蛙是披着碧绿的衣裳，露着雪白的肚皮。"
+      "explanation": "根据课文描述，青蛙是披着碧绿的衣裳，露着雪白的肚皮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0d711e8851292775c4c5c45945c38c072119747.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13d32a7bdafd5435bade2f1256aaa30fdee87234.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19eaae423074db895e10bfa67d02384decfa39ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78fea912aeab33eb9ad92bbfb15af538d08d112b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63426d052e7c96cb3e6e9833ecf49be020d90255.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e0f20cdca9d42971b07bf7432614c0966c36330.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "小蝌蚪在找妈妈"
       ],
       "answer": "小蝌蚪在成长变化",
-      "explanation": "尾巴变短是小蝌蚪发育过程中的一个生理变化阶段。"
+      "explanation": "尾巴变短是小蝌蚪发育过程中的一个生理变化阶段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/204e38949da35e5bbc0513467d16d6d285d166f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/162a2b1f3b7c6fe6bc35b1df8bf2c8091f28bea7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6058a3ff1924a0d828acc031f2642dc096b90d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95305c5fd7e997f81ae2f9bd554282dfb7a9ebee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c773b978aeeb818f56dc541583c0caf0d00e872.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0ef11c386c94e9f3b9559bb51fc91d9b0a65667.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "披着肚皮"
       ],
       "answer": "披着肚皮",
-      "explanation": "应该是“露着肚皮”，“披着绿衣裳”。"
+      "explanation": "应该是“露着肚皮”，“披着绿衣裳”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8ca2cda486d5b1e99af7fbf7d7e6971d02316a12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2356c49b2bb2629a94a531689e947fb6df59f667.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c49aea716364a9cf6589681b8f64aa2905d6a89c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/342f185caad478639db4bf53471f1688f383ed04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb7a6f3c91e37529c60f5fab91ebcf71fcc218cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91a6271b5db6cee2cedd29f9c2c5e70f15c40bf.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "小蝌蚪大大的脑袋，（___）的长尾巴。",
       "options": [],
       "answer": "甩着",
-      "explanation": "应用“甩”来形容长尾巴摆动的动作。"
+      "explanation": "应用“甩”来形容长尾巴摆动的动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7d60d4a26ca61bb16d5c5d7447f588404c6fd21.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c616c10227dc3d58f9ed74daef58972f7fc7b8d.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "白肚皮"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考察课文原句：鼓着大眼睛，披着绿衣裳，甩着长尾巴，露着白肚皮。"
+      "explanation": "考察课文原句：鼓着大眼睛，披着绿衣裳，甩着长尾巴，露着白肚皮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25c32612562985865734b45043b61f18a6fb71d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f7a0f26a68124ece47ae9722826fd86d82725b60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/032feb559584fd0d990560cc900e650a29709b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db45198ea8ae8459e162b9ae31359a6d9ad8f31f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6129f0908bbe3dbcecaef5e185c164c8738a1d33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad965e7d78700cf4256a2e685132973e8e845f17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19eaae423074db895e10bfa67d02384decfa39ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a8b8e56b09d084874ae3059f0f0edb342f55fca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78fea912aeab33eb9ad92bbfb15af538d08d112b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/9655c74a6d6b6239878e2890c65a4dfe2fa97d7a.mp3"
+      }
     },
     {
       "id": 22,
@@ -112,7 +164,18 @@
         "汽"
       ],
       "answer": "我会,升到,天空,变成,汽",
-      "explanation": "主语加动词加地点最后是结果。"
+      "explanation": "主语加动词加地点最后是结果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72a51686fb50dcb41f9b1973732fb72ba5353f26.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/034f552cc0c52f36d9b758c830406ffa6bea4cf6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/434d7b5598c61f30c12674c6c50620f49c212cbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7006917c18a4fab647c9f19ad7cb3583a8fc7290.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/151f4e5b50dda34153fe95cff26f59699f73c3a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/7257fae5d762e6f66322a9b25774fa99dfc5ecdf.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -123,6 +186,16 @@
       "动词错位使用，如“挂着绿衣裳”（应用“披”）",
       "无法体会“迎”与“追”在具体语境下的情感差异"
     ],
-    "tips": "结合肢体表演来体会“披、露、鼓、甩”的动作，建立感官连接。"
+    "tips": "结合肢体表演来体会“披、露、鼓、甩”的动作，建立感官连接。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/96/9683a69a78a1ad27417a1e75d6c519b8cccb8e8e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d4/d45f292ad97820fd706b61191fb8d12bad598395.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e1/e1707ede28084ee7a377c52bd23fa65d4a6235bb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/40/403970bd0a54abf150d35af592b872838162ea8a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/be/beafc851a2ea546bcd1fb6772bc11f314d01f078.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ae/aee887d4f013a5e7da8f0022ce073f4c73e10127.mp3"
+      ]
+    }
   }
 }

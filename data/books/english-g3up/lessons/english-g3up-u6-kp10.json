@@ -21,7 +21,17 @@
         "four"
       ],
       "answer": "ten",
-      "explanation": "按顺序1-10排列，nine后接ten。"
+      "explanation": "按顺序1-10排列，nine后接ten。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15822d0b6710fec7afd6f1d142307479b77c4480.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f8f7eec5dea5ac43738721939c120318cbff1df.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b273e2c095d24dafd3f50630da0d2db40b1a4c6.mp3"
+      }
     }
   ],
   "knowledge": null

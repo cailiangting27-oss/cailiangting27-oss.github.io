@@ -21,7 +21,17 @@
         "优待"
       ],
       "answer": "优良，美好",
-      "explanation": "在此语境中，“优”表示质量好。"
+      "explanation": "在此语境中，“优”表示质量好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/999bd26ad8a0e5981fe054dc544d1f0e89f7e900.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f4c3bc0055977d2c89f7ac7f264eee16dceebc3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7efd4eeadcd116e67cab460ca3c902f6203f8a41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/427e4da9258dc7998f4385162a67f993ed53a3e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/542843dd5a147d5a35ed041d1430bd37a8135e59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3f3d7cd4da82e4bc54eafb33564eb1ac3bf12e4.mp3"
+      }
     },
     {
       "id": 11,
@@ -37,7 +47,17 @@
         "波光粼粼"
       ],
       "answer": "五光十色",
-      "explanation": "五光十色形容色彩繁多，光辉灿烂。"
+      "explanation": "五光十色形容色彩繁多，光辉灿烂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cd8e5d34805e0bbcf28f7abe528eab2d5117b0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f1ec27ff5bb32d5e86c44cd071ddab85d1f3128.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43fe95370d214090d3517abb09e030cdc778dafd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d541462389fe89186391aed4472dd55fc88a8f7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5864cfe48c5e415b89f1f682ad945ebca44ceedd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/565fb0d67da3717dcb6ed2903125cfcd3628efb7.mp3"
+      }
     },
     {
       "id": 15,
@@ -53,7 +73,17 @@
         "方正"
       ],
       "answer": "正，正好",
-      "explanation": "方好即正好的意思。"
+      "explanation": "方好即正好的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/894bdbab1a15b46a3e03ec7b61716aac71604be4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d531f329efc816435486d4b8bfcc25f1d7b64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b77e2ac8f4d1e08d644ac5eb57a7d0b1e2f4862b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/750366b880221a029a25928bf22e6c18f551e6c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45d990db24306a09c6498d7a97dd508714caee8a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10eb2e941290fa69109124446496d31802678c1d.mp3"
+      }
     },
     {
       "id": 20,
@@ -73,7 +103,21 @@
         "美丽的大花园"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "根据课文内容对应：西沙群岛富饶，海滨小城整洁，小兴安岭像大花园，天门山雄伟。"
+      "explanation": "根据课文内容对应：西沙群岛富饶，海滨小城整洁，小兴安岭像大花园，天门山雄伟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32ba257f983e7d8ff41103f94cb717026321a65e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abaacf5c0a5835ea2e4eb263b1f6760285046b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a92b64a4445ba8bba9b3c1529375dd6a3aa9ad8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf73c25f423939d56f388a0f1034e1801faa698f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b36164e44edbf6097ef7e39697aef9558e42049c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f2f9b3a0ac5ddaae37e86a6acde99bf24771bac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/479c107fb4a0c118f71d2bbf2cc963289f44d9b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f902b0855cd1b75db475a9f6285a13e6ef329e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3eb51718244cfe1c299a70b29d97fdfaa8f13a86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c9d1c3ac1a537d224f96ebb7e6786927d47cb9c.mp3"
+      }
     }
   ],
   "knowledge": null

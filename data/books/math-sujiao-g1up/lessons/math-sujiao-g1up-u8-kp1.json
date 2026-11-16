@@ -16,7 +16,11 @@
       "question": "计算：3 + 4 = ？",
       "options": [],
       "answer": "7",
-      "explanation": "3 + 4 = 7。"
+      "explanation": "3 + 4 = 7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6be73ae3b76a245e2da88c4b367cc2c892e708a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdc6e4a892ba55b785d9c9a5a799792a6747cefc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "计算：2 + 5 = ？",
       "options": [],
       "answer": "7",
-      "explanation": "2 + 5 = 7。"
+      "explanation": "2 + 5 = 7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1c8c33bbe256424c01b8c5b61cd0e1f6962f83c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8b1f48c7737a7abf68bdb30808d6b93a1565a73.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "计算：6 + 3 = ？",
       "options": [],
       "answer": "9",
-      "explanation": "6 + 3 = 9。"
+      "explanation": "6 + 3 = 9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0210cd7dc9e3bb049baee91e5c323221fe2d9400.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6e321aa59add8a08f6547421b7c20a0639f1e0f.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "8"
       ],
       "answer": "6",
-      "explanation": "4 + 2 = 6。"
+      "explanation": "4 + 2 = 6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4ad5f7dc7f0594c6ce98665bf344371d5c3e9be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/1331c022cbf899ad84c3be76421b97ac7a03801e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -64,6 +86,15 @@
     "common_mistakes": [
       "把加法当减法。"
     ],
-    "tips": "合起来用加法。"
+    "tips": "合起来用加法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/53/53ae3adcf0525162e1b1cb0c85513f5c07ad78e4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4f66e1ff09137a5ef806f341211e8076b38be05e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/28/2844bbe4e08e7e609f81ad97cb2cf75faae34b49.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/83/831c49e8b0ba7fc5236bd3b119b96138943ca222.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/19/1920de710363d2aff63cdfefdbbf41e558914616.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "吸气时，空气通过鼻腔、气管进入肺部，此时胸腔扩张。",
       "options": [],
       "answer": "对",
-      "explanation": "吸气时，膈肌收缩下降，肋间肌收缩，胸廓扩大，肺部扩张进入空气。"
+      "explanation": "吸气时，膈肌收缩下降，肋间肌收缩，胸廓扩大，肺部扩张进入空气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d67fc3accaab20f29ae9f9af054bd4b3feb6b83f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3202f31398651b7d384928e5146e826330e7d54b.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "氮气显著增加"
       ],
       "answer": "氧气减少，二氧化碳增多",
-      "explanation": "人体呼吸过程本质是氧气与二氧化碳的交换过程。"
+      "explanation": "人体呼吸过程本质是氧气与二氧化碳的交换过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35cb09a64d7fb15f26d5bbc809d7b42fa7a76425.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b43cf024866b806cf76579677d7bd83fafa7bb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b026ffd2b32cbb809c700b12be4724e188494be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a27478dd5c9abee73d69ccc3747ae16031ad65a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44fd93df22c7f22b975d933dd1b1b0f6f84a6a91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77d60ceaa467d1c628af7b699967c2c06f7e9e4b.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "胃"
       ],
       "answer": "胃",
-      "explanation": "胃属于消化器官，而非呼吸器官。"
+      "explanation": "胃属于消化器官，而非呼吸器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83ab91fd8ad0cd4634347cce560d0c571edca9df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec67bee1f035b9350ebe543d711dba5c3777143a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca8c2f79bfbc75825af2ed485bca4a16ce329284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d025292ed4a8927ec6fe9ca71d9d71820ce141d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da97a97eba52850582e81ca3f62ba69ebd493830.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/672d02dc95a1380604c24acaca7aa4ce547ea5fe.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "肺变大了"
       ],
       "answer": "需要更多氧气",
-      "explanation": "运动消耗大量能量，需要更多氧气参与转化。"
+      "explanation": "运动消耗大量能量，需要更多氧气参与转化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52de03a3b2d852743e42a3c3b21c581b3212e67e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd4dfd30e59982a6fa9d62a02b693786e10002f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12aa07a2f1e4a03be57ada41f0488b86f34d7b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d9265247a91f0ac8cda084aa25237cdd7eb245f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20e7fc79ba19c3b5c8089474fbf7bb154a28771f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3ac63bc987c2df9210a7b88390b344b768d8bd1.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "人体进行气体交换的主要场所是（）。",
       "options": [],
       "answer": "肺",
-      "explanation": "肺是呼吸系统的核心，负责血液与外界的气体交换。"
+      "explanation": "肺是呼吸系统的核心，负责血液与外界的气体交换。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6a83f97c8c5d501b1f281c79fdde490fb43aa51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07dddbc5a147105dc735afd400479bb3f8cf7e6d.mp3"
+      }
     }
   ],
   "knowledge": null

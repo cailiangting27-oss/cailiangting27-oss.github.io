@@ -21,7 +21,17 @@
         "飞快地跳舞"
       ],
       "answer": "飞快地跳舞",
-      "explanation": "跳舞动作通常用“优雅”或“欢快”，一般不搭配“飞快”。"
+      "explanation": "跳舞动作通常用“优雅”或“欢快”，一般不搭配“飞快”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/6318fab84397eaa1414ca156473a304e613bd8cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3dabedb8e256ee5bfc249d2178b0cacc46198cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/707f40c221d7e7ad5ee7568fc6b2fcf540595e97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2002c48d2e3e058838605dee46c6e6493351af25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14cfa34adbb44d8f06fbf75dee3efb7b8efa6680.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc0888198e9212f10a46088978c81bda5ba85c66.mp3"
+      }
     }
   ],
   "knowledge": null

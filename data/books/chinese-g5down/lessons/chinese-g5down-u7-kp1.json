@@ -16,7 +16,11 @@
       "question": "“水面上渐渐沉寂，只有月亮的影子在水中摇晃”是单纯的动态描写。",
       "options": [],
       "answer": "错",
-      "explanation": "这是动静结合，通过月的摇晃反衬环境的宁静。"
+      "explanation": "这是动静结合，通过月的摇晃反衬环境的宁静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/ded6d30aa0451f157c2afec568de3f616739816c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11fc795ce39597b1a64f7789a85c1fff9668fcf7.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "外貌描写"
       ],
       "answer": "动态描写",
-      "explanation": "描述了小艇的动作以及对环境的影响，属于动态。"
+      "explanation": "描述了小艇的动作以及对环境的影响，属于动态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b7c7fd4451da528a57520162a83e020e696e20e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2349b821efdd031bb741318598f69d1181eecc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a4c55c6a28d25b86ec4343e5db5b329e972457c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3d568abdf402a96861ccf53684618a13dbbba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7fcc659c1963839dba0a4b902f6535eff51e808.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54e4e65f1717f83feb90dc839940026f0bb5947d.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "大声叫喊，也没人答应。"
       ],
       "answer": "狗不叫了，圈里的牛也不再发出咀嚼声。",
-      "explanation": "通过声音的停止，反衬出深夜牧场的万籁俱寂。"
+      "explanation": "通过声音的停止，反衬出深夜牧场的万籁俱寂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f136457cb0a9353bea72331d44edbc6c431100db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c1ee78ae5b165a51aa8f6026046bbefbfc869be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62b630db84ac3a9cd07ff1cdb75f2d43de3b4ddd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48a021d488a668d970486abcbdff3e23b3d3b2e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/448f33a3ebcd32a97c324d468c851abafd4d96d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/875b00195a6848d48c2722858b0baacf0e0c6db3.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "描写夜晚威尼斯静寂的画面属于（___）描写。",
       "options": [],
       "answer": "静态",
-      "explanation": "对环境静止状态的描写称为静态描写。"
+      "explanation": "对环境静止状态的描写称为静态描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6af562194fc79afe4785c07975a9ae468c380a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b693f4d79ebd9e3adb4aa1a1f19556170eb450a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "分不清背景中的微动和主体静止的区别。",
       "认为描写声音停止只能算作静态描写，不理解‘以动衬静’的艺术手法。"
     ],
-    "tips": "朗读课文时，尝试把表示动作的词标成红色，表示环境状态的词标成蓝色，对比画面的变化。"
+    "tips": "朗读课文时，尝试把表示动作的词标成红色，表示环境状态的词标成蓝色，对比画面的变化。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/38/38aa85389bf71e441602effe3408c829660716fd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/21/211a0b7d0c132d0e8900b06d45edb4a9636543fd.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fd/fd6d5648fbe828148fd1fd23b3854f29e0826279.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f0b26923d00e333ef43ccb8387fd5ac525b585f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/65/65ce11399ad87c0a7ff4a30a07c49e704b88a125.mp3",
+        "https://api.clthuanxie.cn/cc-audio/91/91c5b2e4cf7c68c785aeb59bd10ca45788cd0476.mp3"
+      ]
+    }
   }
 }

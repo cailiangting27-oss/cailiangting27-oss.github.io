@@ -16,7 +16,11 @@
       "question": "步行走 1 千米大约需要 15 分钟。",
       "options": [],
       "answer": "对",
-      "explanation": "成年人步行 1 千米约 10-15 分钟，符合实际估测。"
+      "explanation": "成年人步行 1 千米约 10-15 分钟，符合实际估测。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc8de2d274e9e0da490ad4e81043d2d5a9141718.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b9b0fb0dd271bf6118cafa168662c464aa3f61b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "1 分米 = 100 毫米。",
       "options": [],
       "answer": "对",
-      "explanation": "1 分米 = 10 厘米，1 厘米 = 10 毫米，所以 1 分米 = $10 \times 10 = 100$ 毫米。"
+      "explanation": "1 分米 = 10 厘米，1 厘米 = 10 毫米，所以 1 分米 = $10 \times 10 = 100$ 毫米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af1bbb70ef995cc105bda56cba5547cd6dcf7e5c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6a9168d3d4bfab566cab917fdebb9a117f3503e.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "直尺上从刻度 “1” 到刻度 “3” 是 3 厘米。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是 $3 - 1 = 2$ 厘米。"
+      "explanation": "应该是 $3 - 1 = 2$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15ac288d45703a7d332ff6d017f99187913a440c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76b98c02c71a412514fd0675f0f11d65208c0e02.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "质量单位之间的进率都是 1000。",
       "options": [],
       "answer": "对",
-      "explanation": "小学阶段已学的：1 吨 = 1000 千克，1 千克 = 1000 克。"
+      "explanation": "小学阶段已学的：1 吨 = 1000 千克，1 千克 = 1000 克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddf1fb49e23c4bac9ad9c45d10f6fa58850f1e23.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f477f47dd2087d7098b680f7550517921b301289.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "80 分米"
       ],
       "answer": "800 米",
-      "explanation": "小学生 10 分钟步行的距离约几百米到 1 千米。800 米最合理。"
+      "explanation": "小学生 10 分钟步行的距离约几百米到 1 千米。800 米最合理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/965a75fc73ff0547080703a662fb1f915dafacfa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d6d056f51ba72495a0b10e52d13bfd188a85bcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4ba0b2e3511e5ae675291240c2e1d66b83e170f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fb88df64df9546d6232c9ae89573f914ac856de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514ef25f455e4a9dd9af930047ccb5d6b72fee14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd638b01580b52e2913368acaf8cb352d990161a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无法比较"
       ],
       "answer": "一样重",
-      "explanation": "1 吨 = 1000 千克，质量相等，虽然体积不同。"
+      "explanation": "1 吨 = 1000 千克，质量相等，虽然体积不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/2352839f80584d02dd1113ef58e9c23610fa887f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/5324c3ed5ebb6b108bf58f72fc079a9846c9499f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df3ef381c6f49866baf7ac6379b9038bc863de8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/634b186d1196ce996f2f88cfebc3013bdcc372a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbf131239af52c78bd9b108be7006d66ae5b530f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "4 次半"
       ],
       "answer": "5 次",
-      "explanation": "$18 \times 4 = 4$ 次……余 2 吨。剩下的 2 吨还需要再运 1 次，共 $4 + 1 = 5$ 次。"
+      "explanation": "$18 \times 4 = 4$ 次……余 2 吨。剩下的 2 吨还需要再运 1 次，共 $4 + 1 = 5$ 次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1bad85ff1376f9c87593c7f7d5013c6af20dc54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6350c687bd070d040073c2eebe980ba3ee7e070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79143054c9c3b220109449dd45f7f850b7931ec3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e775d1de1330fb16cdb9fd6ff2ab92199c5c44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c670485706b48559aef043c453b8f143ed6d31ca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef5b968ba57ba80171e5c274533aa65a37ec6f52.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "1000 千米"
       ],
       "answer": "1 千米",
-      "explanation": "计算：$100 \times 10 = 1000$ 米。1000 米 = 1 千米。"
+      "explanation": "计算：$100 \times 10 = 1000$ 米。1000 米 = 1 千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96bce2ac637894c53c5b74fca2e4f8418d9c5cae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53583b17f53bec7f3f0927ac13562ecacdedfeff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e56683851654213c189c6c2face52b71c544a80d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9116f06aab7c4f27d81e9221b5800937668eebe8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22270ded6a03a5cc82707eec3006a97aaa62cf74.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86ff6b6ab6db72783751e684f5aca4cd2d9ca85b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "15"
       ],
       "answer": "5",
-      "explanation": "$1000 \times 200 = 5$。验算：$200 \times 5 = 1000$ ✓。"
+      "explanation": "$1000 \times 200 = 5$。验算：$200 \times 5 = 1000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f70271ebd375a3394e2469abb0f1cc51b00fae93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5323286aa086fb6df80e19a8ca5eeb869dfc70f9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "都相等"
       ],
       "answer": "20 毫米 < 20 厘米 = 2 分米",
-      "explanation": "统一单位：20 毫米 = 2 厘米；20 厘米；2 分米 = 20 厘米。"
+      "explanation": "统一单位：20 毫米 = 2 厘米；20 厘米；2 分米 = 20 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60c0c3a04475f7c210a5c31b391e9851a3e469d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/674fdf142e32e1153dc9a60d327961713000bf5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7893bede2eb8d75b8d9e737b043d656467e57125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0596340196f99e9145b28a66dbec2539165746c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa7c54dcde6caabc79ec8902d4019598d5403076.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f7666f6d93b66927c61f8d6653e3be7f18022ad.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "1200 吨"
       ],
       "answer": "1200 千克",
-      "explanation": "2 吨 = 2000 千克。$2000 - 800 = 1200$ 千克。"
+      "explanation": "2 吨 = 2000 千克。$2000 - 800 = 1200$ 千克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62ec2d7e83b8d6c264d3902943f733d9cd71e595.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80f460d6a0ad766121097e21dde0a9cf4e29d56b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da1f92285ad9611ebacbab8684219080b796dd75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b3778e7db61391e004885011726cd7b711acff1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/971912231dace5ad31b92038357afbb76a6c807c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ce520404c10b80d271fbd1b997e7437946db7d9.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "10 厘米"
       ],
       "answer": "2 分米",
-      "explanation": "原来长：$5 + 15 = 20$ 厘米。20 厘米 = 2 分米。"
+      "explanation": "原来长：$5 + 15 = 20$ 厘米。20 厘米 = 2 分米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1facd5c729e932689b2f26ac462693d4bbabd81.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed896939c60ccad75a60f270f9b45e7889bb7a1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de27999bb0e39f08d3bcbd65f18665847336b765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b9b5b9e349a6c7fef768d6196c9fe1ad93c406b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c49b8bcc81b7d50468a458233388afbca995312.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64f2c65b303a6ee93e7bc00f09a7b83bb300d7bb.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一根木料长 3 米，把它截成 5 分米长的小段，可以截成 ___ 段。",
       "options": [],
       "answer": "6",
-      "explanation": "3 米 = 30 分米。$30 \times 5 = 6$ 段。验算：$6 \times 5 = 30$ ✓。"
+      "explanation": "3 米 = 30 分米。$30 \times 5 = 6$ 段。验算：$6 \times 5 = 30$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d8a0fed6482ab2f9baa1ba8ce35429b7a558182.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7a8031759cd6eb82da3373034dd81f67c92c6ed.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "某种矿泉水每桶重 20 千克，50 桶这样的水正好重 ___ 吨。",
       "options": [],
       "answer": "1",
-      "explanation": "$20 \times 50 = 1000$ 千克。1000 千克 = 1 吨。验算：$1000 \times 50 = 20$ ✓。"
+      "explanation": "$20 \times 50 = 1000$ 千克。1000 千克 = 1 吨。验算：$1000 \times 50 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0bf170e9bc293aa4327f57aaa1306894226c2daf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3654b7ab08a712fcdac3d97d5dfbf4f2932e3dc2.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$1000 - 350 = ?$",
       "options": [],
       "answer": "650",
-      "explanation": "$1000 - 350 = 650$。验算：$650 + 350 = 1000$ ✓。"
+      "explanation": "$1000 - 350 = 650$。验算：$650 + 350 = 1000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8cec4e98abebdae6a300a0e890b03b2119bd3970.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a93ef41caf70574686782f6c2eae95a9924f5bec.mp3"
+      }
     }
   ],
   "knowledge": null

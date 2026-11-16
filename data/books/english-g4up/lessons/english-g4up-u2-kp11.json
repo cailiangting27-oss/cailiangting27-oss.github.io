@@ -21,7 +21,17 @@
         "near"
       ],
       "answer": "on",
-      "explanation": "放书在头上，动作方位应为on（在...上面）。"
+      "explanation": "放书在头上，动作方位应为on（在...上面）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/9554902292c4c91b0d3f38b2704effb0fb83a680.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c46683a8f9c86808adc4afc876b3900a6dcca6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbb14766a95103668c851338e8667653bb91dbf6.mp3"
+      }
     }
   ],
   "knowledge": null

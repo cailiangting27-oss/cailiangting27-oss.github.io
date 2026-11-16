@@ -16,7 +16,11 @@
       "question": "种子发芽必须要有土壤，没有土壤种子绝对不会发芽。",
       "options": [],
       "answer": "错",
-      "explanation": "种子发芽需要适量的水分、充足的空气和适宜的温度，不一定要有土壤。"
+      "explanation": "种子发芽需要适量的水分、充足的空气和适宜的温度，不一定要有土壤。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cfed0700fa39088fcd92cb4d87ec8a3c4d7d824.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e2967d972e08355e966fa0ddd52a6172681db08.mp3"
+      }
     }
   ],
   "knowledge": null

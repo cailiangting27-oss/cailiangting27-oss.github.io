@@ -16,7 +16,11 @@
       "question": "“人声鼎沸”这个词形容人声嘈杂混乱，像水开了一样。",
       "options": [],
       "answer": "对",
-      "explanation": "“鼎”是古代煮东西的器物，“沸”是开水，形容人群声音嘈杂。"
+      "explanation": "“鼎”是古代煮东西的器物，“沸”是开水，形容人群声音嘈杂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/250ab8795b11301daf7f0c3dd6e97dbd19f52f20.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a51a7a29a04e908c7cd3984f4908803efdf58ed0.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“鸦雀无声”和“震耳欲聋”是一对近义词。",
       "options": [],
       "answer": "错",
-      "explanation": "“鸦雀无声”形容非常安静，“震耳欲聋”形容声音巨大，它们是反义词。"
+      "explanation": "“鸦雀无声”形容非常安静，“震耳欲聋”形容声音巨大，它们是反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2e46c8520ca296378e064b27bc5f9870a401b45.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1af944e5be688d41ff150ad38e3630d7b92d27ee.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "山崩地裂"
       ],
       "answer": "低声细语",
-      "explanation": "低声细语形容说话声音很轻，其他项多形容音量极大。"
+      "explanation": "低声细语形容说话声音很轻，其他项多形容音量极大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97d52f4f929c07a7ef366b734467a4f39a6594e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1beb8c56ee05cd90a54b782da27019b3fe36a072.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac79a3e60a08aff7ca898f2d0e4dac7119c3001c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ee253d9f9121dba3eeda9bb42d73a768efc65e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77f033e1bf701f3209975b85c6d3470b8fae11ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a220148fd2f25f8a45e7903846eec7d1c5f77e9.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "北风呼啸"
       ],
       "answer": "闷雷滚动",
-      "explanation": "这是《观潮》中的原句，形容潮水初现时的声音。"
+      "explanation": "这是《观潮》中的原句，形容潮水初现时的声音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f2a1692ec03292e87521bb2d686b0e990af55da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9af44449f78dbc068204b0d3af6b60d834d8169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/630020606373198ba7d6faa051493d1820a37d71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a750012486224e503799ddec5a15379e0c547e91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4820dc1d2d546d1c95835567f2f98b0ea5275d0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0239731d6950bc32260bcb2abafdaa71286162df.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "响彻云宵"
       ],
       "answer": "据说、庄稼",
-      "explanation": "C项应为“震耳欲聋”，D项应为“响彻云霄”。"
+      "explanation": "C项应为“震耳欲聋”，D项应为“响彻云霄”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a1a4fe1bd8e69c9e8a7226fc7cde2045b5f4353.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a8b7ecf928267f38ca50f6bdbf5de09ec383dad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a623773aceb5d91a31c6fdda9ce90ca19cc73437.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef205d7b8d70bfd0f064925305215b29be0578ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2551beb58ef114e507098f800932c8ca75fe6cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3b5bbdedf79057f1ba7f65d4c4ad7c8725c31b6.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "唱歌跳舞"
       ],
       "answer": "小声嘀咕",
-      "explanation": "“窃窃”指细小的声音，“私语”指私下说话。"
+      "explanation": "“窃窃”指细小的声音，“私语”指私下说话。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e08816eba89836d819d1614458eae2105f5762d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/8167191a35754c1bfbef37cae69f58713cfbd07f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b3ad24f1521885cf8f409efc09c2c3dcf0c82b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9da6b3e4eadc37a39a620e98b89c7d95c1defa4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76b8d99ebf6d8c9ea6134d0df79fd7251aab852b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5a58d572cbff21ca052bd914cf691deabeb20e2.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "形容声音非常响亮，好像快要把耳朵震聋了的词语是（____）。",
       "options": [],
       "answer": "震耳欲聋",
-      "explanation": "考查课文重点词语的词义理解。"
+      "explanation": "考查课文重点词语的词义理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/725ff9a82c9200b8927c24a109a5a025d5edbc70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66519a9ee85673745c23cde1e6aed4e3b12d3694.mp3"
+      }
     },
     {
       "id": 19,
@@ -122,7 +174,21 @@
         "人多嘈杂"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "A连接小声说话，B连接声音巨大，C连接人多嘈杂，D连接安静极了。"
+      "explanation": "A连接小声说话，B连接声音巨大，C连接人多嘈杂，D连接安静极了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff931193b6bf8dc1a295c17eb536f8efd3050c9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6ee253d9f9121dba3eeda9bb42d73a768efc65e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77f033e1bf701f3209975b85c6d3470b8fae11ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1beb8c56ee05cd90a54b782da27019b3fe36a072.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96137fbd2ac122ac00b116a33d04acbe349d56aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd1f38755ba06873b60de7cc6809c45dd84d332.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3421e116e49a5e1ef517004d0b3dcb99b18fe3df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ab5faaa252e5c78a24a25f94191a613fa1ba85d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38e431b1e14b561b47b70583eb9b1a347a0de6a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82cefc15fc0f381225a0bc6d12c8e7faefa99d7b.mp3"
+      }
     },
     {
       "id": 21,
@@ -142,7 +208,21 @@
         "好像"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "顿时对应立刻，犹如对应好像，庄稼对应庄禾，宽阔对应广阔。"
+      "explanation": "顿时对应立刻，犹如对应好像，庄稼对应庄禾，宽阔对应广阔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e143b27ce48986d6629ed48dc8c77c513f350165.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9a8fbdacafd34760cc2c04315f6f42f63bf0182.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4921c16f03a7da54748c805614495a57a8b95619.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/230d15d87eb5a3874bc39f6b15cdea8cd25b6f47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea5b4074592081b99711535ec436adea658f49d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b119dcd015c444c8f41829ce8406dc1fabce02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57b1f7c1bc5c5bb21c0a21b44e8103d3e783cd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93c779b3526cf672c4c34c25e424ce3cfd123560.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/041005a1deede88a44d2528f82e6aeaccfbea78f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a5a075537f1788b958b5cafb560ee37a2e17bd3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -153,6 +233,16 @@
       "混淆词意，如在描写静寂时用了“人声鼎沸”。",
       "书写笔画错误，尤其是“鼎”、“震”等生字。"
     ],
-    "tips": "采用对比法记忆，如将“窃窃私语”与“响彻云霄”配套对比记忆。"
+    "tips": "采用对比法记忆，如将“窃窃私语”与“响彻云霄”配套对比记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2f/2fdba3ff0c0e9075ef04e023eea5cf792d187114.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1d58d6789c71ac5a6a6681c3a3d294c560619e94.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/81/81e2d50bc96a9457693d8496037505fc72dca8e4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/00/0025f23dbd6c079ba77b14a6242875b6b384caf2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4f/4f1a99551779815bfcaccecabb3d7a7f7f660f48.mp3",
+        "https://api.clthuanxie.cn/cc-audio/59/5960b99a7bf57f60b581e8487e7b973b042b299a.mp3"
+      ]
+    }
   }
 }

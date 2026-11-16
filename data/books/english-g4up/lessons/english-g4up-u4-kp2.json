@@ -16,7 +16,11 @@
       "question": "回答 'Is she in the study?' 可以用 'Yes, it is.'",
       "options": [],
       "answer": "错",
-      "explanation": "问句主语是 she，回答也应使用 she，即：Yes, she is。"
+      "explanation": "问句主语是 she，回答也应使用 she，即：Yes, she is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73cbb7e9789a29a813dcbf4dff70b2995d584e69.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d19d20f7b423baf1ba28660f4027b81077e3f0a6.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "He is"
       ],
       "answer": "They are",
-      "explanation": "keys 为复数形式，其代词应为 they。"
+      "explanation": "keys 为复数形式，其代词应为 they。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/978a80b374234d04fa0180ae5d1cfa088415ab5e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3dd5d5b49f19e1af8608ede7c4aa585a51f279cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575cba7c3d2a4f05af0b23b6785df1f3c6b44a28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ecff6827d0f1f085e01172bf7fb8ee55cf55d0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac33a3b6d5bb8e3d619338b805b9ede83faac80.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7db13e9fb3f9a50a4ad9434c81ea094c2031a39.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "Yes, it is not."
       ],
       "answer": "No, she isn't.",
-      "explanation": "一般疑问句否定回答为 No, 主语 + isn't。"
+      "explanation": "一般疑问句否定回答为 No, 主语 + isn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e077c8588bade24f33d0861c65c58fc68b12e041.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46f00fca41c63a4e2ddcfea9ad1c5b2179f55271.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d650a4514cd328a47d17426b4b79353e83e2bfc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52b2bf6ce73ffb355c941aa7e18c4abe01d45fb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbe24c462fc2102612dd5c4950fe6cb9c5e7968.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd5063e89c506f01d71d104994c0eac7afed765b.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "books 是复数，对应的 be 动词是 are。"
+      "explanation": "books 是复数，对应的 be 动词是 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a94afe9ec984dfbe0d42d56c7620226e97553a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b503bf840c17c026b14490f711dc680470fe5a6.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "Is she in the kitchen? No, she ______ .",
       "options": [],
       "answer": "isn't",
-      "explanation": "is 引导的疑问句否定回答为 isn't。"
+      "explanation": "is 引导的疑问句否定回答为 isn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b7a34cb2acbe66af3b6a7f90f32c5e7119659d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3fbe1573c759fcf59d7b01bfb91d481f6e82095.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "______ is the cat? It's under the bed.",
       "options": [],
       "answer": "where",
-      "explanation": "询问位置用疑问词 where。"
+      "explanation": "询问位置用疑问词 where。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/348f66a4266935e328502528e1911c31f9605545.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcceca37d455c8b57fd1bc93008246b3715a8629.mp3"
+      }
     },
     {
       "id": 22,
@@ -103,7 +145,18 @@
         "study?"
       ],
       "answer": "Is,she,in,the,study?",
-      "explanation": "一般疑问句 Be 动词置于句首，后接主语和地点。"
+      "explanation": "一般疑问句 Be 动词置于句首，后接主语和地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76fba6187551e8bdb22ccea784c46cd8040daa23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56f00ed988b8cb669ec75a22a5425b5aa6b0f864.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/825de7ee34e94bea0db68fa5d4640f6652bd4529.mp3"
+      }
     },
     {
       "id": 23,
@@ -118,7 +171,16 @@
         "aren't."
       ],
       "answer": "No,they,aren't.",
-      "explanation": "否定回答格式：No, 主语 + aren't。"
+      "explanation": "否定回答格式：No, 主语 + aren't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0eef9e0257bd1e55f079624e281bb0dbf85e6fbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/816c52fd2bdd94a63cd0944823a6c0aa9384c103.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1fdd46d8d229558fa889e1610ec4ca9adc25328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66a83c249d19e7cd34d6c7a636e311628fd612be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c81a04dd2a9d476a73bcf8b854f52162912fa91d.mp3"
+      }
     }
   ],
   "knowledge": null

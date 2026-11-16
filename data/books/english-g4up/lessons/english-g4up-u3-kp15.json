@@ -21,7 +21,17 @@
         "box"
       ],
       "answer": "note",
-      "explanation": "write a note意为写便条，且note符合o-e发音规律。"
+      "explanation": "write a note意为写便条，且note符合o-e发音规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff6da05b8d387b3d57a0441d94fb9277a2bfb1b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51048b7325d60e326d19a9cfbeff2577be1672e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7d8a6d722a1ec9a16fae165177c418d4fd63175.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3c220e080f7dfd69db44f3f7fa417112ea29da0.mp3"
+      }
     }
   ],
   "knowledge": null

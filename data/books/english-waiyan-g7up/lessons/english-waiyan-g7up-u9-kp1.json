@@ -21,7 +21,15 @@
         "beatiful"
       ],
       "answer": "beautiful",
-      "explanation": "beautiful 美丽。"
+      "explanation": "beautiful 美丽。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/6393bcdfe36c140e8877cfaef37733531ab7fab4.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/30/30adc70c921ee013c26129436ad08d7f2247b4ea.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 2,

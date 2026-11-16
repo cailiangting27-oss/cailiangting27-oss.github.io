@@ -21,7 +21,17 @@
         "1"
       ],
       "answer": "8",
-      "explanation": "三面涂色的小正方体位于大正方体的8个顶点处。"
+      "explanation": "三面涂色的小正方体位于大正方体的8个顶点处。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38b3cecbfe37db7fa72c0dd3daf614ef14999d40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba9da1beec3263347f8af02ac522467c90f3ff8d.mp3"
+      }
     },
     {
       "id": 18,
@@ -37,7 +47,17 @@
         "36"
       ],
       "answer": "27",
-      "explanation": "$3 \\times 3 \\times 3 = 27$ 个。"
+      "explanation": "$3 \\times 3 \\times 3 = 27$ 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e188dbef3082ba1e8711a63e8a3f7dc1a974beac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96b2ffbc26479a611db7695debd179b022878922.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "死记硬背公式导致在不同边长时应用错误",
       "忽略了三个面涂色的小正方体数量始终是8（针对标准切割）"
     ],
-    "tips": "想象切西瓜，最角落的西瓜皮肯定涂色最多，中间的完全没皮。"
+    "tips": "想象切西瓜，最角落的西瓜皮肯定涂色最多，中间的完全没皮。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0b/0b144eb095571ccfe64966fe29cb2991cf0297a1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/06/069c3a4b2583ea0233422befe3cacab306f11624.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/28/28931548d625fc2eddd1b4f375ed21b929b5d3af.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/06/06b71d5539f5bfbc2b8e43a47fc8f47055fc607b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/77/770d5724acfd5d4df5843da29c4e637c3e5a0718.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6f/6f89060a83d9f08cbb5704fea7e56e5da20c92c6.mp3"
+      ]
+    }
   }
 }

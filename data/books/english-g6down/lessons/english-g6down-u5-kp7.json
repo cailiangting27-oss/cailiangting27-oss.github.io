@@ -16,7 +16,11 @@
       "question": "'last weekend' 通常与过去式连用，不与将来时连用。",
       "options": [],
       "answer": "对",
-      "explanation": "last weekend意为上周末，是过去时间的标志。"
+      "explanation": "last weekend意为上周末，是过去时间的标志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c25ccea29be54aeb7178ccaf2648c9f3f8664f2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de9660114318e7424a6a7905c8b8115262ff3062.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "go; was"
       ],
       "answer": "went; am",
-      "explanation": "第一句有Yesterday用过去式；第二句有Today且主语是I用am。"
+      "explanation": "第一句有Yesterday用过去式；第二句有Today且主语是I用am。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4350a35fff5ef685f09c8ba0d16c9e87ae76d1b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e904f557e662843a5fce12cf8c17f6c87a82a993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1f0cc8033c656444162f8c0cd1b0144bbf26a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/171d1052d4dcad27d7358ca5a8cc517135026ef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/667c47033667989f4a7b265094484998770ef1a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72502f06d7cf570ec2e3a5a80e19dc7b115843f3.mp3"
+      }
     }
   ],
   "knowledge": null

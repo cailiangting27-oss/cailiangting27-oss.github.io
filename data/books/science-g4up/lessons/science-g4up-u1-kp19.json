@@ -21,7 +21,17 @@
         "遇到巨响张开嘴巴"
       ],
       "answer": "长时间戴耳机听歌",
-      "explanation": "长时间近距离声源刺激会损伤听神经和鼓膜。"
+      "explanation": "长时间近距离声源刺激会损伤听神经和鼓膜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fe43a5f88640ca4ff18a16d2bb4c47be6fde28e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aea6c0a30e57ba894841df42a617708cd4c3a932.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/773807177c1be891cf664ecbb785ac4e84057ac9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4475de865977d6b1816b4d0ab6232d4b02efddc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87b4b0e6d5da92e0266a062f3a64fdde96e8a2a9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/2448506009cf706c1ac031598b5b06dfac363fc5.mp3"
+      }
     }
   ],
   "knowledge": null

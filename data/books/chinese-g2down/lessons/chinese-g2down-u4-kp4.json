@@ -21,7 +21,17 @@
         "兴高采烈"
       ],
       "answer": "愤怒不已",
-      "explanation": "“愤怒”表示非常生气，而“喜出望外”和“兴高采烈”表示开心，“垂头丧气”表示失望或丧气。"
+      "explanation": "“愤怒”表示非常生气，而“喜出望外”和“兴高采烈”表示开心，“垂头丧气”表示失望或丧气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fea906e5840e23c3aed7409660643469a6d5bd6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c59343d580e9cb0eb9d9d2589a5eaa7052ce33d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b10009a2e9990303c5ea06df60b928882df57da8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cca761bc70b9e3039a7d914867889c4e69f9de42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af9fda6604a3c2679e46586d85d361bed83a72e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d2ea8959b5458eb3a23ecdaea87c867dba43c96.mp3"
+      }
     },
     {
       "id": 19,
@@ -41,7 +51,21 @@
         "青"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "碧绿，火红，葱郁（青色），雪白。"
+      "explanation": "碧绿，火红，葱郁（青色），雪白。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e28d507eb4dc833a9d1e160934a13a183bbaf31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48c7d8f670aa42783abacca70c254aee8c03a4a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb2620838c4f431a7d9e61441bd2445543f4731.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e263aa25e3b67a049a1da0fdbd588a688ebaf4c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e3127724b85b4f938f73d079f80e3f3a8c138c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/579625d5ac904b19e88e39e3d52652e8a067513d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1ae3cda4beb527944d6ae143126619809788c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/845d1da87f89db6df3088b8e93bb9e9af2ab7ebd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fd295003cc4226e6446ee409dc33b3fdc2523a1.mp3"
+      }
     }
   ],
   "knowledge": null

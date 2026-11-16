@@ -16,7 +16,11 @@
       "question": "在复韵母ai中，发音时口形是由a滑向i的。",
       "options": [],
       "answer": "对",
-      "explanation": "复韵母是由两个元音组成的，发音时要有口形滑动的过程。"
+      "explanation": "复韵母是由两个元音组成的，发音时要有口形滑动的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e426a852196c463ba416b2e055500a87b5d4b4da.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99c5fb11fdc7a8d59e0620d0681b5822d4d53cce.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "ei和ie的韵母是一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "ei和ie的字母位置不同，读音也完全不同。"
+      "explanation": "ei和ie的字母位置不同，读音也完全不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52f59a3ad31730a4c708d01a1a3b3f48a7681e3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3ab4c9035c6a3619eb323524d0f61fcb5ba9cefa.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "太阳"
       ],
       "answer": "开水",
-      "explanation": "水读作shuǐ，含有复韵母ui。"
+      "explanation": "水读作shuǐ，含有复韵母ui。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/0835931db222650887dad5262d0fcd92de1ae065.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e0d9f87a527b3ffdb0ea93d019361bc783ca94b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c10aaaee29de21ed1ce56f601c350bc9e10f4394.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e3db8e8332dd08be99ede45651b69aa7dbf064a.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "ui, en"
       ],
       "answer": "iu, an",
-      "explanation": "秋读作qiū，天读作tiān。"
+      "explanation": "秋读作qiū，天读作tiān。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b605d0c7dfde5884efb6222b9649c2eb3199325.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91f4042c2397e50ebd99ccdd716b9d9ca3d77471.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f0d4259e8fa0d821749449e75d77f319cdf169c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4b98fa2b08596b12f8226b44731d0d1a8727f98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/448c43bb7c4f6761b6781b7acf941dc9711a86c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fdaf4e31d894c737c48e235775d8d2b0cb3ae4e.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "io"
       ],
       "answer": "iu",
-      "explanation": "九读作jiǔ，韵母是iu。"
+      "explanation": "九读作jiǔ，韵母是iu。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e20c6db7fb174436165c48ed02f222ca35b69b52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5f10c9bc8370694a415ccbaabcb062e36948c5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6566243318e061e342a45debda4dd0d8cd48df9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/636117b25f17da7e91194e091cdb8dc49769a815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a258230180d9c643f761089d7e33b8b52288ed3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65a43280094dd783f49bdf6951f59fccaed04249.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "h-o-a"
       ],
       "answer": "h-u-a",
-      "explanation": "花hhuā是三拼音节，声母h，介母u，韵母a。"
+      "explanation": "花hhuā是三拼音节，声母h，介母u，韵母a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6d518fe9e16aa102e1e8b4596f2747770154dd6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a372abc802e858578f093d34d80ece90180038e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4942e3e58777880b5b7d668b919da2d853d0709.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9241f119eeb8715470d442b658a3f6522512c440.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d225b962378c9bce3f6c1ebeb44217bf862ce776.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2c9ffdfa1e77d5e61b0ca2abaf9a0baf3d1585e.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "uo"
       ],
       "answer": "ao",
-      "explanation": "老lǎo，草cǎo，好hǎo，韵母都是ao。"
+      "explanation": "老lǎo，草cǎo，好hǎo，韵母都是ao。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22bc50bd8cb36c07ad462e44d60eaf795c340c46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5f10c9bc8370694a415ccbaabcb062e36948c5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c29dd6c83b67a1d6d3b28588a1f068b68689aa1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/141a92417f71895e56c4a5da05f3e98fc78e2220.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/628b7c6524b37f68307c5fafd6b82071921fa4d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c318762fdbfe44a0ce7ed2216713d1f04b7e1fb0.mp3"
+      }
     },
     {
       "id": 15,
@@ -123,7 +181,17 @@
         "ua"
       ],
       "answer": "ao",
-      "explanation": "猫māo，韵母是ao。"
+      "explanation": "猫māo，韵母是ao。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78b082889b0907881f14dc4bc8c8e00ea6a4c541.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c29dd6c83b67a1d6d3b28588a1f068b68689aa1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5f10c9bc8370694a415ccbaabcb062e36948c5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/628b7c6524b37f68307c5fafd6b82071921fa4d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1589fe079bb1b8fe338100a82173e8ab8ccb0caf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07e093e76c815c6e68e6fdaada19797b024cd4d2.mp3"
+      }
     },
     {
       "id": 16,
@@ -134,7 +202,11 @@
       "question": "‘梅花’的‘梅’字的复韵母是（___）。",
       "options": [],
       "answer": "ei",
-      "explanation": "梅méi，复韵母是ei。"
+      "explanation": "梅méi，复韵母是ei。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57b808269c518c44477cc3e0d13c101921dd6219.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/609fc774afa8124d656fba111d5e2afd68b2c3ba.mp3"
+      }
     },
     {
       "id": 19,
@@ -154,7 +226,21 @@
         "fēi"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "飞fēi，外wài，六liù，回huí。"
+      "explanation": "飞fēi，外wài，六liù，回huí。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03da741e678c40708e8e8808830aee802151d072.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/322b8afdf9f2d12dcdea10147f22846e2742b24b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e0faa1d83320b870c6f9089b642c7b2eeb9797c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d72c724e03b360484cd7a9000f14544b50a0957.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b722ab4152c046f9d7a9b075028537bfe537d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17a6acdf06f2d4aa0ef08b360d50df0f4c0cb2d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d030b16f28800dcaddf211db67af9586523714a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2fb9ec8d2463aa6b781b37b8654bc9ad29687b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/489846a791ae97c89852f0ae719e8ddd7bf6fc27.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/644ec4a25b39111cabae925377e075b3010fa101.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -165,6 +251,16 @@
       "将ui读成iu，或者将ei读成ie。",
       "发音时口形僵硬，没有滑动过程，读成两个独立的单韵母。"
     ],
-    "tips": "记住‘小i在前ie ie ie，小i在后ei ei ei’。观察口形，先发第一个字母的音，再快速滑向第二个。"
+    "tips": "记住‘小i在前ie ie ie，小i在后ei ei ei’。观察口形，先发第一个字母的音，再快速滑向第二个。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2a/2ad8bef6f9851698b3b037f3406156237d80a616.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/81/81e6091d82f016b9571777874607a613aa03688a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e6/e6ada75cf8f095f8680f42233c161618e3ed8907.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5b/5bb9ecf239c2b571569c3e65d1e7e8d9ae71fb22.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/44/44f0c6837d30dad754728d375b57d6418f5c7267.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d7/d73357e28d83c6e1b3d2b10b6fbe89e2f53074a4.mp3"
+      ]
+    }
   }
 }

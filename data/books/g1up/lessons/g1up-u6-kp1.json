@@ -16,7 +16,11 @@
       "question": "从右边起，第一位是个位，第二位是十位。",
       "options": [],
       "answer": "对",
-      "explanation": "根据数位顺序表，右起第一位是个位，第二位是十位。这是基础定义说明。"
+      "explanation": "根据数位顺序表，右起第一位是个位，第二位是十位。这是基础定义说明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/9189a88b7beafe31815459a66a5184ce7d38f4b7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44994d46359cb8e7ac35fc0b94d61646223527dd.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "2个十是20。",
       "options": [],
       "answer": "对",
-      "explanation": "1个十是10，2个十就是 $10 + 10 = 20$。"
+      "explanation": "1个十是10，2个十就是 $10 + 10 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52514f30e1a714ea629aeff99447314393e5d479.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e032827611a8526d25f5151b1f462c22b747b15d.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "5"
       ],
       "answer": "15",
-      "explanation": "十位是1表示1个十，个位是5表示5个一，组合起来是15。"
+      "explanation": "十位是1表示1个十，个位是5表示5个一，组合起来是15。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf2f3cb47c56bc87d63c4be13eb99109e49fca1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7eb6c689c037217079766fdb77c3bac3e51cb4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df497376e70283558470f501d4761ae495a947e8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "分不清数位顺序，以为左边起第一位是个位。",
       "理解偏差，认为20个一就是1个十。"
     ],
-    "tips": "可以通过捆小棒的方法来记忆，10根捆成一捆，一捆就代表一个十。"
+    "tips": "可以通过捆小棒的方法来记忆，10根捆成一捆，一捆就代表一个十。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d6/d6e399c2739c422222df8416506367220d25f27e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/21/210d414b9a0bb88ca36a5b28047e26c895810ab4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/82c8f884d00089225441e4e9b9024717e10f76a4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c1/c1fd06f674e98d4c21cddc89f184232f1159afe4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c9/c95d115b03475dfe1d029bbe7d41a7bd9f0bbc0f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e2/e2e453fc3f8adddceab0530262a964567a6389d9.mp3"
+      ]
+    }
   }
 }

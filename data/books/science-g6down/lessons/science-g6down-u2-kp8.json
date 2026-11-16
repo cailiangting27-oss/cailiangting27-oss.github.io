@@ -16,7 +16,11 @@
       "question": "变异在生物界是普遍存在的，而遗传只发生在特定物种中。",
       "options": [],
       "answer": "错",
-      "explanation": "遗传和变异是生物界普遍存在的生命特性。"
+      "explanation": "遗传和变异是生物界普遍存在的生命特性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/092afe00115a944bf858a0c038e619bf67341d1b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e536899edc3caf1a06837430934b97d6602cc76b.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "金鱼不会产生变异"
       ],
       "answer": "金鱼形态各异是人工选择和变异的结果",
-      "explanation": "人类利用生物的变异，通过人工选育培育出了品种繁多的金鱼。"
+      "explanation": "人类利用生物的变异，通过人工选育培育出了品种繁多的金鱼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4af9d712c5f14f61bcf0f38a520168974e36ab48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0a33b444382c8c1718bc98e86816d8902d1bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c5b8f8a7304863f70bc754ca79bcddb79199628.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de890fef3149da86a7ba43d28052bc23cf83db32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/427296796bf7ec1a2ecc035fb0bda9a5182a50af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ec8c958ce41e90f1954644dc20c215e4f7b4ffa.mp3"
+      }
     }
   ],
   "knowledge": null

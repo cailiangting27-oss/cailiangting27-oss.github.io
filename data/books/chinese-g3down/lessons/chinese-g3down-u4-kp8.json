@@ -21,7 +21,17 @@
         "忽然"
       ],
       "answer": "忽然",
-      "explanation": "首先、接着、最后是顺序词，忽然是转折词。"
+      "explanation": "首先、接着、最后是顺序词，忽然是转折词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3920c0552d427e5d7e1fc1d2a59cef3fbf4877fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3502f0a0a633135ce3f60e45e13ac98e2f6bf25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e1ea102415e08313acf1254273999e1fb5c230e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/321e225c634ecac2754dc42607f6642098aa91c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef73fab97f3a042d5f4cbc328bcb3dacf0cf2b2d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c952948dc0ee8edaed2bfc8d29de28b50ebf4a4a.mp3"
+      }
     }
   ],
   "knowledge": null

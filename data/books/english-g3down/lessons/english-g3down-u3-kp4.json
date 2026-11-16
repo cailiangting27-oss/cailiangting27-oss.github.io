@@ -21,7 +21,17 @@
         "giraffe"
       ],
       "answer": "Look,at,the,giraffe",
-      "explanation": "Look at...是祈使句，看那只长颈鹿。"
+      "explanation": "Look at...是祈使句，看那只长颈鹿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d97c6e89149751abb3b76c97f9266f7d9d1c45d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8db515e7ae68f1c717ad3a54916d702c75a025e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fac8f1a31d2998734d6a5253e49876b8e6a08239.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c393e6cc18651dd6e2b564036a7815ef2a0e4747.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "《为人民服务》是张思德同志在追悼会上发表的演讲。",
       "options": [],
       "answer": "错",
-      "explanation": "《为人民服务》是毛泽东主席在张思德同志追悼会上的演讲。"
+      "explanation": "《为人民服务》是毛泽东主席在张思德同志追悼会上的演讲。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aeffa99c56d9b394fecaad8dab50a3e4e728e499.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d52c9122f95783a471731b6b21d0c686868e0913.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "对比论证"
       ],
       "answer": "因果论证",
-      "explanation": "句子使用了'因为……所以……'的关联词，属于典型的因果论证。"
+      "explanation": "句子使用了'因为……所以……'的关联词，属于典型的因果论证。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9ddce39ad46c079bb5d6a5cfecdc5ba367bf9067.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/7970d8b9fa87c5fc0bfda354298dea4d45c8f723.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1de1f3a68a70515674bc74f3d75cad3f23c380f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec32650b705e1f8720177fa55f600eb8fc6b94b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d2dcd8f7879d409d33cc8fdce28cd256f0c730e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f47c9ef29cb6fd1d32645e461a1aa6795972ad50.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "舍己为人"
       ],
       "answer": "气急败坏",
-      "explanation": "气急败坏是贬义词，形容狼狈或愤怒，不属于英雄品质。"
+      "explanation": "气急败坏是贬义词，形容狼狈或愤怒，不属于英雄品质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09c981fc439b12fd20737bc1de99110556a6ead3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97272f44dce291705d631525c9701793ed5be211.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c061ed0c4efc345d9d6a3890d16ab9eda1536f49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d71cfda905ae231b3f0bc39540e45a6433721afc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbed6bec4a53499108d065d85ae380ec6415e330.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6575c993e6370f5d1cb7cbc71b7619143209f1c4.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "李白"
       ],
       "answer": "司马迁",
-      "explanation": "“人固有一死，或重于泰山，或轻于鸿毛”出自司马迁的《报任安书》。"
+      "explanation": "“人固有一死，或重于泰山，或轻于鸿毛”出自司马迁的《报任安书》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/1227714b9c1f0fbc84fdafdaa4bef25d03b30d40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a1a78dbfb3bf960a23d33f3dd48db339fa52d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d88d7994de1fddeedca2ca13059fb9abec683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e1cb5824f6555813992d62b82d2866134a97d67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d95a84bc9dd0b36592d3807df205d7e76d038a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/569f40420590c3b3fd9dd92396220102fdbdbc02.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "《为人民服务》中提到，“死得其所”的意思是（____）。",
       "options": [],
       "answer": "死得有价值",
-      "explanation": "指死得有意义、有价值。"
+      "explanation": "指死得有意义、有价值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c559b082d894adee0d0918b9adfa8a04da4572b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0281da815daa4b38384132398f5695b6823d2b2.mp3"
+      }
     },
     {
       "id": 20,
@@ -95,7 +133,21 @@
         "条件关系"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考查六年级必备关联词关系识别。"
+      "explanation": "考查六年级必备关联词关系识别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26c33875d94fec3acfac9d9262bd8c978bb00aa8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a114fbaddb6aba98211e970ed0115be3efe30fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5d2512a6ddc04c011ba8c107645c0e2e81a90f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4fffd957fbbedb272e3112183cd2da93ea4df9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/173492f650a59fcfd404845c0efba8bfb6c5cde8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d9b980d345956e7c678b5f91a45f083775908cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9201eb30f9fe277e44bdae05c458fc7d4c7e7f67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32dfc84b1bd263f467b01485eb54fc4e8adcabda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4d9d8d9b49ef30a6f5ddd8d52225e1f74187100.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46cc5d4fd261c83941b3a6156f9c99933e552667.mp3"
+      }
     },
     {
       "id": 22,
@@ -112,7 +164,18 @@
         "服务"
       ],
       "answer": "我们,必须,完全地,为人民,服务",
-      "explanation": "出自《为人民服务》，强调服务的程度。"
+      "explanation": "出自《为人民服务》，强调服务的程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c96e0bafee91b48c6a3b4de6d7dfcc4bc2552dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/890e87b370cd34ba2aa3a66f83d94556fb69a017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46020f85ca073fbeb45c235615cc3c671fb6b928.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b09c25e192fdfb69cfeafdf1a5cacaa399c21041.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b81846f62afe675b4a0d28aa7eba9f6fd6d9e22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98bd7715ea9856891407dfac2f9c0bc0d73ec48a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -123,6 +186,16 @@
       "找不准文章的中心论点",
       "对逻辑关联词（因为、所以、即使）的使用不够敏感"
     ],
-    "tips": "画出每一段的第一句话，通常它就是该段要讲的一个小理由。"
+    "tips": "画出每一段的第一句话，通常它就是该段要讲的一个小理由。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/8076a648b132436cc164cdf72185dcd8e35c02f8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a6/a6d208906069c879b0f8f5686d2bbdafaf89db5f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3a98531743e4038713744aea97ef1475e99f5b8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/06/0695fe408e0091934d2ccea635c4388fd5b9856f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ff/ff67fbf6c0ab51b1671de2e7f9dfcb8eb721d5be.mp3",
+        "https://api.clthuanxie.cn/cc-audio/61/616acf7715a38d0dc548efc3e2e53b18b1cd3e3a.mp3"
+      ]
+    }
   }
 }

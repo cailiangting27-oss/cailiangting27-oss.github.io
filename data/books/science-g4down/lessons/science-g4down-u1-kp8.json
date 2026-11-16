@@ -16,7 +16,11 @@
       "question": "种子萌发时，最先突破种皮长出来的是胚根。",
       "options": [],
       "answer": "对",
-      "explanation": "吸足水分后，胚根首先发育并突破种皮向下生长形成根。"
+      "explanation": "吸足水分后，胚根首先发育并突破种皮向下生长形成根。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3abbe6a1cbfe2ab1447f54cc295941d79b226d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff8e3e84f2ad16c39a721e654e5fd979e2e26aa7.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "防止种子受潮"
       ],
       "answer": "方便观察",
-      "explanation": "靠近透明杯壁可以看到根和芽生长的动态过程。"
+      "explanation": "靠近透明杯壁可以看到根和芽生长的动态过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ed31fa0428cc607ee93cd509f033b5f1d6a37f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64467b8f7c1df571572836c7b78fcde62be80e7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/682776e5a5a864c5125ddaa9bb9ab5744bf42810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51d30fa7f2aea59f38f6af050a3ce52dfc91298d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4ced0b79389dec2b345fa2f23c91172457924862.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/942f4d7645bdfc104f6aac158d5c0d77e2247299.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "My father and mother are my ______.",
       "options": [],
       "answer": "parents",
-      "explanation": "父母两人的合称单词是 parents。"
+      "explanation": "父母两人的合称单词是 parents。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/108bc1203d10cd4d14ca37a458c0bc13271a0695.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7326ceebf4883287fef312470349228398d5201f.mp3"
+      }
     }
   ],
   "knowledge": null

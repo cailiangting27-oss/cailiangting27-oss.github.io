@@ -21,7 +21,15 @@
         "-1"
       ],
       "answer": "3",
-      "explanation": "令 $x=0$，$y=3$。"
+      "explanation": "令 $x=0$，$y=3$。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/def03a29bf06dda7befac55709c21a3c23ee102d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7984b0a0e139cabadb5afc7756d473fb34d23819.mp3"
+        ]
+      }
     },
     {
       "id": 8,

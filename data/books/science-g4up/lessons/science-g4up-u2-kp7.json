@@ -16,7 +16,11 @@
       "question": "根据食物来源，我们可以把食物分为植物类食物和动物类食物。",
       "options": [],
       "answer": "对",
-      "explanation": "这是最常用的食物分类方法之一，又称素食和荤食。"
+      "explanation": "这是最常用的食物分类方法之一，又称素食和荤食。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/98d00769a659585e7ab9ddabd3f20f32efb61598.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3992318cf1e49cf06a9b9121f2e1b68f6d3899fc.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +36,17 @@
         "苹果"
       ],
       "answer": "米饭",
-      "explanation": "主食通常指谷类或薯类食物。"
+      "explanation": "主食通常指谷类或薯类食物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a298b5c8d83de73a8ed32570a9383b017ad2139e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aeccfcca1da2cfb7d06c42b081df567d23f0917a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89bc7cef1ba88972cbc702cd92df5772f037716b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b0e3a35bfb593a8d664fc3924b5753f11348e80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3f72120bc52ba3647c717c9a25b25df8efced2f.mp3"
+      }
     }
   ],
   "knowledge": null

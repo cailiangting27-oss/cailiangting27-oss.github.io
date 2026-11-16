@@ -21,7 +21,17 @@
         "180"
       ],
       "answer": "540",
-      "explanation": "$(5-2) \\times 180 = 540$ 度。即划分为3个三角形。 ✓"
+      "explanation": "$(5-2) \\times 180 = 540$ 度。即划分为3个三角形。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8dbe4ac77a929eddb2837aecda3ad11320e586a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1773d62a609dd09e98ea1aebeddbd949b78bf83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8a2b30f8dba82d690db42ce743475f11be31030.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeaa8a872d9de96a7c8f7f1014fd6e4b1185f1d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fdae6775a7141d9346a7c788791fd9af2ef8cab.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "边数"
       ],
       "answer": "内角和",
-      "explanation": "题目表述有误导，正方形和平行四边形内角和均为360度；实际发生变化的是角度的具体度数，但作为选项，“稳定性”一直是差。修正逻辑：从题干看，角度变化了。如果是选定值不变，内角和不变。若指性状，应是角度。此处作为内角和探索题，旨在对比多边形内角和。改为：由于拉动，四边形的内角大小变了，但内角和依然360。 ✓"
+      "explanation": "题目表述有误导，正方形和平行四边形内角和均为360度；实际发生变化的是角度的具体度数，但作为选项，“稳定性”一直是差。修正逻辑：从题干看，角度变化了。如果是选定值不变，内角和不变。若指性状，应是角度。此处作为内角和探索题，旨在对比多边形内角和。改为：由于拉动，四边形的内角大小变了，但内角和依然360。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6802deb94fba6c6935f7d616c6c87d2406a2e2ea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1c20a7892715f28c3c0620017b2ab924877a467d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b59c17de9616105dc654d143e4a1fe148829620.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b040e698eaeb8a0712fb33393c91410ccc7b035c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a06a62938e97eb0cf5f567fe7bb9743889243e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dd79463b5704aaa2d4f869b9c9e5111c618e6d8.mp3"
+      }
     },
     {
       "id": 20,
@@ -48,7 +68,11 @@
       "question": "四边形的内角和是 ___ 度。",
       "options": [],
       "answer": "360",
-      "explanation": "分成2个三角形，$180 \\times 2 = 360$。验算：正方形 $90 \\times 4 = 360$ ✓。"
+      "explanation": "分成2个三角形，$180 \\times 2 = 360$。验算：正方形 $90 \\times 4 = 360$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60f4607ee7de20618bf739ced7af87b54081cf0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc673fd59dfa9d19d05c0e7bf7b15ef161e80c9e.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "$(6 - 2) \\times 180 = ?$",
       "options": [],
       "answer": "720",
-      "explanation": "$(6-2)=4$，$4 \\times 180 = 720$。验算：$720 \\div 4 = 180$ ✓。"
+      "explanation": "$(6-2)=4$，$4 \\times 180 = 720$。验算：$720 \\div 4 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a84c538f2818fa05a92b8c35beef0326f1a3cdd9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f924cedba6dd02e13fd8fc941aee2babf4a752cb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "公式记错，误记为 $(n-1) \\times 180$。",
       "计算较大度数时发生进位或乘法错误。"
     ],
-    "tips": "记住转化的思想，把不认识的多边形拆成认识的三角形。"
+    "tips": "记住转化的思想，把不认识的多边形拆成认识的三角形。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fb/fb99c0e184d1d11002461c6f1bb46ecc03793b69.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e1/e11b7e5e323d4e2b66404462dc7faa5d59eaeaa0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8f/8f760d6bcd93c4ef22055d92e76ec1e97b5e612b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/af/af9a5d172d85f02bd09255b003bdfa329810e125.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e8/e83720e049d5a01d0d853d8d038f14b9ff0fc2aa.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4e/4e87087cbf6599a889d64e2a901a5899a6168c53.mp3"
+      ]
+    }
   }
 }

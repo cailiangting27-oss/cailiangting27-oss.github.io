@@ -21,7 +21,17 @@
         "硬币"
       ],
       "answer": "干木棒",
-      "explanation": "不善于导电的物体是绝缘体，铁、碳、硬币（金属）都是导体。"
+      "explanation": "不善于导电的物体是绝缘体，铁、碳、硬币（金属）都是导体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4ee7fa2b545efb7b09a5c8618b528c050f85f2a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5db7e478f95c83f0070d9e8996602cb1741d0559.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49440c44ee63f615e015169a1e96f882ca2fb3c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ed35f5b7f8825137ab8e8625c893fef1da36ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1292b1854ce9689c721a9e074c360169e41b1f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2620570e970aaf4ead57f372bf33c6c3c60f0b4e.mp3"
+      }
     }
   ],
   "knowledge": null

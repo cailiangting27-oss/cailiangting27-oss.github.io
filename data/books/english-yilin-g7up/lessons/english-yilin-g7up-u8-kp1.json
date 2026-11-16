@@ -21,7 +21,10 @@
         "jeanes"
       ],
       "answer": "jeans",
-      "explanation": "常用复数。"
+      "explanation": "常用复数。",
+      "audio": {
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db95e984c71d8cc690ed224dff73e736f95a9d23.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +40,15 @@
         "jacke"
       ],
       "answer": "jacket",
-      "explanation": "jacket 夹克。"
+      "explanation": "jacket 夹克。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1cdbba9665eec106dd78ae821018becffada79f2.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

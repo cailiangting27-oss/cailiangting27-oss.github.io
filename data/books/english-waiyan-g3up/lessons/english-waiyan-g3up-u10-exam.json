@@ -21,7 +21,17 @@
         "Hong-Kong"
       ],
       "answer": "Hong Kong",
-      "explanation": "分两词，都大写。"
+      "explanation": "分两词，都大写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0af3c9e73ca9d2926c0f4dcfd1fdeffdb5bfe5b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2f488ffc82ccc67a1616e39fdfc537297f1646c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/069b6468ee2755b43a4cff1bc1097ecdbe35d29b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042ab98efa37fe227062013699385399d472bd6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d0f0592aa2e7042ce2c8c7d9b3dbe6124cf95b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30424635df5ecf288f77929d3dc9dd170d8b9d03.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "What do you going to see?"
       ],
       "answer": "What are you going to see?",
-      "explanation": "特殊疑问词 + be + 主语 + going to。"
+      "explanation": "特殊疑问词 + be + 主语 + going to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15abfce0ff6aed8f0e327237da3c870bb42bf345.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1ec4da79eeb078f41cb18a708bd2bde2c352d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd4778e9cf5a411abe226b5d29816beb1d206561.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f18eaddb332abbba1a8bc1797baa957c0087526.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b6c5170e240cd4f9294d05a457fc9f0a26acac1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ecaccd15aaae94cf4d353ca84ac569b8cf37b56.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "visit 的意思是「参观、拜访」。",
       "options": [],
       "answer": "对",
-      "explanation": "visit = 参观。"
+      "explanation": "visit = 参观。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e6f81ec2c337565deab29b34049d4a7bcce7ddc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd98e45c686ea33873773dbd859d1714615f5a06.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "Yes, we am."
       ],
       "answer": "Yes, I am.",
-      "explanation": "主语 I 配 am。"
+      "explanation": "主语 I 配 am。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49c2c3279b535edbfa823f3270805d9204a11d02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/522c1f25c24af76ae6884143fe241e132d4f4a26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f69c321da63458764d505481f41a85b19a04d88e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83fc32d7066217e07248fb663554910414c1d5b7.mp3"
+      }
     }
   ],
   "knowledge": null

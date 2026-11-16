@@ -21,7 +21,17 @@
         "would"
       ],
       "answer": "what,would,you,like",
-      "explanation": "特殊疑问句结构：疑问词+情态动词+主语+动词。"
+      "explanation": "特殊疑问句结构：疑问词+情态动词+主语+动词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53915dc8b8d709138ebf051e7419fae2ec264fb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a110e6b9a361653a042e3f5dfbac4c6105693789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0955dd818206a40e89101bb215630d0623e506fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab1df1011e3949a55ca6daf1d75bfe411c6a2634.mp3"
+      }
     }
   ],
   "knowledge": null

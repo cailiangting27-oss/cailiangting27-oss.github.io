@@ -21,7 +21,17 @@
         "造纸术被改进了蔡伦。"
       ],
       "answer": "造纸术被蔡伦改进了。",
-      "explanation": "被字句格式：受动者+被+施动者+动作。"
+      "explanation": "被字句格式：受动者+被+施动者+动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/004fc25a736eabd572621ea9c76524e1802520fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d3e3db577c2e3cae7e39873abb0c2fd04131638a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e04edf8a9c38942228b87a6aae3d0d5cadf5e5b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccc7e64b891a4c362e02c7b16d83a3ca2774e02a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c57af35609315b4379f98e7c48597d72c23fa119.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee7337768aea30bd143646152ffdca406d365781.mp3"
+      }
     }
   ],
   "knowledge": null

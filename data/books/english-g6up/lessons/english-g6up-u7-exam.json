@@ -16,7 +16,11 @@
       "question": "You can send a letter in the cinema.",
       "options": [],
       "answer": "错",
-      "explanation": "寄信要去邮局(post office)而不是电影院。"
+      "explanation": "寄信要去邮局(post office)而不是电影院。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/233ee1148ae5d0e75cef50c95bab15d609e6edf7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65c1e04733d6233f968fbd1f1e334e42cb441471.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "In the story 'The Ant and the Grasshopper', the ant is very hardworking.",
       "options": [],
       "answer": "对",
-      "explanation": "蚂蚁和蚱蜢的故事中，蚂蚁以勤劳(hardworking)著称。"
+      "explanation": "蚂蚁和蚱蜢的故事中，蚂蚁以勤劳(hardworking)著称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/240eb8d45fccf1402745a666e6766499b92a7c3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27f9768659ba14f5e8f588f9cf64bf2ccc93bf74.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'I am going to visit my teacher' 描述的是将来发生的事。",
       "options": [],
       "answer": "对",
-      "explanation": "be going to 表示计划、打算做某事。"
+      "explanation": "be going to 表示计划、打算做某事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46c3690ca3004592ef6eb46b9e720c8e1447d170.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb061150ebf23b92a30258c7e9ec3a3aa84f8942.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "The moral of a story is the same as the setting.",
       "options": [],
       "answer": "错",
-      "explanation": "moral指故事寓意，setting指背景，两者不同。"
+      "explanation": "moral指故事寓意，setting指背景，两者不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f53361234f39c09d18cf0b21ef403f361035dd17.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/596b0e55b6828f666eff6ddc36b723814766360a.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "with"
       ],
       "answer": "at",
-      "explanation": "在某个具体的地点转弯用at。"
+      "explanation": "在某个具体的地点转弯用at。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9f556ab708eab678ed6aa99dbda07ed71b2993d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f38e48c1d449c59b489b8797a03b23b0a5ef01f2.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "this evening"
       ],
       "answer": "this evening",
-      "explanation": "are going to 配合将来时间，this evening符合。"
+      "explanation": "are going to 配合将来时间，this evening符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0607c94403a8ee0451cfd26dd71f085d42a7b7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1aa96b8f44f6515a65f3c132ce1b8842a9bd9e87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a9438e08d96891efc75eae784f31a6cc7613c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9bc849a968f2432684aca234f30596c5a91654f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6188c21df2aa0ff2a65ac9a85cf014d2e9f011e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31f96826176d5955b850ba6b365766aa5d3e4e69.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "Morals"
       ],
       "answer": "Characters",
-      "explanation": "故事中的人物或动物被称为角色。"
+      "explanation": "故事中的人物或动物被称为角色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/268c42e03a2a6b8da80d2b00a24afb8098dc876c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7f73bb54d928922c3838bb789ee9fb8a5b1eb37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c7f732592c60c73495ab8cfa2ee876c5d38a75b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6f59f08fd6d58c6725e21a9ec24e068148ec586.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/2791a391a7459ba438e46a66aa44b64dea775a06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/484e4907f328ef717f4ee555142b09ef1e52425d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "gym"
       ],
       "answer": "post office",
-      "explanation": "邮递员在邮局工作。"
+      "explanation": "邮递员在邮局工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/4807bbe896540c68feeb03c8f262f47e107e1e27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2b2d005e88ce14a4112785bb266b2c0c16be7eb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36441bb2c5115687941e34d5445644bc070b77c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d286310f9f60fdf6498bd38a674a08fda01857.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3a572a24987ee63f2e36f79330e6b557a2f7569.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "to go"
       ],
       "answer": "goes",
-      "explanation": "主语my father是第三人称单数，动词加es。"
+      "explanation": "主语my father是第三人称单数，动词加es。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2faf44834bbd590ae92f0ed1ae2932994f4ae118.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbd74c1a58ff9b5490486a9f5769158b43e60461.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba92bb53aff1352f99fb7ce1af19f3a91ab349c5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "Count to ten."
       ],
       "answer": "See a doctor.",
-      "explanation": "生病时的建议是看医生。"
+      "explanation": "生病时的建议是看医生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f24532b4742dc0be3a19c449236d9ab2433ba60.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d169800f36090dec66d66dac922ddf6d2f636c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/220d78c595fafd84e1a857dd79390a2adbe8db8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/6222cca51943d46e0907ec543b5b1159316a41db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/374d5101dbae65bfae5cc628307cc0f5fc4dd82a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ad65b45414a0e3d616e8e85cc252809f05b0729.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "______ is the cinema? It's near the park.",
       "options": [],
       "answer": "where",
-      "explanation": "询问地点的疑问词。"
+      "explanation": "询问地点的疑问词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c69063f9586acb35d2d1ce3f008c0f67fc325726.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b19bf94528c5b53d4c7c1c97108cf68b628bb1ec.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "My sister likes ______ (collect) stamps.",
       "options": [],
       "answer": "collecting",
-      "explanation": "like后接doing表达兴趣爱好。"
+      "explanation": "like后接doing表达兴趣爱好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8881420acf9e45ddefdbc96709cc930d9b9bb2a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3cc268d94e10a25bd9853b28e602baa464d3b93.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "The end of a story is part of the ______.",
       "options": [],
       "answer": "plot",
-      "explanation": "故事的结尾属于情节(plot)的一部分。"
+      "explanation": "故事的结尾属于情节(plot)的一部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d90b7bfda1a0e92f0e6f06cdc6286af763375c95.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72fa7acd8da20bfb6767e0048b0693f1cab8716e.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "乘公交车"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "A-左转, B-乘车, C-生气, D-远足。"
+      "explanation": "A-左转, B-乘车, C-生气, D-远足。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67f353c6dfdd23057881b52c29a4276549929a56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8da88b6de9576184f3b0d34bd4d14c89e2923399.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/fffa33b7ea59357d57cb1d44869acbd199271f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2620298ebd60a063fd640ca389c5f5b4ba4da512.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/088081b4415390c9309d287c20b44096888efbdd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cfa09d980cbc16ea249d64127858a7ce4af64d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21100326ee480fbd7ae738f60f6f472ea6c511bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/171f6c916574f231e2333698cc59654c5e12d918.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9a99d4fc7663ecf42c333b4f3839256f77e96c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a0066bc9c4e498d7cd0a1b24104af5bde4ad395.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "room"
       ],
       "answer": "I,often,clean,my,room",
-      "explanation": "频度副词放在实义动词前。"
+      "explanation": "频度副词放在实义动词前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9730fedf2d54aba78fb1a89c38ed75fbdc5cc584.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a1cec45eaf37b34e1b1d89130d7746fe4006346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a5a05c01ee6e7b614f4055d6908eaee91d9c95.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ec1d5eb996b7c0fb4ff0b15373665179867933a.mp3"
+      }
     }
   ],
   "knowledge": null

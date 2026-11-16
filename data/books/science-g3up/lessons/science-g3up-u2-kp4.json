@@ -21,7 +21,17 @@
         "里面装了重物"
       ],
       "answer": "热空气比冷空气轻",
-      "explanation": "空气受热膨胀，密度变小，会向上运动。"
+      "explanation": "空气受热膨胀，密度变小，会向上运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbc8aa836abcec7797db423891c992f951df3e75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d80f79a30777ef7f6d854d9735ffc5a7f7337b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/976db07bcf66e21b78cc6d57f90e976ad66b48ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba8158fbe03ba6af09dffb9fb4a7502c0f918bdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20bed01db5c32d11d9a7e3dace0e8c8ff5ff28fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbc7da74a9bc72f60ee6ad4992656a9a47e7d9ac.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "消耗掉空气"
       ],
       "answer": "加热空气",
-      "explanation": "点燃蜡烛使空气变热上升，从而形成气压差产生风。"
+      "explanation": "点燃蜡烛使空气变热上升，从而形成气压差产生风。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3ceef52858d4b90bf5e2654d0c389e1c23374f0c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc2f95fd12659eada73052f8402922e363169f1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa7a0b4b4619409761b87a9fc4a64b2bb9035bf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d95ec6cdd04fcba247c73c6f72b803e07ddf2df5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3b404cc96a873591723b943fd351287962e6a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4cb0adb6bb8ac9d4413bf11f913a47491053bdfe.mp3"
+      }
     },
     {
       "id": 21,
@@ -48,7 +68,11 @@
       "question": "大自然中由于空气受热不均而产生的流动形成了（___）。",
       "options": [],
       "answer": "风",
-      "explanation": "风是由空气流动形成的。"
+      "explanation": "风是由空气流动形成的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/285354b4943c8a5cc60e634f6396d2547a0b745c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/247260f3712c0226e48cd959de38282768b4f235.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“一册书”和“一本书”里的量词意思是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "在表达书的单位时，册和本是可以通用的。"
+      "explanation": "在表达书的单位时，册和本是可以通用的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/5618db650cf7f8b9e0300de102d3a0adf159ec58.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b25e556731eb8114ee53fae1adbb4aea07cde015.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "我们可以说“一架马”。",
       "options": [],
       "answer": "错",
-      "explanation": "马应该用量词“匹”，即一匹马；架通常形容飞机、钢琴等。"
+      "explanation": "马应该用量词“匹”，即一匹马；架通常形容飞机、钢琴等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d8590faedaf7e5e342b92fa0c2bb1c1e1f9cf8d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8adbe2397029896b9d354a767b10b99afab481f.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "一个花"
       ],
       "answer": "一辆车",
-      "explanation": "马用匹配，书用本配，花用朵配，车用辆配是正确的。"
+      "explanation": "马用匹配，书用本配，花用朵配，车用辆配是正确的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc42cd893f07f70c6aebf9c625414b405b2ca50d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc2cd41e9f1bd228631053cd947d9cd540f14248.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53e6523a942cee6b6b774536a00d1c96918a5af9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a382c45a5b1c30d27d72fbfd77e466b7588d0e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87ecc16d7fd8ae160312beb9970c42ba2f9c526c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac1191018e816f7580e8a0d71cdef4605d34377b.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "个"
       ],
       "answer": "架",
-      "explanation": "重型机械或乐器的固定量词通常选用“架”。"
+      "explanation": "重型机械或乐器的固定量词通常选用“架”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f4c7d3c5c2462ce3aedf622212b61b5e39c3b91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/462f338ef88d70a56ffa5df52d38169a1d158a5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8e3dce0beda77fd823006dabbdb5dc4dd332462.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bce2ef61514a87a9049532a48d328f5b5d7fa3a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e49a890469c3c272a7b6546fd719f50f02a997f.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "填入合适的量词：一（___）铅笔。",
       "options": [],
       "answer": "支",
-      "explanation": "细长条的笔类工具常用“支”。"
+      "explanation": "细长条的笔类工具常用“支”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f30f11d2047591f00890f317069c82480fb2bc1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/442d0d06def6f10016022da701ce89ad79753837.mp3"
+      }
     },
     {
       "id": 19,
@@ -90,7 +122,21 @@
         "图书"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "常用固定搭配：一匹骏马，一架飞机，一册图书，一辆汽车。"
+      "explanation": "常用固定搭配：一匹骏马，一架飞机，一册图书，一辆汽车。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6eb3e2d4f3997b6e5f79d5d52da4b8f272cba891.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/4312927efe28860ccd502c2710fe7d19eb2091ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ccf750bb830632ac0459ac15703889281e96dac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb773bfbbb8b830d1587217dbc0e8ba9e9ebb292.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44367357cc4f9b68d77ff9b0fc509785ce0cd191.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cb0206b420005365d16b059ba66895a079c1860.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22f98be21706886c21f53d9cacf5f25027c384bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70025cb40acb23b44fb98a51706e6719934a6dca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a88070c6cdf08e96fa8fd837ca43746f5216f29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d27887e07003d3de8719abd6e52fd0c140c447b4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -101,6 +147,16 @@
       "把“一匹马”说成“一只马”",
       "混淆“一架飞机”和“一辆汽车”的用法"
     ],
-    "tips": "记住口诀：大马用匹，小鸟用只，车辆用辆，飞机用架。"
+    "tips": "记住口诀：大马用匹，小鸟用只，车辆用辆，飞机用架。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c6/c6f5ced5c7adcd8a760700981b6c5cf4bd82cdf0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7d/7d100a83045640e0a88a8ccef9db8086d2e002b0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d5/d54d3ce1febd756140a4e5870c28e4e93a78f34c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d8/d8b768c460412e87249cc71340161b90b41a4281.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/42/42a4143c78dfea38cc3cde9bb2e684787bdcd43e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8b/8b3013073785bb83c2f0419d692b5b3c59d1117d.mp3"
+      ]
+    }
   }
 }

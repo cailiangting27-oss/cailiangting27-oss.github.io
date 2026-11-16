@@ -16,7 +16,11 @@
       "question": "didn't 后面可以加 liked。",
       "options": [],
       "answer": "错",
-      "explanation": "助动词didn't后接动词原形。"
+      "explanation": "助动词didn't后接动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/443700cb2baa6226bbd81ade44b0e9677d9137c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d65b093872ea22fe8954d326e0ecbb5d7b8c1f90.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'dining hall' 指的是‘图书馆’。",
       "options": [],
       "answer": "错",
-      "explanation": "dining hall是食堂。"
+      "explanation": "dining hall是食堂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1886aefb0bebadc130cd533ed11ff54f6f090526.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1cff58a76ec11c4d91f1098e9d19d75f30c30fcd.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "couldn't 是 could not 的缩写。",
       "options": [],
       "answer": "对",
-      "explanation": "考察单词缩写规则。"
+      "explanation": "考察单词缩写规则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/601bc8556dfce75157dd5a5b272b38b47de5549b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/272e26536a27e067cc8fc4a42ea684c14a7402f7.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "20 years ago, there was no Internet. 这句话符合历史事实。",
       "options": [],
       "answer": "对",
-      "explanation": "20年前互联网在中国尚未普及。"
+      "explanation": "20年前互联网在中国尚未普及。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82cdee7fc6b212d21976c80f2f6e158e3ed9c5de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7949502b110d4a4e194738e233311977f77aa3c2.mp3"
+      }
     },
     {
       "id": 7,
@@ -60,7 +76,11 @@
       "question": "The moon and the ____ are in the sky.",
       "options": [],
       "answer": "stars",
-      "explanation": "stars 星星。"
+      "explanation": "stars 星星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01737e71cafecd37d6498c6d2087ac64dcc47e57.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bc413a4f783cf0cf16fcf1de5bdcda600e83315.mp3"
+      }
     },
     {
       "id": 8,
@@ -71,7 +91,11 @@
       "question": "The tiger is the _____ of the three animals. (big)",
       "options": [],
       "answer": "biggest",
-      "explanation": "双写g加est。"
+      "explanation": "双写g加est。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddbf30e16a20c3118481f97b6917b9bda9cc3a4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecfc2839688c2c0464b375ac03405a06be05ca12.mp3"
+      }
     },
     {
       "id": 10,
@@ -82,7 +106,11 @@
       "question": "The cat is small, but the elephant is ____.",
       "options": [],
       "answer": "large",
-      "explanation": "small对比large。"
+      "explanation": "small对比large。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0281324a84a21e1c45213250e865b979077ba72e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3ab066be9787894f37963f6417a78fc3747dd1d9.mp3"
+      }
     },
     {
       "id": 11,
@@ -98,7 +126,17 @@
         "the small"
       ],
       "answer": "smallest",
-      "explanation": "of all表示范围，用最高级。"
+      "explanation": "of all表示范围，用最高级。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbc9e53c455c52c0ff5d37b4a836a7750d612bfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c3c295f075290ead8ad6f94eb282817c7e713c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ad6d0535e3ca64bbba61fa8338afe7be47db227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45b047a5c27fccf1d09e7d6e0795185c5918f6bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58fea869df28ea1f504e411b91dc760b2610e549.mp3"
+      }
     },
     {
       "id": 13,
@@ -114,7 +152,17 @@
         "with"
       ],
       "answer": "but",
-      "explanation": "前后喜好对比，用转折连词。"
+      "explanation": "前后喜好对比，用转折连词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d32ed799d8699cdffaacc88f14aa6b1a0163ed20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cffa50a32cb13a240d705317bcec65dd1f31b6ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1b646ebd1f6844c60dd91951c6867e43857114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/786e97b3ee9fc4b292d5852c2c5943153c4ce91a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83c484550aa67d14832a161aad52ad593a0cffc7.mp3"
+      }
     },
     {
       "id": 14,
@@ -130,7 +178,17 @@
         "isn't"
       ],
       "answer": "couldn't",
-      "explanation": "表示过去没有的能力。"
+      "explanation": "表示过去没有的能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48041e9ad9d1a8988d5b298dc064772f3feb640d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33e8c029c1c73d8a32e5756bbcfb50fa6a988773.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0d1d894a4aed77f598aa155982ad66f45cd947f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/557f255516719ea16f8f4a0aae1166054e2c9b43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2ebf5133051bf39cd49d499acea403e44a4978.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66b4f05a32e690b73c19ed8d9e8f98717d0e7a83.mp3"
+      }
     },
     {
       "id": 16,
@@ -146,7 +204,17 @@
         "excited"
       ],
       "answer": "afraid",
-      "explanation": "I'm afraid 用于委婉表达。"
+      "explanation": "I'm afraid 用于委婉表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef6b5d08ef97c5beb5329068e32879ca5309f1bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34305c61a64c3c5cce8c9bbf4c2396dc468d5846.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae3870908b4ef07d5c46d3b284f43fc0354d694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f529c0de3cab3a3f6351a48451fccf2f65685cde.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/957052d61f7cee031f4194295d51cf72ccb92f48.mp3"
+      }
     },
     {
       "id": 17,
@@ -162,7 +230,17 @@
         "for"
       ],
       "answer": "at",
-      "explanation": "look at 看着某物。"
+      "explanation": "look at 看着某物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37add11c35164be15db91fe61670fbe56badb44f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0a25c06ea30bae50e39a37a5997e31a1a96e20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a277d9ddfc6ec2a575eb198a3237c5129e93f058.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +256,17 @@
         "fast"
       ],
       "answer": "slow",
-      "explanation": "不快即是慢。"
+      "explanation": "不快即是慢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b31f875f6c6419c2a99de0e8a0be1d8afaee8b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a5751d5acecf26ff7eb2b33c144efce1c69fe9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57e8a7776d6892a83f2a49678f8141f4fb883e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0afde56699db99c43c6254d81ccc16fbb7096ad3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c8bd67866f646581426ea051f2c1f6790beae79.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "新的"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "时间与状态的词汇对应。"
+      "explanation": "时间与状态的词汇对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6ae09296f829b551b6bfdfa5559eebf88edd89d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51de2b835bd35a67eb32dbcd3d77d4b96e5aa39d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9bc849a968f2432684aca234f30596c5a91654f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2a6b03f190dfb2b4aa91f8af8d477a9bc3401dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2642a9da00c7b9f671d46093e0a940ed6e502d08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a511e8442ff2ce982c0b6193e9ce76783831420c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a6311e7a1aaeb607462ee6dd315b22236dffc0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a1b45bbbe3139322e43e95b266dabb4eba5a1b5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6993e6ad5dea86b5d589a4a39b93aaaf21f7735.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "tonight"
       ],
       "answer": "I,had,a,dream,tonight",
-      "explanation": "过去发生的事情用had。"
+      "explanation": "过去发生的事情用had。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/347871386daf1ab02b44d2ce60e8f6e8bcd6bec6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f04a8843e6c2de610d1da9296cfa2c6169b4a7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d72cb875cd70c003eb322f1389bdd01fd7bde2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4ce0cba1df89d614b0141c38978920e6b48f1661.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/abed80cc5f23a2a39a6ffee16f4066620d170be3.mp3"
+      }
     }
   ],
   "knowledge": null

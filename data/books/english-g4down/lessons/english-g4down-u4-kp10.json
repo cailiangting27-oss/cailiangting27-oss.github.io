@@ -21,7 +21,17 @@
         "cow"
       ],
       "answer": "sheep",
-      "explanation": "How many后接名词复数，sheep复数不加s。"
+      "explanation": "How many后接名词复数，sheep复数不加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b370506aacb9ff803ee5ae7ee454298f9e10b157.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/6525f2e663e8d223c2f9041fefdf2dba6ca70d63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/888f807d45ff6ce47240c7ed4e884a6f9dc7b4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd3f1c121fb015ecc0a74ca87963575e529dc5aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bbddb4a037421a7b1e1b1bdd6447b03097f0df1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffef15c99ea8aa88b9c596c39e6fa3497d2e6af3.mp3"
+      }
     }
   ],
   "knowledge": null

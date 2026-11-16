@@ -16,7 +16,11 @@
       "question": "A person who flies a plane is a ______.",
       "options": [],
       "answer": "pilot",
-      "explanation": "驾飞机的人是飞行员。"
+      "explanation": "驾飞机的人是飞行员。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dffccdf8b7232ec8484c8b97312cb05197c1052c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8130ffed8c5b0a1c3d9aa6a3c479934118b0c3b.mp3"
+      }
     }
   ],
   "knowledge": null

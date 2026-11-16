@@ -21,7 +21,17 @@
         "雪"
       ],
       "answer": "风",
-      "explanation": "这是谜语诗，风吹过云动、花摇，所以“它”指风。"
+      "explanation": "这是谜语诗，风吹过云动、花摇，所以“它”指风。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4acd86c575c8797d39cc61b11ccfafcb1c330996.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9d116624f82ccc4f7a190354ca8c737a871d4f5.mp3"
+      }
     }
   ],
   "knowledge": null

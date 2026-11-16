@@ -16,7 +16,11 @@
       "question": "测量土地面积时，常用的面积单位是公顷和平方千米。",
       "options": [],
       "answer": "对",
-      "explanation": "根据教材定义，测量土地的面积，常用“公顷”和“平方千米”作单位。验算：概念描述正确。"
+      "explanation": "根据教材定义，测量土地的面积，常用“公顷”和“平方千米”作单位。验算：概念描述正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5421eb11a76ea92083af77adab9eff0e1448c629.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08b74866d69b20584635a4198fd25faead10dcf5.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "边长是 100 米的正方形面积是 1 公顷。",
       "options": [],
       "answer": "对",
-      "explanation": "$100 \\times 100 = 10000$（平方米），$10000$ 平方米 $= 1$ 公顷。验算：定义符合。"
+      "explanation": "$100 \\times 100 = 10000$（平方米），$10000$ 平方米 $= 1$ 公顷。验算：定义符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05247a79c187200436098e07babcc23417897cf9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/3467ae921cd91ce8209670762127a07116ce7843.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "400000"
       ],
       "answer": "40000",
-      "explanation": "$1$ 公顷 $= 10000$ 平方米，则 $4$ 公顷 $= 40000$ 平方米。验算：$40000 \\div 10000 = 4$。"
+      "explanation": "$1$ 公顷 $= 10000$ 平方米，则 $4$ 公顷 $= 40000$ 平方米。验算：$40000 \\div 10000 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27358c503be9c272aa8bf46fa3b03eb097b5ff72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b2d81c80b94799aeef126f990f48cdb5505bbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/437c6788c6ce0b957d61ef61f21a9ecbe5052d6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a35b8ee00b00cc9a2fb9180617432a1ccbae48a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91f6a9ec15af33afe0a10aad112580d377c0ccad.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "一样大"
       ],
       "answer": "5 平方千米",
-      "explanation": "统一单位：$5$ 平方千米 $= 500$ 公顷 $= 5000000$ 平方米。$5$ 平方千米最大。"
+      "explanation": "统一单位：$5$ 平方千米 $= 500$ 公顷 $= 5000000$ 平方米。$5$ 平方千米最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d1d16a22b63d02e45b85c23c9e967a3b445a6a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/628e5d36c902f80d442e41349a3a35c3de00f82e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/6703ea1d5b698c9d12d393a64c17e7c7b83cf1a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc7c64a109380ae18e4299f8f7426fd15763e68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/621fc442456887202b38a48d57e7140062897886.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "1000000"
       ],
       "answer": "1000000",
-      "explanation": "$1$ 平方千米 $= 100$ 公顷，$1$ 公顷 $= 10000$ 平方米，所以 $1$ 平方千米 $= 1000000$ 平方米。"
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$1$ 公顷 $= 10000$ 平方米，所以 $1$ 平方千米 $= 1000000$ 平方米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/213b136a0b761bb17ff561c20b476499ba382b4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a12a315082a345f1a9d3ad14b214cd36d310cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/409e9519c66216726447bd4a07d6aed0475338cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b27585828a675f5acfef052dd1a8cf0c6c1ee4b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f624b9009acc488cb612cc3feae6c988b58dce0.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "64"
       ],
       "answer": "4",
-      "explanation": "边长：$800 \\div 4 = 200$（米）；面积：$200 \\times 200 = 40000$（平方米）；换算：$40000$ 平方米 $= 4$ 公顷。"
+      "explanation": "边长：$800 \\div 4 = 200$（米）；面积：$200 \\times 200 = 40000$（平方米）；换算：$40000$ 平方米 $= 4$ 公顷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9377334c36269114ac527265d3a43710332e5c21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/437c6788c6ce0b957d61ef61f21a9ecbe5052d6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/138ee1199d04a03e3313889e6dc402cfab7fd2b1.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "10000"
       ],
       "answer": "100",
-      "explanation": "因为 $100 \\times 100 = 10000$（平方米），符合 1 公顷定义。"
+      "explanation": "因为 $100 \\times 100 = 10000$（平方米），符合 1 公顷定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/1564fb1cb1faae09ee4e340e4e8fbb1f29168d84.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a12a315082a345f1a9d3ad14b214cd36d310cf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57c9aa1d7d677e69cfa85ceb5f0d7cfbc9b500e6.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "80000 平方米 = ___ 公顷。",
       "options": [],
       "answer": "8",
-      "explanation": "$80000 \\div 10000 = 8$。验算：$8 \\times 10000 = 80000$ ✓。"
+      "explanation": "$80000 \\div 10000 = 8$。验算：$8 \\times 10000 = 80000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9a80fb37767e58dddc19addcb6059eabbd8aee8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d41fbeda605b04fca1cb02cd679ec5ee5239afb.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "计算：$10000 \\div 100 = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$10000 \\div 100 = 100$。验算：$100 \\times 100 = 10000$ ✓。"
+      "explanation": "$10000 \\div 100 = 100$。验算：$100 \\times 100 = 10000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/791a258b37d4f64a90931f6698d669aa1b13f772.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8ba2162e88a9bb2a84002ade0b823b4ca5c6df3b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +206,16 @@
       "错误地认为公顷和平方米之间的进率是 100 或 1000。",
       "在计算周长和面积转换时混淆单位。"
     ],
-    "tips": "想象 400 米跑道围起来的操场面积大约就是 1 公顷，记住“公顷”名字里虽然没有“平”，但它是面积单位。"
+    "tips": "想象 400 米跑道围起来的操场面积大约就是 1 公顷，记住“公顷”名字里虽然没有“平”，但它是面积单位。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e5/e5e2f32cb36e85bb00a7bd9b46e5ad62d6bbd156.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fd/fda659341ad6983b3ea476c21120cd0701c52fcb.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ac/ac39e4c1b20a215a5d9377c87338df392394613d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/84/845536bb843d8ac7e08bf197269da7fab9fd24bf.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2d/2d8404d4c5d6cbdd88b583a883e71607098c33ad.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1b/1b7c0f87171573cf164af5da24bfda1cb7c7cebc.mp3"
+      ]
+    }
   }
 }

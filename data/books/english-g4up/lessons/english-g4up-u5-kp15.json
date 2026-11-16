@@ -21,7 +21,17 @@
         "bread"
       ],
       "answer": "bread",
-      "explanation": "饿了(hungry)通常选择固体食物如面包(bread)。"
+      "explanation": "饿了(hungry)通常选择固体食物如面包(bread)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2a02f777e47606ef9566425ec8597e7596df228.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ef879175424a11fbc65e95737df3df8822b8a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff291d8175b1d624892cd459444104fbd7ce87f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf498a04cd6f73af401a2ed1ef925623ac835c52.mp3"
+      }
     }
   ],
   "knowledge": null

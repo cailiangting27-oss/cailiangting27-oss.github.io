@@ -16,7 +16,11 @@
       "question": "在诗歌《彩色的梦》中，彩色铅笔被想象成了大森林的小精灵。",
       "options": [],
       "answer": "对",
-      "explanation": "课文将彩色铅笔拟人化，赋予它们生命，在白纸上跳舞，如同精灵。"
+      "explanation": "课文将彩色铅笔拟人化，赋予它们生命，在白纸上跳舞，如同精灵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30635169a52fe65b284484cbb60b29bec8ddf741.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aecb8d7427eb58144badae5f8fb31be049fae8b2.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "《枫树上的喜鹊》中，“我”能听懂喜鹊阿姨和喜鹊弟弟的语言。",
       "options": [],
       "answer": "对",
-      "explanation": "课文中“我”通过观察和想象，理解了喜鹊一家的对话和情感。"
+      "explanation": "课文中“我”通过观察和想象，理解了喜鹊一家的对话和情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da7b50d69855762519fa1ca5d6c9ef86e9725d9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a846dda10ae47bb004d760be76c3a8f4d220db96.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "蓝色的房屋"
       ],
       "answer": "大块的草坪",
-      "explanation": "原文描述为“脚尖滑过的地方，大块的草坪，绿了”。"
+      "explanation": "原文描述为“脚尖滑过的地方，大块的草坪，绿了”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/6352c4fa94ebc4de338412c97f75422b80fe2fe6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/7654f987c9012b1369aa7d46f541de73f4eb0df0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/038b7c567ca11e953b6f098f03e37e6dfbb4cf2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e7ea88e3d6ee6efe52dc964585a3ad6ba78f457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24321ee5e295c0c34f8bdde3c20a5c18ddf16a7d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a88abb8e585ca8c0b216c6c4d3facb54d114e22c.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "排比"
       ],
       "answer": "想象",
-      "explanation": "学生在沙滩玩耍时，通过联想创造出城堡中住着公主的情境，这属于想象。"
+      "explanation": "学生在沙滩玩耍时，通过联想创造出城堡中住着公主的情境，这属于想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a93f00054b95a7cfa893c3e739a2307ab24360e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaf8d55399b7b2ba529440f7e9e78ea6ab47439a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a91e6e676f9b12d270d52d3aeaa01878394eaa0.mp3"
+      }
     },
     {
       "id": 16,
@@ -70,7 +98,11 @@
       "question": "《沙滩上的童话》中，大家一起商量去抢救被魔王抢走的（____）。",
       "options": [],
       "answer": "公主",
-      "explanation": "课文描述小朋友们在沙滩编故事，城堡里住着公主，被魔王抢走了。"
+      "explanation": "课文描述小朋友们在沙滩编故事，城堡里住着公主，被魔王抢走了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7e877878d5b3d256c75ee479da02c0e1c15966f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d5d4b9cb994570d0256e18ef7088a5dd9b65d8b.mp3"
+      }
     },
     {
       "id": 20,
@@ -90,7 +122,21 @@
         "郁郁葱葱"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "原文：草坪绿了，野花红了，天空蓝了，森林郁郁葱葱。"
+      "explanation": "原文：草坪绿了，野花红了，天空蓝了，森林郁郁葱葱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b27ef76e9b467f7a2ebadd03e3ff2e535b4d5a2c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/daac10cacc7ae94ef9b108dbcf6eaa4c5d4aa4cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89fdb3d5221fb97b90430cddd28ebfeab0194852.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70f4c18c327660f1edaa85614f5441eb9ddc332e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec9091e2ca6f6ffd192978ece3cdbf70d0ab88d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af486c0b8efc792e055df2f3329957afa4957349.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fe113965ded27162238d85b0dfbfb504c4bb35c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4b01689229a008e51563c186b025bc8f34de86b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbae9250b4fe791027b1d5b8ca3f626abdc49751.mp3"
+      }
     },
     {
       "id": 23,
@@ -107,7 +153,18 @@
         "迪斯科"
       ],
       "answer": "梅花姑娘,在雪地上,跳起了,美丽的,迪斯科",
-      "explanation": "本句运用拟人修辞，主语是梅花姑娘，动作是跳舞。"
+      "explanation": "本句运用拟人修辞，主语是梅花姑娘，动作是跳舞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c35529fbe76755775ee81eb1540ece901caab9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/074a4e14abd7c7db538faa0a51440f77bfef3be4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96656e8c063395acddf8b2f8eb72fc0307e44cb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ae0b4b4848980b77b07c5303d8857d602fead26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3573e361cebb75daf252863ac800eb4a4bca02ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5094c90a7bdae4f98613ddb93cf7fdd9c8cc3ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd8cfc480696530767ecc0c59681848fbb037f6f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +175,16 @@
       "想象脱离现实，如让石头飞上天但没有合理解释",
       "只写动作但不使用拟人化词语，导致句子干瘪"
     ],
-    "tips": "观察时试着问自己：这个东西长得像谁？它发出的声音像在说什么悄悄话？"
+    "tips": "观察时试着问自己：这个东西长得像谁？它发出的声音像在说什么悄悄话？",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/87/87ac57479e8a9a01bd32ee1473f28e916ab69971.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9f/9fad5c91c859129a80bda1eb5b5032cce0dadc86.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/25/25c4c5797364e588ba901a7adedc0a5091b4f2d7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a5/a56bdd8b05b4df996b3e36f533deb63aaab35914.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/86/86892f21dbb440e763e97f1d891852ef5b477008.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bc/bc465798fd180b9c0c85876c44ff3ed4c11a545b.mp3"
+      ]
+    }
   }
 }

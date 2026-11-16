@@ -16,7 +16,11 @@
       "question": "在阅览室看到好玩的事情，我们可以大声地呼唤小伙伴来看。",
       "options": [],
       "answer": "错",
-      "explanation": "阅览室是公共安静场所，应当保持安静，需要交流时应用极小的声音。"
+      "explanation": "阅览室是公共安静场所，应当保持安静，需要交流时应用极小的声音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5387f4afc8818a17a90022bb06f203327d53808.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45c9b6950e65d72556e8d9fe5f825392d3fe56a9.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "不说话直接拿走"
       ],
       "answer": "轻轻敲门，小声说话",
-      "explanation": "办公室需要保持安静有序，尊重老师的办公环境。"
+      "explanation": "办公室需要保持安静有序，尊重老师的办公环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2dd885de3b399821997772535fca954bf1f1e3db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff37327097c62b11006d8b6edb17d124749dfb9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94550002de3ab541c5115322bf11f0f6085fd732.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cce5b6bdfc8252dd9ef0a64a8b437d3e06284b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dc5fec85cec3030989f0ff11f2429909994e5ca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/1040e7d814fd7bdc83a68c340b35631dd6a4c3d7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "在图书馆由于兴奋大声喊叫他人",
       "分不清“小声说话”和“不说话”的区别"
     ],
-    "tips": "可以总结顺口溜：人多公共处，轻声不吵闹；课堂发言时，响亮也要到。"
+    "tips": "可以总结顺口溜：人多公共处，轻声不吵闹；课堂发言时，响亮也要到。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8c/8cf6be38bb8795ba810a25f1e4bc5de126908c1f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/66/66dace46c8d024a60d13506f4a2fc07fdc061571.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d4/d4d5396501be47e8d39e617b793fbd620cda220f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c0/c0121ca2e6365b9e6ae3264a2cba374fe5606664.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/52/52b2dd20727abd56a0a997407ecced768137053e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/99/99c13db5909a2bba7bcf2081ea2635be28365401.mp3"
+      ]
+    }
   }
 }

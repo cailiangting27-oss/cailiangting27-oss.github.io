@@ -25,7 +25,21 @@
         "在书上面"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "in-在里, on-在上, under-在下。"
+      "explanation": "in-在里, on-在上, under-在下。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/911afcb5c44086f11fd516a045617f7127b0e62b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c67c285df341712260ca1127fa40025cb1fd71f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9924568d946a17c8824a2775b0eb6d424a09a76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dc8f4cab69c441eabc8a02ef9430feac130fac7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f465bded78e254d3ea30c082b0032245d82cc60f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29448e6c0e14ad0ddd32734752066f1b4b32d5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdbedba4775ea67a7e8b6bb41afa84acce37dd24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/435efe7646e0e926dc2fb01ff83bd101af538778.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17f018d10481e296424595c77b98cb4870862069.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c90ab32104db5793074772a6a13edec91f8ecbbd.mp3"
+      }
     }
   ],
   "knowledge": null

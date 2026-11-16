@@ -21,7 +21,17 @@
         "倒车"
       ],
       "answer": "打倒",
-      "explanation": "打倒的“倒”读 dǎo，其他三项读 dào。"
+      "explanation": "打倒的“倒”读 dǎo，其他三项读 dào。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a7605c1f42329812a4b0af4d656b89a02306cd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a3bdba2bf7a88ffec1344a639cd06b6f0eaa415.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe9177ee4e2b43d252ae495370f9a82c602f67af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1555b8819fbe3d3db9f1472ad395271fc20c9fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef8ab34d5f16e3e9ebfa45ade8e2896451246d6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c91ea0f58b6ac2d9e81ab2c8e348d8c65d42fc86.mp3"
+      }
     }
   ],
   "knowledge": null

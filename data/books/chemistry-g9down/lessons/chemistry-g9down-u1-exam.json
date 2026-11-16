@@ -59,7 +59,15 @@
         "氧气"
       ],
       "answer": "一氧化碳",
-      "explanation": "CO 作还原剂。"
+      "explanation": "CO 作还原剂。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ac/acda33b218538d948d5586a913971e916a1c8611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72fc1a3521c54af543b5929758b8204e584943d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74f2ea55960daef6212e49f18bb2b9ffc64cc24a.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "fotball"
       ],
       "answer": "football",
-      "explanation": "football 足球。"
+      "explanation": "football 足球。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d27b62c597ec858f6e7b54e7e58525e6a95e6d8.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +45,15 @@
         "swimmm"
       ],
       "answer": "swimming",
-      "explanation": "双写 m 加 -ing。"
+      "explanation": "双写 m 加 -ing。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b8/b89f90f328fa7e7781c0a3e84545e96d946a0c4a.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

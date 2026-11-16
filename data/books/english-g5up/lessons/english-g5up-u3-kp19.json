@@ -25,7 +25,21 @@
         "健康的"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "healthy-健康, delicious-美味, fresh-新鲜, thirsty-渴。"
+      "explanation": "healthy-健康, delicious-美味, fresh-新鲜, thirsty-渴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41cae610637c3d41c93b282619298478571a5ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de18ccfa15e841c4efe6788a08eccda935650bb1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab9d1883a9724bf883dcc196d7ed1e8f5d2fb63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a4c84cb83788005285d9c9e6f6d6c046b4c39e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a02cf9383990cee0c0047c0879cd4fda954fd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a37526b7e69ccdfe83b6461ea6e49190d2d8234.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23345cee297fc506368bdd0ee660aee77e1f7225.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f82e8c9e5824a0de76dbe9241ed077ecc021d08d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa04b5f43ca65e92327f869fc36628e9b1625a6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47186a3686a22a7310ac0f9c6506728bec8a85b6.mp3"
+      }
     },
     {
       "id": 21,
@@ -45,7 +59,21 @@
         "鸡肉"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "准确对应名词释义。"
+      "explanation": "准确对应名词释义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efa164a6772f1592f547e41f288a548991779ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/cef7e59218e3a7e18aaf7faa4a23bcd964323a66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00ada52aa920a0c2cde41206ec79a16822b58f3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35c4cdb50a9a6b4475da4a66d955ef2a9e1acc39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b57bbec9e3484d6678c162410d0e4da9f8af6f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0b1b8bb6bdd6c20b1b57f339cfbac4bf702fb26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df9eaffa238be82009105fb86d2551bb6b330b81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25c1afe5619f8aeabafd04ddb562a4edb6c2bd3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef00786a401df16383500060032c87edc1d0cb99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b073e7c4e1b075d6235b7513e2cfaea55e0972c6.mp3"
+      }
     }
   ],
   "knowledge": null

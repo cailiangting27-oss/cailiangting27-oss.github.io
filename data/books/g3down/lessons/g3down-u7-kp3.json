@@ -16,7 +16,11 @@
       "question": "计算小数加减法时，要把末位对齐。",
       "options": [],
       "answer": "错",
-      "explanation": "计算小数加减法时，关键是小数点及相同数位对齐，而不是末位对齐。"
+      "explanation": "计算小数加减法时，关键是小数点及相同数位对齐，而不是末位对齐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b58504fdb1e90aae9f6a95f15c9a2a81738702a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3af9edadd66e725911f6343e9047a803f96aabd.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "2 元 5 角写成小数是 2.5 元。",
       "options": [],
       "answer": "对",
-      "explanation": "1 角等于 0.1 元，5 角等于 0.5 元，所以 2 元与 5 角合起来是 2.5 元。"
+      "explanation": "1 角等于 0.1 元，5 角等于 0.5 元，所以 2 元与 5 角合起来是 2.5 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/881d11473bb757e712bfdd257baac35c3bec0b98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d9168079d0e6dfb53d5a28e1db389e5a782d4e3.mp3"
+      }
     },
     {
       "id": 12,
@@ -43,7 +51,17 @@
         "3.3"
       ],
       "answer": "4.3",
-      "explanation": "计算 3.5 + 0.8。十分位 5+8=13，满十进一，整数部分 3+0+1=4。结果为 4.3。验算：4.3 - 0.8 = 3.5 ✓。"
+      "explanation": "计算 3.5 + 0.8。十分位 5+8=13，满十进一，整数部分 3+0+1=4。结果为 4.3。验算：4.3 - 0.8 = 3.5 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b08fbafb5d7668e9beae9e09f2c28ca60939ede.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5d05199b7d43b0bd203a9cf2e8e874dad4ff45f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61f754d329436f9aa95574340276305f3b5d212a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59a7597c10f2e831aaf8a6526fb9a13e25ea680e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9c68c54449dd45e3ffc6d16d2e2e55125c2895d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64fa2b4ea38d121e281e47e8207592fb61af1df0.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "4.2"
       ],
       "answer": "3.8",
-      "explanation": "5 - 1.2。先把 5 写成 5.0，0 减 2 不够减从个位借 1 当 10，10 - 2 = 8；个位 4 - 1 = 3。结果 3.8。验算：3.8 + 1.2 = 5.0 ✓。"
+      "explanation": "5 - 1.2。先把 5 写成 5.0，0 减 2 不够减从个位借 1 当 10，10 - 2 = 8；个位 4 - 1 = 3。结果 3.8。验算：3.8 + 1.2 = 5.0 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58f0c024db90fef3fe99b3feeabf9e6c6e840f0c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2607f6b788649e033ce30e1a047bf49c1f5fe91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b7c2ab603729527be3f6a212c411bcaf06e4f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986a6a7bbe6a4ae5c1502558f013f6ed6b9ae6f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a20090f6629e82dc86182a58926523409ffdf49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0661bfb40dd50e6363f89bbc7678e0d4d468f61.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "等于 11"
       ],
       "answer": "大于 2",
-      "explanation": "1.2 + 0.9 = 2.1，2.1 > 2。"
+      "explanation": "1.2 + 0.9 = 2.1，2.1 > 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b32bab8d140bfa63d0f563ef09a50a9e7d84fb9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1fb8e3cf3e2e97131e834e892b2f9a221e949c32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc7558b22a6720216989e7cf0f2b919531ca3908.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f3e0aca3833acd53ec977683edad10e7fa8895b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1a560f42cc62b4c1dc8981ba8c91cd738dea9dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d18b82dad752bb15340a86f25cca0755fc8da83c.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "0"
       ],
       "answer": "0.9",
-      "explanation": "1.0 - 0.1 = 0.9。验算：0.9 + 0.1 = 1.0 ✓。"
+      "explanation": "1.0 - 0.1 = 0.9。验算：0.9 + 0.1 = 1.0 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3f1df3ea3ca0eee254d28ca41eb635ac7056f31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/1469842b4307d36cccb487dc989f21016daadbcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4491f8b5ecc09d9de308ea37e6a23ad2dd66c256.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a804ba2c6ab6526098ee82b652eb0f21a5be8a30.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "小华有 10 元钱，买书花了 8 元，还剩 ___ 元。",
       "options": [],
       "answer": "2",
-      "explanation": "列式：$10 - 8 = 2$（元）。验算：$2 + 8 = 10$ ✓。"
+      "explanation": "列式：$10 - 8 = 2$（元）。验算：$2 + 8 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b1146e16651350915b9e6e1bdf898620e6084e2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b438a95e3799988998caf814d04f17c7073e7bfb.mp3"
+      }
     },
     {
       "id": 22,
@@ -113,7 +165,11 @@
       "question": "计算：$12 + 8 = ?$",
       "options": [],
       "answer": "20",
-      "explanation": "$12 + 8 = 20$。验算：$20 - 8 = 12$ ✓。"
+      "explanation": "$12 + 8 = 20$。验算：$20 - 8 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/153cfaf48f4e31cd750da166620f046b673ff056.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12f60296c67bfb10d4d009c01ba9d9e405501935.mp3"
+      }
     },
     {
       "id": 23,
@@ -124,7 +180,11 @@
       "question": "计算：$45 - 15 = ?$",
       "options": [],
       "answer": "30",
-      "explanation": "$45 - 15 = 30$。验算：$30 + 15 = 45$ ✓。"
+      "explanation": "$45 - 15 = 30$。验算：$30 + 15 = 45$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05ef50c1f4c9840b5b946e642c885562ca67275b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/311c9d3fdeafec381ba08721c104f012584f8dd7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -135,6 +195,16 @@
       "计算整数加小数时，末位对齐（如 5 + 0.3 误将 5 与 3 对齐算出 0.8）",
       "忘记在结果中点小数点或点错位置"
     ],
-    "tips": "如果整数加减小数觉得容易错，可以在整数后面补上“.0”，如 1 改写成 1.0 再计算。"
+    "tips": "如果整数加减小数觉得容易错，可以在整数后面补上“.0”，如 1 改写成 1.0 再计算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/432120592651fa848bd19e4d6a144e608e7492d2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/79/79da0ea56cf88fb89b5736d4e94fd1b5dba366b7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cb4919f28fdc57fe982eb2b875915bf8e27aa453.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/36/36bd07f396d93a47dd147075c0c28fc0693eb247.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bc/bc4f4e72ab3a1582df67e3296658fa9c0e050212.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a4/a42bc16e07174a5f9fb08c6ce252d2820967e4cf.mp3"
+      ]
+    }
   }
 }

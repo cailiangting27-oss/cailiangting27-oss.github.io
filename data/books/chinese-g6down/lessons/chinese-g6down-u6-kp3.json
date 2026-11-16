@@ -16,7 +16,11 @@
       "question": "写信给老师时，最后的署名应该写在日期之后。",
       "options": [],
       "answer": "错",
-      "explanation": "书信格式要求署名在上，日期在下。"
+      "explanation": "书信格式要求署名在上，日期在下。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af1e7d0abfaf52ed3b17d94a1884984842c33f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fc4c47b6623851342232af5e6327d2ada02c42c.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "给同学写毕业赠言时，应该多些真诚的鼓励和美好的祝愿。",
       "options": [],
       "answer": "对",
-      "explanation": "赠言应体现真情实感，表达对未来的期待。"
+      "explanation": "赠言应体现真情实感，表达对未来的期待。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3268bd04dd49f83a271eeb7d0d5b0460f2417ecc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a96bb7dc7b9b1052a2a292e6ea29fe1a0dc7981a.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "自怨自艾"
       ],
       "answer": "恋恋不舍",
-      "explanation": "“恋恋不舍”形容非常留恋，舍不得离开，最符合对母校的情感。"
+      "explanation": "“恋恋不舍”形容非常留恋，舍不得离开，最符合对母校的情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5aed2ff54fed2c1ae44e8bc64d0edb42b92ab8d2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/141aa3f16c760b62bdc28d7730c9b7e35588d870.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0aca8a48ecb09481370beecd289ff976acaa18a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a29ab14e9181f1b824f3c9a98fdc5919c7d21d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab5d6e009a7f7bc211a0638c34350e980e7404d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/570c11401de350cec4cf38c79ec136355f3896ec.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "祝你身体健康"
       ],
       "answer": "您好！",
-      "explanation": "给长辈或领导写信，应使用尊称“您”。"
+      "explanation": "给长辈或领导写信，应使用尊称“您”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fd81ae8421c2b26eada560f1d673d94af3471f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a7bd6ed5e59d46c25fedbc50d442cc7ff9b6f55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d45711e4ab6ac814ba214e08594d9034abf75b4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/946121f4afca6b893e65ef03df5a3c21c44ec3c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/839ef540f712eed86a5cdd5cb1aed18cc9b668b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/420c004be8a2bf13d3ac529e9c8ed00ac88bb1e7.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "反问"
       ],
       "answer": "比喻",
-      "explanation": "将知识或教诲比作汗水，将教导过程比作滋润。"
+      "explanation": "将知识或教诲比作汗水，将教导过程比作滋润。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1eb99fe2f90f6be56a4fd8fd285114b7741d65d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e7182c0345fd9b4dc720da8ef600d46550c828d.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "赞美月色迷人"
       ],
       "answer": "离别时的美好祝愿",
-      "explanation": "苏轼名句，常用于远隔两地时的互相思念与祝福。"
+      "explanation": "苏轼名句，常用于远隔两地时的互相思念与祝福。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/195cb662f378e8383d879c2238bd8915b072ae6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c8a019a0c0b07899bcdcd88c4e18de3503c9425.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b5b40944338e36e9cfe968ad34668e9ce601a8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/759e707ea863344e906a2363b39dd08deab7cfb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a465ff2e4200489fa365df8bc47b938a9a9c6cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/305869616d82dcc5ca747d9863c59b790e549c09.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "再见吧、母校。"
       ],
       "answer": "再见吧，母校！",
-      "explanation": "呼启语后用逗号，感叹句末尾用感叹号。"
+      "explanation": "呼启语后用逗号，感叹句末尾用感叹号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1be621d029bf6efe62f44c873c98da094a14c5e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/5392695807cd6df14378fc3cbf9ea400c1c4b681.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1213b91c0b2918ef82f5243d86b229d867b56f80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10dfc8b1aad8772e68f755c6aa4144fb20136517.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71abdd06a897e711da0599f545d4f114b4861cf2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66feac9a63d6e1eb0057081ae2f269943735dbd5.mp3"
+      }
     },
     {
       "id": 17,
@@ -118,7 +176,11 @@
       "question": "书信中，在第一行顶格写的祝愿语是（___）。",
       "options": [],
       "answer": "称呼",
-      "explanation": "书信格式第一行应顶格写称呼。"
+      "explanation": "书信格式第一行应顶格写称呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1a8a5331225297dea44a0ff45e0c586d055849b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ee4fe67bcea9836b2c287da487f787e4472ba70.mp3"
+      }
     },
     {
       "id": 20,
@@ -138,7 +200,21 @@
         "编安"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "老师用教祺，长辈一般祝身体健康，同学用握手，编辑用编安。"
+      "explanation": "老师用教祺，长辈一般祝身体健康，同学用握手，编辑用编安。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee19d77023a8149ad00417b3a9eededc7ced29b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8ac07b1fbc18ec9e2a6b1c94f4f99a2dcb37e925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c560c19c26ed16994d657c0789215edfc91e5556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7f814c0a40db7fdeca129f773733a049a084558.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de3a317f7bc6c84de80c8e1e386e5609e496f6bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f9c610689814efbb96b0e6244a7cad5556cc834.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5052e6da7a55eb30213a06c1fb848969fd81497a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6cfb61b631fc916d5148b878199948dc7c0779b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/123cf18fe399515d0740fb31729b4113b105864d.mp3"
+      }
     },
     {
       "id": 22,
@@ -155,7 +231,18 @@
         "令我"
       ],
       "answer": "这段,美好的,时光,令我,难以忘怀",
-      "explanation": "考查学生组织感言句子的能力。"
+      "explanation": "考查学生组织感言句子的能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3918dbfc342089a7a543adb21f8cbe1e24b503f9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa9c60c9f89e1d247d2600ed3137be3a4203f07d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e91a4a7bfd231757302158260b38751684d9a7ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf867cf10dae20ef81736a2651209e3a0ff1d91b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66bc72354f3be18fadd6f80ace541fb782ae6fb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ed1b21f778f0ec2ae5c9636cdec938c536682fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/927f1230e96a4cbe860fa84c2a3138e8d9482140.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -166,6 +253,16 @@
       "格式错误：例如称呼没顶格，或者日期署名写错行。",
       "语言套路化：全篇都是“祝你学习进步”，缺乏具体的共鸣情感。"
     ],
-    "tips": "给每个人写赠言时，试着闭上眼想起对方的一个招牌动作或常说的话，写进去就会非常有感染力。"
+    "tips": "给每个人写赠言时，试着闭上眼想起对方的一个招牌动作或常说的话，写进去就会非常有感染力。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d6/d6997a8ace42647ae2d3370997e22430d1a04dbf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c4/c45b653db670590f71cf078ca84e504bc0d7d7d6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/19/191f47a2468610e6091e3d33a197c6127ec4dcee.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bc/bcd0b8dad5988c5140d3eb5e46ccaed237039a6f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d9/d93a521369c1f957183a1a70c10c40b712c56817.mp3",
+        "https://api.clthuanxie.cn/cc-audio/75/757e898ee3b341bbed08ac1336c83ca22330c954.mp3"
+      ]
+    }
   }
 }

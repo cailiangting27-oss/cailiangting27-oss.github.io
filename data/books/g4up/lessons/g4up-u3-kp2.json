@@ -16,7 +16,11 @@
       "question": "角的大小与两边的长度有关，边越长角越大。",
       "options": [],
       "answer": "错",
-      "explanation": "角的大小由张开幅度决定，与边的长短无关。"
+      "explanation": "角的大小由张开幅度决定，与边的长短无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8b2c85ec83d577e4d2da5b2b7136558303c63ea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9dee18244967675edff2700b9f339c9feaacab1e.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "度"
       ],
       "answer": "角",
-      "explanation": "这是角的标准定义。"
+      "explanation": "这是角的标准定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e3fa7161f973b586d0ab8c26a05aad42cb801bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61c11e759d474abb20e55fe2547593ed29a66652.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/198631ac546ec303ed17885540ba9041d45a3136.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/304fce687a69d5d4a55296796415d46d88953652.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0be178057ac7d5fb9e1a2047310c2931739e543.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "量角器"
       ],
       "answer": "量角器",
-      "explanation": "量角器是专业的角长度度量工具。"
+      "explanation": "量角器是专业的角长度度量工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a5caa2d8f392a5a2233e560cda59ded6d49abb6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a3fed60b3fb1efa61075b177dbad767cd114f5be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5ba6d15e8c24cacd411534a61910331dea91a96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01d877cf08d3003b1c6f10408effe1d6cd8c480a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56a8a7fe553e612c472399af7e1f672ff6a0bfa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/1289135339fa9fe406be67baaa1d83bd241e3b88.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "内部"
       ],
       "answer": "顶点",
-      "explanation": "量角器的中心点必须对准角的顶点。"
+      "explanation": "量角器的中心点必须对准角的顶点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a5495bcfc3640c18ab1326a5fedc675f595fb9c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56e2188864f4e831bf56cd23df839fad525e2125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c3dc148b971537304eaadc4fec855bbba3858c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91da3a7a2baa14d9edf9fff4586ad1d296cc2566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d162da4eaf6182b6c15a6083c8c73921281fafad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf7c040482c29f8305e7ece29ac752b1b17a3327.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "顶点位置"
       ],
       "answer": "0刻度线所在边",
-      "explanation": "哪圈的 0 刻度线与角的一边重合，就读哪一圈的数。"
+      "explanation": "哪圈的 0 刻度线与角的一边重合，就读哪一圈的数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e392b44b4f2d60b52a8027c882a875c79fb00a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/300ee58e24cfd4c81b7d7ec54f38ddcd4823e99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85b9120ed0327bc59bac582f9197faac45084ece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17701648aa39adfe7238b60da132cabed8131bf6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698c02cd5cc47b88674307134f9d34244df1ac7a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00548e003f16fa38e04ac53ab8d873e27e7f21c3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "内外圈读数混淆，将 $60^{\\circ}$ 读成 $120^{\\circ}$",
       "中心点未对准角顶点"
     ],
-    "tips": "判断内外圈技巧：0刻度线在右边读内圈，0刻度线在左边读外圈。"
+    "tips": "判断内外圈技巧：0刻度线在右边读内圈，0刻度线在左边读外圈。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0f/0fbfad2253a8f5d1115ae48deb406bebf3c6afb6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7c/7c460de1bdcea9d33ce51a7abbad47d1b440c8c0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/15/15181ebf995591ea84a836f0c673037e8f4dc9f0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8a/8afd5c48c268b1b066c54be78d2f38cf5598c73a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c9/c941eed2f51332da4c75351d80bb5cdad6361b7d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/df/dfd2d90ca7dd738b9dc2e9ff00a717bad631b05d.mp3"
+      ]
+    }
   }
 }

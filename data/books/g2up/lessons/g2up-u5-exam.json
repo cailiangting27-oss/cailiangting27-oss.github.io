@@ -16,7 +16,11 @@
       "question": "观察一个闹钟，从前面看到的是钟面，从后面看到的是背壳。",
       "options": [],
       "answer": "对",
-      "explanation": "生活常识与观察位置的关系。闹钟正面是针，背面是壳。"
+      "explanation": "生活常识与观察位置的关系。闹钟正面是针，背面是壳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9f1a9369f0403fd282e662b6115798d534b8e9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/681153e17da53667475c29afb42adc30df7bbedc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "圆柱从上面看是一个圆。",
       "options": [],
       "answer": "对",
-      "explanation": "圆柱体的几何特征。上下底面都是圆。"
+      "explanation": "圆柱体的几何特征。上下底面都是圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c03c6a6bdbc693b942f2493c411e3b15a68fd60e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15239fd7d5ed88df321d8ade4bd5bcc13a24f5c5.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "当我们离物体很远时，观察到的形状和很近时相比是完全相同的。",
       "options": [],
       "answer": "对",
-      "explanation": "形状是特征属性。远近只改变大小，不改变观察方位的形状性质。"
+      "explanation": "形状是特征属性。远近只改变大小，不改变观察方位的形状性质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddfe7cf9ffe11fd4179e0a5207ab5efadac2e540.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5bdd3a21eb8b541c20bbc755e40fcd62d93d762.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一个物体从正面看是长方形，从上面看是圆，它一定是圆柱。",
       "options": [],
       "answer": "对",
-      "explanation": "组合推理：侧面是长方形且顶面是圆，符合圆柱体的三视图特征。"
+      "explanation": "组合推理：侧面是长方形且顶面是圆，符合圆柱体的三视图特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0e1f183152d02443bf2f535de6fb95857c2fc0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dab2cc4803737f70465e68f9434e8031565e4065.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "六边形"
       ],
       "answer": "圆形",
-      "explanation": "足球是球体，球体各个方向看都是圆。"
+      "explanation": "足球是球体，球体各个方向看都是圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd06a96082ac9495d69cbd20fb1cc12b251ddc6c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac60b7f331f894b29934a98e1f19f24fad783e3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08c2ade261e8c65fa3369b74ba30f0400b2462d4.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "魔方"
       ],
       "answer": "球",
-      "explanation": "球从任何角度看都是圆。正方体、长方体、魔方都能看到方形。"
+      "explanation": "球从任何角度看都是圆。正方体、长方体、魔方都能看到方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a5b0de4bf18a8e8e6a29baeaf89df819156011c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e75cb729ba060ba6e59d9432aa381176db9418.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/0767bbd95effba0df4fa8d5b3f04a5e66f7e3567.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "上面"
       ],
       "answer": "上面",
-      "explanation": "俯拍看到的视角是物体的顶面/上面。"
+      "explanation": "俯拍看到的视角是物体的顶面/上面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7516a362e59e0dffda8253ccaea27271dac10ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70aa1101d805f0bd92d99eb59bc4be6fe5b83fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70c2195016b7083c06a1c99b45fbcb6bc7d97c04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4ab567a7b935977e9cfb89dd2507efbc270ad3b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "球"
       ],
       "answer": "正方体",
-      "explanation": "只有正方体具备三向观察完全相等的特性。"
+      "explanation": "只有正方体具备三向观察完全相等的特性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a06fa6d690a5132551eaf9c5950ab70cfddff06f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ade156f08bbc59dfd04a912600a57f91cf7426c3.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "水壶太小"
       ],
       "answer": "三个人看的位置不同",
-      "explanation": "归因分析：位置不同导致观察结果不同是本单元的核心原理。"
+      "explanation": "归因分析：位置不同导致观察结果不同是本单元的核心原理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f195ae740e7ff96bf7fa7ca994a16299511ffb19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b23bce2a3f9b88a55b0a45ccc1df0a69fdcc6ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f32678066a6bfbe12cc4d06e0504fcf055468cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b98b0846a265c6931648220cd5e9bd507b789643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03e1c47fd634d14d51f9187602341cc8ad4bbdc4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da7568cfc592b8e97f2caf29a1f9b9b6ba22ec0b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "只看到手柄"
       ],
       "answer": "杯子的正面连着手柄",
-      "explanation": "物体方位描述。手柄正对由于透视关系会看到正面和突出的手柄。"
+      "explanation": "物体方位描述。手柄正对由于透视关系会看到正面和突出的手柄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a00f161e4ddeffd4c6e04870243361e702416c1e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc86eb99daf4abe8f5cc423e47ae75e892834a72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc7597fbca3e3d951f0b79892e4050188ab625e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0fd0712f1aee89add19afb44a77cfeccd444358.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/485b9c85c7becd9809eda31578140c51dd70abd8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8ccd1799830ca5b6dbe605668e007f5a59119a0.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "球"
       ],
       "answer": "球",
-      "explanation": "物理特性：球体在空间中是完全对称的，投影均为圆。"
+      "explanation": "物理特性：球体在空间中是完全对称的，投影均为圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28868d729e626bc2e04a21a65418f80ee54402f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9ecf5688fdde1e7a575e457ee4d09709ec3100b.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "三角形"
       ],
       "answer": "很窄的长方形",
-      "explanation": "书的侧面（书脊）是一个长条形的平面。"
+      "explanation": "书的侧面（书脊）是一个长条形的平面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/465de97ef7493b428ce387c8c2ce7941157abe47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb4aa89caa8424e5f31b0e2c0b3b10c3bb5c2a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/753152ed16f5813afc27e611d0c7ebd2c30b5ad5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3da5cd96a1dde33bdc3550081bde3b9202d55331.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个正方体有 6 个面。如果有 2 个这样的正方体，它们一共有 ___ 个面。",
       "options": [],
       "answer": "12",
-      "explanation": "列式：$6 \times 2 = 12$（个）。验算：$6 + 6 = 12$。单体面数乘以个数即可。✓"
+      "explanation": "列式：$6 \times 2 = 12$（个）。验算：$6 + 6 = 12$。单体面数乘以个数即可。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9feee0f7c9f346f4cf6d3b0634703bbff524401c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1dd4bafda1613b15221872cef058b4c75129101e.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小明观察一个长方体，他最多能看到 ___ 个面。",
       "options": [],
       "answer": "3",
-      "explanation": "根据观察规律，在固定位置观察立体图形，最多看到3个面。验算：前、右、上三个面是共顶点的。✓"
+      "explanation": "根据观察规律，在固定位置观察立体图形，最多看到3个面。验算：前、右、上三个面是共顶点的。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6da178682c2cf848baff1178b7020be224098f54.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/405c25dcda2d4e3ae9e92dd2f3744ae90bba8aa1.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$6 \times 4 = ?$",
       "options": [],
       "answer": "24",
-      "explanation": "$6 \times 4 = 24$。验算：$24 \times 1 = 24$ 或 $4+4+4+4+4+4=24$。对应四个正方体的面数统计。"
+      "explanation": "$6 \times 4 = 24$。验算：$24 \times 1 = 24$ 或 $4+4+4+4+4+4=24$。对应四个正方体的面数统计。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/427f63a21bf5f38c1d903a221c0914b68ec0522c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1b328a9e3072a18eb128b982b051d326f778b61.mp3"
+      }
     }
   ],
   "knowledge": null

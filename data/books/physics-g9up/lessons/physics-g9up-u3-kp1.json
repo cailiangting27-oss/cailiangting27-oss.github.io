@@ -21,7 +21,15 @@
         "电流"
       ],
       "answer": "电流",
-      "explanation": "电阻与电流无关。"
+      "explanation": "电阻与电流无关。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce60171d740ee57241ea22ed982231c335f3d7fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5394989b6a61400312cf0984dd05e42d2e51c95.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

@@ -16,7 +16,11 @@
       "question": "磁铁是可以被人工制造出来的。",
       "options": [],
       "answer": "对",
-      "explanation": "除了天然磁石，现代磁铁多为人工磁性材料制造。"
+      "explanation": "除了天然磁石，现代磁铁多为人工磁性材料制造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34b0c1c0357fe39401894a92dba62ece0ce4f667.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47c3fcf2f50e79230ea956e31af53acbb44c7800.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "环形磁铁也有两个磁极。",
       "options": [],
       "answer": "对",
-      "explanation": "无论形状如何，磁铁一定有两个磁极。"
+      "explanation": "无论形状如何，磁铁一定有两个磁极。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f8f31206acbb88ab105f23dc6978416f53a97d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62bdd94059c601a4e1d19d18b3bf8861e0a98cee.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "自制指南针中的钢针在磁化后必须能够自由转动，否则无法指示方向。",
       "options": [],
       "answer": "对",
-      "explanation": "自由转动是受磁场作用力定向的前提。"
+      "explanation": "自由转动是受磁场作用力定向的前提。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a9b5953b28de8fac32be20e7915d37c6db8b5d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24d0773c87de75cdab3b8090979d1b4039f3e641.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "指南针一定要水平放置才能正常指示方向。",
       "options": [],
       "answer": "对",
-      "explanation": "倾斜会导致磁针受阻或不平衡，影响灵敏度。"
+      "explanation": "倾斜会导致磁针受阻或不平衡，影响灵敏度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/803e150d7e1084e99096de3361ba918f92d77eb9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e2d491b723bc471a401fe790baa7d51639386dc.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "中间吸得比两端多"
       ],
       "answer": "回形针大量吸在两端",
-      "explanation": "磁极磁力最强，吸引的回形针最多。"
+      "explanation": "磁极磁力最强，吸引的回形针最多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe77b594e65a67946cbc1aeef03f07efed27f312.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76f8d6b63a10c5da9036a640f98adff742d0def0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/6695947f7a8cebe327b0815cca9bb28a1bfdddc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/837c2ae9888d005610fc9685f0576eaa54d3ecf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47c89e3cab41cfd6bd428767644ade575d36a53e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f1c761123270d03c539a7e3cd07d86d2fcd422e.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "一根铝管"
       ],
       "answer": "一本书",
-      "explanation": "一本书属于非磁性物体且厚度适中，磁力可以穿透。"
+      "explanation": "一本书属于非磁性物体且厚度适中，磁力可以穿透。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d277b6214de380b54f68c99f9aec930f38d4cc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e7184b72c5d7588bea5509a11299d02d0093238.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b9d53d8b76eaa55ef15c311445c2a310ae0f98a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/141495f269bbc4278e9204d0e21746a74e8df87f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41fcdc2b63c17fab4d1d3c78cd000f00cef0799c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bcd2de87737fd40d096a4c4021cfe15979b3785.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "异名磁极"
       ],
       "answer": "同名磁极",
-      "explanation": "排斥说明是两个N或两个S，即同名磁极（或称同极）。"
+      "explanation": "排斥说明是两个N或两个S，即同名磁极（或称同极）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05486e2effdf481da3153324145422be6a4dc1ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7897f69e60590cbe165e043b98e1e2c89da42fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fde3c2bad1e1096837fc0c1a86fb63b8ba21aaf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc99a4149b1b6ee3ed864f22f949998cd48ef132.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7233146fa08c7663da08e2809df45298c12a10d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da1c0faa8cad8fa357416517a3a9993a573e1549.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "弹簧"
       ],
       "answer": "磁铁",
-      "explanation": "冰箱密封条内有磁吸装置，确保门能紧贴铁质箱体。"
+      "explanation": "冰箱密封条内有磁吸装置，确保门能紧贴铁质箱体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a064fe219bc52b1043cad71dffeb7e7f980dd9f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57971d68563d791e5fd6e85e4915a45f55815678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10d0f0536a96d38b397b32589381eb78fc6f8a71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92188c94c90a50e23d779c88aac0e8d675932251.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74d5175d3f668e77f0d5c7fc5e8b71e68c5a3c33.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af163c0a8520cf25cd02c097058eecf1c807c296.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "左右旋转"
       ],
       "answer": "靠近吸住",
-      "explanation": "异极相吸规律的应用。"
+      "explanation": "异极相吸规律的应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a19e67593c2fb7da29baa790639fe7e412034f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1d0b11c5c4e213752a399263f63987db1ffb526.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f008f46645adeed2b445e1957b846d95b92de667.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea6cee29fdf4a6dd38910070413e05e5a98295c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e4fd7bb8183c149f48c97511cadbca488377094.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6677b97648d44a26cab52ee7c073557df162b5f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "放在盐水里泡"
       ],
       "answer": "单向摩擦多次",
-      "explanation": "单向摩擦能排列钢针内部分子磁畴，形成磁性。"
+      "explanation": "单向摩擦能排列钢针内部分子磁畴，形成磁性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5a977e6edc841a1df5b04db0f11ab97ec012680.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03cacd13c0d576e4cf6f338c14be30c041b48903.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/572eb0153ca86cd6aae07478dd37d51e046825c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a86c8eafc90543697eac6d5fe4c453ddc1d049.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c27a00407d792908aa37e8de901a961bf68e72.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/637944ee5ff2e1ff5cf8939b95ce4e4856e7d18f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "纯金"
       ],
       "answer": "铁或镍",
-      "explanation": "我国现行一元硬币为钢芯镀镍，属于磁性物质。"
+      "explanation": "我国现行一元硬币为钢芯镀镍，属于磁性物质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f49311c33ba16481412d2a76b759b3ae31c30b6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f33d7ff453685046b6b569ab80e311f48aa15434.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5904b6a812713314c7434d02a2c285be378b13d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf33d514c1a703ddf7f1c2fd297e242d6fcd1c51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce8e2f1e01583a33102ef81bdecfb9487831c8ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4aad0df1a9b0aca864738cca16d50c01bda7f9d7.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "没有磁极"
       ],
       "answer": "直的两端",
-      "explanation": "蹄形磁铁的两端是磁力的聚集点。"
+      "explanation": "蹄形磁铁的两端是磁力的聚集点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae0e3b6a4c91ae4f99833710aa5086d98ea7e92a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/843d0796208ec2360bbbc29e5b47d2f416a33466.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f745943575a6588df296cb204e2c73c9678b3bd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58ccc7d7d514b15eab9d1a45ce6b71972e089b9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8b4bdfdea8b61dce5558684a07d7685664fd5fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24df92b45dcb0218043a34c6f1f78c04fc7be47f.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "将钢针磁化时，通常需要朝一个方向反复摩擦（    ）次以上效果才明显。",
       "options": [],
       "answer": "20",
-      "explanation": "实验经验显示，20-30次摩擦能使钢针磁性较稳定。"
+      "explanation": "实验经验显示，20-30次摩擦能使钢针磁性较稳定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b82a67899b6d2d05999617c89c1bc278c295d59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8af82c3fe4f6e025be06a2fccb7ddcb685ab5a0d.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "现代指南针的刻度盘通常将圆周平分为（    ）度以便精确读数。",
       "options": [],
       "answer": "360",
-      "explanation": "圆周度数为360度。"
+      "explanation": "圆周度数为360度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fee69bf77c715c033d03670a6d778792813e0006.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acd259f8b49fee216ebfc5dff94d2c2c3cbf1920.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "磁铁指北的一端用字母（    ）表示。",
       "options": [],
       "answer": "N",
-      "explanation": "N是North（北）的首字母。"
+      "explanation": "N是North（北）的首字母。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/952cb39ae28fd24104a4fe11881cb44fb0f70196.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6650ab730c2f417662a4493b98a78bd4772bf8b.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,15 @@
         "向右"
       ],
       "answer": "向上",
-      "explanation": "$a=2>0$ 开口向上。"
+      "explanation": "$a=2>0$ 开口向上。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a09a74754ba671054ddea3a2ae8f93c1505605b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f156d6ec3ccb2f5e667b1e248f7ac70223b0c02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a2815ba048ab4128c8f90d6c7412b2ea84d2495.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/269b34903d1839a0a4f307b2b86244b99761b287.mp3"
+        ]
+      }
     },
     {
       "id": 2,

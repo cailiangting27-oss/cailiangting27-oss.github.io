@@ -21,7 +21,17 @@
         "踩一脚"
       ],
       "answer": "主动捡起来",
-      "explanation": "主动维护班级卫生。"
+      "explanation": "主动维护班级卫生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e67a7348343fde39901c662660ae587f6cf8da2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a339de65e601bb540846006e3896c79bf94df687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3f83692d7d55c623d95966016febf1471ff8f17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de8b2edac435c8e7a8610017d17c58614162b41e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f83fb1920423a6f4e2436ca1c6c487baeb30757.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9cfc37264cafbfc5bab6a47475f9925bcd9c5da8.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "把分内的事做好就是有责任心的表现。",
       "options": [],
       "answer": "对",
-      "explanation": "做好分内事是有责任心。"
+      "explanation": "做好分内事是有责任心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c872fb271a2dcc9d342b21c8575c311274fddb0c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f9277d4c3adebced44727c09822c76f7163a776.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "帮助同学"
       ],
       "answer": "欺负同学",
-      "explanation": "欺负同学破坏集体。"
+      "explanation": "欺负同学破坏集体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4a863a006c49f55031f76e8dff8b6b7280f4903.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0f3c839c6d5ef30311976055a6688a35924d8f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad94b87c9abfb606c9ae314b20b751497ca5dfc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce9dcd05e0b07ea517425bc6fe3f270124f7bdbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967601b1072ae0f235d02040906be335a90cb53c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/187efaef30d6d4c0a7f0e3a91f95c5663a49e469.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "班级的事要靠大家共同做好。",
       "options": [],
       "answer": "对",
-      "explanation": "班级靠大家。"
+      "explanation": "班级靠大家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2e9fe6ca2742aa3a88b10e49ecf9229f5e43b9a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/254bea92a128fed08322bc4f5fff6859bf027c4f.mp3"
+      }
     }
   ],
   "knowledge": null

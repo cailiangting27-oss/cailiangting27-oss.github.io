@@ -16,7 +16,11 @@
       "question": "在调查全班同学最喜欢的颜色时，每人只能选一种颜色。",
       "options": [],
       "answer": "对",
-      "explanation": "为了保证数据的准确性，每人只能选择一项进行投票，这样统计出的总人数才与班级实际人数相符。"
+      "explanation": "为了保证数据的准确性，每人只能选择一项进行投票，这样统计出的总人数才与班级实际人数相符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbc2b29fc0479a2127b9ca318c2ebb02f79a861c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e9bd418e0ce7f8323c690045f9860be1934eda0.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "调查本班同学最喜欢的运动，可以用举手的方法收集数据。",
       "options": [],
       "answer": "对",
-      "explanation": "举手、投票（无记名或记名）都是常用的数据收集方法。"
+      "explanation": "举手、投票（无记名或记名）都是常用的数据收集方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85cbe70712322336a4d137f0fb4b7a79e81080c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d5ebe748fe5e260dbc16b205d85a797c4be0fe0.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "谁成绩好谁当"
       ],
       "answer": "大家无记名投票",
-      "explanation": "投票调查能反映全班大多数人的意愿，是最客观公平的数据收集方式。"
+      "explanation": "投票调查能反映全班大多数人的意愿，是最客观公平的数据收集方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d7eb3160e714c2b5401e98eb5c786e7b12251b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3acd4d9744352a1cbb89ad60d228da8701e6b13c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fabf7ff3f23797f8d8172b09e9073808dcb7b41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33a9f37c72ab3452022207f3e8cc3afdaed39d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3671cbcacc83a69afaec7a781edf12a6a5e95f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b53ea904df3fd94aa0e170fa608a854c9155124.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "统计时重复计数，导致总数超过实际人数",
       "漏掉部分调查对象，导致数据不完整"
     ],
-    "tips": "调查前先设计好表格，调查时喊一个名字记一个，能有效防止漏记。"
+    "tips": "调查前先设计好表格，调查时喊一个名字记一个，能有效防止漏记。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/60/603653adb4e4e1fb18cbb0f90ec3f25369a3a060.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f8/f81dce43cfee7919ec4a641d7a04d7a9e94aabaa.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/38/38d9c87ec42dd8ade0187dffbee477151446df74.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a3/a38eceeac55a7b75a4c5ee12f81324f0b0c3efe4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1b/1bdc9205a40019a756a85737ecbcc7f027c7f1e0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c8/c8b4dbbd11d720508df5ffc00734192f3dd426d0.mp3"
+      ]
+    }
   }
 }

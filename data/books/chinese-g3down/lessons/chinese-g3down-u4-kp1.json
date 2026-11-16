@@ -16,7 +16,11 @@
       "question": "每一段话的中心句只能出现在段落的开头位置。",
       "options": [],
       "answer": "错",
-      "explanation": "关键语句可能位于段落开头、中间或结尾。"
+      "explanation": "关键语句可能位于段落开头、中间或结尾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dcd0eb8ac2fd546a4d26f1953c0bfad8de0b6eaf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8b0e0a4c2329825486485367c37f8bd81b06ff8.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "关键语句有时需要我们对文中的原句进行适当删减或修改才能作为段意。",
       "options": [],
       "answer": "对",
-      "explanation": "概括时往往需要提炼核心词，剔除修饰成分。"
+      "explanation": "概括时往往需要提炼核心词，剔除修饰成分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b01897461d30a150d28cb3e7fd136889c2647e7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/356ea94e76a0a77f771c3bcb81de9e4c833a5fb4.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "要是我们留心观察"
       ],
       "answer": "不同的花开放的时间是不同的",
-      "explanation": "这是本段的中心句，起到了总领全段的作用。"
+      "explanation": "这是本段的中心句，起到了总领全段的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a18cdd84d247de0eb56004bb1adbd5f39f2136e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/157e5392dd45ebd94338ea95928f4ea1786d73e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0adb440e121123924ee211e00023a0616da38cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5aeaaa7e1b78693adda222ca66628a0bf01075f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5eec8389a896bf1cf0b80f7477ca6541e3c728f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee9ac47470b63997aa67f7f05e42a71da334e1c0.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "缸里的虾有大有小"
       ],
       "answer": "缸里的虾真有趣",
-      "explanation": "首句即为本段的中心句。"
+      "explanation": "首句即为本段的中心句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0c87d8b3d75c82c29c3b7d1add78a2a7c85cfbe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/4432640097dc3f087f44f1fbe3b222edc3485ba9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dfc5e2876d8ac0988846ee42e326e51d4d0abed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d96d9c6117419115b048767ffb83be1cd13f987b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cbdf0b8f08b3f8fd930e3bcebf6f29d9cdac742.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18f536a128ea42a147881bef2fca83806cb0e6c0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "误将段落中的细节描写当作关键句。",
       "概括时生搬硬套原句，不会根据语境进行缩减。"
     ],
-    "tips": "先数句子，再看第一句和最后一句是否能概括整段话的意思；如果不能，就找各句共同描述的对象。"
+    "tips": "先数句子，再看第一句和最后一句是否能概括整段话的意思；如果不能，就找各句共同描述的对象。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a5/a5b43a7cb5b36008fb9bff18a0d2c55c86e140c1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e6/e68ef9990e73ca3f80d3600442181e7d7348671c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/99/99cbf547ec1d42d908fd66c087c044f5985eed23.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/53/53823fa32fc4c763b3783ba508770816ad28811e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/011cb7dc341bd05f370ed7a5c9679d69f51cec98.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2f/2fe4204534064350c3944625fae18de63af180f1.mp3"
+      ]
+    }
   }
 }

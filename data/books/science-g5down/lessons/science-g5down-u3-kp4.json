@@ -16,7 +16,11 @@
       "question": "过度包装会产生大量的垃圾，不符合垃圾减量原则。",
       "options": [],
       "answer": "对",
-      "explanation": "减少垃圾产生的最好方法是从源头减量，如避免过度包装。"
+      "explanation": "减少垃圾产生的最好方法是从源头减量，如避免过度包装。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e64cf02550263fc090c36cb2518096bfa9c680a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f22e03ff5f9bc30f49e0fc8b0bf57541cb6f3ee0.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "其他垃圾"
       ],
       "answer": "有害垃圾",
-      "explanation": "含有毒有害化学物质的垃圾必须单独投放进行无害化处理。"
+      "explanation": "含有毒有害化学物质的垃圾必须单独投放进行无害化处理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a119ec10f991938ad40e40539d735d11dfe19e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b0ee977123b3df882c19d5ab1d96001ecd341eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbe16fb97966d79f2edbc827ed27cdc1759e114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a38f54b95f87489e46b8f0587755b242a28d5a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7946fb7921e02031e0f40e6462200153da8001e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/437aa936528c65f98922233d296ccceac06ba404.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "其他垃圾"
       ],
       "answer": "可回收物",
-      "explanation": "纸类属于可循环再生利用的资源。"
+      "explanation": "纸类属于可循环再生利用的资源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b738d73bd4deccbc1ff29d226f5047d38e0af7b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/dfbe16fb97966d79f2edbc827ed27cdc1759e114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b0ee977123b3df882c19d5ab1d96001ecd341eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a38f54b95f87489e46b8f0587755b242a28d5a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7946fb7921e02031e0f40e6462200153da8001e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb78967cb7fbb8aac4fa25292479a550d72d3884.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "用空罐头盒当笔筒"
       ],
       "answer": "回收玻璃瓶重新熔炼制成新瓶子",
-      "explanation": "Recycle指的是资源循环利用，即将废弃物作为原材料重新加工。"
+      "explanation": "Recycle指的是资源循环利用，即将废弃物作为原材料重新加工。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a32b321303cc7bb721a6b2c2ab7c2686e7e396b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf83060a53dda39fed2df31126e4f19576fa8899.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/878fb343a9a620c13a608bb6e822e2f1f2032772.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/199e8554fac5ee07fdb7b53367b49bca922791e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ae0ae78ed1f0679f27e7843cb4413dcb18adc07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60f0621d1e20999ccdc77f64f395f91f9a095d99.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "垃圾分类时，我们通常将垃圾分为（___）类。",
       "options": [],
       "answer": "4",
-      "explanation": "标准分类为四类：可回收物、厨余垃圾、有害垃圾和其他垃圾。"
+      "explanation": "标准分类为四类：可回收物、厨余垃圾、有害垃圾和其他垃圾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e923cd10837135f26815d716a1493303261e32e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4b2d2c476e581f8252cff1494efe67b10ff3c29.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "剩菜剩饭、果皮、菜叶属于（___）垃圾。",
       "options": [],
       "answer": "厨余",
-      "explanation": "腐烂垃圾通常被归为厨余垃圾，可堆肥处理。"
+      "explanation": "腐烂垃圾通常被归为厨余垃圾，可堆肥处理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/524cb2d296da20e8de76b6bbafa9b882f7ba1d33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa3ace8b1840fe80b0253eea4e2dba00fff5f398.mp3"
+      }
     }
   ],
   "knowledge": null

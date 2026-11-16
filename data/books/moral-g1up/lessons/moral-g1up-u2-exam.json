@@ -21,7 +21,17 @@
         "高年级同学要钱"
       ],
       "answer": "老师",
-      "explanation": "找老师是最可靠的办法。"
+      "explanation": "找老师是最可靠的办法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2bf8a496814a99e15f899b14a885418cc3ba2ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92288330ac05504ef8ef32f0129b5133eb813dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51918016ed4f51c46409b8dae67b39d806ce4f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55f1c878cc8b035fc87a6430f9f1f1e10b88ca79.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d06bbd7d76348ae42742363425e07962a139109f.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "家人的照顾不是理所当然的，要懂得回报。",
       "options": [],
       "answer": "对",
-      "explanation": "要体谅家人的辛苦。"
+      "explanation": "要体谅家人的辛苦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9fb1ab22de0f794d3381c8996d8318be6feb1fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/941691d363a56f6481d151f09483de6190c63a08.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "跳绳"
       ],
       "answer": "小刀",
-      "explanation": "小刀属于危险物品。"
+      "explanation": "小刀属于危险物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c07264b3f8d19aa5be75739a89b47073f7e3dd3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1bdbdeef93f48fe3f3c3979fefdefdb5ed77833a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e78f3b921dfc1b8446f8c7a4ada06b647504f01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a5f3bcf277c70a93abfc4bb1e4c89d4cc4a08b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c53f94cd996669a19f8484bfb9cb5b37c0ce2d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74c19628154a063c10210588d05f3312710d6433.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "课间休息时要文明游戏，不打闹。",
       "options": [],
       "answer": "对",
-      "explanation": "文明游戏保安全。"
+      "explanation": "文明游戏保安全。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66f15a5905f6d9937b3c3cf63ea4498b4ea2db27.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f17a53929fdb63fbd2276d590bb99c265a42c9d.mp3"
+      }
     }
   ],
   "knowledge": null

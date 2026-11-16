@@ -16,7 +16,11 @@
       "question": "批注只能写在文章的开头或结尾，不能写在句子旁边。",
       "options": [],
       "answer": "错",
-      "explanation": "批注可以写在标题旁、段落间、句子旁或文末等任何有感受的地方。"
+      "explanation": "批注可以写在标题旁、段落间、句子旁或文末等任何有感受的地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c97d8d8224cef798554dd863896247fb99e31ce4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8cebde402deab595ea6264d63e113984adfa27c.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "如果对文中的某个词语不理解，可以用圈点加问号的方式做批注。",
       "options": [],
       "answer": "对",
-      "explanation": "批注包括符号批注和文字批注，符号也是批注的一种形式。"
+      "explanation": "批注包括符号批注和文字批注，符号也是批注的一种形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cd7072ec8456297d262b2f560d0cbd2133ade3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d22aba0204746e0a1b133dc11a4dfccfa7d53464.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "“我”觉得自己很威风。"
       ],
       "answer": "“我”既期待又担心。",
-      "explanation": "文中“我”一直想上台，但由于没演过而感到紧张，这种复杂心态最契合。"
+      "explanation": "文中“我”一直想上台，但由于没演过而感到紧张，这种复杂心态最契合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d4367689e32ddc55b339fec68d7f0a9d780192a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81a21c198e89b2a4fcca83a7b703c2c6361d46f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/0536769959ef3b083c7f6651f100bb81bfbbf2af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/056a9bc566dc21bc90b3007c31717a5ccb3d944f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e64d4466558abdfc3f4a6367384a1e3d61f6371.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89fc84ebb0e2b43eb9288888a8626b9241eee517.mp3"
+      }
     },
     {
       "id": 14,
@@ -59,7 +77,17 @@
         "对道理的感悟"
       ],
       "answer": "对道理的感悟",
-      "explanation": "这句话是富有哲理的总结，批注其含义属于道理感悟。"
+      "explanation": "这句话是富有哲理的总结，批注其含义属于道理感悟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e32c19f598121e39d89786de47bd5438cfae7cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/283e9fa1b6ab184b21ff6cb11408da0cfee2b0e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ee692e6c16e49baa42bdcdffd120216af566137.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c55163890cfbd8a2686c965dc7464ae46aef8d6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50ba129739028747649391ed262859918fcf218e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/929991b2d2bdc1aa69f0bcf3502d4e89f8645b8f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "批注内容过于简单，如只写“好极了”，没有具体评价原因。",
       "分不清批注类型，将对内容的理解误认为是对写法的点评。"
     ],
-    "tips": "可以先用铅笔做简要勾画，最后在文章空白处写下完整的感受。"
+    "tips": "可以先用铅笔做简要勾画，最后在文章空白处写下完整的感受。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a2/a2014b771729c00203b87635cd7d4b22bc5f6cc5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ac/ac39d50e7e298124f5e984fdfe645069d780bd33.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7e/7e82601ca5b38758ee0a94ba486a501031b20fd1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6b/6b6045f65cc7e6b93f4b6a59f24d36d32a27b2d0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ce/ced07e3790a040467c8046c89782ffc199994f16.mp3",
+        "https://api.clthuanxie.cn/cc-audio/91/91b281d94311cba7fa2d2a499def0941d54514b8.mp3"
+      ]
+    }
   }
 }

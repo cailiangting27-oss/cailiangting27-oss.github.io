@@ -16,7 +16,11 @@
       "question": "0.7 比 0.9 小。",
       "options": [],
       "answer": "对",
-      "explanation": "比较一位小数：整数部分都是 0，十分位 7 小于 9，所以 0.7 < 0.9。"
+      "explanation": "比较一位小数：整数部分都是 0，十分位 7 小于 9，所以 0.7 < 0.9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86b9fce522f41a4e047cef1f64dc60906d7e7ede.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd6cee81f6b41a6395f1fd77afe75896c9586d3c.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": "1.1",
-      "explanation": "先看整数部分，1.1 的整数部分是 1，其余两数是 0，1 > 0，所以 1.1 最大。"
+      "explanation": "先看整数部分，1.1 的整数部分是 1，其余两数是 0，1 > 0，所以 1.1 最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43ec85ac643c788cb90455bdd416d5e69d7ec916.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b390cd54a0c0d4f27fa7adf23e3c45536e9f37c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98250286db92ccc336dc6f622c10c8bc09286693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4491f8b5ecc09d9de308ea37e6a23ad2dd66c256.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/1616f24b48a8d9bc1741cd10cacab3c4a4eae0b6.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,11 @@
         "≈"
       ],
       "answer": ">",
-      "explanation": "整数部分相同，十分位 6 大于 5，所以 0.6 > 0.5。"
+      "explanation": "整数部分相同，十分位 6 大于 5，所以 0.6 > 0.5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8516fdc4175d6ae607a3d39576c68602c8be1ba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fe855e030933c7e8c0b80435a3a6d0f9a91035f.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +82,17 @@
         "无法确定"
       ],
       "answer": "小强",
-      "explanation": "比较 3.2 和 2.8，整数部分 3 > 2，所以 3.2 > 2.8。"
+      "explanation": "比较 3.2 和 2.8，整数部分 3 > 2，所以 3.2 > 2.8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a1f887eae70e9ad0045e05aae2ec748bcadf180.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/faf839242e5669603f5f54276004cd307c3de4a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bf942b5cced554d87769e25317be836b7a7f3fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e5850e22064d285372bad7518b4d133ad99879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07edb3a6aa290d3d1979f4f4912a6bf0ebbc91ee.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +103,16 @@
       "受整数大小比较影响，认为数位多的小数就大（如误认为 0.12 > 0.8）",
       "比较时忽略小数点的位置"
     ],
-    "tips": "比较时可以把小数转换成元角分来理解，比如 0.9 元是 9 角，1.1 元是 11 角，这样更直观。"
+    "tips": "比较时可以把小数转换成元角分来理解，比如 0.9 元是 9 角，1.1 元是 11 角，这样更直观。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d2/d266342877bc6776f5d3e0aacc595771a463dd1b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/35/3549488dba4d31a95ba51746c62b917075f65fa6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1f/1f81a94bde2573a0ce0b80243361080fe41636da.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/aa/aaacc3dcccd80a8480df131e3522875dc393a495.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/60/60073d04d95a73abc3f7e385232ac5691616596b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/40/4078dc9d4281d14daf13849b565cfe7ea499af6a.mp3"
+      ]
+    }
   }
 }

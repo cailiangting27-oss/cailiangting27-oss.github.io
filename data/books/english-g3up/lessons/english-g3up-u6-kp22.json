@@ -16,7 +16,11 @@
       "question": "Let's eat ___ cake.",
       "options": [],
       "answer": "the",
-      "explanation": "吃那个蛋糕，特指生日蛋糕用the。"
+      "explanation": "吃那个蛋糕，特指生日蛋糕用the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39ee9f80e7e5050d2e17a24316a6dccf82da2de3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5d2f7be00dcb27e7833d5055a3cc7039a3bba03.mp3"
+      }
     }
   ],
   "knowledge": null

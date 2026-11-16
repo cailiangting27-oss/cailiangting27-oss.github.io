@@ -16,7 +16,11 @@
       "question": "验算有余数的除法时，可以用：商 $\times$ 除数 $+$ 余数 = 被除数。",
       "options": [],
       "answer": "对",
-      "explanation": "这是有余数除法的标准验算公式。验算：$7 \times 3 + 1 = 22$，$22 \times 3 = 7$ 余 1。"
+      "explanation": "这是有余数除法的标准验算公式。验算：$7 \times 3 + 1 = 22$，$22 \times 3 = 7$ 余 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12a04adf283b71a8b7128612b048ad991af436d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83d83b8c8c99a2c3a4827e74a7267c6fdbbd0913.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "625"
       ],
       "answer": "501",
-      "explanation": "根据验算公式 $A = 125 \times 4 + 1 = 500 + 1 = 501$。"
+      "explanation": "根据验算公式 $A = 125 \times 4 + 1 = 500 + 1 = 501$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad835ebf820b38bf1668ad4e45dda69b5f2befe3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c9a62c3748f484690d547c0d707aededf04fbd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edd6ebda641b723cc1bc537c49099c1d5a458138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44b2920d7e9cb7c0ab668fd380af0c242dc27ad4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b01202f4b812d600a3d42fdabb8ba7811037d604.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "验算有余数的除法时忘记加余数",
       "被除数减去余数后再除，逻辑混淆"
     ],
-    "tips": "验算就像是“原路返回”，乘回去再加上剩下的，一定要能回到原点。"
+    "tips": "验算就像是“原路返回”，乘回去再加上剩下的，一定要能回到原点。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8f/8ff1931c56e5ce73ef74eeb361c2c7adb3449d30.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0f/0fe09357db3afae76dbb02d6ebffd39325f01b80.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/73/73b97b4cacd80491f4aadb34dc1523d4b32a4bc6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a0/a0ed642248f8e4c6156bfc27fbe510ca8a2cdabd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/33/334f5684244fd5c5192d435da2c6ef18aa132462.mp3",
+        "https://api.clthuanxie.cn/cc-audio/75/7563cd9d316cf3dcfd131a966591fa940d1c40c3.mp3"
+      ]
+    }
   }
 }

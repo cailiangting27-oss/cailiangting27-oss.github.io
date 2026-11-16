@@ -16,7 +16,11 @@
       "question": "单词 'arm' 和 'car' 中 'ar' 的发音是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "ar在这两个单词中都发/ɑː/。"
+      "explanation": "ar在这两个单词中都发/ɑː/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16b054fd28b5eb096c26df0fb46d4fb0c22c56c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2d70a60f595b9bee835f19db7e32e5900b4ed4a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "纳米是一个长度单位，比毫米还要小得多。",
       "options": [],
       "answer": "对",
-      "explanation": "纳米是非常小的长度单位，一纳米等于十亿分之一米。"
+      "explanation": "纳米是非常小的长度单位，一纳米等于十亿分之一米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1401ed88d134f3475b6dc84c67c61be2d95e20e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/741db771ee041b1e52deeb3ccaa88a6f90d21bf4.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "100厘米"
       ],
       "answer": "4厘米",
-      "explanation": "课文中用“假如把直径为1纳米的小球放到乒乓球上，相当于把乒乓球放在地球上”作对比，乒乓球直径约4厘米。"
+      "explanation": "课文中用“假如把直径为1纳米的小球放到乒乓球上，相当于把乒乓球放在地球上”作对比，乒乓球直径约4厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c0c0be45b12c66a2752aefca1b978e5a5821db8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e8/e87e33478958b32e2838441fae13c0603a6177dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c82e45a11e4fb8c02ff650c97eb534841ab1d85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9ef7628f436e42a19f91748c8ce13724a759bed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0588d78be36d06e9295fcc1660ecb052d591db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/446e1526e52df316ef3b8672355e2c63fd928a16.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "制作美味的罐头"
       ],
       "answer": "制作美味的罐头",
-      "explanation": "课文介绍了医疗和材料应用，未提及罐头制作。"
+      "explanation": "课文介绍了医疗和材料应用，未提及罐头制作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4011e236011a8c101cf42a07792153c2938cffb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e71a15290246f4e5c76bbc03e533c6be742cf55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2cecd66c6777c5717b86168c3439035c5279617.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5a962e2324ff17ae3af370a57a2b468cd7e44aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db7491d36d0c2975cafeda0c2cdf887ae6e49833.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c280215b35cac490de1c9adc2c54c52ae763939f.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "1纳米等于十亿分（___）米。",
       "options": [],
       "answer": "之一",
-      "explanation": "考察对纳米概念中数值比例的记忆。"
+      "explanation": "考察对纳米概念中数值比例的记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf89c08ba1d09e96213a79832c356be59541b57e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3b1f48ada332ceb355666e8c5abc3572ad6b118.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "误认为纳米是一门学科而不是长度单位",
       "对纳米技术能让物体消失（隐形）产生魔幻化的误解"
     ],
-    "tips": "可以用“头发丝、乒乓球、地球”的对比图示来帮助感性认知纳米的大小。"
+    "tips": "可以用“头发丝、乒乓球、地球”的对比图示来帮助感性认知纳米的大小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5a/5a1e3b78f66975f230d197433a6b5bd9ec50dbd5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/67/675c2b113b18c2ae4e311f5b0a425b08bdc4f9e9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/83/833adbbae2cfbfe004fb110e38f4ebfa75da2687.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f055bc361aa1de99f52f0f7614039d1a704616b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1a/1acdf59dade666b0bfa4a2218332ae0c3ba00416.mp3",
+        "https://api.clthuanxie.cn/cc-audio/dc/dca0855d2a11798d03c6e7acfc29f35f309d431b.mp3"
+      ]
+    }
   }
 }

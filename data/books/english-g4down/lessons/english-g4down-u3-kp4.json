@@ -16,7 +16,11 @@
       "question": "'sunny' 的意思是'晴朗的'。",
       "options": [],
       "answer": "对",
-      "explanation": "sunny意为晴朗的，sun为太阳。"
+      "explanation": "sunny意为晴朗的，sun为太阳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/702bac8bc9471f5dbb63aa4784efe3e8c3dc44d5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f32aa93f3b8006ef5c8b268d3fa56548381a55e3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'rainy' 的意思是'下雪的'。",
       "options": [],
       "answer": "错",
-      "explanation": "rainy是下雨的，snowy才是下雪的。"
+      "explanation": "rainy是下雨的，snowy才是下雪的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bd051c3d9d2c607f2e92e6723dbc1db13f921b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8697b21f07ba9f95c91f184ab29174e79aa4cd1.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'cloudy' 对应的天气现象是'多云'。",
       "options": [],
       "answer": "对",
-      "explanation": "cloud是云，cloudy是多云的。"
+      "explanation": "cloud是云，cloudy是多云的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/224e54aa1be3ae806f1f7599d27739ba25a01f7e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/8203a0d680d58ba40fe449bcd05ff4ba4d4c998c.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "sunny"
       ],
       "answer": "cold",
-      "explanation": "由后句'穿上外套'可知天气很冷。"
+      "explanation": "由后句'穿上外套'可知天气很冷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6824fdecc221111af986b7472473c657efd1fe6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/424fa43965bde21e1a972336f3c3bc0dcaafebf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d83fc386ba33f5d5e06441c03df77ebee2beb6e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0888b09c17ff89616c56867015a44a48e558ca5.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "sunny"
       ],
       "answer": "rainy",
-      "explanation": "下雨的对应单词是rainy。"
+      "explanation": "下雨的对应单词是rainy。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d9e52fe78d033d87f90985f2c3deb85a16cf98f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a53260b3d6e1d0d9d9fdd4b842577fa263c195e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/089e40376dd718d920f4c9e890ac27637aed3554.mp3"
+      }
     },
     {
       "id": 9,
@@ -86,7 +118,17 @@
         "cool"
       ],
       "answer": "snowy",
-      "explanation": "堆雪人(make a snowman)需要下雪的天气(snowy)。"
+      "explanation": "堆雪人(make a snowman)需要下雪的天气(snowy)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1828ec78652e7dc18450a87ae6ca72cfefe8e135.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d83fc386ba33f5d5e06441c03df77ebee2beb6e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85d8d76ba15bde3ef1602f477f32fd64e32fea5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66694d6f45e4ab064cc24a39c2d4eebc4df4f2a9.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "cloudy"
       ],
       "answer": "sunny",
-      "explanation": "太阳出来了，天气是晴朗的。"
+      "explanation": "太阳出来了，天气是晴朗的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/feed403993eb24e54d17c5c84827343ba2092c12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a53260b3d6e1d0d9d9fdd4b842577fa263c195e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6645a017fe822d2e89b89d2d9d2e09ede8dc0c3a.mp3"
+      }
     },
     {
       "id": 16,
@@ -113,7 +165,11 @@
       "question": "It is very ____ (炎热的). I want some water.",
       "options": [],
       "answer": "hot",
-      "explanation": "炎热的对应单词是hot。"
+      "explanation": "炎热的对应单词是hot。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b126fd90da6deee78085549db5f78c51f4201ce6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4d80dc71456eff49ce177775b5f50840c6beafb.mp3"
+      }
     },
     {
       "id": 18,
@@ -124,7 +180,11 @@
       "question": "It's ____ (凉爽的) in autumn.",
       "options": [],
       "answer": "cool",
-      "explanation": "秋天天气凉爽，单词是cool。"
+      "explanation": "秋天天气凉爽，单词是cool。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56fb5d9470fbaf4ddbf103802b0099d2e61e89a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/335facd48e488421d29fcd154312e1cd46c5f3cb.mp3"
+      }
     }
   ],
   "knowledge": null

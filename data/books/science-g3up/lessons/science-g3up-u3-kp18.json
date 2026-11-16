@@ -21,7 +21,17 @@
         "暴雨"
       ],
       "answer": "中雨",
-      "explanation": "10-24.9毫米之间为中雨。"
+      "explanation": "10-24.9毫米之间为中雨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad12de4ae397618edda8d30c6d060a53096ca0de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bbdd1ec9a12967dc8247ce9a678ee459226bb2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b9bc287b6935c92dac5a9714f7168ad52711b81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89359e4ac0ab55662d32d73b2b9e2385d56940f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e6275c4b5937c4bcfd8c54f94b656d508ecdb00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a397b0baa888b04c1f669c20c1cd3dd7ba4c3208.mp3"
+      }
     }
   ],
   "knowledge": null

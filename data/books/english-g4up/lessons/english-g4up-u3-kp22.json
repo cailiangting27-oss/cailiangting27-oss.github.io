@@ -16,7 +16,11 @@
       "question": "He doesn't talk much. He is ______(安静的).",
       "options": [],
       "answer": "quiet",
-      "explanation": "不爱说话描述的是性格安静quiet。"
+      "explanation": "不爱说话描述的是性格安静quiet。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e283ad6beac1970975a6ccb8a98694aa3b58bb09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac6c8085635a2cb2fe8c948381c13269e371939e.mp3"
+      }
     }
   ],
   "knowledge": null

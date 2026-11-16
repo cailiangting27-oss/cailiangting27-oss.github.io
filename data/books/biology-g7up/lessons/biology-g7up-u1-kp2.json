@@ -21,7 +21,15 @@
         "合作"
       ],
       "answer": "温度",
-      "explanation": "温度属非生物因素。"
+      "explanation": "温度属非生物因素。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9ca3f815a4171b9b6fd984d9855dfa83568cfc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/711aaa6b2f02e5f8441fcb7b6c4a12a90c1d36a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3bea9efb1b9edf6ac397d8011e28e0e8a507cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27df72658dd3dba423507cc868c25bec5b5a5f55.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

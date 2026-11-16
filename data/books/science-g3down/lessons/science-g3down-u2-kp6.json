@@ -16,7 +16,11 @@
       "question": "蚕的一生是从蚕宝宝（幼虫）开始的。",
       "options": [],
       "answer": "错",
-      "explanation": "蚕的一生是从卵开始的。"
+      "explanation": "蚕的一生是从卵开始的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9bffdadf8b5b6eaf89fd5312aeb15e0059c6ab2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcdfeb9876aa0ebefbde61a06710eb2f0fffb924.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "蚕蛾"
       ],
       "answer": "五龄幼虫",
-      "explanation": "五龄幼虫（即将吐丝前）是蚕身体最长的时期。"
+      "explanation": "五龄幼虫（即将吐丝前）是蚕身体最长的时期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8a9a7869f961c2c046c5d00ce8bf933eff9489c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/839e8a9715cd11014c369390da6cfbf5d56a82e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15ca1fbbe3f3cf04b57869f117ded908e5d01914.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0daec956f3ef653c92b78b7733d312d698e1b94a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f41bbd501d23a4d6ae8e5278e964ab22c7ac743.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7964e814d12920c6c0f73fe32f55ab4cf7ed4a3.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "把自己困住"
       ],
       "answer": "保护蛹",
-      "explanation": "结茧是为了保护处于不吃不动状态的蛹。"
+      "explanation": "结茧是为了保护处于不吃不动状态的蛹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb197681b953d0beaa6a799d92d16943cc0b2e15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abbff6b8c3e2fd1ea217581113d8f09f149ea2ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a2e4697f1f605cdad68bc32ad4ba192ad81fa32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68a459b65ae8647f280f829ae911ff1c2bedda3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f3abfb5e1fae1589d21dad4905468254f7233ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5945a34fc4bea4b7f724ae3bc4f96fa6a35547c6.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "清理蚕沙"
       ],
       "answer": "房间里喷洒灭蚊剂",
-      "explanation": "杀虫剂会导致蚕中毒死亡。"
+      "explanation": "杀虫剂会导致蚕中毒死亡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e64ca031be18142162668c375c29d44ff74db4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fea0770fdcdff810101aba0339376cd106564752.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f5df8b804c2ab533fed424b2965069bac46b8d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d8b8e349103c105e870d2b056a324106f2f922e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81b45eaae8b482f53b281294f261b394e744e1b3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d18ca55bbcf9e7933b5a9503f79c5277f15147f.mp3"
+      }
     },
     {
       "id": 18,
@@ -80,7 +114,17 @@
         "花纹"
       ],
       "answer": "气门",
-      "explanation": "那是蚕的呼吸器官，叫气门。"
+      "explanation": "那是蚕的呼吸器官，叫气门。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b57affe02a9faeea08ab19ebce5971a75f6355c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1c4792601b81798d5cc59c753674b852dc64195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16fdcc7e77464f4559fdab3f9b9b1e647de3b029.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a01f60587139ef755c4697e9409fe2ce9ab0315.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8dfa226812db03bf0777b3ebae7af878eb97d431.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "蚕的一生共要经历（___）次蜕皮。",
       "options": [],
       "answer": "6",
-      "explanation": "幼虫期4次，蚕茧内2次（蜕皮变蛹和变蛾）。"
+      "explanation": "幼虫期4次，蚕茧内2次（蜕皮变蛹和变蛾）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1dbb4c5393ec0d68cef9236523bf7295534ddc7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/490e63e962c67825f2ccab23ef01c667f7a8821a.mp3"
+      }
     },
     {
       "id": 21,
@@ -102,7 +150,11 @@
       "question": "像蚕这样，幼虫和成虫在形态构造和生活习性上差异很大的发育过程叫（___）。",
       "options": [],
       "answer": "变态发育",
-      "explanation": "生命周期中形态发生剧烈变化的过程称为变态发育。"
+      "explanation": "生命周期中形态发生剧烈变化的过程称为变态发育。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a47a379f04f108a8f49650446e5159c1ba62502c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa76928cf8e3fd111ff98ac2cc9509a49942ebbd.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "蚕宝宝生长过程中，不吃不动像睡觉一样，这叫（___）。",
       "options": [],
       "answer": "眠",
-      "explanation": "蚕在蜕皮前会有‘眠’的过程。"
+      "explanation": "蚕在蜕皮前会有‘眠’的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec7babbf0333273d321773f5bf001be591fac5da.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/addb1ee6853a84510be74250fb4a8f3cb97354ec.mp3"
+      }
     }
   ],
   "knowledge": null

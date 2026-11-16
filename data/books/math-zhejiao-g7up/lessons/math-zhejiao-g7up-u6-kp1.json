@@ -21,7 +21,15 @@
         "一个圆"
       ],
       "answer": "一条直线",
-      "explanation": "两点确定一条直线。"
+      "explanation": "两点确定一条直线。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/fc/fc86eb99daf4abe8f5cc423e47ae75e892834a72.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -42,6 +50,9 @@
     "common_mistakes": [
       "认为直线可以度量。"
     ],
-    "tips": "只有线段能量长度。"
+    "tips": "只有线段能量长度。",
+    "audio": {
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c9/c909b090328152f446cdbf3af31a73af1bc4fedb.mp3"
+    }
   }
 }

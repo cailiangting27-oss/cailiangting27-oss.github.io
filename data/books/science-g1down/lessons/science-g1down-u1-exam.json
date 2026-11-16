@@ -16,7 +16,11 @@
       "question": "我们要知道物体的冷热，可以动用皮肤去触摸。",
       "options": [],
       "answer": "对",
-      "explanation": "皮肤产生的触觉可以感知冷热和粗糙程度。"
+      "explanation": "皮肤产生的触觉可以感知冷热和粗糙程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e7a502d322266fd8ef0e188ee88f035f972825c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a8a8d1b54031c9781e9fc6dccfe5d5b85465abc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "大的物体一定比小的物体重要。",
       "options": [],
       "answer": "错",
-      "explanation": "物体轻重与大小无必然联系，比如大的棉花球可能比小的铁球轻。"
+      "explanation": "物体轻重与大小无必然联系，比如大的棉花球可能比小的铁球轻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b70a5325fd833a2bf1313f9830c6d4d6a91e52d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b191d954fe74af8925c4edeff8d3d9a4b4903e43.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "乒乓球在盒子里平铺时，球和球之间会有空隙。",
       "options": [],
       "answer": "对",
-      "explanation": "球形物体的曲面接触会导致无法紧密填满所有空间。"
+      "explanation": "球形物体的曲面接触会导致无法紧密填满所有空间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c770829e6e9f8aa1eec47497871af69bb5ec3887.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/574331788836275fb969ae0de4b581d81c507f92.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "空气虽然没有味道，但我们可以通过闻的方式来确认它是否有特殊气味。",
       "options": [],
       "answer": "对",
-      "explanation": "“扇闻”是科学观察气味的标准方法。"
+      "explanation": "“扇闻”是科学观察气味的标准方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/2357914712054b2eb62b0905f4c6116a952c2743.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bde2133755695afc05780cb88df67729648756d.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "透明度"
       ],
       "answer": "材料",
-      "explanation": "橡皮、木头、塑料是典型的材料特征。"
+      "explanation": "橡皮、木头、塑料是典型的材料特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e18f1e92581fb83cfe0f5c555e16f6311e936e6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce60171d740ee57241ea22ed982231c335f3d7fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9d38399a9319a9a47d347fb413e64066b65f63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b12f1daaeca8d8fd0ae33b483ca13093272dd23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61b101b501cb32a97ab6a75112d853cc042599a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/823765fa67719f753260aeb867fcf482b732e2ad.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "剪刀"
       ],
       "answer": "简易天平",
-      "explanation": "天平是科学测量物体轻重最公平准确的工具。"
+      "explanation": "天平是科学测量物体轻重最公平准确的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/5259dce19caaa47eba66423639186d91059fcfb6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/0398d9d8b83d41a2e316fa8fe7b055e8cee70d72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8eaebf1a58377fc30b79e5fa346b62e22439d952.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e54c201cc10e230b946d9f7067df41f22af3ad7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9db829fc07cfee57ada6d615ad440fa0c9c93456.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46bad7843a9324c8d054138881bfdc1aa74c0bae.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "看"
       ],
       "answer": "尝",
-      "explanation": "在科学实验中，严禁随意品尝不明确物体的味道。"
+      "explanation": "在科学实验中，严禁随意品尝不明确物体的味道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc0a8fb7db5bccec78aec3c74cd9ce978e9dcc3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/176f2088066bbe8af199bfef5f9b5fac37b8bfba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/508dfa64c33e14115591889c83c78ad04b4bc1a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be30a43ab28faa4ed7859e713916c5da4d7d088.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f386ebdbb5c625d91efda6339fc24fe7ccd92be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ab9dfeec70f766d05e8cae4f6595d60f67af4ba.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "变颜色"
       ],
       "answer": "消失不见了",
-      "explanation": "溶解过程伴随颗粒变小直到看不见。"
+      "explanation": "溶解过程伴随颗粒变小直到看不见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06990cb067215db917853709b7fa55464cc55dea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de74560146990e501c67b5b6b487ad523a6ae1da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b29f8f0919d66ebfc691fc6bf193dab6497ed1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f547c6dee5acb69b4f8590d9318c2e18e8e7177d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/780cb7007d6321139150d530a90685c8d7c7f7a5.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "斜着放入"
       ],
       "answer": "整齐码放",
-      "explanation": "整齐码放能减少物体间的空隙，使空间利用最大化。"
+      "explanation": "整齐码放能减少物体间的空隙，使空间利用最大化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78f33d6e26fbffe73a75c2c9b54b0ef7a86d56fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef136b7a552fc130d8f506803182852c398191d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/6798249b12ec5fb2f2ced9703bdb8a6b6c31b0c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/245cfaa626f669882511e8e703e4895c469effae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08eb77f805e15d08de75ad4c322e73be4351a641.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17e18a855a08206b58a4e31a4c03e26286d5e42f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "都没有"
       ],
       "answer": "沙子杯",
-      "explanation": "沙子不溶于水，会沉在杯底。"
+      "explanation": "沙子不溶于水，会沉在杯底。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5ea2bb4303cbc5b7b6391fcb218e070640729ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d3/d36e874c9fcd86c272eeacd7228374a5e3e615e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e6521e31876fd9742e7b67dee593b4b6c276ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a224f1ed2df14cfd58ebf6cdf7daed3ade720a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65c62e281a5ace7dea42b6f3dd4c52fa3cb17925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/809de5ee97b81eb18dfdf5592defcb02d9879589.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "都是一类"
       ],
       "answer": "石头",
-      "explanation": "苹果和梨是生物（水果），石头是非生物（岩石）。"
+      "explanation": "苹果和梨是生物（水果），石头是非生物（岩石）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1ce0cb1d7eec80687f064470685b54d2eef4979c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c76a8418dcf871eba47f94e102b5a5763056d1ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f5dab2ca05cb98aa04caef79fe652e918c71f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/024baec5ee295c4360e2239a35e9b1e9db5dc8d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9cfdc446fef81c9b11cd6f12435301826ec59a0.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "能测出具体克数"
       ],
       "answer": "不准确",
-      "explanation": "人手的感官存在误差，不够精准。"
+      "explanation": "人手的感官存在误差，不够精准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/540ecfd00b28efd4f0c19fa7ddae9296845813e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/805faa515094cdf6f8007fc1b209ef0211891614.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b68b06139557c6c027041d43548b7b5cfb8878f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bdfa793514d74d97e1c025b28b1488fca081a26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e0c41a6f9b32911e430a6fbcbffdd40c951ea94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da413774b4bf2b418e44bdacf5ba18c0a5b1d996.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "在比较两个物体的轻重时，天平两端需要各放（）个盘子。",
       "options": [],
       "answer": "1",
-      "explanation": "简易天平的每一端都有1个托盘用来盛放物体。"
+      "explanation": "简易天平的每一端都有1个托盘用来盛放物体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f648dc051efac2f6a9b6642047dc07c5ef11dff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4db1d185fcab9527767fb099b9391b4f87a38a6.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "把一个正方形盒子装满正方体，每一行放5个，放了5行，总共是（）个。",
       "options": [],
       "answer": "25",
-      "explanation": "数学逻辑与空间填充：5乘以5等于25。"
+      "explanation": "数学逻辑与空间填充：5乘以5等于25。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe7472b45c7c75d91bbb867eb4cad78fe716b4e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28680fe704a02f7e2e0f7ffad293d8d04bb8f14d.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "洗发液比水摸起来更（___）。",
       "options": [],
       "answer": "黏稠",
-      "explanation": "对比实验中，洗发液具有明显的黏滞性。"
+      "explanation": "对比实验中，洗发液具有明显的黏滞性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1bf434fd79cc3953bd31388aac07ca47badd4c67.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc4dfd6d299f64dc4bcdec19f004cee35049b24d.mp3"
+      }
     }
   ],
   "knowledge": null

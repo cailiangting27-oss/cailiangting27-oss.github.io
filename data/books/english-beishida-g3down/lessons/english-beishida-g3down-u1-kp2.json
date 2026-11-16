@@ -21,7 +21,17 @@
         "a red"
       ],
       "answer": "red",
-      "explanation": "颜色词修饰名词。"
+      "explanation": "颜色词修饰名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/4163bb82aa5b7d2bf14760bdf7d26982bbccd110.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f860569b4b85f9594926f4ea2d8bdc743e46801.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbbd2edb291938d652fa6f779c51f3dc66ba482f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a8c00533bde8ca32003f7376a3555d8afbf3978.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d64734a680e1f8830889ee3308561efc15c90555.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "颜色词作定语时名词用单数。",
       "options": [],
       "answer": "对",
-      "explanation": "颜色定语。"
+      "explanation": "颜色定语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72fb660b07e165fa2a743bf933139505a448e18c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e50b07cc045a18267bf62a3ff1e008891337219.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "颜色词后加复数。"
     ],
-    "tips": "颜色词修饰单数名词。"
+    "tips": "颜色词修饰单数名词。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2a/2ad175fe5e6a05b8fc97a6f3e4a0dd169d5a56ae.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f1/f1b18162d4fad102213917119505159e616913fe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c6/c6190c78f62c87b1a6fe087412ec42ac8f079258.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6b/6b8edabe152fb9cff72cd0f7e33e607c0951b19d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/50/50ba98df9ac224d792c73f39c6b1d8e4f1bc969a.mp3"
+      ]
+    }
   }
 }

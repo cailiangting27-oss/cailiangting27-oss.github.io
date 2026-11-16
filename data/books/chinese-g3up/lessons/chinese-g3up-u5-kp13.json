@@ -21,7 +21,17 @@
         "夸张"
       ],
       "answer": "比喻",
-      "explanation": "把蒲公英比作害羞的小姑娘。"
+      "explanation": "把蒲公英比作害羞的小姑娘。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be969c77cb1de93c609e71c40ac0e2df4d2d469a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5e834be9fe9bc0c39d02c2c47d28ffdf00649c6.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "“它长着一张红色的长嘴。”使用了（___）修辞。 (选填：比喻 / 拟人 / 无)",
       "options": [],
       "answer": "无",
-      "explanation": "这是客观陈述外貌特征，没有使用特殊修辞。"
+      "explanation": "这是客观陈述外貌特征，没有使用特殊修辞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef685b71e29b4d0d4d2ec0adf47adeb94d3e2a68.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf20c7811081ca8b04f08972e9b37f49304be31b.mp3"
+      }
     }
   ],
   "knowledge": null

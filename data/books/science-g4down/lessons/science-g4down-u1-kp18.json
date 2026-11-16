@@ -21,7 +21,17 @@
         "结果"
       ],
       "answer": "种子萌发",
-      "explanation": "植物生命周期通常从种子萌发开始。"
+      "explanation": "植物生命周期通常从种子萌发开始。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54170b1f11747ee82c80a6001b2142a2500ee684.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15dd5f444cab8266848a27c89a416655f5c017ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24163934559c656fae3f5e022b3983016ff0d6fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f577eedcadfbb7771a99caf44b3443094f67c6a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a2c91cec6c8fb259482b99dde05c9438784dce9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/063b66821138bb08727497b4692965ac0a0035a1.mp3"
+      }
     }
   ],
   "knowledge": null

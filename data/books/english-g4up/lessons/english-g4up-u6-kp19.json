@@ -16,7 +16,11 @@
       "question": "He can drive a car. He is a ______.",
       "options": [],
       "answer": "driver",
-      "explanation": "开车的人是司机 driver。"
+      "explanation": "开车的人是司机 driver。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/370b8f2fa2d728d5b032028eb208fbde7098d6a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b32feec925ecc96c9bdad04b1e2386145f43cd51.mp3"
+      }
     }
   ],
   "knowledge": null

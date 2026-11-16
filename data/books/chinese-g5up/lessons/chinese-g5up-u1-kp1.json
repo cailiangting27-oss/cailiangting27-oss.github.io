@@ -16,7 +16,11 @@
       "question": "《落花生》的作者是许地山，他的笔名是“落华生”。",
       "options": [],
       "answer": "对",
-      "explanation": "许地山笔名为落华生，以此表达他像花生一样朴实无华的追求。"
+      "explanation": "许地山笔名为落华生，以此表达他像花生一样朴实无华的追求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/eda34b7d48f666d615b7188182b1819da31b7163.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17cf808b001412965d34d4f61ccf341b74be27b0.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《桂花雨》这一课主要表达了作者对家乡桂花的喜爱，没有提到思乡之情。",
       "options": [],
       "answer": "错",
-      "explanation": "《桂花雨》通过回忆童年摇桂花的乐事，深切表达了对家乡和母亲的怀念。"
+      "explanation": "《桂花雨》通过回忆童年摇桂花的乐事，深切表达了对家乡和母亲的怀念。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c33b04a648bb06ce20986da6f3b9baf8d99b51d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e96ea6e2a709bb3e01b397cdb0b7bab7835268f.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "生活习性"
       ],
       "answer": "精巧身段",
-      "explanation": "文中描写了毛、身段、嘴、脚的比例极佳，突出了精巧。 "
+      "explanation": "文中描写了毛、身段、嘴、脚的比例极佳，突出了精巧。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a27df2ef6237082c6934ba609bbea0746ab748c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2e4f3e4e80a0038473a3b8d06bf937698a5b57d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/247ce9754d238617642c38c44e0a72a3856ba7dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4f4ee86ef4319f56d3e1f4c9e1476f6c8b72e01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4900da562df3368d41613aa67136fd63a7da9ad0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4534b22b6e745b09dd41f4c07b2aae5f4899e3d.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "我们应该不穿漂亮的衣服"
       ],
       "answer": "人要做有用的人，不要做只讲体面而对别人没有好处的人",
-      "explanation": "这是文章的主旨，借花生不求虚名的特质教育孩子做人的道理。"
+      "explanation": "这是文章的主旨，借花生不求虚名的特质教育孩子做人的道理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40616ba39a1118a017309fc2b48b2a524741ef45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27899aab00758a928237d9fc7450d3f91eb0683d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2b889257d985ab935913b44a9246406dce2e4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ed64c9272e5a6ab09231fc5b2b6cd5be75e6b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be1fbfe0479d240341dcd5a499c3f6ca6e86eb37.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1164c529e076bf2e7fd349fc4f83adb01e5c4838.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "小草探出头来，张望着春天。"
       ],
       "answer": "白鹭在清水田里站着，就像在钓鱼。",
-      "explanation": "“就像在钓鱼”是比喻，其他三项均赋予事物以人的动作或情感。"
+      "explanation": "“就像在钓鱼”是比喻，其他三项均赋予事物以人的动作或情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58cd6b9ecd6636b1134eed80652c463ab9a92fd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e39c28392f7b5bbab51d01a70477e46ceb2d5b66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c87e67c39f4673fe603ca25b69515cf06cfebd9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52b7cbbedbba26ae3c6ce58e15986d81d8fa088e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/190545a1f5138fb6992629d9631acb73ec733246.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41e4baa26df19ef9699309ed3889c1329a444c99.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "《白鹭》的作者是现代著名文学家（   ）。",
       "options": [],
       "answer": "郭沫若",
-      "explanation": "《白鹭》是郭沫若先生的一篇经典散文。"
+      "explanation": "《白鹭》是郭沫若先生的一篇经典散文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/237a1fbc60a20b1d11b488afdf73716d6ab14f5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a7847f1d99fa683d5a77a9f97256edec70da667.mp3"
+      }
     },
     {
       "id": 19,
@@ -104,7 +146,19 @@
         "水田里"
       ],
       "answer": "白鹭,在,水田里,无声地,歌颂着,精巧的身段",
-      "explanation": "句子主干是白鹭歌颂身段，加上地点和方式状语。"
+      "explanation": "句子主干是白鹭歌颂身段，加上地点和方式状语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb23f51d327846ddde07db9d5300977ba53c6e45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189ea81748ec3933ce6df15e0d9ac2b0aa6f3d96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61a3b3a864743cdad0807d8bca5cec4f240c23eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1826da8b579e74bd45a0d2a2c880c86b2a84f849.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d5cdc096b55f449026a8e831bcb3c2ce396ee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3970d9592e9b1550249c3ade74ccb124bf6e047a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fadf5a664b9d4132ed02d73199a62bb40a2780f8.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +176,19 @@
         "价钱"
       ],
       "answer": "虽然,花生,价钱,便宜,但是,很有用",
-      "explanation": "运用关联词“虽然……但是……”连接事物的不同特点。"
+      "explanation": "运用关联词“虽然……但是……”连接事物的不同特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f07896eead00e45d4b79f6b2daedda897487483.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed3fc99a41795e10a7bf7ed82ad9866149934cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0177d9ff3d50d57c2d67f6847e32aec057494ff5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67d13d02a208d558044020342f5a7de99e54a768.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/680738a29100fdc23210a288b904d26786a270b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c2da40d6d2f53836d1ca9d16a564a77612f893f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cebcacd5c0a2fcfb404873237dbd4ac03d1402d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da7fdcea3d6605dd90d1f810fc32128e9907872e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "只写物不写人，导致文章变成纯粹的状物文",
       "物与人的特点联系牵强，缺乏逻辑性"
     ],
-    "tips": "要找准物与人之间的‘连接点’，如花生的‘有用’和人的‘贡献’。"
+    "tips": "要找准物与人之间的‘连接点’，如花生的‘有用’和人的‘贡献’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d4/d4d9104548e1ef95b113d881c15e0328eba981da.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ba/baf24c3f5e28ebe4483debcb07487c2117f53e6d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e4/e4ad18ee727d75eeaff93ca9ab90d23eae097a24.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/40/404c5f253fafe04560b4b7de440dc2b5d54da992.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f7/f79523ee8ebe54f535b1eb63e8330dc926cb5b11.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fa/facdb9ad0578c544c2ad639284bbdaeeea607a5f.mp3"
+      ]
+    }
   }
 }

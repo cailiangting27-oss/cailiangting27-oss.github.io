@@ -16,7 +16,11 @@
       "question": "把5个苹果分给两个小朋友，只有一种分法。",
       "options": [],
       "answer": "错",
-      "explanation": "5的分成有：1和4，2和3，3和2，4和1，共4种分法（不考虑0）。"
+      "explanation": "5的分成有：1和4，2和3，3和2，4和1，共4种分法（不考虑0）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/631cfcf8d22ccb0f33e9eb9ff23d061a56128736.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b97b6312adf18dc2d9decff9c16f7d8eb9dd8c5.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "根据数的组成，$2 + 2 = 4$，所以4可以分成2和2。"
+      "explanation": "根据数的组成，$2 + 2 = 4$，所以4可以分成2和2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e309d561be9d872845b6dfbadbd028c85c5e247.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3293a3e96ab7f842c055b28d1814418ab28e9fd4.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "3和3"
       ],
       "answer": "4和1",
-      "explanation": "检查选项：$1+3=4$, $2+2=4$, $4+1=5$, $3+3=6$。所以选 4和1。"
+      "explanation": "检查选项：$1+3=4$, $2+2=4$, $4+1=5$, $3+3=6$。所以选 4和1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/4708e392c93ece55f14e09e423fb66347e222fbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e6d99ff71c4640a5339ac4a64899b8b36ea0720.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b616c11227bc644c46e912acce1a82488c59dadb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af06d3f440b4692173dff162b58824afbf36d4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20bce77cef09780bf139c95f30aefbe3193b23c3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fce6c7f8a2c0bcf08bbad51c43f481e419cc6dde.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "5可以分成2和 ___。",
       "options": [],
       "answer": "3",
-      "explanation": "根据5的组成，$2 + 3 = 5$。验算：$5 - 2 = 3$ ✓。"
+      "explanation": "根据5的组成，$2 + 3 = 5$。验算：$5 - 2 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62780fb2b6b148749beac950858492ef3894da11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e8c1d0c9b7717aa03be53dde3a58769dc8d8792.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "分的时候漏掉某种情况（如5的分成漏掉2和3）。",
       "记不住4和5的组成，导致加减计算速度慢。"
     ],
-    "tips": "利用自己的五根手指来练习，折下一根想起 1和4，折下两根想起 2和3。"
+    "tips": "利用自己的五根手指来练习，折下一根想起 1和4，折下两根想起 2和3。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/0081e9972a43526da2be71ec155ca0217f1d0423.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/eb/eb0e60689d431417d4e665e557a597e54e9cd554.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/37/37c5d67e912101bec51375b96f8345491882dddd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6a/6a05038b9b2008e35ef765aa3ccffba72ff2ed8b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/456389c697ab04048ae2b9efafbf6cc9804bde93.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1d/1da7b9216543e119cbae96340b2678d901f28135.mp3"
+      ]
+    }
   }
 }

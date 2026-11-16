@@ -16,7 +16,11 @@
       "question": "'Whose' 的意思是'那是谁'。",
       "options": [],
       "answer": "错",
-      "explanation": "Whose的意思是“谁的”，Who's才是“谁是”。"
+      "explanation": "Whose的意思是“谁的”，Who's才是“谁是”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3024d0e6fd5033f24649511e9132a6d65652b607.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0156b4ba840c9b9e121be41b9534fdddacdfc1b9.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "Where"
       ],
       "answer": "Whose",
-      "explanation": "询问物品归属用Whose。"
+      "explanation": "询问物品归属用Whose。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03606b0b8818c1c21fb3a07085db05e67da7d229.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92af8564df0bb474bc0563e903d75a7765f9e938.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3d47b7fa67d26d05348eb47bf4a7d33cc90b778.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "mine"
       ],
       "answer": "yours",
-      "explanation": "问句意思：这些是你们的吗？用yours。"
+      "explanation": "问句意思：这些是你们的吗？用yours。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bec62509cbf7aaad655749b66f8fee8facb8a5bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922cce49ed1675a8618c22f7c8e384717f0e52b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/4186389f3ce86290d5788fde4d16a73f3229303d.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "___ pens are these? They are hers.",
       "options": [],
       "answer": "whose",
-      "explanation": "询问谁的钢笔用whose。"
+      "explanation": "询问谁的钢笔用whose。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f71c0082f131092c0ffcfb9ae2c05f00bf40fa58.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bdc2f2b4f2d519f6168f2f46e0b19d84a274e92.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +103,17 @@
         "?"
       ],
       "answer": "Whose,is,it,?",
-      "explanation": "Whose is it? 是谁的？"
+      "explanation": "Whose is it? 是谁的？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e04ad38157c79181d753598a4350cfd40e437530.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92af8564df0bb474bc0563e903d75a7765f9e938.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/829bded1f0348e18ddb7819421dd273aafa3919a.mp3"
+      }
     }
   ],
   "knowledge": null

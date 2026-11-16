@@ -16,7 +16,11 @@
       "question": "读数时，末尾不管有几个 0，都不读出来。",
       "options": [],
       "answer": "对",
-      "explanation": "万以内数的读数规则规定，末尾的0不读。例如8500读作八千五百。"
+      "explanation": "万以内数的读数规则规定，末尾的0不读。例如8500读作八千五百。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cba4a8055ca6d6dd281ad7c41b3f2299812c018.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3edb2950945126fa9fda2d61a3436bc4372b2a20.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "305"
       ],
       "answer": "3050",
-      "explanation": "千位写3，百位没有写0，十位写5，个位没有写0。"
+      "explanation": "千位写3，百位没有写0，十位写5，个位没有写0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39064c63e5bc606793ecb977178cc4823fa8d934.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/65609286cc04ece831a844984a6bc9eb80450cf7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/653d2c04df0cea5b29d4affb2507b483a6edb426.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6f3e326f43f80f21f03806ae9240eeed6b908f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3d6127374af09c22015bf3ede3ac00a36e3ec6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c7b4e184277e0de62a58de62a829285391f86cb.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "58"
       ],
       "answer": "5008",
-      "explanation": "千位上是5，百位和十位没有数用0占位，个位上是8。"
+      "explanation": "千位上是5，百位和十位没有数用0占位，个位上是8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e467fc60d08047cd7e9d6c975b7f6a64d04d8754.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90e7df6105c210141d12daa92aa76de710a94807.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b0e554c21be5c337f42849fcc2bc89940e76a2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e86f923a706f617980bad57d7314855c28f92f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/667be543b02294b7624119adc3a725473df39885.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e45a07edac590ab7b302ee9bb7b2aeb94b3a3ef1.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "四千八十"
       ],
       "answer": "四千零八",
-      "explanation": "中间有一个0或两个0，都只读一个‘零’。"
+      "explanation": "中间有一个0或两个0，都只读一个‘零’。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/8126e033d133498f989bee72c3adf0698a5f7bae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/327f9104dd0973d9809e6c76cfc10cacdd5c4af2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b1dd7e1662d719f9a91124b9b64185a3e92b46d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63dc2d1f39dd7760afbf59f51fdc0f59b3b7db70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce541c8a0a0fd8ef4d03160a524b40bf4b1c6d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd7601b06c5ef921f86788724e2b3e93aafe0c26.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "1069"
       ],
       "answer": "9610",
-      "explanation": "要把大的数字放在高位：千位9，百位6，十位1，个位0。"
+      "explanation": "要把大的数字放在高位：千位9，百位6，十位1，个位0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bf0486a7f2bfc14a2f46a96dff20ee0de6d21df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0213becde6fed20e23a18287accedd4661596e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a5ffd173159a7063dff90b2b4fa5042156f08de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c52b4541ac464542047c7faa11b2259487bed5f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b9a620b52d24fbdc2b34fb350a34367af53f3c8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95c53f30d290952ce1d0df357f72cd036b9dc72d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "写数时忘记补0占位，如三千零五写成35",
       "读数时把末尾的0读出来"
     ],
-    "tips": "读数时可以先划分数级，写数时对照数位顺序表一位位地填。"
+    "tips": "读数时可以先划分数级，写数时对照数位顺序表一位位地填。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a8/a80f1378b503288a66e37bdc34d2f91e3aabe9a8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/82/8280959cb512b7804729f1ca0eaeb8731ccdf6dc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f2/f2c7de665771f3bd755dee14617f4194758924d5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4b/4bcbd3cd67e1a2e4353d414fe723b41709f42225.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/92/92356df4be203aa3cc77eb6d4a886e14a5c338e0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/33/3332aa94f16dc77e82aac8b53cbc0088a9481a78.mp3"
+      ]
+    }
   }
 }

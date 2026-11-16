@@ -21,7 +21,17 @@
         "热水、搅拌"
       ],
       "answer": "热水、搅拌",
-      "explanation": "升温和搅拌都能加快物质溶解的速度。"
+      "explanation": "升温和搅拌都能加快物质溶解的速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b167397a0460c7aead0a5e2cb9fff0cad2ad5b4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c03398086debdf9f12e100f0d5cc25a5ef658188.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cecab389de1dfd392b38385f97fc415d5c95b1c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6173636e7edb7475c505a18511aa15c48fe07302.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96933f3b2895f22e3f4402f1e752da60f0cfbddc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/abb57585cb4fe2b8f68739b0442215af8919c856.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "食盐的多少"
       ],
       "answer": "是否搅拌",
-      "explanation": "对比实验中，除了要研究的变量（是否搅拌）外，其他条件都要保持一致。"
+      "explanation": "对比实验中，除了要研究的变量（是否搅拌）外，其他条件都要保持一致。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad2665cfabe9e66b4cb7f8ae6b6df79dfbed98b7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de46bce176cae4405a3f35d272efeeaf92ce96a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/992b48d909634e55164123479923b6e3e7369175.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b5f6a33d7935451f6c7f64c4fa9081000bfdcae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4c93e9913afcd22002e1dbf7fdfa77cd50f9b50.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5c8ad7422de15b894d8a4f65007c7b86c3b2093.mp3"
+      }
     },
     {
       "id": 17,
@@ -53,7 +73,17 @@
         "随意多少"
       ],
       "answer": "一样多",
-      "explanation": "对比实验需遵循单一变量原则，水量必须相同。"
+      "explanation": "对比实验需遵循单一变量原则，水量必须相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0eb0198ff5b0f45ddfc8155cb717a918814ce13f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a7ccda84021ecead0a883b49d5784ef1c00f163.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/217bb72a3977961aae3a180f970ba068548767a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c20b1e17ff177afa4c31abba60e2c2bb3245b6dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e4fdc0fac94e876d93acc32d7df74e7c6fe51ed.mp3"
+      }
     }
   ],
   "knowledge": null

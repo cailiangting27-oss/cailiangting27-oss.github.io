@@ -21,7 +21,17 @@
         "经过询问"
       ],
       "answer": "关心、干预",
-      "explanation": "这里的“过问”是指猫对事情不关心的状态。"
+      "explanation": "这里的“过问”是指猫对事情不关心的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e3cd454592ee6354f72c06fa79eff7252ca254e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b9885a4e4d0339596432df449dcf622a49e04bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a029a06dbc564b4497221c666e9401f19291cc3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a395704b6b047b6f73f4608a33747756f27489d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d51db8c0468f0704812ec527cadbcdf219679c10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/161e14d1aca46819ae39cefbfe02b2badde83b2b.mp3"
+      }
     }
   ],
   "knowledge": null

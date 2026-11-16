@@ -21,7 +21,17 @@
         "随意观察"
       ],
       "answer": "与液柱顶端持平",
-      "explanation": "平视可以保证读数准确，避免产生误差。"
+      "explanation": "平视可以保证读数准确，避免产生误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/679296635af0413c03905de2936b35e5c133ce17.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/9668b9195fcfddd1df0808b270ea640aa5d86cd8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0abcd5e5ce2820afa8b17ae3d67faeeb250ac77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4950e6a8cb22172e352e3d2bdec777f3ab4fb32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32346913d8a488c5a1b13008c22f669794ec9cf1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8107f613707515bf29708be25646dc0668eceadc.mp3"
+      }
     }
   ],
   "knowledge": null

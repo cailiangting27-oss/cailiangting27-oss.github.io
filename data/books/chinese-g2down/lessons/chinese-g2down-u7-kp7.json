@@ -21,7 +21,17 @@
         "盖一栋房"
       ],
       "answer": "种一些草",
-      "explanation": "小牛认为如果泥塘周围有草就好了。"
+      "explanation": "小牛认为如果泥塘周围有草就好了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f2c0de890898e1b6d4586c8f42f285c268d6478.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/dd25c3d6510d2224f95eed27893b14a9d324d4ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/909b219ff129624e0dd427d0607d20db37557b25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f57f8de58d0f8573f9c6aebd7a9cb57c864bad65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbaf95b1d9fb911fdc4071989f1d4701675990b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c53b7ffa5193df9cbde61ba4c9654ea444f01bb.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "帽子"
       ],
       "answer": "袜子",
-      "explanation": "蜘蛛最后挂的招牌是“袜子店”。"
+      "explanation": "蜘蛛最后挂的招牌是“袜子店”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9755baed71311f634c0aad96a66c609737fa322e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f75d7223917360cb7da023c349a42633622b93c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/925da12e8bee8106ad7de5e8b429a2fc885c3bc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0953735e974554649edce115e8ed7fb8fe70b4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dccc4a2e6ce3e6ecbb77e5e4e1f4d9452972704.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb9b72cb13626884dec073c6387e4412c0cb5cf8.mp3"
+      }
     }
   ],
   "knowledge": null

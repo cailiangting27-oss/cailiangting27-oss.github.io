@@ -16,7 +16,11 @@
       "question": "“白鹭是一首韵在骨子里的散文诗”句中，“韵”字表达了白鹭优美的神采。",
       "options": [],
       "answer": "对",
-      "explanation": "在此语境下，“韵”指白鹭散发出的优美、有神韵的气质。"
+      "explanation": "在此语境下，“韵”指白鹭散发出的优美、有神韵的气质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/179d21dc6dca668f0dd5bcfd3294d3f5bd67d330.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a57779a87b5b466c665f0b2cdc95e98002bcc216.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“开花”和“心花怒放”中的“花”意思完全一样。",
       "options": [],
       "answer": "错",
-      "explanation": "“开花”是指植物的一种生长状态，“心花怒放”中的“花”喻指心情。"
+      "explanation": "“开花”是指植物的一种生长状态，“心花怒放”中的“花”喻指心情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f277f3f2d4ce3248e5ce2c49d83d1f38dc66a8c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c0991bc0e5cd60a61cb1d86629edafa7f2c3f92.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "模样(mó) 竟然(jìng)"
       ],
       "answer": "嗜好(shì) 镜匣(xiá)",
-      "explanation": "便宜的便读pián，挨近的挨读āi，模样的小模读mú。"
+      "explanation": "便宜的便读pián，挨近的挨读āi，模样的小模读mú。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae71fde2774f87580b5c2e967480f816045ba944.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca352aab0ff0463a29332c3ded817e1f2bf2f0da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9ccdc2ccb2a526edd013a4c60be627b159b076f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1edc945bbce16808f65363da3d2b115ff49b361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b74cf205f30064ae905bab5e0188293fb26e8742.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3aab7157a9f584229253b2b020df71b3a26e8c28.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "质"
       ],
       "answer": "至",
-      "explanation": "“无微不至”指无论如何细微的环节都照顾到，常用“至”。"
+      "explanation": "“无微不至”指无论如何细微的环节都照顾到，常用“至”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b33da97153edb45b2ce2a56220ccc244e7086f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43401e739ef41f9b8218878c69c273311d794531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4a7bb16c0595978b8f1b5f06c86a9f05e1b5cd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83708e28733a86df0943c7f06c021930a361e442.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/941c2a5aeb4baa9ce078336d522f67537caa3373.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63b4e3bf00a6fd7e91493e22e2f8c5d46647420e.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "气急败坏"
       ],
       "answer": "玲珑多姿",
-      "explanation": "玲珑多姿描述事物的外观形态精巧。"
+      "explanation": "玲珑多姿描述事物的外观形态精巧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20805a103a732cdc40903c7708ed719554801e52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/3459bdfdb4fed7c927f92920303a1675c7a88070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03887d5969dc598306cffdec48ca397ff7ba653c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f68a5e8dfa53bdd9e759643a21fbb2b4cb4b3b43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d71cfda905ae231b3f0bc39540e45a6433721afc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b97f8a7b2fc6a31baf744c8a84ee15f6cce1592.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "光荣"
       ],
       "answer": "外表好看",
-      "explanation": "在此句中与“有用”相对，指外表的华丽和吸引人。"
+      "explanation": "在此句中与“有用”相对，指外表的华丽和吸引人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e6433c3559ec7bdbb130e327550e578750344cf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0c41f2ec27feb99d6ceaceba9dfa82dd5ffe456.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/447888e0cba0330e7e0529aeb1f3406ebda1f0e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/906269437a42fb0493a5d7eb5097191c39af6a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48b1d102758261bc769ff492b24331bc2e9e28fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ed7f568e82c5e41a58c63793a710e8359dbd827.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "这里的金桂颜色不对"
       ],
       "answer": "对家乡深深的眷恋",
-      "explanation": "这是一种借物抒情的心理，强调家乡的东西总是最好的。"
+      "explanation": "这是一种借物抒情的心理，强调家乡的东西总是最好的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1828a46f625279a6b5288fa229b79a09047cee90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b1be81ffe093658812613795402e2ac1273bbc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32fdc901a074d3b515186abfd31700faafbc8e43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8a7ff3ef7de81a0b5bb11493c39cc5ec7964f1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63a8079e1c35ab0fa8f9de62412cff462a33b31a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97c4c301bb5038b057054621fad8d15c0991431a.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "在《落花生》中，父亲把花生和桃子、石榴、苹果进行（   ），突出了花生默默无闻的特点。",
       "options": [],
       "answer": "对比",
-      "explanation": "文中将果实挂在枝头的事物与埋在土里的花生对比。"
+      "explanation": "文中将果实挂在枝头的事物与埋在土里的花生对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddf2bae4e8ba74e0137dc26f323f7f79528316bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a4c4fef3f2796187d857d479dbf121c03619a66.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "望文生义，不看具体句子就直接套用词典第一义项",
       "词语搭配不当，如‘开辟’搭配‘知识’（应为‘开阔’）"
     ],
-    "tips": "朗读感知是纠正搭配不当的好方法，多积累文中的‘动+名’、‘形+名’组合。"
+    "tips": "朗读感知是纠正搭配不当的好方法，多积累文中的‘动+名’、‘形+名’组合。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d5/d5d84b31c88c557b89d7e980fcdd7f89ad52b94d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/29/29169a5baf777ff9b24d8480a85ba1e6548a53e1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a5/a5e361e5dba4a433d2912699c85a9a884b79d923.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ad/ad6ded807a848d160dd39d3081a94b3c6e1e0737.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/13/13413ffa5a33949f763f6c4e40b3af6d64731204.mp3",
+        "https://api.clthuanxie.cn/cc-audio/89/89e84333aaa67483805052bfe72c7a895247d7f8.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "在描述时间点前，通常使用介词 'at'。",
       "options": [],
       "answer": "对",
-      "explanation": "时间点前常用 at，如 at 7:00。"
+      "explanation": "时间点前常用 at，如 at 7:00。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3fe25e6bd6d4bd7f6be5ee772633855920bdf76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04bbaa638f333f3f9b9d6e26b5e4b986c9cb99d8.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "are"
       ],
       "answer": "do",
-      "explanation": "主语是you，助动词用do。"
+      "explanation": "主语是you，助动词用do。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/274aab0d1bf472297ce1608c1f2aaf7cf813bb46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/564d2c3585b7c34e4faf0441f4fe00c7bc28e318.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "For"
       ],
       "answer": "At",
-      "explanation": "具体几点钟前面用at。"
+      "explanation": "具体几点钟前面用at。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fd0ee6855b0ff99cda34daadc1fcf328de9cd16.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aef36502d67b0520654deb764dd055a7e905cfdd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0049a66519cae71159800bb77a35007bc2d76d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0855009c46728a5c8cb9aa53860e3b38d932c17a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7880600348a091a43e2a84906d6002820643108.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d789b3fc0dd96e301b36be1be03f86c610cef851.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "_____ do you finish class in Spain?",
       "options": [],
       "answer": "when",
-      "explanation": "询问时间用疑问词when。"
+      "explanation": "询问时间用疑问词when。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9fb9fe4a3a9a1a430aef6770ab2e3f53fb3c073.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17e0d3477ed9f89bbaef2334e1c0273498f9bed3.mp3"
+      }
     },
     {
       "id": 22,
@@ -77,7 +105,19 @@
         "?"
       ],
       "answer": "When,do,you,get,up,?",
-      "explanation": "疑问词+do+主语+动词原形+其他？"
+      "explanation": "疑问词+do+主语+动词原形+其他？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be21c775422b10fb2a0b54f10ee69db89646da17.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/783923e57ba5e8f1044632c31fd806ee24814bb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0a25c06ea30bae50e39a37a5997e31a1a96e20.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e870e8904b279b8dfc8e6fb26201726d500a152.mp3"
+      }
     }
   ],
   "knowledge": null

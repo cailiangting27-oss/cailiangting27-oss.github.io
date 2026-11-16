@@ -21,7 +21,17 @@
         "并列关系"
       ],
       "answer": "条件关系",
-      "explanation": "强调在任何条件下结果都不改变。"
+      "explanation": "强调在任何条件下结果都不改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa8cbc6551f2d02e08caf3b3262228f5782c21dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d9b980d345956e7c678b5f91a45f083775908cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9201eb30f9fe277e44bdae05c458fc7d4c7e7f67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4d9d8d9b49ef30a6f5ddd8d52225e1f74187100.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32dfc84b1bd263f467b01485eb54fc4e8adcabda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2584f315fbd966e2d46307220c74a2b85f63e246.mp3"
+      }
     }
   ],
   "knowledge": null

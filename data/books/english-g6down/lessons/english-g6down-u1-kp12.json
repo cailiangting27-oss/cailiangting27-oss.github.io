@@ -21,7 +21,17 @@
         "strong"
       ],
       "answer": "heavy",
-      "explanation": "根据回答中的单位tons（吨）可知是在询问重量。"
+      "explanation": "根据回答中的单位tons（吨）可知是在询问重量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/481f632acb66b62b08a019bc8cd4dad281b37a73.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e85183c21f800c0290d27f5c832b77e70a59045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0117691d0201f04aa02f586b774c190802d47d8c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92771c865bf3c16f56cf105899185f22f31897d4.mp3"
+      }
     }
   ],
   "knowledge": null

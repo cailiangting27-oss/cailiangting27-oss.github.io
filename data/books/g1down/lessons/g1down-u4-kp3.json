@@ -16,7 +16,11 @@
       "question": "35比30多得多。",
       "options": [],
       "answer": "错",
-      "explanation": "35只比30多5，属于“多一些”。“多得多”通常用于数值差异较大的情况，如90比30多得多。 ✓。"
+      "explanation": "35只比30多5，属于“多一些”。“多得多”通常用于数值差异较大的情况，如90比30多得多。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ae665e7784386145bf4d8c2c6bd11ed41c3d03.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a5dc4efe204b707da7de088dac7ba5bb2fcf29e.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "比较两位数大小，先看十位。4比5小，所以 $45 < 54$。 ✓。"
+      "explanation": "比较两位数大小，先看十位。4比5小，所以 $45 < 54$。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2448c6f8829d4fc623d30c218a9683e75b1f178.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72c3f0e3b1ae56698b48402cf798598f4027507f.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +56,17 @@
         "64"
       ],
       "answer": "62",
-      "explanation": "在60到65之间的数有：61, 62, 63, 64。个位是2的数只有62。 ✓。"
+      "explanation": "在60到65之间的数有：61, 62, 63, 64。个位是2的数只有62。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37884034764948d4c651a0c087373078fcb933f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/692c5028e114cc0f7ce2ae4935c15ffe46f89b26.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +82,17 @@
         "80人"
       ],
       "answer": "40人",
-      "explanation": "比42“少一些”的数应该是接近42但比它小的数。40符合条件；10属于“少得多”。 ✓。"
+      "explanation": "比42“少一些”的数应该是接近42但比它小的数。40符合条件；10属于“少得多”。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6245cb73ec4e83d0f6ff79b0b40da146550be7a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/425466d259157cf357e9f3dde9a3977302fb005b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f5f75164cb9dde7094a31135ddcf46de70e9aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/1448c80ab0c4130d478a8030ffd51a554bd881cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc6be1cf5a9f4469519d95778b2f457bd61257f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c826e6ac93adee8a55bb1c425c5f76f7dc56b7e.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +108,17 @@
         "11个"
       ],
       "answer": "9个",
-      "explanation": "这些数分别是：15, 25, 35, 45, 55, 65, 75, 85, 95。一共9个（5不是两位数）。 ✓。"
+      "explanation": "这些数分别是：15, 25, 35, 45, 55, 65, 75, 85, 95。一共9个（5不是两位数）。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d04a9bbdbe1b03aa9c20f2215fac57276a141f02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/707c9c7844f115336dd0a2b8fbbbfd83a8509bd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31ae690fe410bdee1f04e996be5aef6b5c7bbae1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d5574339367244083cbaf6ca9687a2cd7133782.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +134,17 @@
         "70"
       ],
       "answer": "58",
-      "explanation": "58与60差2；52差8；65差5；70差10。2最小，所以58最接近。 ✓。"
+      "explanation": "58与60差2；52差8；65差5；70差10。2最小，所以58最接近。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c68a3601a40eae96973beb0b444192c0b33c5dc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/667be543b02294b7624119adc3a725473df39885.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a459380709e2fe4ac2dae5733c73225ff6cfee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa24aa00f63065d596c779e0912b05a0539f804b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -107,6 +155,16 @@
       "看到个位数字大就认为这个数大，如认为49小于39。",
       "分不清“多一些”和“多得多”的区别。"
     ],
-    "tips": "把数看成钱，50元比10元多得多，而12元只比10元多一些。"
+    "tips": "把数看成钱，50元比10元多得多，而12元只比10元多一些。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e6/e6206e1943dac067694082b2f4306523a05d1b2b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8f/8ff4504d4bc6ef352010f0f917a27a2ec23588b7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/70/700168525fb488d80d8844c3b44823b4c6f11dce.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a1/a107518194038ebe94cb9171e36cbf71a6bf1bce.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7e/7e0c54fb004d227c57b40dd331d04047e7d0f55a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fa/faa658742ae0790287ca7439c931d3a2f4b21333.mp3"
+      ]
+    }
   }
 }

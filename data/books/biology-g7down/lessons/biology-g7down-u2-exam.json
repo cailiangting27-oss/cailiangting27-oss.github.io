@@ -21,7 +21,15 @@
         "鼻腔"
       ],
       "answer": "肺泡",
-      "explanation": "肺泡是气体交换场所。"
+      "explanation": "肺泡是气体交换场所。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec67bee1f035b9350ebe543d711dba5c3777143a.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5d/5d025292ed4a8927ec6fe9ca71d9d71820ce141d.mp3"
+        ]
+      }
     },
     {
       "id": 6,

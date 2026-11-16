@@ -21,7 +21,17 @@
         "托物言志"
       ],
       "answer": "先抑后扬",
-      "explanation": "文章前部分写讨厌母鸡，后半部分写敬佩母鸡，形成情感对比。"
+      "explanation": "文章前部分写讨厌母鸡，后半部分写敬佩母鸡，形成情感对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50d16b9946f83636edb4928ed619cfc7b9aef5a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f659ddac152188ea1ac305d66624fff8effcc4b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1db22a3b24b4858c0573528a9e8e3c6a0721ea3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d1e562353d2fc5a3c67a56c513499877286443.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3f12b8beb3270eb8fcb58331596a8fa16828d3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ed10709f8448594da9bc1a4f95cb60563301c56.mp3"
+      }
     }
   ],
   "knowledge": null

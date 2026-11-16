@@ -16,7 +16,11 @@
       "question": "《江南》这首古诗只有1个自然段。",
       "options": [],
       "answer": "对",
-      "explanation": "《江南》开头空两格，全诗内容紧凑，属于一个自然段结构。"
+      "explanation": "《江南》开头空两格，全诗内容紧凑，属于一个自然段结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1de8d20854a249791908e66d1e09a2067eecf3aa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/197733d80bdbe356437b32d0109115a5b9a6a12e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在“一九、二九、三九”中，“一”都读第一声。",
       "options": [],
       "answer": "对",
-      "explanation": "在数词和序数词中，“一”保持原音第一声。"
+      "explanation": "在数词和序数词中，“一”保持原音第一声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/178d72b4be6531d1357da76585831b78f55a3307.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c790fca31fa020d63e35b4a37f9fde6fe73da442.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "“船儿”和“船”是一个意思。",
       "options": [],
       "answer": "对",
-      "explanation": "“儿”是后缀，在这里增加了亲切和可爱的语气，核心意思是一样的。"
+      "explanation": "“儿”是后缀，在这里增加了亲切和可爱的语气，核心意思是一样的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0376255f97e9abaab36c99cb245606a1550df7b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a0f915f88f0e3780bc7793251b5064a7834368e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“一行白鹭”和“一个学生”中“一”的读音相同。",
       "options": [],
       "answer": "错",
-      "explanation": "“一行”读 yì，“一个”读 yí，变调规律不同。"
+      "explanation": "“一行”读 yì，“一个”读 yí，变调规律不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62910ae3ca58b6c2ae4fdf149208d6e05ef1df09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/3406001894afc2e5ee39e594fba3142e56b862c2.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "随意一个格"
       ],
       "answer": "第一、二个格",
-      "explanation": "自然段开头必须空出前两个格子的位置。"
+      "explanation": "自然段开头必须空出前两个格子的位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/826cc88d3ac33196862bff07794cbe1bb6ca8af0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c21c77e00fa5f945cab1c623b5af1e36570fded8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270dd7315430fade9d5c88a66ea3460da0009079.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/444d8ce4617dfaee1d1a25ada2b63e2c58dee74f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e12bc2ac88c35d8b9f0b7012b9b769cef6dc0673.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d50b3791971896f47bbaaf7520ce37a2c52e8bc2.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "4个"
       ],
       "answer": "1个",
-      "explanation": "这段话开头空了两格，中间没有新的段首空格，是一个自然段。"
+      "explanation": "这段话开头空了两格，中间没有新的段首空格，是一个自然段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6415d5b657d465437fa6c4927eb2d55920b317a5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6b52576c9ee9e5cf2c217f476219c5311dde7a8.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "③和④"
       ],
       "answer": "①和③",
-      "explanation": "①和③中的“一”均位于第一或第二声前，均读成第四声yì。"
+      "explanation": "①和③中的“一”均位于第一或第二声前，均读成第四声yì。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/207744f51dab64ccc266700c8ac20f40d834d470.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a90f99584c0dcc43deba0dce6eed106654f68972.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24c36e9643175b2a6a5471ec47384e03056598a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5e5c705f7b2a4f5de7d0be640dd5842f7fbd02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93e333739c186ba1f0b61d99142c691fc69037a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7361d1b854c1fe76868d64be20221b162f07005f.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "一整个自然段"
       ],
       "answer": "三个自然段",
-      "explanation": "自然段的数量等于段首空格出现的次数。"
+      "explanation": "自然段的数量等于段首空格出现的次数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/509836325afc05a46c59e88acd28e45080266bb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a5569c6d825f5a1eac673ba59bdbd488d11f13e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cb8bfe95083c75a330553522bbea89b35f6fba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2428e895cd957c79fe7ea3015d52ee1eb5473053.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53de2e024ff28f999b8de1dbc58e9f363e41bc00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ea3674478b99f38aa05875811718b3e680e6f57.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "yi"
       ],
       "answer": "yí",
-      "explanation": "“一”放在第四声“会”前，要读作第二声。"
+      "explanation": "“一”放在第四声“会”前，要读作第二声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e0c5fa139826de47843978cb60698c528d786ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74b094638f7680565666a764273839fc982b2c22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83cf66ce08d28951e877924cf883f533267563e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f35372957d4fd8738e9cd891a89fe5aedb94d87a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48b3f8cdcb1b705653ad2d03a86591a505d38596.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdb1a764dbaee45657c155eb9ac4048935f26afa.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "大雁"
       ],
       "answer": "大雁",
-      "explanation": "前三个是描写特征的叠词，第四个是动物名词。"
+      "explanation": "前三个是描写特征的叠词，第四个是动物名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6a9d12c590fc9d6624078f87f6641bc907c2f6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c05bde81eae592bbfb19c72edfb4d390ddb4d690.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fe231ec361ee64dcde2afb3ce35cde3c6c44f0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b60a05df13c8f09f8147ce56d4a76bf1b9c8177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1ee207d68c1d23ea189fd12ac6048bbb3fe1b00.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfb18a50980f5a084fee390413eaa764a9d596cb.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "圆圆"
       ],
       "answer": "圆圆",
-      "explanation": "《四季》中描写荷叶是圆圆的。"
+      "explanation": "《四季》中描写荷叶是圆圆的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbd005b6a7be297e0f5fd86509d81eaef821f274.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01318b540b8fd4df729e70e8c7e6aff0227d8624.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32cba12668df47ca87b24e7e6a1b47531d771d92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/148592982901a76ba39dc2f37eb2287c348b48eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c02d08df13ccae74967098a6433e7f3db3a2ab63.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f367744ed8901e219a38a1759bc673abe9e13cbe.mp3"
+      }
     },
     {
       "id": 17,
@@ -172,7 +258,11 @@
       "question": "“影子（      ）常陪我。”填入课文中的叠词。",
       "options": [],
       "answer": "常常",
-      "explanation": "考查《影子》中的叠词积累。"
+      "explanation": "考查《影子》中的叠词积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/420c40b60b3f0eb248860042eb79b889847d60a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c988279c767d20d234a1f2337fc72e44e5edddd.mp3"
+      }
     },
     {
       "id": 18,
@@ -183,7 +273,11 @@
       "question": "“一排大雁”中“一”的拼音声调是第（    ）声。",
       "options": [],
       "answer": "四",
-      "explanation": "排是第二声，“一”在二声前读第四声yì。"
+      "explanation": "排是第二声，“一”在二声前读第四声yì。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3faa6795806f63998e033e42f163bed1c95bf355.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6508e741445c89fe7655ca32bfe0e0cca77e032.mp3"
+      }
     },
     {
       "id": 20,
@@ -203,7 +297,21 @@
         "1个"
       ],
       "answer": "A-1,B-2,C-4,D-3",
-      "explanation": "江南为1段；四季有4节（段）；船为1段；秋天有3段。"
+      "explanation": "江南为1段；四季有4节（段）；船为1段；秋天有3段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3537c28efe8eb61c56837b77a2971ed62b0ab33d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56f8abb8c45f7c7161266fbee34e7e062f959f42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec3cb3e0a0617ec857e1f955e79fe985d453c872.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06986f965645d62d2f655aadb0034cbc765cbae4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ebea8e607df398236227bc74af49d8f261cf4a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6716220b012d180c25b2faee54ffd1461d9b4086.mp3"
+      }
     },
     {
       "id": 21,
@@ -219,7 +327,17 @@
         "“人”字"
       ],
       "answer": "大雁,排成,一个,“人”字",
-      "explanation": "描述大雁飞行的状态。"
+      "explanation": "描述大雁飞行的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1c37c24a75f94f76956edd3daac61145fcf4fca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1ee207d68c1d23ea189fd12ac6048bbb3fe1b00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/771204d1d5cea64ae2e98e6adfbebc60cc0ed1f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db75ded03b2939be298581ea57ad87de0039d24d.mp3"
+      }
     }
   ],
   "knowledge": null

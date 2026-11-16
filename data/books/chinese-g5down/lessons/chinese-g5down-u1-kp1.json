@@ -16,7 +16,11 @@
       "question": "《稚子弄冰》描述的是孩子们在冰天雪地里玩耍的场景。",
       "options": [],
       "answer": "对",
-      "explanation": "诗中通过‘劈寒冰’、‘穿丝’等动作描写，生动表现了孩子冬日玩冰的欢愉。"
+      "explanation": "诗中通过‘劈寒冰’、‘穿丝’等动作描写，生动表现了孩子冬日玩冰的欢愉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fa42793fd222da820a0d6b0b0cd9b7aa8004424.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50e409df73642f74711bd521376c3c71c7d0768a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《村晚》的作者是宋代诗人范成大。",
       "options": [],
       "answer": "错",
-      "explanation": "《村晚》的作者是雷震，范成大是《四时田园杂兴》的作者。"
+      "explanation": "《村晚》的作者是雷震，范成大是《四时田园杂兴》的作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a6cb23a988d5245a0c02326f9fbe3e92cb834be.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f4a1a6f75c7a3757f6d0c25f81598e95a228752.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "甚至"
       ],
       "answer": "靠近",
-      "explanation": "傍：靠近。句意为幼童也在桑树阴下学着大人的样子种瓜。"
+      "explanation": "傍：靠近。句意为幼童也在桑树阴下学着大人的样子种瓜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa90c4f28a16c464f547f141fac64eb1c8339485.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62bdd8f8e5682b7201b06e8d7aa18c269794244b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0867b9aaa567a5fd0a094402838b703dfb67a0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0427e15cfec76c42a167a9e861339c5fc2138fc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f67fac4767f4d31d89cd7268337420314e6c461c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/282b69aef6da9cb3dcb793fa6d2343f401449d93.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "很有口才"
       ],
       "answer": "随心所欲",
-      "explanation": "这里的信口是指随心所欲地吹奏，表现牧童的悠闲与随性。"
+      "explanation": "这里的信口是指随心所欲地吹奏，表现牧童的悠闲与随性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe98cac50887b450e0378c58e96092c8cde5ec06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a3d7138e5b6ea1025f2dcac37b38e97b97f1ad56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/384c3427034af150d36e62df8178465a3c210876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fb49f313d192395419d20a9a16c27bf6f675cb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa7fdb8b72bbb2fe3c2c139416de89ad27ff12af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/9620aed9acbd5e129e96b6ab71d12ab718c47baa.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "深冬"
       ],
       "answer": "盛夏",
-      "explanation": "‘草满’、‘水满’以及牧童晚归的生机，符合初夏或盛夏的物象。"
+      "explanation": "‘草满’、‘水满’以及牧童晚归的生机，符合初夏或盛夏的物象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8f3de7c9861e8eb94d18778ce61669eadb676d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c301e3a95db75d70005658334c4f16ac32f1ebe8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b951ea77dd4c4e209cfb66400ec509ef53d4d9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba55ed4e919f2564ea069626c73f496758c8a90d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7e4051610386a2c10ba7a3d8f8a8560e3b75d5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/1677a0606ca431f61d786e800110e27cfc9c9956.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "《四时田园杂兴》中描述‘童孙未解供耕织’，‘供’的意思是（___）。",
       "options": [],
       "answer": "从事",
-      "explanation": "供此处意为从事、参加。"
+      "explanation": "供此处意为从事、参加。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/310f884a2a726702e6000510c577f43d47d403c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/840fe85f17c6f19fe3242acd424ba920dde29abd.mp3"
+      }
     },
     {
       "id": 17,
@@ -97,7 +139,11 @@
       "question": "敲成玉磬穿林响，忽作（___）碎地声。",
       "options": [],
       "answer": "玻璃",
-      "explanation": "出自《稚子弄冰》，意为冰块掉在地上的声音。"
+      "explanation": "出自《稚子弄冰》，意为冰块掉在地上的声音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5d34fd1fde40c7e2c79cfc6f093a45c028c6ca5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d32cf09c2e495a609cb23aaf03edf0974174c01.mp3"
+      }
     },
     {
       "id": 21,
@@ -117,7 +163,21 @@
         "穿冰块"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "考查对古诗词动词的细节掌握。"
+      "explanation": "考查对古诗词动词的细节掌握。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/bafe31792372b4c640c3fa901af6de2ceb937e2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61a75cd445f5e952bc338968b15da06c9a72ac4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f10954d9f98930276d975e79f75fcb14316c3144.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/426a21929cd86400d2d9ce4f4899b5a238fd93a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0141b3f84a2680882137b26e44d118fa16cb5c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72de059ce67f991d0c696d6383ed1a4632b4159f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ee9e173e1ecfebfddfe0bc12957a1d95ee7402.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f33124adb18b935ecd38705b54f8d1fc1627cf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/633fe018c049e297addeabd08f1ba623b112cee9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a76e9ee0a0dfc143abc4783986c3359f80af155.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -128,6 +188,16 @@
       "‘昼出耘田夜绩麻’中‘绩麻’与‘耕种’含义混淆。",
       "‘浸寒漪’的‘漪’字容易写成‘椅’或‘依’。"
     ],
-    "tips": "可以尝试给诗句‘配画’，在脑海中构建牧童骑牛、儿童敲冰的动态画面，记忆更深刻。"
+    "tips": "可以尝试给诗句‘配画’，在脑海中构建牧童骑牛、儿童敲冰的动态画面，记忆更深刻。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c4/c4cd49b3b1f8f5d91bb9ca71ea7ca04f49da866a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8a/8af05a9b6b77448db64c7a86be6de00dcda18054.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/42/423feada0b5010be8ba28ffea869e42fec632434.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c7/c7e02f143c3884a1ded2a6cab278e667f701293a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ab/ab5b0c46f2c6d001fc469a29df95dc0a64aaac72.mp3",
+        "https://api.clthuanxie.cn/cc-audio/93/9376772f1f474edf0de06584221df1e6a9a5ce4a.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "going"
       ],
       "answer": "Where,are,we,going",
-      "explanation": "特殊疑问句语序：特殊疑问词 + be + 主语 + doing。"
+      "explanation": "特殊疑问句语序：特殊疑问词 + be + 主语 + doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/9730fedf2d54aba78fb1a89c38ed75fbdc5cc584.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/676e6f35cfc173f73fea9fe27699cf8185397f0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49ea23ae6e9ee1ccf771408e58add91d7c207853.mp3"
+      }
     }
   ],
   "knowledge": null

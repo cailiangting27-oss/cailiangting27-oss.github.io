@@ -16,7 +16,11 @@
       "question": "月球上最高的山脉高约（）米，比珠穆朗玛峰还低一些。",
       "options": [],
       "answer": "8000",
-      "explanation": "月球上最高的山脉近似8000米。"
+      "explanation": "月球上最高的山脉近似8000米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52e154f0216df0854934fb7f5adc63be417eceaa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e1a97635e1457319f98d57216b6dfa2af8831d5.mp3"
+      }
     },
     {
       "id": 22,
@@ -27,7 +31,11 @@
       "question": "月球表面阴暗的部分，实际上是平原，被称为（）。",
       "options": [],
       "answer": "月海",
-      "explanation": "虽然叫“海”，但里面没有水，而是月面上的开阔平原。"
+      "explanation": "虽然叫“海”，但里面没有水，而是月面上的开阔平原。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7da10d90a0926b340c7752f2b6814c060e2a865.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ace654a6c1230eed4af1d2f743c1d72dc74efc0d.mp3"
+      }
     }
   ],
   "knowledge": null

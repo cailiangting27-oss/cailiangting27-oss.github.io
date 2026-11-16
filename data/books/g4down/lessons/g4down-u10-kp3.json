@@ -16,7 +16,11 @@
       "question": "计算 $125 \\times 8 \\div 125 \\times 8$ 的结果是 1。",
       "options": [],
       "answer": "错",
-      "explanation": "按照从左到右的顺序计算：$125 \\times 8 = 1000$，$1000 \\div 125 = 8$，$8 \\times 8 = 64$。结果应为64而非1。"
+      "explanation": "按照从左到右的顺序计算：$125 \\times 8 = 1000$，$1000 \\div 125 = 8$，$8 \\times 8 = 64$。结果应为64而非1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bff749d57b6093ddecb80e64d0e087304fcd1279.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6060d7899bc7928be28dbd1d46276c43781dad0e.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "0 除以任何非 0 的数都得 0。",
       "options": [],
       "answer": "对",
-      "explanation": "0 除以任何一个不为 0 的数等于 0，这是基本的除法性质。"
+      "explanation": "0 除以任何一个不为 0 的数等于 0，这是基本的除法性质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9a541cd682d907206848cef4e00bc05aa170b5c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91ccd64077eb99415e55f4d9d4c551dab1ce6e6.mp3"
+      }
     },
     {
       "id": 12,
@@ -43,7 +51,17 @@
         "5cm, 4cm, 3cm"
       ],
       "answer": "2cm, 2cm, 6cm",
-      "explanation": "三角形两边之和需大于第三边。$2 + 2 = 4 < 6$，不能围成三角形。"
+      "explanation": "三角形两边之和需大于第三边。$2 + 2 = 4 < 6$，不能围成三角形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38688fc7ae91124a3fe36d56e86a77680706f5fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3bcbf3f2278b6fe4c8be9cf1c727f2f40c6212d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09d26986d3c71c8705567b172837951be1109c97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94081de7b6471b3c8a87582e291b2b030ff25397.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5510fb487714e996a83a21e0d0bd69f773f96d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53259a693fd4bf01b2efcb12a86043652cf59a2d.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +77,17 @@
         "无法比较"
       ],
       "answer": "小红高",
-      "explanation": "比较小数大小：$1.5 = 1.50$，$1.50 > 1.45$，所以小红高。"
+      "explanation": "比较小数大小：$1.5 = 1.50$，$1.50 > 1.45$，所以小红高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11a80d580d649776a0671de514d6b365deb5fa0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e339ecb6ecf173a3e88cf1a2399535f1f4b65833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3c316ab841c3e192c3f6e044d2ad70192ba594e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da185e0387de8d73d3d51256a651e3efc6410782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/433ed8c659e3375b02422520a38f7bed287470e1.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +103,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "假设全是兔：脚应有 $10 \\times 4 = 40$ 只。多了 $40 - 28 = 12$ 只脚。鸡的数量为 $12 \\div (4-2) = 6$ 只。验算：6只鸡12只脚，4只兔16只脚，共28只脚 ✓。"
+      "explanation": "假设全是兔：脚应有 $10 \\times 4 = 40$ 只。多了 $40 - 28 = 12$ 只脚。鸡的数量为 $12 \\div (4-2) = 6$ 只。验算：6只鸡12只脚，4只兔16只脚，共28只脚 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/534e8118b22db4ad623a3d371628e02c00310d6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/628df61f5ba7e5581b1324b9d63be14dca6f825f.mp3"
+      }
     },
     {
       "id": 21,
@@ -86,7 +124,11 @@
       "question": "一个等腰三角形的顶角是 $40^\\circ$，它的一个底角是 ___ 度。",
       "options": [],
       "answer": "70",
-      "explanation": "三角形内角和 $180^\\circ$，底角和为 $180 - 40 = 140$ 度。等腰三角形底角相等，$140 \\div 2 = 70$ 度。验算：$70 + 70 + 40 = 180$ ✓。"
+      "explanation": "三角形内角和 $180^\\circ$，底角和为 $180 - 40 = 140$ 度。等腰三角形底角相等，$140 \\div 2 = 70$ 度。验算：$70 + 70 + 40 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3044775c546ecdabe4daab9cb041348e8ea52169.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e178bdffe3896786161eca9ab5e72ffb8a98591.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "解决鸡兔同笼时，假设全是兔却求出了兔的数量（应为鸡的数量）。",
       "在多步应用题中，没有统一单位就直接进行数值运算。"
     ],
-    "tips": "每次做完应用题，都要把结果带回题目情境看是否合乎逻辑，练习反推验证。"
+    "tips": "每次做完应用题，都要把结果带回题目情境看是否合乎逻辑，练习反推验证。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b2/b26563eaa9c757124fd3805e73a622293b36b1d3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b7/b730be3e2ebd3956ad7178b6dbc545e02d034b39.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3c/3cd358f856e7a2d0aacc3e17af8d2088fd25a21d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b3/b3730ba07af5f6e001b5eaf90d5790e8a0b5dc07.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3d/3de0421fb4d0fa7848154bcd48bd6fca8c06e1a3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/63/63c0f1356f426231ac452a04f200965f1731fa0a.mp3"
+      ]
+    }
   }
 }

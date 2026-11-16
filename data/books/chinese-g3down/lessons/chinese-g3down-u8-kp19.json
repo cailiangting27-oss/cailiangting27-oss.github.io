@@ -25,7 +25,21 @@
         "生气"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "纳闷-疑惑，满意-如愿，恼火-生气，发愣-发呆。"
+      "explanation": "纳闷-疑惑，满意-如愿，恼火-生气，发愣-发呆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/811d1d46c55bbcf56fe464359a08552373eee1f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b6bc9d17f94e2d025645b0c1900f47977fc591.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fda7539bde8cad40142043a42f61baea1cad8b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84362fd20232c50bb8924a157390021c9029f2ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fcbd5110537eff58257220e9cc5954d8e1a0c36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87906134da24d83c9b84475eb41c591804c5ee5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cff9eda6a2dc763b41f2fbab792ba1a52d8f719d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e81c36bb042983e380e0a3d4e213290b12199e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cfa09d980cbc16ea249d64127858a7ce4af64d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/351c55d4afd8959cac8a904ff9eeb1269c9171db.mp3"
+      }
     }
   ],
   "knowledge": null

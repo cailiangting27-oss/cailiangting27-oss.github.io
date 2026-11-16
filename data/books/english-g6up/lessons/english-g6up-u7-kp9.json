@@ -21,7 +21,17 @@
         "is"
       ],
       "answer": "do",
-      "explanation": "询问感觉用助动词do配合动词原形feel。"
+      "explanation": "询问感觉用助动词do配合动词原形feel。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42742f759be692fce00da600c9abaf5dba9dd7f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87e011e627cb8ed463d2d222fbd41a656639005a.mp3"
+      }
     }
   ],
   "knowledge": null

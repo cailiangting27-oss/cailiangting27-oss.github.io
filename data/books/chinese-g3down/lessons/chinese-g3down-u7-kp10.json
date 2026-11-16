@@ -21,7 +21,17 @@
         "数量繁多"
       ],
       "answer": "差异很大",
-      "explanation": "通过颜色和大小两个维度的对比说明海底植物“差异很大”。"
+      "explanation": "通过颜色和大小两个维度的对比说明海底植物“差异很大”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66f1b65c74b59896e0f85ec78c8f9b51a98b226a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d5af1f78cb7b2af4ed70ffcde25ad1e49da7232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/221f69817b0e8ddbb14ae487794467813d8c64d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e278f349b9747068467c1741e06a1f50caabcb60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/176438102f2ecb24c7097502e3829e34582373fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/568661ec53fe56d626a81c223954209f21110133.mp3"
+      }
     }
   ],
   "knowledge": null

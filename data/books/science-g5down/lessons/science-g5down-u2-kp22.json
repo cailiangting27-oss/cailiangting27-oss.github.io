@@ -21,7 +21,17 @@
         "改变水的浮力"
       ],
       "answer": "改变自身重力",
-      "explanation": "潜艇通过压载舱充水或排水改变自身重力，从而实现起伏。"
+      "explanation": "潜艇通过压载舱充水或排水改变自身重力，从而实现起伏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24a1e42ebb974dc4cd9adcbb800fd7997d740747.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77297043e47382bf85776173db87466f667d7b62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58ff76168e15a58f2391e9c7c02c87537286bd59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a33a454a2f1480456f01dc93d1d754f544b39867.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98615a50d63b8f738121a89a54a361beca97e7c3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25d7feca9b8b3e8d830d0dc5775669e05ca72c3b.mp3"
+      }
     }
   ],
   "knowledge": null

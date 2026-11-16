@@ -21,7 +21,17 @@
         "雨云"
       ],
       "answer": "积云",
-      "explanation": "积云特征为像棉花团、团状堆积。"
+      "explanation": "积云特征为像棉花团、团状堆积。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb2e0e49f4ce0cce77163f6973028e1b8eef807d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a65f0501ccdb07c35d32165189e8e4ec0060d60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2b008f7a0df867417f3f01f8aab8a0779320424.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/612c9b3767a1e726ad7eeffd3f32546710a2de8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d1e502449efc79663353762d1813a3f520ec181.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/545925bf1913ae99e534e5c219dc5d6e0b8ff618.mp3"
+      }
     }
   ],
   "knowledge": null

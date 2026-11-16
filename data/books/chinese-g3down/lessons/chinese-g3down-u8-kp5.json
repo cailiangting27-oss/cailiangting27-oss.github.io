@@ -16,7 +16,11 @@
       "question": "“咳嗽”的“嗽”字是口字旁，与嘴部动作有关。",
       "options": [],
       "answer": "对",
-      "explanation": "咳嗽是呼吸系统症状，通常通过口腔发出声音，故为口字旁。"
+      "explanation": "咳嗽是呼吸系统症状，通常通过口腔发出声音，故为口字旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c95264e22323c0fd20d6d05d823318b905aa3985.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/798c7ecf54ba6811a8e958e71c26c13704b8a119.mp3"
+      }
     }
   ],
   "knowledge": null

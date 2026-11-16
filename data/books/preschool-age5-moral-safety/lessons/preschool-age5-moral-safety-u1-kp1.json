@@ -25,7 +25,15 @@
         "红灯",
         "绿灯"
       ],
-      "knowledge_point": "安全知识 1"
+      "knowledge_point": "安全知识 1",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67f641b71c9e768c9ac8a48815119e699d23902c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58aff3e625a51c499cb59613a99964ccfee1422a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ca79ccac783222cc17a42d20feb12270efc38ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26d3560de163f7a5b8390053fd7bef5ffdf57f40.mp3"
+      }
     },
     {
       "id": 2,
@@ -45,7 +53,11 @@
         "插座不能碰",
         "玩具熊"
       ],
-      "knowledge_point": "安全知识 1"
+      "knowledge_point": "安全知识 1",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c7d20b8c876258e6311a9402beaf07407a31c36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91e33372892e501cf3805eb54c3b113fa7b9903b.mp3"
+      }
     },
     {
       "id": 3,
@@ -65,7 +77,15 @@
         "洗手",
         "睡觉"
       ],
-      "knowledge_point": "安全知识 1"
+      "knowledge_point": "安全知识 1",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1f1c08d26abcdc2be0cc77e194dd8f8cd4741d1.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e751e620bbcc5f16f34944fd5893a05545744907.mp3"
+      }
     },
     {
       "id": 4,
@@ -85,7 +105,15 @@
         "雨伞",
         "墨镜"
       ],
-      "knowledge_point": "安全知识 1"
+      "knowledge_point": "安全知识 1",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b35aaefe7f75659f0d5b31c1a91511e38e12853.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/0327f0f0e99c94c7b730f00f3f99127b7dab7d2f.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99fa772c620bcdc702fed524d73e4ad1bf1bc1c7.mp3"
+      }
     }
   ],
   "knowledge": null

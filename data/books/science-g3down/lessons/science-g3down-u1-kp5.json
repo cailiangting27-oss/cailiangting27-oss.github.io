@@ -16,7 +16,11 @@
       "question": "在奔跑比赛中，相同时间内跑的距离越长，说明运动得越快。",
       "options": [],
       "answer": "对",
-      "explanation": "相同时间内，比距离，距离长的运动快。"
+      "explanation": "相同时间内，比距离，距离长的运动快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23913b2dc48d4549b0f85dba0eec1e42e483f6a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e16160b5dd45ff9234fd48c57470eeb2a3a02140.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "三人一样快"
       ],
       "answer": "丙",
-      "explanation": "相同距离内，用时越短，运动越快。9秒最短，所以丙最快。"
+      "explanation": "相同距离内，用时越短，运动越快。9秒最短，所以丙最快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab0f9903dace88afaf106d0c2ed33a32b41e2352.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b85dd8d61a8cfb57f67c0971abd4763193b2f19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3458316756ea82e7351d0af35a972b5a81e50fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72e61fc706ef838b4ff8ac2a0e6776dc5f6de90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad685a6cda6a14ef67b263713fb1acb38862a3fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00bbdee13634bff4a7b2eb128055cf6233dba972.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "增加难度"
       ],
       "answer": "让结果更准确",
-      "explanation": "重复试验、取平均值是为了减少实验偶然因素引起的误差。"
+      "explanation": "重复试验、取平均值是为了减少实验偶然因素引起的误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94719f57e8a5c134b415beea2e00b58fb4d0ee49.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39370d8b1dbf77b48a7c6ecdd2fcb02d79d0b178.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79a39828f13e4162fab8657d7d35c8f17c69b5ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad4d4b283381132d26ab1ba40b8e323fff46057b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10b5fa3288622980c49edae7a0de8e994e5230c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d03ae67c1a76657c2ebfd3004887d34c7d2469ef.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "无法比较"
       ],
       "answer": "两车一样快",
-      "explanation": "100/2=50，150/3=50。两车每小时速度均为50公里。"
+      "explanation": "100/2=50，150/3=50。两车每小时速度均为50公里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b264aa64726a5a0dfb023a0afc09b79750f555e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b5303a02bbc5ef496267ce04ac9590dc4089ccc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6138ce302b61ebc7eb74f764eef12a2e779559f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddb9111ed865d70a5fd53d711ad714108648befd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9003369d33de72ad51383e2f0a2a909f14091e98.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "猎豹10秒跑了300米，羚羊10秒跑了200米，猎豹在10秒内比羚羊多跑了（）米。",
       "options": [],
       "answer": "100",
-      "explanation": "300 - 200 = 100。"
+      "explanation": "300 - 200 = 100。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/0364447817bf934f7dfcb2316df7c494187fb887.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2ae1cfa7dd8dc8b72da08bf842b4bcb1d3dedff.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "距离相同时，认为用时越长的越快",
       "不统一单位就直接比较数值"
     ],
-    "tips": "做实验时取三次测量的平均值能减少误差。"
+    "tips": "做实验时取三次测量的平均值能减少误差。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cc/cc2d9d1d004fae6b8caf8784c0ea439f3a2d36bc.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/77/771fb10cb74a7160d1484b81306c0c06cad5efb5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/36/365f6286d89c9c706dde9e1c964ba7ba2312a976.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bc/bccd265ac0e04f10370a511878b1b249c798e9c9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/cc/cc37d2b620b2dfdb8812954bd9c73f1098e9ae9d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b7/b7bfeb0aad3aed8f2fb480fd8bc11a5fadbd4b5a.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "越多越好的垫圈"
       ],
       "answer": "刚好能克服摩擦力的垫圈",
-      "explanation": "只有拉力达到一定数值克服掉初始摩擦力，小车才会启动。"
+      "explanation": "只有拉力达到一定数值克服掉初始摩擦力，小车才会启动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9ff7a7794476b2795bc0c45133f7cbda3a7c418.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec2e3594ad7f77c0437ef127aec05b56eebcf91b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d3e53468f668f1657fa64604f29d7485dd2dd29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf14cda8dea1a794479a714895ab2a14b1ed42b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc9b92be4dcc017f7bab4c0d1bcae411e4dd7ef0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62fd1002f098503fbf67b2728642b9056bec6b74.mp3"
+      }
     }
   ],
   "knowledge": null

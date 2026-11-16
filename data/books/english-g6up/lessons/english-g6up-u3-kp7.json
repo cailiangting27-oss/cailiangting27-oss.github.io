@@ -16,7 +16,11 @@
       "question": "'Where' 常用于询问地点。",
       "options": [],
       "answer": "对",
-      "explanation": "Where 是对地点的提问。"
+      "explanation": "Where 是对地点的提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fca56d236210c37f970e7a419e72bd88a52fd074.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee7f8c24989341d1aefba307835ce484e53d43d7.mp3"
+      }
     }
   ],
   "knowledge": null

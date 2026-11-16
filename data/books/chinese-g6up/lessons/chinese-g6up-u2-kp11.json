@@ -21,7 +21,17 @@
         "力大无穷"
       ],
       "answer": "勇敢顽强、身先士卒",
-      "explanation": "通过动作描写刻画了班长在危难关头挺身而出的英雄气概。"
+      "explanation": "通过动作描写刻画了班长在危难关头挺身而出的英雄气概。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c58d9d3996a585d431c72f4ca850633e2b2e6583.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a42c44560753715f9b36f8e1417659b351614c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/806d32d7ec3cbf30bf42c0ee88dbe9c16e456118.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1daedf0056919a7839ff71da03a73e8c50be11fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd57f1d6e170b8cede9b97a0cf74036f1872f75f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4dcb687ff491ad06b40c6e17aeb4a4b27194f38b.mp3"
+      }
     },
     {
       "id": 18,
@@ -32,7 +42,11 @@
       "question": "我们要向（___）五壮士学习英勇无畏的精神。",
       "options": [],
       "answer": "狼牙山",
-      "explanation": "本单元课文中提到的五壮士来自于狼牙山。"
+      "explanation": "本单元课文中提到的五壮士来自于狼牙山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b1ebdcbbb2a5d33a53dcbd455fd10efee663b34.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/192f301921b2cf7c8d88690eb65caddcb44e7bd6.mp3"
+      }
     }
   ],
   "knowledge": null

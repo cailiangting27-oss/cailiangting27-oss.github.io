@@ -16,7 +16,11 @@
       "question": "当你想问别人“几点了？”可以说：What time is it?",
       "options": [],
       "answer": "对",
-      "explanation": "这是询问时间的标准句型。"
+      "explanation": "这是询问时间的标准句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dc91cbcbf58a8e7b3a92f3ee8054f406f4c5334.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5ba1aa3eeda3353a7b79c8c1d938e3d5c8167399.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "time"
       ],
       "answer": "o'clock",
-      "explanation": "整点表达常用 o'clock。"
+      "explanation": "整点表达常用 o'clock。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65f3a09bfde5a87096adc4b0a295b24802c32bf6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83655a5560ef1c438170f28acfecbe5013e8f34f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22286fa349f134bdccd0d1c3aeca1d143538dbb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80f528771d48e5967ab58c42c49c42e96b0956d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714eea0f4c980736bde0065fe73f573487f08e3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f6afc8af71491e2e06a6b10e1009c6c13f82e95.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "It's big."
       ],
       "answer": "It's 8:00.",
-      "explanation": "回答时间提问应回复具体数字或时间。"
+      "explanation": "回答时间提问应回复具体数字或时间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85becb8b31da64ffdfa14232be5219b838f1341a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/544e316a797057c96753e39c5b7fb55bd38a5c5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d1f04fb7592827c14b423c2f77037999b9ba2a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb93a4a99825d9f80a48165d432ee3dc27705f2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ecdd58bb217db84f8f1c9c746efae4c2790a558.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0b628cc8fc7b4d3f4f25a785b37c0888d5a63ea.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "have breakfast"
       ],
       "answer": "go home",
-      "explanation": "放学了（School is over）应该回家。"
+      "explanation": "放学了（School is over）应该回家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56e2b4a2bfa59915fa12d29d7cc6037b36a9ea89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d912e4b4a5d0aa94ca44751dfef0a986ee0b16f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed84094e15d7829de8ff9e5395929b610a09a68c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f2d515e5af85306ababa38cd3ed56008f949ac8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d53ea02174b601e907ba7f0a70828893d68ff2d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09d150bdf75590b1324576a8d0943a2c6f77c6fb.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "What ___ is it? It's 10:00.",
       "options": [],
       "answer": "time",
-      "explanation": "提问时间固定词组为 what time。"
+      "explanation": "提问时间固定词组为 what time。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/3783a3cd2f4e18ad8628824b66452cd8400d6708.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5fbac54d3127d823a1c52259c131009fe181c13.mp3"
+      }
     },
     {
       "id": 22,
@@ -92,7 +130,18 @@
         "?"
       ],
       "answer": "What,time,is,it,?",
-      "explanation": "特殊疑问句，What 置于句首。"
+      "explanation": "特殊疑问句，What 置于句首。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba8ca36035bd5426db4d2139a8e344fafc394952.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714eea0f4c980736bde0065fe73f573487f08e3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a19994a104c4f3b3fad39558b6c73b10f87348ac.mp3"
+      }
     }
   ],
   "knowledge": null

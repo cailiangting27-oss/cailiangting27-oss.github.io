@@ -21,7 +21,17 @@
         "花药"
       ],
       "answer": "子房",
-      "explanation": "受精完成后，花瓣、雄蕊枯萎，雌蕊的子房发育成果实。"
+      "explanation": "受精完成后，花瓣、雄蕊枯萎，雌蕊的子房发育成果实。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c740749742e73dee30284fdb81992f2700e9bbb1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25db5c30d27624666e815ec0e9d97816bc93ab89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c6509f903eb7ff925c0c3cae3827761ac1b3c0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/971c1d76d8aedf2df0888c8e8fcb2760e97a4a91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33ba93e95dbe40c871ba4cb1ea1587111005777c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53ef6ead88f8bc85265b9d698ff54aabed60740e.mp3"
+      }
     }
   ],
   "knowledge": null

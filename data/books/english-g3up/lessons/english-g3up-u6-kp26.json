@@ -21,7 +21,17 @@
         "you"
       ],
       "answer": "Happy,birthday,to,you",
-      "explanation": "意为：祝你生日快乐。"
+      "explanation": "意为：祝你生日快乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be31a86c982d3a8fabf1f00de3cc1b62239653c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d98f2c581b10506c6b7376434c945c4f7e87d11e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e256fae37a4c9f6aceb6b1cae799026a7354c840.mp3"
+      }
     }
   ],
   "knowledge": null

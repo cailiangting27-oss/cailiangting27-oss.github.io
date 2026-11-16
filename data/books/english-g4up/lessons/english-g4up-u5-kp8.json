@@ -21,7 +21,17 @@
         "chopsticks"
       ],
       "answer": "a spoon",
-      "explanation": "喝汤通常用勺子(spoon)。"
+      "explanation": "喝汤通常用勺子(spoon)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24da23654cb8fe5ca171b450ac03570a14b86efe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/4761d92f69b590dfbd5c46de8757486610bd9944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c6afd702ebba491857fd9c9ac8fdfc223cf8219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3818c3f7faa54b048af90de68c154ff4ce842956.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36263b2e162bb7367fed8fb29a5b5b4e327fd8a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72f870865d3b7b7d20735ddf7c94db7e7037e70b.mp3"
+      }
     }
   ],
   "knowledge": null

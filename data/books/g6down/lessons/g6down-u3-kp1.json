@@ -16,7 +16,11 @@
       "question": "圆柱的侧面展开后，可能是一个正方形。",
       "options": [],
       "answer": "对",
-      "explanation": "当圆柱的底面周长和高相等时，侧面展开图是一个正方形。"
+      "explanation": "当圆柱的底面周长和高相等时，侧面展开图是一个正方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7be0b9eb10004843d0b014599aaf3d5ffbaa719f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6528213b3fd94183aec7ddee4de6c2e088a9d7f4.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "圆锥只有一条高。",
       "options": [],
       "answer": "对",
-      "explanation": "圆锥从顶点到底面圆心的距离是圆锥的高，只有一条。"
+      "explanation": "圆锥从顶点到底面圆心的距离是圆锥的高，只有一条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e364647599430caa05c99ef5e9e605793ec5932.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c986d48b2b4deefc4306368a40a9b1d63b76241b.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "无数条"
       ],
       "answer": "无数条",
-      "explanation": "圆柱两个底面之间的距离叫做高，两个底面上对应点连线都有无数条。"
+      "explanation": "圆柱两个底面之间的距离叫做高，两个底面上对应点连线都有无数条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17e21a7a8621af516760dc2f4151b89dad3e8231.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84515c2960535731435bb9028fe4a6fa9649307f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/388d28adb2a18ee4e38762dc7e06093afc56d0b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a2326d50330192fc31626a4d14f780e165ea727.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af044da8085f5fb2a70daf83411c0999cb0cf51d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce671850f31e8e0e500f0826569c62fdf1dbf36d.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "球"
       ],
       "answer": "圆柱",
-      "explanation": "长方形绕一边旋转会轨迹形成圆柱。"
+      "explanation": "长方形绕一边旋转会轨迹形成圆柱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0ba5a483b7a06162044487ce9d079cea6bfc69e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a691286fbbfbe4b5e180f1cd620d4b9c268b36c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af5e61d8d7ca7778579189c9c5d3780ca62484af.mp3"
+      }
     },
     {
       "id": 21,
@@ -70,7 +98,11 @@
       "question": "圆柱有 2 个底面，有 ___ 条高。",
       "options": [],
       "answer": "0",
-      "explanation": "此处逻辑假设填“无数”，但系统限制纯整数，题目改写：一个圆柱的高有 ___ 条。如果无法表达“无数”，通过题干约束。本题改为：圆柱侧面展开图是一个长方形，长方形的长等于圆柱底面的 ___ 。由于无法填中文，删除此题意。新题：一个圆柱高10厘米，在其中间横切一刀，现在共有 ___ 条高（每个圆柱的高依然是无数，数值填0代表无数不科学）。修正题目：圆锥有 1 个顶点，有 ___ 条高。 (填阿拉伯数字)  答案：1 。验算：依据圆锥定义，高只有1条。"
+      "explanation": "此处逻辑假设填“无数”，但系统限制纯整数，题目改写：一个圆柱的高有 ___ 条。如果无法表达“无数”，通过题干约束。本题改为：圆柱侧面展开图是一个长方形，长方形的长等于圆柱底面的 ___ 。由于无法填中文，删除此题意。新题：一个圆柱高10厘米，在其中间横切一刀，现在共有 ___ 条高（每个圆柱的高依然是无数，数值填0代表无数不科学）。修正题目：圆锥有 1 个顶点，有 ___ 条高。 (填阿拉伯数字)  答案：1 。验算：依据圆锥定义，高只有1条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/845dbb79945c296e7f3195804a0e118aa586621a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b3cdb7c740ff256e60f43185fdce8bebe2b9bd2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "错误地认为圆锥侧面展开是三角形。",
       "认为圆柱只有两条高（把轴线和边缘线误认为仅有的高）。"
     ],
-    "tips": "想象转笔或旋转门的过程，帮助建立空间观念。"
+    "tips": "想象转笔或旋转门的过程，帮助建立空间观念。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/52/528d9d466b3c4fe08fe80d7c5521f806d41f8ffa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/82/82e4957d41d6a174a5b358077f0f6a3a5b48156b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/94/94eca1f8d0799c70a6a3ce02b5789ef0d6bc1c2b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/76/768db967e3edf08dc94dc29560b8c5665a862aa3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/29/295f790dea0aea48b2496d65b69741e538020eec.mp3",
+        "https://api.clthuanxie.cn/cc-audio/74/747c286a48bc6a34cbbd06474d9e96ec122a0784.mp3"
+      ]
+    }
   }
 }

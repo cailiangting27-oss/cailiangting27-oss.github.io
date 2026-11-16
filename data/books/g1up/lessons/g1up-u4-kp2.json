@@ -16,7 +16,11 @@
       "question": "圆柱上下两个面都是圆圆的，而且大小一样。",
       "options": [],
       "answer": "对",
-      "explanation": "圆柱的特征是上下两个底面是完全相同的圆。验算：符合圆柱几何定义 ✓。"
+      "explanation": "圆柱的特征是上下两个底面是完全相同的圆。验算：符合圆柱几何定义 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/721e850693af45732c73d7d785261fcd8494f541.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82f9d7f0eaa10059e7e07a35375d634cb6993a2e.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "正方体是四四方方的，无法滚动。",
       "options": [],
       "answer": "对",
-      "explanation": "正方体由 6 个正方形组成，平平的，不能像球或圆柱那样滚动。验算：平面图形不具备滚动属性 ✓。"
+      "explanation": "正方体由 6 个正方形组成，平平的，不能像球或圆柱那样滚动。验算：平面图形不具备滚动属性 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2f2b250c5585f76033a29b960960f937fbfc91d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b5a07f176cc01253f934ac2a4a6742b772a7495.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "0 个"
       ],
       "answer": "2 个",
-      "explanation": "圆柱的上下两个底面是平平的圆，侧面是曲面。验算：$1 + 1 = 2$ ✓。"
+      "explanation": "圆柱的上下两个底面是平平的圆，侧面是曲面。验算：$1 + 1 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f8985ced7c841b745119d46095ec8d122c4b667.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a077c83c695f4d6b9e568c8defe224ca036f3a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ad12b46716d14cc3818c22dec3eb5798483f10e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de50a0714185a582deb1ba1c5bbdd6d7cec477e5.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "都有可能"
       ],
       "answer": "长方体",
-      "explanation": "长方体有平滑的大面，稳定性最强，适合堆叠。球易滚动不稳。验算：物理稳定性分析 ✓。"
+      "explanation": "长方体有平滑的大面，稳定性最强，适合堆叠。球易滚动不稳。验算：物理稳定性分析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7cf322f1ebf6c913bc1836521cbe4d69f1bf937.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4823cde94153bb678aa77a6cf75117f3c93e8893.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04d4bde2ee12a2b842ef3e3321636af8e4a697b3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/9722033c9c95b92c3fc183dd6a706857b8b27405.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "球"
       ],
       "answer": "球",
-      "explanation": "球从任何方向看都是圆的，不可能是长方形。验算：排除法确定 ✓。"
+      "explanation": "球从任何方向看都是圆的，不可能是长方形。验算：排除法确定 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24c69c1953687f45108e0a3b2f1bfde2246ee95e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53bd0b148ae91c3ca12a9d41ca499e3586c7b31c.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "长方体"
       ],
       "answer": "圆柱",
-      "explanation": "圆柱立着放只能滑动，横着放可以滚动。验算：多状态运动分析 ✓。"
+      "explanation": "圆柱立着放只能滑动，横着放可以滚动。验算：多状态运动分析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9e1fbe37c27344eb7a8a8256e0285868ce34a8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0268b2ba722f3029f6c11157d14145f36c444754.mp3"
+      }
     },
     {
       "id": 21,
@@ -102,7 +150,11 @@
       "question": "小明有 2 个圆柱和 3 个长方体。他一共有 ___ 个几何图形物体。",
       "options": [],
       "answer": "5",
-      "explanation": "根据题意，计算物体总数。列式：$2 + 3 = 5$（个）。验算：$5 - 3 = 2$ ✓。"
+      "explanation": "根据题意，计算物体总数。列式：$2 + 3 = 5$（个）。验算：$5 - 3 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/930d97f639a4b2f21732648df1194007b3dfac8c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0e444859936470adae58bd4c2e9a60a13cf481a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "误认为圆柱只能滚动，忘记了它竖着放时是可以平稳滑动的。",
       "认为所有圆圆的图形都能向四面八方滚动（其实圆柱只能向两个方向滚动）。"
     ],
-    "tips": "记忆口诀：球儿圆圆滚得快，圆柱柱子站得稳，长方正方平平脸，堆高不倒最合群。"
+    "tips": "记忆口诀：球儿圆圆滚得快，圆柱柱子站得稳，长方正方平平脸，堆高不倒最合群。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/31/31b4177bb3fe09ab220407fc33b30b9e3ea653ac.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2e/2e897e2e14be438a4b94c2597c627311587e0753.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/80/80f32fc82ca2cc862c6b346b4cef1bc23faa6295.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5c/5c94a18394ab419523b4313a51ca5bc7f2d0755f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0c/0cc1b75b7f589322df7f8f8db254c881f100eda7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1e/1e62609147d73333adec8dfdaa2d408f6f997cd6.mp3"
+      ]
+    }
   }
 }

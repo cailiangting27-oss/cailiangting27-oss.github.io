@@ -16,7 +16,11 @@
       "question": "用1、2、3三个数字组成没有重复数字的三位数，总共有6个。",
       "options": [],
       "answer": "对",
-      "explanation": "$3 \\times 2 \\times 1 = 6$。分别是123, 132, 213, 231, 312, 321。正确。"
+      "explanation": "$3 \\times 2 \\times 1 = 6$。分别是123, 132, 213, 231, 312, 321。正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66f8c38aadabfcbf381e9906d0271679ef8b5a59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a55b230f835ea4c2b194fcc583f5a5cdf77099ff.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "用0、4、7三个数字组成没有重复数字的两位数，总共有6个。",
       "options": [],
       "answer": "错",
-      "explanation": "十位不能是0。只能是40, 47, 70, 74共4个。故说法错误。"
+      "explanation": "十位不能是0。只能是40, 47, 70, 74共4个。故说法错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf48a8ac184818adc646440caa9fefd42971541a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5904e71135da3afc9d1b29ff040355374971146.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在排列问题中，数字的顺序调整不会改变结果。",
       "options": [],
       "answer": "错",
-      "explanation": "排列有序，顺序改变（如12变21）代表不同的结果，故错误。"
+      "explanation": "排列有序，顺序改变（如12变21）代表不同的结果，故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1d1d28e1160eb64af5630c972ed44a7af21c43c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/573b2b3c55749e1347374b6b4c1db41c11eef48a.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "有4种不同颜色的花，选出两种送给老师，有6种选法。",
       "options": [],
       "answer": "对",
-      "explanation": "组合数 $3+2+1=6$。正确。"
+      "explanation": "组合数 $3+2+1=6$。正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/103469504f2140311330c98c9e876022a61d837f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41a15c2df5eb0b4e8e7f644a84e94acd635df5fa.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "46"
       ],
       "answer": "64",
-      "explanation": "十位选最大的6，个位选剩下的最大的4，组成64。"
+      "explanation": "十位选最大的6，个位选剩下的最大的4，组成64。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/1564addbdb0db66a7ad93b1f54269c6d8afcad03.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2ef495a1152561572949784c16bf23abb28057.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61f2dbb6e8b576c6dbd7f1062569830f315a5f04.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "6种"
       ],
       "answer": "2种",
-      "explanation": "固定A在中间，只有BAC和CAB两种排法。"
+      "explanation": "固定A在中间，只有BAC和CAB两种排法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/8286ac67211d62bed75cf1645987f2d985bf0d2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7be81b1f5d0efe7818d38745acf2444fdfeaff02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f234f8450f96f820528bfa5ab0183d775805687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf8f31edb1c769711f73c64ccd75e273d9ff3d36.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "12个"
       ],
       "answer": "6个",
-      "explanation": "$3 \times 2 \times 1 = 6$。"
+      "explanation": "$3 \times 2 \times 1 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dcf339e25461863c3cea7fade294aba76378bc80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a132e0af73aab8a48562d17953ea47cca5c1d63d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "12场"
       ],
       "answer": "6场",
-      "explanation": "组合问题。$3+2+1=6$场。"
+      "explanation": "组合问题。$3+2+1=6$场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a60c990364b3dbb93d91b805b9c6de9309fe11f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/219538818ddc55be3fb7f1694fb502cb6c6bf16c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/717ea07e14059196c6d2eaef8c9156bc0d921537.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/836ae12a6f0f905166043ae8270af733f128f1ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094bcc1c8e95885ca09429a5f041bb797c2fb830.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9066923a5928a7548df06c62c8095aef4aa379e9.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "12个"
       ],
       "answer": "6个",
-      "explanation": "组合：0+3=3, 0+5=5, 0+7=7, 3+5=8, 3+7=10, 5+7=12。共6种不同的和。"
+      "explanation": "组合：0+3=3, 0+5=5, 0+7=7, 3+5=8, 3+7=10, 5+7=12。共6种不同的和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b364fa893d553000125847775e51fa610119f1f4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85fdc95206f483fa8b76a738a63a103b88b09f56.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "3种"
       ],
       "answer": "0种",
-      "explanation": "最大金额只有 $1 + 0.5 + 0.1 = 1.6$ 元，且不找零的情况下，只有5角+1角=6角，无法凑齐8角。"
+      "explanation": "最大金额只有 $1 + 0.5 + 0.1 = 1.6$ 元，且不找零的情况下，只有5角+1角=6角，无法凑齐8角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c5dd87ad78098693cc04601ca1acfb06784229b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48db2842d477d679f490baaae1884992e781219a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be81b1f5d0efe7818d38745acf2444fdfeaff02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f234f8450f96f820528bfa5ab0183d775805687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/eaf1c820828d89b0296aa079dc36f36e22001ec2.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "6场"
       ],
       "answer": "3场",
-      "explanation": "$2+1=3$ 场。"
+      "explanation": "$2+1=3$ 场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/882849af980cbd20a74de8f10350abad2e6997e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/8440a4dfd91c1d6987537330b01b8790596f545c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73e458057f3028b6b725eecb8b686720e693b200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/219538818ddc55be3fb7f1694fb502cb6c6bf16c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/836ae12a6f0f905166043ae8270af733f128f1ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a1e1b6d511c472f226d7cadf9fc31dcb655c747.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "16个"
       ],
       "answer": "12个",
-      "explanation": "十位4种可能，个位3种可能。$4 \\times 3 = 12$。"
+      "explanation": "十位4种可能，个位3种可能。$4 \\times 3 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1d156d58ed532272586e613f5fcc4c1ffb14e34.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eab83a50ca54147d0b59b201e87c10142e605c15.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bc9c45fdffa4e54be673cebb576bec151db16cb.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "用0、2、5、8可以组成 ___ 个没有重复数字的两位数。",
       "options": [],
       "answer": "9",
-      "explanation": "十位选2, 5, 8（3种），个位选剩下3个里的1个（3种）。$3 \\times 3 = 9$。验算：20,25,28; 50,52,58; 80,82,85。符合。"
+      "explanation": "十位选2, 5, 8（3种），个位选剩下3个里的1个（3种）。$3 \\times 3 = 9$。验算：20,25,28; 50,52,58; 80,82,85。符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a107976d97add6e1dd62c3f99d91681e3b39bfd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b92bc7b0158426a344ece74e9be66e6b4aeffae.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "如果有5件短袖和2条裤子，一共可以有 ___ 种不同的穿法。",
       "options": [],
       "answer": "10",
-      "explanation": "$5 \\times 2 = 10$ 种。验算：$2+2+2+2+2=10$ ✓。"
+      "explanation": "$5 \\times 2 = 10$ 种。验算：$2+2+2+2+2=10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fec1becdedbb57cb8e3eb9128a79f0660cb8ba3c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec3232c00a18e4c334063ea4886f2cdf7501c1c5.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$3 \\times 2 \\times 1 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$3 \\times 2 = 6$, $6 \\times 1 = 6$。验算：$6 \\div 1 \\div 2 = 3$ ✓。"
+      "explanation": "$3 \\times 2 = 6$, $6 \\times 1 = 6$。验算：$6 \\div 1 \\div 2 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84403dba63b96a574fa467fc04e8e53ca136f748.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/842aa30bc106f540244f81f6cf9b4fa09ce6ccbb.mp3"
+      }
     }
   ],
   "knowledge": null

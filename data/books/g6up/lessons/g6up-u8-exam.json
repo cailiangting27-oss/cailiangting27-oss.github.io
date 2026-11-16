@@ -16,7 +16,11 @@
       "question": "从1开始的前10个奇数的和是100。",
       "options": [],
       "answer": "对",
-      "explanation": "$10^2=100$。验算：$1+3+5+7+9+11+13+15+17+19=100$ ✓。"
+      "explanation": "$10^2=100$。验算：$1+3+5+7+9+11+13+15+17+19=100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/eddbf35cc0319c371bd58b0a5004108a94720336.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82f06f66e195621978125e3d155a5c864f515a2a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$2+4+6+8$ 的结果可以用 $4^2$ 计算。",
       "options": [],
       "answer": "错",
-      "explanation": "平方数规律仅适用于从1开始的连续奇数，这是偶数。验算：$2+4+6+8=20 \\neq 16$ ✓。"
+      "explanation": "平方数规律仅适用于从1开始的连续奇数，这是偶数。验算：$2+4+6+8=20 \\neq 16$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d198058bca25cfca17fff7fb78312214b6fd4fb6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69eb78ca246b077a06394e3d40bb537375fe8c93.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$1+3+5+7+5+3+1 = 4^2+3^2$。",
       "options": [],
       "answer": "对",
-      "explanation": "前4个奇数和是 $4^2$，剩余部分 $5+3+1$ 是前3个奇数和 $3^2$。验算：$16+9=25$ ✓。"
+      "explanation": "前4个奇数和是 $4^2$，剩余部分 $5+3+1$ 是前3个奇数和 $3^2$。验算：$16+9=25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93a180a6df77d582d81673907626159fc03f4a6c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81722045f372110fb50435ffd50df693b43a5684.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "第n个正方形点阵的总点数一定是偶数。",
       "options": [],
       "answer": "错",
-      "explanation": "总点数为 $n^2$，当n为奇数时，$n^2$ 为奇数，例如 $3^2=9$ ✓。"
+      "explanation": "总点数为 $n^2$，当n为奇数时，$n^2$ 为奇数，例如 $3^2=9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a51ea409cbb963ef73cd7a5b99bdb1c1cac00266.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e4b58b54df0da70324ad32a49c7e312fe811cdb.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "25"
       ],
       "answer": "21",
-      "explanation": "规律为 $n(n+1) \\div 2$。第6个数是 $6 \\times 7 \\div 2 = 21$ ✓。"
+      "explanation": "规律为 $n(n+1) \\div 2$。第6个数是 $6 \\times 7 \\div 2 = 21$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c60dfa2b3334dbf40fa2229493ba237f217b178d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1765de3921e3797c40c2293b0ab96c854f02df0.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "16"
       ],
       "answer": "12",
-      "explanation": "$12^2 = 144$。验算：$12 \\times 12 = 144$ ✓。"
+      "explanation": "$12^2 = 144$。验算：$12 \\times 12 = 144$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0e4c3b9d4c208519b7f7d1a87b1f0cb256fcb60.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ec338a0b8e3273526e0474bad6d644124827d6a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "13"
       ],
       "answer": "11",
-      "explanation": "当前是第5层（9个点），下一层是下一个奇数，即11 ✓。"
+      "explanation": "当前是第5层（9个点），下一层是下一个奇数，即11 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/330752296c50297c0bf6260c1b1f8051a2aff63e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8857eab2c51773deb41386023fcfb64dd36ed03.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "11"
       ],
       "answer": "10",
-      "explanation": "$1, 4, 9, 16, 25, 36, 49, 64, 81, 100$，共10个 ✓。"
+      "explanation": "$1, 4, 9, 16, 25, 36, 49, 64, 81, 100$，共10个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c247ca23846647094ca02f316b42c3f55ed627eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33ed82b631f03441136b69a231eb27aba620ee02.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "40"
       ],
       "answer": "20",
-      "explanation": "$n^2 = 400$，故 $n = 20$ ✓。"
+      "explanation": "$n^2 = 400$，故 $n = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee22e887447e0f41d4612145a83270486490f9cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/774d284c91881a5f8927e143c1dc98a6a32a6a9d.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "1/32"
       ],
       "answer": "1/16",
-      "explanation": "剩余量为 $(1/2)^4 = 1/16$ ✓。"
+      "explanation": "剩余量为 $(1/2)^4 = 1/16$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1313657d6952ffd22eae2a96b9a844f95267e3a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9d4061486beb3393b2008158466b69b3fa998ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b14b5435c67a0024c006e26532e45468f6ca207.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/414b3967110214d3632a4b3c76bed0afc851d067.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6faddd2b36616671dca4aa16ae27b99f8c9e6928.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a21bc9128f3680faa66df69f53ecce5c520dbb0.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "9"
       ],
       "answer": "5",
-      "explanation": "差值为 $9 - 4 = 5$，正好是第3个奇数 ✓。"
+      "explanation": "差值为 $9 - 4 = 5$，正好是第3个奇数 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11433dad1fb3d3f10921bdaa5b6e263a1eca2e5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0a765f858340b329f34ad5e6d80f01a6f8b57c4.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "70"
       ],
       "answer": "66",
-      "explanation": "第11个需要增加11个点，$55 + 11 = 66$ ✓。"
+      "explanation": "第11个需要增加11个点，$55 + 11 = 66$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63d8cb9914b9a76cb018de8c7ac8d5c50f1b6d31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a459380709e2fe4ac2dae5733c73225ff6cfee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59129aacfb6cebbe2c52f30ef3424209f7252e82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21d053ea4e8c9f9d5228ce652bd3eda495c2e387.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "从1开始连续100个奇数相加，和是 ___。",
       "options": [],
       "answer": "10000",
-      "explanation": "列式：$100 \\times 100 = 10000$。验算：$100^2 = 10000$ ✓。"
+      "explanation": "列式：$100 \\times 100 = 10000$。验算：$100^2 = 10000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5d213541ef00e69c36386d16144e36e57b6f78c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e95e6f4d71c277098de25bcda9ced14a3b4b1d41.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "计算 $1+3+5+7+9+11+9+7+5+3+1 = $ ___。",
       "options": [],
       "answer": "61",
-      "explanation": "前6项和 $6^2=36$，后5项和 $5^2=25$。列式：$36+25=61$。验算：$36+25=61$ ✓。"
+      "explanation": "前6项和 $6^2=36$，后5项和 $5^2=25$。列式：$36+25=61$。验算：$36+25=61$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/878cf5c468f0f509a4aa6bec25e7a996e85fbaee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1106ada5d8d01e7fd97865821cb28bed71452f77.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$13 \\times 13 = ?$",
       "options": [],
       "answer": "169",
-      "explanation": "$13 \\times 13 = 169$。验算：$169 \\div 13 = 13$ ✓。"
+      "explanation": "$13 \\times 13 = 169$。验算：$169 \\div 13 = 13$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e7c2c4476d606042fe34b971fc62aa07857e300.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5939cafa2c5b0ec30a2e4dc555c1a4d8cfc929ea.mp3"
+      }
     }
   ],
   "knowledge": null

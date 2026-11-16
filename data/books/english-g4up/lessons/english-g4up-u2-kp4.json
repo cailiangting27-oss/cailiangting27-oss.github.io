@@ -16,7 +16,11 @@
       "question": "'maths book' 的中文意思是'语文书'。",
       "options": [],
       "answer": "错",
-      "explanation": "maths book指的是数学书，语文书是Chinese book。"
+      "explanation": "maths book指的是数学书，语文书是Chinese book。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0ca44a57cb65a34305b89195fc9e6892d546444b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b90c8aebe7b0c5da883e3ae4d66283fa85444fe7.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "storybook"
       ],
       "answer": "English",
-      "explanation": "因为横线前是不定冠词an，所以后面接的单词必须以元音音素开头。"
+      "explanation": "因为横线前是不定冠词an，所以后面接的单词必须以元音音素开头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3265e101fb0d0e8063966ca9b5b6ac3539742abc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/649df08a448ee3fa90f3746baaf6b0907df42c91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3529b24dfdbc8cd6390e15f558708c71e1d89b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15dc18865567bcc98554a72a8036e1b64a8b85d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8437193862b78daa12ee0660971b8b868a1e776.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/230f44a02c04b76e53d40b709fface4edec54331.mp3"
+      }
     }
   ],
   "knowledge": null

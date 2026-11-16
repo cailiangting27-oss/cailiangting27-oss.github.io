@@ -16,7 +16,11 @@
       "question": "当转述的话内容很长时，我们可以只转述最主要的信息。",
       "options": [],
       "answer": "对",
-      "explanation": "为了效率和准确，转述应抓住核心要点。"
+      "explanation": "为了效率和准确，转述应抓住核心要点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9be92391599b574fc43c02984b090f9bee2fdaa7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33336da0a8fd3974af29880bec4c61d917d9f962.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "‘清平乐’读音为 qīng píng yuè，其中‘乐’字代表音乐或音律。",
       "options": [],
       "answer": "对",
-      "explanation": "词牌名中的‘乐’读音为yuè。"
+      "explanation": "词牌名中的‘乐’读音为yuè。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1dd0ebf244dbb3b74233ed60c27bda970e3af536.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b85adf0b163e353727fc35d33a8088674c93c236.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "《乡下人家》一文主要按照空间转换的顺序来描写景象的。",
       "options": [],
       "answer": "对",
-      "explanation": "由门前到屋后，到院子里，体现了空间挪移。"
+      "explanation": "由门前到屋后，到院子里，体现了空间挪移。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3200c21c31980bd2d63657d0adfaf65b43508aee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd046c996914d7962556f00c7858407a15a06173.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "‘小小的天窗会使你的想象锋利起来。’中‘锋利’一词形容想象力敏锐。",
       "options": [],
       "answer": "对",
-      "explanation": "这是生动的文学化表达，意指想象力变得锐利、深刻。"
+      "explanation": "这是生动的文学化表达，意指想象力变得锐利、深刻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f51718fc38f0b3194064c7f855d865d29a75483b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd73a65fa0449f9f37c01865887af93f425c53de.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "排比"
       ],
       "answer": "比喻",
-      "explanation": "将大雁排成的队列比作洁白的旗。"
+      "explanation": "将大雁排成的队列比作洁白的旗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d31befe01f2f0907e021e929c14c3169f5982f10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4fbca90ee60adcae3bd4e4686ff6a2a1423b089.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "天窗能透进新鲜的空气"
       ],
       "answer": "通过天窗能产生无限的神奇想象",
-      "explanation": "当孩子被关在屋里，天窗是联通外面世界的唯一孔道，激发了无限慰藉。"
+      "explanation": "当孩子被关在屋里，天窗是联通外面世界的唯一孔道，激发了无限慰藉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a88ca9d97c35af60d40ec63250c77d3e4ff5529.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6022ff73343a9b0221deff89e19b5ff158332425.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd8bacb90b9c70fb805a89bb7107c6c06ae0ddba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e5e8fc331432f09c9e09616943493d4dd732e93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e166797c94bceeaea7ca54a3528c562a894972dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce54e16b9046798f4972b0a3ba11eae41086fd05.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "商场购物"
       ],
       "answer": "商场购物",
-      "explanation": "商场购物属于城市生活，非田园画卷。"
+      "explanation": "商场购物属于城市生活，非田园画卷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca2aedbd7a0493cba51de3c541354cee6131b96e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e25f39fd499091ad6a733704d5c6a28c0035bc4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc0949f91079027efb5ed85baf363449c6ba2337.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/273ddfc4b4f4d0e6ff49410b66a5c66cf100d7d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fdb15499d4ac734fccb873c8fa19d53f159236e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f35d024a8a79c5f9e97c7bb1b52c1e61749ba9b8.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "繁忙"
       ],
       "answer": "宁静",
-      "explanation": "无人经过，只有飞虫，体现了白天乡村的沉静。"
+      "explanation": "无人经过，只有飞虫，体现了白天乡村的沉静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eefce048bea701da891a62adea0a329797fd6450.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20d6b431302767b04ebaa29725f564df3b8514ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c2b70c8e5d3f2a7d52e53a3276e572fddbfcae8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d66f58d1c19e332a3589f0761212cd709a3d13f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/805d63c999ee929bf92d8805aebad6113e778b23.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e589554363980e3df831efa744002e88966b773.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "颜色发红"
       ],
       "answer": "很清澈",
-      "explanation": "只有水面清澈如镜才能映照出岸边的景物。"
+      "explanation": "只有水面清澈如镜才能映照出岸边的景物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/266427cddf40f601570bba54c8f51748849d59ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b50c41f9b1ebcfc8f0a6f5ed920e469d00dbb31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3fa4bba4cdfab8228ba215e01ed741142b9e7e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d676f9bf64da7201b6e28f129e96d8c0060c18d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65a9274eb9bc8216bcf996cad7e7a88303dfc724.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f26c8d0f423b435666a5af0cb99a0746fa83c52.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "描写细节"
       ],
       "answer": "总结全文",
-      "explanation": "这是文章的中心句，对全文内容进行了概括升华。"
+      "explanation": "这是文章的中心句，对全文内容进行了概括升华。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9beb57c03eb9ac5a181c666b969bf8ac9e70539.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d01de1c846ad044f39bc28a5a167de0ecb017a71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f5b7eff1b5a0aba9c7659c8ccd86a579af7c28a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d1e562353d2fc5a3c67a56c513499877286443.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/478c68ff185882a2989225d2b808414f0b0f0f86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af67895e368fe0e76ee54129a07ca78a4e2efb3d.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《宿新市徐公店》中，黄蝶飞入（___）无处寻。",
       "options": [],
       "answer": "菜花丛",
-      "explanation": "原文：飞入菜花无处寻。"
+      "explanation": "原文：飞入菜花无处寻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aae1da7dcf90a95539bbc9a9cc9e4739bc679cda.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab75f4e1fca427fcf37a87528df892a9ed487415.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "‘探出头来’形容的是（___）生长出来的样子。",
       "options": [],
       "answer": "春笋",
-      "explanation": "课文描述：成群地从土里探出头来。"
+      "explanation": "课文描述：成群地从土里探出头来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/156c03bfc1cef8665a59acee60bf72e0131f50f7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91fb98ae154d426b45abcdc81caf64d3f2f31fc7.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "绝句"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查文学常识记忆。"
+      "explanation": "考查文学常识记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/122e4dd10b8c13d2d9e4d1f934f985bfe070cd09.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e5e1140ddce24ed40c48c0dc26f9d5910a0f8b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/801576692de8200436e2118619a409c440132690.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1d6a8a2c5cd104d2afabe0d4e438d2e20c72054.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77a9873cb9275a2078c1ef90cf5fa70728c22aa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c3383068e93a1bf50ba00b1dbdfc9f050997b7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d83341903d45b7f0e9676cd4ca50c2f6ee042ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cfb3a7cd8948a5c1ac524e74afe77b833b62acc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01093a56800d34d172571444b13cb9702a44c2ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2de077cbbd16a720bc8a8d80f7af8c23d0828f63.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "难道不美吗"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查对基础修辞手法的识别。"
+      "explanation": "考查对基础修辞手法的识别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/064f78cbf40c83c1a65404b9064d7ed71118d39c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/579bab79fba3832fd90a775d8d84dca4f606738e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17c4bedc7c441ca910b35b3d7a75367d5677bf71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82b3e93a73cd930d0c96c65d0d40edac9d0b9347.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f3eed0ce1c5ce2d6167b13cde2764bec603e63e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a771115f7447f38e386f8b4995cd0c68ddabb737.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "明镜"
       ],
       "answer": "三月的,桃花水,是,春天的,明镜",
-      "explanation": "根据课文原文结构排列。"
+      "explanation": "根据课文原文结构排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6b31a66d9294cae81bb1107138f6af948524881.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a0806f8210894c339c851372f6dc09864c7850f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faa910cbb5a15f309a354fdde4cd033f7f166f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77eb1f6106b9751c49fadc2ab0a7394a1ab0e678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98a4fa633413c9ceff1abe1103593b23a6966b84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fb10bcebb99679ed55a1ece6d2e462b262fe268.mp3"
+      }
     }
   ],
   "knowledge": null

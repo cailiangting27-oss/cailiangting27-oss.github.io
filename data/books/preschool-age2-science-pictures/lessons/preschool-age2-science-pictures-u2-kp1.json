@@ -25,7 +25,15 @@
         "苹果",
         "香蕉"
       ],
-      "knowledge_point": "我爱吃水果"
+      "knowledge_point": "我爱吃水果",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/588afa5baa85f927641dd55cb981abb641ec976d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc098b15118cf155f641b6284dbe8e523507a3ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b38a445a37a4d15cec32d781e748135d58a911e9.mp3"
+      }
     },
     {
       "id": 6,
@@ -45,7 +53,15 @@
         "西瓜",
         "香蕉"
       ],
-      "knowledge_point": "我爱吃水果"
+      "knowledge_point": "我爱吃水果",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11ee2f117a789bd05fff9d9e2b1a226c571af985.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a589fa617df5e3337e051f98e1c650849af2372.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc098b15118cf155f641b6284dbe8e523507a3ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfcf014e744d387fa8dcbbe298f7427e904b3711.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,15 @@
         "西瓜",
         "葡萄"
       ],
-      "knowledge_point": "我爱吃水果"
+      "knowledge_point": "我爱吃水果",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6873f576950594ddcbe7d880e18075bb4a2525b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a589fa617df5e3337e051f98e1c650849af2372.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df9eaffa238be82009105fb86d2551bb6b330b81.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1500d2231e76d0533f8adddac6449bd97efcb21.mp3"
+      }
     },
     {
       "id": 8,
@@ -85,7 +109,15 @@
         "苹果",
         "葡萄"
       ],
-      "knowledge_point": "我爱吃水果"
+      "knowledge_point": "我爱吃水果",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea004387f95162e0a90b8ab091291df4edaea10e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b38d961e7096a459849c6e00e388581efca2f58b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df9eaffa238be82009105fb86d2551bb6b330b81.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e5221ae293908a0b2c2c5feab0af19d3b91d62a.mp3"
+      }
     }
   ],
   "knowledge": null

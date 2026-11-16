@@ -21,7 +21,17 @@
         "笑问客从何处来"
       ],
       "answer": "不及汪伦送我情",
-      "explanation": "这是李白写给好友汪伦的送别诗名句。"
+      "explanation": "这是李白写给好友汪伦的送别诗名句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/8934125e4c923ad1fb3338174d911aec9b1e27de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2643c99d3042da40357240b1a7696d985e2f686.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42680c85b7caceb13daa496e8cb524233e9fb2d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd8ab39ebfac08c5ab03a4b21bde391e3307ca33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eef3941ef931945575b600e404992c5e2771a2ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de2cbcb93616174eceabe1bb53a395e9acc5c467.mp3"
+      }
     },
     {
       "id": 23,
@@ -36,7 +46,16 @@
         "深"
       ],
       "answer": "桃花潭水,深,千尺",
-      "explanation": "诗句为：桃花潭水深千尺。"
+      "explanation": "诗句为：桃花潭水深千尺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a139d0a33c3c6457cc4cd50151b03a02874d94f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c568779fb36c2e9a693278a82e95ab2f5bb57d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/582ad3c759046a8d2dc037a159a51bee6151f431.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d31e58f0f6701b54abf6438ce2e02eb232780be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76e2f26ebf0109209f0f513c3074c6a5fd7b3dcb.mp3"
+      }
     }
   ],
   "knowledge": null

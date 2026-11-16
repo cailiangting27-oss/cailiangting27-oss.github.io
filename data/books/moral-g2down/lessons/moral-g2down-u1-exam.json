@@ -21,7 +21,17 @@
         "成功不需要努力"
       ],
       "answer": "失败中能学到经验",
-      "explanation": "从失败中学习。"
+      "explanation": "从失败中学习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecf85ccaadb94d4fe979f4728dc7077069987708.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a2f3bc6a46c182885f5c1934baa046d372a6ed9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc515c9459d87e4107ae63535786c546d3ca9b2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa5d58180a0f4f365d934111cebb9cc8ee49b29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a46ec4c726efb495f34f11302af1e6a1d3e5bf01.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/516c6b047983582611687205620635acdb75e8a6.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "会做的事坚持做，不会的事学着做。",
       "options": [],
       "answer": "对",
-      "explanation": "这是自理的好方法。"
+      "explanation": "这是自理的好方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77b8095542072f2fac51c9410734a5e804213a32.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/7868e056fd8b273e8b4536740485924e2332a973.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "不起床"
       ],
       "answer": "穿衣服洗漱",
-      "explanation": "自己的事自己做。"
+      "explanation": "自己的事自己做。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/0071fb8fc55141d0a7dc0b0bcd765e858c1cb2d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/472e52254cd7bac36bc4ee13854d9353e8584722.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9f91244c1be03d1e551a34ba22597c69b08b678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd43ad4e689f8cdcb169caa9589f55c19a01cef6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/0508ef3e424c0ece5e78448e58b8af95eab29d16.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94c48108d8bf4c9e416eba219a5b8e55979e89ce.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "遇到困难不要马上求助，先自己动脑筋。",
       "options": [],
       "answer": "对",
-      "explanation": "先独立思考。"
+      "explanation": "先独立思考。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f2d251b6edc724c483c7896cbd678492a5ce37a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13b942ba4cb905800beb755738a6b0ce95852ba5.mp3"
+      }
     }
   ],
   "knowledge": null

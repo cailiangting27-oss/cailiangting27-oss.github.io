@@ -16,7 +16,11 @@
       "question": "只要塔台模型不倒，就说明它是一个完美的工程作品，无需改进。",
       "options": [],
       "answer": "错",
-      "explanation": "工程评估除了稳固性，还需考虑成本、高度、抗风能力等多项指标。"
+      "explanation": "工程评估除了稳固性，还需考虑成本、高度、抗风能力等多项指标。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b2236bf97c5823b9810c112184054bd5c2af6cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b45246362658e019a795b70a85f11b89868f5b05.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "用手托住塔台进行加重"
       ],
       "answer": "重物要轻轻地放在塔顶正中央",
-      "explanation": "为了测试模型的真实承载力并保证安全，重物应轻放且中心对齐。"
+      "explanation": "为了测试模型的真实承载力并保证安全，重物应轻放且中心对齐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c66deb63e65435e6dd30f41ae0de1c237184c53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/dd13eba26aed46239ff3250b4f99bc008a0cb71c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c6452c4af73df90e0bd1a70e8018999dfe23a87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba2c065c86d1496529c9ba94834426e2940d6705.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cead5fde947132f005d402f7a5bc193890867d45.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a426124e8d402a12950a4945ef069b2e079690e9.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "为了省钱偷工减料"
       ],
       "answer": "在保证安全前提下减少浪费",
-      "explanation": "成本节约必须建立在工程质量合格的基础之上。"
+      "explanation": "成本节约必须建立在工程质量合格的基础之上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e9f58de9b78183072d94f831410137bc15b4853.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71d6896b4d90080c2c4d2b9d035ffd7e1db90371.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/877ff903d2bc6221223a74fa3746841e51958758.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65078a3c7b9c1d406a6d6c558a9245edaee1a6ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6762c05e68872223fd7a79d983e6963b59792e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e59c96fc822ceec6d73ea2244db1daa3d305764.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "当我们在评估模型时，通过（___）可以直观地看出各项指标的得分和不足。",
       "options": [],
       "answer": "评价量表",
-      "explanation": "评价量表提供了统一的标准，方便对工程模型进行量化测试和对比。"
+      "explanation": "评价量表提供了统一的标准，方便对工程模型进行量化测试和对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05d363fb7001bde28000bc418263c803a6fad9a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3300fbc13e19e5e74051bcc2b6497e554f1d6887.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在并联电路中，一个灯泡坏了，另一个灯泡也不会亮。",
       "options": [],
       "answer": "错",
-      "explanation": "并联电路中各支路互不影响，一个坏了其他仍能正常工作。"
+      "explanation": "并联电路中各支路互不影响，一个坏了其他仍能正常工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/457974865e743c9c25e5f73795de66fa509e62fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efd07a15dbb7d1102befa77248df27ad273500bd.mp3"
+      }
     },
     {
       "id": 15,
@@ -32,7 +36,17 @@
         "不确定"
       ],
       "answer": "大",
-      "explanation": "电池串联总电压等于各电池电压之和。"
+      "explanation": "电池串联总电压等于各电池电压之和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da1da2659e19c16c1ebc1f1298e2240902d85738.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0889c349726f64ac6a687c91b9cc4b6efb69ad07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d4059cd28a22a63041d52c21037964d47a0c09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d42b33b847130df2848198e0dfa3a10775f60ca.mp3"
+      }
     }
   ],
   "knowledge": null

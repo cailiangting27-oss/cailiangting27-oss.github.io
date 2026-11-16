@@ -21,7 +21,17 @@
         "报复对方"
       ],
       "answer": "通过合法途径维权",
-      "explanation": "依法维权。"
+      "explanation": "依法维权。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2fb9136eb10a42cb45950bb1b807a3efbf737a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f06f27cdab305dc69540ce32ef7b5a3c9820b969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d064238124465fc7716cd1614832aa8ecfd378d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283739622108cb5ff9608356971268ddc1a9bb45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/965a92e1cebeca639329d1787389c3e235b47833.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8fb011b2dbd82c5ec8afbee4c81d98aac8dd470.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "法律保护未成年人的合法权益。",
       "options": [],
       "answer": "对",
-      "explanation": "法律保护未成年人。"
+      "explanation": "法律保护未成年人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/8729b6eddb9ef77d3d6e55a3a9311f1bd4588a0c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc22019ec834740e59485eae7b860516b2ed42e6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "权益受损也不维权。"
     ],
-    "tips": "敢于依法维权。"
+    "tips": "敢于依法维权。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a2/a2cad3973bc8bfeea594c419006fe45c4c63d62b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/59/590c48de8633c121db0ce5cadfa433d31eb44534.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7c/7c5e3c97babe0845f5a9cd1ab88d5615d54c55bc.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9f/9fa7d8f65c71178663a4ef5e572c453c54aa8945.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/18/185048fced56589eb78eb7b75337820058ee2488.mp3"
+      ]
+    }
   }
 }

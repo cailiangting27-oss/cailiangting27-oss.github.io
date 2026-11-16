@@ -21,7 +21,17 @@
         "烧掉"
       ],
       "answer": "扔进可回收物桶",
-      "explanation": "塑料瓶可回收。"
+      "explanation": "塑料瓶可回收。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cdbf12d6cb898598ed1fbc255fe18156f7fd6ea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/4812d298211803313f69b2ea503c943ac90d4eb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc29f372afb0ddc14e3f38ca37f25a75c5e0e62a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68b480523c94cf797c0c2b69c0954fa29b001d70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/9304f8e84aaa562ae9142020bc94186d7579039e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c7be7a43c2a70cff5fe3e5c1f65c0149872b1fa.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "不能随地吐痰、乱扔垃圾。",
       "options": [],
       "answer": "对",
-      "explanation": "要爱护公共环境。"
+      "explanation": "要爱护公共环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fd936c4a9b78cf4de5d78b3832f97fd54f3f4bb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a72540c924ac2d63d6d12e3750de5311bbd61bf5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "随地乱扔果皮。"
     ],
-    "tips": "保护环境从身边做起。"
+    "tips": "保护环境从身边做起。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c1/c1765e2769eccaab0cfd7e1251980c674cb0b008.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/25/254d76508fc5df0cbb3e0158baed34bd485797fc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f7/f7bd16a52ffe9da572d7b02e041644b25888fdbf.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a1/a15e40e6c606f4a6effe14c652fea279ce9554d2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f5/f540b0af3c773e175e5bf1f0f5c1c3d42e78a9a6.mp3"
+      ]
+    }
   }
 }

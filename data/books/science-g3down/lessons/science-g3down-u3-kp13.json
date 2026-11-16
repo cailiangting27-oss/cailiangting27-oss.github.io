@@ -21,7 +21,17 @@
         "星体"
       ],
       "answer": "卫星",
-      "explanation": "月球围绕行星（地球）运行，属于自然卫星。"
+      "explanation": "月球围绕行星（地球）运行，属于自然卫星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/cac24bef468fe2cd59d91c9cc2863b28adb57bb6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1e89d0e6b2505afa649dfe40bdd864acd26a130a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b431c32ba725e81ba36d7a93cd9a001869a3822.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30e539e0a043b54adf1117e1525ecaccaf66c570.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1984c6186862054cac82d48a6cccfdb49c5f522.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8743826e3e87087798cae60bd5a4524fb6586b06.mp3"
+      }
     }
   ],
   "knowledge": null

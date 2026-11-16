@@ -16,7 +16,11 @@
       "question": "My uncle works on a boat. He is a ______.",
       "options": [],
       "answer": "fisherman",
-      "explanation": "在船上工作的人是渔民。"
+      "explanation": "在船上工作的人是渔民。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60970e874f7977f6d5cc5cc475eece4f97269b51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/564d9ccf1bea7bf3b55f6b448b992540544f2930.mp3"
+      }
     }
   ],
   "knowledge": null

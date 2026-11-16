@@ -16,7 +16,11 @@
       "question": "气球驱动小车时，小车运行的方向与喷气方向相同。",
       "options": [],
       "answer": "错",
-      "explanation": "反冲力的方向与喷出气体的方向相反。"
+      "explanation": "反冲力的方向与喷出气体的方向相反。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a242b3dc9449c09ab55bcb2e9ad4a12ab3ec2ec6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c69e269ce3c98c9b26d67f2ef2504c43009064f5.mp3"
+      }
     }
   ],
   "knowledge": null

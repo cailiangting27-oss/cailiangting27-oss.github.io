@@ -21,7 +21,17 @@
         "rè"
       ],
       "answer": "yuè",
-      "explanation": "“乐”在音乐中读yuè，在快乐中读lè。"
+      "explanation": "“乐”在音乐中读yuè，在快乐中读lè。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d27c8c575a3315a96cdd456bdcfdc089925f93ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa4cec033a940be45b4235cc5042c448780190dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26d481669764c05cc1c4fc5cf9446b5145bcc694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fb3ed6fa10c6ee758431fff3c76c84dfbea9a1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c428183caa7020fbc7c109fe506287d20d291a01.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2b35aa0e69ac57f9480dc60df9657a2f0a24d5f.mp3"
+      }
     }
   ],
   "knowledge": null

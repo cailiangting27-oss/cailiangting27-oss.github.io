@@ -16,7 +16,11 @@
       "question": "单词 'rainy' 和 'Monday' 中的字母组合发音相同。",
       "options": [],
       "answer": "对",
-      "explanation": "ai 和 ay 在这些词中都发 /eɪ/。"
+      "explanation": "ai 和 ay 在这些词中都发 /eɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa565b7ecf981bad9cc4f0d63a954cbab3dad25e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4da981554e165916bc658a7a85fd4bd2ba9f68db.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "bad"
       ],
       "answer": "bad",
-      "explanation": "rain, wait, day 都发 /eɪ/，而 bad 发 /æ/。"
+      "explanation": "rain, wait, day 都发 /eɪ/，而 bad 发 /æ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab246f9eab365d14dad5a1cf6834162ff37f836e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fbec17cb2fcbbd1c659b252230b48826fc563788.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/daaad336276d15594d0e765f96c17cd746bf4971.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2620cbc10f5198dd03e3f5a1569eb5dcf9a6a87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1902e3d6fc4e78a0bcc50ba12b882769afbf4a8c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b64df5eb53b0ea7a075d69b28b7493b2ba537370.mp3"
+      }
     },
     {
       "id": 21,
@@ -52,7 +66,21 @@
         "等待"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "根据词义对应：rainy-下雨的; Monday-周一; wait-等待; say-说。"
+      "explanation": "根据词义对应：rainy-下雨的; Monday-周一; wait-等待; say-说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9350a0bcb0b66dd4483287e163cb73eb70a40042.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/932eeb1076c85e522f02e15441fa371e3fd000ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/daaad336276d15594d0e765f96c17cd746bf4971.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc01c6b7487aab92695f7ba918540cf5051f72f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/792c34e70d1f5b19b0f7ce424ec69ba5295e4cf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be3058692f120beec6c06756864764d1691e624e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42661991761e59d3973a60e22a08666a5a5ac51c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25d23b92b2259e974a52890a48276eccf2461232.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b4d44f779d6a051b2353be62677a9dc32cd47e5.mp3"
+      }
     }
   ],
   "knowledge": null

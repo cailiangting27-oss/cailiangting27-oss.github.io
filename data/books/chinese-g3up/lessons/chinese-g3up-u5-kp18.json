@@ -25,7 +25,21 @@
         "事物"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "采集标本，张开花瓣，观察事物，摇晃船橹。"
+      "explanation": "采集标本，张开花瓣，观察事物，摇晃船橹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b562c2de6e908f42acf38d4b974c11766a97683b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3f8933d77a390204099f5adfbcf2504ad5b4379.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ea757fae5f4482e1b458261dd1b4b67fd1206d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3d8a56f226746278366f5b0c729a7be003a729b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f0f2f87aa1754a5703a75047a9be2931fa0d045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cefba6c875781860b214ee1f1401475b80bdfefc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39886b64851a34fee717f9c1101f9ef6ce6162ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25db5c30d27624666e815ec0e9d97816bc93ab89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee26b1d8b8c3a34aff2b540fbe78b9d04fa94be3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d69821c80c68fb22688f54f0e5766ac9e66063ff.mp3"
+      }
     }
   ],
   "knowledge": null

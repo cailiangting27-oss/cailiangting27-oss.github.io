@@ -21,7 +21,17 @@
         "vagetables"
       ],
       "answer": "vegetables",
-      "explanation": "表示蔬菜时通常用复数形式vegetables。"
+      "explanation": "表示蔬菜时通常用复数形式vegetables。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58b78ecbe7f09f40fb889cc509e3df7ee30f1aa7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f13a905f3776e7929cdf306883e240493c71d821.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cc860a01c991fdc09b074ba67acb377a1afe939.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9ffb80332968d734f54967f4efb3c4fc29b6535a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5857c36a6d4041d7fbaee3463d58713e2158508d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/952dc501239ac77adb8ee5e28b136da2c40f48da.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -22,7 +22,18 @@
         "天然的"
       ],
       "answer": "大自然,有,许多,天然的,指南针",
-      "explanation": "主谓宾结构的句子。"
+      "explanation": "主谓宾结构的句子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f69db8b06d70ad17cb17aa4c2ad3a7ce6644120.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c153e2afd3122c741eff16dfae339ef2437f0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85f82ddd1c65100f1de8d3f00c0b520022372746.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbd5b75066a6dc39a3d486bfbcda44c9b9774a47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7930be6f8d3d7cc7f74eba41d1722d0ce5d4b21c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/143776f59025874d61abf0c90e962d9306e4ee94.mp3"
+      }
     }
   ],
   "knowledge": null

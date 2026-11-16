@@ -16,7 +16,11 @@
       "question": "Work ________! Don't make any noise.",
       "options": [],
       "answer": "quietly",
-      "explanation": "Work quietly是本单元核心短语，意为安静。 "
+      "explanation": "Work quietly是本单元核心短语，意为安静。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47b661d2d094f7ed5f7c37a0d8d445d4bfa6ef01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dc953fb370198915cb6c03a4bb0b0427ca20ae1.mp3"
+      }
     },
     {
       "id": 22,
@@ -32,7 +36,17 @@
         "clean"
       ],
       "answer": "Keep,your,desk,clean",
-      "explanation": "祈使句。保持你的桌面整洁。"
+      "explanation": "祈使句。保持你的桌面整洁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/466fc492747ca98312d409e81f2b1df4f2931346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7cfa080913f4dae18d802d041de7d664b10e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a1cec45eaf37b34e1b1d89130d7746fe4006346.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca82f6431ef125e2cbf642405c6c693eabf955d9.mp3"
+      }
     }
   ],
   "knowledge": null

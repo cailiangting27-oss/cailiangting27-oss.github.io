@@ -16,7 +16,11 @@
       "question": "'hospital' 的中文意思是 '医院'。",
       "options": [],
       "answer": "对",
-      "explanation": "hospital是指医院，是本单元核心场所词汇。"
+      "explanation": "hospital是指医院，是本单元核心场所词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afae808534046340bacdbb43fa1e9a925c212870.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c908fe889ec7c48b0e71860045615aed5c2927c.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "museum"
       ],
       "answer": "bookstore",
-      "explanation": "买书应该去书店(bookstore)。"
+      "explanation": "买书应该去书店(bookstore)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fccba654cd1bbe20349076ccc66710ff55e8570.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2b2d005e88ce14a4112785bb266b2c0c16be7eb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4d54d14e10f1eaee366c6eecab6051ce70e63e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee710b916549901c276e27bd5f12ff4e000cc2d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5019bac93989553b23adfeaded558cb29a2f24eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6baf8d0fab7d0f936487db92ce8cf9941d6c2905.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "zoo"
       ],
       "answer": "restaurant",
-      "explanation": "饿了需要去餐馆(restaurant)。"
+      "explanation": "饿了需要去餐馆(restaurant)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e134cbe5decf46c131df74012033831a19826aea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/32ac991d88d626c75cf319149ca6f7865076ae64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4151ff856b629dbaac223398f6ea1deb94b69f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c1f32a51dbf7d6943108c64980b6935762f87d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30d3abdde344ebb7edb71fe3b7788903c45bc5aa.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "hospital"
       ],
       "answer": "museum",
-      "explanation": "科学博物馆(science museum)里有机器人。"
+      "explanation": "科学博物馆(science museum)里有机器人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b39cedbaaec5bba7fc0345cf4e583fc1462ac406.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6427457497fe0f4f93a7334d2203b8e17ee82df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5019bac93989553b23adfeaded558cb29a2f24eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4d54d14e10f1eaee366c6eecab6051ce70e63e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b2d005e88ce14a4112785bb266b2c0c16be7eb4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d727eef2b148125c92621a5e623f350261ab0b4b.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "You can send letters in the ______ office.",
       "options": [],
       "answer": "post",
-      "explanation": "post office 指邮局。"
+      "explanation": "post office 指邮局。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05075205383b4c61f4bab45ffd0ee57a5d54f761.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f94435ed2e5d5300b465f7288abdd321e08e6ce9.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "We can see a film in the ______.",
       "options": [],
       "answer": "cinema",
-      "explanation": "cinema 指电影院。"
+      "explanation": "cinema 指电影院。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00863eed4f825816461d7f25250087ca0b3c81a9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db34cc3b23d06f06956329f7e9ce214e41399bb6.mp3"
+      }
     },
     {
       "id": 20,
@@ -106,7 +148,21 @@
         "医院"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "museum-博物馆, bookstore-书店, hospital-医院, cinema-电影院。"
+      "explanation": "museum-博物馆, bookstore-书店, hospital-医院, cinema-电影院。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a75d37123bdd5f6b23d82bf9a83ab91a5a12698d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/5019bac93989553b23adfeaded558cb29a2f24eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee710b916549901c276e27bd5f12ff4e000cc2d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b2d005e88ce14a4112785bb266b2c0c16be7eb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4d54d14e10f1eaee366c6eecab6051ce70e63e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b084710a960a631559af97ed6f1546a27d5fe59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acf407f6ccca9d4328fce15e8ff689f3e4842482.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e945d975e51800b26f4deb9e8f175f0bc65abab1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41deb734126905ecfd6701e52ef1c36d097cb4c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a7d08d8bb4f157098a2511fd2ab9914ced0c8a3.mp3"
+      }
     }
   ],
   "knowledge": null

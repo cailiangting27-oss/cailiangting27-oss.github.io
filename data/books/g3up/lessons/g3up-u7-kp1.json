@@ -16,7 +16,11 @@
       "question": "四边形有四条直的边和四个角。",
       "options": [],
       "answer": "对",
-      "explanation": "根据四边形的定义：由四条不在同一直线上的线段首尾顺次连接所组成的封闭图形，有四条直边和四个角。"
+      "explanation": "根据四边形的定义：由四条不在同一直线上的线段首尾顺次连接所组成的封闭图形，有四条直边和四个角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d84fae42327dd94c5eecde44d7c45d1845987ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d994f25a73fc75ea9c97bfa994e8beba8207e1b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "长方形的四条边都相等。",
       "options": [],
       "answer": "错",
-      "explanation": "长方形的特征是“对边相等”，四条边都相等的是正方形。"
+      "explanation": "长方形的特征是“对边相等”，四条边都相等的是正方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91907c78c706c2dbdf2b4f6469da8c0c7e97c0dd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3643dab2d9d1d10123a4363ccb5435c80ef37bea.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "正方形是特殊的长方形。",
       "options": [],
       "answer": "对",
-      "explanation": "正方形具有长方形的所有特征（对边相等、四个角是直角），且邻边也相等，所以它是特殊的长方形。"
+      "explanation": "正方形具有长方形的所有特征（对边相等、四个角是直角），且邻边也相等，所以它是特殊的长方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5de8c497b353e2ed683c57360d6e2a8daaf1095c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dc5f3644084b942e6ba483a293a77162ff32cbf.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "五边形"
       ],
       "answer": "长方形",
-      "explanation": "四边形有四条边，三角形有3条，圆没有直边，五边形有5条。长方形符合四条边特征。"
+      "explanation": "四边形有四条边，三角形有3条，圆没有直边，五边形有5条。长方形符合四条边特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4ebc0e7b8a65f8d9e091e526af7edaa19d46fc57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/564fc199bcdd48e2e08cdd8b52b69a2e8823d61b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b74d87834dd916fd86d73391f980ea75dd9afea.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "平角"
       ],
       "answer": "直角",
-      "explanation": "正方形和长方形的四个角均为 $90^{\\circ}$ 的直角。"
+      "explanation": "正方形和长方形的四个角均为 $90^{\\circ}$ 的直角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be4dd3b0ff685b34e7afcf41381237fedf05a1f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa46c9383c238a7e8186cb189684625db7035f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08d896cb288a98e2362cf5fae5bd2283a4161d4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d89bc6c8ea7bba1a97f48e83f7f4aa011406af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec758163cad80e6761543bbde67752ce7603130b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/808ff488b3e7c0c6946afe36d679c78a02e627d9.mp3"
+      }
     },
     {
       "id": 13,
@@ -86,7 +118,17 @@
         "5cm, 5cm, 5cm, 6cm"
       ],
       "answer": "2cm, 3cm, 2cm, 3cm",
-      "explanation": "根据长方形对边相等的特征，四条边必须两两相等且对应。"
+      "explanation": "根据长方形对边相等的特征，四条边必须两两相等且对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa1b553331be6e22181ccf81a3b75f42406100df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/221d354b71dfba71ca831ecce651a608a6f81758.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dac44bcb304d1b49b39d355c553c4ca825c73e1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6396ab8313a3390a73d7dea98d66b8a7c0e09a86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38064824789815a58aff9237819a25a68891c215.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85cf902668528079a63d024a008ae2654a0adcea.mp3"
+      }
     },
     {
       "id": 17,
@@ -102,7 +144,17 @@
         "8"
       ],
       "answer": "4",
-      "explanation": "宽增加2厘米，由于长方形有两条宽，所以周长增加 $2 \\times 2 = 4$ 厘米。"
+      "explanation": "宽增加2厘米，由于长方形有两条宽，所以周长增加 $2 \\times 2 = 4$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37094444e29a0e728671ed3e9a348a6832733fe9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/697d2095c124e8413ba9bc35d7420cba3eacfec0.mp3"
+      }
     },
     {
       "id": 19,
@@ -113,7 +165,11 @@
       "question": "正方形有 ___ 条边。",
       "options": [],
       "answer": "4",
-      "explanation": "根据多边形定义，正方形属于四边形，共有4条边。"
+      "explanation": "根据多边形定义，正方形属于四边形，共有4条边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c85229c5d84f936f85ea299095407c16223847f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6719e5448e481d49faf326965885456ad79a42fc.mp3"
+      }
     },
     {
       "id": 20,
@@ -124,7 +180,11 @@
       "question": "长方形的四个角都是直角，直角是 ___ 度。",
       "options": [],
       "answer": "90",
-      "explanation": "数学中规定直角的大小固定为 90 度。"
+      "explanation": "数学中规定直角的大小固定为 90 度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6714e5e7352033649494e8839051f083dff0d90.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fd0a0bfb8cd24921339306d06fdcb0ae06b4a3a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -135,6 +195,16 @@
       "误认为只要有四条边的图形就是长方形（忽略直角要求）",
       "混淆长方形和正方形的关系，认为正方形不是长方形"
     ],
-    "tips": "可以通过折纸的方法验证：对折长方形看边是否重合；对折正方形看相邻边是否能重合。"
+    "tips": "可以通过折纸的方法验证：对折长方形看边是否重合；对折正方形看相邻边是否能重合。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5a/5a220855a0337c05d49880bf196960e819ea4ea3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0b88e33b67ad6cacc962def1efd345297ecc3624.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ea/eaf97ce37b28fa1f511931337c024a349d9e0c63.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e8/e8e851fc87fd6881e042779618115adb058b8206.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/98/9865a748442d8830d708c4b1686284701eaddab1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/57/57da7ec0eb63ef71386ea4d2985adb720180800b.mp3"
+      ]
+    }
   }
 }

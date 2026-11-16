@@ -16,7 +16,11 @@
       "question": "元元早起了一分钟，结果却没有迟到。",
       "options": [],
       "answer": "错",
-      "explanation": "根据课文《一分钟》，元元迟到了二十分钟。"
+      "explanation": "根据课文《一分钟》，元元迟到了二十分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e8f3232933fff61a53f585a04b164b28fa6e1aa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fdaece89899daca58154b93722965bffac9a11f.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "要是早一分钟，就能赶上绿灯了。这是一个表示后悔的句子。",
       "options": [],
       "answer": "对",
-      "explanation": "“要是……就……”表达了对由于差错而产生结果的遗憾。"
+      "explanation": "“要是……就……”表达了对由于差错而产生结果的遗憾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/755ec009f854307d40d33f4c0440f652497eb04b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a202ca12dde4e0721d812c880258cd9b4fabe94b.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "早起吃早饭"
       ],
       "answer": "珍惜时间",
-      "explanation": "课文通过元元迟到的故事教育我们要分秒必争。"
+      "explanation": "课文通过元元迟到的故事教育我们要分秒必争。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/702af565e20cd968ea7550b835774f9982e64638.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1be482118e234ae7a64dc2c9cf22050a00648d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cada38eb9cf88dfe1512aab0d376ff34fbeaa35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/012e3f267ec0a415017f64e65f5ccf667b3eb2d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28e3cd21161cfef52ee29b0a20d31739fb3926c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e89a2b7c503f23709eb684816966a9fb7a14ea53.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "虽然"
       ],
       "answer": "如果",
-      "explanation": "“要是”表示假设，与“如果”意思接近。"
+      "explanation": "“要是”表示假设，与“如果”意思接近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0186e6f16238bb757dd4c353bbd5a16a5b7dee0a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1c2da40d6d2f53836d1ca9d16a564a77612f893f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a9af6fab622b8517dcad7630698631083f2c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53ebfac670522586cffefa7a12c1f7a19875d5db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67d13d02a208d558044020342f5a7de99e54a768.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/242bb1335a7baa47615b2d0b08b2249142db1106.mp3"
+      }
     },
     {
       "id": 18,
@@ -70,7 +98,11 @@
       "question": "一分钟是（ ）秒。",
       "options": [],
       "answer": "六十",
-      "explanation": "常识填空，考察对时间单位的认识。"
+      "explanation": "常识填空，考察对时间单位的认识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aec98081fd0700354c8742ea0fad4abd197271db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5503f57f4cce3bb4879e524a2ac944790f7e5988.mp3"
+      }
     },
     {
       "id": 21,
@@ -90,7 +122,21 @@
         "旧"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "进的反义词是出，快的反义词是慢，新的反义词是旧，早的反义词是晚。"
+      "explanation": "进的反义词是出，快的反义词是慢，新的反义词是旧，早的反义词是晚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/390b8d5dd7a8d60d2dbf4a23d2ce27a618e785f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/681ba11d21729b170ec7944f2c967b193b2c3963.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6e99d0e57a6ae9b8aceb69a0020e74763b92687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b8a6bebd3076cdffaf2193f397d4d9fa399c148.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13a8589339d9223d3e4f0ff4eb9888cba3981435.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0f7ec0504703158db8c047be73512dea91b323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69e859b290b2df1d6e67f0b894e1368ee56698f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9aadfb450091e59df1480b6f32ee247114a3b8bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b64ef9bac194d4c2cbeee60ab93899d63d34a519.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8529a950421142ce83414225435a442dbf32e1d.mp3"
+      }
     },
     {
       "id": 23,
@@ -108,7 +154,19 @@
         "一分钟"
       ],
       "answer": "要是,早起,一分钟,我就,不,迟到了",
-      "explanation": "建立“要是……就……”的假设逻辑关系。"
+      "explanation": "建立“要是……就……”的假设逻辑关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e98c6b6af155d7f23872501aede39456dc9fe8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5dbf566a07877f3cfe3626293ffa3b8aaf125f06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fa7401e9077e3abfd81e15b9ffa8fb30893b969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c89805d560aed0204301903d2d2984d79b8215f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e89cc97d6e4b0dc81e918dafae2ddfbda15bdfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b70e8b7643949aab66e56a0a2e9063c6f7eb736.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fe80b2d842315f5a21275737f5b542b10390698.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe421a7f8bfbfa191e118871517951c77299680f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -119,6 +177,16 @@
       "使用“要是”造句时，前后逻辑不连贯",
       "不理解元元明明只耽误了一分钟，为什么会迟到二十分钟"
     ],
-    "tips": "可以尝试在生活中记录一分钟能做什么（如跳绳多少个、写多少个字），让抽象的一分钟变具体。"
+    "tips": "可以尝试在生活中记录一分钟能做什么（如跳绳多少个、写多少个字），让抽象的一分钟变具体。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f2/f2a8acf57424c6ea01c6453a26911d1532175aee.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3b/3bbb0951b5717562efa2d6e8ea12d8bf9f37a071.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/93/93d023484e56fbc31f8d839e7c97f524a7e88536.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/61/618fcd5b0ae9a12dca7d468b70ec892d841c533d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/21/21bb2c0e7381ad3ac9292e739e8bdf799d91c2ff.mp3",
+        "https://api.clthuanxie.cn/cc-audio/71/7117e4d8257a542dbfc3810b6889fa9166132f91.mp3"
+      ]
+    }
   }
 }

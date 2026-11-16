@@ -16,7 +16,11 @@
       "question": "《宝葫芦的秘密》作者是著名作家张天翼。",
       "options": [],
       "answer": "对",
-      "explanation": "张天翼是《宝葫芦的秘密》和《大林和小林》的作者。"
+      "explanation": "张天翼是《宝葫芦的秘密》和《大林和小林》的作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5b5d40d090a9666c75d5057493ffa6f47b84639.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/704f9869146e8002dd0412d1961504691aafe6f5.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《海的女儿》是安徒生童话中的经典名篇。",
       "options": [],
       "answer": "对",
-      "explanation": "安徒生是丹麦著名童话作家，《海的女儿》是其代表作。"
+      "explanation": "安徒生是丹麦著名童话作家，《海的女儿》是其代表作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb798ad267a5fba07eed1d5a017a5fcfdb887d4c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a85cdf4b5bbf6dbbedb45c9b4e4970197b0c1bd.mp3"
+      }
     }
   ],
   "knowledge": null

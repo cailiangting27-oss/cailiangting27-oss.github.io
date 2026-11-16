@@ -16,7 +16,11 @@
       "question": "写信时，‘祝：身体健康’中‘身体健康’要顶格写。",
       "options": [],
       "answer": "对",
-      "explanation": "在书信的祝福语中，‘祝’字之后的内容如‘身体健康’通常需要另起一行并顶格书写。"
+      "explanation": "在书信的祝福语中，‘祝’字之后的内容如‘身体健康’通常需要另起一行并顶格书写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdf79294201a67c878a6fa53bf4b41ed20e5c3e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c14288f52fbbd8315f038c906a5804f8368cd4d.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "信纸中间"
       ],
       "answer": "署名的下方",
-      "explanation": "书信标准格式规定，日期写在署名的正下方。"
+      "explanation": "书信标准格式规定，日期写在署名的正下方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44756e4409aca77b18a3fd7a9d6e31a38cb0ccdb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a94c0fe7239da89e4418fcf6baf896ae1ad49e26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e15ab2744fec25ae02a68b2a5052ef95e03ae69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/474c8e50d0a7bc59c5bc6372cce98f8c614f7fa7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7e65b70d2566b22a58a8aed975aaff51c40ac77.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19bf6ef07589a12ad1afd26ec380b5986cd50cdf.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "信纸中间"
       ],
       "answer": "第一行顶格",
-      "explanation": "书信的第一行顶格写称呼，并加冒号。"
+      "explanation": "书信的第一行顶格写称呼，并加冒号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5b945401a2c443db0cfd5fff0424694d8d99600.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a94c0fe7239da89e4418fcf6baf896ae1ad49e26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4e7c2c518087848c1599c4d9ba042ff3bb75514.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea59c003509b217b5901bd11110aa964ef8a6c60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7e65b70d2566b22a58a8aed975aaff51c40ac77.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6df835224ae23aefacae7ecdc62619707782bb3e.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "书信最后表达敬意或祝福的词语（如‘此致’）统称为（___）。",
       "options": [],
       "answer": "祝语",
-      "explanation": "祝语是书信中不可缺少的礼貌用语。"
+      "explanation": "祝语是书信中不可缺少的礼貌用语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1ae22a7bc877b0be3ab715ef7df056ac57a2ee3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/eddc45ec9892fcea11116565f43d76dbaab5d33d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "把称呼写在第一行的中间",
       "漏写日期或将日期写在署名的上方"
     ],
-    "tips": "口诀记忆：称呼顶格冒号跟，正文空两格才亲，祝福空两格紧记，名字日期在右底。"
+    "tips": "口诀记忆：称呼顶格冒号跟，正文空两格才亲，祝福空两格紧记，名字日期在右底。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/eb/ebd839c2319b49eb8db34cbc16fae045074bfc42.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/10/10b8ab4a4b3bfdd2f7e6a88135a2c364ae1bd4ec.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/74/7498d94ecc5a5512ed82a38a40039efdb9102929.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e2/e290e78a3e879bdfee4b0c872168154bc4fa1359.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d7/d7031f5f91a0f5332775139a53fda8bc11e3956a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7f/7f1f3a85e8fe4e150db263294580e8f8de225056.mp3"
+      ]
+    }
   }
 }

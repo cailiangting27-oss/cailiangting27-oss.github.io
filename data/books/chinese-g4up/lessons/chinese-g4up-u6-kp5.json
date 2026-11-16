@@ -21,7 +21,17 @@
         "不动声色"
       ],
       "answer": "提心吊胆",
-      "explanation": "提心吊胆形容十分担心、害怕。"
+      "explanation": "提心吊胆形容十分担心、害怕。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e6252600a01c2c322157054b745774ed75a3e31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e805c5ef1fe5c3a546177d4c364bd9873f1f5c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d48567c62b49d69cddd393f610a0f5748171dd66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a7f6c09dccad1ddc779a17e485777e94309a127.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/810f172e57add97f985a3164ccc5b685cb326414.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cba325a64e5d9edeed187f6af6c70282b89752b4.mp3"
+      }
     }
   ],
   "knowledge": null

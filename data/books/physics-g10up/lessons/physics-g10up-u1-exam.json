@@ -32,7 +32,15 @@
         "不确定"
       ],
       "answer": "与速度反向",
-      "explanation": "减速时反向。"
+      "explanation": "减速时反向。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ]
+      }
     },
     {
       "id": 8,
@@ -59,7 +67,15 @@
         "无法确定"
       ],
       "answer": "0",
-      "explanation": "首尾相同，位移为 0。"
+      "explanation": "首尾相同，位移为 0。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e72df66e2bf16cd4dbf5ce00515ade4cec012112.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

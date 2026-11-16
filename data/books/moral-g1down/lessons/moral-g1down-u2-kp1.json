@@ -21,7 +21,17 @@
         "在旁边捣乱"
       ],
       "answer": "分工合作一起搭",
-      "explanation": "合作才能搭得更好。"
+      "explanation": "合作才能搭得更好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fa2fb0bea863886245e55941ff3df9db4132382.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/663d00310b69ac6e81b15c993fe5b527e741c33e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bda695d0ba61906100de89600c1b820418fc771d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a73434c7c66d8536b50858cdf679ed401eb6a0c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db52bcd189cab58f1c941384fa14bf15a630d400.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afeb664805271b151d7a3ff4331125a80bc1e3ac.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "与同学分享图书是快乐的事。",
       "options": [],
       "answer": "对",
-      "explanation": "分享带来快乐。"
+      "explanation": "分享带来快乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77255b24805edf18e5e19e42c6417d1bbab232e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e55f6bfdc10ee4137032a128c161be12764cad94.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "只顾自己、不愿分享。"
     ],
-    "tips": "一起努力收获更多。"
+    "tips": "一起努力收获更多。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8e/8e92252fb597d6e8884abb677747c1741437a088.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c0/c03014c26e3804c3ba6f6e50aa8c3039c6b70c7a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/74/74d876897421abdf496226627bf51a92a9868782.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/17/174139507457462a5f834af79dd3e34664c9e60f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/de/de62a6217bcbe90628b3bea92b47624a48a2f3ae.mp3"
+      ]
+    }
   }
 }

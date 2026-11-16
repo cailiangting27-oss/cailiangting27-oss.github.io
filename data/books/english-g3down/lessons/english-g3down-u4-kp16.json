@@ -21,7 +21,17 @@
         "谢谢你"
       ],
       "answer": "请问/打扰一下",
-      "explanation": "Excuse me常用语客气的打扰或询问。"
+      "explanation": "Excuse me常用语客气的打扰或询问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6632f123a49e5896a0abba2fab0b0045fd4dfe2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e5fd9ee90e814ce885a960f1bb3fd63352b4ec8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4125ab6c412e31107c0b7b43ae96677bea70d01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df96e37ca4b98b56ef2462a6dce478475e0bd398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a475a8799cc3e11df824f892c2febe811a84781.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37be281f7ae33e84e04a982cd4848f225d4f09a4.mp3"
+      }
     }
   ],
   "knowledge": null

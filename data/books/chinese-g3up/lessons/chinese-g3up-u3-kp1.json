@@ -16,7 +16,11 @@
       "question": "童话中的动植物可以像人一样说话、哭泣，也有自己的喜怒哀乐。",
       "options": [],
       "answer": "对",
-      "explanation": "这是童话最基本的特点，通过想象赋予万物人的情感。"
+      "explanation": "这是童话最基本的特点，通过想象赋予万物人的情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7debdf2d64a40c250874ab9c6ce29b5e0930e08c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfd4c24b5fc5ef81e31d335f1e6f1a1ff2935605.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "《在那牛肚子里的旅行》讲述的是青头和红头这两只蟋蟀的故事。",
       "options": [],
       "answer": "对",
-      "explanation": "课文主角是蟋蟀青头和红头。"
+      "explanation": "课文主角是蟋蟀青头和红头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f68525d3bc6fd7ff56bf4929d85c39e9e14eabb9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c39461f72212ab964c63c2f9161c4c9ec4491dd7.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "《卖火柴的小女孩》中，小女孩最后一次擦燃火柴看到了死去的奶奶。",
       "options": [],
       "answer": "对",
-      "explanation": "故事描写小女孩在幻象中见到了亲人。"
+      "explanation": "故事描写小女孩在幻象中见到了亲人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df677bf635aad5573bad723cbcbf6db9aa540ca2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/9271063951c5ca555dca4906f8b53ef2daa0cd9f.mp3"
+      }
     },
     {
       "id": 7,
@@ -54,7 +66,17 @@
         "古代传说"
       ],
       "answer": "拟人化特点",
-      "explanation": "蟋蟀求救是赋予动物化人的行为与情感。"
+      "explanation": "蟋蟀求救是赋予动物化人的行为与情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfde4beac24f9ee3b5f342fd32c687e8d91ff5b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fec2d33055c7fbc8461aefed186f5de27365d654.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b643105286efb3ca8fad91d0d81dccf969c24017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e54a4e1b49ab04c68754f91ce94e4a5d77dfdd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb1f058d160cb75f03cd2eca796560b06dd07b8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5c7ae55a689d507783a24ba215591c1ad0e3370.mp3"
+      }
     },
     {
       "id": 12,
@@ -70,7 +92,17 @@
         "奇异的火光"
       ],
       "answer": "奇异的火光",
-      "explanation": "原文中描述擦燃火柴后看到的是奇异的火花。"
+      "explanation": "原文中描述擦燃火柴后看到的是奇异的火花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25e6bedcdd1120a42e4d09388d73c9dddef677f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff8aaf6856b25c60aa10f9d6b185c9e9bef4b86e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c71e92d47fa6870fbcb6781766934264309e1c8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec0f020877d8032bd0c821664d32106d4f99dd95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c64ff3d550704985b197ee7b503eed80ff2bcb33.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49c0b48ff821c2196519dfd9f6d7b4daa99306f2.mp3"
+      }
     },
     {
       "id": 13,
@@ -86,7 +118,17 @@
         "复杂性"
       ],
       "answer": "教育意义",
-      "explanation": "童话常寓教于乐。"
+      "explanation": "童话常寓教于乐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46004360a86ad70490938aed4d1a4def1a2430ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99957a197de1660462b79f5534cc95c7f5486108.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c37ee4826d09b47a996d21738df1b788011c8dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba694666244fef64ca9d1112bbebf6de29af180c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae1fde353fdab4fb012aa8906a05f5eff5e772d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31c0ec41dbb43b4222e3dc4e143b09f363133564.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "只会写小动物说说话，不具备真实的性格特征",
       "情节设计完全脱离生活逻辑，导致故事不可信"
     ],
-    "tips": "观察生活中的人是怎么说话做事的，然后把这些特点‘借’给你的动植物主角。"
+    "tips": "观察生活中的人是怎么说话做事的，然后把这些特点‘借’给你的动植物主角。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/30/30855ecb7fa14fe93a5866f1279adfe76c214386.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/42/424a10f1d6f17962fbc6761696ddc3e4e7fcce9d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/38/3879383e6a913056ab8b61955423a77741698ca5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/76/76ee315760d16055dde9dc5da1279233a82b7807.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f3/f309bc6b7019b40ebae2262118199ed063077053.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fd/fdc72e73393887691b2384844a71d299bc599a73.mp3"
+      ]
+    }
   }
 }

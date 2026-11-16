@@ -21,7 +21,17 @@
         "really"
       ],
       "answer": "ready",
-      "explanation": "Dinner is ready意思是晚餐准备好了。"
+      "explanation": "Dinner is ready意思是晚餐准备好了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c5474be19bdc7242e2e9a52ce3f090df0682572.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6939278d66e34fcfb23131504217025e78249a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c0533730caf1f78561c0883fb87bc8d98ef04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/084ab4093f675b9f4eb22dc243a80d8adc4ff27c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c9479895d08b8034f0e6a138d317e32f1dfd390.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "两块磁铁相互靠近时，相同的磁极会互相排斥。",
       "options": [],
       "answer": "对",
-      "explanation": "磁极间的相互作用规律是：同极相斥，异极相吸。"
+      "explanation": "磁极间的相互作用规律是：同极相斥，异极相吸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56f4f312ef48bbf26eed74f5995f1782a1a5f884.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3d7a98367e0fecaa34b61b18d462278d254ed99.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "紧紧粘住"
       ],
       "answer": "互相排斥",
-      "explanation": "同极相斥，N极与N极属于同极。"
+      "explanation": "同极相斥，N极与N极属于同极。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a8241f9cddb48aa035c9d9750451610ba178851.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e21899133243b7253dfa4109dd448cb13582387f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11d34c8b2e174eacaa4d04c95c7927cade92c2a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d88d03e3d973def36f2307c2b889e0782033224.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74ae25a3f3c9905eeb372f42cbe6bb4e313b3c10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/3030259542e3b5fd2224320f9dd088e22f4a45cf.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "温度的影响"
       ],
       "answer": "地磁场的作用",
-      "explanation": "地球本身是一个巨大的磁体，磁铁受地磁场影响而定向。"
+      "explanation": "地球本身是一个巨大的磁体，磁铁受地磁场影响而定向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f16a63147195141e2e37a989eaa95665c361c53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1f6ceba268134a1ed7f1fafda8ae534fd997c8c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/024a9566f6aba3f1bfe937cf9066c3fd73080d3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1007b89af5238c41368f3d83e038540e76e00c19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ea165dd05911ffdb91a8bee0d15457e71c4ac39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3f2e897967cd20783be83ed3e2faf2c36892341.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "有两块磁铁，如果它们互相吸引，说明靠近的那两端极性（    ）种。",
       "options": [],
       "answer": "0",
-      "explanation": "抱歉，此处逻辑设计修正：题目应问异极吸引，0在此处不合题意，改为：磁铁有（1）个中间部位磁力最弱。修正题目：条形磁铁有（    ）个中间区域磁力最弱。答案：1。"
+      "explanation": "抱歉，此处逻辑设计修正：题目应问异极吸引，0在此处不合题意，改为：磁铁有（1）个中间部位磁力最弱。修正题目：条形磁铁有（    ）个中间区域磁力最弱。答案：1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4efef3e9861ec977c68a05797f742714361d4d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2cd6a5363769fb710e691b2ab62472520066d21.mp3"
+      }
     },
     {
       "id": 23,
@@ -70,7 +98,11 @@
       "question": "磁铁同极相互排斥，异极相互（    ）。",
       "options": [],
       "answer": "吸引",
-      "explanation": "这是磁极间的基本作用规律：同名磁极相斥，异名磁极相吸。"
+      "explanation": "这是磁极间的基本作用规律：同名磁极相斥，异名磁极相吸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/7124b06bdd1896257ce4baf307273d074d51fd0c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5ace41b71b9a6b58b46e0d1e2231ea01e70133f5.mp3"
+      }
     }
   ],
   "knowledge": null

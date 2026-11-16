@@ -21,7 +21,17 @@
         "I'm like autumn best."
       ],
       "answer": "I like autumn best.",
-      "explanation": "best 放句末。"
+      "explanation": "best 放句末。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d3a1c159e4b66f60c9850b9f0ac08f24c1af695.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38337553781fa70b5e46ff415544e5dfb66534a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53e700daa146d53450843cda7a510a25c62cf98e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e6200cdac9f5ae5fb732643aaea12ee16c4d7d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af0f09a3a43e476988e94fcd1abd8f33a036a365.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55c2cb74a22df33df4581b527bcd7ad2988fab9b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "I best like autumn.（×）"
     ],
-    "tips": "best 放在句末。"
+    "tips": "best 放在句末。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2a/2ab37f5003d187f84be925dc52d6aff47cfcb80b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a1/a1bc0b5d62d685e111be8f1259475923d28e16ed.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/38/38337553781fa70b5e46ff415544e5dfb66534a3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6c/6cd56a3d5ef0c6249d3a7042b42c28926f18d58f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/242d9503cfd01d7fe9951f5e9be02ca62114e1d4.mp3"
+      ]
+    }
   }
 }

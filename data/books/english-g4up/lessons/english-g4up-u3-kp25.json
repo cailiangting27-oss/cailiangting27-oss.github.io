@@ -21,7 +21,17 @@
         "friend"
       ],
       "answer": "My,friend,is,tall",
-      "explanation": "主语My friend + 系动词is + 形容词tall。"
+      "explanation": "主语My friend + 系动词is + 形容词tall。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b318d90d592236f51e79ab58dc228b5814074014.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e92a15d5dd78974f49420d2215a264bb0b93a55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf02a0e216f7e85e09c683b5ff20793a1f4423c5.mp3"
+      }
     }
   ],
   "knowledge": null

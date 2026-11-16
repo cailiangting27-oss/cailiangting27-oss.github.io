@@ -21,7 +21,17 @@
         "稍微"
       ],
       "answer": "最大力",
-      "explanation": "肺活量指尽力吸气后，尽力呼出的气体量。"
+      "explanation": "肺活量指尽力吸气后，尽力呼出的气体量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bfc88fa5acdd843972c9ee926f944dbd3ecf799.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1035736cc586768827c33fd910b3932d3bbc3b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cda072d452bfa8e00409ec2abe889d088522ce8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7aa674e8ce7ee23313580622d8aeae6c487da7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4a32b2e6c4892ec21bfae88f6b121f957c4a116.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d5440156d3f1bd579eda114ea03fdf8797961e9.mp3"
+      }
     }
   ],
   "knowledge": null

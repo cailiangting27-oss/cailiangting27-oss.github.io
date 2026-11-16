@@ -21,7 +21,17 @@
         "游泳"
       ],
       "answer": "小鸭子,正在,水里,游泳",
-      "explanation": "按照主语+状态+地点的顺序排列。"
+      "explanation": "按照主语+状态+地点的顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90e4e1e6f19cb29e85c0fee64061e7612958cb8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb1e6e551f08cbbeafa4326d7f3d91a50a4037b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7af4751d92243e3e3ad1964927c9dac70a53b76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b66f447bfcb94e60dd5363485a63016d3ca7861f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5add9ec24cffb771039f8176efe187b3ea013c4e.mp3"
+      }
     }
   ],
   "knowledge": null

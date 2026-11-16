@@ -16,7 +16,11 @@
       "question": "通过阅读文章的题目，有时候可以直接推断出文章的主要内容。",
       "options": [],
       "answer": "对",
-      "explanation": "如《西门豹治邺》，题目就直接概括了主要人物和核心事件。"
+      "explanation": "如《西门豹治邺》，题目就直接概括了主要人物和核心事件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f30ce20080407fc78570b37cf2e7440b5ce2af07.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5e96f8438eb4b70aa9f43dcbe6b76a30732518a.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "高潮"
       ],
       "answer": "起因",
-      "explanation": "这段话描述了背景和问题的由来，属于故事的起因部分。"
+      "explanation": "这段话描述了背景和问题的由来，属于故事的起因部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53275dddedf889ca814cd0c71772c99f35641769.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bc5df7669a5baa2d75070c4c7000fe4496ad451.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfc2cb157cb5b52e23f1c97788cf62e0e1e42a7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a2c91cec6c8fb259482b99dde05c9438784dce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d56beaf0465ae61056f62da23e520d70684db0e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4ffae0938177d5d0475fc6c1589ff82fd06bc09.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "抄写重点段落"
       ],
       "answer": "抓关键要素串联",
-      "explanation": "通过谁、做了什么、结果如何这些关键要素串联能最准确概括故事情节。"
+      "explanation": "通过谁、做了什么、结果如何这些关键要素串联能最准确概括故事情节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5a80cb267d1e280bd6fe96fc0b67857f678c389.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e1da9b9f921fb9a04a2cd4313e6280f69210a69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45e6d3686b15cff7202ab3c77241d504fa56b0e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5592d0f52f3ad5c5477327b12c720971f828bede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2ecec72ce7def7065fae7f69f5cb67c1fcd6614.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f33bc362ba2cd6520725de9849d4e6801401ab6.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "百发百中"
       ],
       "answer": "把极小的记号看大",
-      "explanation": "这两步是纪昌练习基本功的核心内容，也是概括全文的关键点。"
+      "explanation": "这两步是纪昌练习基本功的核心内容，也是概括全文的关键点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd612f669cdd83fe0fad45b8f9e3789915239553.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b017f5ce437aa6b56c97a118585958708eedc73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9ea9e75c8bdbb784db7e79ba100a7ef5fdbf2d50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39daba160ffd89a0e657d472942eea9027255ed5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50ea2429aa0856187a5f33e5826b4ee835b4df2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/006b92c0160c890f428971841372f83dcbec77d3.mp3"
+      }
     },
     {
       "id": 19,
@@ -84,7 +118,21 @@
         "蔡桓侯"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "蔡桓侯是扁鹊治病的对象；飞卫是纪昌的老师；西门豹治邺名实相符；司马光破瓮救友。"
+      "explanation": "蔡桓侯是扁鹊治病的对象；飞卫是纪昌的老师；西门豹治邺名实相符；司马光破瓮救友。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/600374c6d287e85333b6c641261f0bcb29828dd0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/643c27f042b2fdd07b4d0f90729b6a7fdcfe18ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7c78f7d7b9dbf2c2168c4d7babf77b9420a5745.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ab5c5197f91ec38e7cf07ec66b617c4d6e6677.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75ac8a9ca0008938400509036029955441bf6625.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d97964bb92e4e65adc00e8f2e6f1db5b89050327.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e4ca6514a14d98dcd297178be1bcfcdf9b9735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a5e2cd27f83c402efe076f5949e9ffe47f47c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2f528d7e28f9856c41566413647ce76ab144b19.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c05721d2c7170fa6b5e21d3a14632bf9e4925c3.mp3"
+      }
     },
     {
       "id": 22,
@@ -99,7 +147,16 @@
         "摸清底细"
       ],
       "answer": "摸清底细,惩治罪恶,兴修水利",
-      "explanation": "课文按调查情况、惩治巫婆官绅、引水灌田的顺序展开。"
+      "explanation": "课文按调查情况、惩治巫婆官绅、引水灌田的顺序展开。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b90e3a627fb36eed51673339a0352579c01559d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e968a89a1f29cefb035e5fedb354b0cb4ad2ce0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a1ac641151ee1746aa6e2f45e670e680ea61517.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17a63f0e96543e1080e47c3b6bac0ea43239596b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a2fefdb487a5f76c1e4ecf897f85698b42a2af3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -110,6 +167,16 @@
       "概括时过于啰嗦，变成了‘复述’所有细节",
       "遗漏故事的关键起因，导致读者不理解结局"
     ],
-    "tips": "试着用一两句话告诉别人‘谁发生了什么事，最后一共怎么样’。"
+    "tips": "试着用一两句话告诉别人‘谁发生了什么事，最后一共怎么样’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c7/c7cb9eb6bfce3f24ddb1d980ec78e42f5e4c0c62.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f3/f38554c492153e5daf4a08a6492f0689351d992d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ce/ce11cb1082c2d587dcefa9735b9f4d135ae4916e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e9/e979ca7113fcbe368b53df206c7206d8d6ed7c10.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ea/eae80d5f5f501b4080015365e52e3f54c488cd0d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/38/38994ad605fd6876fe34ac2e33e4ae07de419281.mp3"
+      ]
+    }
   }
 }

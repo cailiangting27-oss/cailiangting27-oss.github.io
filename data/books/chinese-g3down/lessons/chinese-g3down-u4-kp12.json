@@ -25,7 +25,21 @@
         "白色"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "根据课文《花钟》原文内容配对。"
+      "explanation": "根据课文《花钟》原文内容配对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ad514dab2b8de30da600c917b5214b19d63315c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e95e8acd737d18988c191dfe52354e7c4636d2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc03ce22186f27fdfb8febeadde2703f0b20f6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/691e01946f8ffb6c10acad74a66e079467816540.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/353825cb8403e32783033c09df89b9c0f8c0c024.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df52498f504652c494a591ac718ccb03c11eeebe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/901ec5b6d74fd8c09663469f9b512367396ef46d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7aca43bdb10b2dfb9de3b8ef4a5a38b4f8ecc992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d80ae1cf92167425c756ae25dfb91b8305986d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfaafaa0efe237ae06f6a41ff49d27c172f5d9f5.mp3"
+      }
     }
   ],
   "knowledge": null

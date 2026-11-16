@@ -21,7 +21,17 @@
         "平凡"
       ],
       "answer": "惊奇",
-      "explanation": "惊讶和惊奇都表示感到意外、奇怪。"
+      "explanation": "惊讶和惊奇都表示感到意外、奇怪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbb628dd7b3345ef969cd120388320c0e9eb4338.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0866f158f257dea87038a051aced9c1855a9bde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03649c41ff9e47c59c2c888f4276e354b676be37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cfc7ef1c385b745e5ab68d1293c6fbcbec7149f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b8b569bc3bfd26aa481abac080037b32002d4fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52a4b6b0dea0d7551a16f37d15b98e36dcf38367.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "当你想告诉别人你叫陈杰时，你可以说：'Hello, Chen Jie.'",
       "options": [],
       "answer": "错",
-      "explanation": "Hello, Chen Jie是向陈杰打招呼，介绍自己应使用I'm Chen Jie。"
+      "explanation": "Hello, Chen Jie是向陈杰打招呼，介绍自己应使用I'm Chen Jie。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ede416b061fe8eda3158d3b64655f6c73d24882.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/638d319c393d054fa28e1ca3ac41c387dec1d59b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'Hi' 和 'Hello' 意思相近，都可以用来打招呼。",
       "options": [],
       "answer": "对",
-      "explanation": "Hi和Hello都是英语中非正式的打招呼用语。"
+      "explanation": "Hi和Hello都是英语中非正式的打招呼用语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c5fefff6ded39ae911db8e50b7aad5bb74bd74e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b8a935888a3eae17abe9169c0930864b24acffc.mp3"
+      }
     },
     {
       "id": 21,
@@ -47,7 +55,21 @@
         "我的名字是"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "Goodbye-再见, Hello-你好, My name's-我的名字是, Me too-我也一样。"
+      "explanation": "Goodbye-再见, Hello-你好, My name's-我的名字是, Me too-我也一样。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b59c3cc2d4ea9e24ddbdb0d31d5740dc3326c107.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5b29c53e3c71cb9c6581ab053d7758fab8ca24d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58ccfa241cf39760b8a4036708f04cff243f2eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43932ff34182915e6ad662f3876eb0cd388fef93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/440ee0853ad1e99f962b63e459ef992d7c211722.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82202bb725d734b4a2cca49a24d54f2e2ac209a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f957f75529857dfcd635a65ef02da16caeb9ee5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1801bc31a2763dc98f4ce8d07a33228787da012b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3e2eb982cd58333d5ca9852681f7b5168720fc1.mp3"
+      }
     }
   ],
   "knowledge": null

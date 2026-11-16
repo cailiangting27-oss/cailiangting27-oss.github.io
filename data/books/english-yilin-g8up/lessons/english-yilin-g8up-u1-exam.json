@@ -37,7 +37,15 @@
         "went"
       ],
       "answer": "goes",
-      "explanation": "第三人称单数。"
+      "explanation": "第三人称单数。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3"
+        ]
+      }
     },
     {
       "id": 7,

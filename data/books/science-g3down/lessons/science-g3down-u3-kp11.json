@@ -21,7 +21,17 @@
         "深夜"
       ],
       "answer": "中午",
-      "explanation": "太阳高度角越高，影子越短。中午太阳升得最高，所以影子最短。"
+      "explanation": "太阳高度角越高，影子越短。中午太阳升得最高，所以影子最短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47a2daf7067d7d148794a1cf3ee602666b495dc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb9cbce4395b6ecdffb071cee77eb8b6fe038eb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c5382c1dbbbfc9ea638ff80a2743a40ec4f9320.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ef2d60e42faf8d380fee7b17a4128cbdab36bc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e458fad7695ab305e2b1e6a73cd41b02cd0cf94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4568a9ee3681409842249306cd5f9a1d35dfb5c.mp3"
+      }
     },
     {
       "id": 10,
@@ -37,7 +47,17 @@
         "漫反射"
       ],
       "answer": "沿直线",
-      "explanation": "光沿直线传播时被遮挡物挡住，背后形成阴影。"
+      "explanation": "光沿直线传播时被遮挡物挡住，背后形成阴影。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d326a77a5d890b6d6acfa91f848ded070a73b4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c284ed78618fd69574b6035c1afa323b61acc43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6b77929a23306579662a3407efbeb894163f7ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec4bd199a114ec18d8b53788e280c6391bced045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccb3a36f6d8bfd3748d41e376f1ead010ee3e7dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cdf3679ed3a365853e4db045ca9c6093cda1134.mp3"
+      }
     }
   ],
   "knowledge": null

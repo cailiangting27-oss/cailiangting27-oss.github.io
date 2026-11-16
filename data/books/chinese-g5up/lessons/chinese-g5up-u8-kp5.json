@@ -21,7 +21,11 @@
         "（ ）"
       ],
       "answer": "《 》",
-      "explanation": "书名、篇名应使用书名号《 》。"
+      "explanation": "书名、篇名应使用书名号《 》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/590fb56847075dd9b15b5d3a9b313e8f3632f456.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30ca24f7fae3b167925251acf17afc7b9371e0e2.mp3"
+      }
     }
   ],
   "knowledge": null

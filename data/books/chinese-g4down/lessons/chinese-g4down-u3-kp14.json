@@ -25,7 +25,21 @@
         "huī"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考察重点生字的认读。"
+      "explanation": "考察重点生字的认读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14585ae260e94e6bda969842c854762faf89e37a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be62126b55ae5f04a576f42841293444f5fc8751.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b86d3df1779ec1289bb78a435a063d8a6b5944e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/845ee9c5d5b415085ad3d207fa3fecd6f279e9b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34ffdf3f3da81b537b9b78518fbcd419e3ea93ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0c04142e0d18e80e23638aa07d8f1e04db9928a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bde7b72c66b9f4f303d7549cd86247b7a8db080b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2a3d9b8cbf8a7d9b5b17803841f11553e4e23ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04cc3bf73da9c3dcd3cd532f623dcf7de6f27da5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2651b329a37fa84182130ea40af718c3bca112e5.mp3"
+      }
     }
   ],
   "knowledge": null

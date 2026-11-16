@@ -16,7 +16,11 @@
       "question": "1 乘任何数都得 1。",
       "options": [],
       "answer": "错",
-      "explanation": "1 乘任何数都得原数。例如 $1 \\times 5 = 5$。"
+      "explanation": "1 乘任何数都得原数。例如 $1 \\times 5 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdb4c7e844e5c16101f4955e9ea2bc678d807251.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/624b3362aa821461537007ddde52db76fb69f1a6.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$2 + 2$ 可以写成 $2 \\times 2$。",
       "options": [],
       "answer": "对",
-      "explanation": "2 个 2 相加是 $2+2=4$，乘法表示为 $2 \\times 2=4$。结果相同。"
+      "explanation": "2 个 2 相加是 $2+2=4$，乘法表示为 $2 \\times 2=4$。结果相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c85bcacc0576a8bd87c5591b272a58fdc5af5bc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e816cb70252f124e30500ee62713f620aef90c96.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$5 \\times 3 - 5$ 与 $5 \\times 2$ 的结果相等。",
       "options": [],
       "answer": "对",
-      "explanation": "$5 \\times 3 - 5 = 15 - 5 = 10$；$5 \\times 2 = 10$。两者相等。"
+      "explanation": "$5 \\times 3 - 5 = 15 - 5 = 10$；$5 \\times 2 = 10$。两者相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04e370c85645e15e642bd5aba2d9071e3c994be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c667ad96b7a4dc216eb0b862d786842f29142bf8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个乘数都是 1，积是 2。",
       "options": [],
       "answer": "错",
-      "explanation": "积应该是 $1 \\times 1 = 1$。2 是 $1+1$ 的和。"
+      "explanation": "积应该是 $1 \\times 1 = 1$。2 是 $1+1$ 的和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64c43f1f474614525575458f84211936f7d056bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a43a4ee9d5031b522517ae8592eafd5b4ebefbe.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "不确定"
       ],
       "answer": "5",
-      "explanation": "相邻两句 5 的口诀，积相差 5。"
+      "explanation": "相邻两句 5 的口诀，积相差 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f4bc54b64de1174c591261c9876d4143e3facb9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/386e12ef8b28a25e845f87993073b3fbfad61e55.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "30"
       ],
       "answer": "24",
-      "explanation": "$4 \\times 6 = 24$。"
+      "explanation": "$4 \\times 6 = 24$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8edb87f64a43bb1c31e5200ed10ae552184a812.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0137d57395c4f3651c830186b1b5088d11e6423.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "6 + 6 + 6 + 6"
       ],
       "answer": "6 \\times 3",
-      "explanation": "口诀对应乘法算式 $3 \\times 6$ 或 $6 \\times 3$。"
+      "explanation": "口诀对应乘法算式 $3 \\times 6$ 或 $6 \\times 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23032eae116a4d0ffdd0f9ba1e656218a572a387.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae4a6f884cce0133ab2c2872c0e6a1cae74cd364.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cbfaacc348d188e86fa66659c61c692200d1d90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee280b6c1ec56d97cae3aa7475b227bb607b3fb9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/223929b15d63157205b8d944370603cf553d1b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8a066161ec9570500f70a0fd9ba7131809de1d4.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "无法比较"
       ],
       "answer": "一样多",
-      "explanation": "小红：$2 \\times 6 = 12$；小明：$3 \\times 4 = 12$。两人一样多。"
+      "explanation": "小红：$2 \\times 6 = 12$；小明：$3 \\times 4 = 12$。两人一样多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e22c387ce342c04ea5fb8e312d3cbd1d713948f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14c71dd2f0b93db9ef85c9ae4cf6c945f86d6c31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd4a39d2270390167c5040c9f3aef632cdf3833c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef2f24f150dd9596137c3af79199789255c8582b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "和"
       ],
       "answer": "乘数",
-      "explanation": "乘号两边的数都叫乘数。"
+      "explanation": "乘号两边的数都叫乘数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a19c8d2838b3746b5e7dbc9521557c9d388d3de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/658607c9ce4f8811edde838db87250d93933bc54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/145ced248b2aaa462c7db1855bce3d52046e8ef2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/038e9ffa1ede71a4c2c94fd91adf96d846a0641b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3eb340971ffc2dd9cf4da3994078519f53a568.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/913a7f137b5e391ba4fb7b9488fdbd3fcf00ef32.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "11"
       ],
       "answer": "22",
-      "explanation": "$4 \\times 5 + 2 = 22$（根）。"
+      "explanation": "$4 \\times 5 + 2 = 22$（根）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1dde46e935195d394fd29a4a28f8e027289fe00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffb241b1506848330c17cc3ebf882677e0947003.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "10"
       ],
       "answer": "12",
-      "explanation": "2 倍即 2 个 6，$6 \\times 2 = 12$（朵）。"
+      "explanation": "2 倍即 2 个 6，$6 \\times 2 = 12$（朵）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8af9c77bf3e03ffac3639c69756c1f74ed93b20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dda4ad686e8609947ad20b0fdc2b0bf40830d3e.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "5 + 5"
       ],
       "answer": "3 + 3 + 2",
-      "explanation": "只有相同加数连加才能改写成乘法。"
+      "explanation": "只有相同加数连加才能改写成乘法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/6589b3bb554fef276eb6067a900850d1ef2835ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76ed812975266c782dfc8622df36853abf2567f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6131332d658bdc10c57791ccc5d2738c19612415.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/184b5b4ca8a360034f81b09ae904afbfb8154dc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a6a2716cbaa2328e950aa47f5da68d6ec392779.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29a4e2452e34047ee38759f68571f6bac93e7d54.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小明有 6 盒巧克力，每盒 4 块，他一共有 ___ 块巧克力。",
       "options": [],
       "answer": "24",
-      "explanation": "$6 \\times 4 = 24$。验算：$4+4+4+4+4+4=24$ ✓。"
+      "explanation": "$6 \\times 4 = 24$。验算：$4+4+4+4+4+4=24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de7ac500496bcc4c521f7e702eac3bbe706dbbcb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7d9ecb8abb1d04c8e0baf67077562080acf23d1.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "二年级一班参加兴趣小组，每组 6 人，分成了 5 组，其中有 1 个小组只去了 3 人，一共去了 ___ 人。",
       "options": [],
       "answer": "27",
-      "explanation": "先算满员的小组：$6 \\times 4 = 24$，加上不满意的小组：$24 + 3 = 27$。或者 $6 \\times 5 - 3 = 27$。验算：$6+6+6+6+3=27$ ✓。"
+      "explanation": "先算满员的小组：$6 \\times 4 = 24$，加上不满意的小组：$24 + 3 = 27$。或者 $6 \\times 5 - 3 = 27$。验算：$6+6+6+6+3=27$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/8306ded7222f84fb2524a40c9c7632a2a606ab82.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7564dc13b1a7fead8254205f6a5b50115a4eaa13.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$4 \\times 4 = ?$",
       "options": [],
       "answer": "16",
-      "explanation": "$4 \\times 4 = 16$。验算：$4+4+4+4=16$ ✓。"
+      "explanation": "$4 \\times 4 = 16$。验算：$4+4+4+4=16$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/684e98115aeefbeedceba36eea9b3d9891c65373.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/279be54bb77a08030198fb7f79c38c3bda196c82.mp3"
+      }
     }
   ],
   "knowledge": null

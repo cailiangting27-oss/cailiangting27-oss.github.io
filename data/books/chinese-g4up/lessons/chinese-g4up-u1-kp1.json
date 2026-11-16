@@ -16,7 +16,11 @@
       "question": "《观潮》一课是按照“潮来前、潮来时、潮去后”的顺序展示钱塘江大潮的。",
       "options": [],
       "answer": "对",
-      "explanation": "课文按照时间先后顺序，生动描写了潮水的变化过程。"
+      "explanation": "课文按照时间先后顺序，生动描写了潮水的变化过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f659ead6d35ee07a2adf71c80d2628930013dab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/240c6336817bae59f251646aeadd868a6da05110.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "漫天飞舞"
       ],
       "answer": "平静如镜",
-      "explanation": "潮来前，江面薄雾笼罩，非常平静。"
+      "explanation": "潮来前，江面薄雾笼罩，非常平静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4dbc5a52bd756dbcb834a0e8945dd4ca182c111.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5504ed60aeedd7f23b47fec77334048fad3d86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/798d523f4bd98aed14f51663834c8638a09fc9ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1380adf8869ed922215d54e2f2d0fb52226a611a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f3d03b4f5f2bee6636442ddae8afced1ea4786.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1124031fec1e72db3a218ad1aa0e4449e147680f.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "潮头出现时"
       ],
       "answer": "正文结尾",
-      "explanation": "“恢复平静”是潮去后的状态，通常作为一次自然现象描写的收尾。"
+      "explanation": "“恢复平静”是潮去后的状态，通常作为一次自然现象描写的收尾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a120bc263c1b16f8081860da30fa7e73e58f8e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01db63750d21f51f283f03e6c0746de59aa10401.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26a9f1ae4f2754b766fac085019322ec7b528032.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea59c003509b217b5901bd11110aa964ef8a6c60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03c0eb3eb7b91203b9bddbdcb1d232b1b4ed4ffe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96c4f59b890422d37f93d4e1fe677d8de4631a5b.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "钱塘江大潮在每年农历的（____）十八日最为壮观。",
       "options": [],
       "answer": "八月",
-      "explanation": "课文第一句明确提到农历八月十八是观潮日。"
+      "explanation": "课文第一句明确提到农历八月十八是观潮日。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33912ceeae403cf1fb69bcac3ab3a22c3aaa38b4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bdf48e06167b28201454e06427c2db5994fb881.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "时间跨度跳跃太大，没有过渡。",
       "在潮来时的段落里插入了潮后的描写，逻辑混乱。"
     ],
-    "tips": "写作前先列出时间轴，标注每个时刻最有特点的声音或景物。"
+    "tips": "写作前先列出时间轴，标注每个时刻最有特点的声音或景物。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a0d41ea40901a357d0300bb6afdfd9c607fbe3ee.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a0/a03eea882adaa7cdfe7e177cf1491fc75dd8280a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/46/468717c8c30fa57fef7b16bb48c15c1d858f5ccd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6b/6b6802f6e3fbc5b4e956ee7823e54c741bcfb0cd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4b/4b4d0e2151fbad3937cea744c8da337aef1b5aab.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8a/8a4b63ab12242ad7f71fadea66e584dbc5e5abd6.mp3"
+      ]
+    }
   }
 }

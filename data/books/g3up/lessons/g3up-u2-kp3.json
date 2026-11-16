@@ -16,7 +16,11 @@
       "question": "判断：$498 + 203$ 的结果一定大于 700。",
       "options": [],
       "answer": "对",
-      "explanation": "498 大于 490，203 大于 200，且 $498 > 400 + 98$，$203 > 200$，估算 $500 + 200 = 700$，因为两个数都接近或超过整百，和一定大于 700。"
+      "explanation": "498 大于 490，203 大于 200，且 $498 > 400 + 98$，$203 > 200$，估算 $500 + 200 = 700$，因为两个数都接近或超过整百，和一定大于 700。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fa0437472a49bcc5fd90f18c76273b5876bfc3c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d007de7efeb68f4f9d89399d5df697b3ae1acc47.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "无法确定"
       ],
       "answer": "够",
-      "explanation": "把 192 看作 190，106 看作 110。$190 + 110 = 300$。因为 192 比 190 多 2，106 比 110 少 4，实际上 $192 + 106 = 298$。$298 < 300$，所以够。"
+      "explanation": "把 192 看作 190，106 看作 110。$190 + 110 = 300$。因为 192 比 190 多 2，106 比 110 少 4，实际上 $192 + 106 = 298$。$298 < 300$，所以够。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec27472b7f9cbeb43d7b9f053c7a1d5c2fa6bc3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a69bf3c14fe83508d83e3afa99402009905963cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c73fa2ada34e2761532328554027ce6f5a963cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e26bf726bf199c7ef630150b011dc4e6247c61f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa829d6c45151019b65a432786d0342f74b5d1a2.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "500"
       ],
       "answer": "700",
-      "explanation": "$412 \rightarrow 410$，$289 \rightarrow 290$，$410 + 290 = 700$。或者 $400 + 300 = 700$。"
+      "explanation": "$412 \rightarrow 410$，$289 \rightarrow 290$，$410 + 290 = 700$。或者 $400 + 300 = 700$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3def3adc10a6afcfbe949b7daf26229ef5c1e3f9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15aa0c7e8fbd2923db7041d012e8838d66b9572d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e4bbea3af2e4861ad5a445aaec573e02f9aca2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81ceb4ee36b91f317d458f9a6bffb0f73437e854.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "估算时找的“邻居数”偏差太大，导致结论错误",
       "带单位计算时单位不统一就进行估算"
     ],
-    "tips": "看到“大约”、“最接近”、“够吗”这些词往往提示需要使用估算。"
+    "tips": "看到“大约”、“最接近”、“够吗”这些词往往提示需要使用估算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/7a/7aac6c0d50c067753b44a305d8d95314f68971bd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3d/3daaf01d4f6a966e293973e25000ea683ff33803.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/94/945f786aed5411da40a7a4d6bc47f65d21ffc180.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c7/c751540ecf441580a6d3bdeafe781789e8b44e08.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0e/0ebbf0290088c7bc56eb915e0027f99e84125a73.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f5/f5637d01fda8728c504bf00120830fef7e8edc91.mp3"
+      ]
+    }
   }
 }

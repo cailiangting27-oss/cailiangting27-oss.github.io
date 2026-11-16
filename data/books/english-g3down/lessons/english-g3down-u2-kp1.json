@@ -16,7 +16,11 @@
       "question": "'father' 对应的是母亲。",
       "options": [],
       "answer": "错",
-      "explanation": "father代表父亲，母亲是mother。"
+      "explanation": "father代表父亲，母亲是mother。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efe3af3add2657e5c4b7d5900116725551ecea0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/4984f2424be52d3002148e7a09a82514a53af2d2.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'grandmother' 和 'grandma' 意思相同。",
       "options": [],
       "answer": "对",
-      "explanation": "grandma是grandmother的口语化表达形式。"
+      "explanation": "grandma是grandmother的口语化表达形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7374c53f7ba2a537693945d59b3a4eac4fb61c1f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/515cc288d91c9e7fbd4b4e9ac7b564c00a3bf32b.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "Sarah是女孩，她可以是别人的 'brother'。",
       "options": [],
       "answer": "错",
-      "explanation": "女孩对应的称谓是sister（姐妹），brother是指兄弟。"
+      "explanation": "女孩对应的称谓是sister（姐妹），brother是指兄弟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4ae918764db58dd6deb3c10d9d5b0d2c7da3a758.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f933ca32a587b7203e3037f07a640b7c4110a41.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "father"
       ],
       "answer": "grandfather",
-      "explanation": "爸爸的爸爸是祖父（爷爷）。"
+      "explanation": "爸爸的爸爸是祖父（爷爷）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1841fa419f17b079ff4b909ff2126e7668b6d280.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/dd6708dd64fabdf02d47a76472d58b726ef1566e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea39210a09e76cf4c5095371c43c8890f92cfab1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa981a84d03bb8bdf4fa2434cf5d5bcdfded3e19.mp3"
+      }
     },
     {
       "id": 10,
@@ -70,7 +92,17 @@
         "这是我的父亲。"
       ],
       "answer": "这是我的姐姐/妹妹。",
-      "explanation": "sister指姐姐或妹妹。"
+      "explanation": "sister指姐姐或妹妹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a184f2d7334db8e55c47b0451e38f880c27885d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fdb5bbbfe63bb1467bbb222690c16ac183b9dfc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81daf1ac93a96aaaeb5f5cc2bc28452024dbfaed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0e5bdd414a0806b05b3c19b8a44833f2c299d33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54fba3c60951cedbc00e2d022bc295e6ea8c638b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4bb99d1001b261987273c78a3bbbb0fbe43172a.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +118,17 @@
         "brother"
       ],
       "answer": "grandma",
-      "explanation": "爸爸的妈妈是奶奶。"
+      "explanation": "爸爸的妈妈是奶奶。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7950e36c58cf4801f95f61815c7900fdc4f9aa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f136523a96b2ae2700bb1fe8dfd8e2dbec55e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0da19b540f7c3526f24acba988b03df43b3c5cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88ebe8bf78169fcfe6d8a68b040ca600284bacd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5f5bc4828762b9b1553efaca80405a942aa094b.mp3"
+      }
     },
     {
       "id": 15,
@@ -102,7 +144,17 @@
         "brother"
       ],
       "answer": "mother",
-      "explanation": "妈妈的英文单词是mother。"
+      "explanation": "妈妈的英文单词是mother。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de7646155a983eaa5d07ecceb42a33f5d437a45e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0da19b540f7c3526f24acba988b03df43b3c5cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5dd14c249dd39d8ed182a5eb66a93e05fe3f365a.mp3"
+      }
     },
     {
       "id": 16,
@@ -113,7 +165,11 @@
       "question": "—Who's that man? —He is my ___ (父亲).",
       "options": [],
       "answer": "father",
-      "explanation": "父亲的单词是father。"
+      "explanation": "父亲的单词是father。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1859d7b5c45ef4a6dd00b9346def5bea077eb64.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd5076b291448f496a0966f14d0ef02115277bf8.mp3"
+      }
     },
     {
       "id": 17,
@@ -124,7 +180,11 @@
       "question": "This is my ___ (姐姐).",
       "options": [],
       "answer": "sister",
-      "explanation": "姐姐/妹妹的单词是sister。"
+      "explanation": "姐姐/妹妹的单词是sister。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c058cf00a3dd561256878e68b9c41f16254ea370.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e874852c12a9cbb6c8d9fd0147233934b091f402.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "兄弟"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "mother-母亲, brother-兄弟, grandpa-祖父, dad-爸爸。"
+      "explanation": "mother-母亲, brother-兄弟, grandpa-祖父, dad-爸爸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58c9e4939371073ceaa407c2bd872c4299f6aac0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/5116e40694ac48f654cb7b6816177e0e717237c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f136523a96b2ae2700bb1fe8dfd8e2dbec55e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0da19b540f7c3526f24acba988b03df43b3c5cf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c86d1645007ffe6d7857b631f8ad8387b574c763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0883fddfc0a688497db3ee12c66bd8ac70e79a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/166846cf0effa11b7677fff8512c0e8d77732802.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1916d4c675ee961a4330e195a677c8bb7767f5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef17d54f225b2ec80ce4fa2bb115d43aa2d8d72d.mp3"
+      }
     }
   ],
   "knowledge": null

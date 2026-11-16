@@ -16,7 +16,11 @@
       "question": "柳公权是唐代著名的书法家，他的书法作品具有“颜筋柳骨”中“柳骨”的特点。",
       "options": [],
       "answer": "对",
-      "explanation": "柳公权的书法以骨力遒劲著称，后人称为“柳骨”。"
+      "explanation": "柳公权的书法以骨力遒劲著称，后人称为“柳骨”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bcb293700858a74418b160766d81a973a1b8c04e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3eb2c78d353cf1adb96b58fd532667f30eb4c80b.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "书法的布局不需要讲究疏密和留白，只要字写得大就行。",
       "options": [],
       "answer": "错",
-      "explanation": "书法创作非常讲究间架结构、疏密变化和留白美感。"
+      "explanation": "书法创作非常讲究间架结构、疏密变化和留白美感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/064dc3a3f725c1af6c4ef776342df05fc8b0186f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b97de8a0c715fb3857e42a8b57525e3f35e8396.mp3"
+      }
     },
     {
       "id": 11,
@@ -43,7 +51,17 @@
         "飘逸洒脱"
       ],
       "answer": "棱角分明",
-      "explanation": "柳骨的特点是瘦硬有力，线条具有极强的骨感和棱角。"
+      "explanation": "柳骨的特点是瘦硬有力，线条具有极强的骨感和棱角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3aa2c7c230b4107bb937e947b511cb0af0a63c3f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6bfa276106c68a49e7c2904863ab207c3e631369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1290cbd15cdb9899a27ba8c51753a47f131a0eee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a86cda9d01fa2cf084b3d5d13eebb102cd1b2b15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/dee4e85ac37363c9796fb037d90379303104581a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5fa8f59374826519362ff2240402700dc1abdfa.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +77,17 @@
         "作品传达的情感精神"
       ],
       "answer": "宣纸的大小尺寸",
-      "explanation": "赏析主要关注艺术表现手法和精神内涵，尺寸属于物理属性。"
+      "explanation": "赏析主要关注艺术表现手法和精神内涵，尺寸属于物理属性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81dd471768cd8443547f440835332746f8516936.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5b9d04a25812a251317399da01e34c2d400b17c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528d865f0e6a99ab357832fdb14da81061f86cda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41524cc948a733b16fa79bbe5257c1b852133054.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02f6336c2a82a0fe1b4be128cbfb0ef7612b7234.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e27640383489736987e85f6d712c04e3753bc09.mp3"
+      }
     },
     {
       "id": 18,
@@ -70,7 +98,11 @@
       "question": "书法史上常说的“颜筋柳骨”，其中的“颜”指的是（___）。",
       "options": [],
       "answer": "颜真卿",
-      "explanation": "颜真卿和柳公权是唐代书法双壁，分别代表了两种审美风格。"
+      "explanation": "颜真卿和柳公权是唐代书法双壁，分别代表了两种审美风格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e09109c9ba55df0b58ad4b046bfb818fb7eba295.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/132b8a8946af7aa6bee1e5383ced7d3454b9ea3a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "张冠李戴，将颜真卿的丰满特征记成柳公权的。",
       "认为书法只看写得好不好，忽略了人品修养与书法境界的关系。"
     ],
-    "tips": "通过“骨头”的瘦与挺拔来联想柳公权的“柳骨”特征。"
+    "tips": "通过“骨头”的瘦与挺拔来联想柳公权的“柳骨”特征。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ad/ad63ba959960b8269d6fb6ba963f7e2f9b55b971.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1d7644d6752dc7fac6af5728abbbac51b95034a5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8c/8cef7c378ecc5eb89890d3e4db7a6bbc70cc1d5d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/02/024e03ddf45fabde227ed2d0b9703de94056d3a4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/54/54417f54748f73631a6209a232d3e7235141c026.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c5305467736a3f692c30fbe367453c15d0ce1891.mp3"
+      ]
+    }
   }
 }

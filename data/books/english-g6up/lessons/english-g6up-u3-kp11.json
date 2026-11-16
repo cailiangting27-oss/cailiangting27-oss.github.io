@@ -21,7 +21,17 @@
         "hospital"
       ],
       "answer": "bookstore",
-      "explanation": "买字典通常要去书店(bookstore)。"
+      "explanation": "买字典通常要去书店(bookstore)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9da647241e6271433e5527ecf8632669a8b10309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4d54d14e10f1eaee366c6eecab6051ce70e63e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee710b916549901c276e27bd5f12ff4e000cc2d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5019bac93989553b23adfeaded558cb29a2f24eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b2d005e88ce14a4112785bb266b2c0c16be7eb4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a0e909e9dbb8ddf64cd089a4616e52cb68ddd37.mp3"
+      }
     }
   ],
   "knowledge": null

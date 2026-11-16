@@ -22,7 +22,18 @@
         "your"
       ],
       "answer": "What,is,in,your,schoolbag",
-      "explanation": "特殊疑问句：What is in + 地点？你的书包里有什么？"
+      "explanation": "特殊疑问句：What is in + 地点？你的书包里有什么？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccaa43eb8b7bd6d1de64b7e9ef17930c4622e0cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84be8bfab6a3759a5fe7480e6b4f63540f3271a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba74b5000097744a3862195bbd66da5e8a7b93ad.mp3"
+      }
     }
   ],
   "knowledge": null

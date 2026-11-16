@@ -21,7 +21,17 @@
         "发射"
       ],
       "answer": "察觉",
-      "explanation": "发现和察觉都有看出来的意思。"
+      "explanation": "发现和察觉都有看出来的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f022ef3fe70e7849fdfa771f4f769ce2665eda43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/dff81d37637ab325dae78c4e44001f8fbfbc2467.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e07590ef76d6b3eb6361629352ae67ddd498b24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cddfc78914cf290baf220ea429f469acc961ff33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f90e1db9ee3a24cb2468be223b35d436016f456.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2197b89ea28b5c5c7590787b02169c069e2f3ad7.mp3"
+      }
     }
   ],
   "knowledge": null

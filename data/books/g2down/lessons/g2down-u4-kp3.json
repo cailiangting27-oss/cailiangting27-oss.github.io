@@ -16,7 +16,11 @@
       "question": "在除法算式中，除数不能为 0。",
       "options": [],
       "answer": "对",
-      "explanation": "根据除法的意义，除数表示分的份数或每份的数量，0 不能做除数。"
+      "explanation": "根据除法的意义，除数表示分的份数或每份的数量，0 不能做除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/322e9832a4fad6f8331384b8d8c5d2cb90821299.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01113ac50586b3eeb160f9d43852fdbf22723d9f.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "被除数增加，商一定也增加。",
       "options": [],
       "answer": "错",
-      "explanation": "只有在除数不变的情况下，被除数增加，商才会增加。如果除数也变化，规律则不同。"
+      "explanation": "只有在除数不变的情况下，被除数增加，商才会增加。如果除数也变化，规律则不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8de5e718606edb82904374d940d0460856f5a5d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/6478e20f63be859c5f26709d7f242b0337fa7fb8.mp3"
+      }
     },
     {
       "id": 13,
@@ -43,7 +51,11 @@
         "≈"
       ],
       "answer": "＝",
-      "explanation": "$81 \bdiv 9 = 9$，$72 \bdiv 8 = 9$。$9 = 9$。"
+      "explanation": "$81 \bdiv 9 = 9$，$72 \bdiv 8 = 9$。$9 = 9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e41c86d8b4c383cdeca794b5559f7aa2da2fa2d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81c7cda67294910ade0640a2cf6bf9a869db5921.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +71,17 @@
         "36"
       ],
       "answer": "54",
-      "explanation": "先由 $\triangle \times 7 = 42$ 求出 $\triangle = 42 \bdiv 7 = 6$。再算 $6 \times 9 = 54$。"
+      "explanation": "先由 $\triangle \times 7 = 42$ 求出 $\triangle = 42 \bdiv 7 = 6$。再算 $6 \times 9 = 54$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e034c510b5c02926c94f52a53ac8d209fb62550f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4c5f3943b0de704a020c04fe0baa87440ce9bd9.mp3"
+      }
     },
     {
       "id": 21,
@@ -70,7 +92,11 @@
       "question": "已知 $A \bdiv 8 = 9$，那么 $A - 20$ 的结果是 ___。",
       "options": [],
       "answer": "52",
-      "explanation": "先算 $A$：$8 \times 9 = 72$。再算 $72 - 20 = 52$。验算：$52 + 20 = 72$，$72 \bdiv 8 = 9$ ✓。"
+      "explanation": "先算 $A$：$8 \times 9 = 72$。再算 $72 - 20 = 52$。验算：$52 + 20 = 72$，$72 \bdiv 8 = 9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e96dbe6f68e8fe4ce5636b3cd1a1e16196ec49b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21fa1e9c4f58d374e32c00ac6a8895263a59df0c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +107,16 @@
       "错误认为被除数大商就一定大，忽略了除数的影响",
       "在填空或比较大小时，只看数字不看符号"
     ],
-    "tips": "被除数越大商越大（除数不动），除数越大商越小（被除数不动）。"
+    "tips": "被除数越大商越大（除数不动），除数越大商越小（被除数不动）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/28/28dabcdadb3ffa28e8404b65d5836a199aadbed4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/06/068446e79940d62edf3c4a2e8e1c3380361de0e3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9d/9d639d0c174eedbb89c414c791cdf68369c826b9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d5/d5ba4e5cd1b023127f9584ff4926dbc095283cef.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a1/a1cd2003eecf08cf5baa25b1a37fa2ec0efbe410.mp3",
+        "https://api.clthuanxie.cn/cc-audio/13/132f217ecaae30526ede6a039237b0b42ae01952.mp3"
+      ]
+    }
   }
 }

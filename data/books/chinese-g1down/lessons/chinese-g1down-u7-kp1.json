@@ -16,7 +16,11 @@
       "question": "通知必须写清楚具体的时间和地点。",
       "options": [],
       "answer": "对",
-      "explanation": "只有写清时间地点，接到通知的人才知道什么时候去哪里。"
+      "explanation": "只有写清时间地点，接到通知的人才知道什么时候去哪里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/519cca998b6b8569cc5b3a09605d2ea267ad77bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d85d3ae19a4754f939b558d1a8a8a0cb1955f0f9.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "家长"
       ],
       "answer": "全体同学",
-      "explanation": "通知中明确指出了参加人是“全体同学”。"
+      "explanation": "通知中明确指出了参加人是“全体同学”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/554a8ecb54d907677088a5d7323447cf6c70ad44.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4042ea2dee2eb5509fd2adbc3a3f448beb3549b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02ed9241c277e882af8adb9c3c456ca378471803.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e5e40090cd44756296985a917185536283d2320.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e71732dfce762cdc77de251b3d70f48321da142.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "第一行"
       ],
       "answer": "右下方",
-      "explanation": "按照中文公文格式，日期一般放在落款下方或右侧。"
+      "explanation": "按照中文公文格式，日期一般放在落款下方或右侧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49de8edc0afb4a8b56bb988669ce5fb669ec91ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d6b1b8e736d8edf193291e281b8e6ee9f18f5df6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/376579bcb44e43f997cf01949083492a2ae4e56b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb380c9880a0068ac42b06129c664084ba672528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7160fab5f6716e845774954e6d48f6a6e5e0fe9b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8115eca084f4f096966b6b0b5cf8749f9a581f36.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "发布通知的人或单位，叫作（ ）。",
       "options": [],
       "answer": "落款",
-      "explanation": "通知的署名部分称为落款。"
+      "explanation": "通知的署名部分称为落款。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c83156b0d404f6ea9980febe912fac3e6bb63f98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecad9b7046b1969e6c3d02ac6c59f6f7abe12907.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "混淆发布通知的时间与活动开始的时间",
       "在提取要素时，容易漏掉地点或参加人"
     ],
-    "tips": "朗读通知时，可以用记号笔圈出时间（圆圈）、地点（方框）和参加人（波浪线），帮助清晰记忆。"
+    "tips": "朗读通知时，可以用记号笔圈出时间（圆圈）、地点（方框）和参加人（波浪线），帮助清晰记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2d/2d850a671915c576a8ca5fd9716b081d082d285a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/34/34c3d1c2e87c9b342f59d83d05d170b95b4809aa.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/02/02366d1a1446613cb103d939364d06ee0f46ee28.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ff/ff6d30254c39d896612e44927d68e6c70d45b126.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/01133aee1f3c64c981eff4cab292f98e5abe7a11.mp3",
+        "https://api.clthuanxie.cn/cc-audio/15/153fd4db6e8de9811b94d2ba413f66d7bfad30f0.mp3"
+      ]
+    }
   }
 }

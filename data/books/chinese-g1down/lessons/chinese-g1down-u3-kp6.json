@@ -21,7 +21,17 @@
         "软绵绵"
       ],
       "answer": "哗啦啦",
-      "explanation": "“哗啦啦”形容水流声或下雨声。"
+      "explanation": "“哗啦啦”形容水流声或下雨声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3202906ccdf559e0983e843ac21f5b254357f2e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ab0380880031d9cecdcf0c61f0188d77ca460b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c2e3397e61554810ea7ad5876884a043bfe6135.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a4d21e166784b60aa9a04114f1621d4f0e8f86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d499719d772e6fa0386f1bb8cfb892d66a52ffdc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d22735e8ce784f078ef660b5c7895a4df4c5eee.mp3"
+      }
     }
   ],
   "knowledge": null

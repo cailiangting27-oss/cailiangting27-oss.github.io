@@ -16,7 +16,11 @@
       "question": "电梯轿厢的上下运送属于直线运动。",
       "options": [],
       "answer": "对",
-      "explanation": "电梯沿垂直导轨移动，路径是直线。"
+      "explanation": "电梯沿垂直导轨移动，路径是直线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/303501e40ef249bf4baa35af835801cdc49eff86.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d57bfde56841cd54401719def9a9647e161145d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "同步卫星相对于地面是运动的。",
       "options": [],
       "answer": "错",
-      "explanation": "同步卫星相对于地面位置保持不变，是静止的。"
+      "explanation": "同步卫星相对于地面位置保持不变，是静止的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28c33133dabcb83dee7e69dc66892b944023cf79.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a04ef142a1dff2b7056e449f5ede39290903b4b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "只要物体是球形的，它在任何斜面上都一定能滚动。",
       "options": [],
       "answer": "对",
-      "explanation": "球体因重心原因在斜面上极不稳定，会发生滚动。"
+      "explanation": "球体因重心原因在斜面上极不稳定，会发生滚动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc14508fb9c6e5385529e40899f15613f065cb48.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9e1fb85e2136c9fa44c83e01d12548eab6b039c.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "赛跑时，跑完全程用时最长的运动员获得的成绩最好。",
       "options": [],
       "answer": "错",
-      "explanation": "用时最短的成绩最好。"
+      "explanation": "用时最短的成绩最好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce9d778ae9f672551cb79fd51c3871ed5aa20774.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a01527e106286aced9c42fa4dc1628f96727b9f0.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "距离"
       ],
       "answer": "物体的质量",
-      "explanation": "描述位置由参照物、方向、距离三要素组成，与质量无关。"
+      "explanation": "描述位置由参照物、方向、距离三要素组成，与质量无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6127b407a7a0b03b90f844117b3da5b046636f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e243d8edf32c6a521ecdfec3541fcaa124994a63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d531f329efc816435486d4b8bfcc25f1d7b64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdd3c56ea0b91943ec5ae8c1d8b51e2337f25591.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3480678b68e3ef722997074cb3b3e260420ed34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49b376bea057bdfe37859717f5ed29030fb3e82a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "在直线跑道上拍打带球过人的球员"
       ],
       "answer": "在直线跑道上拍打带球过人的球员",
-      "explanation": "球员整体沿直线跑，球在上下弹跳（直线）或过人避障（曲线），属于复合运动。"
+      "explanation": "球员整体沿直线跑，球在上下弹跳（直线）或过人避障（曲线），属于复合运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed235bbbdce671cdec43cd0c113413c692d665d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17cc3b42aa4812c6430711d66651c40641d88953.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78db5470ffa647eb477e0df5235463057058b350.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67e60002da359960acf6e24d82f55fff4a44917c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1758dd49d0c032a5d6994521a1f9c00a1b23b29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e26e0d5a9790eb6e09576da7d212457c7aaf3aa.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "听观众喊加油"
       ],
       "answer": "看到起跑发令枪冒烟",
-      "explanation": "光速比声速快，看烟计时最准确。"
+      "explanation": "光速比声速快，看烟计时最准确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73acc1181e45f0679f2905b922f64f3f172f0cf9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff63f157bfc66035930ac0790866fe06c0829b1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b24034309b216b2c0758cf63733929888036100.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be6240f88b708658d160877257569c025bfba4e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c433ec13fbd16802d5a9797992b8db14bc6befd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e687d10bbce12cf2cb52cf57874da03929220cc.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "只选大的那个"
       ],
       "answer": "重新测量一次",
-      "explanation": "科学实验应严谨，异常数据需排除干扰后重测。"
+      "explanation": "科学实验应严谨，异常数据需排除干扰后重测。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/7146acf97709c3cc2ec77d07be3314d1d217843d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/26d74b845c9fb69cdefb5fcc30f72491fc5fd28b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83f8c031ff5a4b3cc98d4a962d81ec6a8b2d3801.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d72524ab56b86f15244cdcc72eb50713770c2ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ad694b9c655c397b9d471f89b147648dbdc1786.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c02fd7421ac1c8a2f3f63f138f14076b4974deff.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "正在下楼的人"
       ],
       "answer": "扶梯的台阶",
-      "explanation": "小红和扶梯台阶之间没有位置改变，所以是静止的。"
+      "explanation": "小红和扶梯台阶之间没有位置改变，所以是静止的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0afefb8d7689ee5c095b83164a7cc625abf4074d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2f5797c06a21775c50cb4c55f70387d20f4a258.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/386a70412bb6051a4300f4d5d7adc03e0126d0bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b535eb3264b23933bde22710c8a7a29d78c88a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ef96566cfda00ed1439c7b5c629fe9692904800.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c1bc4197eaffbbc9faca5daa419440338276ad5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "匀速运动"
       ],
       "answer": "翻滚",
-      "explanation": "在坡度极大时，重力会导致非球形物体重心偏移发生翻滚。"
+      "explanation": "在坡度极大时，重力会导致非球形物体重心偏移发生翻滚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2a286b0c10f0926843abccb55d1a98c1248230d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3723aab5a9b827f2773a69a17bc93aa47fc82341.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/676f262ddcf438f9b11d489a5127a79f2681850e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581d8ac8376308514c4e25fde77edc35c16cca45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52a707db21a4d0848af00175496add30765ddf34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81290edbb4d71ce6409e18fbdd612078abf25428.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "两人一样快"
       ],
       "answer": "小明走得快",
-      "explanation": "相同距离，用时短的快。"
+      "explanation": "相同距离，用时短的快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61d460998594e0d62fc019b50a28406265086c5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/258465ad52c7756e57d919281a530caaa0818222.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e41443d7e735d5f2f5dcb66b6306a2d4d85ee39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24e81b68f80403b4a8693dbd6ee3919993843142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ec89f0e1c001588db3aecf89945433ea790dd2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6711d0a81d1bea0f5d570b1c285f41a11c518778.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "长方体"
       ],
       "answer": "圆柱体侧放",
-      "explanation": "圆柱体侧面是弯曲的，容易产生滚动。"
+      "explanation": "圆柱体侧面是弯曲的，容易产生滚动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/9488b13e27fedbd27aa7f83f75ccdb3f836800d2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/00de24ab4ccfc710c2eac6a300f5698ae0da8bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afe3b3f4f5b6da99a0aed8d38adf532939c6d289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f34e1fc247e52f1279da1f5e2a1dffe72f09ebc0.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个物体2秒钟移动了10米，那么它在1分钟内可以移动（）米（假设速度不变）。",
       "options": [],
       "answer": "300",
-      "explanation": "1秒5米，60秒就是300米。"
+      "explanation": "1秒5米，60秒就是300米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7d5c06605cffe12f5e4cfd76b000e3c514400b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05bb9f5f033f08cae01afb8a4bd64b020dba23bb.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "在50米往返跑比赛中，小强从起点跑向终点用了9秒，转头跑回起点用了11秒，小强跑完这100米全程共用了（）秒。",
       "options": [],
       "answer": "20",
-      "explanation": "9 + 11 = 20。"
+      "explanation": "9 + 11 = 20。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18aefbce2bbb7fc98ce6cd963f5ed2d9fd0a1828.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4ec315b01cfa57dcc928caafbcc2080282d0466.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "滑冰运动员在平直冰道上向前滑行时，其整体的运动属于（）。",
       "options": [],
       "answer": "直线运动",
-      "explanation": "轨迹为直线。"
+      "explanation": "轨迹为直线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/713955ef449fb13bd9756faba51d8b3ae57a8d5d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ef240dd592126e8686b4fd34428cbca656669d9.mp3"
+      }
     }
   ],
   "knowledge": null

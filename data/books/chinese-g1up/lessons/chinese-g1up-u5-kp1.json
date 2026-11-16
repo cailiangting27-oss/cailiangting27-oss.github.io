@@ -16,7 +16,11 @@
       "question": "每个自然段的开头都会空出两个汉字的位置。",
       "options": [],
       "answer": "对",
-      "explanation": "按照中文排版习惯，每个自然段开头都要空两格作为段落起始的标志。"
+      "explanation": "按照中文排版习惯，每个自然段开头都要空两格作为段落起始的标志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d2b587a5d4250e6b301c8f33a8a0432f8fb23eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/152a7adc4425b4907c0c5061e4524b97c638e640.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "只要有句号出现，就代表一个自然段结束了。",
       "options": [],
       "answer": "错",
-      "explanation": "一个自然段可以由很多个句子组成，句号只是句子的结束，不是段落的结束。"
+      "explanation": "一个自然段可以由很多个句子组成，句号只是句子的结束，不是段落的结束。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3666089fa395920c16045426b74e0fac2ca34aed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08471cc27f74880874002dde31ed0f7dbf718b39.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "4个"
       ],
       "answer": "1个",
-      "explanation": "这段文字开头空两格后一直写到结束，中间没有新的另起一行空两格，所以算一个自然段。"
+      "explanation": "这段文字开头空两格后一直写到结束，中间没有新的另起一行空两格，所以算一个自然段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/896b3a367f968efacd37bef5a76f20b818d57d55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43991ea59cf96534c33009caad3613c4009148a9.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "二"
       ],
       "answer": "②",
-      "explanation": "语文学习中通常习惯用带圆圈的数字标记自然段序号。"
+      "explanation": "语文学习中通常习惯用带圆圈的数字标记自然段序号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b6231a1eaac8bdbab6ff30f4c195ee9d560fda8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/1d/1d5639f716b643b7204f04b0c3ef9ab222ee75ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1036971b67011835dd38a5be2d8d85287febb83.mp3"
+      }
     },
     {
       "id": 18,
@@ -70,7 +98,11 @@
       "question": "区分自然段的关键标志是段落开头空了两个（      ）的位置。",
       "options": [],
       "answer": "汉字",
-      "explanation": "自然段开头必须空出两个汉字的空格。"
+      "explanation": "自然段开头必须空出两个汉字的空格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79e90f9a69ea88248a92981611c58a1257a2d263.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/405f50259a2b6e3dbe060da1a62db975c7210951.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "将诗歌的一行误认为一个自然段",
       "忽略了第二页开头的段落继续而重复计数"
     ],
-    "tips": "数段落时，找“空格”，标序号，不漏数，不重数。"
+    "tips": "数段落时，找“空格”，标序号，不漏数，不重数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/40/407f23c2e5717b4d7462ca52fba305e2c4cf8286.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/89/89a29b5702ca20d152d006c49bffa289054f4673.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b3/b3aa83e2d6e82d6e6229d88b3d424074f9bde3c1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b5/b5c1be79748bb0d078857452306e7c95d0cd65f0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/db/db162caef4887c27b87771740198c33877879291.mp3",
+        "https://api.clthuanxie.cn/cc-audio/dc/dc37a7e4b28f742020bb560ace57c87b69cc72d1.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "在单词 'nose' 中，字母 o 发音为 /əʊ/。",
       "options": [],
       "answer": "对",
-      "explanation": "在nose中，o处于o-e开音节结构，发长元音/əʊ/。"
+      "explanation": "在nose中，o处于o-e开音节结构，发长元音/əʊ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9bed3c490fa718ded5d5e853144a84de14fa79f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e7fe44e367bf3e4e25135545c4920f64683a8e3.mp3"
+      }
     }
   ],
   "knowledge": null

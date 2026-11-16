@@ -21,7 +21,17 @@
         "丢弃"
       ],
       "answer": "忘记",
-      "explanation": "“忘记”指不记得，“忘怀”多用于情感上的难以忘掉。"
+      "explanation": "“忘记”指不记得，“忘怀”多用于情感上的难以忘掉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f52f13e04ad61e6e8493ad5950ad7800556f071.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1e9b49e17c14c507d4d1bdaa776e1cec0b817da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41ef2cfcbfeeedc8178d85520b77a3c02824bb14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4691c22204f442003c2c8b5940bb4b3cc8005660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea4899468caefcf8e8aa42b12401f83b1f588c87.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b45955ff5415d75cd1778ee2540fe3f8125e8eeb.mp3"
+      }
     }
   ],
   "knowledge": null

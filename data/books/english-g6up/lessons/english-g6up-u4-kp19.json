@@ -21,7 +21,17 @@
         "He"
       ],
       "answer": "He,likes,reading,stories",
-      "explanation": "陈述句语序为主+谓+宾。动词用likes。"
+      "explanation": "陈述句语序为主+谓+宾。动词用likes。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d4bdbfe59041bc81cfd9d969017ac0ad2f89644.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aecba335e84ca9e3a2b7990230dcf248e6826e42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e53922df741b1d4df1a1998731800f1113be1681.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/227f38db8f9408a503acd51e3de98a46bb1209f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac9aa39f8b17af217bf579bb9a41585cdf4602aa.mp3"
+      }
     }
   ],
   "knowledge": null

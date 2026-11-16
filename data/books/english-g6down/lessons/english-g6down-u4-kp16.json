@@ -21,7 +21,17 @@
         "short"
       ],
       "answer": "tall",
-      "explanation": "身高前后的对比，矮（short）对应高（tall）。"
+      "explanation": "身高前后的对比，矮（short）对应高（tall）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35449dc01061923eed3b9549a5f496747d199d8b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47e6c22014be89bd3b69d3efacb5a506b5f499a7.mp3"
+      }
     }
   ],
   "knowledge": null

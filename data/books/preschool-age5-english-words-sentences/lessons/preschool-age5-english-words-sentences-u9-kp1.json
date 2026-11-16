@@ -22,7 +22,12 @@
         "say": "school",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 9"
+      "knowledge_point": "英语跟读 9",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2dc4dbdeb261d29bb5a55b1511b38bcf8b6d6c74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df710aaf8c41f88e64339bf1df6f101af5a2bab8.mp3"
+      }
     },
     {
       "id": 34,
@@ -39,7 +44,12 @@
         "say": "friend",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 9"
+      "knowledge_point": "英语跟读 9",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e67c2869f6b83404b53313c3832582cb192c219.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02024c0c80d2581bf9842471b0f2e57216dcd1c7.mp3"
+      }
     },
     {
       "id": 35,
@@ -56,7 +66,12 @@
         "say": "Hello",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 9"
+      "knowledge_point": "英语跟读 9",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86b6e52285d8c4d00d0eba37eb487a79fc00fb47.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fe09f7658121ef729476148df354863f7f1b757.mp3"
+      }
     },
     {
       "id": 36,
@@ -73,7 +88,12 @@
         "say": "Good morning",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 9"
+      "knowledge_point": "英语跟读 9",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32dc325eef09a7e2d51bd36f1367fe55515562eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f141d7b0a6ca8d0726629677abda7841b8982d5.mp3"
+      }
     }
   ],
   "knowledge": null

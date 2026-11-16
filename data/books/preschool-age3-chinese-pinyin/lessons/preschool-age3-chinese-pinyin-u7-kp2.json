@@ -25,7 +25,12 @@
         "kind": "拼字",
         "word": true
       },
-      "knowledge_point": "拼字 · 第2课"
+      "knowledge_point": "拼字 · 第2课",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/b9/b91fac808bdeb79ced0ea6af49c3c4c6883a4b6a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16e9a1ed02bc9778b049446e0a8088c05b4c299c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b563d68d1cc9efae39cff673c3b63d7f50743f9.mp3"
+      }
     },
     {
       "id": 37,
@@ -45,7 +50,12 @@
         "kind": "拼字",
         "word": true
       },
-      "knowledge_point": "拼字 · 第2课"
+      "knowledge_point": "拼字 · 第2课",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/2d/2d4e3b70d0ee45e608e389be1c82a00fb9041bae.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad1fde97d04b7b31897965522ee06a98ec0c74d5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2ac9563232d9c3d0a3ed4591e3a943d373cdaa4.mp3"
+      }
     }
   ],
   "knowledge": null

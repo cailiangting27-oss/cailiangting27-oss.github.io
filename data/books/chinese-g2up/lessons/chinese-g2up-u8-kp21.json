@@ -16,7 +16,11 @@
       "question": "树上的小鸟（____）地叫着，好像在唱歌。",
       "options": [],
       "answer": "叽叽喳喳",
-      "explanation": "小鸟鸣叫的常态拟声词是叽叽喳喳。"
+      "explanation": "小鸟鸣叫的常态拟声词是叽叽喳喳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6490fdcd5b728123a6658f3be69ec292aaf642f4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4abed7bbc9475b31565aea945c05c21c46ac34d6.mp3"
+      }
     }
   ],
   "knowledge": null

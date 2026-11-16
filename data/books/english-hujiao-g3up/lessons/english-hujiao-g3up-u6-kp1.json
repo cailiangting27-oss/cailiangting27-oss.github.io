@@ -21,7 +21,17 @@
         "I'm an pupil."
       ],
       "answer": "I'm a pupil.",
-      "explanation": "身份前加 a。"
+      "explanation": "身份前加 a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc5608c9d5bd17038b2080465180d80486ed8400.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8552cd985dff5dd089cd460d3cbb58e9ef5f0481.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f5c8ae3c3385b3908c4f347f5348622c07ba463.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe320ccb33f333768ebf5db9df15a0d3c1b6b80b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/107943baa6f21aea68357f28461c034dcddf6749.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32cbe48412069295c8b93029ef0a30b79a3ce071.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "I'm 是 I am 的缩写。",
       "options": [],
       "answer": "对",
-      "explanation": "缩写形式。"
+      "explanation": "缩写形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a86c9c0fc3c6979063daff893742971a43e5867a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/353badb78096484b7642c642659314d95a7e3330.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "I'm 后漏掉 a：I'm pupil（×）。"
     ],
-    "tips": "职业/身份前加 a。"
+    "tips": "职业/身份前加 a。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/16/16b2bc88fcb8886974b96374b8a4c68b430292aa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/16/16a7f0e30d66989a450ee96f7740e7f7524d54d1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/22/2254e638c9024245c385f48f272fd84e9a9434b0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/42/42b0e5e556e5eb7262c59e8fde255b156a86e4dd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/df/df2f8c5420b7d0f23f6ac9bf4b43ffe3ac2522b6.mp3"
+      ]
+    }
   }
 }

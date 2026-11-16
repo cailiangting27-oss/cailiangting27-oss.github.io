@@ -16,7 +16,11 @@
       "question": "《海底世界》一课告诉我们海底只有动物，没有矿产。",
       "options": [],
       "answer": "错",
-      "explanation": "海底还有丰富的矿产资源，如煤、铁、石油等。"
+      "explanation": "海底还有丰富的矿产资源，如煤、铁、石油等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e59e9fd80666da89af58c1a85095d4b2266b7b93.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b13de0e4516e7cb91f9373ad5ac6b71ab90fb4a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“诱人”的“诱”部首是“言”字旁。",
       "options": [],
       "answer": "对",
-      "explanation": "诱是言字旁，本义是引导。"
+      "explanation": "诱是言字旁，本义是引导。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edadb717c85ef5db730e5c742f9a62df0370ba94.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c46b7112305118351d2a100788b85fe30c586c8.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“你用水中听音器一听，就能听见各种声音：有的像蜜蜂一样嗡嗡……”这是设问句。",
       "options": [],
       "answer": "错",
-      "explanation": "这句话是陈述句，包含比喻和排比的意向，并没有提问。"
+      "explanation": "这句话是陈述句，包含比喻和排比的意向，并没有提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5df656978012e19b35e48a8ed40854927d49112.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1b4bf8511807f9fcc88f0309ed0f7c0938bf288.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "《火烧云》一课中，“火烧云”是清晨太阳出来时天上的红云。",
       "options": [],
       "answer": "错",
-      "explanation": "火烧云指的是晚霞，即傍晚的云彩。"
+      "explanation": "火烧云指的是晚霞，即傍晚的云彩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c3a6bf25beaddd1f0c4985b478d5f1c01474eb1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a4a82cec802bbc1eb9cd94ef45310634c8c2050.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "温度"
       ],
       "answer": "动态和形状",
-      "explanation": "“飞行”是动态，“各种形状”是静态描写。"
+      "explanation": "“飞行”是动态，“各种形状”是静态描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a8c72374293054444018e9d3601e33e1e004672.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f24405ecf554e91180dc808f882651af7330749d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b12f1daaeca8d8fd0ae33b483ca13093272dd23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3bea9efb1b9edf6ac397d8011e28e0e8a507cf3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/8297a80a980d6d220321e5f47fc2d0ab9f9b5f55.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "猛烈—剧烈"
       ],
       "answer": "奇妙—生动",
-      "explanation": "奇妙指稀奇，生动指鲜活，含义不同。"
+      "explanation": "奇妙指稀奇，生动指鲜活，含义不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dbf256f1e6b172d093f459a853682197ccaf356.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0868874c4a8ad72f7b202aab30bc9ac5f60c63a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2529ec77d20de20c6cd569a3f3eb62f00dec0596.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3aa535bbbc70cc04a9a93bf9d1a9af2c776a0764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a829b89e32b1b26caaafca53a52d5b203fde6cea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64ce820564b6b9fa36f8166ac9c3a7e4452334f3.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "列数字"
       ],
       "answer": "作比较",
-      "explanation": "将鱼的速度与火车的速度进行比较。"
+      "explanation": "将鱼的速度与火车的速度进行比较。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b60083c2a8c8818f025b9793c17bf1552c75bc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c53a0e123a05cea187c233b0829222aaf727aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/241d9edaf6a343a8009472eac44e6904a1ad4e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a0abc427a9c30611db8cc7983f75ef3734942b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af2f709edb1699008b0015294973c1db7af52339.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a487220d063eff10dbffb9ea6564bd856da53ee0.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "陈述句"
       ],
       "answer": "反问句",
-      "explanation": "表示肯定的语气：你应该能看见大地的珍藏。"
+      "explanation": "表示肯定的语气：你应该能看见大地的珍藏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ed6a7367315e839505615db1e0fda2c172053ea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c9f919d9abbd163c27c6cf55d826c8062fa59e93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62426ddf1d08cc23870db41ec4ae12506da88a9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283f1510cc8d694184bb229fbf46f334410c8aab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7a5a4166e361357b9c3e17afb08d04a584db935.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43197b8ca778adb68f42286e9114a138fbf8b1f6.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "静寂"
       ],
       "answer": "物产丰富",
-      "explanation": "列举多种矿产体现物产丰富。"
+      "explanation": "列举多种矿产体现物产丰富。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22e6eb03b905c26092a0a8606344d57531de36e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d6bef291d0089379719fd42e876dc70b04e770d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9512521370355ed1a2d47bdb409638bf6abb7e16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/627037fba35978d0253a30c85c9785e66ecdf41d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d27e8b69308f0cae9adbbb7a56a4e1c9c7a3d6e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4eeb9f6d0eddcd68c251af639e7285d8cf48982f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "愤怒"
       ],
       "answer": "忧愁或寂寞",
-      "explanation": "“欲断魂”体现了诗人在雨中孤独、悲切的心情。"
+      "explanation": "“欲断魂”体现了诗人在雨中孤独、悲切的心情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3fcb1eb5c42098eedb19c803c65e0316860e358.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6cf9812b9a6ab0c4ce12638a56e04d6f0c51c5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b11dcc117ebe0132601e18a0fd1e07458c520f95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f81f62fd857fc4e9ec192abc102deb8d226284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afa04bf5847221f526265f5da885911f3b2977d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9053f19d84e286e4e692a0f9ef933a0aee1d97ca.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“呈现”的“呈”字一共（___）画。",
       "options": [],
       "answer": "七",
-      "explanation": "呈的笔画为：竖、横折、横、横、竖、横、横，共7画。"
+      "explanation": "呈的笔画为：竖、横折、横、横、竖、横、横，共7画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81ed5b89b303408c8fba4f0b8d642aa8c70bf774.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81aa11319317a9bd80152ad98e693f0a43cdce39.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "天上的云从西边一直烧到东边，红彤彤的，好像天空着了（___）。",
       "options": [],
       "answer": "火",
-      "explanation": "火烧云的命名来源。"
+      "explanation": "火烧云的命名来源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c2a579d6950038c593422c43c16ef3f33430838.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb34d714487101acbbb6d51d41ea2cb85516f992.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "yíng"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "蜡-là，跪-guì，秒-miǎo，盈-yíng。"
+      "explanation": "蜡-là，跪-guì，秒-miǎo，盈-yíng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b76d317ae50e5d4aebacff306582b37690fa0538.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a8231fc8aca7cb5919096989b4ee5da593183df8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edd4bb8ad04fab377ed790db83b1d87c50255989.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb6aaba1a1caacebb6186e0ee69665ba977c6670.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cb88d61c3c1d2cc3f2854caab6b259f8ff5ea24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c17760c9c89a0bc41d1f3a6184df4df70d48efd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6814a26705e341106e6c774b711c6ef4a9637ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/989190ed01bb48976068b053137d4218887058b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b763296ec2128c77ef1d119a401a42764385f1b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2c9c2bbeccb78c558036a36e52ee4c720c07feb.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "黑暗"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "一支蜡烛，一团火焰，一片黑暗，一只大白狗。"
+      "explanation": "一支蜡烛，一团火焰，一片黑暗，一只大白狗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52d991754f32564f2f3306ec76a6a1de606894fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a0c4a814ce118da9cdf9e7427513806b122e8aa1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0fc7e2634f02fb87cf55788f8d401ea19bcb779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7ced59ff79923e0779143fac22c4e0ed164f866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2a0b197c2318ecf79e535dad125878f9916acc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60e2e501a8e459e408354104029e8215cf45bd92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86967ebb4eb5476bf23ea0f9b36af29d0984bf14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d6bef291d0089379719fd42e876dc70b04e770d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71a081d8d72aaa0488ee1d18a603070b03e9977f.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "一片"
       ],
       "answer": "那是,天空中的,一片,金灿灿的,火烧云",
-      "explanation": "这是标准的描写句顺序。"
+      "explanation": "这是标准的描写句顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8158fda1dc744ebfa9bab2f618ab56d4a24431c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f4272245e55f44c1913b1480334594744d47174.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472872c4d54dda684316f825a0091b19c9aedc98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b85d464af1c59efca0adf0c717bffdb16422289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aee409621642dd7433a2c30045d367d582af61e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7ced59ff79923e0779143fac22c4e0ed164f866.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb9e95609c3f7beb3f6259fb4455f481bf02b02d.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "do"
       ],
       "answer": "doing",
-      "explanation": "做武术的表达是 do Kung Fu，在 like 后使用 doing。"
+      "explanation": "做武术的表达是 do Kung Fu，在 like 后使用 doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5eeffcce5061f2efef99159db8bf895a54fa3714.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f15fd675d55b55f870ff67b0b6e7d2f25dc4cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/269be84bbfe8c0ee94171922f6c740dea2f995b8.mp3"
+      }
     }
   ],
   "knowledge": null

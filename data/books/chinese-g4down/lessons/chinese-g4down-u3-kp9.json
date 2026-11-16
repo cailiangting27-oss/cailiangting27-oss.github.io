@@ -21,7 +21,17 @@
         "地面上有很多积水，踩着很湿。"
       ],
       "answer": "赤着脚，携着手，踏着青草，采着露珠。",
-      "explanation": "出自戴望舒的诗，语言生动富有节奏感。"
+      "explanation": "出自戴望舒的诗，语言生动富有节奏感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d08ba30791c19979e9c714a31ad1e01db4d7783c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/4473c17f1fc0b649da753c0f200311affda09660.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fad30d7423a0b1444b481fd3f5b96ae0ad4560a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3ae0d2e99b23001e8d1458f460d41025f02b8d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a93e25a2bca244ff5621aeeffaae938c1b0377ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6be249b908b097574d884795cb0941b81b369b4a.mp3"
+      }
     }
   ],
   "knowledge": null

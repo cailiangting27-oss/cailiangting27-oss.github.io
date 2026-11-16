@@ -16,7 +16,11 @@
       "question": "'Jan.' 是 January 的标准缩写形式。",
       "options": [],
       "answer": "对",
-      "explanation": "January的缩写是Jan."
+      "explanation": "January的缩写是Jan.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a02ea7ae5a75df1c9374fb4d6064596d5c629fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fdfb5a8aa4f01ef9ea2a7395ac19bac7ff40bfa.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'September' 的简写是 Sep.，且首字母不用大写。",
       "options": [],
       "answer": "错",
-      "explanation": "月份及其缩写的首字母必须大写。"
+      "explanation": "月份及其缩写的首字母必须大写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3ec15b7ab1543f97dd680a48763b4fed04b0ec2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52b8c72eaea80739a21122ec03d5944dd47d4eb1.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "May"
       ],
       "answer": "March",
-      "explanation": "二月之后是三月。"
+      "explanation": "二月之后是三月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/315e6f4324d1dddf474715c0a5efd2731795f449.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a22d73d336abd6281d4dd71080220a230cb79de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/433632ea5cd64cd163c3a390d5e531d33da3c5e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0393902db1f516ef5f95f6830938558a88fb23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c94f479833c5d401cffdfa7afe6c9c2d56448019.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36183a7d11226423a3ef2c054a2898ca4e281516.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "June"
       ],
       "answer": "February",
-      "explanation": "寒假通常在二月或一月。"
+      "explanation": "寒假通常在二月或一月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a87674c1efa3be2f4fa35e8ff393920c36e7d7eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3a35ef85f22d508f90171bdcb2e6d820731d20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df97a42549e5c0e1753b985126565531cc9f3c56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69d97c5797dc7d211aaa4e9229db5c8466d4edef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9db906761699b31567727716eaa6fd19ae5f5d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ed30cffa44a4a472fa3a02835d19eb5cf407e32.mp3"
+      }
     },
     {
       "id": 8,
@@ -75,7 +103,17 @@
         "sep."
       ],
       "answer": "Oct.",
-      "explanation": "十月的缩写是Oct."
+      "explanation": "十月的缩写是Oct.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28a20ea19bb67bf9ed19d6e3c07e68b149da415c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb769c2f3a24ef05af56c60b022bf1f98356e542.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b04658d44490b33bce73155dd7c4248a3a5b60c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0d374773f2b4f8a236769ab2f063cbd3c75c9b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c180773472029034d7b2d6cc13b3310895fc0f0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b432256d5f100c6ffc15b6d71b43b7253542859.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "June"
       ],
       "answer": "May",
-      "explanation": "母亲节在五月。"
+      "explanation": "母亲节在五月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd5ec37d7c944eb774ff0a96eb682c2e0206e46f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/433632ea5cd64cd163c3a390d5e531d33da3c5e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0393902db1f516ef5f95f6830938558a88fb23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c94f479833c5d401cffdfa7afe6c9c2d56448019.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9db906761699b31567727716eaa6fd19ae5f5d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad89cf8652240e6d29b4741ff28ead28e1453cef.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "The first month of a year is ________.",
       "options": [],
       "answer": "january",
-      "explanation": "一年中的第一个月是一月。"
+      "explanation": "一年中的第一个月是一月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a33b5f85d7c489edfc461215a94af349dea2782.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b711c53322ea6da8a27ef191489f81e38c6d5741.mp3"
+      }
     },
     {
       "id": 17,
@@ -113,7 +165,11 @@
       "question": "The month between May and July is ________.",
       "options": [],
       "answer": "june",
-      "explanation": "五月和七月之间是六月。"
+      "explanation": "五月和七月之间是六月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b8fd08dc7cad6c6b906c945e7590812fb3e39ef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a01b695a107d1573312c27876c3bb253561020f.mp3"
+      }
     },
     {
       "id": 20,
@@ -133,7 +189,21 @@
         "十二月"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "April-四月; August-八月; December-十二月; July-七月。"
+      "explanation": "April-四月; August-八月; December-十二月; July-七月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab25a443fad3b6387fbea20903253bb3ebab7032.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a0393902db1f516ef5f95f6830938558a88fb23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69d97c5797dc7d211aaa4e9229db5c8466d4edef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65640c6577c9c72497525e656127b5bd1deb6f85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df97a42549e5c0e1753b985126565531cc9f3c56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/384f3abedb37b20791c7de0b866612006bbd1139.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03ce1d5613e8fd4b131aea7cefdc0b314179ea4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfd42b9c455a14b2315dc35ff2643260550445e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37b5ae5f0edd18fcda93692a1ac39de37b5b866b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d79c54524759d2d08892540f254d7d31904970d.mp3"
+      }
     }
   ],
   "knowledge": null

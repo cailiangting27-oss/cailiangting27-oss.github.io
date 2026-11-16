@@ -16,7 +16,11 @@
       "question": "水在极低温度下会变成冰，这属于水的形态变化。",
       "options": [],
       "answer": "对",
-      "explanation": "水遇冷会凝结成冰，变成固体形态。"
+      "explanation": "水遇冷会凝结成冰，变成固体形态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b036f96353ff9c2036588c7d1e13c60c01793bad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93678b7c7a46e35aa61f2fb046665017bafe5d69.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "雹子"
       ],
       "answer": "云",
-      "explanation": "课文中描写云在晴天是白的，阴天是黑的。"
+      "explanation": "课文中描写云在晴天是白的，阴天是黑的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f949b5480280a0f371c3d916265c12a0094241a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d742a7f9f3600047de1b42fd02804ca59314552.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ea617b5cf83804ff7757e89269f700dce9ba1fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e51682939b6d38a03c1495f8699fbc2afa4cadd5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18b6cbb7f08593cdff794095c289e2a8b8932ad8.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "冲洗道路"
       ],
       "answer": "淹没庄稼",
-      "explanation": "淹没庄稼是水带来的灾害，属于坏事。"
+      "explanation": "淹没庄稼是水带来的灾害，属于坏事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4adfcf39aea2efa42cc5ff44b7df8dc74d4f3673.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6ac84eb0c26351337c20b38f564b4323f079fb05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/009940bac5441df99ab881536afc2a7471066627.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094303c99b9d3c18f6f85c67e978ac91a9331a73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ec2440c61e530ddc04250ddddd8562a6b1b4fd5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a8eeac420c7a10aa5410f2b4861336ddc99e781.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "跳"
       ],
       "answer": "飘",
-      "explanation": "雪花很轻，用“飘”描写最为精准生动。"
+      "explanation": "雪花很轻，用“飘”描写最为精准生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/363c01d9390ad275c249a7b14f561fc091eeef3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c4d004095d514a8710faa3b2821038e02e44dc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6919d5be906e36aa9b9bd5593f3720aca1084eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38f2022b1907c9c1291da28df9e600d4ce44b289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8449cf0cf425dfca043999a69a353762eb3dd089.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75b372b401220978d7598cf811b5e0a53f76b22e.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "我在池子里睡觉，在小溪里（___）。",
       "options": [],
       "answer": "散步",
-      "explanation": "课文中使用拟人化的“散步”描写水在小溪里的流动。"
+      "explanation": "课文中使用拟人化的“散步”描写水在小溪里的流动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01209aa795e8143c7b72212fcdb0ae5dcac7beae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aae703a9efd1cdcd2790fb5655b896c1ba110dbb.mp3"
+      }
     },
     {
       "id": 20,
@@ -95,7 +133,21 @@
         "变成汽"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "白云是汽升空后的变化，雨是降雨的过程，冰雹是硬球，雪花是花朵。"
+      "explanation": "白云是汽升空后的变化，雨是降雨的过程，冰雹是硬球，雪花是花朵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/902fc3f05d987d14d9958fa514d5d58d11f04bcd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a2dcf0894185ceb49506b3d0acc24ecfed58bb9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3016f4032a33a20de67f09c5d6634fae8c0e7c23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d97316c31b95f70ec08e2cb6e83ff184dbfa03d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a81ba94099cf500fb851ab8bb027588cdfb29ab7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06b659a9bca795447b33e257e048a0c8eef38651.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d48ded7bb2249882906b3bbfbb757bb4fa4e5422.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a20abf4fac710e36d86f642f76a017a1ba54f94.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ea0f7881b3055fdd3f4b6af8b2dc701536b16a1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38e8cdb2d1ac7a46e0cd0b3cf26becbcb15392e7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "认为云是气体（其实云是微小水滴或冰晶的集合体）",
       "无法区分“由于气温降低”产生的不同效果"
     ],
-    "tips": "画一张水循环示意图，标注出对应的动词（落、打、飘），帮助记忆不同形态。"
+    "tips": "画一张水循环示意图，标注出对应的动词（落、打、飘），帮助记忆不同形态。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/66/6614913f2013482370f05a3f7c1c6dd58ad36544.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/97/97a618557b1ca8da3e41520405396ff3d45ba567.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d5/d5a4eabcf5cf41fa95bf0811ff648b53292ce29b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/ab1e1f0d41ca5f5a73c3a2df336d8d7af7f4f16a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a3/a3deed9f03e095ea56e83b35847730d94066f15e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b1/b13fb19a2d4fcef900cb0caf9cbcd50a080683e9.mp3"
+      ]
+    }
   }
 }

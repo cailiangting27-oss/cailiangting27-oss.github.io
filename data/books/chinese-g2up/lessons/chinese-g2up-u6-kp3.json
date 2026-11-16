@@ -16,7 +16,11 @@
       "question": "“他在地上铺（pū）了一层厚厚的红地毯。”这句话中“铺”的读音是正确的。",
       "options": [],
       "answer": "对",
-      "explanation": "铺作为动词，表示展开放置时读pū，如铺床、铺位。"
+      "explanation": "铺作为动词，表示展开放置时读pū，如铺床、铺位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35b4ef0ccc1dc56100ef4f97efa02f878dd51db4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea585f313d10b5e8544a823695ed469fd8d37abf.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“好客”的“好”字读音是 hǎo。",
       "options": [],
       "answer": "错",
-      "explanation": "“好客”表示喜爱，应读四声 hào。"
+      "explanation": "“好客”表示喜爱，应读四声 hào。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/feb382f3551f12ad1efa5006a219cf86697d3ef3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f2ee608cccdde4d51c5dc3d6364ce227b2dd2f4.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "教书(jiào)  重点(zhòng)"
       ],
       "answer": "盛产(shèng)  铺路(pū)",
-      "explanation": "盛产读shèng，铺路读pū。盛饭应读chéng，重复应读chóng，教书应读jiāo。"
+      "explanation": "盛产读shèng，铺路读pū。盛饭应读chéng，重复应读chóng，教书应读jiāo。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69c9ad99fe4782a23c3426b6e06100324ca24008.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/643e5edb0fe5c7f118fd6d9ca6375d3bb2e6cd73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45317991a9645338736c3eddc64cd7648650fd25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952f2913e5a6aa6b7c89959d668178f6d73b784b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0757d59d485b6ee05d21e73b956a6bc4b6938108.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b804853f25df06043c162ecc056a657cf62f67e.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "zhòng zhòng"
       ],
       "answer": "chóng zhòng",
-      "explanation": "重新表示再次，读chóng；种下是动作，读zhòng。"
+      "explanation": "重新表示再次，读chóng；种下是动作，读zhòng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/474735f9bc877aac898984d20a786f8787518121.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21dcabc329d080c28022bd82d6cb94f7cc3e4e78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04c668436232c68d388c912371211376a5af2309.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29ac71948686571f95f148a9c7da4e2838ecec6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a443dfaf603537531b0e09cd8a2a5d62d7637ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6ec2b87c7efd18754e7eb7688cbcfca7d249e81.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "盛产"
       ],
       "answer": "盛饭",
-      "explanation": "盛作为容纳、装入的意思时读chéng。"
+      "explanation": "盛作为容纳、装入的意思时读chéng。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a079501e62ba26006932efb0af63dd707bdd8e68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9a63f63171991cd15968248d40980c1ea7d8df8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/217088e461963e225c1e6f8473220348075d11b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6f900674d47eaf821b2f7f0057d66a170f302fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/458f469c7f9ec995095909003062eb93731b7709.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e089735d69c89ce4bf2ed136fd260fa6277e901e.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "jiào jiào"
       ],
       "answer": "jiào jiāo",
-      "explanation": "教室读jiào（名次），教学、教书读jiāo（动词）。"
+      "explanation": "教室读jiào（名次），教学、教书读jiāo（动词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6c46903a6707745a55c4686a16eaf36b6b78c3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e05d23a3f7e10a8e539cd9926f8603c4aa6c36b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72f36e159149930d1166929898c98151b7343b5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c654c1246d8980e6f8d40ffb96234023e8283d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e239f98cb42984af66c078b4f4a5971a6839970.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f468ae5ef31bd6b51368feab5d68cf9d2be35c4f.mp3"
+      }
     },
     {
       "id": 17,
@@ -102,7 +150,11 @@
       "question": "大家在山坡上（___）下了许多松树种子。 (填一个动词)",
       "options": [],
       "answer": "种",
-      "explanation": "考察多音字“种”作为动词时的用法。"
+      "explanation": "考察多音字“种”作为动词时的用法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b6eda5de8b99bedc1eab086b44c31882f01c84c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3e7ca61860e97fc0a6cb8cd4140a7766073a1d5.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +174,21 @@
         "绿草一般"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "词语颜色形容对象的自然对应。"
+      "explanation": "词语颜色形容对象的自然对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f5dcf102d062c6721f677894ba47e942e07a6df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f64fd492ff95c87acae350fc4c927b9909732705.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a153199d5d3c91a34d21d6f7ff02fc925ea954c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0199334b94b7d70e283bc96b622c6cfdf3e86ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4174f47c65c8affa812e8c9209c84373aef23c0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc14aabf4d3cf1e6f2aa72af293685b6187e2528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7288c8406ef4483a4c3c20b8384f040589e1e446.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cacfb72ff2757996aad427cb01080d0222309fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/764c6817f81a455f2a319939a3dac6a7243a947d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cee09d67c5ceee3d4229ea51c4705d58102bc1ec.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "习惯性读最常用音，如把“好客”读成hǎo",
       "在具体语境填空时，能说对却写错音节声调"
     ],
-    "tips": "建立多音字本，每个读音下面记一个最典型的词，通过记住词来记住音。"
+    "tips": "建立多音字本，每个读音下面记一个最典型的词，通过记住词来记住音。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c8/c8f38058650492b250dc02baa75cc6d2104918fd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fb/fb5117705c5c73fa54ac54b233c9f32c91839a21.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ef/ef9867682e828cb9519356a98fd834e4a15ee811.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/68/686b02fdba0c7d1a0fdba6096b3583d2bc5352a9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/db/dbe2c562e5d9c38f985ea67c7a4ffb5cb6308725.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a1/a149cbf36cb0111171b5387122ee2aa84d18e331.mp3"
+      ]
+    }
   }
 }

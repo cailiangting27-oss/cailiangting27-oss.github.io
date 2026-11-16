@@ -16,7 +16,11 @@
       "question": "1角比1分面值大。",
       "options": [],
       "answer": "对",
-      "explanation": "1角=10分，$10 > 1$，所以1角比1分大。✓"
+      "explanation": "1角=10分，$10 > 1$，所以1角比1分大。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fb791b64050c55cf919e39ce21d8bac88938ac7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a74cb3bf73c596dfb836b7f07c0c66e0a9af1692.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "一张5元可以换5张1元。",
       "options": [],
       "answer": "对",
-      "explanation": "$1+1+1+1+1=5$，正确。✓"
+      "explanation": "$1+1+1+1+1=5$，正确。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbc7a5fec8abae6a6c6af0a7326459d8488348ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/344483e781d094fcf92c840d66fb79b8c410e816.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "付了5元买4元5角的东西，应找回15角。",
       "options": [],
       "answer": "错",
-      "explanation": "5元=50角，$50 - 45 = 5$角。找回15角是错误的。✓"
+      "explanation": "5元=50角，$50 - 45 = 5$角。找回15角是错误的。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f08dbe5c0f971c041cb4a0f6cc97b5e9f9ad7b78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bd5df54ebf130150d7dea4e4fb41f1141f69e3c.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "人民币面值最大的是100元。",
       "options": [],
       "answer": "对",
-      "explanation": "在现行人民币中，100元是最高面额。✓"
+      "explanation": "在现行人民币中，100元是最高面额。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afe4d72cc4d156c6ee08d6f6832992318dcc9bf8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/8580490b1a91ee51d732a5809943e4dd378ba442.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "少一些"
       ],
       "answer": "多得多",
-      "explanation": "3元=300分，$300 > 30$ 且差距较大。"
+      "explanation": "3元=300分，$300 > 30$ 且差距较大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4eb8c31efc1812e016219b644c63cbdbd84681eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf17c55ed3373571d57d3df3eb9c30ec06972fff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21223f208e95479d4106951e9cdb2f25d0565e03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58683e4561e32fba674431efc26711e81be72ab4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53980c1b05ee122739421b9c886aedcd3b33ef57.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "100元"
       ],
       "answer": "1分",
-      "explanation": "目前1分、2分、5分几乎只有早期硬币。此题基于教学常识。"
+      "explanation": "目前1分、2分、5分几乎只有早期硬币。此题基于教学常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31b54659c3c632d1ba1a31656bdcc6827a452c47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b449f4fe9d59bcb5e0b8329a77220d6e26c2983.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93c6ed1e1c1ae2fbe3c2774fcd9339f3af09bb49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58891343a0c02ea1e4bb8d9fcd54ae6b98d979c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1357a6c46413952162ad7ff83cab7b8f7fbf1dfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ede2c96d0e75ea514454dd0d661dd0ea83f1be74.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "500元"
       ],
       "answer": "50元",
-      "explanation": "结合生活实际，书包面值通常在几十元量级。"
+      "explanation": "结合生活实际，书包面值通常在几十元量级。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cebe696b224295ede1fff5d89f0facf091b22b2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/93c6ed1e1c1ae2fbe3c2774fcd9339f3af09bb49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38ed8fba6611e6754c4c0952ac49601f00a21836.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9230f3aaeb520b83cee1ae255e34f6c4a8c50cfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/883982dfaf9ce2ec9470b69bc21567203b76022f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24f28345f2603f18c20135e818ee10482bbdd3bf.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "1元"
       ],
       "answer": "2角",
-      "explanation": "一共用去 $3 + 5 = 8$角。1元=10角，$10 - 8 = 2$角。"
+      "explanation": "一共用去 $3 + 5 = 8$角。1元=10角，$10 - 8 = 2$角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f851a0a7281c367d52bcf239fff47fe520d86e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a28ccacaf0e4f78308b0819c4a41d8a5a02258d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14682c7b243aac497b3abe7348f54cd9ebdce915.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32fa6e64ecd9ff83e35d04417d43d837525961b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58891343a0c02ea1e4bb8d9fcd54ae6b98d979c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef5ad02d0acf0e5257c99363e2b838db6694d5a.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "45元"
       ],
       "answer": "50元",
-      "explanation": "$35 + 15 = 50$（元）。"
+      "explanation": "$35 + 15 = 50$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff9b0d6fb12c4c5376c6437202b4684a8d43c2f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71b977e8dc850b922f2ec55e0a003eccdbd6660d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9230f3aaeb520b83cee1ae255e34f6c4a8c50cfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/327e9503d0ccbb2e52ee8e3ff2946abfbd8bc955.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21bfd62c41febe3e2617f5adcaf6d4a888071ab4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba5a36e07e8058a9fa203d1ba97310d4886292eb.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "1元"
       ],
       "answer": "8角",
-      "explanation": "$3 + 5 = 8$（角）。"
+      "explanation": "$3 + 5 = 8$（角）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2ed84b0ccdc03705cf15c56d0a50788fa2e8eac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f724c47a295814a8ec034cc1067a8e07d99248e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a28ccacaf0e4f78308b0819c4a41d8a5a02258d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c35d9933fc47878d29dd37248249ac1bd5ec5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58891343a0c02ea1e4bb8d9fcd54ae6b98d979c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c206640b4f4053ff4351d93994963036e997cd6.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "7分"
       ],
       "answer": "7角",
-      "explanation": "10分=1角，70分=7角。"
+      "explanation": "10分=1角，70分=7角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/520b8769fea7008744e2c8067b8475127720bc23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/0657fd761a7fcc63b55b86eeea800b03d4ec9fb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f2de916e02d0dbf00c4132fe28f78ca513aaf7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99d8649afda7ea01383a9597f7587f5757af9de9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79f7d5b6f55bf689b710d45680d928229b1f8e95.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84a9fe56522b4d3f87332b343859955a8ab21a03.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "45张"
       ],
       "answer": "5张",
-      "explanation": "4张是40元不够卖，5张是50元才够买。"
+      "explanation": "4张是40元不够卖，5张是50元才够买。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddfec26d1e39160e526cdc7ed181d7cadeaf328c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e8926ede03b0a016c8c31829110698a0b4c22c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac355fae3e2d0cfd21493907ed28c164e4a9285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0604cfb81cfa3dd29dd27600b8f2e28de29c22e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c07651c268250f3a3fa6d9e4f1f3f8c26efccace.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b11501d9f7f6723df3ad264576737a45def291c2.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "5元8角 = ___ 角",
       "options": [],
       "answer": "58",
-      "explanation": "5元=50角，$50 + 8 = 58$角。验算：$58$角拆分为50角（5元）和8角 ✓。"
+      "explanation": "5元=50角，$50 + 8 = 58$角。验算：$58$角拆分为50角（5元）和8角 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ed97bd7129a62617f70a18b8b6f17f0a5ecd9f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c3121a73b49511ba49c7f44a1230690e1e9056f.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "40分 = ___ 角",
       "options": [],
       "answer": "4",
-      "explanation": "1角=10分，40分里面有4个10分，所以是4角。验算：$4 \\times 10 = 40$分 ✓。"
+      "explanation": "1角=10分，40分里面有4个10分，所以是4角。验算：$4 \\times 10 = 40$分 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b14eac37d5ebaea65284b3391c848ccb72d3907c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb3779db274f8588ba5ddde5f5ac2485a041011c.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "70 - 20 = ___",
       "options": [],
       "answer": "50",
-      "explanation": "计算：$70 - 20 = 50$。验算：$50 + 20 = 70$ ✓。"
+      "explanation": "计算：$70 - 20 = 50$。验算：$50 + 20 = 70$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cce9a89f5dcce4a676ea2545472ff93c545a73ed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de2b0aeaeeca508aa93256b8e5f61fec2939ba4a.mp3"
+      }
     }
   ],
   "knowledge": null

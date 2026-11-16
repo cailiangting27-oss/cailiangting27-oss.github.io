@@ -16,7 +16,11 @@
       "question": "笔算两位数加法时，应从十位加起。",
       "options": [],
       "answer": "错",
-      "explanation": "笔算加减法都要从个位加起。故判断为错。"
+      "explanation": "笔算加减法都要从个位加起。故判断为错。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3c75bdbc4b41607a03f5e08a8a7246d55eb1373.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27e1c2041a1003d10e6b62fc65b71e1c9af85a68.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "计算 $36 + 45$ 时，个位满十向十位进 1。",
       "options": [],
       "answer": "对",
-      "explanation": "$6 + 5 = 11$，个位满十向十位进1。故判断为对。"
+      "explanation": "$6 + 5 = 11$，个位满十向十位进1。故判断为对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f9ce64d4b1b13d8410f4982bd6c87ff602e32c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7c6237f85411b9d259423d8efad5e392ba43448.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "62"
       ],
       "answer": "63",
-      "explanation": "$28 + 35 = 63$。验算：$63 - 35 = 28$。"
+      "explanation": "$28 + 35 = 63$。验算：$63 - 35 = 28$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a0b69b58e9b289a58a350f8ec994fe6b13541a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b76da3e608d34edb07244cd9b875ee86906328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d430d2c77dd1f7acefaa8ea173f39643851aa69.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "0"
       ],
       "answer": "2",
-      "explanation": "由于十位是 $5 + 2 = 7$，若和的十位是 8，说明个位进位了。$\\square + 8 \\geq 10$，$\\square$ 最小为 2。"
+      "explanation": "由于十位是 $5 + 2 = 7$，若和的十位是 8，说明个位进位了。$\\square + 8 \\geq 10$，$\\square$ 最小为 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc3fb1034b798b5f933052e00ec116ef0e510fc0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f4731be80378ff3bf90e3802657f37e50204351.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "8"
       ],
       "answer": "8",
-      "explanation": "如果是 $46+28=74$（七十多）；如果是 $46+25=71$；但看选项 $46+21=67$，$46+23=69$，只有填 8 满足进位需求。"
+      "explanation": "如果是 $46+28=74$（七十多）；如果是 $46+25=71$；但看选项 $46+21=67$，$46+23=69$，只有填 8 满足进位需求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9b9b3834db22e1fd206486d6d46b44d01680e47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20d35a473ca1854768e334ca71dcb426a81a3ec8.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "小明有 16 张画片，小芳有 24 张画片，两人一共有 ___ 张画片。",
       "options": [],
       "answer": "40",
-      "explanation": "$16 + 24 = 40$。验算：$40 - 24 = 16$。"
+      "explanation": "$16 + 24 = 40$。验算：$40 - 24 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2c63d046e379b1127ee18a0513dc02238edc92e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05c0ef9bff409d9da8a561de25b3bf2daccb9716.mp3"
+      }
     },
     {
       "id": 22,
@@ -97,7 +139,11 @@
       "question": "$58 + 37 = ?$",
       "options": [],
       "answer": "95",
-      "explanation": "$58 + 37 = 95$。个位 $8+7=15$ 进1，十位 $5+3+1=9$。"
+      "explanation": "$58 + 37 = 95$。个位 $8+7=15$ 进1，十位 $5+3+1=9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6aaa955cc0d11440c365c0df31002d28f9b12824.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44ea26f7b6f872117dfce3c15c3ec09efeb89763.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "忘记加进位1",
       "数位没有对齐，导致错误的把个位和十位上的数相加"
     ],
-    "tips": "写竖式时，进位的“1”建议写成小字标在十位右下方，防止漏加。"
+    "tips": "写竖式时，进位的“1”建议写成小字标在十位右下方，防止漏加。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fb/fb8d242c2c999f6d294579b6d39fa2aa689a5b61.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/32/32b12661e22dff5906a33bf110192317aba5ddf9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ae/aed76d8ec9856125a04a4ab13c63c455d6b369c1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ed/edb91485147e0f544d2376686877c0f6723e1345.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/cf/cf729245a3cfcd3936e324ee47965d5f65b80604.mp3",
+        "https://api.clthuanxie.cn/cc-audio/05/056003676517fb118a90f6c302529ccd877751af.mp3"
+      ]
+    }
   }
 }

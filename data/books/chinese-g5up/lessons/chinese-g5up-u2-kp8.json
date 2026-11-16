@@ -25,7 +25,21 @@
         "只要进攻就能获胜"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "理解《将相和》中相关成语的含义。"
+      "explanation": "理解《将相和》中相关成语的含义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca1969d1e7fa11acbccc4ef470bd1a24f7339137.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3dab9ccd371f632843320718512a8b858ce0670a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a39d042ed3e973e0ed5bc7eead24b52106d89411.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba3a3e9b3cebfc1eb366d06680aba5b055288b8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57771df15e60676ead12e529684011c8cc8134fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/540c94b59eace989024492c1c8f3feeb953ddf00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15abffc1059311122f8a2d4b90f4bfabff09bb55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3efa63328fd6599da1f6d827019c0177b61cc87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/925fe89dd718c70ca89fe853e17f6705efb6b03c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa3bfa5f57dc1bdb8385afa5ea6119347772f967.mp3"
+      }
     }
   ],
   "knowledge": null

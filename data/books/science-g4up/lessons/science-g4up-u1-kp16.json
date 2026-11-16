@@ -21,7 +21,17 @@
         "高"
       ],
       "answer": "高",
-      "explanation": "弦越紧，振动越快，音高随之变高。"
+      "explanation": "弦越紧，振动越快，音高随之变高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba19e71a2dfef72f16f7b3cc858425ccdaa0b36b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/570b65ac6d1c86c8eccd681c5992d0d007913514.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ee259b7f6c09793b0c372030ad09f5eb2eb9c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb4f04a4f926afa5cd3c16fd18ac21306255014a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b096b3f5acd628b9535183af5c243631423a6259.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c754f96d5b3f811e9bf4746a67b999c01f3ed808.mp3"
+      }
     }
   ],
   "knowledge": null

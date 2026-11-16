@@ -21,7 +21,17 @@
         "到处"
       ],
       "answer": "到处",
-      "explanation": "“到处”读 chù，其他三项均读 chǔ。"
+      "explanation": "“到处”读 chù，其他三项均读 chǔ。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0d0cd5801e3ed06f3ea1858b33beb52bd60bbc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f50cba7ad81c7af70233e5ce771888c8cf413dcd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9263e46a010921c116141eed78d28767a6822ed1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57526a5da21e54100d140e32aa3b9948c1b010a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fed21b5085583bcd3c06287db30d7bc133372539.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f49d0c1153428b999d20df571fa993b610b4e9a8.mp3"
+      }
     }
   ],
   "knowledge": null

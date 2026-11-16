@@ -21,7 +21,17 @@
         "With my parents."
       ],
       "answer": "By plane.",
-      "explanation": "How引导的疑问句询问方式，回复交通方式。"
+      "explanation": "How引导的疑问句询问方式，回复交通方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16d993f7c300c342123ebd85d14daff4310a7ff1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/233c6ffcecb29696d7d8bad9596d76356f1dab6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/567a862a25d83f64dbf641b25c3ffe333e30b947.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79ed6ee4515c7a0dbfff48b3976be5c8476e19fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e498574157f1c7797dd597319bcecc2fdd62158a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40a30bce69c79f39c2b46ad51bd6ea3b5a03ef08.mp3"
+      }
     }
   ],
   "knowledge": null

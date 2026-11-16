@@ -37,7 +37,15 @@
         "mousse"
       ],
       "answer": "mouse",
-      "explanation": "mouse 鼠标。"
+      "explanation": "mouse 鼠标。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e05e6832caffca519722b608570b8ff4935b94d.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

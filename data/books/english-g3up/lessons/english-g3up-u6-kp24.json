@@ -25,7 +25,21 @@
         "这么多"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "so many-这么多, this one-这个, how many-多少, how old-多大。"
+      "explanation": "so many-这么多, this one-这个, how many-多少, how old-多大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/747d1d19f7de6a307a2ae191df0167b145dd9040.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20cb32a19605d183e7aabbcaad88a8e73f850e65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac1ebf971f8c3f26f0132d0abb7a249be62a9aba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d34e27686cd4953ee3bd5d089477d4ed109e76b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e08dcce3533bf2b77aee64f203f1680d81124a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df373d21bdf8ea3f52d6317135f69092e4208af5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c999d484a3a2ad686cccc959583e2329884a333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24e2acc5f5123a9c8c7131c429b5a3bb589d4d82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30cb24ac484f632aec2d7a218c3bb3c9a568ea55.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2577ce509d94efd4d87cbbc4b380025e3b8c98f.mp3"
+      }
     }
   ],
   "knowledge": null

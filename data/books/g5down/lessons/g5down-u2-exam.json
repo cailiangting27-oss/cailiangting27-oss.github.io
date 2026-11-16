@@ -16,7 +16,11 @@
       "question": "一个数的因数一定比它的倍数小。",
       "options": [],
       "answer": "错",
-      "explanation": "一个数的最大因数和最小倍数相等。"
+      "explanation": "一个数的最大因数和最小倍数相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94daf1f64d9a2b0b5f73d1977010cd84de58ce68.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42c3593b10789648d11ee45619ffbcf09646a4b3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "个位上是 3、6、9 的数都是 3 的倍数。",
       "options": [],
       "answer": "错",
-      "explanation": "3的倍数特征是各位数字之和是3的倍数。如16个位是6，但不是3的倍数。"
+      "explanation": "3的倍数特征是各位数字之和是3的倍数。如16个位是6，但不是3的倍数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8c7d3b83d78e5ec62401b65173245e0124d8d1c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f91eaf8b822472a8d4aba4039470c7bdc95fee7f.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$n$ 是自然数，$2n+1$ 一定是奇数。",
       "options": [],
       "answer": "对",
-      "explanation": "$2n$ 是偶数，偶数加1一定是奇数。"
+      "explanation": "$2n$ 是偶数，偶数加1一定是奇数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/427f5f41bef938ffacd83922faebbb293bc555cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4723cdff2b4d60beeb37b03bf8d21810c4e8b9c8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个奇数的和一定是合数。",
       "options": [],
       "answer": "错",
-      "explanation": "例如 $1 + 2$（1不是质数）不适用；看质数：$3+5=8$（合数），但 $1+1=2$（质数，若考虑1的话）不成立。规范看：$7+11=18$（合数），但如果是 $1+2$ 这种不是两个奇数的情况。主要考点：$1+1=2$（2是质数）。"
+      "explanation": "例如 $1 + 2$（1不是质数）不适用；看质数：$3+5=8$（合数），但 $1+1=2$（质数，若考虑1的话）不成立。规范看：$7+11=18$（合数），但如果是 $1+2$ 这种不是两个奇数的情况。主要考点：$1+1=2$（2是质数）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d0b4f5ce3d9f23d63a3f58c88a81e14ab58b814.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d508613de5be8e72bd6a015401d99a1e3148ff81.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "9"
       ],
       "answer": "6",
-      "explanation": "2和3的最小公倍数是6。"
+      "explanation": "2和3的最小公倍数是6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb3c38b05b3dc77d8885ad8f662bfa525cf07249.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd26690b9d3605db39410dfde7954c18b89d58fa.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "4"
       ],
       "answer": "4",
-      "explanation": "1不是，2和3是质数，4是最小的合数。"
+      "explanation": "1不是，2和3是质数，4是最小的合数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fddc573aab7a99554063332259a39ae86c94d7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a74eaa466ffa8e076aee70214ca8cf4ed0b4ef7.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "一定是 18 的倍数"
       ],
       "answer": "一定是 3 的倍数",
-      "explanation": "9是3的倍数，所以9的倍数也一定是3的倍数。"
+      "explanation": "9是3的倍数，所以9的倍数也一定是3的倍数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/6461a6523ca0926d08478fa1222aedd86beda205.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0791ec3abc1fa59eca805c0d7fa8dab04e6c94a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d55907e55b18e14fb7fb06f0c37d9a96f0d77a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddc9bf51ef8403e408627bcac8d07bc40e4ca0e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/374518593b9c59e956904415ff3b6bcd556283f9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06cb5a2436bef6c4523eac074ab9a95cd2fca40d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "20"
       ],
       "answer": "17",
-      "explanation": "$2 + 3 + 5 + 7 = 17$。"
+      "explanation": "$2 + 3 + 5 + 7 = 17$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d1a24c2a90e7429d9a4ec7b3a6b62b132198a32.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/686b3662fd5adf5ae83403b8819dc7177bce3fa2.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "共有 4 个"
       ],
       "answer": "共有 3 个",
-      "explanation": "末尾是0或5。满足的有：350, 530, 305。共3个。"
+      "explanation": "末尾是0或5。满足的有：350, 530, 305。共3个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e46ddfcc1b8b7324159ad588bf85341df35c95f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e4159855c0281dd78940237d012d8bb39ca29392.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec0deac284359abe0f594be6a617aaeaf49e003d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a22498a4c589ff2a1dd0e47a12a811ab05c87f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf07426a1fde45221c347ec3b52ac3a0ae9e8547.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae44ee8856a936be693662f018a03db690649d29.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "12"
       ],
       "answer": "6",
-      "explanation": "18的因数：1,2,3,6,9,18；24的因数：1,2,3,4,6,8,12,24。公因数最大是6。"
+      "explanation": "18的因数：1,2,3,6,9,18；24的因数：1,2,3,4,6,8,12,24。公因数最大是6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/4213ed15b6f80bba4acfe9c0ca8221490107d39d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/144f7b29df5683e1e8fc6fedfdc7025b14c73774.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "11, 22, 33"
       ],
       "answer": "12, 21, 51",
-      "explanation": "1+2=3, 2+1=3, 5+1=6，均为3的倍数。"
+      "explanation": "1+2=3, 2+1=3, 5+1=6，均为3的倍数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d2a878a763aee1ac72af265c1eaba8be84afd82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/5303936054e83ff546a9233d2a9695776c68db0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a01b63e5fad950bae41c494586ddbaa3ed9fe47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/688fab4d2e2446cd00935dafe5b9f83c8b6e7c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9fa4ea671358158343d65b3b82285cf0a02d820.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cec2371e6b65533014e0cb2b067391fffe66ce5d.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "一奇一偶"
       ],
       "answer": "同为奇数或同为偶数",
-      "explanation": "偶数和只能由 奇+奇 或 偶+偶 得到。"
+      "explanation": "偶数和只能由 奇+奇 或 偶+偶 得到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75a084831e65ca84ea4c8b24f631f737d733de25.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c6f1072b6b7cb451f66004ad278f906dc16ba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbb420b97e561fa124c8befd992936d02e250ce0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9a7793885092f1e9e4f835620bccb32d09d143e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63581f8452f7641c6408012ebfa72eb62eda6671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/7852833aa54b9524570a8a3cd2f23190a6c134c0.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "20 以内的质数中，最大的奇数是 ___。",
       "options": [],
       "answer": "19",
-      "explanation": "20以内的质数：2, 3, 5, 7, 11, 13, 17, 19。最大奇数是19。"
+      "explanation": "20以内的质数：2, 3, 5, 7, 11, 13, 17, 19。最大奇数是19。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f1c287fc492e0c25e994e896a18a99b92efa4c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb84903d709f9cd10f90003751fddc1921c042e3.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一个数只有 1, 2, 4, 8 四个因数，这个数是 ___。",
       "options": [],
       "answer": "8",
-      "explanation": "因数中最大的是它本身。验算：8的因数确实只有1,2,4,8。"
+      "explanation": "因数中最大的是它本身。验算：8的因数确实只有1,2,4,8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed306bf56264df22723e7d3cb44f238d98fbe2b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d801a705982d27340c85f65c14f2741dd8a1f846.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$84 \times 4 = ?$",
       "options": [],
       "answer": "21",
-      "explanation": "$84 \times 4 = 21$。验算：$21 \times 4 = 84$ ✓。"
+      "explanation": "$84 \times 4 = 21$。验算：$21 \times 4 = 84$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c29cd9a5f73d359e2b8c90aa484b46c31aa98bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6da6edc3af90bb129ca889e3b6d402e75342790c.mp3"
+      }
     }
   ],
   "knowledge": null

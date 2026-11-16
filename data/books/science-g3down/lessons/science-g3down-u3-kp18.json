@@ -21,7 +21,17 @@
         "空气"
       ],
       "answer": "空气",
-      "explanation": "月球是一颗荒漠、真空的体。由于质量小，月球无法保留大气层。"
+      "explanation": "月球是一颗荒漠、真空的体。由于质量小，月球无法保留大气层。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/956bca50a8d33a36ae20771b607d035552e30bf8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/010108fbb92b43eb0fabd223fa84347d4b1d98b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4f18dd7d66ec2e2a0f9f28b0934af98f497deea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc549d5dc2e1749ae5fb91c629259057d4512681.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/279795e711538d0c19e62169c76549edc02d7e67.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "余数"
       ],
       "answer": "除数",
-      "explanation": "在除法中，0作为除数没有意义，所以0不能作除数。"
+      "explanation": "在除法中，0作为除数没有意义，所以0不能作除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f94cb1326bc722fc33e1b64d727dc7cb2ffc5e60.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d84147da8b0c2d15b31efd77e4a2f845ae0cc81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb8e7b2ac44e1c29dd238f29ec388127447e9a87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce413903b80f4852f0312b8c171c599ccd6b851.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edf2d7b21ac26d6f2de340cdb3255ab51ee8cf19.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6037b526fe65fcf0e80986d87970b3045a112917.mp3"
+      }
     }
   ],
   "knowledge": null

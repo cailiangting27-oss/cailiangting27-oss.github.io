@@ -16,7 +16,11 @@
       "question": "“砚、雁、燕”这三个字的读音是完全相同的。",
       "options": [],
       "answer": "错",
-      "explanation": "砚读yàn，雁读yàn，燕读yàn或yān。但在通常作为姓氏或鸟类时相同，砚与雁同音，但形态不同。"
+      "explanation": "砚读yàn，雁读yàn，燕读yàn或yān。但在通常作为姓氏或鸟类时相同，砚与雁同音，但形态不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/937bf54dc2c3147e6fc23ea53286e0ad6d6f00c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4787d65fcf6c6f679a369cdc778957a5a9855502.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“车胤囊萤”讲述的是古代人利用萤火虫的光勤奋读书的故事。",
       "options": [],
       "answer": "对",
-      "explanation": "这是《囊萤夜读》的历史典故。"
+      "explanation": "这是《囊萤夜读》的历史典故。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/363ac9d9ed5960965bb8a81f19c969ddb1070830.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0059fc54b2c302d3da9c45cf32e55487f8a6fb2.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "描写哈尔威船长时，“他就像一座黑色的大理石雕像”运用了比喻的手法。",
       "options": [],
       "answer": "对",
-      "explanation": "运用比喻，生动刻画船长的沉稳不动摇。"
+      "explanation": "运用比喻，生动刻画船长的沉稳不动摇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/494ec7fec92e816b449352956e2d2726194e0961.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c84dc4c09418659b8747ddcc434502aabddd9142.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“火力点里的敌人把机枪对准黄继光，子弹像冰雹一样射过来”是比喻句。",
       "options": [],
       "answer": "对",
-      "explanation": "将子弹比作冰雹，形容火力密集。"
+      "explanation": "将子弹比作冰雹，形容火力密集。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f249f32feff252074308ad80aa4a143e638caaa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0a842047b0dd1721dec2af023735d96997089bd.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "烈火焚烧若等闲"
       ],
       "answer": "平明送客楚山孤",
-      "explanation": "“送客”二字点明了离别的主题。"
+      "explanation": "“送客”二字点明了离别的主题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2835f0b9f18dc7545c73bad78e4ecf6e6b9a71c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67f8102aa1c0574713ff3e6926dde4581cd7f7f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d422053e6c81ea1e62a7d06d4e043379bc851c44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfb37b6045fc92ea4be030afd9d42b49a5ee30d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad028344a9756b0acfd963fdcf285589a345591b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6bebc99769231da09fc9577c229c229e3ac3bc49.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "他的战场经验"
       ],
       "answer": "他的英勇无畏",
-      "explanation": "通过扑向火力的动作，展现出舍生忘死的品质。"
+      "explanation": "通过扑向火力的动作，展现出舍生忘死的品质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b1d256177d2145e9969e1bfeb82fb95c2ac9ac2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e475a469e2ac0bd3c45b6cd86eb55f2fb5657380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87b803b9176951e934a61cc70a05b0efcf06f430.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d79a6c26548d431c8a342dc048db024c997a6f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d712d031a351ddf5fe97426549f00771b7cd56db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8604e289325d2052715e63e0e9d8fbc55514a8d2.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "把自己写得完美无缺"
       ],
       "answer": "通过具体的一两件事来写",
-      "explanation": "事实胜于雄辩，事例能让性格鲜活。"
+      "explanation": "事实胜于雄辩，事例能让性格鲜活。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2acfa353475a99d500d02effbb49aa32740ddcc0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b8d2b2e9e072873e86e90cbe64adc5fc75a328c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b57564ea241a730d765868a373896090a2f8df6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/257dbfd073cb2575cf0aa3ef21eabae42ee76158.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2cdd45429896422f185dd67d9749d050d157ec5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e447a8a6996b794a6d9c8277420d67a2dcc5054f.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "半途而废"
       ],
       "answer": "持之以恒",
-      "explanation": "“持之以恒”形容长久坚持，符合语境。"
+      "explanation": "“持之以恒”形容长久坚持，符合语境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/5932cc1df5a6fdb3707b4feca187c2fc65087c50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e780a83ba9c472b1f2046df645775146fcf8fd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dedf3785a99417aabf93dca0cfe280b0443526a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63275fea3d68da0e8620d6fb592ff394d411ecb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5e5d51ee363ec45269cf2ad2aad1993e300117.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27b91eb727ed939b3800c280a5663206d81a077a.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "心理描写"
       ],
       "answer": "侧面描写",
-      "explanation": "通过描写由于主角以外的其他人和物，来烘托主角。"
+      "explanation": "通过描写由于主角以外的其他人和物，来烘托主角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/3637c7df431b04a26f0a387d43e8304c1eda5963.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/144ecc052deba159f30dc7285293e4a32f4e14bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c657f80b22062a3e86ef506921339dfd649e1236.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7fcc659c1963839dba0a4b902f6535eff51e808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3d568abdf402a96861ccf53684618a13dbbba4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fe9171fa5335807b28e9ad70c0ba7a844b91022.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "援军还没到"
       ],
       "answer": "战斗非常激烈和持久",
-      "explanation": "时间的跨度体现了战斗的艰难。"
+      "explanation": "时间的跨度体现了战斗的艰难。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3a451e3e13cdf7eb69fa1037de3da0797bf959a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f601e2fd7591d2f1d13271b443d72cd33fb9e7ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a24bd939e428ab90eacf5e7fced3a2f9a1ba3ab6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/618f01ebebcd2c2c70e65beb7b2eb64ab7170497.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9462a8a87dd14884f84f22cda3675a8de4c1e46b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/3076acd03a23c2b9873c0257f4f415e5631e98d7.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《囊萤夜读》中，“囊”在这里的意思是名词作动词，意思是（ ）。",
       "options": [],
       "answer": "用袋子装",
-      "explanation": "此处“囊”是动词用法。"
+      "explanation": "此处“囊”是动词用法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/634a7458b6f109b63d045cb4e1e8dbb6c4e97b59.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4328b3eb364eb053e90789c67c3bef4d60c2ff69.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“洛阳亲友如相问，（ ）。”",
       "options": [],
       "answer": "一片冰心在玉壶",
-      "explanation": "考察名句记忆。"
+      "explanation": "考察名句记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edd265c3aef2ef716c772695361999df145eea44.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06b3c847acc3d8d77ecab587ba0325cb75a6ba8e.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "着急"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "镇定—从容；焦急—着急；威严—庄严；牺牲—捐躯。"
+      "explanation": "镇定—从容；焦急—着急；威严—庄严；牺牲—捐躯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b36ddf445017522f0f7140ec70c9f0530b759f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2a33bc859e0c8d7866db1beda62e2cef4df42ae5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/588aa0ee686b3dd2deab2536a3304ff792417598.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9684c58676cc66b7c92cd54840840d3fea7e1b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce82dfdc4fa725ed2754884d5a8c079e61577d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/629d32930dd2808ed01248cf22a3b1a67ea46c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23a0e84f29f701fc44f6239e15b30b6928ea6502.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03601610ee1cba44c444774fde986f1c08fd1e9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7c2ac37ffbf17fef810c133b3b89c459cf4a9ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08d436e7393dfe7d34a5edbaf07877e5d8c14deb.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "王昌龄"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "墨梅-王冕；送辛渐-王昌龄；石灰吟-于谦；夏日绝句-李清照。"
+      "explanation": "墨梅-王冕；送辛渐-王昌龄；石灰吟-于谦；夏日绝句-李清照。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8767ed47f938ed3872830af1a19618ac6a2b02b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/79e33b5c271010252e724b729a7cbe22651681ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/551a69e0f92d8371eb70cf3e0b946ccf30005d1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad7b96f6b3c3882325862b12b9f491107eafca32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4f4b74bab2325ace8047ac825893f5106ded34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f78dd1cfd8db68ddb48ef0f99904f9d2a69d51c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fa7cd11cf92439499474edc2bef4298b0193244.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc8e6f25a7fef2c459fcdbe8f84a9ee2f83d473c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64aa9b75481f5b2c70d7334ca8dca8d14acada1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53f0e66b0d87f941f57829d248e6cee1848213a6.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "清正廉洁的"
       ],
       "answer": "王冕,借墨梅,表达了,清正廉洁的,高尚的,情操",
-      "explanation": "按照主谓宾及定语顺序排列。"
+      "explanation": "按照主谓宾及定语顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc2350115e4fdea9f438868990e078eaaa306263.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc8e6f25a7fef2c459fcdbe8f84a9ee2f83d473c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30b633fe1f3c514245d99fd6dff621419a67af0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/6289f688c30980683ba8dcf708304d58bcea77ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba901e681bd3f4316d5f8adf83e86dd65c32664e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33f8f93db54f8211a68a790f51d51f556ed00581.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a16972838f000b5fb33000a6c5094c7ad018ba59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/726692804fac76d3a0574476c31c1694db48be41.mp3"
+      }
     }
   ],
   "knowledge": null

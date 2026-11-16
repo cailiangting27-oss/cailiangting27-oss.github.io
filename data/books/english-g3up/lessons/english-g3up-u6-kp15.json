@@ -21,7 +21,17 @@
         "ten"
       ],
       "answer": "eight",
-      "explanation": "数字8的英文是eight。"
+      "explanation": "数字8的英文是eight。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44d6448711161c0a8c5c195d245429a616cc84d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4ddce182ecfb739a19a2b263412c2343dd4fc98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d479fa0ef92542c808003731bc478f714ec1da4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48e42d7202ece78af5ae65ea51d54da464983f12.mp3"
+      }
     }
   ],
   "knowledge": null

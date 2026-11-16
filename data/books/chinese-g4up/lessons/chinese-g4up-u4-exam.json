@@ -16,7 +16,11 @@
       "question": "神话故事中的人物通常拥有凡人没有的超能力。",
       "options": [],
       "answer": "对",
-      "explanation": "神话的特点之一就是人物神化、能力超常。"
+      "explanation": "神话的特点之一就是人物神化、能力超常。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0722ed361b61f09d829a4fb048b6da8c91cb5fb1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be99ea3ac5f581b4b4fdbedbaeee388fa44bdf0d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“精疲力竭”中的“竭”字意思是“尽，用尽”。",
       "options": [],
       "answer": "对",
-      "explanation": "竭在词语中表示精神和力量消耗干净。"
+      "explanation": "竭在词语中表示精神和力量消耗干净。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c0c8cc3d60eca6e7bb97257036097c7068dcc6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e99a8b6311f8111cf2acefa94228f56f7459da33.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“那巨石像小山一样压在身上”运用了拟人的修辞手法。",
       "options": [],
       "answer": "错",
-      "explanation": "这是比喻句，把巨石比作小山。"
+      "explanation": "这是比喻句，把巨石比作小山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69a002676ab357f4e8cd7081f066280789b3b331.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcca622529bfc53f927e4778985e256a7f049ff3.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "复述神话故事时，只要记得关键情节，顺序不重要。",
       "options": [],
       "answer": "错",
-      "explanation": "复述必须遵循逻辑顺序（起因经过结果），否则故事不完整。"
+      "explanation": "复述必须遵循逻辑顺序（起因经过结果），否则故事不完整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8d2d424c070e39e76bd73e6cc12da015ec54e26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc79496e26ff8b6a102fe787c0c2399c1ce7d4bc.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "宙斯愤怒地问：“你要干什么”？"
       ],
       "answer": "“你要干什么？”宙斯愤怒地问。",
-      "explanation": "直接引语在前，提示语在后，句尾用句号。"
+      "explanation": "直接引语在前，提示语在后，句尾用句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c212ccf5072e8002a451525dd41f426c4e3c8b8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/00519773957451453f47d085a0b284ba198f65c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6ef27309647ef50d488368bd839ad48d437b4f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e05ab97953bf218e7ccb641654e797314ba56c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e367ee0bba72e2f301f74fb3507ed6ce8eb89f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8f749b17171983d19ef3b36065173ab62dabc4c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "他有人救他"
       ],
       "answer": "他认为火能给人类带来文明",
-      "explanation": "这是他盗火并坚持的根本原因：为人类谋福祉。"
+      "explanation": "这是他盗火并坚持的根本原因：为人类谋福祉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a43f871ea55ede6e656553d310910b21547861d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb8483915bf80ea0477dada7a2c5a8ef1ae9ca3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d725fe157c77eeb70c85c809c9538b63b9590ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9248ceaadd9c49f9ff0117c084dd778388484e38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/693e574a9e3cad3e3cddea3816e36e4a3dcce51c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88bac3c94cf22908aa0f5349659b4d4671ed0bb4.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "气息"
       ],
       "answer": "气息",
-      "explanation": "原文：他呼出的气息，变成了四季的风和飘动的云。"
+      "explanation": "原文：他呼出的气息，变成了四季的风和飘动的云。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f54e932422f4e2e9ae73180a8805b9b84b598bfd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/14705f3192836c323d4bf7f2880afa9f55f0ea2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35a83bd417fe913ea0174b7c0305c2be14cf35d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4ab2be79d09563246a457bc1d57ae1ef9e78d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdab1fb14d962773ccfcf7f53ffe6f8d0c210a82.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/caf0b8f2074b9efd0d10f1322031c01f55489888.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "火神和水神打架"
       ],
       "answer": "天塌了一大块，人类受难",
-      "explanation": "故事的起因是灾难降临导致人类处于水深火热中。"
+      "explanation": "故事的起因是灾难降临导致人类处于水深火热中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cb7e345a2d05ed33e6bedd16087156b457b5991.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17c7711a6aecee429d1314a032a1217fee571dd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36a140ea544c2587a00e96d3a613515123ca394a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4863521018acc98a7ba3d7833d0dd04958c6e260.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dd43127da95860736fd1d149118184e23af8999.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62c72561fb918955dd2d760886f157fa29ccc9b9.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "反问"
       ],
       "answer": "比喻",
-      "explanation": "将盘古比作柱子（明喻）。"
+      "explanation": "将盘古比作柱子（明喻）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7e3e3d1e955f46b566e74acdcd95fbf9d7434e2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c968d9b1619c77241b2255cd8bc7b9782c5c888.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "大海很快就被填平了"
       ],
       "answer": "这种精神叫永不放弃",
-      "explanation": "精卫衔石填海寓意意志坚毅、不屈不挠。"
+      "explanation": "精卫衔石填海寓意意志坚毅、不屈不挠。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1cadd3b61956b2a678f6c8d016a03f61a0915c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/63077361f9e30c6b003e04061aa31d9cfb375770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/097741a0ea7a1f596f14186abd4707f74bc47c1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/844b629b302bff1f901d7fd886ab0f71e2fe738c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0379f3a41b15e9e77d205ff045dff1f3807dcfd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/440c8e16f348bcb91c1d0931ddcfbf43e5427ea2.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《精卫填海》中“女娃游于东海”中的“于”字翻译为（___）。",
       "options": [],
       "answer": "在",
-      "explanation": "文言虚词“于”在此处表示地点。"
+      "explanation": "文言虚词“于”在此处表示地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c917878922a70594761fe0ca550b17eaeacc1773.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/845cfb67d6bc418cb96b890385b1ee96fac3b4e8.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "普罗米修斯因为盗火遭受惩罚，最后被英雄（___）救了下来。",
       "options": [],
       "answer": "赫拉克勒斯",
-      "explanation": "希腊神话中救出普罗米修斯的英雄名。"
+      "explanation": "希腊神话中救出普罗米修斯的英雄名。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdfdb0a0367507e3f1612d4107a03e3cc5bb4e53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edb92638c0be479d557f31080a9acf463325de7c.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "hùn dùn"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考查生字注音。"
+      "explanation": "考查生字注音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13fc32962c40ed805a39ea211d216f363aefa7a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/331d4b0d2c007d870ecf9b8fd04f379096c2477b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e09847606e2181274685b97e6fb4a5bc77f11082.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13b817cf687245737e2be0ba9570e31c47d27338.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1428555ba5d153165b477a1fd4dc69471a35c3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5bbd2962f21f9ba1243bbc808efbf503c953100.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5637b8f3a2354e0b3876bf12006a88b27a6bfafa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/308e48cb84af6e15851f0e37d0c1d25f51668073.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da1571fd686840e8bdf757f9bbed3351fda59cdc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f511d32f9978d7b63e787c9382db1c0bf9db6fae.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "花草树木"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "考察课文细节掌握程度。"
+      "explanation": "考察课文细节掌握程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97cd1fe413ba193a4d0c54825dc4f432c3789344.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/35a83bd417fe913ea0174b7c0305c2be14cf35d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90cfd8129601cea7f99c30721f9eef60f60ddb3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f464391cf17a2de3260d7b415dc4f3090767a466.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32626f187a03d8d2c5d721609e064862bfda3068.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5edbe6dfa358a459aab965e9eb88df4465eb1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ca35188ef88bc4ab6cd8d708c120a3e23ef890.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93acd4fd5bc26fcdb19a43f3736f78e79c448d5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5ad0de5e93176c8ccf1464a24124014d4c345235.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6c0c283549377aa8ee6408dcbc59070be40fe13.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "大鸡蛋"
       ],
       "answer": "盘古,把,这个,大鸡蛋,劈开了",
-      "explanation": "经典的“把”字句结构练习。"
+      "explanation": "经典的“把”字句结构练习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43f5daf7799480a13e1a229279e10e0a813b78bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a47fc74023fd98143bb5fdfc41ae53a44e6dc8a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ba7814f41ec657d5947332ad8f1df797abad9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24e2acc5f5123a9c8c7131c429b5a3bb589d4d82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84f91a89f9845867e1fd7a087181b09a181c63f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03318cb7500191b896ccf0268a610a7a37cb79cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6d3a7ca81253fbcbc3d8c4f4cd90d07b300b006.mp3"
+      }
     }
   ],
   "knowledge": null

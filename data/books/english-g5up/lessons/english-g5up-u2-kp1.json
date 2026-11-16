@@ -16,7 +16,11 @@
       "question": "'Monday' 的中文意思是 '星期一'。",
       "options": [],
       "answer": "对",
-      "explanation": "Monday 是周一。"
+      "explanation": "Monday 是周一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d11a1e888780d810fc9643bff185aa5bf840e6a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b233f74d4565d5fdfd3bd1e8884cf2bf0e793780.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'Thursday' 在 'Friday' 之后。",
       "options": [],
       "answer": "错",
-      "explanation": "Thursday 是周四，Friday 是周五，周四在周五之前。"
+      "explanation": "Thursday 是周四，Friday 是周五，周四在周五之前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/642c88b7cac50702f25bc7f13605c4c6b890a7ed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70adca9913e655e471b91aa5a3fd684d5b5427f8.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "'Weekend' 的意思是 '周末'，包含周六和周日。",
       "options": [],
       "answer": "对",
-      "explanation": "weekend 由 week 和 end 组成，意为周末。"
+      "explanation": "weekend 由 week 和 end 组成，意为周末。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e91a38e840e19a1f45dfd02d65db11339d7e9705.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a5cb5d2a4b8a0320d2dd802ed284f04d622e3ad.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "Saturday"
       ],
       "answer": "Wednesday",
-      "explanation": "周二和周四之间是周三 Wednesday。"
+      "explanation": "周二和周四之间是周三 Wednesday。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f96a83bac29c0c5adfa9fe01ae0313a85176626d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/932eeb1076c85e522f02e15441fa371e3fd000ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5656b9b79b0316fc611a9c30d2ffac25228b8371.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d166e844a3f3f87149cc4f866eb998e9a751c72a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17063c506b81a46c2eb7716af50cf19d4ed5a6c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bfb2abe18bf2a1f07e3ba448c1c96513f8564ef2.mp3"
+      }
     },
     {
       "id": 9,
@@ -70,7 +92,17 @@
         "at"
       ],
       "answer": "to",
-      "explanation": "It's time to do sth. 是固定句型。"
+      "explanation": "It's time to do sth. 是固定句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de5283334c803e025147c485c9c298085ab97a96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b5ab02767dee1232c2ba1d255d7252656a957ae.mp3"
+      }
     },
     {
       "id": 12,
@@ -86,7 +118,17 @@
         "to"
       ],
       "answer": "on",
-      "explanation": "在具体的某一天前用介词 on。"
+      "explanation": "在具体的某一天前用介词 on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/134b49dd160b9f8ad0399ffafa8336a5c7e77f5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f39fb8e99d917d987961b8feaa6f21d0210bba9e.mp3"
+      }
     },
     {
       "id": 14,
@@ -102,7 +144,17 @@
         "weekends"
       ],
       "answer": "weekend",
-      "explanation": "周六周日合称周末 (the weekend)。"
+      "explanation": "周六周日合称周末 (the weekend)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6edc7af30c1879b8cf3d974563021ef21da315b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0ee32d825d6ddb4025ab74af0609969ecc419c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5548ae4f34cbb6e30414532924e2088d915b460f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/505eabdfb8082f91ed4a2fbaff9ecb5408d27baa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc909c8d3d836b18c2ef706c163eb4921ff6c86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1a0f7a6ea20e7dec6cf81b127bcb3d0dc9fcc5c.mp3"
+      }
     },
     {
       "id": 16,
@@ -113,7 +165,11 @@
       "question": "The day after Sunday is ______.",
       "options": [],
       "answer": "monday",
-      "explanation": "周日之后是周一。"
+      "explanation": "周日之后是周一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e5e1147e9b39eff0a96aaa26359b4d3263e142b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e25149effee818216aa889e2d975909953a7e8c3.mp3"
+      }
     },
     {
       "id": 17,
@@ -124,7 +180,11 @@
       "question": "I have an ______ class today. I like drawing.",
       "options": [],
       "answer": "art",
-      "explanation": "drawing 与美术课相关。"
+      "explanation": "drawing 与美术课相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/744f1abd849ae0b02f0cd149cc38a457db010097.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bbcff43b322d9fc0edc8ee4dd544fc78e2bf029.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "星期六"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "Tuesday-星期二, Friday-星期五, Saturday-星期六, Sunday-星期日。"
+      "explanation": "Tuesday-星期二, Friday-星期五, Saturday-星期六, Sunday-星期日。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41cae610637c3d41c93b282619298478571a5ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/42e43b612a5dfae57ddf5929f0fb945ae83cbf61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d166e844a3f3f87149cc4f866eb998e9a751c72a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17063c506b81a46c2eb7716af50cf19d4ed5a6c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc5dd045b8623ddfc4bd0bce98ca5fda42accf88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e51ca47a2e9e70f46fbe4dc136365f7897757e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9636d4a9056f885ebbf197e73962f878e22d876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c80c63617b180ee847931657c254ad3c12e0e5e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77bef63c5501ca12e3b1c03ffe4d2f3d08348f83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7795a0a90e971640d82723bed02b37f14dcb17a.mp3"
+      }
     },
     {
       "id": 21,
@@ -164,7 +238,21 @@
         "做作业"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "wash my clothes-洗衣服, watch TV-看电视, do homework-做作业, play football-踢足球。"
+      "explanation": "wash my clothes-洗衣服, watch TV-看电视, do homework-做作业, play football-踢足球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51e601e1500eeb7309789d5bf9a8fb2c2c07a1d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e636d8d1e89165191f1d1e98471005b93451e757.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbcfb1be04803250e8e6a30d4c54117f6800fd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f95d4e56974ea6628f65ae8d5cbe0c74b3ffd295.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaf23d3a70364449905e9f631222b895c606684e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a347663c6b859e762a1934e40360fa03b7036c9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d294cacaec619ca24d30905ef341fad65990e885.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4bf3d18942399783a41ae231f75296ef31cf8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87ed602c312fbb828d94d3607275a082a55a77d3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bce5b443db9ee246e97e0b5a4ccdb62f87d8552a.mp3"
+      }
     }
   ],
   "knowledge": null

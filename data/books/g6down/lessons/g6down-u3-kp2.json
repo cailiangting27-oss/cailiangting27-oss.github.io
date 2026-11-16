@@ -16,7 +16,11 @@
       "question": "圆柱的底面直径扩大到原来的2倍，底面积就扩大到原来的4倍。",
       "options": [],
       "answer": "对",
-      "explanation": "面积与半径的平方成正比，$2^2=4$，所以底面积扩大4倍。"
+      "explanation": "面积与半径的平方成正比，$2^2=4$，所以底面积扩大4倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2888621e486fc172884d974d13b3b010b51627b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8e983f735fa29b43a043918a2ba96fcb3869300.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "体积"
       ],
       "answer": "侧面积",
-      "explanation": "前轮滚动的轨迹是它的周长乘以宽度，即侧面积。"
+      "explanation": "前轮滚动的轨迹是它的周长乘以宽度，即侧面积。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9094d0e43d145b85d0bf6aebdac18c265bea1ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6252273d60caa777d98d05c22a3a51fe82e2856.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa01ec3f572dde0bbcdee95c93da3daaddf4bfc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90cae8f03d6127eb89f1926478f047270095432d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a79cfe2dccc22f30e8e3e67d7863d1c965da7103.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4547a7b6a131ff181bbfe680a66dee1821921992.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "底面积"
       ],
       "answer": "侧面积+一个底面积",
-      "explanation": "无盖水桶只有一个底面及侧面。"
+      "explanation": "无盖水桶只有一个底面及侧面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74ae4e107a5bb214be50fbef18634ee0c59543d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aa01ec3f572dde0bbcdee95c93da3daaddf4bfc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1e2eebbdff74ec46a7ee98afad6824133658aa1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66d8ef68bb9b0e7f365900d282c7eb93acdddebb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6252273d60caa777d98d05c22a3a51fe82e2856.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/ebb9ea8f4d0fc465a1075b5d6a46f5a876a01afa.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "78.5"
       ],
       "answer": "314",
-      "explanation": "$3.14 \times 10 \times 10 = 314$。验算：$314 \times \frac{1}{10} \times \frac{1}{10} = 3.14$。"
+      "explanation": "$3.14 \times 10 \times 10 = 314$。验算：$314 \times \frac{1}{10} \times \frac{1}{10} = 3.14$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf7b45b7ccf27be8bc85588eda3f707bfcd7c57d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e21fce62b88ee824118ee6f3d791d78a748f9a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f4ed2f1010b876ed91f61416a6515fd5b7758b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/097ccd4f03d962011101c1221009e53461a0993f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/808009c39315c9120682760714060b04f637f97a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e1e556445b1dce2e512016db7f395a4a136d0ad.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "体积"
       ],
       "answer": "侧面积",
-      "explanation": "通风管两头通风，没有底面。"
+      "explanation": "通风管两头通风，没有底面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f6c6b1e4c7a0526f6eb7e71fcae67bb943ad466.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90cae8f03d6127eb89f1926478f047270095432d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6252273d60caa777d98d05c22a3a51fe82e2856.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa01ec3f572dde0bbcdee95c93da3daaddf4bfc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a79cfe2dccc22f30e8e3e67d7863d1c965da7103.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/909119cfafc3b968381564574e572526c8ac35ac.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -91,6 +135,16 @@
       "计算无盖水桶或通风管时多加了底面积。",
       "计算半径平方时直接用半径乘以2。"
     ],
-    "tips": "审题时先圈起“无盖”、“通风管”等关键词，明确需要算几个面。"
+    "tips": "审题时先圈起“无盖”、“通风管”等关键词，明确需要算几个面。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fb/fbbf5ac4b0816b4bdd86ad7c858275a79769de0e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a4/a49ab2628ad3c131c665a29113f0243d06cd0120.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/17/17e613bc7d962aafa9f80eeda044e75793bcbf29.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f0e9fa67e5177e43ce95137140c6809872db5ad.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/01/01a3da6a5af03180e0585a9371153e80b28fad05.mp3",
+        "https://api.clthuanxie.cn/cc-audio/83/837c2673e0d41008684d5a319bbab43b9312989a.mp3"
+      ]
+    }
   }
 }

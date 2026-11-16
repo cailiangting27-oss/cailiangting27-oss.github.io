@@ -16,7 +16,11 @@
       "question": "一个多位数乘一位数，积一定是多位数。",
       "options": [],
       "answer": "对",
-      "explanation": "两位数及以上的数乘一位数（非0），最小是 $10 \times 1 = 10$，结果至少是两位数。"
+      "explanation": "两位数及以上的数乘一位数（非0），最小是 $10 \times 1 = 10$，结果至少是两位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cecac68b301d438f5256411d51bd3e937aac57e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad88001dc0954d7b5b2d9d3b0e97b0c7df431fe1.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "三位数乘一位数，积可能是四位数。",
       "options": [],
       "answer": "对",
-      "explanation": "如 $500 \times 2 = 1000$，1000是四位数。所以积可能是四位数。"
+      "explanation": "如 $500 \times 2 = 1000$，1000是四位数。所以积可能是四位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2ecf867b9a99a3f9c9e0e8e68bd2bcf7508a7232.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5b4e5bc55ce7337981c97aa6cefaecff9f28f0c.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "52"
       ],
       "answer": "72",
-      "explanation": "个位 $4 \times 3 = 12$，向十位进1，个位写2；十位 $2 \times 3 = 6$，加上进位的1得7。结果是72。"
+      "explanation": "个位 $4 \times 3 = 12$，向十位进1，个位写2；十位 $2 \times 3 = 6$，加上进位的1得7。结果是72。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d894c4e110f2594a71e64ef8824316603d699582.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/511a418e72591eb7e33f703f04c3fa16df6c90bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c097638f92de80ba8d6c696b26e6e601a5f61eb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa4b27d555e488b85795434762b6633c21c68bb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/9657548fd8893ad4491a494a89021818d363ab41.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "五位数"
       ],
       "answer": "三位数",
-      "explanation": "最小的三位数是100，最小的一位数（不含0）是1，$100 \times 1 = 100$，是三位数。"
+      "explanation": "最小的三位数是100，最小的一位数（不含0）是1，$100 \times 1 = 100$，是三位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f43dbc40290f76335dc30f3a01a7ef90b69927d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39f0489f01a0b6daa07357428de01f81bfaf316d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be8281696dc85ebff73e5b12aacf0036da460399.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee37237741e3dd2a4702d2ca7cd4dca1612edbba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9de48e4e080cceabac468bea5fa17f9e7d1f7748.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f0f4a708b4faa6aaa77054981e309906264b73b.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "4 个"
       ],
       "answer": "3 个",
-      "explanation": "$125 \times 8 = 1000$，末尾有三个0。"
+      "explanation": "$125 \times 8 = 1000$，末尾有三个0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9aec3120525d9e679cfbb37b6ff6a9746acd979c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a077c83c695f4d6b9e568c8defe224ca036f3a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a306c623ab48f6a95beaa769e3b0606c874d6cfa.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "9"
       ],
       "answer": "4",
-      "explanation": "$231 \times 4 = 924$（三位数），$231 \times 5 = 1155$（四位数），所以最大填4。"
+      "explanation": "$231 \times 4 = 924$（三位数），$231 \times 5 = 1155$（四位数），所以最大填4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3bad9fdf9f5106a3d7c4e129793a4c0ea532df8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8369812cd9fb2110b77f3e55b3335de8e709d60d.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "小明每天看 12 页书，一个星期（7天）一共看了 ___ 页。",
       "options": [],
       "answer": "84",
-      "explanation": "一星期7天。列式：$12 \times 7 = 84$。验算：$84 \text{  } / \text{  } 7 = 12$ ✓。"
+      "explanation": "一星期7天。列式：$12 \times 7 = 84$。验算：$84 \text{  } / \text{  } 7 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9da156b8ff031c71ab1284c130e33c2266e81d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3c5cc78561088d6bbfa3a9dac81672cc59a2cc5.mp3"
+      }
     },
     {
       "id": 22,
@@ -113,7 +165,11 @@
       "question": "$212 \times 3 = ?$",
       "options": [],
       "answer": "636",
-      "explanation": "$200 \times 3 = 600$，$12 \times 3 = 36$，$600 + 36 = 636$。验算：$636 \text{  } / \text{  } 3 = 212$ ✓。"
+      "explanation": "$200 \times 3 = 600$，$12 \times 3 = 36$，$600 + 36 = 636$。验算：$636 \text{  } / \text{  } 3 = 212$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8bd29d1dc69719335dede64ad4a37752fc16f34.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f42d05200f33855e501316c51d817acfeda7f8fa.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "忘记加进位上的数，导致结果偏小",
       "错将进位数与下一位相乘，而不是相加"
     ],
-    "tips": "进位的数字要写小一点，写在对应数位的左下角，计算完下一位后立刻把它加进去。"
+    "tips": "进位的数字要写小一点，写在对应数位的左下角，计算完下一位后立刻把它加进去。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9d/9d135b27b72994b13a5df7483ef43f75129dd742.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6e/6ee13154aaebaf62c8b10e8f40b3998585868d29.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0c9e5ec72795e3c2f930afe577fe6c08cca1a93f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ca/cab824c4dd092509a3d6ccd3288f699ae783c0c4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c3965a413da477cba810cc0756fc0244763c56c3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4e/4e28803792b3673eb024d32ecd1eb5b495ed659a.mp3"
+      ]
+    }
   }
 }

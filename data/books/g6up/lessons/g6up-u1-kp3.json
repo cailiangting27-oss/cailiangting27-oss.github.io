@@ -21,7 +21,17 @@
         "12 米"
       ],
       "answer": "15 米",
-      "explanation": "求 20 的 $\\frac{3}{4}$，列式 $20 \\times \\frac{3}{4} = 15$（米）。"
+      "explanation": "求 20 的 $\\frac{3}{4}$，列式 $20 \\times \\frac{3}{4} = 15$（米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d9a16edf01a46e01d7d5e69937579b993fd0679.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aa03e88392f24b002a7e355d7b4f2196605c39d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de5cb441508f51b7b085b23d97bb0e0f494f61ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01e8a538be32d82cca17d2cfeb559e0b83167fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21c563c8363eebf33a3c2d6b1f6084b7358e7e09.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af1f95f08ab98549ec09f68d059ebe001ebdbd43.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "10 个"
       ],
       "answer": "20 个",
-      "explanation": "列式 $50 \\times \\frac{2}{5} = 20$（人）。"
+      "explanation": "列式 $50 \\times \\frac{2}{5} = 20$（人）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b63c4bfd310f4f22f3eb6091b5cdc6a28409e6e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f91b35014d82e5587e811519a675fd3ac9673b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d8eb4cfd504c51a0f33fcb92e81e3380ad8666b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dfea39ef763f561a93e8231e1c95b895546b510.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/373f69198c2f610ceaf843bc28106499bbc6628e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc5ae315fb9c8c7d3dd141529cb67144817e1008.mp3"
+      }
     },
     {
       "id": 15,
@@ -53,7 +73,17 @@
         "无法判断"
       ],
       "answer": "降低了",
-      "explanation": "提价后为 $200 \\times 1.1 = 220$，再降价为 $220 \\times 0.9 = 198$。$198 < 200$，降低了。"
+      "explanation": "提价后为 $200 \\times 1.1 = 220$，再降价为 $220 \\times 0.9 = 198$。$198 < 200$，降低了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22e3e2d025f2faa7215d58fae30e8275352ef199.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90442db677bd2bc0037e8aa3bb6d2ef922cd4ce6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bffaa74504bfb2e5bda805e66b3b052326bcc673.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f99def88c40889a36bd2dafa43c17da0be28eccb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa13dcc6a7270281d426ad953969800ea897b27a.mp3"
+      }
     },
     {
       "id": 20,
@@ -64,7 +94,11 @@
       "question": "一桶油重 10 千克，用去了它的 $\\frac{1}{2}$ 之后，又用去了 $\\frac{1}{2}$ 千克。现在这桶油还剩 ___ 千克。（填整数）",
       "options": [],
       "answer": "4",
-      "explanation": "第一次用去：$10 \\times \\frac{1}{2} = 5$千克，剩 5 千克。第二次用去 0.5 千克。剩下 $5 - 0.5 = 4.5$。但题目要求填整数分量部分，此处设计为结果正好为整数的变式：若第二次是用掉剩余的 $\\frac{1}{5}$，则剩 4。更正题目：用去 5 千克后又用去 1 千克，剩 4。验算：$10-5-1=4$ ✓。"
+      "explanation": "第一次用去：$10 \\times \\frac{1}{2} = 5$千克，剩 5 千克。第二次用去 0.5 千克。剩下 $5 - 0.5 = 4.5$。但题目要求填整数分量部分，此处设计为结果正好为整数的变式：若第二次是用掉剩余的 $\\frac{1}{5}$，则剩 4。更正题目：用去 5 千克后又用去 1 千克，剩 4。验算：$10-5-1=4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f776b32249a0dec49fe9bb8c1685fd2489215c4f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bf207aac100ef329f544eee4e6834438606e62b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "找错单位“1”",
       "分不清什么是量（带单位），什么是率（不带单位）"
     ],
-    "tips": "找关键字，比如“的”字前面的量通常就是单位“1”。"
+    "tips": "找关键字，比如“的”字前面的量通常就是单位“1”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2f/2ffb83e06d97d4fe1614434c849157257e97144b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2a/2a8dd52480670f950a1ef1274fec956d19ad9962.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/21/21d4b66667af5d4cd46c674b191e9011d34d9c6a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/cd/cda1e54c11bd49ffecf594084ee24102838c7315.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8f/8f6cabefd0bc85077a5e9fb8b42529207688a0cb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ab/ab3909fbcfb73bca2e9975f66362cbeafed29bfe.mp3"
+      ]
+    }
   }
 }

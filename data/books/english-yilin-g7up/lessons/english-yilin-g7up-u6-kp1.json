@@ -21,7 +21,15 @@
         "healty"
       ],
       "answer": "healthy",
-      "explanation": "healthy 健康。"
+      "explanation": "healthy 健康。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de18ccfa15e841c4efe6788a08eccda935650bb1.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +45,16 @@
         "vegetabls"
       ],
       "answer": "vegetables",
-      "explanation": "常用复数。"
+      "explanation": "常用复数。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9cc860a01c991fdc09b074ba67acb377a1afe939.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f13a905f3776e7929cdf306883e240493c71d821.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/9f/9ffb80332968d734f54967f4efb3c4fc29b6535a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db95e984c71d8cc690ed224dff73e736f95a9d23.mp3"
+      }
     },
     {
       "id": 4,

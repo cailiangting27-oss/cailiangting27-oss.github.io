@@ -21,7 +21,17 @@
         "鱼嘴"
       ],
       "answer": "鱼鳍",
-      "explanation": "鱼鳍（包括背鳍、胸鳍、腹鳍、臀鳍和尾鳍）是鱼的运动器官。"
+      "explanation": "鱼鳍（包括背鳍、胸鳍、腹鳍、臀鳍和尾鳍）是鱼的运动器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72d2381024baddf3a68adbe1f33219173891eeab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e15e4db646eb41ef27694054e93ed04c9a6cc6a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/915d05236453339cf83597ffed46a9367e0401bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/521de99e1736ea1bcf8cf4f83809b8fcce069f6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14ea132a4b3c36c793abd808828fb3dac577faea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72a48e87237a5166e772bff26eca2a645a1203ef.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "从尾巴进去"
       ],
       "answer": "从嘴里进去",
-      "explanation": "鱼呼吸时，水从口中进入，经过鳃部后由鳃盖排出。"
+      "explanation": "鱼呼吸时，水从口中进入，经过鳃部后由鳃盖排出。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f25b35930a1bb0a57f901baa4aa1901b283c228c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2dbae9522f48ae33a8057f343f22f7369b34035e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c705db902bcd10d7cd6c418998538dc25240d99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5be53c8a777c3d0cff3dfc73ce2c30c73000bb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/457ff57ec7c81aed1d517bbc8229ea6c8943d58a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05c40c5872d9f17b836bfb246a275ca582d8f013.mp3"
+      }
     },
     {
       "id": 22,
@@ -48,7 +68,11 @@
       "question": "金鱼用来呼吸的器官是（___）。",
       "options": [],
       "answer": "鳃",
-      "explanation": "鳃是鱼类特有的呼吸器官，可以过滤溶解在水中的氧气。"
+      "explanation": "鳃是鱼类特有的呼吸器官，可以过滤溶解在水中的氧气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db73f1f59384466dafa149a109ce40d94eb7fed2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dd5d13353e0af0e5a8d3fdb33ae824d29ba848d.mp3"
+      }
     }
   ],
   "knowledge": null

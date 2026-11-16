@@ -21,7 +21,17 @@
         "无法比较"
       ],
       "answer": "同样多",
-      "explanation": "两数相等。"
+      "explanation": "两数相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d572efaf88c2c2246bf441dcc576353203896845.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/451b1366afa68d537b072c922072340325dde575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa495b65bd804cee37c42a6d429a819bb8f81254.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98c7d35ec2d78ed0a09d2a6ccaf2569954dbe0f2.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "比较高矮时两人要站在同一水平面上。",
       "options": [],
       "answer": "对",
-      "explanation": "同一平面。"
+      "explanation": "同一平面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a64c975916c721b4ef1bd8f12470e7dc2e59c736.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a98d3fcbf41398419f6c4d5019e071117cd1871e.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "西瓜重",
-      "explanation": "西瓜更重。"
+      "explanation": "西瓜更重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5c3835353b9b6b376d4e7eea283d7b6094a0c8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/573711443eb9974764b39200c25039800efeee40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/842c6f79a9ee827c60d7d0bbb6d44e1fd294658e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/634b186d1196ce996f2f88cfebc3013bdcc372a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85856f211f08954c633925f482399ea81b633740.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "无法比较"
       ],
       "answer": "梨多",
-      "explanation": "6 > 4。"
+      "explanation": "6 > 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/509fb3b4b70dbc20187aebb48761384fd1118fe9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9622dd19479b702573f331f83190a32b88ee09a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/332200fa916960621801e315847a021af700537b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d24e9a3d71de3600ec4abdbf8b6bc86359dfcdbc.mp3"
+      }
     }
   ],
   "knowledge": null

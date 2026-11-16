@@ -21,7 +21,17 @@
         "taller"
       ],
       "answer": "longer",
-      "explanation": "腿的长度比较用longer，身高用taller。"
+      "explanation": "腿的长度比较用longer，身高用taller。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/977451769f7a1a72184c7c730b27429369c73aad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc4df8ae0af123bb4dc2f7f91c6a8bf88fea3d71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e840bf7fb2acab067ca3bf33801df225389465dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f320eb28f3b028c7d4eb67df258426a9c45c59d.mp3"
+      }
     },
     {
       "id": 16,
@@ -32,7 +42,11 @@
       "question": "I am 160cm tall. My brother is 165cm. I am ___ than him.",
       "options": [],
       "answer": "shorter",
-      "explanation": "160cm比165cm矮。"
+      "explanation": "160cm比165cm矮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40906d30ce7765939b7f7f84db4b36383a9bbdb3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dfcdbbdacb3d3975e0d2942dcc946150e2c6e91.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "Your hair is 20cm. My hair is 15cm. Your hair is ___ than mine.",
       "options": [],
       "answer": "longer",
-      "explanation": "形容头发长短用long，比较级longer。"
+      "explanation": "形容头发长短用long，比较级longer。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dd26b427719f0b4fbab4b7f717be2a09f8cfa3e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0fe9549dae3c2379916b429a81de9018720c2015.mp3"
+      }
     }
   ],
   "knowledge": null

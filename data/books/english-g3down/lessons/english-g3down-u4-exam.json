@@ -16,7 +16,11 @@
       "question": "当你想询问路时，应先说 'Excuse me'。",
       "options": [],
       "answer": "对",
-      "explanation": "Excuse me用于引起他人注意或问路时的礼貌开头。"
+      "explanation": "Excuse me用于引起他人注意或问路时的礼貌开头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1ed1881fad74380d4253c10fba88cc7f18dc5cb8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/281b8dd2f3a63be7f59d31584fdada483372ed60.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "单词 'chair' 的意思是 '球'。",
       "options": [],
       "answer": "错",
-      "explanation": "chair是椅子，ball才是球。"
+      "explanation": "chair是椅子，ball才是球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c87ce27143befb205aa0497de4100216900b6206.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7eb9c4abc85dc937a66f821b23389a7b39c4e977.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "单词 'orange' 的第一个字母 'o' 发音与 'box' 相同。",
       "options": [],
       "answer": "对",
-      "explanation": "两者都发短元音/ɒ/。"
+      "explanation": "两者都发短元音/ɒ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c37d5dd16da7ee39d175b263fae7dbcec0a3c37.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47bf9e604d76a3caf6fb49db356f8302bccdb062.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'Where are my ruler?' 这是一个正确的句子。",
       "options": [],
       "answer": "错",
-      "explanation": "ruler是单数，应该用is而不是are。"
+      "explanation": "ruler是单数，应该用is而不是are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88ae17b22710f7a51560f9b51a481f5887ee89a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdef07b31715fdb5f4f53a879cc2cb8a2565ab71.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "It is a desk."
       ],
       "answer": "Yes, it is.",
-      "explanation": "主语为it的一般疑问句肯定回答为Yes, it is."
+      "explanation": "主语为it的一般疑问句肯定回答为Yes, it is.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/084985c8bbcda574704265752d22e33b78b28b6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daf2cb4fb6da513d9de72203586f8c71e916f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03e859ecae227afaea3924d5b3d2fcca983d706b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a12cc9c4422dac7ae6990e3c9ac8e71feda938aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/9109e9dd46bc38b7d1c4fc4c2648c4275b83b327.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "Yes, it isn't."
       ],
       "answer": "No, it isn't.",
-      "explanation": "否定回答需用No...not结构。"
+      "explanation": "否定回答需用No...not结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e0fcac7c24703abe959b45f51d061f03c772da7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d0d251d5d0ab020d3e081c2cfe8b6526716e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daf2cb4fb6da513d9de72203586f8c71e916f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03e859ecae227afaea3924d5b3d2fcca983d706b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c045bf5258b4df3c9925f8d710ee8cd67cdb3e5.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "to home"
       ],
       "answer": "home",
-      "explanation": "go home是固定搭配，home前不加to。"
+      "explanation": "go home是固定搭配，home前不加to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/9206cdd3cb0f71a87992496a2e7b296037a9b0ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e8/e83249bd3ba79932e16fb1fb5100dafade9954c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5be93480bd8b743454a93dca084849202af43af5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de615e8b506d6a7debef903fcffd36b3175ebc26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96a116b70ceb0aa09ae81c1364121e64d564f9c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a7adf15fd5813e0307a09c0bc379addb8a55afb.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "at"
       ],
       "answer": "on",
-      "explanation": "小船在水面上行驶，用on。"
+      "explanation": "小船在水面上行驶，用on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/168a17730dd8c452822e98feebcfb9f3d9a560b7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e0fc9a814013b684bf49b18432b73060ba0c51e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "desk"
       ],
       "answer": "desk",
-      "explanation": "in/on/under是介词，desk是名词。"
+      "explanation": "in/on/under是介词，desk是名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee6bd9e3483202ffc9b60e3e854fd7675ca9940e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7cfa080913f4dae18d802d041de7d664b10e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e3250b1dacf6964afd00ffcc24211b9efcb049d.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "Is it a ball?"
       ],
       "answer": "Where is my ball?",
-      "explanation": "寻物句型Where is...?"
+      "explanation": "寻物句型Where is...?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/325fc3daf1e4ac23aac5aeaa80e75180c1ace7a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b3c543807e575564992c01f4d466e6e84defa73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/709f75a0c1a1d269c02dbc7bd9711fd9ad8cfc8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6febca4421cf3a3c711dd7d8dfc3a2fb934ea3e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad8d2e50d785e82808f329fa2c4314745522b058.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e579e64fb41d6f98ca4a67c19be7194c1ea3cb99.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "The cat is ___ the box. (在盒子里面)",
       "options": [],
       "answer": "in",
-      "explanation": "in表示在容器内部。"
+      "explanation": "in表示在容器内部。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a900c306b7cd5f97fd3ab32c30c263be31ed4e78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84a6336ee7133d886dec450b5aacf2505f8d93fc.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Where is the ball? ___ is under the chair.",
       "options": [],
       "answer": "it",
-      "explanation": "指代物体单数用it。"
+      "explanation": "指代物体单数用it。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d1654d0e7e1e24767b660c6076a7a6f8a4d0767.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02e0f4e3eca687ca39cef4014eea16436a4c57de.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "___ me, where is my book?",
       "options": [],
       "answer": "excuse",
-      "explanation": "Excuse me用于礼貌地提问。"
+      "explanation": "Excuse me用于礼貌地提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed1c5d6b37ef3ced81c7b0791bb6890e71e6e6f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a52b13cde7fc6b871dac4d6b91d2a8285f536455.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "椅子"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "chair-椅子, ball-球, cap-帽子, boat-小船。"
+      "explanation": "chair-椅子, ball-球, cap-帽子, boat-小船。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/822d06de2a270cdb9845eb1f2c430cf2d2ed94c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/851e13a65333f91428701953ba315c36d27d71eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bec0406497ccf8bb93933005b504d85785dfc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac4be5ac63e1ea62640409f639b010b9fb479c5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a50ddf9299c2bc22e5ee7cae8d46440a8639a1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dccc4a2e6ce3e6ecbb77e5e4e1f4d9452972704.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/417594f3f53822cf406c169302f62b84bb3338bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d08e4010fcbbde47f5750c4f2956a173295e785.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/4900408baa3af4eb3800a848c75e7bc0af2a0346.mp3"
+      }
     },
     {
       "id": 22,
@@ -216,7 +318,19 @@
         "."
       ],
       "answer": "It,is,under,the,desk,.",
-      "explanation": "陈述句结构：主语+is+介词短语。"
+      "explanation": "陈述句结构：主语+is+介词短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7cfa080913f4dae18d802d041de7d664b10e2.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f17f803f249180805cd43ae0c285502f847ab801.mp3"
+      }
     }
   ],
   "knowledge": null

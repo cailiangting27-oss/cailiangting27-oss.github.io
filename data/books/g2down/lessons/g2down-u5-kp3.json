@@ -16,7 +16,11 @@
       "question": "计算 $(12 - 5) \times 3$ 时，应先算减法。",
       "options": [],
       "answer": "对",
-      "explanation": "因为有小括号，无论口诀如何，必须先算小括号里面的内容。"
+      "explanation": "因为有小括号，无论口诀如何，必须先算小括号里面的内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55531be6ca2ed11756c09e8e98594d18a4f5f6ae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eeecdaef9d9490d857a8341b51ae8db5327fd60b.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "$20 + 10 - 5$"
       ],
       "answer": "$3 \times (6 + 4)$",
-      "explanation": "$3 \times (6 + 4) = 3 \times 10 = 30$。验算：$30 \times 10 = 3$ ✓。"
+      "explanation": "$3 \times (6 + 4) = 3 \times 10 = 30$。验算：$30 \times 10 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0772e480b714c1c2cdb1069feda41e567cb1d9e2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f744d62e78842d6283feec29c3f8dbb684b2d4e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60bca5164457daf647a29ba3a71dff1aa01d9df4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b04e1f0cb514125575b5424fd53da82b53ac1fdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dc137c747546f3a05b11ba24fca892a0227f92d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1146e29c4d5144eb17c9d9c2e89d2216468c981.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "$(12 + 18) \times 6$"
       ],
       "answer": "$(12 + 18) \times 5$",
-      "explanation": "必须先算出 12+18 的和再除以 5，所以需要加括号改变顺序。"
+      "explanation": "必须先算出 12+18 的和再除以 5，所以需要加括号改变顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a52931ee3752febf0bc5f3b30e0c0765acb646c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/efaaf57607a0639574348a24215126f5ac9844f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4eb4447fc13f3c4ed2f2fa296841b511434c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8405ad706c86d689e5708593112bb346fce51017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/322a81e712a76e8af0b37127d9e71f5237fc51c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/7190582e59a19c9d893761aa08db45e8c4106b2e.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "无法计算"
       ],
       "answer": "12 - 4",
-      "explanation": "有括号的先算括号里面的减法。"
+      "explanation": "有括号的先算括号里面的减法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/293a192fe2e6c1bea3ec4c73af6269a1956619d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e91771461ee2890e0e5fc94f507b48e479552e0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1376f456e16e6eaf6a1975661c83ad2ccd61e841.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47c654e96a260fa60b534d1abfa91c2ab9d681f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf184f23ec94dad9f407bc7f76b6834c78d9bd51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/eab4718fbdf2968c2f1d852ad1bab737ad696ca2.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "计算 $81 \times (14 - 5)$ 的结果是 ___。",
       "options": [],
       "answer": "9",
-      "explanation": "列式：$81 \times (14 - 5) = 81 \times 9 = 9$。验算：$9 \times 9 = 81$ ✓。"
+      "explanation": "列式：$81 \times (14 - 5) = 81 \times 9 = 9$。验算：$9 \times 9 = 81$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/914f6517c65a6c6d67bade141cb0f9683697dfe0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d57ab181772ff1a7c9cccdc95bba8b38f0f6720.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "虽然有括号，但还是先算了括号外的乘除法。",
       "把括号内的结果算错，导致整个算式错误。"
     ],
-    "tips": "见到括号绕道走是不行的，必须冲进括号先完成它！"
+    "tips": "见到括号绕道走是不行的，必须冲进括号先完成它！",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8d/8dcd7d870a0411351a4983dc040f0eeb3e8b29f2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/44/4441a78122b02ab8b41d4a454a666a4fa4b43c42.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9a/9aeaa360acea56681537b6acff2bb8e2373d02f8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ee/ee8707368aee755e0298e36bd77d240f86a36e55.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/64/6413b53639a5d045091b3d323461f0885484a55f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e4/e46f1bd1ad9a4b077ba7ac05fd74fb0f3f17cc98.mp3"
+      ]
+    }
   }
 }

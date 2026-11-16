@@ -16,7 +16,11 @@
       "question": "大树和小草都属于植物。",
       "options": [],
       "answer": "对",
-      "explanation": "木本和草本都属于植物家族。"
+      "explanation": "木本和草本都属于植物家族。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b27ab29b863f3c0b0ea73c31de2a6cad3276117.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88b67e79bd8959a232a92973731321479859e31a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "为了观察方便，可以把树皮剥开看。",
       "options": [],
       "answer": "错",
-      "explanation": "破坏树皮会影响植物生长甚至导致死亡。"
+      "explanation": "破坏树皮会影响植物生长甚至导致死亡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a654ac029d93e6de7b4094a3f9136b200d1a6df3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40b38b5eddc34d31f2d342be547345f630e0d8c9.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "我们可以用尺子来测量叶子的长度。",
       "options": [],
       "answer": "对",
-      "explanation": "测量是科学观察中的定量分析方法。"
+      "explanation": "测量是科学观察中的定量分析方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e20477c3c75e548dc3d5cbb4d0798f2e3a0493e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5920eab38fbb8520a08d9c58087861bee5e57fa4.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "同一棵树上摘下的叶子完全长得一样。",
       "options": [],
       "answer": "错",
-      "explanation": "同种植物的个体、同一主体的不同部分都存在差异性。"
+      "explanation": "同种植物的个体、同一主体的不同部分都存在差异性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a20a2f36f0415b9faeca17919e783b754e13ecbf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76587a456011f1f97c53e057d5d019063f19c94e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "回家后再写"
       ],
       "answer": "画出真实的特征",
-      "explanation": "现场记录并基于事实描述是科学素养的要求。"
+      "explanation": "现场记录并基于事实描述是科学素养的要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f02ea29f6ea149d7b2ebe1cd3c763699ec4ee9c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac377a9fc29bf3bf7e67a47898ac80a382a38fc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af977910c75a351d067e209e448571247c3eefc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d9899b017aa4f27ed485e585ae5f172e1df0e2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a37c272a640240175548211b57c5a673717c8324.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04137313b315d585e95f255f31132ae5e7ba1ae1.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "冰川上"
       ],
       "answer": "干旱少雨处",
-      "explanation": "植物的形态结构与其生存环境相适应。"
+      "explanation": "植物的形态结构与其生存环境相适应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7d0c730a74378a7d89466d062061a64610dff8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a7af4751d92243e3e3ad1964927c9dac70a53b76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0041862817111458c41ad038440f4da2943b41a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/862444cabb5211c94c4ee80049a05eec7f46c2b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/dea82763b30046a9c022c440fd221eb21a5bfd54.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab3c685f8f187a1bc5aaff6e4c263d77609aeba9.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "金属"
       ],
       "answer": "植物",
-      "explanation": "纸张主要由植物纤维制造。"
+      "explanation": "纸张主要由植物纤维制造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79212999d2fb4e119b10b4f23c5b699292360b02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3aa8ab320ddf0900d08a0148326e1d0f86c7749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f5dab2ca05cb98aa04caef79fe652e918c71f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf33d514c1a703ddf7f1c2fd297e242d6fcd1c51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2c3eae71c5eb2193b3e7176a797733eaac11e07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60149e8e4d4e857aee3f68886f05f640da74c464.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "种子"
       ],
       "answer": "树干",
-      "explanation": "树干具有木质部，支撑着整棵树的身躯。"
+      "explanation": "树干具有木质部，支撑着整棵树的身躯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d44a323820845ec9c3aff1aac441da189411831.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25db5c30d27624666e815ec0e9d97816bc93ab89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9797f151c711e9c454adc6e197fed58543bb6fa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/814b1d8a14a6661e2bc24cc45bb23882774f6b35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e80966cfe8b98759e466202a9dc9783128cedd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35275f9153f2d3b5144561eb2af494e3f06fcefc.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "给它取个明星的名字"
       ],
       "answer": "记下地点和样子",
-      "explanation": "不认识的植物应通过科学记录后再查阅资料识别。"
+      "explanation": "不认识的植物应通过科学记录后再查阅资料识别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/872084a781b9a9c26dc878e527e0fa3d44484dbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/071dae77394ff1bb0e0fdb594b45c754b789fe8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d00338e00e16909d884492dc755a87e86300439a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bfb8898767c378b6edb4dcb5c2b3dfe9e626df1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad77fa3e7275ebc66da26dd620f136735d4eb7b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea75eae7c513f1d9c0a2151e0a4e0036f55a025f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "让人跌倒"
       ],
       "answer": "美化环境和固定土壤",
-      "explanation": "植物在生态环境中具有重要的保护作用。"
+      "explanation": "植物在生态环境中具有重要的保护作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/723cf85fbea7d896b53011f1c61cc8f8d77b79d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b839aa30121ecd1f044736e6bbada0072039f3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9233bb9685ccadbc15bbea5f2c1bc142f71b3ba7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de36bc90f73f63d935d36e5423777cfa5ff898f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcfaec8776311fc5342a783392bfe9e086cf5ec0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/848b7270809d56f57e69bc82e42f0635883b7cb9.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "三叶草"
       ],
       "answer": "樟树",
-      "explanation": "樟树属于高大的乔木。"
+      "explanation": "樟树属于高大的乔木。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74c3273222589eecead889e36a4b2bab3606e0cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/69a07dd2ca546955f7fb2b9f5c463490c35ad61e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90ec779ad29ded51dac7f31aea77beaeb9be1a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61fb95e07d716dd75185e4226f11394fbb419be9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42b00812786e1fc9914e406ade41c99b5615abc5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/952ecca225d3d51627dd290245167e97f57c7ab4.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "花"
       ],
       "answer": "花",
-      "explanation": "花朵通过颜色和香气吸引昆虫进行传粉。"
+      "explanation": "花朵通过颜色和香气吸引昆虫进行传粉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d62b51de34c54b43b29c5893d8449a86903282cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922d22dd3f7a23b05726e1ce20d5f7f0cf98a087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84fc434f8bbd59dafa597d7db270cede96bf7bec.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "大多数花朵包含（___）个基本部分（花萼、花瓣、雄蕊、雌蕊）。",
       "options": [],
       "answer": "4",
-      "explanation": "完全花由四个部分组成。"
+      "explanation": "完全花由四个部分组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1df12ec550357435fc97699b5d70117e0595721.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a49390842d6c2f71b2f1b08a817454fb2bab8abc.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一年有（___）个季节，植物在每个季节都有不同的变化。",
       "options": [],
       "answer": "4",
-      "explanation": "春夏秋冬四季轮回影响植物的节律。"
+      "explanation": "春夏秋冬四季轮回影响植物的节律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24d5b705f5906ef612b0eb01a6a8917ea1c4e3a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f04956332524228cfd3ac463af075e474a6f7ebf.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "我们通常是在（___）里种植蔬菜。",
       "options": [],
       "answer": "土壤",
-      "explanation": "土壤为陆生植物提供养分和固定空间。"
+      "explanation": "土壤为陆生植物提供养分和固定空间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fa3879ab50497b1c26703e0160ac98f2f8ce97c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a58386fc7fad7eee2d43c79c0753132c00f849d.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“无论是在家里，还是在学校，我都认真学习。”这句话用词得当。",
       "options": [],
       "answer": "对",
-      "explanation": "无论...还是...表示在任何条件下结果都不变。"
+      "explanation": "无论...还是...表示在任何条件下结果都不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/893045bf539e3442492734ae858eb4f4fbef5066.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66474425dd8d300e363f98162ffe98a95e4f6526.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "一边...一边..."
       ],
       "answer": "无论...还是...",
-      "explanation": "该句式描述雾覆盖范围广泛。"
+      "explanation": "该句式描述雾覆盖范围广泛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fcb692e4782e4a561beabbf882e1c00f2e41ccc7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a114fbaddb6aba98211e970ed0115be3efe30fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4fffd957fbbedb272e3112183cd2da93ea4df9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbab9c0c04ead3d019726e11dc761c9f4e1757f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfc33f5c91201ce1cd8de0f836f62980c2118e39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/1366dd5f5fcfac3bb9305c3123c5e0eff6111c56.mp3"
+      }
     },
     {
       "id": 22,
@@ -49,7 +63,18 @@
         "雾都看不见了"
       ],
       "answer": "无论,大海,还是,天空,雾都看不见了",
-      "explanation": "考察无论...还是...的结构应用。"
+      "explanation": "考察无论...还是...的结构应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd36c5aeed172769725c7dc3a894083797c27628.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/cea944246308006951394e11759ed733a6b5c82d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31fd0bc3de91bbaca1ab3a6a2458462f0bddf84d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17b7d656712ce926c0634bbd6b52232465f9e8ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c10f4324a6e93b689aba0355d5124b73c304aaa1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/718ef0e8961e7b9ff01962b28fd90d4930cddab0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -60,6 +85,16 @@
       "在使用时漏掉后面的“都”或“也”，导致句子不通顺。",
       "“还是”后面没有接具体的名词或短语，而是接了无关的内容。"
     ],
-    "tips": "记忆口诀：‘无论后面跟条件，还是连起二者选，结果通通都一样，逻辑严密不打折。’"
+    "tips": "记忆口诀：‘无论后面跟条件，还是连起二者选，结果通通都一样，逻辑严密不打折。’",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/34/348e8918378c2f2a80f65fa4941154bcb781bd2b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ca/ca5962bcf59c83507b3884bb6b3aabdeb37d59b6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/db/dbf644dfa56f35b90a98a899a3d9d8f54b8f63a8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/28/28111f19aa2b6fa57938fa19a6ca38d740d822e7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ba/ba5cde6aa497ae4b0ad13b085ffa1afd8c6bd42a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/67/675f4bd3fe0753d2607d2e161fdf1a493be0b85e.mp3"
+      ]
+    }
   }
 }

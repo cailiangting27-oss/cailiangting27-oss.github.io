@@ -43,7 +43,15 @@
         "无法判断"
       ],
       "answer": "酸性",
-      "explanation": "pH<7 显酸性。"
+      "explanation": "pH<7 显酸性。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

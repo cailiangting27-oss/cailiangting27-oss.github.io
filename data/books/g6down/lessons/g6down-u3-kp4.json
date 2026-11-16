@@ -16,7 +16,11 @@
       "question": "圆锥的体积等于圆柱体积的三分之一。",
       "options": [],
       "answer": "错",
-      "explanation": "只有在底面积和高都相等的前提下，圆锥体积才等于圆柱体积的三分之一。"
+      "explanation": "只有在底面积和高都相等的前提下，圆锥体积才等于圆柱体积的三分之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf01d21e3843485ec6f99a99edac5ebd1ef3c324.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84d8fb9fc2e6eab2942a8a8cf38ad64a5a05be2a.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "15"
       ],
       "answer": "30",
-      "explanation": "$V = \frac{1}{3}Sh = \frac{1}{3} \times 15 \times 6 = 30$。验算：$30 \times 3 \times \frac{1}{6} = 15$。"
+      "explanation": "$V = \frac{1}{3}Sh = \frac{1}{3} \times 15 \times 6 = 30$。验算：$30 \times 3 \times \frac{1}{6} = 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12af32b16c6c5926c33da955775aadff42d73459.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ec7644c70e7f1c7ce7e16ef8066c4ddcd126811.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "12"
       ],
       "answer": "12",
-      "explanation": "$36 \times \frac{1}{3} = 12$。验算：$12 \times 3 = 36$。"
+      "explanation": "$36 \times \frac{1}{3} = 12$。验算：$12 \times 3 = 36$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/267c2a539ba83313a0300576bf078a7e41ed3544.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17503a6b2326f09fbc4e3a7c03874c7333002038.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37b1120d8884c5e35ae0e7057bc64ca69491d974.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "1.5倍"
       ],
       "answer": "2倍",
-      "explanation": "最大圆锥是等底等高，体积占1/3，削去部分占2/3，$2 \times \frac{1}{3} = \frac{2}{3}$。"
+      "explanation": "最大圆锥是等底等高，体积占1/3，削去部分占2/3，$2 \times \frac{1}{3} = \frac{2}{3}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e201fdb1c79a8f152b06d57f6090730328ef3318.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e46fb5438d061d375616039cfc0aa40bdf57408.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56c28de6c99b0ada0c07ce51cab182d2d45db11b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcb577bf2a0700274bfeafb23599a51ab499b96d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5015d22368d453b30fe4f369b32f9a7ecfa0ecc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/147a19844b9e0eb85cf6333b03016013380a7fc9.mp3"
+      }
     },
     {
       "id": 18,
@@ -80,7 +114,17 @@
         "27"
       ],
       "answer": "9",
-      "explanation": "底面积扩大 $3^2=9$ 倍，体积也扩大9倍。"
+      "explanation": "底面积扩大 $3^2=9$ 倍，体积也扩大9倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65fc4ae0aaa517480697112818614fccb8eaf6c3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ed118a3b316f9d31f659feb3f5874e420ac5340.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "一个圆锥的底面直径是10厘米，高是6厘米。如果它的底面积是78.5平方厘米，则它的体积是 ___ 立方厘米。",
       "options": [],
       "answer": "157",
-      "explanation": "$V = \frac{1}{3} \times 78.5 \times 6 = 157$。验算：$157 \times 3 \times \frac{1}{6} = 78.5$。"
+      "explanation": "$V = \frac{1}{3} \times 78.5 \times 6 = 157$。验算：$157 \times 3 \times \frac{1}{6} = 78.5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/535de33458f172670915761c9bb426b5c6b010e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/841f101650d6b7f3a8c2086e874ff05312a27d71.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,11 @@
       "question": "某等底等高圆柱体积为300，求对应圆锥体积：$300 \times \frac{1}{3} = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$300 \times \frac{1}{3} = 100$。验算：$100 \times 3 = 300$。"
+      "explanation": "$300 \times \frac{1}{3} = 100$。验算：$100 \times 3 = 300$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25ea9f876c26891f84a0b202e56ee92ce3d738cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff9144b80537458c84aeb6a351e28b1bc6df1843.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "列式时忘记乘 1/3。",
       "已知体积求高时，忘记先将体积乘以3再除以底面积。"
     ],
-    "tips": "记口诀：等底等高圆柱大，圆锥只是它三分之一。"
+    "tips": "记口诀：等底等高圆柱大，圆锥只是它三分之一。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d3/d34f50addc91d905497f775b60aa0652cc849c77.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/81/81cf89c986522e55e8c9ce5e577d86497a89ec93.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3c2a09d50b9832f59c4e5898307fc37d478cead.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/03/032f7ac949092c5bbe4526da7bb017a52ebc4a71.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/33/3318ba5e85fd922bc3b5b68ab81c251568cd476e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/61/61ce1301448c8e2d171ed1861e404293d566189f.mp3"
+      ]
+    }
   }
 }

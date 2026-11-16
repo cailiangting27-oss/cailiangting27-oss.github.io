@@ -21,7 +21,17 @@
         "home"
       ],
       "answer": "I,stayed,at,home",
-      "explanation": "标准陈述句结构：主语+谓语+地点。"
+      "explanation": "标准陈述句结构：主语+谓语+地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7116e40f27e618afd86c7c78180d28c107d7266.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7fcbae4953ef50133e03e4fd927e9c56868b4d62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e83249bd3ba79932e16fb1fb5100dafade9954c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21fb49cd377d5ec95e8aea35ac8a870d44f34eda.mp3"
+      }
     }
   ],
   "knowledge": null

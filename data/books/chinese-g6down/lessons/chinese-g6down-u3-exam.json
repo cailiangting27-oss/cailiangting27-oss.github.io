@@ -16,7 +16,11 @@
       "question": "作文中，我们可以通过写“风在低泣”来表现人物伤心的心情。",
       "options": [],
       "answer": "对",
-      "explanation": "通过拟人化的环境描写，将“低泣”赋予风，实际上是表达写作者内心的哀伤。"
+      "explanation": "通过拟人化的环境描写，将“低泣”赋予风，实际上是表达写作者内心的哀伤。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cc84aaf5e445425ca901eea1e5cc830e32a29d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75b8926352dc7c12736736c57ab5a5326ca49738.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "抒情必须通过大段的感叹号和抒情词语（如：啊，我真高兴）来实现。",
       "options": [],
       "answer": "错",
-      "explanation": "优秀的抒情往往将情感融入具体的事件和景物中，即“融情于景”或“融情于事”，不一定直白抒情。"
+      "explanation": "优秀的抒情往往将情感融入具体的事件和景物中，即“融情于景”或“融情于事”，不一定直白抒情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9a8e169c6419d9833a2a14e8d6b9dcb33a2ca0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/1679cf724b562895ea0f3132a336882d01f29b1f.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“那树丛被风吹得沙沙响，像是恶魔在低语。”这表现了人物恐惧的心情。",
       "options": [],
       "answer": "对",
-      "explanation": "将树丛声比作“恶魔低语”，带有明显的恐怖和不安情绪指向。"
+      "explanation": "将树丛声比作“恶魔低语”，带有明显的恐怖和不安情绪指向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fcbaa24f2e8792b905e1debc8e53e074289cd1b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2151ec4da8d1249ab5d4020066f68579359deef9.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "排比句能增强文章的气势，而在抒情散文中，它也能让情感表达得更细腻、充沛。",
       "options": [],
       "answer": "对",
-      "explanation": "《匆匆》中连用的排比和追问，极大地增强了情感的感染力。"
+      "explanation": "《匆匆》中连用的排比和追问，极大地增强了情感的感染力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/19e34f2da32de358f09c15d6e50633a1d70fd0a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33c68763a76e78ca65426aaeb295ebdafdfc9c09.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "我吃饭速度很快"
       ],
       "answer": "日子在不经意间流逝",
-      "explanation": "作者选用了最平常的生活小事，说明时光无处不在又无时不在流走。"
+      "explanation": "作者选用了最平常的生活小事，说明时光无处不在又无时不在流走。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f83cc39eb3a07cef2f5521e94e65809d41bdd88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51c290538d32cf0e61227742330ac9515927cc3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b28d2a0c639e60e58fad53c5b716a41d4abccdcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41123c7cdabf604a03d5844edca0c5de57138143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69a72238490842287a84c9b5c67bcf9bee7017ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a5c92c814756745cf70d6cb15aaf122b8d5f5ca.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "感叹句"
       ],
       "answer": "疑问句",
-      "explanation": "作者向“聪明的”读者提出疑问，引发思考，并没有自问自答或明确答案在其中。"
+      "explanation": "作者向“聪明的”读者提出疑问，引发思考，并没有自问自答或明确答案在其中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0aa84e5bc60fa2115811d9ba00e5aa6aac38cfd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1adc739fb5147f8a2ab0cae2aa9a0455cc7a3e38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62426ddf1d08cc23870db41ec4ae12506da88a9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9f919d9abbd163c27c6cf55d826c8062fa59e93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283f1510cc8d694184bb229fbf46f334410c8aab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9c9c1a0dd66bb793b8cd926feb031bb0b14669e.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "我们要珍惜每一分每一秒"
       ],
       "answer": "我拿着考试卷子，手不停地抖着",
-      "explanation": "题干是细节描写侧面反映心情，B选项通过“手抖”细节反映紧张心情，属于融情于事。"
+      "explanation": "题干是细节描写侧面反映心情，B选项通过“手抖”细节反映紧张心情，属于融情于事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b9dd25e10cc7eaa86803c449c65639de1abc38d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b2eed19927b909ec90bd292d247ee6d84868166.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c351b66b924850db73add5736734aae88140f109.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/756d434ffda55b489047094f87543646033845b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52502fec20f0f819a969c8cbf6d16b1d044bf980.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4656e7bb03bd0f6295904f0a6d01e933b8f03a7.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "新生"
       ],
       "answer": "凋谢",
-      "explanation": "枯萎和凋谢都指植物失去生命力。干涸指水干，繁茂、新生是反义词。"
+      "explanation": "枯萎和凋谢都指植物失去生命力。干涸指水干，繁茂、新生是反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6747ecf43974f908816f56981c5f16b95b2ff5a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e4698136823c71df46b30636eab8d3d97bb93c76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a13923de3ef3253cc56d2deb521630f7f889046f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5a60014ac1a346ca6b31338681c2bd1f36bdfcd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44a8e5378f9e4978ee51c9af06146d733107a6a9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edaab67c09aee953877a7bcb59f13bf8b17e2868.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "下雨了，我们可以打起花伞"
       ],
       "answer": "雨点无情地打在脸颊上，冰冷刺骨",
-      "explanation": "“无情”、“刺骨”体现了心情被破坏后的负面感知。"
+      "explanation": "“无情”、“刺骨”体现了心情被破坏后的负面感知。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47e1f543e2d00fd147caddb14cb78dd6fe174242.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64094b09369aad5ce25f71b3d69500046d3d10c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db7dd449ed18766ca58186cbb0a8247ea1aee771.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e92b3e9964f443ef283684a1a1eb8a66e42de136.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4954472e9e0d8b29f81360ec34318a9c7c29db32.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e7fc43ecfefda2f8a9f6179004a4eb364199311.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "非常愤怒"
       ],
       "answer": "因为不满意或不顺心而失意",
-      "explanation": "惆怅是指郁郁寡欢、失意的状态，常用于描写心情无法排遣。"
+      "explanation": "惆怅是指郁郁寡欢、失意的状态，常用于描写心情无法排遣。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/209955d55b0963178e36bd497077219ae67a7965.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/ccc9e5b9ccb14b3c7e39ffa8ef04318c1676fa8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3175df7e538225de76f30cbf15b03f5a78cf041f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62624309096b07532e70f9c79bd2984e6febd358.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28ebaf3355d658c513957a292f749b4da6827d58.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fb8256f809a7d58332f2323bc5bbdd04ad20dcf.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《那个星期天》选自长篇小说《（___）》。",
       "options": [],
       "answer": "务虚笔记",
-      "explanation": "史铁生的散文《那个星期天》节选自他的著作《务虚笔记》。"
+      "explanation": "史铁生的散文《那个星期天》节选自他的著作《务虚笔记》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d5bddeeae8d3f8a67995815539fe5a0b478ee75.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/202e8dfb5550739fcf737995d44059139f9af134.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "朱自清在《匆匆》中反思，自己没留下像（___）样的痕迹。",
       "options": [],
       "answer": "游丝",
-      "explanation": "文中写到：“我赤裸裸来到这世界……为什么偏要白白走这一遭啊？……没留下像游丝样的痕迹。”"
+      "explanation": "文中写到：“我赤裸裸来到这世界……为什么偏要白白走这一遭啊？……没留下像游丝样的痕迹。”",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2bbc10ff067c0d9edf644ab734c9d01f3f2a5c30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a63f7d5604a601b498f7a8a4a5d99f82a616abf.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "焦虑"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "挪移-移动；徘徊-踌躇；匆匆-急忙；焦急-焦虑。"
+      "explanation": "挪移-移动；徘徊-踌躇；匆匆-急忙；焦急-焦虑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bbfe1614f0d556db576adacfa190a2685bb5db4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cdfdcd1283ef71ff78b1a880c84e4f0cfba8aa14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f2ffbd930c04c7dcb9a688389952c99f553b61a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a874a973830f062d3a5395b6d090776ed2063afa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/588aa0ee686b3dd2deab2536a3304ff792417598.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/591f3aa55fdaff6399caf95d6ec48ab9e2fc6d43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2f715d8007a3fc00b68b88476cd71e804c39170.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8aab08fccb4ca59c29922e84a061cb1f630da739.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f893902ee41b2ff20c0434f84726873274c978b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/0431a1ad318b7451d55eca821aced7b8ef64b87f.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "心情舒畅"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "鸟鸣悦耳通常映衬欢快；乌云映衬压抑；寒风映衬凄凉；阳光映衬舒畅。"
+      "explanation": "鸟鸣悦耳通常映衬欢快；乌云映衬压抑；寒风映衬凄凉；阳光映衬舒畅。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3af08d5e6631442abe479537c6a01b49a33e22e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5adf22cda674b74d3d51ba91342c021d95a2202c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5533e17a6617c2d96d98619e26ac9513886b6c49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/6647c5ea7dffd0682cb73fa98451db76a7a36c57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/554f23aa1ed4017178b20ffebadf47988fda221e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0e46c2e77350bcd168dae7615f8694226427a91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/500e585ad3013f70d6957e2c11882520fc035867.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4a2bf82180f746bb914a59b984e26f2aa9d612c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/372920bab52bb449b96652f5c52a65daa46fa5de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b87046420e16d370d68ed2bd62966122490fd759.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "我们的"
       ],
       "answer": "我们的,时间,在淘气的,怀里,跳动",
-      "explanation": "运用拟人手法，将时间比作淘气的孩子在跳动。"
+      "explanation": "运用拟人手法，将时间比作淘气的孩子在跳动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e400ee71aa7fd633304015cd94b5ef23b6f2af0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e247e3a88018ea9f3d15b59eabc4ce1bdcbfe533.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9541bee18dac3e4feb414b9eb6185123e6a4f56e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e19ee3985c15bdd5205bb09017338e7bd9b3e1e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8aebea23a9d73af590744a32c54abcdc83fc8b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f7973cbd1b8330f6b6abb4b7d6a68239a948ed6.mp3"
+      }
     }
   ],
   "knowledge": null

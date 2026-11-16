@@ -16,7 +16,11 @@
       "question": "What would you like to eat? 是询问别人想喝什么。",
       "options": [],
       "answer": "错",
-      "explanation": "eat是吃，喝是drink。"
+      "explanation": "eat是吃，喝是drink。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/281de66f081547605b1e4aa9f15668ffc0ad1148.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fae82ac5635f9f4b3d26aeca179a99b6aa63fb2d.mp3"
+      }
     }
   ],
   "knowledge": null

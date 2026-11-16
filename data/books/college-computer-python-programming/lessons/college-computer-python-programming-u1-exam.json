@@ -21,7 +21,15 @@
         "my-var"
       ],
       "answer": "my_var",
-      "explanation": "不能以数字开头、不能是关键字、不能含连字符。"
+      "explanation": "不能以数字开头、不能是关键字、不能含连字符。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/8d/8d767bf5b72373d12f0efd4406677e9ed076f592.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 7,
@@ -37,7 +45,15 @@
         "报错"
       ],
       "answer": "3",
-      "explanation": "len 返回元素个数。"
+      "explanation": "len 返回元素个数。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 8,

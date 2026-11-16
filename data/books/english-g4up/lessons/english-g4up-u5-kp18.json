@@ -16,7 +16,11 @@
       "question": "I would like some chicken and ___ (汤).",
       "options": [],
       "answer": "soup",
-      "explanation": "汤的英文单词是soup。"
+      "explanation": "汤的英文单词是soup。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d47fe915931c9137c7e44e2d71cf7e14e56d3a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5c64b907196d2491cb8f36d18b1f4a28fae5590.mp3"
+      }
     }
   ],
   "knowledge": null

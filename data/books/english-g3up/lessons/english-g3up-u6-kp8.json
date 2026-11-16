@@ -16,7 +16,11 @@
       "question": "回答年龄时可以使用 'I'm nine years old.'",
       "options": [],
       "answer": "对",
-      "explanation": "这是询问年龄的标准答语。"
+      "explanation": "这是询问年龄的标准答语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd7cd74a46f65133fb6cdc0f27c208429f751d13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c104ceefc8671d16f08c1b6e90cec1875d98263.mp3"
+      }
     }
   ],
   "knowledge": null

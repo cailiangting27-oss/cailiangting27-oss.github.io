@@ -16,7 +16,11 @@
       "question": "轴对称图形中，对称轴两侧对应的点到对称轴的距离相等。",
       "options": [],
       "answer": "对",
-      "explanation": "根据轴对称图形的基本性质，对应点到对称轴的距离是相等的。"
+      "explanation": "根据轴对称图形的基本性质，对应点到对称轴的距离是相等的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01233084a2e88db99db4d3c2bd70d57f62a96f2a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27103811b604d6842875eb1f2b273be3a8c36ddd.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "正方形有 4 条对称轴。",
       "options": [],
       "answer": "对",
-      "explanation": "正方形有两条对角线对称轴和两条对边中线对称轴，共4条。"
+      "explanation": "正方形有两条对角线对称轴和两条对边中线对称轴，共4条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb5d6e963827689b76bb5e3c8193532360590449.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bbce70eb3b7d941a7eec7acb0bfc5310a0a0648.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "4条"
       ],
       "answer": "1条",
-      "explanation": "等腰三角形只有一条对称轴，即底边的中垂线。"
+      "explanation": "等腰三角形只有一条对称轴，即底边的中垂线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d764faed196ee12d4062904688039a4b63d44611.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84515c2960535731435bb9028fe4a6fa9649307f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/388d28adb2a18ee4e38762dc7e06093afc56d0b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a2326d50330192fc31626a4d14f780e165ea727.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f9b8096b7a2eab1cf586368387288483e51deb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7eb6e8d32ee6a7caf6433f2e7af6bb1f1b5b44fe.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "上"
       ],
       "answer": "中",
-      "explanation": "“中”字关于中间竖笔画对称。"
+      "explanation": "“中”字关于中间竖笔画对称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/087e917efda07acf375c17858c1f11cb78f63c46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0869071c92c0c11170ac87036bebedb52ea0c993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df3ee667608cb5490b76525550840dc62e33122c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/851cdd609190b0acc914091b9b7c1a0d32838c4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9b75182a647411fbef174cac828db09c155e126.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "中心点"
       ],
       "answer": "对应点",
-      "explanation": "补全轴对称图形的关键是先确定关键点关于对称轴的对应点。"
+      "explanation": "补全轴对称图形的关键是先确定关键点关于对称轴的对应点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26640aa3ba649f3f17535af88e2db76087240b85.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5cb5ee8d1e79e800bcfef246e126122d2465542e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84c60ff74cab2324df35d971112da4f34a85acb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4386561f7a0e25c95a0897e42a2effb068af09e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cadbc29b7284cb1001ba52586b90668de41c4e72.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69c31ec00562f25153bd740d05da67a21970c19c.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "无数条"
       ],
       "answer": "无数条",
-      "explanation": "圆的任何一条直径所在的直线都是它的对称轴。"
+      "explanation": "圆的任何一条直径所在的直线都是它的对称轴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/0011cb7535a79f1f095b1a851f23340314c2f7d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84515c2960535731435bb9028fe4a6fa9649307f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/388d28adb2a18ee4e38762dc7e06093afc56d0b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f9b8096b7a2eab1cf586368387288483e51deb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af044da8085f5fb2a70daf83411c0999cb0cf51d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7630f4c491b10aca2b0983278effde307496126b.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "S"
       ],
       "answer": "S",
-      "explanation": "S旋转180度重合，但沿任何轴折叠都无法重合，不是轴对称图形。"
+      "explanation": "S旋转180度重合，但沿任何轴折叠都无法重合，不是轴对称图形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28641179fcf0e0358ed3869b86f0b1e5b4f10662.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6dcd4ce23d88e2ee9568ba546c007c63d9131c1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cf184f4c67ad58283ecb19349720b0cae756829.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63ae6dd4fc9f9dda66970e827d13f7c73fe841c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02aa629c8b16cd17a44f3a0efec2feed43937642.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84b9b8f569af2df572e5ad72d9a0d1b23229ffe4.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "长方形有 ___ 条对称轴。",
       "options": [],
       "answer": "2",
-      "explanation": "长方形的长边中点连线和短边中点连线各是一条对称轴，共2条。对角线折叠不重合。"
+      "explanation": "长方形的长边中点连线和短边中点连线各是一条对称轴，共2条。对角线折叠不重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91a823c42d487b5a7bca995f6f9f02a177cf4c2a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c0c5650fa02e4cb0c980af55bf3a079cbcfd2df.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "找对应点时，在对称轴同侧画点。",
       "连接点时顺序错误，导致补出来的图形形状怪异。"
     ],
-    "tips": "数格点时要细心，建议从上到下，先标点后连线。"
+    "tips": "数格点时要细心，建议从上到下，先标点后连线。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/01/0102be7af69b0b4c3f4bd49ccc877bad1e262263.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/44/44735a5f83970f112b0bab027eef1a5898b75ca9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1c/1c7da38ca524e01a3fa48119336fd1b1ba8b584a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f7/f7014767dd90459079c6defbc561eb8cb534449b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e6/e655066afd6e92122464d470dcfd653bc17e4070.mp3",
+        "https://api.clthuanxie.cn/cc-audio/62/6292e4db7fddd41bf9e2ce01578f2702de1e0d99.mp3"
+      ]
+    }
   }
 }

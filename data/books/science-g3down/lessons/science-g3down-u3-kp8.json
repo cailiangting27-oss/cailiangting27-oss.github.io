@@ -16,7 +16,11 @@
       "question": "只要有光，就一定能看到物体的影子。",
       "options": [],
       "answer": "错",
-      "explanation": "影子产生的条件包括光源、遮挡物和屏，三者缺一不可。"
+      "explanation": "影子产生的条件包括光源、遮挡物和屏，三者缺一不可。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10845bc7ec6980ede3352a2ca47b3871b221e9f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/68e361be5c40237760aa60a5b7e09148fcd5c2b9.mp3"
+      }
     }
   ],
   "knowledge": null

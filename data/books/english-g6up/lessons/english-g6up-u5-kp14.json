@@ -21,7 +21,17 @@
         "worker"
       ],
       "answer": "singer",
-      "explanation": "会唱歌(sing)的是歌手(singer)。"
+      "explanation": "会唱歌(sing)的是歌手(singer)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c16b7e4e87344a1085bc0d61738a1a957c7657d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5fdccf09b305ccc3e5617efeed0b9b9f1288ee23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/204036a1ef6e7360e536300ea78c6aeb4a9333dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10f5ebe6acb4467b71602be4c4fdb44c44fa26b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a572b5439daddef4b93724c5ba253b5b92c49125.mp3"
+      }
     }
   ],
   "knowledge": null

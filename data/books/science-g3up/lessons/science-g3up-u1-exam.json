@@ -16,7 +16,11 @@
       "question": "水蒸气的颗粒很大，我们可以用眼睛直接看到。",
       "options": [],
       "answer": "错",
-      "explanation": "水蒸气分子极小，肉眼不可见。"
+      "explanation": "水蒸气分子极小，肉眼不可见。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61e9d3e4fbaeab7fdc5940fed17f05af0cabc3a5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/855d7ddda3ce06208b4e927fb3a328e92fdf2912.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "测量水温时，温度计的下端可以接触到烧杯的底部。",
       "options": [],
       "answer": "错",
-      "explanation": "温度计液泡不能碰到容器壁或底，否则测得的是容器的温度。"
+      "explanation": "温度计液泡不能碰到容器壁或底，否则测得的是容器的温度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/1184b9c72d055926fa5c8f74c088e72c9cf59c31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31221eeaa0f01e650ef4f13571f84135d24c950c.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "两个杯中水量、水温、盐量都相同，搅拌的杯子盐化得快。",
       "options": [],
       "answer": "对",
-      "explanation": "搅拌能加快溶质分子扩散，从而加速溶解。"
+      "explanation": "搅拌能加快溶质分子扩散，从而加速溶解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73e29334454fb9f494d2f0d754030e94b7d86bd3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9747a9af0d28fbefee23c52828f6db7ceefc5d8.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "水结成冰后，它就不再是水这种物质了。",
       "options": [],
       "answer": "错",
-      "explanation": "水、冰、水蒸气是同一种物质的三种不同状态。"
+      "explanation": "水、冰、水蒸气是同一种物质的三种不同状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a36bc08a4105d94fae90af53a593cd5eaf16dca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0e35d7b0dce62ba3590dd8e6ff0672b86f19506.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "搅拌的速度"
       ],
       "answer": "水的温度",
-      "explanation": "研究温度影响，必须设定不同的温度作为变量。"
+      "explanation": "研究温度影响，必须设定不同的温度作为变量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b26870bb4ba54ed1daf26910c7c0ac77014b25e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cde8621458b3a5e8a1a7735a616f037bfd634568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cceaf49dbadf69b0fae0cc1f5ce76911c7b917c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de46bce176cae4405a3f35d272efeeaf92ce96a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fc123b66da1b84a04b522a8922a670a0812020a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1cafb4210705e38324a4258f335ab60201b05613.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "离开烧杯一段距离"
       ],
       "answer": "紧贴烧杯内壁",
-      "explanation": "紧贴内壁可以防止液体溅出，且能加快过滤速度。"
+      "explanation": "紧贴内壁可以防止液体溅出，且能加快过滤速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95749c23bd44179c15107d92c17b813a55e26682.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a232d2371af9ee354fd04cf4cb20aae9b917aca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2da61ceb4f2a0a04fd67a1a62956e638311ac61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ef2995c456854257f9c81d38b9cc6dfac6da929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/193a3aa77a7f55a1eabf12c4214e13046e6c5dc0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d90897d43d9a1859684f20578334a8066332d9f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "静置一天"
       ],
       "answer": "加一点水",
-      "explanation": "只有改变溶剂总量或极大幅改变温度才能改变溶解的限度。"
+      "explanation": "只有改变溶剂总量或极大幅改变温度才能改变溶解的限度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67799aeb813d594f918f6c18123d1a0649a25ab2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/19530ee5ed6eca763316ca22a3f31044a46b67ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2c148875d3459487edce09d1aa68be43a57e4c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce386e8f2162fa6ffef3facd0811ce401230e1ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1307af61e468c7d40aaa5c074b19342e2a4fb498.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f928a33564de989087b02aacabb8bc28246d22d9.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "水管受冷收缩了"
       ],
       "answer": "水结冰后体积变大",
-      "explanation": "水结冰体积膨胀会产生巨大的压力将管壁撑裂。"
+      "explanation": "水结冰体积膨胀会产生巨大的压力将管壁撑裂。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96e2a33edadeb09722dbf3eeb8b66de929b6dcbd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d14698b60c6e1562b11aace8331d6fd73014d81e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17435334f51dd62ab583483b73c779b836828dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43e405cb962219059fb98eb01b2d63ec44a25ded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c1982aaf1f27cb53585ca71064b73787fe296fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c92802b11c2edade1d427ff5985e756ef0ffd36b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "过滤"
       ],
       "answer": "蒸发",
-      "explanation": "常温下液态水缓慢变成气态导致水量减少。"
+      "explanation": "常温下液态水缓慢变成气态导致水量减少。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e9095652709f5896fb9f4271d98a34997d0bb75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/adfb29609824daa5580e6435a7770c5fb8ea8dd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dffd4fd82a75c08f45e390ac58c31e40a07fa143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89fd5c6cdf163e5758ba9ac1d5fcf51e08427da9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5270860ef02c1dacd1cc1fb5c88f11214be7b932.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c45c3ef90b9879db0ef36237f5f073e9cc86efcd.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "不用称量"
       ],
       "answer": "一小份一小份",
-      "explanation": "分份加入能更准确地观察到在哪一刻达到饱和。"
+      "explanation": "分份加入能更准确地观察到在哪一刻达到饱和。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4a5ea2155d37644adb6ce8770ddcad34ef5a31d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56941f6f38815e45ccef25bffcb49309201fb410.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abcdec6d73b9cafbcee5b8d37ed8feb86b464b2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/935461a280e23695c9a983622201b2eb16fa053d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4714e247f1357866df55491cae5c0415d0c902.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63185a6161b256d38c82d72c69c519f878349fa3.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "先变慢再变快"
       ],
       "answer": "变快",
-      "explanation": "盐可以降低水的凝固点，让冰在更低的温度下融化。"
+      "explanation": "盐可以降低水的凝固点，让冰在更低的温度下融化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/394b8dcd9350f5a6f96c5f6e22580288f1c3c80d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d48e7f660004f1b092ef389ffa8c8fdb1416a1fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce25a71c77ee74013c8ed1b8f032e9b6856a53a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7befcb62f8e2ffdc15dab2c37831a1ac7727723b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1eed90c711f3f1f2387a09070c90e41629f243c.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "物质的甜度"
       ],
       "answer": "溶解的速度",
-      "explanation": "物理性质的迁移速度受外力（搅拌）影响显著。"
+      "explanation": "物理性质的迁移速度受外力（搅拌）影响显著。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4357e17af5919a9a22ee6f8a5cc245bac5ab34ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cde8621458b3a5e8a1a7735a616f037bfd634568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0873aa028ad796c062e431fb5889ea73f0d7e48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de46bce176cae4405a3f35d272efeeaf92ce96a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a71ce021b71e00429e905f725f5be67dbde476b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad1534b8d8da04ba4117379d137edebeba4cba6f.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "100毫升的水结成冰后，体积通常会扩展到大约（）毫升左右。",
       "options": [],
       "answer": "110",
-      "explanation": "水结冰后体积约膨胀九分之一。"
+      "explanation": "水结冰后体积约膨胀九分之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6404170ed0f42a660548b31d9d8af9db8d17642.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7643cf986985374303e08f9204bb37e1324dd8ab.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "人体的正常体温大约是（）℃。",
       "options": [],
       "answer": "37",
-      "explanation": "常识性知识点。"
+      "explanation": "常识性知识点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74ec9af3f77a5be08a00c32068a2727aa4cfb397.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18562da05e3075a643e34f84f740359dc38cc44e.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "水受热剧烈变成水蒸气的现象叫做（）。",
       "options": [],
       "answer": "沸腾",
-      "explanation": "沸腾是特殊的汽化现象。"
+      "explanation": "沸腾是特殊的汽化现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76e4fd9fc830c1db1a28e7f130e49674a18f2f0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/833c971a72d94728df7e320a6dd488186d26a5f3.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "《咏柳》的作者是唐代诗人贺知章。",
       "options": [],
       "answer": "对",
-      "explanation": "《咏柳》确实是贺知章的作品。"
+      "explanation": "《咏柳》确实是贺知章的作品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/141628b0c1fd7c8113fcdcbdbf6825f93a583682.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c280877dcd65a350709b81ee79813839e710457c.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "蝴蝶"
       ],
       "answer": "风筝",
-      "explanation": "在古代，纸鸢就是现在的风筝。"
+      "explanation": "在古代，纸鸢就是现在的风筝。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/544548b0f8be3e4fe0e79936ab8df361c9ab22a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2115560751890b7d9c94b457f1d3ff08b2494d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26c6b6d464b72b1b189300b2e3d887dc7f777517.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2f5fa273fa74ac31a32f2fa26b3545ed4464a45.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45bcd150edca5c62602c1bf0027122e661b079ee.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "初冬"
       ],
       "answer": "早春",
-      "explanation": "二月、草长莺飞、杨柳均指向春天。"
+      "explanation": "二月、草长莺飞、杨柳均指向春天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd7007c08587ba2b72b6cf7bdab8a5204fcff903.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb3a7e099a088bcfd6d67cb450988c91fe87503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b951ea77dd4c4e209cfb66400ec509ef53d4d9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e93023c8504f57e318a475ec7b028a3c1cf05224.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f486cbecd1e55f1e7131ee3fff6ce0a96031e9fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27929f37d827b62bda86f5111a1ca81387960f0b.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "《咏柳》中，“万条垂下绿（ ）”。",
       "options": [],
       "answer": "丝绦",
-      "explanation": "原文为“万条垂下绿丝绦”。"
+      "explanation": "原文为“万条垂下绿丝绦”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d538154fa8380dd16472bf63c44224a7a7c7c53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db1b1d8aef90acc52c93afecbd75d6e894f96d6f.mp3"
+      }
     },
     {
       "id": 20,
@@ -79,7 +107,21 @@
         "处处闻啼鸟"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "根据所学古诗知识进行配对。"
+      "explanation": "根据所学古诗知识进行配对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc79490f0ecab5c3870ad77c8ab7526471d86be5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a076325a87327f678ee35d394f4b702545ed03ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2542c5951567264af32f98b093c059dfba5a37fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b20ebe9a598ec002757efc379c4db133b458bcb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dceacea830809c8b35d0a5175de0d8eb68e305b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c1084e9735b8e84d1be75a2b91cf70f982669a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a8e5a068591c305b88ad6b3c390780810fadd7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35dad03c1b027d4dbcfe481eac58646c81fa8c56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afa71af0d5bd581a580e17985dbc3bcea7a5adc6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b44777bde9af3a90dac76ec7e0a7e7f92dce567.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -90,6 +132,16 @@
       "容易将《村居》的“纸鸢”误解为真实的鸟类。",
       "“碧玉妆成一树高”中的“妆”字容易写成别字。"
     ],
-    "tips": "背诵时可以闭上眼，把每一句诗想象成一个短视频画面，画面连起来就是一首诗。"
+    "tips": "背诵时可以闭上眼，把每一句诗想象成一个短视频画面，画面连起来就是一首诗。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9b/9b4d37f8442f9280494709d00ed173f98205d7bc.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0b29d9a4eb9d36cc7e42f3ac999f21a06da1c567.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/51/51337a20094cbd1afb417b067f2662c7c9c79325.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5b/5b9ed3568b2fc38f6021832fecfca48f83263974.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ab/ab2d21c079d1e6f4fe965dc0a6b440f2f40c9e0a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/11/11441d9651afe2fe312297a00b862ab421d31b18.mp3"
+      ]
+    }
   }
 }

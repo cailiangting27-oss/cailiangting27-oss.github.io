@@ -16,7 +16,11 @@
       "question": "在家里测量爸爸的身高，使用地秤比卷尺更合适。",
       "options": [],
       "answer": "错",
-      "explanation": "地秤是测量体重的工具，测量身高应该使用卷尺。"
+      "explanation": "地秤是测量体重的工具，测量身高应该使用卷尺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90f3cd5890232c1a9eb14d33ebe4ca10b0eb4fa3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/125731436dc7f4cca57d1130fef6da9fb0db2118.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "天平"
       ],
       "answer": "体温枪",
-      "explanation": "体温枪或体温计是专门测量人体温度的工具。"
+      "explanation": "体温枪或体温计是专门测量人体温度的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/4600b4b701585df79c6c126fe1fc7b5e252ebb1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b967e66e990c8b389fee602fd7d3bac8dd727b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f5b8dc6e976e2a888b47a2c6b83f8d53dcb3768.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91106d951f286b56f73da47a993bfccbaac6b399.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d558599b2e9a4466ccd88f68f16ea7117dc83518.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c20a03c552a9df35a3b7532201f9ec7e0345675d.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "纸带"
       ],
       "answer": "电子秤",
-      "explanation": "电子秤用于测量质量/重量。"
+      "explanation": "电子秤用于测量质量/重量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f5478d817753c080ab3199bbf81db7ffb396bbd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/178871ca1687fdc1c4fe02c90b46d4bb1d6c3017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3fed60b3fb1efa61075b177dbad767cd114f5be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bfea5b380d7b3ac2b15741663a9d92bab92a6f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f6102c0677258e084790021c62d91a87ca09859.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bdd6bfeb11841e45b93825bd25394a2a3b5a926.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "校运会比赛跑步时，老师手里拿着用来计时间的工具叫（___）。",
       "options": [],
       "answer": "秒表",
-      "explanation": "秒表是测量时间的专用工具。"
+      "explanation": "秒表是测量时间的专用工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/982921e955ded65f22b6bb95ee437878f9ec7e2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51cf2db1e8ce3e917f47d2b321dda62c8e773298.mp3"
+      }
     }
   ],
   "knowledge": null

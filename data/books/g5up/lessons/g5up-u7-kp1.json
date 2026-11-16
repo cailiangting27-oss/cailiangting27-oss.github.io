@@ -16,7 +16,11 @@
       "question": "在一条长 100 米的小路一侧植树（两端都栽），如果间隔 5 米，一共有 20 个间隔。",
       "options": [],
       "answer": "对",
-      "explanation": "间隔数 = 全长 ÷ 间隔长度。计算：$100 \\div 5 = 20$（个）。验算：$20 \\times 5 = 100$✓。"
+      "explanation": "间隔数 = 全长 ÷ 间隔长度。计算：$100 \\div 5 = 20$（个）。验算：$20 \\times 5 = 100$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33e76b690be2eed10b22761b65c068421543a9de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c90c68c7bbdcc7d2025e4dda965d1b614f1c6a53.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在两座楼房之间种树，因为两端都不能种，所以棵数比间隔数多 1。",
       "options": [],
       "answer": "错",
-      "explanation": "两端都不栽的情况下，棵数 = 间隔数 - 1。例如有 2 个间隔只能种 1 棵树。"
+      "explanation": "两端都不栽的情况下，棵数 = 间隔数 - 1。例如有 2 个间隔只能种 1 棵树。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d5e58c2b0c917c8dabb080e22a3c21a6140de9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/355cfb5f89b8eb3e7a23139cd093159bb1530272.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "把一根木头锯成 5 段，需要锯 5 次。",
       "options": [],
       "answer": "错",
-      "explanation": "锯成 5 段相当于有 5 个间隔，属于两端不栽的情况（或说是中间切口数），次数 = 段数 - 1，即 $5 - 1 = 4$ 次。"
+      "explanation": "锯成 5 段相当于有 5 个间隔，属于两端不栽的情况（或说是中间切口数），次数 = 段数 - 1，即 $5 - 1 = 4$ 次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13f8f2400ad059db488c11bd071bd16d524a18b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd508034079dfd9adac8ecea8f0bd7021d5b5c69.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "20"
       ],
       "answer": "5",
-      "explanation": "两端都挂：间隔数 = $20 \\div 5 = 4$，灯笼数 = $4 + 1 = 5$ 个。"
+      "explanation": "两端都挂：间隔数 = $20 \\div 5 = 4$，灯笼数 = $4 + 1 = 5$ 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce0c3564b8b0d9a46670bf167705ffbb7acfeb3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdcfd0dc0d3eaa26d8574d2f45e6e14d75a9190e.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "250"
       ],
       "answer": "360",
-      "explanation": "两端都安，间隔数 = $10 - 1 = 9$ 个。全长 = $9 \\times 40 = 360$ 米。"
+      "explanation": "两端都安，间隔数 = $10 - 1 = 9$ 个。全长 = $9 \\times 40 = 360$ 米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4ef202f4c7d51f09d0040770c805725d0f04a514.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d0e1050797b03d8826ea5ad224adba68621f692.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1773d62a609dd09e98ea1aebeddbd949b78bf83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba30fd97b4127db56e9f4d3d9c030d71646fd2e7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3945ee0b52f7661b662cdbf9a2ac579cd1a8cefb.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "20"
       ],
       "answer": "22",
-      "explanation": "单侧间隔 = $50 \\div 5 = 10$ 个，单侧棵数 = $10 + 1 = 11$ 棵。两旁则为 $11 \\times 2 = 22$ 棵。"
+      "explanation": "单侧间隔 = $50 \\div 5 = 10$ 个，单侧棵数 = $10 + 1 = 11$ 棵。两旁则为 $11 \\times 2 = 22$ 棵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0289cb62562e28bd02351a2c3f186bc4c7b8684d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/046d449eb54a49175989ea255ac7fc451d7e7a40.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "2"
       ],
       "answer": "6",
-      "explanation": "段数 = $12 \\div 3 = 4$ 段。锯的次数 = $4 - 1 = 3$ 次。时间 = $3 \\times 2 = 6$ 分钟。"
+      "explanation": "段数 = $12 \\div 3 = 4$ 段。锯的次数 = $4 - 1 = 3$ 次。时间 = $3 \\times 2 = 6$ 分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bcddd6846e7933feefefa37627f341174ab91a9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4694c7b5ae07e7334dc45f9e4fc26d2662a96c2a.mp3"
+      }
     },
     {
       "id": 13,
@@ -118,7 +170,17 @@
         "48"
       ],
       "answer": "16",
-      "explanation": "1楼到4楼有 $4 - 1 = 3$ 层间隔。每层台阶 = $48 \\div 3 = 16$ 级。"
+      "explanation": "1楼到4楼有 $4 - 1 = 3$ 层间隔。每层台阶 = $48 \\div 3 = 16$ 级。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5009062d407421aedb7fc4bd2d1e737985ef8707.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b5f5b1c9c664768167aba5c82381ee5d246f80f.mp3"
+      }
     },
     {
       "id": 15,
@@ -134,7 +196,17 @@
         "12"
       ],
       "answer": "9",
-      "explanation": "两端都不安：间隔数 = $100 \\div 10 = 10$ 个。盏数 = $10 - 1 = 9$ 盏。"
+      "explanation": "两端都不安：间隔数 = $100 \\div 10 = 10$ 个。盏数 = $10 - 1 = 9$ 盏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/375918d39bced565580b0788d15cde3bd5f9f5e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/828e78643ea5ea34c515f2d18919718d4c47d170.mp3"
+      }
     },
     {
       "id": 17,
@@ -150,7 +222,17 @@
         "11"
       ],
       "answer": "20",
-      "explanation": "人相当于树（两端都栽），间隔数 = $11 - 1 = 10$ 个。总长 = $10 \\times 2 = 20$ 米。"
+      "explanation": "人相当于树（两端都栽），间隔数 = $11 - 1 = 10$ 个。总长 = $10 \\times 2 = 20$ 米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7353935edbc5836ac0ab4dfbc56f5c1f2bf6fdee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2298496bb2e9fa5c5c197b7463826e541eed1d5.mp3"
+      }
     },
     {
       "id": 19,
@@ -161,7 +243,11 @@
       "question": "在一条长 30 米的小路一侧植树，每隔 6 米栽一棵（两端都栽），一共要栽 ___ 棵。",
       "options": [],
       "answer": "6",
-      "explanation": "间隔数：$30 \\div 6 = 5$（个）。两端都栽：棵数 = $5 + 1 = 6$（棵）。验算：$6-1=5$, $5 \\times 6=30$✓。"
+      "explanation": "间隔数：$30 \\div 6 = 5$（个）。两端都栽：棵数 = $5 + 1 = 6$（棵）。验算：$6-1=5$, $5 \\times 6=30$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c74724087474f209bdba80b547a27f045df750d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b367271f2e08d3cc49cfbafe9623d88281ab12a5.mp3"
+      }
     },
     {
       "id": 23,
@@ -172,7 +258,11 @@
       "question": "计算：$(80 \\div 4) + 1 = ?$",
       "options": [],
       "answer": "21",
-      "explanation": "$(80 \\div 4) + 1 = 20 + 1 = 21$。验算：$(21 - 1) \\times 4 = 80$✓。"
+      "explanation": "$(80 \\div 4) + 1 = 20 + 1 = 21$。验算：$(21 - 1) \\times 4 = 80$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78260e0576692cb1dc49edde189d7d9d8899d238.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/076e49e0023c87bf26d2e3b2da10009f7e0f5e84.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -183,6 +273,16 @@
       "忽视“两端”的具体要求，统一直接用全长除以间隔作为答案。",
       "在计算“两旁”植树时，忘记最后将单侧结果乘以 2。"
     ],
-    "tips": "先求出间隔数（全长÷间距），然后根据“手指头和空隙”的模型来判断：手掌张开，5个手指（树）之间有4个空隙（间隔），这就是两端都栽。"
+    "tips": "先求出间隔数（全长÷间距），然后根据“手指头和空隙”的模型来判断：手掌张开，5个手指（树）之间有4个空隙（间隔），这就是两端都栽。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8a/8ad2d6bb8a0a812280713a7bb0c19af4a62a859c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7c/7c6f52922f2461de008c0f55dc55cc54a9e96f30.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bf/bf36a1ad35bcbfe354022cbac4663dfa70c5d5e5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/58/586540223722ff3ae48fa68bfa93383ea5545a17.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a8/a8108a119b4b224cc2de600f01df0e9b77af41ef.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b3/b3f091fa298cb4ed8641b802d37980a30131a3f2.mp3"
+      ]
+    }
   }
 }

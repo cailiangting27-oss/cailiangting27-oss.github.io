@@ -16,7 +16,11 @@
       "question": "大树是（___）医生的病人。",
       "options": [],
       "answer": "啄木鸟",
-      "explanation": "啄木鸟生活在森林里，专门为树木捉虫。"
+      "explanation": "啄木鸟生活在森林里，专门为树木捉虫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6f3fb623fc91e0057b41c14ba5ce390ac6333ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fe1b24cbd743b77fadbcccb4a74e81ee3121e09.mp3"
+      }
     }
   ],
   "knowledge": null

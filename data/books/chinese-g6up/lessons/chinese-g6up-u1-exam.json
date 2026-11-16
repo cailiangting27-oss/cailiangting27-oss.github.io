@@ -16,7 +16,11 @@
       "question": "“我是亲友间交往的礼品，我是婚礼上的冠冕……”这句排比句增强了语言的节奏感。",
       "options": [],
       "answer": "对",
-      "explanation": "排比能够增强语言气势，使节奏明快。"
+      "explanation": "排比能够增强语言气势，使节奏明快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca6f57adcda21547548fedad496b968da445d77f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9326e7cc17054416f6482c74c1e35a7b3f014c9d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《宿建德江》中“移舟泊烟渚”的“烟渚”指烟雾蒙蒙的小洲。",
       "options": [],
       "answer": "对",
-      "explanation": "渚指水中小洲，烟指烟雾，解释正确。"
+      "explanation": "渚指水中小洲，烟指烟雾，解释正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cc432e1065f975234f72beb1d054c02bfb94ab5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/8965308a6f0e48c0bfaaa736d89a3f6fc2e68e6e.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "只有文学作品需要联想，科学阅读不需要联想。",
       "options": [],
       "answer": "错",
-      "explanation": "根据新课标要求，阅读任何文本都可以联系生活实际进行深度思考。"
+      "explanation": "根据新课标要求，阅读任何文本都可以联系生活实际进行深度思考。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37a9656c8617498a378b34a99295cc5a1dbe906d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b2a94e52c0d5c1cfd72484145beabc0b38c4af3.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“这种境界，既使人惊叹，又叫人舒服。”这句话中不应使用逗号。",
       "options": [],
       "answer": "错",
-      "explanation": "此处为关联词带动的两个分句，使用逗号是正确的停顿。"
+      "explanation": "此处为关联词带动的两个分句，使用逗号是正确的停顿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/696d86c17982176357abf046d7e21e8f0e7f632a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/328b48ccfcdd56fc755852750c7afef8b84cef87.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "王维"
       ],
       "answer": "辛弃疾",
-      "explanation": "这是课本明确要求背诵的偏目及其作者。"
+      "explanation": "这是课本明确要求背诵的偏目及其作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32d707140107aeafc9c5c9968ed5cdcdf901ab1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf8fd510e6a239338c981c1bd0424a7b7ee379c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1d6a8a2c5cd104d2afabe0d4e438d2e20c72054.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac6b0d9f583853ad3fab910a0ae813f44ee98694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb64ec86fde898f32abbbfe2fc4faf0e3a26d3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4cc563f39f869db2682eca309681879ef21fabb0.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "因为丁香花的花期太长"
       ],
       "answer": "意指人生总会有忧愁，应乐观面对",
-      "explanation": "象征意义解析：结是解不完的，生活才有趣味，这是作者的豁达见解。"
+      "explanation": "象征意义解析：结是解不完的，生活才有趣味，这是作者的豁达见解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/963adfb87a14155a3fc84beed8ff1db3cf47187e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4a8bb7c44fe5b27a3a92069586c26f655baaed3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24718940173d33271c334bfdff755f933dae32e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16b4b7a6099a1cc75f19fb0343d7e2fa94d3e993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2a168532246d3ebaa3c48bf4c449ade5b75d238.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0f6b8f216325cd6fca67264fed582ac9643c1cb.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "断断续续 庞然大树"
       ],
       "answer": "彩虹 孤芳自赏",
-      "explanation": "A项群马应为骏马；B项欲留应为欲流；D项大树应为大物（庞然大物）。"
+      "explanation": "A项群马应为骏马；B项欲留应为欲流；D项大树应为大物（庞然大物）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e0dba13582f30b498fe466b64e504eac413d369.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea726a9bc6290f4e732ec4280f0e27579f9a9822.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/013e84c32f4fc4f5f05925c69bc3183b458fbde4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f84c1d0ea992ee66ab3860acc69128e3deabfbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e42c94d1fc71693a0071bdaeda3bcaf93e61fd82.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc5e5e129598665ec7907193fab15200287aec19.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "即使...也"
       ],
       "answer": "只要...就",
-      "explanation": "此处表达充分条件关系最为恰当。"
+      "explanation": "此处表达充分条件关系最为恰当。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04d59fa670034768fea78f1b1f1a8e29f00240a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/863265bc0fc0736c3db9f27efa442f0cb5f1c971.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b2589c2dc9aa96a3c25ed3eb97d5432bd45dee0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f80bace82d6d462a2ec6846c633b099fac1f5502.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/303a4e42a30a8fcedca8e4d1f016d7db6c9544dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80432775b9e8665056d53176ed54373ddae75dd1.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "话题"
       ],
       "answer": "倾诉",
-      "explanation": "在这里指蒙汉同胞依依惜别，互道深情。"
+      "explanation": "在这里指蒙汉同胞依依惜别，互道深情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d98fd66caa2b0b2db9dfa0a574b34a0e84e4746.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a25e2662147e172ca27016863e0527f2ffd6944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/317313625c89b74c556a1e66858b07eb92da881d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b1c3a431c82caea62c51ff8223deaca92f765b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df999acdec18696a3541a308b2ca6c2a93a672aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/526b7d7041502bcc8e6c77631325a9bae080865d.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "为了说明丁香花怕旱"
       ],
       "answer": "为了增加朦胧哀伤的意境，衬托“结”的含蓄",
-      "explanation": "雨中的丁香更显妩媚与愁怨，符合全文借景抒情的基调。"
+      "explanation": "雨中的丁香更显妩媚与愁怨，符合全文借景抒情的基调。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/303c97e4296b3fafe6e8d2997a2e56ef3ecb0795.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/07db691fe02e38500b5c94507e7062073286e16c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ada43deaeac5a693ab841a7d5d92f97a3b1120ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1aab41bf3ca4217f11a8822108c23ca8ce5341.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0ed44fcdc5d44738a6bfce28afa6192d1ec1f7d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c72b1ba0be48d7c41015cf4793397f7538e85d03.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "过客"
       ],
       "answer": "亲人知己",
-      "explanation": "“近人”二字赋予月亮情感，在孤独的旅途中，月亮仿佛成了唯一的伴侣。"
+      "explanation": "“近人”二字赋予月亮情感，在孤独的旅途中，月亮仿佛成了唯一的伴侣。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6e218b6d0ef25bd2440da82be2c5265a0145dbe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c4e01fae85cc074aeb8982a5a7ec0a7aa0c22d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e985edcd563159b6a0fdbf36e3952b5f77b647be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d6c5930d93d56faade580551b53b266c8eb9ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3066fce8c98837307f869533551de5decd0df3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edebbeef06cad345deb2565c958d114fd09d75ff.mp3"
+      }
     },
     {
       "id": 17,
@@ -172,7 +258,11 @@
       "question": "“我是亲友之间交往的礼品；我是婚礼上的（___）。”",
       "options": [],
       "answer": "冠冕",
-      "explanation": "考查《花之歌》中的重点词汇记忆。"
+      "explanation": "考查《花之歌》中的重点词汇记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6ebfc8d73e17e2170fddf49068cac9cce914025e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af9fa8e806b540de382ddd5a35a38250885bca9e.mp3"
+      }
     },
     {
       "id": 18,
@@ -183,7 +273,11 @@
       "question": "《草原》选自现代著名作家（___）的作品《草原》。",
       "options": [],
       "answer": "老舍",
-      "explanation": "考查文学常识。"
+      "explanation": "考查文学常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb12cd15099830bb871b3dae25f1d3d52be1cbbc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/513796fef091f2ea227a1ba7afbb0a9538bd0b92.mp3"
+      }
     },
     {
       "id": 20,
@@ -203,7 +297,21 @@
         "辛弃疾"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "A-辛弃疾，B-孟浩然，C-老舍，D-李商隐（咏丁香）。"
+      "explanation": "A-辛弃疾，B-孟浩然，C-老舍，D-李商隐（咏丁香）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c51acc82fbae6c76062967665f4913ab2a86acc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1fbf5bbfc3d6dacb92dedc5a6458c15d15877c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/9343f4681c7341e0b638421f0c9a3e428fdc50a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610e278b2d9c663767efa366fe4164d8f6cfb70f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f0d2d5010a1d32568ffc54cf2d3b236c91ff61e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac6b0d9f583853ad3fab910a0ae813f44ee98694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a88d88d7994de1fddeedca2ca13059fb9abec683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9083eaa6d9482923e1c42122155164b742846a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1d6a8a2c5cd104d2afabe0d4e438d2e20c72054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3da8f48309bff63c11c1219464e09cfce483bf4b.mp3"
+      }
     },
     {
       "id": 21,
@@ -223,7 +331,21 @@
         "赞叹"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "考查本单元重点词语理解。"
+      "explanation": "考查本单元重点词语理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/155094fc0d19e223ebe7bda7390e449881db1e0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12e33f7397b9923e492cc5f20d69193145dd8152.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b9b691dccc0dbaff2031aa65c4fd9af4d385e46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95d53b9ba2d874479947eb67fb740da70b8948b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d2759cbee0cb9b66d3040f55195bbed78fa9325.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/0554f127b457b96feadc38bda56fe0e2d53d8984.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/002afa2ea4e608c9e225dee411030307c384073b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a89c89f4573cfc9ba89cacd4442b468b4df91cff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/103e4b1d6c43f09ea5d30c22cc4e06ab8c0c9b88.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c2f522584482fb922393f3f20acf0d41b469e8c.mp3"
+      }
     }
   ],
   "knowledge": null

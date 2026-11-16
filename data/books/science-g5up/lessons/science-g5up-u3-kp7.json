@@ -21,7 +21,17 @@
         "水滴等速滴下的次数"
       ],
       "answer": "云朵飘动的快慢",
-      "explanation": "计时需要具有周期性规律的现象，云朵移动受风力影响，不具备规律性。"
+      "explanation": "计时需要具有周期性规律的现象，云朵移动受风力影响，不具备规律性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49fa206b3c4b3143b4bbab23ba1010af8da9a7ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f33e1b1d48098ff472822c8ec4b6cd80944a7acb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885e8dd5e3a74ee8c7e872f37ad7427510105739.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7ffba4dd5b2215680214406fb5d2c790dfdd7904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/950a92e664968d7a67e7989e5d03325922d6eac8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e848bd1903c6d2f01df0b0fdf631c77a42a31e6.mp3"
+      }
     }
   ],
   "knowledge": null

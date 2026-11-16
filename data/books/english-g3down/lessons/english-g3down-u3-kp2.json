@@ -16,7 +16,11 @@
       "question": "句子 'It has big eyes.' 的意思是 '它有小眼睛'。",
       "options": [],
       "answer": "错",
-      "explanation": "big意思是'大的'，所以是'大眼睛'。"
+      "explanation": "big意思是'大的'，所以是'大眼睛'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6282302a33fd860f2e1733ddccde9e45a0fe599.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61ef5adc44e66b5170110e8101c068b6410a7f60.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "thin"
       ],
       "answer": "long",
-      "explanation": "兔子的耳朵特征是'长的'(long)。"
+      "explanation": "兔子的耳朵特征是'长的'(long)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90ba3659d5940f4157cc70b5fa37b9d626c061e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de2ad80370ac63b728cb6d05b1772d0d42d7b756.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "have"
       ],
       "answer": "has",
-      "explanation": "描述某物拥有什么特征部位，主语是It，谓语动词用has。"
+      "explanation": "描述某物拥有什么特征部位，主语是It，谓语动词用has。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d43fc29c0dac12cf4d897cd19d3befbb8b753a8a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f798c1c5aa4bdae8f2cb56ec253a92900b4a8a7.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "to"
       ],
       "answer": "at",
-      "explanation": "固定搭配look at意为'看……'。"
+      "explanation": "固定搭配look at意为'看……'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d37f58b052a08ce0927551e8b6477202ac3e955d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61497a26c19758708e32576bfccb18c88b559ef2.mp3"
+      }
     },
     {
       "id": 13,
@@ -80,7 +114,17 @@
         "two"
       ],
       "answer": "a",
-      "explanation": "head是可数名词单数，开头辅音音素用a。"
+      "explanation": "head是可数名词单数，开头辅音音素用a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3a0d8a7877f950aff714aaeee20c47b18349ecd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d25330b7e535e40dab18b9ae9b18baa40d97c6cd.mp3"
+      }
     },
     {
       "id": 15,
@@ -96,7 +140,17 @@
         "an elephant"
       ],
       "answer": "a rabbit",
-      "explanation": "兔子符合短尾巴和大眼睛的特征。"
+      "explanation": "兔子符合短尾巴和大眼睛的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f8d9dc7c1278b19e574bfe7184122b25aab0bcd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fddfb65944adc823c46597a819b232364e9f10da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a07730da66aa04398bbac5691a2be998459e0ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b1dd15c38c664852a9f305ae0fecb7952955b7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b74b5ed820065d2eee501404809cf940b758153.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef118ee7344e16d520cae28b777377149c1c2e0f.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +161,11 @@
       "question": "It ___ a big body.",
       "options": [],
       "answer": "has",
-      "explanation": "主语是it，表示'有'用has。"
+      "explanation": "主语是it，表示'有'用has。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c50ba4ce1f5e418b2f0406fc5665a26cee4a1a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72e00dc4be325b0cb8f9d7f1548916a9bb4600fd.mp3"
+      }
     },
     {
       "id": 21,
@@ -127,7 +185,21 @@
         "鼻子"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "tail-尾巴, nose-鼻子, eye-眼睛, body-身体。"
+      "explanation": "tail-尾巴, nose-鼻子, eye-眼睛, body-身体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/191d92664f3ae37911e741cd06660b8d782dd7f5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fbf5f2a2875b3bb65b8e3b23e6cc01d58ca30447.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79df4b1718127a8c81390d4196d6cbfc976105f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02083f4579e08a612425c0c1a17ee47add783b94.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/720c230fe99cdf33b979b6ff3fba0af891b73ffb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ec6d0ba4a91832b27c930f74e59478137427cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29cfc1f10a24fcec2b930d537fdc10008e47b808.mp3"
+      }
     },
     {
       "id": 23,
@@ -144,7 +216,18 @@
         "long"
       ],
       "answer": "it,has,a,long,nose",
-      "explanation": "描述物体的固定句型：It has + a + 形容词 + 部位。"
+      "explanation": "描述物体的固定句型：It has + a + 形容词 + 部位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8d397eeb341e15206183e1a212bb9ca580fdafd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5e166f36c620a65a6339b01f7f68ba3c9adb786.mp3"
+      }
     }
   ],
   "knowledge": null

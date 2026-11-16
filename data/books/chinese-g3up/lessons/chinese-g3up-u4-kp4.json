@@ -21,7 +21,17 @@
         "三头六臂"
       ],
       "answer": "七上八下",
-      "explanation": "七上八下形容心神不定或惊怕不安。"
+      "explanation": "七上八下形容心神不定或惊怕不安。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbeeaca3a1507eb092f6e95878c8ee6a4e1ac43b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b219b1001157b690947d304c68d7299f1d3c7087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d541462389fe89186391aed4472dd55fc88a8f7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d47287659c96b61bf5187700bc0ae9698d5a8dbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b247b7200f603fd37750fd5bd6ed39bcfc453cd0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7569414da83a44c0f965ead515462f06eaf16944.mp3"
+      }
     },
     {
       "id": 18,
@@ -32,7 +42,11 @@
       "question": "形容一个人读书很多、学识渊博，可以用成语（ ）富五车。",
       "options": [],
       "answer": "学",
-      "explanation": "学富五车形容读书多，学识渊博。"
+      "explanation": "学富五车形容读书多，学识渊博。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe17e219cd2364e34853a4aefa9b3b06911b60f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75a61d73ef29c73b8e50cd58307b2a08960253f0.mp3"
+      }
     },
     {
       "id": 19,
@@ -52,7 +66,21 @@
         "百中"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "四面八方，七嘴八舌，百发百中，成千上万。"
+      "explanation": "四面八方，七嘴八舌，百发百中，成千上万。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e84b8eed44506477b273b5ea12cd08cf64c7ccf2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92b167abd00e7d5356986bc13eb30519142da082.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89c26ef17589f23f58b6f94ac0b9b97b3a101a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fefaa03b1ae935cbd17cb626d6411ce0807d8df2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/087d77461ce1feed523de178d883cee08d4b931b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12f135bbd73fa92a2da261d2fb52962077defcb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c52a8e510491c8b4d05f985f8f26708a41cfac43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bc7815d8f4b60ae175f2a95cd44451671cd6dcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3327c7c8c22030fc76ab5d67a70ccff2116f6b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/529319d9c6cd0eebf8025ad6e756e8481328f70b.mp3"
+      }
     }
   ],
   "knowledge": null

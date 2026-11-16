@@ -21,7 +21,17 @@
         "to"
       ],
       "answer": "under",
-      "explanation": "under表示在...正下方。"
+      "explanation": "under表示在...正下方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe1119ab0c3aaaea4c8bd09e9c1322cfc39df45e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f8657aa295f33853199a29bbdb801e972ce234a.mp3"
+      }
     }
   ],
   "knowledge": null

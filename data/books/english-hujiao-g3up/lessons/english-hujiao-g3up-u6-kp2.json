@@ -21,7 +21,17 @@
         "My nine."
       ],
       "answer": "I'm nine.",
-      "explanation": "年龄用 I'm + 数字。"
+      "explanation": "年龄用 I'm + 数字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/238316ae46b1e481d78a0c299316b7b44d91397c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/081c8777a8ae4fa6f9d519bdd586f8ee653d28f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2c96d50cc8479c5c066d8c6621b757541ae0917.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb7e2d20fe171ee54536ce7bb975b5a5eeaac8d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/4217c20bfbdac65c92dcfb51164a6988cddfbf50.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8828dcc46b0db8e71be1acc5eeb0dcc85da67d7.mp3"
+      }
     },
     {
       "id": 4,
@@ -37,7 +47,17 @@
         "Are you nine?"
       ],
       "answer": "How old are you?",
-      "explanation": "How old 问年龄。"
+      "explanation": "How old 问年龄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bbead689be7bd51d544bd1ccd09b662d673ebdc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dcba11d4cfd9ff21309597cdfed78578687712.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c88dda5d6ced0121c882d8ba48af7d784fdbc67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/605eeee753171bedd8f07a9dbcac9244a7d60d7e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8dbd2aacfc002b826ad0bcc972c81f42019216fc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "说成 I have nine.（×）"
     ],
-    "tips": "年龄用 be 动词，不用 have。"
+    "tips": "年龄用 be 动词，不用 have。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/10/108cd0e15eed426ed4f48c48ba506532795407a8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f8/f864612803c36ed62288620d22788a0c2efa2f48.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b5/b55bfacd6b581b3fbc72063323a7da98b81f4791.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/06/06900d6da73a19955ca8515ca3471fa6fbca5181.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d2/d29f5fdf98133b8a5388c769c12d84ba4abe94cc.mp3"
+      ]
+    }
   }
 }

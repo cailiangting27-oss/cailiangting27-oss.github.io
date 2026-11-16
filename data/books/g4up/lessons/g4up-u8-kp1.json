@@ -16,7 +16,11 @@
       "question": "在安排多项家务时，能同时做的事情尽量同时做，可以节省时间。",
       "options": [],
       "answer": "对",
-      "explanation": "这是优化的核心思想，通过并行工作减少总耗时。验算：逻辑符合优化原则。"
+      "explanation": "这是优化的核心思想，通过并行工作减少总耗时。验算：逻辑符合优化原则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cedcdb70d0214405dd6ba67df40dd65b25efcc98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a53e0411e4e03fe0c872a01dbc084358b926339.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "小明一边吃早饭一边听英语广播，这样安排比较合理。",
       "options": [],
       "answer": "对",
-      "explanation": "吃饭和听广播不冲突，可以同时进行以节省时间。验算：合理安排方式。"
+      "explanation": "吃饭和听广播不冲突，可以同时进行以节省时间。验算：合理安排方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7dd98908cf4f5eda33b38f9a0b7cb9fe3db2160a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b66b031614021b96bf9b663953f79a6a9039d2d5.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "9"
       ],
       "answer": "7",
-      "explanation": "在等水变温的6分钟内可以找药和拿杯子。最长耗时是水变温6分钟，但吃药还要加上最后喝药动作前必须完成的一个步骤。计算：等水温6分钟 + 1分钟（拿杯子倒水）= 7分钟。验算：$6+1=7$ ✓。"
+      "explanation": "在等水变温的6分钟内可以找药和拿杯子。最长耗时是水变温6分钟，但吃药还要加上最后喝药动作前必须完成的一个步骤。计算：等水温6分钟 + 1分钟（拿杯子倒水）= 7分钟。验算：$6+1=7$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/5645612289d8a2fdfc5ad324a658b29424dc80cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27998522add186f7c0f1af32d0bc0e4cb1b45818.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "40"
       ],
       "answer": "8",
-      "explanation": "10个鸡蛋可以同时放在锅里煮，时间重合。只需8分钟。验算：$8 \\times 1 = 8$ ✓。"
+      "explanation": "10个鸡蛋可以同时放在锅里煮，时间重合。只需8分钟。验算：$8 \\times 1 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6800deb899b8f8ac242b7d0da205d6edfec6da6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0bbaeb446a2d3b40971128588be7f44016187e1.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "20"
       ],
       "answer": "23",
-      "explanation": "洗衣服时（20分钟）可以拖地和擦桌子。洗完后晾衣服3分钟必须单独做。$20+3=23$分钟。验算：$23 > 20$且包含晾衣时间 ✓。"
+      "explanation": "洗衣服时（20分钟）可以拖地和擦桌子。洗完后晾衣服3分钟必须单独做。$20+3=23$分钟。验算：$23 > 20$且包含晾衣时间 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/962860857a4a9cf0c1dd9299e4ca644c130826fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d435a6cdd786300dff204ee7c2ef942d3e9034e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/613a4284da02eb4319f3cc571d277060f8ea9655.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "先择洗菜再点火"
       ],
       "answer": "洗锅烧水同时择洗菜",
-      "explanation": "烧水或煮饭是耗时最长且人可离开的，洗锅后利用烧水或煮饭的等待时间择洗菜最快。"
+      "explanation": "烧水或煮饭是耗时最长且人可离开的，洗锅后利用烧水或煮饭的等待时间择洗菜最快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b3bce0af7d9ceac6f5c0086b9eb81ad74766bf0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f75b5664e4b1563d2015d0c4795beeeb14f9640.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2ba9a46fc5b5fa9ab0fe98d16773b8aa8732f71d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29402e0cc2d21687ae6221344bd5e766cd92df12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5d0dd5127bc76dd0e8ab4c26e7d8087f5144043.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de922b605ba7754e81dc947041cd20f2515004e9.mp3"
+      }
     },
     {
       "id": 16,
@@ -107,7 +155,17 @@
         "5"
       ],
       "answer": "10",
-      "explanation": "烧水时可以扫地工作，同时听广播。总时间由最长的任务决定。$10$分钟。验算：$10 > 5$ ✓。"
+      "explanation": "烧水时可以扫地工作，同时听广播。总时间由最长的任务决定。$10$分钟。验算：$10 > 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd90303bf564114365e27e99e9642f4a2a05a7ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7913e054ce6e595e293db6f103680b37a3b32d7c.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "小明要为客人沏茶。烧水8分钟，洗茶杯2分钟，找茶叶1分钟。沏茶最少需要 ___ 分钟。",
       "options": [],
       "answer": "8",
-      "explanation": "烧水时可以洗茶杯和找茶叶。最长的一项是烧水8分钟。验算：$2+1 < 8$，所以总长8分钟 ✓。"
+      "explanation": "烧水时可以洗茶杯和找茶叶。最长的一项是烧水8分钟。验算：$2+1 < 8$，所以总长8分钟 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/324f66be5e60f616f6a9b651d87642f538165375.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51faef5ec790d302db5dbe03a8fa9ec3670248ae.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "计算：$15 + 20 - 15 = ?$",
       "options": [],
       "answer": "20",
-      "explanation": "$15 + 20 = 35$, $35 - 15 = 20$。验算：$20 + 15 = 35$ ✓。"
+      "explanation": "$15 + 20 = 35$, $35 - 15 = 20$。验算：$20 + 15 = 35$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/131e44086062aca818a5968fc278a23b943c6f72.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59006af6c92ebae6472e3e780836f3cd220a612b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +206,16 @@
       "将所有任务的时间简单相加，没有考虑并行工作的可能。",
       "忽略了某些任务的逻辑先后关系，例如未洗锅就先烧水。"
     ],
-    "tips": "先确定哪些事能‘同时做’，通常‘烧水’、‘煮饭’等不需要人一直守着的事是同时安排其他事的好时机。"
+    "tips": "先确定哪些事能‘同时做’，通常‘烧水’、‘煮饭’等不需要人一直守着的事是同时安排其他事的好时机。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/24/242da2a42689b0c0d3b569a711728ebd9d4d15df.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ea/ea358dc5c4f52b773ec3ec9090b972264c5080b5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2d/2dc80babd84623479ee8dc86d7652a1b456ff08a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/875ba32db0b169919a3ff34fab63196972180d10.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5f/5fb40262b72c79d5b81978262813ae71b7acccb3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/40/407e52d5f58904b4e4c427ce767edf85cea215e9.mp3"
+      ]
+    }
   }
 }

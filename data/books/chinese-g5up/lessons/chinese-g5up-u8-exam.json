@@ -16,7 +16,11 @@
       "question": "文言文中‘敏’字通常指动作迅速，在‘敏而好学’中指思维敏捷。",
       "options": [],
       "answer": "对",
-      "explanation": "这里的敏反映的是才智敏捷。"
+      "explanation": "这里的敏反映的是才智敏捷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b866fe3fcd9a5ec83878ad293ff16c63d8327c5b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29cceacd44001ce81b5f257914df7f947cf6fc82.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "推荐一本书时，只要写出书名和作者就可以了。",
       "options": [],
       "answer": "错",
-      "explanation": "推荐应包含内容概要、精彩片段及推荐理由。"
+      "explanation": "推荐应包含内容概要、精彩片段及推荐理由。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe39e970755ec47bbca44954c6aeeda1afafbfd8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67f5350ec4a7469c4eb754159a038008d3791021.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在进行群文阅读时，我们应该寻找不同书籍之间在主题或写法上的关联。",
       "options": [],
       "answer": "对",
-      "explanation": "群文阅读的核心是议题式学习，即寻找关联。"
+      "explanation": "群文阅读的核心是议题式学习，即寻找关联。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdf6fccc497e39b22fa3e697e18cd8d5fd2367f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/804a9c8fde009842055afcefb4cd3d5254348fa5.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "‘悔人不倦’的意思是告诉别人不要感到疲倦。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是“诲”，意为教导。诲人不倦指教导人家不嫌疲倦。"
+      "explanation": "应该是“诲”，意为教导。诲人不倦指教导人家不嫌疲倦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cd731f24ecef8082d429805cb5c29b901d8feb2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/864366fd3d8c00d25eba55cd08ad5e152b3504b0.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "我已经在两天之内把它读完了。"
       ],
       "answer": "它通过唯美的故事告诉我们爱与责任的真谛。",
-      "explanation": "深刻的主题内涵具有更强的推荐价值。"
+      "explanation": "深刻的主题内涵具有更强的推荐价值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fcf572c819b127ebed0613c5faf55dcd53b0d43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/0594334360f406f1bbe6a28cf1e6eab586287c55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32dc3a95a7628916103673d9613db629cc4a7658.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f1c88fedf518686c8e40d024e946a72661575e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fc2274125201ff6bd683828a6894d519919ec3d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4da952ccfc4b5cb8a742c8f58b9285dad8c77e82.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "现在的字都有电脑字体，不需要练书法。"
       ],
       "answer": "临摹欧体字要感受其方整和险峻的结构。",
-      "explanation": "了解字体的间架结构特点是书法学习的核心。"
+      "explanation": "了解字体的间架结构特点是书法学习的核心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47cf60aa310258090193700633812446efca97a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/edc19a9c2bd31b1a067a134adf59c5a4f24a100e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26ec8ed0091456851e2055f16e6c37d55c52fe8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a84dfc74643a8150d409660161cf39961e1e8bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/911022ad45d19b5a6a1a06b2e2f0b73080be6109.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/683309f70513cf72c3905d2d3d31568491178697.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "标点符号"
       ],
       "answer": "一本经典书籍或一个感点",
-      "explanation": "“点”是由点及面阅读法中的起始书籍或话题。"
+      "explanation": "“点”是由点及面阅读法中的起始书籍或话题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42a32ecab52930e8a031ca5dac9b77fb284199cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/059684459bb0fcb14a29823311346087bf1fe42b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bef693202267847401a532a22eb09582ef99efda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c42c47da3174c88dc6a121845efebe07f7cef98c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174b38401e72a0e13ffd84690223e6b737cb8a71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/aff532b8d512546ef8601e9171abd9cc8207b07a.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "学会放弃"
       ],
       "answer": "持之以恒",
-      "explanation": "比喻学习要不断努力，一旦停止就会退步。"
+      "explanation": "比喻学习要不断努力，一旦停止就会退步。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9db2207b19eb163788c133e6c94c747bb8e2547b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6cc8c0d91684a15ab8136583eb0e7a60c5d73446.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dedf3785a99417aabf93dca0cfe280b0443526a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8b4906bbace8611993219a969f0fa9b0d9dc21a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7ba7c18cbf92f7fe190fb78f9aa24c0d024234a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a0a83ee78ff5279ff635dae9b8d5954faac0cb6.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "zhí"
       ],
       "answer": "zhì",
-      "explanation": "在“识之”中读zhì，志也，意为记住。"
+      "explanation": "在“识之”中读zhì，志也，意为记住。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39f38b52fe92751be1964f5a949d7eeabdbdbcfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f3209496e2599cdf6441ff26c36018707c1dbed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9969d6d6bfb96872a3e18352fb103572947be635.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa904a5b4bb26a65829635b6f7afae7342bcc2b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/816d23981297064c90dac8bc6a2ca0cf5f65abf0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/dea40d1fa1e9884a1ed6722ee4d2f50cce2d711b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "设问句"
       ],
       "answer": "反问句",
-      "explanation": "用疑问的形式表达肯定的意思，带有“难道……不……吗”。"
+      "explanation": "用疑问的形式表达肯定的意思，带有“难道……不……吗”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0217faf7e4c080977b3b12cceafe1bfee069f18.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7a5a4166e361357b9c3e17afb08d04a584db935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/283f1510cc8d694184bb229fbf46f334410c8aab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62426ddf1d08cc23870db41ec4ae12506da88a9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1adc739fb5147f8a2ab0cae2aa9a0455cc7a3e38.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b2f7d28d7e58fd3f360712fdec5f91bcd36fa58.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "孔子说，‘（___）而不厌，诲人不倦’。",
       "options": [],
       "answer": "学",
-      "explanation": "考查《小节》中的名句，表达学习不倦。答“学”或“学”均正确。"
+      "explanation": "考查《小节》中的名句，表达学习不倦。答“学”或“学”均正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d12e9ffb521c6cdd5a4eb33d27dfbb45228f4986.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbfc629159ba3bdf9a9c9206d29a9e869f7bfe8e.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "欧阳询的楷书以（___）、严谨著称。",
       "options": [],
       "answer": "方整",
-      "explanation": "课文描述欧阳询字形的特点词语。"
+      "explanation": "课文描述欧阳询字形的特点词语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6d5f28cf3415d9bdee058fd5a28ea0e72f0cc61.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb66d6e28bc787d984eb7b4427474fc68698c873.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "要紧"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "敏-勤勉，识-记住，厌-满足，急-要紧。"
+      "explanation": "敏-勤勉，识-记住，厌-满足，急-要紧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2dec5641b14cbb701358cd75ab4b583b108c36df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12e0414dc14ba170cb96e13d27d4c15cb914d982.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/441455d230da75a436b03acc6e7504e5ae00fb05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8dea0dcff7d32cbb20d339174377b5bfa33101b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eec997cbbb9cc92a72f1e77be3a479d50f6efec9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18b75770b6b84fa7c3e793400a6397b642aa90d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a31adc3b5a778ca71744cb2ee30858441205ad3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb18fd456e6a3b1c1c7a987652ae26dc9236aed1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d71c9f8d5edb424899cd7e522a0a5f277dfe5b8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/562a2edf7e9b9575d72e44525e218c5128e5a47e.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "冬阳童年骆驼队"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "西游记-大闹天宫，草房子-桑桑，城南旧事-骆驼队，水浒传-打虎。"
+      "explanation": "西游记-大闹天宫，草房子-桑桑，城南旧事-骆驼队，水浒传-打虎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abc5f6942d2db09e86a4d5e6eb1ffb9fb82d08ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3ae77de62cdf651117ba80d2e8ea5c009c274ba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a81647f07909de6cafaa793911f486be21bbe3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e1b6356733976a40663f6e034f8eaa17a7f623a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f31c108318a28dc01bcfcad442e4eaf566d72569.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed97e87837824e9b0a466dcbd906e683c8ad6054.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46647cbc686f5d052ea71f7fd61da14a4b5f0c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dd210f295605859233d0b3b980c3abac3a8dfe7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f75e9a18e0b3431dcb9581eef27f76d4bbcc86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de37d37e1e6987ef7b51e119b6d9be315d1b1dac.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "谓"
       ],
       "answer": "谓,三到之中,心到,最急",
-      "explanation": "出自朱熹《训学斋规》，强调心到的重要性。"
+      "explanation": "出自朱熹《训学斋规》，强调心到的重要性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d66260dea460aba135c4e6973e39eb8d92d447ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8b40d6b86675bc11f9ac9b90c71d1b770982a67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb791d85d7797ab1b8474734cad9d0ed6d7b8530.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4163f3b4469f03bebe33ab15fe85d27655195352.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7396ad1454c8bc59204d60253dc47df249eb661.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf8469026b083c34c4562384dc7195c8f51a2bc8.mp3"
+      }
     }
   ],
   "knowledge": null

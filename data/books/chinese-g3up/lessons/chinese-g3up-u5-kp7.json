@@ -16,7 +16,11 @@
       "question": "《金色的草地》一文中，草地颜色的变化是因为蒲公英的花瓣会张开和合拢。",
       "options": [],
       "answer": "对",
-      "explanation": "清晨和傍晚花瓣合拢是绿色，中午花瓣张开是金色。"
+      "explanation": "清晨和傍晚花瓣合拢是绿色，中午花瓣张开是金色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35b413b2762cf379e7ad83532c543fe997c06c4e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b753aa8a43f86caef78fb4aeeaf67af2d66fb32e.mp3"
+      }
     }
   ],
   "knowledge": null

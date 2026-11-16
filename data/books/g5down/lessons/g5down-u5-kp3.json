@@ -21,7 +21,17 @@
         "推拉窗户的开关"
       ],
       "answer": "风扇叶片的转动",
-      "explanation": "电梯、抽屉、推拉窗均属于平移现象，风扇叶片绕轴转动是旋转现象。"
+      "explanation": "电梯、抽屉、推拉窗均属于平移现象，风扇叶片绕轴转动是旋转现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8d8b1613acbd95199cb741ecd3b322a626549e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a163442def745db31d46564c87c5b1cfef79feaf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0e08dad8afed3306522df0d56ad915b2d207cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/196c6ea4cd831e93027f6d9194ffc6cc095c5c39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cafeec58510643a2888a60dfb663de2fa6a7a85b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/550000824b5aad8fe9e0c8d5774341e0ace03b99.mp3"
+      }
     },
     {
       "id": 11,
@@ -37,7 +47,17 @@
         "地面"
       ],
       "answer": "固定转轴的一端",
-      "explanation": "道闸杆是以固定其转动的轴为中心进行旋转运动的。"
+      "explanation": "道闸杆是以固定其转动的轴为中心进行旋转运动的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27f99d1a882b66450b459753f8feab5520d02613.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3cecf56ff9b27851fc0f85c0379c9592ee285ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab213192953a38afbbe222c2a0078e469ec4a9df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dceaba7fb50ccbcad03f8100028aba078bfa3cea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d50b0d243c883c11d718cc34ccafb224949fb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78a2a1efa65384fa48b91bb7cbf5b4552b40ade3.mp3"
+      }
     },
     {
       "id": 16,
@@ -53,7 +73,17 @@
         "对称"
       ],
       "answer": "旋转",
-      "explanation": "跷跷板绕中间的支点上下摆动，属于旋转运动。"
+      "explanation": "跷跷板绕中间的支点上下摆动，属于旋转运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/609a8e2f6bd689fdda5cccaed7e2cfc758a782a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e855ea2fda6fd69649c02b25a93042e048f5f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7f48a059cf3835f3c9c58c8ccb5bd784dba827b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d944c1bc208a8e2af52b73545e486f5ddfa5683.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efac095baa1c0e699097b9c029d814e2b145506e.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "吊扇有 3 个叶片，每个叶片之间夹角相等。每个夹角是 ___ 度。",
       "options": [],
       "answer": "120",
-      "explanation": "圆周 360 度平分给 3 个叶片间隔。$360 \times 3 = 120$。验算：$120 \times 3 = 360$✓。"
+      "explanation": "圆周 360 度平分给 3 个叶片间隔。$360 \times 3 = 120$。验算：$120 \times 3 = 360$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67b9cf1562de28a98e60fa207526e247a744554c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33a1200c2db27aa9ab59e1b57ddaebed1b936201.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "将跷跷板运动误认为是平移，其实它是绕中心支点的往复旋转。",
       "认为旋转一定要转够一整圈，实际上任何弧度转动都算旋转。"
     ],
-    "tips": "生活中如果是划直线的运动大多是平移，如果是划圆弧或绕弯的运动通常是旋转。"
+    "tips": "生活中如果是划直线的运动大多是平移，如果是划圆弧或绕弯的运动通常是旋转。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/84/844ce5803977f93fa11161e4af7d8aafeb423ad1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/20/20fc89b34392de85dee86de16060a75f4bd0029d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2e/2ee415cca093c4f443c2db1184f213ccfbc4c8b6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b1/b11a7056bea75ca7d840867b58b269dcf9c76384.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9cfe553349b1b47a43ef978adacf631d2afa6999.mp3",
+        "https://api.clthuanxie.cn/cc-audio/72/72575001e64543dc03024853721c10cc7b957e0b.mp3"
+      ]
+    }
   }
 }

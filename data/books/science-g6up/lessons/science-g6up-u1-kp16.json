@@ -21,7 +21,17 @@
         "干稻草上的蝗虫"
       ],
       "answer": "干稻草上的蝗虫",
-      "explanation": "蝗虫是昆虫，肉眼可见，不属于微小生物范畴。"
+      "explanation": "蝗虫是昆虫，肉眼可见，不属于微小生物范畴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac1a5c6cdcece5a8e548f3d232f44741597c001d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36d677cd66bde518c5de22c923c54a9fb5967567.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28a6bd2a67217ef2d65759d792aca25387a5d63f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85782260cb06c68f79aa007f063da8bda1a39b36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d3f563e6d31109da2906f3dbafa95679ebde0b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76dac56846e5d8c8c78cb3c6478321b82877582b.mp3"
+      }
     }
   ],
   "knowledge": null

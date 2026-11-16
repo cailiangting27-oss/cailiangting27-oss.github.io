@@ -16,7 +16,11 @@
       "question": "算式 $10 - (2 + 3)$ 应先算加法。",
       "options": [],
       "answer": "对",
-      "explanation": "根据运算顺序，有小括号的要先算小括号里面的。"
+      "explanation": "根据运算顺序，有小括号的要先算小括号里面的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/055f73f77aade033bd9cf1b038ae77b6f969d9ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e54e1c6a5fcff409dd5384d2c52d61054ad819d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "$15 - 5 - 2$ 与 $15 - (5 - 2)$ 的计算结果相同。",
       "options": [],
       "answer": "错",
-      "explanation": "$15 - 5 - 2 = 8$，而 $15 - (5 - 2) = 15 - 3 = 12$。结果不同。"
+      "explanation": "$15 - 5 - 2 = 8$，而 $15 - (5 - 2) = 15 - 3 = 12$。结果不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/490a8d9e9faad79e0228b69b1d2abfcf83d32064.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/729970e8196521df35b1e80c0468212da2973c1b.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "12 - 4"
       ],
       "answer": "3 + 4",
-      "explanation": "有括号先算括号里的。"
+      "explanation": "有括号先算括号里的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f3736c84ba79f1caaecc6a226c29796388e623a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81dfb776a6a34a6d663a95ea0a4997724761c2b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d655d0fa69ce8f9c4286e24bfcec67d935383314.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cc9d75ceb5346989b2ca056ce6c14b2aa2c6132.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1376f456e16e6eaf6a1975661c83ad2ccd61e841.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e058388d545c1ddb35adf97f4da6da5b5afeac64.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +77,17 @@
         "48"
       ],
       "answer": "20",
-      "explanation": "$10 + 4 = 14$，$34 - 14 = 20$。"
+      "explanation": "$10 + 4 = 14$，$34 - 14 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdb805a633dd8838f638c729b337f6c9e2116aae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a57cb53ba59c46fc4b692527a38a87c78d84028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49bf787ae307c95bd540e8ed944c7272368acb7e.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +103,17 @@
         "20 - (5 - 2)"
       ],
       "answer": "20 - (5 + 2)",
-      "explanation": "总数减去借出的总和，即 $20 - (5 + 2)$。"
+      "explanation": "总数减去借出的总和，即 $20 - (5 + 2)$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f461524e66398a3f1b7ddf1d7b5ae2948eb07d02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80d3fe0819723e40288feb6698c9f38e71f0831e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c066c1ecea2de2669d93472a92c7c6837a768af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee6b7263e42a9fb020bd9bfeca0c6ea2481121f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a07428366e9681efd6df1d3c9e4aeb825e34267d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/abfc9308c075f015b6ce8591dcdf61535ef4c386.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "习惯性从左往右算：如 $10-(2+3)$ 算成 $10-2+3=11$。",
       "看漏括号：直接忽略括号进行计算。"
     ],
-    "tips": "算式里有小括号，先算括号里，再算括号外。"
+    "tips": "算式里有小括号，先算括号里，再算括号外。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8c/8c17c4c07c2b9e2b93fb7f8446e6443988d3479c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/04/043e038cd913db5489e9f0b337ac79f1ab5bbd31.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/04/0445d00b4f630dd440d703d06101169362774820.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a8/a844b12c2f79982e0489a72224d074a640e23838.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/91/911b22698035355345bd2231ea478c3b361b791f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c54575a1af414a4daf6e8e42932253c6769c6d2c.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "often"
       ],
       "answer": "much",
-      "explanation": "How much 询问程度，表示“改变了多少”。"
+      "explanation": "How much 询问程度，表示“改变了多少”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c27d3e5a06fcf664e84ab0e9bd752d190c1f330.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6022fb9d81535197b9c1ca044b5721388c07e6c1.mp3"
+      }
     }
   ],
   "knowledge": null

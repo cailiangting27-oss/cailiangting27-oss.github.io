@@ -21,7 +21,17 @@
         "Yes, I am."
       ],
       "answer": "I'm eating hamburgers and chips.",
-      "explanation": "进行时 be + doing。"
+      "explanation": "进行时 be + doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3aa7dee0ef9c4f86cfe2684c7e87c2b11dfedb0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c80b9a003ce3e6ccc521f930a5f5f0a9b52d7a97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c26457b39b0e4af30418d2c3a347519e1286a7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60be7dac423fcf7a795a08f2e642c81a3e34236e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/718e73a9c46ca2101cfa1a629d180cb1882083c5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "漏掉 be 动词：I eating（×）。"
     ],
-    "tips": "be + doing 缺一不可。"
+    "tips": "be + doing 缺一不可。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0d/0df9ddd77fc7a014cf713889b7229f17f459eed3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/02/02c243d22b320d28256edc07c3f18480f7369ef1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/99/995772b6e063c2102827c7959eb9a2181e35a92a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/77e87da71c8482442ec143e59917eba18fef9f5b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bc/bcfe738fdb63d63dd98ee7d31ae8ebf5c0dc2002.mp3"
+      ]
+    }
   }
 }

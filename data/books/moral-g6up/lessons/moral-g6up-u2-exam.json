@@ -21,7 +21,17 @@
         "抽签决定"
       ],
       "answer": "全班同学共同讨论",
-      "explanation": "共同参与制定公约。"
+      "explanation": "共同参与制定公约。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed51eb1ca1eee68ba50770cf944d551d30bf450d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/8841fb534861043aab5303b8565a1b363d82e407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76428eb2d5178d57e6335f7a5ae7d078fe3f912d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9055c82481b900dbda0ffe7f3c9aa7a5591b466.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e4c0a9859f12f1fd6ed0f772303a88a470d9035.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d234aba5c0911970033c46d5fdf352f907a59563.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "热爱祖国是每个公民应有的情感。",
       "options": [],
       "answer": "对",
-      "explanation": "爱国情感。"
+      "explanation": "爱国情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fd7e7892ba35e7a4471381dd4eace04704b7a38.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97ba8251b2842c1b2e94595ec0c8604f3ab9641c.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "遵守国家法律法规"
       ],
       "answer": "传播分裂言论",
-      "explanation": "分裂言论危害统一。"
+      "explanation": "分裂言论危害统一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f98665f81ae12fc66f58867c94807f755cf4666.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4fef6f863cf2c7a1cccc8583b7e5775eb900fbc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5a991b520dbb8a31c6862cb846e7bfcfeee8b6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9c4c701e06942f7775e5e4c2dc5ae7026b1e489.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77d44150869c3e34d7ef71d89b9e1469430bed79.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a7447e0168a6ef3135ddac3d1f57c0e42e92269.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "在学校里，规则是顺利开展活动的重要保证。",
       "options": [],
       "answer": "对",
-      "explanation": "规则保秩序。"
+      "explanation": "规则保秩序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6dfa55a04df6e62833abda4150792f05221afb0f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6aa8f852764b5daf35041be6ac2dfe65bc892e30.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -48,7 +48,15 @@
         "脂肪"
       ],
       "answer": "水",
-      "explanation": "水可直接吸收。"
+      "explanation": "水可直接吸收。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e54cf75a93c14820b9a4e801ed8519deb26bd351.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3"
+        ]
+      }
     },
     {
       "id": 8,

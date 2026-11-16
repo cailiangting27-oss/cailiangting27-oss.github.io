@@ -16,7 +16,11 @@
       "question": "只根据从一个方向观察到的形状，通常无法确定几何体的具体形状。",
       "options": [],
       "answer": "对",
-      "explanation": "根据单一视图无法确定空间三维结构，需要多个方向观察才能确定。"
+      "explanation": "根据单一视图无法确定空间三维结构，需要多个方向观察才能确定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad884e353bf040c3f65e6e1e335d5de2ffe5ae6c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb43eceabcdce69672ad8366dab5c808ee1734d5.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "如果一个几何体从正面和左面看到的图形完全相同，那么它至少由2个小正方体组成。",
       "options": [],
       "answer": "对",
-      "explanation": "如果是1个小正方体，正面和左面都是1个正方形。2个及以上的情况需要结合具体摆法，但最少基础可以是单体或多个。"
+      "explanation": "如果是1个小正方体，正面和左面都是1个正方形。2个及以上的情况需要结合具体摆法，但最少基础可以是单体或多个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79ed29deff62e0d061f9e01925efc993be01ea63.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bf73f7a1668dbead5d8fdc25d15c7d4992ae336.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "4个"
       ],
       "answer": "3个",
-      "explanation": "要组成3个横排，底层至少需要并排放置3个小正方体。"
+      "explanation": "要组成3个横排，底层至少需要并排放置3个小正方体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a436869fa9d4b99950c9fbe8fe8dd70bf4ac3bcb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d779af0789cda79d71dd6a529a4898584d1caabc.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "很多种"
       ],
       "answer": "很多种",
-      "explanation": "可以通过在前后左右不同的位置隐藏第4、5个木块，产生极多组合。"
+      "explanation": "可以通过在前后左右不同的位置隐藏第4、5个木块，产生极多组合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3b0202f27d6b3412c8c1a257962f30dc8374d23.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e63f535ac37186d45127decf031df406a4bb3c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d66c8c87b9fb9a966029f5edf9a7f2dd52e52ccd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4e72c444e699ec5263d1fea16ab50df023398c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c05193dbb7caafb33974c7449b07a0253757c50.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "4种"
       ],
       "answer": "3种",
-      "explanation": "可以叠放在原有的3个正方体中任何一个的上方，不影响投影。"
+      "explanation": "可以叠放在原有的3个正方体中任何一个的上方，不影响投影。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/3437111e4b62e526069ab2d8e8375bd76b5639b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7be81b1f5d0efe7818d38745acf2444fdfeaff02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f234f8450f96f820528bfa5ab0183d775805687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9223ba3adfd431934126568314183ebe512ddaca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0aadd893445b2b745292060ae8a2087c2533f479.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "6个"
       ],
       "answer": "4个",
-      "explanation": "通过三视图逻辑还原，确定空间坐标中特定位置的小正方体数量，得出为4个。"
+      "explanation": "通过三视图逻辑还原，确定空间坐标中特定位置的小正方体数量，得出为4个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6152397e26fdf39a371b691f00316ea8d56e06c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4930fe51b67d92724c1bfd5044fad218e05b75e.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "用4个同样的小正方体摆几何体，从正面看到3个横排的小正方形，有 ___ 种不同的摆法。",
       "options": [],
       "answer": "3",
-      "explanation": "4个正方体显示3个底座。第4个可以放在左、中、右三个位置的后面或前面。根据题意基本摆法有3类。验算：$3 \\times 1 = 3$ ✓。"
+      "explanation": "4个正方体显示3个底座。第4个可以放在左、中、右三个位置的后面或前面。根据题意基本摆法有3类。验算：$3 \\times 1 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35bb9cdbca75be283384b56c60ec3bcde9a859a1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb472f4cb66b73a62539d79837e3454cc7fb0b59.mp3"
+      }
     },
     {
       "id": 22,
@@ -113,7 +165,11 @@
       "question": "计算：$12 + 8 + 4 = ?$",
       "options": [],
       "answer": "24",
-      "explanation": "$12 + 8 + 4 = 20 + 4 = 24$。验算：$24 - 4 - 8 = 12$ ✓。"
+      "explanation": "$12 + 8 + 4 = 20 + 4 = 24$。验算：$24 - 4 - 8 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf3e1a3cd96d9799bcf28198615feeb4d17cd312.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd0a927462bd765ef46f22887676568bdd2a5c27.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "找不全面，漏掉一些被遮挡的特殊摆法。",
       "分不清“最少需要”和“最多需要”的区别，混淆极值情况。"
     ],
-    "tips": "先确定底层（俯视图）的框架，再根据正面和左面的高度要求在框架上增减积木，这样思考最有条理。"
+    "tips": "先确定底层（俯视图）的框架，再根据正面和左面的高度要求在框架上增减积木，这样思考最有条理。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6f/6fedf35cd14996346bcc63a5ba21e59d00fce246.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/18/18c1b0ead746146c6deb49971f0a8233c5c584a7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/24/240e325277dab2aa20c5bcf91497e3003a98636f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/7c/7cee4a026d86696cb31e21b4c4aae839f596061b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/41/4134d568e78688f13f5b7344773409b04f257d69.mp3",
+        "https://api.clthuanxie.cn/cc-audio/96/963ef88dd672e41201a910ebbb6724eed097e7c4.mp3"
+      ]
+    }
   }
 }

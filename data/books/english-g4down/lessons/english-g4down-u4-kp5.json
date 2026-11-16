@@ -21,7 +21,17 @@
         "it"
       ],
       "answer": "these",
-      "explanation": "are是be动词复数形式，主语也需用复数代词。"
+      "explanation": "are是be动词复数形式，主语也需用复数代词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2820ad3157324512e75088684945328aa96cf647.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33b82201081ec7c438cb5d9a36cd72bcb153050b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c94282b673def410b17c470d6b8d80f701ba013.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "What ___ these?",
       "options": [],
       "answer": "are",
-      "explanation": "these是复数主语，be动词用are。"
+      "explanation": "these是复数主语，be动词用are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/150d927f4d712b808089a7995c7cd40f0ec87a80.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39cf523071b30249cf42243f5ca0b2c898d01264.mp3"
+      }
     }
   ],
   "knowledge": null

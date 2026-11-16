@@ -23,7 +23,12 @@
         "type": "math",
         "ans": 4
       },
-      "knowledge_point": "加法，和是 4"
+      "knowledge_point": "加法，和是 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/64/648365f1665e78d0bfd630269aaa3c61398b100c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0ee643834600a64becc60141e8fda0c768d04ea.mp3"
+      }
     },
     {
       "id": 5,
@@ -41,7 +46,12 @@
         "type": "math",
         "ans": 4
       },
-      "knowledge_point": "加法，和是 4"
+      "knowledge_point": "加法，和是 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4630a9a6a3e7f6b05830117154811b49398df2d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0ee643834600a64becc60141e8fda0c768d04ea.mp3"
+      }
     },
     {
       "id": 6,
@@ -59,7 +69,12 @@
         "type": "math",
         "ans": 4
       },
-      "knowledge_point": "加法，和是 4"
+      "knowledge_point": "加法，和是 4",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/37/377072f1e69f4bcba30c88c49673a404fdc07415.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0ee643834600a64becc60141e8fda0c768d04ea.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "土壤里不仅生活着小动物，还生活着许多植物。",
       "options": [],
       "answer": "对",
-      "explanation": "土壤为多种动植物提供了生存空间和养分。"
+      "explanation": "土壤为多种动植物提供了生存空间和养分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d6bd92010f00b8219b37a3036b5b669635f8a5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6202179824cdac263f45ccbd4ea27987acccde4.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "随意去踩踏"
       ],
       "answer": "保持安静不惊扰",
-      "explanation": "科学观察要尊重生命，尽量减少对环境的影响。"
+      "explanation": "科学观察要尊重生命，尽量减少对环境的影响。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd343fa1e3d067861fe00f0ca35133aa5001357e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1d00d1c3b05e1e076b23132cbb817100a69c513e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de61919c7cd12140be2dda33ecf4777727215413.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69707b56b642ec903f44efb092c70a1c66788b15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e79763ca7d5fda7c838ff1c56b2a915f32458008.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/468b32110d09d13849ee30b8152ffdf9313e49bb.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在进行快速默读时，我们应该一边读一边用手指着字，以免读错。",
       "options": [],
       "answer": "错",
-      "explanation": "快速默读要求不指读，指读会限制阅读速度。"
+      "explanation": "快速默读要求不指读，指读会限制阅读速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba6499113d168154c1b7fad8c9138248dd0c5939.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3d4163db5af56a437d3e1a307895c9bc1f87ba4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "默读时，如果遇到个别不理解的词语，可以先跳过去继续往下读，不影响理解整段话的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "遇到生僻词语先不回读，是提高阅读速度的重要习惯。"
+      "explanation": "遇到生僻词语先不回读，是提高阅读速度的重要习惯。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15eb943d92186f87b8121757cfacc83a38fdcdd0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73c35311710af5fb17cb0f60f38431d53de6f61a.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "快速默读就是为了求快，甚至可以完全不思考内容。",
       "options": [],
       "answer": "错",
-      "explanation": "阅读的目的是理解，快速默读是在理解的基础上提高效率。"
+      "explanation": "阅读的目的是理解，快速默读是在理解的基础上提高效率。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb64b7d3023ae0c714bfecdb43699301d76dbb8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81e3fdd8ed2084a02ca33d1c1b58ceeaf26c2123.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "回读已经读过的部分"
       ],
       "answer": "连词成句地读",
-      "explanation": "一眼看一组词语而不是一个字，可以有效提升速度。"
+      "explanation": "一眼看一组词语而不是一个字，可以有效提升速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f74ab5641333b62fe37f916103d48bf07c53141.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/85bd24ab29f058b3a3af3e95a5e493ba53fa8e24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ead824f7ffbfdf213f79336892460abb9a2ca072.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d49213d4c852ab67bc0ec825c47c43a8708f1c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/881b66c724820db78cb0945857a3f445b41ffb02.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea4b4cbafefbc10857f08576789e9ba5f1e02aa6.mp3"
+      }
     },
     {
       "id": 15,
@@ -70,7 +92,17 @@
         "不回读"
       ],
       "answer": "读得快",
-      "explanation": "不发声、不指读、不回读是技巧，因遵循这些技巧才变得快。"
+      "explanation": "不发声、不指读、不回读是技巧，因遵循这些技巧才变得快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/0859c826ea85b70e80b147fa6f80d33761146213.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a903f0703ecc569c5befff85df64543bd951dcfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb7810362044d1d18eeaeaf5a8db215ddd307f9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7bdb052fe7bf2b8c4a37983907a5b36a92ae0dd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7260630473ab75eb08a5440354aee0200fd11351.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/887ac032f542b3a6f93de02d8ca80c871ebf24bb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "不自觉地小声哼鸣或嘴唇蠕动",
       "因为担心没看清楚而频繁地目光回跳"
     ],
-    "tips": "练习时可以限定时间，强迫自己眼球快速移动，遇到生词暂时记下，等读完整个自然段后再统一处理。"
+    "tips": "练习时可以限定时间，强迫自己眼球快速移动，遇到生词暂时记下，等读完整个自然段后再统一处理。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0c/0ca164c8e03ac31b9124f6f69ce52ba58a3d862c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6a/6a95cb7e7ec160459dd4f91c8e856e62eba73943.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f0cd09e10b886f23ec9a0a247228a87f1e04da50.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1f/1f373b09dcc707fde2928b7f186ac0b67d7d2384.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/59/598a60d3b65f952a632bd8bff00387cea7b18b5a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7a/7ab35e8959f7551375e74fb2dd828baa1d35a3d8.mp3"
+      ]
+    }
   }
 }

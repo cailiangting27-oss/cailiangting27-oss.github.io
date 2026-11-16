@@ -21,7 +21,17 @@
         "听觉"
       ],
       "answer": "嗅觉",
-      "explanation": "“清香”是通过鼻子闻到的气味。"
+      "explanation": "“清香”是通过鼻子闻到的气味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1bc83c808aa92a0e8fab550093f94e018c9035a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12c5adad7c26af05229276b073d8d0920a6a7e7d.mp3"
+      }
     }
   ],
   "knowledge": null

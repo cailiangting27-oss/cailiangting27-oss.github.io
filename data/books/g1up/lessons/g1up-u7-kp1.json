@@ -16,7 +16,11 @@
       "question": "钟面上又短又粗的针是分针。",
       "options": [],
       "answer": "错",
-      "explanation": "钟面上短而粗的是时针，长而细的是分针。验算：概念核对一致。"
+      "explanation": "钟面上短而粗的是时针，长而细的是分针。验算：概念核对一致。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccfd9d4f60c10b2a4f651649686fc7fce5fd6af3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/029005bc57d37788a1cbca89d157946d517c4369.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "钟面上一共有12个数，它们按从小到大的顺序排成一圈。",
       "options": [],
       "answer": "对",
-      "explanation": "钟面刻度从1到12依次排列。验算：1,2,3,4,5,6,7,8,9,10,11,12共12个数。"
+      "explanation": "钟面刻度从1到12依次排列。验算：1,2,3,4,5,6,7,8,9,10,11,12共12个数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4cf054555416eae5d9bb9a748bb92f6645d9d933.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/6752a5eb24643dcf158076301413f41127004d80.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "长针"
       ],
       "answer": "分针",
-      "explanation": "一年级标准教材定义：长针是分针，短针是时针。秒针暂不涉及。"
+      "explanation": "一年级标准教材定义：长针是分针，短针是时针。秒针暂不涉及。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66ee586a6542df1067cc69dbd93f6087682f3f83.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4a82f17864d901771e09052fb3244b100a5f52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2233781732712993ac508172cef99c3e5cd448ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17e904c7ca18ba97a5036fdc9af77b960fe3860b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b776685d0d94477517b2ea2aea95023d1b8b335.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/395efa5a315d0a98846f5fcb7ee20e434e361826.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "最右边"
       ],
       "answer": "最顶上",
-      "explanation": "钟面数字排列中，12位于正上方。"
+      "explanation": "钟面数字排列中，12位于正上方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b51b679ba67f1d2ed30667416446ee04a622dfe9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/31cd58f1f5fe1163bcbe12908760be6cede4f945.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/940edaed6f040d6f7e49b23c3b22c830e871a55d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/376579bcb44e43f997cf01949083492a2ae4e56b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85a71180b421c95f5f9d4b731c38c4dc72e0b8d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fe87f4342c74084e44dcc1b9e4945118f2988d8.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "数字"
       ],
       "answer": "时针",
-      "explanation": "谜语描述了时针“短”和“慢”的特征。"
+      "explanation": "谜语描述了时针“短”和“慢”的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9379f4cb143ece967b068737331f65d48cfb28b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/2233781732712993ac508172cef99c3e5cd448ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17e904c7ca18ba97a5036fdc9af77b960fe3860b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e4a82f17864d901771e09052fb3244b100a5f52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a4dc8253fd420cee852eed179e0e64c0c9bc767.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be79113cf4e678ae6c71267f56b7228c8f7b7ffd.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "钟面上一共有 ___ 个大格。",
       "options": [],
       "answer": "12",
-      "explanation": "钟面数字从1到12，每两个相邻数字间是一个大格。公式：$12 - 0 = 12$。验算：数一数共有12格。"
+      "explanation": "钟面数字从1到12，每两个相邻数字间是一个大格。公式：$12 - 0 = 12$。验算：数一数共有12格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5a55c72783bbc514aa3b66eeff2356d0c643277.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce08278bca0648ee18f0fbf407a34c4120d55200.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "混淆时针和分针，把长针当成时针",
       "数刻度时数错，分不清数字对应的位置"
     ],
-    "tips": "记住顺口溜：长长细细是分针，短短胖胖是时针。"
+    "tips": "记住顺口溜：长长细细是分针，短短胖胖是时针。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/52/524fe4133db75ca7ee222050cfd6e71bd9bbcc80.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/28/28cd6ebce79be21acf07d67e07a3bdae1e2fea0b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/daea822c747ff834cfc404017c1673e1adf22cc6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5aa5dcca4cf1e812b5e27c84d4aa7c63bf14f4f1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2b/2ba10e83a4773c3ed8339a0d230f44fe1ecd8082.mp3",
+        "https://api.clthuanxie.cn/cc-audio/35/35ebd198e7625a3c669a6720a1cf7beca055cb9d.mp3"
+      ]
+    }
   }
 }

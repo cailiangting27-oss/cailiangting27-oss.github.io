@@ -16,7 +16,11 @@
       "question": "单词 'plane', 'train', 'taxi' 都属于交通工具类词汇。",
       "options": [],
       "answer": "对",
-      "explanation": "plane(飞机), train(火车), taxi(出租车)均属于交通工具。"
+      "explanation": "plane(飞机), train(火车), taxi(出租车)均属于交通工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57f9f7eedfd58c56e210e87722c99e0095ce67ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/684930c907f96613b60fce76379486a3515922e5.mp3"
+      }
     }
   ],
   "knowledge": null

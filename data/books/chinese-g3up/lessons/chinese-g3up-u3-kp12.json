@@ -22,7 +22,18 @@
         "是"
       ],
       "answer": "秋天的,雨,是,一把,钥匙",
-      "explanation": "课文《秋天的雨》开篇名句。"
+      "explanation": "课文《秋天的雨》开篇名句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/845af6d12b138c6053c398bc441495da8008dc7e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1d490832151246985e5d3c9aa17f2fb2ba6646a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f51327a21ac79f9dd4090069084fcd22349cd36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/187e6e6d8bb4f5689dfe5718382850b3a007ebac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dde8b2854f7d551de52bfcd2b5c0eb2bb047ac55.mp3"
+      }
     }
   ],
   "knowledge": null

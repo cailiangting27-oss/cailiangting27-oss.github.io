@@ -21,7 +21,17 @@
         "今天的天气阳光明媚。"
       ],
       "answer": "转过石角，我们便来到了孔隙口。",
-      "explanation": "这个句子明确交待了地点的转换，起到了承上启下的连接作用。"
+      "explanation": "这个句子明确交待了地点的转换，起到了承上启下的连接作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/2778898f9e57eeef6393b11bba43ac1a7241fca5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b40ed5205a2ca2ab0f0b9084338c7b65b9d5925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2281b545614858d8189633006248fff70e4a3a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cebbe2b241daabe04ba4d6a67e68fe5118dd896.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f6c18a880f8599bdf275685fdaa5d39db66b69d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/7149bd81c841c24b8e916271c9f367ed7ab907f9.mp3"
+      }
     }
   ],
   "knowledge": null

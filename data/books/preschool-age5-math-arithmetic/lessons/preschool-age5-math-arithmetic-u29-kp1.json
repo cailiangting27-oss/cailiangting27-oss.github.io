@@ -23,7 +23,12 @@
         "type": "math",
         "ans": 13
       },
-      "knowledge_point": "从 14 减一减"
+      "knowledge_point": "从 14 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6114ec084acdccd44c9f36472184bf60ba99e39.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9afd2beedf2c68e426a9d51710ece45fb02f0994.mp3"
+      }
     },
     {
       "id": 123,
@@ -41,7 +46,12 @@
         "type": "math",
         "ans": 12
       },
-      "knowledge_point": "从 14 减一减"
+      "knowledge_point": "从 14 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64d2b5cc1ec244e773ab1cff20561ac71d1101d7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc756f860fd0558a36085892df2da9a292cf860d.mp3"
+      }
     },
     {
       "id": 124,
@@ -59,7 +69,12 @@
         "type": "math",
         "ans": 11
       },
-      "knowledge_point": "从 14 减一减"
+      "knowledge_point": "从 14 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36f1c0d4fd8cfb8b60cff1a34bd42cef5ec10e34.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1acb0c0fc28f3eca1b8e7d442451b3ed3fc47a5.mp3"
+      }
     },
     {
       "id": 125,
@@ -77,7 +92,12 @@
         "type": "math",
         "ans": 10
       },
-      "knowledge_point": "从 14 减一减"
+      "knowledge_point": "从 14 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c95ae4d712287009d224bcb6f5cdfc18405620e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fb52a24480466e0b856f7f23e775dc5641bbc87.mp3"
+      }
     }
   ],
   "knowledge": null

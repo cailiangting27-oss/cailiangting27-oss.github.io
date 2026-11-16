@@ -16,7 +16,11 @@
       "question": "在读课文时，如果脑海中浮现出画面，会帮助我们更好地理解课文。",
       "options": [],
       "answer": "对",
-      "explanation": "想象画面是本单元的核心语文要素，能让静态文字变生动。"
+      "explanation": "想象画面是本单元的核心语文要素，能让静态文字变生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f75383eaf1e98c1f6af7e07b734459242c791095.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0573ec6e7b618baa98038a2a7368130751f03df2.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "辽阔无边的草原"
       ],
       "answer": "山间小溪的清亮",
-      "explanation": "从“细细的溪水”和“鹅卵石”可以联想到山涧清爽的景色。"
+      "explanation": "从“细细的溪水”和“鹅卵石”可以联想到山涧清爽的景色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59f549c2eec948eff91c868b677fea26154d2fb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c344daa38aea423d9af15cc985ba8c02ef103b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f6759105f95a3c7a7f725be6734aad9a49fac7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9de34073d2f30415c26862da4468fc39d89c261.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07f9526deb836af744428bc93176c762503d13e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/daef3a1185e77d74b289e3f8c66fa1d8dc8679ab.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "翠绿色"
       ],
       "answer": "银白色",
-      "explanation": "柔和明亮的月光通常被想象为洁净的银白色。"
+      "explanation": "柔和明亮的月光通常被想象为洁净的银白色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8c21bbce4991a6dc67a39374242760f82ebf908.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d6/d67232fb5fa6a360758e57583c39f8c322630a03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9ed7dbc43895413d88f279bc24281bfc6a8f0c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/007306149ff7cb0d5d2eade774b4ccc36c9a56a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68397e07cc9498a81b5f50ff450e62b35dd11933.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a55a4f54cd3a9d09fbf55ee3c7deec556a88ae77.mp3"
+      }
     },
     {
       "id": 23,
@@ -65,7 +89,18 @@
         "星群"
       ],
       "answer": "静寂的,夜里,我望着,柔和的,星群",
-      "explanation": "通过修辞组合，表现作者对星空的细腻感受。"
+      "explanation": "通过修辞组合，表现作者对星空的细腻感受。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48d9ff83af98fa510e7825bc76bb73d89ce38cfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39a6a61ca504bd345cc97a692419a360a3c1abc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46dc3e33c7719fe339b7dbe2e18f52c0e531840d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf04aa215e7de31ce5eb0d70375ee6a53e24498f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/004943178b6d6247a9454b289f23706e4eb6dcfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8815b56fb877118693518c3221b9338b2206729a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c33b6f1c0075f1ccf84401100cd11ae8f983aff.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -76,6 +111,16 @@
       "只识字不入心，读完后无法描述文字描述的景象。",
       "想象太随意，脱离了文本提供的关键词。"
     ],
-    "tips": "闭上眼睛听老师朗读，尝试用自己的话描绘出脑海中出现的颜色和声音。"
+    "tips": "闭上眼睛听老师朗读，尝试用自己的话描绘出脑海中出现的颜色和声音。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6a/6a6857e299269dd0dfc21555f47092a9cef27326.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/31/316b68c3277993ae250d69942a8c6159d5569d6b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2d/2dfc237c446dee834a97870f280848c72258954c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/27/27fad3b955efb3201b5bf7ddee33840137f62a7f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c2/c24c1d9409503cceef8f3b12e9775a72c910bf26.mp3",
+        "https://api.clthuanxie.cn/cc-audio/52/522d7e4aedacded61239192968e6ef1c4fe3a8ff.mp3"
+      ]
+    }
   }
 }

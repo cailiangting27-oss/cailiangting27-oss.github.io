@@ -21,7 +21,15 @@
         "插图说明"
       ],
       "answer": "插图说明",
-      "explanation": "新闻六要素不含插图说明。"
+      "explanation": "新闻六要素不含插图说明。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/748d7dc7e3212d62e207d204624705af70ea635c.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b1/b13d33a52865faaa847dae41e89930b55157dbf5.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 3,

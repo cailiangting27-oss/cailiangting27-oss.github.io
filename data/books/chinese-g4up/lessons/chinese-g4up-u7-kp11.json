@@ -25,7 +25,21 @@
         "周恩来"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "醉卧沙场-王翰；生当作人杰-李清照；龙城飞将-王昌龄；周恩来立志。"
+      "explanation": "醉卧沙场-王翰；生当作人杰-李清照；龙城飞将-王昌龄；周恩来立志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2022b378928ec98b46faecd2fb5bd53995a2ff0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23b83bb3209335d00db4f83b31987b982914e477.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93266c80ec561c4a19ec364dcfa4b00401fde069.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49dcbe0ae96ca97d31d6f2ab6fb61b76666a8f18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1028515302eb4ee1f6c39225b6ff0180cad5a011.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f78dd1cfd8db68ddb48ef0f99904f9d2a69d51c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64aa9b75481f5b2c70d7334ca8dca8d14acada1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afc69163bdb035b2a1a73746ec933e41e5ff977e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/018ac8958dd9108d46d4683f9b8eb48d137a4d75.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f42f291c413aad970db85c0447ecabd462a3040b.mp3"
+      }
     }
   ],
   "knowledge": null

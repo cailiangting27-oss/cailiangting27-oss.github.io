@@ -16,7 +16,11 @@
       "question": "‘五彩缤纷’中‘缤纷’的意思是繁多而杂乱。",
       "options": [],
       "answer": "对",
-      "explanation": "缤纷形容繁多而杂乱，这里指色彩非常繁多。"
+      "explanation": "缤纷形容繁多而杂乱，这里指色彩非常繁多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d99f383751edc9225b28a98edbac861e9f3cb73.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30e4a0618fb4f8acfb4761f05b0ad9d29b43c88b.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "我们可以通过查字典来帮助理解词语的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "查字典、词典是理解词义的基本方法之一。"
+      "explanation": "查字典、词典是理解词义的基本方法之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9b9bf8668fa347dc73e8b08babe0bd188c1fb39.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/2922786975f0716b9d0274882358a427e81228f4.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "形容秋天很寒冷"
       ],
       "answer": "颜色非常多而美",
-      "explanation": "‘五彩’指颜色多，‘缤纷’指繁多，合起来指色彩丰富绚丽。"
+      "explanation": "‘五彩’指颜色多，‘缤纷’指繁多，合起来指色彩丰富绚丽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/29f7f0d5bd0a14aef60055daf3003db15689c2d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d14ee4f66528e090b2ad7c2e42f60a83a0fa9c72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1318b7b069e85c993aecb20fbe8007c9f5a5c432.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38e869b4af35b350c2479b0b822c9582044d69f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f47c722413cf52c9b3c98539e880a89d3c028d09.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10b3869ce26e1c6dee0baec3a19310870a172dff.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "一种珍贵的宝库"
       ],
       "answer": "解决问题的办法",
-      "explanation": "这里运用了比喻，‘钥匙’指的是开启艺术殿堂的方法或途径。"
+      "explanation": "这里运用了比喻，‘钥匙’指的是开启艺术殿堂的方法或途径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edade3772a4104bbffb1107c0dc78120ca2109f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4541a18178a227ddb3449bc4aae5647fccedf10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1164357e9c878999882f696c43190457f1542bfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1107585595cace83ae3d015597da422b5c00985.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64b85a0928fb681afd83be00e7f26aa7fabd4b71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d51dd30d29e97e601b73941938fd6f40122da047.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "把‘它们’（落叶）赋予了‘跳舞’的动作，是拟人写法。"
+      "explanation": "把‘它们’（落叶）赋予了‘跳舞’的动作，是拟人写法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fad679451cd8a1ab5ff5e200cce6a05916a9c9b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7f558fcc85124d16810515b13c15b8bc8c1cf61.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "讨厌"
       ],
       "answer": "向往",
-      "explanation": "‘憧憬未来’通常表达对美好的向往。"
+      "explanation": "‘憧憬未来’通常表达对美好的向往。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28940de9a27f4feb66161c3c68ce028f70e7b072.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aec50b8b6c946689ae751db4e1fe33e9daac8cd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1375012f2db23b682acc0563b140a9e08b0600ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b90669c06e57d2e9fea1b4d0b6d7e0d11f7ef35a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63f86f32725711960b1ff516caaa52a792210ba0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/8257ddf10ebeba620ce23fb19a838e38badb35d5.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "亮晶晶比作珍珠"
       ],
       "answer": "雨滴比作珍珠",
-      "explanation": "本体是‘雨滴’，喻体是‘珍珠’。"
+      "explanation": "本体是‘雨滴’，喻体是‘珍珠’。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c4e1795e69262a006a7d214e1880e035b4aa270.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/482a0eda93952075bb506f9976075941c34b9dd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65d217f7cc136bc7973a0c805d40a74602a86948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/264ac0072754ae0ffc25c12b327574d349197558.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8992a9dd9960e170d0dffcb48b46fb8211876f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8dc92abf1d82f384371c475fcc6aedeef94cfdc7.mp3"
+      }
     },
     {
       "id": 14,
@@ -123,7 +181,17 @@
         "石径（jìn）"
       ],
       "answer": "枫（fēng）叶",
-      "explanation": "A应为tiǎo（挑动），C读音正确（但橙读作chéng是二声，本项无误），D径为jìng。本题选枫叶为最稳妥。"
+      "explanation": "A应为tiǎo（挑动），C读音正确（但橙读作chéng是二声，本项无误），D径为jìng。本题选枫叶为最稳妥。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80e37bfa762e16ed211d65ed43116555adc62790.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d50b1a3468dd0ab15ce2394e317735f8ae013069.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dab6950af9723f0bb1bf04e1cb39fe73fb7809ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a04833b7ca0a5968a952065d2b96d93c5d95599.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b99578f34261730bd3514bbe5859f40ba15987f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/722bcb2b0264d5e656c3575d44d9ff8d8d651dfb.mp3"
+      }
     },
     {
       "id": 17,
@@ -134,7 +202,11 @@
       "question": "由‘五彩缤纷’、‘五颜六色’可以联想到的季节是：",
       "options": [],
       "answer": "秋天",
-      "explanation": "本单元主题为秋天，且文中秋雨有丰富的色彩。"
+      "explanation": "本单元主题为秋天，且文中秋雨有丰富的色彩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e052bceb74c80b387ee8cacaf73f6226ea6f0c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7957710edd3a6600de603fe765dfdb2bee6e1e46.mp3"
+      }
     },
     {
       "id": 20,
@@ -154,7 +226,21 @@
         "凉爽宜人"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "词义匹配。"
+      "explanation": "词义匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62acbfbfb54641b8c2e7e21f14e57beafa9a8909.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b33526454154e26c63668e7c093006fed3706c65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaa24dc4ef34af08d1a7a1c0c9bc4272fe32c32b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79a273842f41b7616045dc3de96d9599b834dfa8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0c8e803be24b5858cd0b2409dff0a52a44bb07d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e5ef7acc75514280357c892f799c3d5bfa9b883.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b62e3d5d4d3f887e2afd289d7df277dd5f1b9a58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ceac1b4e54bb52774298d5f76c9bb520359a731f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68d63da2ee03d6cb58a463723f41dd8338ec814e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db2b19759a3f3d78cbbdedff99cbe1a8181964ab.mp3"
+      }
     },
     {
       "id": 22,
@@ -171,7 +257,18 @@
         "衣裳"
       ],
       "answer": "银杏树,穿上了,金黄色,的,衣裳",
-      "explanation": "运用拟人手法，将银杏树作为主语。"
+      "explanation": "运用拟人手法，将银杏树作为主语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30f71e5509b705c9cefe1293d93e221751aebff4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/007306149ff7cb0d5d2eade774b4ccc36c9a56a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf95ff1a6f031b48417fcbfda66874bfb89134b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5f9f3f919062c55373896ebaaa45860e04aa878.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0746bd624955e27081c6419ac31b592d6b683e95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/872b3ff90fccbd60ea1c11f24b82f3d827befe20.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42b51249b20eb8b825b6996d937ae2ccae643ffe.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -182,6 +279,16 @@
       "脱离句子解释词语导致理解僵硬",
       "遇到难词直接跳过，影响对全文的情感把握"
     ],
-    "tips": "尝试把词语代入到生活中，想一想如果自己介绍秋天，会把这个词用在哪个场景。"
+    "tips": "尝试把词语代入到生活中，想一想如果自己介绍秋天，会把这个词用在哪个场景。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/81/81ddf228df7f59e51b4fe9ea6f38dd18a10a570b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8a/8aa445e3f6af943f4c1a0c98f5bcd8bbdcfc2b6f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/86/86fb5f6c122a644cf1c1d78d2e292777b55bff70.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bd/bd7fd1674c346970bce50fd3018f71693d90e03b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/64/64b383c5c7ce3e174176f884e0a58ffe573fd9e7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/09/09dc08a338cd878309a5a554ce7ca0fcb73de4fc.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "这是一个奇迹吗？"
       ],
       "answer": "这是一个奇迹。",
-      "explanation": "反问句变陈述句，肯变否，去掉疑问词和问号。"
+      "explanation": "反问句变陈述句，肯变否，去掉疑问词和问号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae0e5afa943731e3f9f832bc82a83b892131046a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f725542ab6fbd9700bd5640385cb331db0c8a23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/804e3cc8e14e06780af5dea6b8ab3f8250d9d9af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f219667c2e01485080315bd9d37904f73ab7e3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ad70714cc78412cc670e2a06e1b39f1345d288d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06ac1376ad4cba1d5562477331d0c299971704e4.mp3"
+      }
     }
   ],
   "knowledge": null

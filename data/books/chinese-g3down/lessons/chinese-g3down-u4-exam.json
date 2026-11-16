@@ -16,7 +16,11 @@
       "question": "“辨认”的“辨”中间是“讠”，表示跟分辨和说话有关。",
       "options": [],
       "answer": "对",
-      "explanation": "辨的中部是讠，意为辨析。"
+      "explanation": "辨的中部是讠，意为辨析。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72b2292ca1fd67bae6c70ecfe5b6a9306f9c0ef4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a8a2b9db5d3c08448c1972dbe366235be927418.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "法布尔实验的结论是蜜蜂靠记忆力飞回家。",
       "options": [],
       "answer": "错",
-      "explanation": "结论是蜜蜂靠本能飞回，而非记忆力。"
+      "explanation": "结论是蜜蜂靠本能飞回，而非记忆力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4b67d3c40baf781ad373618a9a161492835947f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/814ebd8678e83e5ccfff33ff641d2c990cf4328b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“你只要电它一下，它就立刻跳起来。”这是一个排比句。",
       "options": [],
       "answer": "错",
-      "explanation": "这是一个描写小虾动态的句子，不是排比。"
+      "explanation": "这是一个描写小虾动态的句子，不是排比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c2974d28750b393a631234891c901a2bf9734ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18fb56996614d6beb3f0c37905d7b15e2c8a5d11.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "动态观察不需要按时间顺序，只需要把看到的乱序记录即可。",
       "options": [],
       "answer": "错",
-      "explanation": "动态观察必须紧扣时间或动作发生的先后顺序。"
+      "explanation": "动态观察必须紧扣时间或动作发生的先后顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/794dee17b9206fc1608f9e3e48789bd7db473455.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5b9f7671c0b1a545ccb634d210aa924ee218877.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "不但……而且……"
       ],
       "answer": "之所以……是因为……",
-      "explanation": "先说结果再说原因，用之所以……是因为。"
+      "explanation": "先说结果再说原因，用之所以……是因为。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bed6ba20db1164da90b944f2e6bdf878fcc14311.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb6f1e1b54eeaf6969f8de8c8acfba136fa2a84a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6bb90abe5fd2aa8bde2fbeb14e1c186918962cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3adfc23ffe101f7ccf44d44019e26596cd3ad527.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b60dabd149d410448a89f0020896d1648e4f8629.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "有的扔沙包"
       ],
       "answer": "操场成了欢乐的海洋",
-      "explanation": "首句概括了下课后操场的热闹景象。"
+      "explanation": "首句概括了下课后操场的热闹景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6beae7ad6d1d47aec5c9ce7915f45ba4254977a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1b8378ae6f5af3dd256cf8e98daf04fc20eefa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a7c4d3709f31bb09b09c5b31a85cc04e97803d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23fcb625f7799e811f092dbef8810eaefc668ba2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53924c10ceca4cce117b487e0512007e928b3099.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/eca12e0ff8d063d0de41e05afb9f0a01647d1e54.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "拿着、跑着"
       ],
       "answer": "舞动、划动",
-      "explanation": "舞动长须和划动爪子体现了小虾的灵动。"
+      "explanation": "舞动长须和划动爪子体现了小虾的灵动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf7c1afdf1bc72ec9d8bebbf3242c8daf062d456.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f042dbfd1fc297ff13a248ba77ccef3b1d2dda6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/761ece85cb82d15ad613d0c02dc3d2afb99a1a79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf6f0175f01ad6349b25194a8ae5169814b6ea58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2c4c57670b48efb0ca8dc719b35a89fd40976cf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/daebee750357b462945bfa0ee6c6dabf1b03a89a.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "测试蜜蜂的耐心"
       ],
       "answer": "防止蜜蜂看到路上的景物",
-      "explanation": "这是为了排除视觉干扰，验证辨别方向的能力。"
+      "explanation": "这是为了排除视觉干扰，验证辨别方向的能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/044bfed7a9ce89bfa67b3099c69ffb188ff61fe8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/448adfc18c124346f614b715f45ea89a424fafc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de7a1adfc1c9246cba355dc7439970c9e364d9bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c90ce021acf12f6107f741f6df003471667d91e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50a37827bad18f7b3a024b1708a270ec9eafe0aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4aaa322695e1ca47ddbcac59f9de3a962dff3cb7.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "昆虫给花传粉"
       ],
       "answer": "不同时间开放不同的花",
-      "explanation": "这是全文的核心观察发现。"
+      "explanation": "这是全文的核心观察发现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38a8e5244738e53a0c76604368745882ee496679.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a79b82696f10deaf71221594837445dac14aca3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d41596f2e25b44f13ef02c4d83c44238c8328c99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55d02cb85894975021ef0982bda462cf5df4e8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d779aee3daa16ac3572997142fce801e10d12d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d780adfaffbf6cbb12aa484ad286d5eb8ef16d7.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "看草履虫的产地"
       ],
       "answer": "看草履虫对刺激的反应句",
-      "explanation": "趋利避害是行为反应，由于观察其对变化的反应能提取主旨。"
+      "explanation": "趋利避害是行为反应，由于观察其对变化的反应能提取主旨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51e1dcc77bd0226093cb8862fff0782127af1a7e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e03e3aa28d8a7f1d50ab268acd3364d7b623017c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4565f0ff1933f6390b20ffe7d07013a04ac3ae20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a1b8d0b1512730efd99df9f0e30862de5c1cf3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b509ee4dafaf471ed30a0a55eb61df3bcac654f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e9118085c87750a5ea69632f13507e7ebd33985.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "春潮带雨晚来急，（___）横。 ",
       "options": [],
       "answer": "野渡无人舟自",
-      "explanation": "考查《滁州西涧》名句积累。"
+      "explanation": "考查《滁州西涧》名句积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6ccb6c969cb1b09d8377c49e7dd31393d1cd4fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6206c0786198be495e43c0d0c5d6ef8400b93259.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "这些小虾，有的（___），互相追逐。",
       "options": [],
       "answer": "独自游来游去",
-      "explanation": "考查对《小虾》姿态描写的记忆。"
+      "explanation": "考查对《小虾》姿态描写的记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b3f6c69bac72229976cd78cec4e0aa9cc5615c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fe61381c2b6b484c1f601814f1d72308894cac5.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "阻力"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查常见的科学观察词汇搭配。"
+      "explanation": "考查常见的科学观察词汇搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5d6717392950fbf1cae3dc9efe85202cbdb0dd2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c3d8db07841b278c4e39a033cde40bdd570ba40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc4bb6cf564dea73abb787f2333e71aa10cb19bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9fde6b15a1f5d797bd9e990e281c80e3a7bf100.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe43f1577032ceada44964db01195848ab3213f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/053c4dbbca5bd16cc7700a37241e26f1d20b5d22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25db5c30d27624666e815ec0e9d97816bc93ab89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3d8a56f226746278366f5b0c729a7be003a729b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c68dce625e18b77e3169337fb45b5e711a712f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d19d785b0464c58dcf8106a0393cc3f216216f37.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "有趣"
       ],
       "answer": "A-1,B-4,C-2,D-3",
-      "explanation": "乱序匹配，需学生理清作者与作品对应关系。"
+      "explanation": "乱序匹配，需学生理清作者与作品对应关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/0426cd166b812331887f427951d279a7023a8a95.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7ba077956982af3340e9c9dd31d1188072b1202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698bea51247b5db4f5166b5cbace54b55a3773ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f508c839f52d6db739a9fc09798fb22803bd843a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7eaa2a0534dd7c9a91b8947ca3dd2c57fee932b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e1a85345a89c248d3b8fea1c91bb6291dce3672.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ae857962106cbab1ce8516da304a7f7849b5e13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7eb1a88f6573d035c40ab47c5a2f4a61353da01d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/544a54d4de78898822bbeb25eabaac86e5ba824c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f9dc3b00d0487a4c3ce387e434445ce5ff76b59.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "飞回来了"
       ],
       "answer": "二十只,带记号的,蜜蜂,飞回来了",
-      "explanation": "限定词放在主语前。"
+      "explanation": "限定词放在主语前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6dfdcc83b6dbeb855b6e19d321908e1a59c44894.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c6ddb64afd3a09dafe253144f3ac3fe101237b92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eb3ef1fed6abe127513a096eaa72a99ae46293.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f033ebd644b4ac1d28ba9553c1c1de6e149b2380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/975d4aa755f4eb5b751244f05db2792bb16b98dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccd0046b0d45fe5a72cd97fa68d75a32797f2b64.mp3"
+      }
     }
   ],
   "knowledge": null

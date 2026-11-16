@@ -16,7 +16,11 @@
       "question": "They are long and green. They are green ___.",
       "options": [],
       "answer": "beans",
-      "explanation": "豆角是长且绿色的蔬菜。"
+      "explanation": "豆角是长且绿色的蔬菜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e54125b68b5ad33ba80ea39c8146577f46262d55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73da48daa9b4862c9fcd524ac7e33cdc93c35a4c.mp3"
+      }
     }
   ],
   "knowledge": null

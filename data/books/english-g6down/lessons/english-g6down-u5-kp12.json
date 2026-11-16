@@ -21,7 +21,17 @@
         "How"
       ],
       "answer": "When",
-      "explanation": "对时间提问用When。"
+      "explanation": "对时间提问用When。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6da4984e8c0d1d672b379488ddf2ff5ac6f1950.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/769bb19e615b7f8e2809e5882e2d05a18f57a531.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0442c8929aa04f2e0c59acdb17075f806f23c3f.mp3"
+      }
     }
   ],
   "knowledge": null

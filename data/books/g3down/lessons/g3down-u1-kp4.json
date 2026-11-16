@@ -21,7 +21,17 @@
         "不转弯"
       ],
       "answer": "向右转",
-      "explanation": "朝北走时，右边是东。所以向东走需要向右转。验算：北-东-南-西顺时针排序 ✓。"
+      "explanation": "朝北走时，右边是东。所以向东走需要向右转。验算：北-东-南-西顺时针排序 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81fef8c81942597da73c596f313b2b10da2f86ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1ce4072e287cfed0f5db73836d7890ec4bfe9880.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b0ad815ae369eb3307c6bbd3752ac7ff41a9eae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adb85aafc4a05086b03fc6876ec0b472de3257b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fccbce68bd60e493de3b8dc5350ebed85ee7a27.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10d877804b49244710665cf4956b38b41b3db2d9.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "西南"
       ],
       "answer": "西北",
-      "explanation": "返回时方向完全相反。东南的相反方向是西北。验算：东转西，南转北 ✓。"
+      "explanation": "返回时方向完全相反。东南的相反方向是西北。验算：东转西，南转北 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b140a7d8ca9df4a89148b2e80b34f088230edac5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f04280546704cd59b5dc821976845944f4fdecca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e430d01fff7387dd121b2131156962be2e55e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a305aa94fb1b731d725a25982c3c03432b01e52a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acd11bc62fbc1a65b8230d48764dbeda67f94327.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4593fb4df76107a152c56c7565b3343bf016c984.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "在转弯后没有更新参照系，仍然使用初始出发点的方向感。",
       "返回原路时，忘记将所有方向调转（如去时向东北，回时应向西南）。"
     ],
-    "tips": "画简单的手绘草图（指北针+路径线）是解决路线题最有效的办法。"
+    "tips": "画简单的手绘草图（指北针+路径线）是解决路线题最有效的办法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ed/edad6e19ba757eb758c80c9fe2664458b272205a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/72/72ebd53349f7d19a778d772f593f19eba41fa5c1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/45/4527649c562cfb4809471e2b95bde0267b4cbeed.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f4/f4c530cef4d2ee6c16d0b832ddd20292b978df35.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9d/9df9627cc90f4985dc2f3c028b5cf47514f2bd0b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fb/fb1d964936e0410098e9cdb92898620045cfe52e.mp3"
+      ]
+    }
   }
 }

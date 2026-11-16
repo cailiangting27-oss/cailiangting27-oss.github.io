@@ -16,7 +16,11 @@
       "question": "8 + 7 = ？",
       "options": [],
       "answer": "15",
-      "explanation": "把 7 分成 2 和 5，8+2=10，10+5=15。"
+      "explanation": "把 7 分成 2 和 5，8+2=10，10+5=15。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee4c800cbc5de38126b7c357e26d51b380cca396.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b099f2c9ae3abceff0ec8c00394a0ea653e0631.mp3"
+      }
     },
     {
       "id": 6,
@@ -27,7 +31,11 @@
       "question": "16 − 8 = ？",
       "options": [],
       "answer": "8",
-      "explanation": "想 8 + 8 = 16。"
+      "explanation": "想 8 + 8 = 16。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/5572ad496d363d1488319b59020aa99c9ce1514e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7914e442be11f27a18f20ba7d169e5064b100981.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "2"
       ],
       "answer": "20",
-      "explanation": "2 个十 = 20。"
+      "explanation": "2 个十 = 20。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f43665007391c5366845a325cffc996e6c4c9c3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8a7522cefcc439dcb99d32009c9fa0c80ef6348.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "1"
       ],
       "answer": "5",
-      "explanation": "9 和 1 凑十，6 分成 1 和 5。"
+      "explanation": "9 和 1 凑十，6 分成 1 和 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d1af946a8e16b992b02dcc47140889e3d6b053f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5afa56b5fa4cf8ab452dc67a07f1c14db8ecf3b.mp3"
+      }
     }
   ],
   "knowledge": null

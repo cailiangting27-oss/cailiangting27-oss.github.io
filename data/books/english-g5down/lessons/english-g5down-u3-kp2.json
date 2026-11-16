@@ -16,7 +16,11 @@
       "question": "National Day in China is in October.",
       "options": [],
       "answer": "对",
-      "explanation": "中国国庆节是在10月。"
+      "explanation": "中国国庆节是在10月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43390eedde3b7667791fad5530f8c0481938bd63.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2cac2e767d5c9f24d296b9e80078f76300f3d0e.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "June"
       ],
       "answer": "March",
-      "explanation": "植树节在3月12日。"
+      "explanation": "植树节在3月12日。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ec75da9f3a652330d79b926ce0c6e4e551497a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/433632ea5cd64cd163c3a390d5e531d33da3c5e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0393902db1f516ef5f95f6830938558a88fb23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c94f479833c5d401cffdfa7afe6c9c2d56448019.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9db906761699b31567727716eaa6fd19ae5f5d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65319cd7b0a3bd33bb1660ef74aa09974133b831.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "November"
       ],
       "answer": "September",
-      "explanation": "教师节在9月。"
+      "explanation": "教师节在9月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/1907a846d2b30c2e78de60b2d0f45f492c59f227.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/69d97c5797dc7d211aaa4e9229db5c8466d4edef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c542e79c9b4257e640ccf72974d61fd590a5c26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87206ae2363483496c099f8c3aac5b4a8ae2a66a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c5bf776f5efcaa22d6e0fd4839db7d2b83e52be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f14903047feeb04b261ff7261786332dc306873a.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "Children's Day is in ________.",
       "options": [],
       "answer": "june",
-      "explanation": "儿童节在6月。"
+      "explanation": "儿童节在6月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56bddffbb7133f66fcc414b21e9747667b9eb86a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d6a6cf082bfdf7d1ffe2ef9680361b67f2b5a23.mp3"
+      }
     },
     {
       "id": 21,
@@ -79,7 +107,21 @@
         "运动会"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "复活节通常在四月，国庆在十月，新年在一月，sports meet是运动会。"
+      "explanation": "复活节通常在四月，国庆在十月，新年在一月，sports meet是运动会。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/998519a6021f8052ec2c748476488a3d2250da71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/2606285359704adc2fe251511f5adeb24d53898b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f909a621c58e9946b97d352068cdc49ee436b6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70270756c18c1afbfc131f7f238f1d14f2a555a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1feabab6cb15b29a88186575a7c393f110bb5d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/313fd5bb330edc6d6090ff5cc3532c9c0deee656.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03ce1d5613e8fd4b131aea7cefdc0b314179ea4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b17a06153593eb010726643670eee09ea018c24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fde422000bd6d1c05ffe737f24ddbc1b5c6af984.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bd2d1dff2487c7a4a8c090e39da1a0677996b65.mp3"
+      }
     }
   ],
   "knowledge": null

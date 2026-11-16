@@ -25,7 +25,21 @@
         "多重"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "how tall询问身高；how heavy询问体重；smaller更小；thinner更瘦。"
+      "explanation": "how tall询问身高；how heavy询问体重；smaller更小；thinner更瘦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a84f7952b7f641f8aa9bd7364a1dc63aa6e575c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/175fef17e87be742918357ef277f714def2db296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52dd0628e1a1694ccafb68d4e4c3864dec634382.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c3c295f075290ead8ad6f94eb282817c7e713c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/419bc23299c30ba0109ae0e8357e11e6385da652.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6aac3c892fd67f9116668cb1d6ff67864213a593.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c5738b92350a16421fd103529eeb77d84f1e0df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eef8afd86ebd6503af18d8670c019b40b856999e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a15030d490300d7c33c766a1c2972e6a797bbde.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be3e46867689263dd2bc1940fe1b50162190ad64.mp3"
+      }
     },
     {
       "id": 21,
@@ -45,7 +59,21 @@
         "影子"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "shadow影子；dinosaur恐龙；stronger更强壮；younger更年轻。"
+      "explanation": "shadow影子；dinosaur恐龙；stronger更强壮；younger更年轻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd5d1bfcbb21da0eb2a7acc90dac11fc08b7d14c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed9d3d832af899035363a69fd53cd3be8f71501c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd28db90cbdcd02fa63a2f16b0d79b11ab268194.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/8600a3afcc40c8b09454a5d5622c16a28fd2e85d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8f0bc79d442176f3ae7d3d81802edc139b147dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d5f9d0fd8d9f923299179c64a57a286b91ee450.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03fdec51b0b743e3b053d698234d009fef6615eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdd37e5d3de3366fdaa7256f6ff0473be45efd0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d530f0978f850955e6bfede71548773f97541b60.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8be71fb670ed47c0b29c7b97976f1a0a8b01711.mp3"
+      }
     }
   ],
   "knowledge": null

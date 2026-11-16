@@ -21,7 +21,17 @@
         "丘陵"
       ],
       "answer": "盆地",
-      "explanation": "盆地的地形特征就是四周山岭环绕，中间地形较低平。"
+      "explanation": "盆地的地形特征就是四周山岭环绕，中间地形较低平。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/148f7b2940f2592424a6de61d34ae30a1b70a9b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/18d6c15a36ed25275b6094b183397ef74ec959ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bb7d65bcfef1716504858bd97c97a7e1b543a30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44171796d9eed65eec616739cef54a3bef5d8445.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47087ed9ad61257dbcfb576bcbd22b58d0c407c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53dc6e2a872a9ea42dda9553213bed320104bb0b.mp3"
+      }
     }
   ],
   "knowledge": null

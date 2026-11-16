@@ -16,7 +16,11 @@
       "question": "雷达发出的无线电波遇到障碍物反映回来，显示在荧光屏上，这和蝙蝠探路原理是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "雷达的无线电波相当于蝙蝠的超声波，这是典型的仿生学应用。"
+      "explanation": "雷达的无线电波相当于蝙蝠的超声波，这是典型的仿生学应用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/1720cb7a7fbd90ebbc849540a8c0f1ce7f380b70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffe881ddbf0a618f8a8bc15132328a486a0d4fd4.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "《一个豆荚里的五粒豆》中的第五粒豆让生病的小女孩感到愉快，对生活充满了希望。",
       "options": [],
       "answer": "对",
-      "explanation": "豌豆的顽强生命力感染了小女孩，使其身体逐渐康复。"
+      "explanation": "豌豆的顽强生命力感染了小女孩，使其身体逐渐康复。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbe8fc8b93ee7ec2a599f15d4ed7cc04975df7e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec8f8d5222509dee8b356b4e69fe90fcf8d56b29.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "头部"
       ],
       "answer": "眼睛",
-      "explanation": "蝙蝠夜行靠的是听觉（超声波），不是视觉。"
+      "explanation": "蝙蝠夜行靠的是听觉（超声波），不是视觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0deaa7c995dbd616ff7a0f0dbd1800d566fbde9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/05b6b4a475f5850bad889136935d1959b5d119eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60c0c8849b748d08823d965ec903c97d9394b510.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62c7c8f5003e908d05a763285d5de181883b7c2a.mp3"
+      }
     },
     {
       "id": 14,
@@ -59,7 +77,17 @@
         "雷达——蝙蝠"
       ],
       "answer": "荧光屏——耳朵",
-      "explanation": "荧光屏是显示结果的，而耳朵是接收信号的对应物。"
+      "explanation": "荧光屏是显示结果的，而耳朵是接收信号的对应物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17bdce33ee8dfbb3532a58536c9be9ed0b174816.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbfa7a6cc6b422ad10f45ae4da7496677735a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d75698574c973575148d4b00f91f4bd204d5e827.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01d2280172b5b86c6f994d57f16d85818c8e5bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4dbbebd5235d38209aaec10b83f0e48d62a49a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42907f5a52efde290db23a64c1bf8dd73ce1346a.mp3"
+      }
     },
     {
       "id": 17,
@@ -70,7 +98,11 @@
       "question": "《夜间飞行的秘密》原文题目曾叫《蝙蝠和（    ）》。",
       "options": [],
       "answer": "雷达",
-      "explanation": "文章主要讲述了从蝙蝠身上得到启示发明雷达的过程。"
+      "explanation": "文章主要讲述了从蝙蝠身上得到启示发明雷达的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fb866247838de7ef35f8db9675c838b2f436f9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81b3e607a1fb3700c6c6969f5ada3c4a2f52fb8b.mp3"
+      }
     },
     {
       "id": 20,
@@ -90,7 +122,21 @@
         "海豚"
       ],
       "answer": "A-1,B-3,C-2,D-4",
-      "explanation": "考查仿生学的科学常识。"
+      "explanation": "考查仿生学的科学常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8a3a560910a2bf4c57ddfeaae9cbe1b5c277a11.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a03c82a53a83723bbb95e5f6cbfb9004c70da62d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09150382c93e38457b24c737734c9ae46c6bafeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/739483b056da61736c49926b0134de168819f3d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeae297a9ae030e9bb2c4bffe4378377e0336890.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/345084233494e995a385a11ffbac2c0d854728df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf7c3cc87a4709a89600fbf431250bb40123f4bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e8fb03c46fe91fcf6611cb58cb8a920e719c958.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93f68c49473d639b3b42b9f1dcba6b91d014859d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35517a531cbb7930fd2b2a55f52f96c7d82a6352.mp3"
+      }
     },
     {
       "id": 22,
@@ -107,7 +153,18 @@
         "飞行"
       ],
       "answer": "蝙蝠,在夜里,能够,灵巧地,飞行",
-      "explanation": "主语+状语+谓语的基本句式。"
+      "explanation": "主语+状语+谓语的基本句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f33401bee2aed55d8756b88f702bdef26b83bee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/345084233494e995a385a11ffbac2c0d854728df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fb84b85347e71b34d2b53a485605f38101b9a9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a7abdb45b8f282fa2088b2b0435dfea8bbe8d4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/457c0eb7d30644c3a58f13b8181a5b02642b90a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8bbc10fc3fbddb70d7b750aef8ef104a62b759b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12c6a34ac22ce192bbc8d72abf089c103bfda4f5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +175,16 @@
       "错认为雷达模仿的是蝙蝠的眼睛",
       "混淆了嘴巴对应天线、耳朵对应荧光屏的具体关系"
     ],
-    "tips": "可以画一个简单的对比草图，左边画蝙蝠，右边画雷达，用直线连接对应的器官和零件。"
+    "tips": "可以画一个简单的对比草图，左边画蝙蝠，右边画雷达，用直线连接对应的器官和零件。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/dd/dda9d3f9deb6c9c6b147c39ac422dff6f1958613.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/88/88a77ff6d45ad5c7c49be3107f293e8db14139bd.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b8/b871e02f945f464ca7b303f3b9063a75c3568be3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d5/d58a64b46d5cf04c9008e33e873ee2b2ad835163.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c0/c076d4fbd969b903441cc91e83990438d98aaa07.mp3",
+        "https://api.clthuanxie.cn/cc-audio/80/807084f7e18af070a671459da8dbb0d4d9be8543.mp3"
+      ]
+    }
   }
 }

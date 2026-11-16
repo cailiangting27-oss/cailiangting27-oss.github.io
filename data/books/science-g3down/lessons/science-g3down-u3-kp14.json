@@ -21,7 +21,17 @@
         "二十"
       ],
       "answer": "十五",
-      "explanation": "每逢农历十五或十六，太阳和月球位于地球两侧，月面全部朝向地球。"
+      "explanation": "每逢农历十五或十六，太阳和月球位于地球两侧，月面全部朝向地球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97d27a9c26144bbd6c3f8eee748a7e81f118cfaf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d66773c3df12fd02a8cd344e7a364d0f411c77f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0ddfdd43cb5004d69c092da769d6ced849fd32e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a35c2e8d1a4d58775a8c9a15e8b216c8e26ba3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64545f0c2fbaebd5cebc0bf6228a375d88a561b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7934f4e9474c0be6dd8b1d910ad74f85cad67d0.mp3"
+      }
     }
   ],
   "knowledge": null

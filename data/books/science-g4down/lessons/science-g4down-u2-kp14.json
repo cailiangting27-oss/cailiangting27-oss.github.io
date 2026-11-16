@@ -21,7 +21,17 @@
         "灯座"
       ],
       "answer": "灯泡",
-      "explanation": "基本电路的三要素是电源、导线和用电器（灯泡）。"
+      "explanation": "基本电路的三要素是电源、导线和用电器（灯泡）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3bbd63529ad77d8d0d452e842dc67e4b127c5c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7716c4a8f033f4fb83b6af0170be1e736b836c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f4671cfd2474c4586790511060ecd74a6cb0b82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f091601dc845b1cce3632fd21b5f2bdfbcda4930.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce0d0e93bd2c63be9d28d7f45d253fc93c612844.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5721891f6f64e551968a3ad39e0d2c0d05c9010.mp3"
+      }
     }
   ],
   "knowledge": null

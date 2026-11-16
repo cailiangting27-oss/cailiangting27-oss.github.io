@@ -21,7 +21,11 @@
         "？"
       ],
       "answer": "？",
-      "explanation": "这是一个疑问句。"
+      "explanation": "这是一个疑问句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf64cb022d729ff90e96d7deecb400e297b99fca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f97512df737f80dfcad1cb21ee101a1613bae11a.mp3"
+      }
     }
   ],
   "knowledge": null

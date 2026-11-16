@@ -16,7 +16,11 @@
       "question": "春天、夏天、秋天、冬天是循环出现的规律。",
       "options": [],
       "answer": "对",
-      "explanation": "四季轮回，每年都按此顺序循环，是一种自然的重复规律。"
+      "explanation": "四季轮回，每年都按此顺序循环，是一种自然的重复规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff29065487c88e35db362e27bb8a09cc3c0fca1f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92453a7b227294d188228e0d51b4aadeb1d4c447.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在数列 10, 20, 31, 40 中，规律被 31 破坏了。",
       "options": [],
       "answer": "对",
-      "explanation": "其他数都是每次加10，10到20加10，20到31加了11，所以31不符合规律。"
+      "explanation": "其他数都是每次加10，10到20加10，20到31加了11，所以31不符合规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d705bd5402b6a4752fddd1a4b5ea6c41f4d8fde9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/593515a112ea30739d3dd81038c4fdaca7ff7e49.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "1, 3, 5, 7 后面一个数应该是 8。",
       "options": [],
       "answer": "错",
-      "explanation": "这是奇数列，每次加2。$7+2=9$，所以应该是9。"
+      "explanation": "这是奇数列，每次加2。$7+2=9$，所以应该是9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e03123d2db473787296e26be526430868e42cea3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50532ee73850b3ed10f44577ac2560e4534f1c58.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个数列 1, 3, 5 和 2, 4, 6 的排列规律是不一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "两个数列的规律都是“后一个数比前一个数大2”，规律本质相同。"
+      "explanation": "两个数列的规律都是“后一个数比前一个数大2”，规律本质相同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a311620e2b6a71087bf2a53a1bd33ad137c45797.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d46df13ddbf051ad1811c8338bfe4d17497331d.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "35"
       ],
       "answer": "25",
-      "explanation": "规律是每次加5。$20+5=25$。"
+      "explanation": "规律是每次加5。$20+5=25$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c40c7d58fe98f45ed4a8f7594c92e38a50dd553.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8aba010d92968a8a8df8f029b0b5ca50276f66f5.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "1, 2, 3, 4"
       ],
       "answer": "1, 2, 3, 4",
-      "explanation": "A, B, C 都是每次加2，D 是每次加1。所以 D 的规律不同。"
+      "explanation": "A, B, C 都是每次加2，D 是每次加1。所以 D 的规律不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/251ab1992ea9f7230d9019a43ef730900699dbe0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e60552148596efe5070816fe9908f618c821e1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f4039f843ebfc84e52ba32b863730bcd0a5279e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/747fad5721e34c302f1e380b65755fa882d4c797.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4b37cf7194cd4f713ae1a78e040dcf569e0a7a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d90d2d924acbf0ca62ee90990a87b4397aabc43.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "老师"
       ],
       "answer": "女生",
-      "explanation": "3个一组（男、男、女）。$12 \\div 3 = 4$（组），正好分完，是每一组的最后一个，即女生。"
+      "explanation": "3个一组（男、男、女）。$12 \\div 3 = 4$（组），正好分完，是每一组的最后一个，即女生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e93e8ec4cc3b8b688e7f73e971c781eb5b6aecd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f65b69b24200093ec9484cdea7787991296a654.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5138491a19ed1657155ab6b204ebc36be3aace66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7d0623c2a51c2a9aa8c12dd17921dfcf1142d37.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "17"
       ],
       "answer": "16",
-      "explanation": "增加量依次是：$+1, +2, +3, +4$。接下来的增加量是 $+5$。$11+5=16$。"
+      "explanation": "增加量依次是：$+1, +2, +3, +4$。接下来的增加量是 $+5$。$11+5=16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4c3674b40da2ffaa0ea7e4919d5bc07c0f92cc7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf455f4d855d9fc63525ea370e72cb7f90f44681.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,11 @@
         "○○"
       ],
       "answer": "●●",
-      "explanation": "规律是“一个白两个黑”。括号前是白，括号后也是白，且两边都有两个黑，说明规律中间缺失的是对应“两个黑”的部分。"
+      "explanation": "规律是“一个白两个黑”。括号前是白，括号后也是白，且两边都有两个黑，说明规律中间缺失的是对应“两个黑”的部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2be2239b41577f69a2ee50d7f4bbdef19bf3536c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93d4c7060d10633019c750afca0ff92cfe6d465a.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "递减规律"
       ],
       "answer": "递增规律",
-      "explanation": "随着时间数字的变大，敲的次数也在变多，属于递增规律。"
+      "explanation": "随着时间数字的变大，敲的次数也在变多，属于递增规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c72bbe98795c193058fa1338e06313b22ffb9983.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e99c808eee89c0e23497bee53d82f99f146c8e3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c18d89c80889c5c2ac56f029decb8982b15cde6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb317e2b21b9e40d754626f3f2530e5c22075409.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0a0adf81b78adbe30ff21c92127260fd1abe8c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36672be58182511809dd8aba0aa67c72482a1187.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +231,17 @@
         "15"
       ],
       "answer": "13",
-      "explanation": "根据规律：$5 + 8 = 13$。"
+      "explanation": "根据规律：$5 + 8 = 13$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e9a7fefd6d07ea0130c7b60e58438097938dc08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47e4ca2630c10c5059c916fb9448a900e3e8e37.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +257,17 @@
         "睡觉"
       ],
       "answer": "哭脸",
-      "explanation": "双数位是哭脸。20是双数，所以是哭脸。"
+      "explanation": "双数位是哭脸。20是双数，所以是哭脸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b86b38ab9bd5bb7c3a51a8b548f66049d78ff061.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34487eb5afefef3a10c2333c0617866e45838de8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f75b764379f970f8f26812ddaa6235c70e9b53a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a50f99fc5e91877cd0c77267d4a3642d7f280aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/746d397c90559f39184a8c1e83ead50be9d5edba.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +278,11 @@
       "question": "小华每天存 $2$ 元钱，存了 $5$ 天。第一天存完是 $2$ 元，第五天存完一共是 ___ 元。",
       "options": [],
       "answer": "10",
-      "explanation": "这是一个以2为公差的数列：2, 4, 6, 8, 10。第5个数是10。计算：$2 \\times 5 = 10$。验算：$10 \\div 5 = 2$ ✓。"
+      "explanation": "这是一个以2为公差的数列：2, 4, 6, 8, 10。第5个数是10。计算：$2 \\times 5 = 10$。验算：$10 \\div 5 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7adec567bc6e780ec52be43a51a1dda8fd7680b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e64ab464570f4e21511624f884809a0f0502ec3c.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +293,11 @@
       "question": "一串珠子按“1红2绿3蓝”重复排列，这一组一共有 ___ 颗珠子。",
       "options": [],
       "answer": "6",
-      "explanation": "一组内包含的珠子数为：$1(牌) + 2(绿) + 3(蓝) = 6$（颗）。验算：$1+2+3=6$ ✓。"
+      "explanation": "一组内包含的珠子数为：$1(牌) + 2(绿) + 3(蓝) = 6$（颗）。验算：$1+2+3=6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8e49b0cdd1ccd69f371eb2536b6b3299eb74309.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02a07ea41dcc98cffa8cf036389f112f6fe0a06a.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +308,11 @@
       "question": "计算：$20 + 7 + 7 + 7 = ?$",
       "options": [],
       "answer": "41",
-      "explanation": "$20+7=27, 27+7=34, 34+7=41$。验算：$41-7-7-7=20$ ✓。"
+      "explanation": "$20+7=27, 27+7=34, 34+7=41$。验算：$41-7-7-7=20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/398a6a0ccafaba922c7ba890d92135632bc8ca76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c30f611ba8d828b172db1a14cd9aa5f56f5b8e8.mp3"
+      }
     }
   ],
   "knowledge": null

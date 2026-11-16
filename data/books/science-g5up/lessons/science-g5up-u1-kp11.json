@@ -21,7 +21,17 @@
         "光只有在玻璃里才有颜色"
       ],
       "answer": "白光由七种颜色混合而成",
-      "explanation": "三棱镜实验证明了太阳光（白光）是复色光。"
+      "explanation": "三棱镜实验证明了太阳光（白光）是复色光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef61e16c2b0e67817510e5be885819e1659463f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78d60f5e6b6343a3ebb6866804efc22152f9db3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed0dd841d5ca27c1b8837ba5621226c1924b4bb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a39dea4c7cbeec443bca942303d1c5de5eb1bd09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/132b6f9a809104ce4ac2ead94e4eda44a5f73a9b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/333e89c923073a795f3035671a6266629a68fe49.mp3"
+      }
     }
   ],
   "knowledge": null

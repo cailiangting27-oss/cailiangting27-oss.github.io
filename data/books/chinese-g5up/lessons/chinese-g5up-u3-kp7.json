@@ -22,7 +22,18 @@
         "心"
       ],
       "answer": "海力布,拥有,一颗,善良的,心",
-      "explanation": "主谓宾结构的简单句。"
+      "explanation": "主谓宾结构的简单句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8ef1f99900b8247447ac54513d853598dd1d50d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1cb66b29d022ed3b58eaf6440336b48b752c784a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9546a920468f604836dc8a12ec0c2c3ff0734085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42533eb9a660ccd3f637e1fed4c06ed939ae0854.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/0121f11690f35fb6b9ea28ced3a80e7b5a926757.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/481e547b1aa586156baa0d92a5037925b2590215.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f2fd56008b607aefc3481ccb7c7226c0a121ff2.mp3"
+      }
     }
   ],
   "knowledge": null

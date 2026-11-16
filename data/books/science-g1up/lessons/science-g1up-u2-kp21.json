@@ -21,7 +21,17 @@
         "没有变化"
       ],
       "answer": "变黄并死亡",
-      "explanation": "植物缺少阳光无法制造养料，会导致死亡。"
+      "explanation": "植物缺少阳光无法制造养料，会导致死亡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5032a6e25a86f2fa4ad610a3379813dd24f20d5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc0c7e6e6f4639ee39f2935cb50bb6913427cffb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94a7f2478fa6821d2e6584a12cad600853471b2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13c3dd5bb6ec5e3a8d97505946cdf6773233a934.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832378553ee4ac4c03c46e0d3b7f6cc51b9b8871.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd70d482de39cbb3f2270385a00a8765fe4bf5ee.mp3"
+      }
     }
   ],
   "knowledge": null

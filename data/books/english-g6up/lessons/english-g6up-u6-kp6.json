@@ -16,7 +16,11 @@
       "question": "在句子 'He should count with ten.' 中，介词 with 使用正确。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是count to ten，表示数到十。"
+      "explanation": "应该是count to ten，表示数到十。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba919fcdaa3a630da5856948bb31606cfb9e99b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e4d081353f504aa95f712dd9ee84184c4580c6e.mp3"
+      }
     }
   ],
   "knowledge": null

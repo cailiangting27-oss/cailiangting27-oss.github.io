@@ -16,7 +16,11 @@
       "question": "“朝”读音为 zhāo，对应的是“晚”。",
       "options": [],
       "answer": "对",
-      "explanation": "朝夕相对。"
+      "explanation": "朝夕相对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31e81c46bb27a8be476c8ae189122129dbab013d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97aee9f4ac92ecb8b38049adcc1c87094b70252e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“蝌蚪长大了变成了青蛙”，这属于动物动作动宾短语。",
       "options": [],
       "answer": "错",
-      "explanation": "这是个完整的叙述句。"
+      "explanation": "这是个完整的叙述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d00d7dc8686a6a99f3ba1259f06b2cdc2af06d42.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75a2a20ccb2cc5e793923a4d56245262f197c873.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“竹篮子打水——一场空”意思是白忙活了。",
       "options": [],
       "answer": "对",
-      "explanation": "竹篮有缝，提不起水。"
+      "explanation": "竹篮有缝，提不起水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1eb6d48e44829c2196be211e4895f0aa7e9e0b17.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/7458e400c4eeb7fbe9addade118b37c35c6382d7.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "给别人打电话可以在任何时间，哪怕是深夜。",
       "options": [],
       "answer": "错",
-      "explanation": "不符合文明交往礼仪。"
+      "explanation": "不符合文明交往礼仪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9097a48757107c81da4955738ff1815c9dd80ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7a41bc52319984bc10323fa5f24900c871bc4ca.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "关门养虎——终有后患"
       ],
       "answer": "小葱拌豆腐——一清二白",
-      "explanation": "形容清清楚楚、明明白白。"
+      "explanation": "形容清清楚楚、明明白白。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc9e301eb8953436d72874ef9588343e05b3efbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1f5a93e9423169d9c8e5fd9bda6cbe49273d6f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4b1ab20b0418b4eae5e1ae2ac40f7b01636bad0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/633311d74cd484bc1bffbc17041ed32c1db2298b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3f6216654fad9bbd405ba36054879ef285b1268.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef3a0916f8979452eb4f8f3f0416104afd70f10.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "蜻蜓"
       ],
       "answer": "蚯蚓",
-      "explanation": "原文：蚯蚓土里造宫殿。"
+      "explanation": "原文：蚯蚓土里造宫殿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/204c85ad957ee09d555e8a4cddd9c592b070da87.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a81c5d73781e208b65326573f0c2ed334f470e9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf02430730beebdd041c28f325bf49e185cb483.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81368dfe6bdaed0b4d9ec75a644078ce5678e10c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e8fb03c46fe91fcf6611cb58cb8a920e719c958.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91eac03620e65d5f86de4a1b8cc6ff2ce565c508.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "随便应付一句"
       ],
       "answer": "不好意思，请再说一遍好吗？",
-      "explanation": "体现了沟通中的礼貌表达。"
+      "explanation": "体现了沟通中的礼貌表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e270534c3fb8fe6e5e37b6aafe31ebcd4c0c2bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/617d38fb7f31f59f20f735a491a3f037f6e2d04c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03fd7c307b4df000c41af3405c1bca6fad729dd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a744308876d6a3cd9a6611cc75c1b9c2b3f26997.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afb36c35ff7e8e29992f157c23d26dc3af759f8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77e0b89ba44c2ee94f77b2a4fd6ad43dcccc1cb4.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "春天和秋天"
       ],
       "answer": "冬天和夏天",
-      "explanation": "严寒指冬，酷暑指夏。"
+      "explanation": "严寒指冬，酷暑指夏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0575c30f8d4876003a085b9a44b4a6092d7ae31f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a8a12a84becb8e4501eaf345909d07531ccda65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1812fb61f68cfa1256b0e3fed399d30d02319aae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02bcb7b730dcf61d85d9d7497a890c9caf30ebbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189e27d41a096cb0a4f92c11e1108f02c880ae26.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7dafa2d2f0bcc89884f37063f9e59d27ba74d35.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "结网"
       ],
       "answer": "捉迷藏",
-      "explanation": "蝴蝶花间捉迷藏。"
+      "explanation": "蝴蝶花间捉迷藏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1ec950b5b7cb6ca160ed6332875f3c4994b38a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef2c859acb53b7283231ea92b08c90a916bca9c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db515ba37ada6b48d6e8e154d95575188fa1aa86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d7bd0a441ed639206ba858741a2ebfff29db65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6db4d008d8da4a468a0fc2d1173b3e13d21fb17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a72c91a3e66ccf96603cc1639c5d398f76eab844.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "十五个吊桶打水"
       ],
       "answer": "竹篮子打水",
-      "explanation": "完整句为：竹篮子打水——一场空。"
+      "explanation": "完整句为：竹篮子打水——一场空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a1b858573ab354dfddbf28cc6715c83013758fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99d9a6c339f287f998d86dd412f3a686962b1aa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79aa8d318e215811d13fd27237a1d60c8253962b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd0cd931dd902889dd327bcd98582e4ab1f33620.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b448cbde453537e594adad1eb48d027692f43cd6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3222e30442cab44f0a229ad997e336f8ea48705.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "“和风”对（  ）。",
       "options": [],
       "answer": "细雨",
-      "explanation": "课文原句。"
+      "explanation": "课文原句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/454de6280dc2f18b8d4af15eba788e0e5f81ce2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/6902345940ecbc903900456a75b2eb717ac6c193.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "蚂蚁（  ）家。",
       "options": [],
       "answer": "搬",
-      "explanation": "考查动作词“搬”。"
+      "explanation": "考查动作词“搬”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94d6e38836efcca944f951f8650bdb3ffe0d97cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7feaca2b2cbee49da6c35dca7df3ee67fa399cfe.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "方"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "古-今，圆-方，早-晚，长-短。"
+      "explanation": "古-今，圆-方，早-晚，长-短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e180a98f552044097d3f95276b79d5ae8c16e083.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89321831fa9135056c3e83598388cc14d8c37385.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13a8589339d9223d3e4f0ff4eb9888cba3981435.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d98a0a68afcdf95a57f1b2234657cccd5b9eff05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0f7ec0504703158db8c047be73512dea91b323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f413d72c0b1851a8f01151d3448586514447dad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2130d70a08e68f5e97d60116aa9d578e8c614e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e9c5afd29ffae27771b3ce257fa7aca735084a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/357fb6ff7300acb54f05734e3accc39205b2721d.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "球"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "打球、踢足球、跳高、拍皮球。"
+      "explanation": "打球、踢足球、跳高、拍皮球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb7be3be019d50229ec53c9e2dc88675da722684.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6919d5be906e36aa9b9bd5593f3720aca1084eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1321dfda690195a57254ab5f644433342ef684f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8449cf0cf425dfca043999a69a353762eb3dd089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60a8be1e4b8cc7994b9e73bdd95aaeaddf3d2739.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/162020aed5e309c7a948b69cbe518f915debed59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b096b3f5acd628b9535183af5c243631423a6259.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514ef76f62517512927f78a448abe44c2e7657d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b31f3b60b149ce7f3511a4e8b80346320999029.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "在"
       ],
       "answer": "蚯蚓,在,土里,造宫殿",
-      "explanation": "主+状+动宾结构。"
+      "explanation": "主+状+动宾结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12c1192f59304ee5083473671ac66b670ab1e0c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c03b3c0b822e6efba9badfefb4b3a0122d3541cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf02430730beebdd041c28f325bf49e185cb483.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f9fa842c7368d60cadbfa461b6b40bba45b66ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd2eb78ef44de91e7bff39a6b9c0334545e0b7e3.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“法”这个字书写时左窄右宽。",
       "options": [],
       "answer": "对",
-      "explanation": "“法”是三点水旁，属于左窄右宽的结构。"
+      "explanation": "“法”是三点水旁，属于左窄右宽的结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7aa3406d8164f7cbea3a7167fbe5605ccea6b5c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c60e9c05a61fc75e54c633c964ca004f7601d4c4.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "登山时，我们要准备好登山鞋和登山杖。",
       "options": [],
       "answer": "对",
-      "explanation": "登山鞋和登山杖是户外登山的必备装备。"
+      "explanation": "登山鞋和登山杖是户外登山的必备装备。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e219b9ed6a1276ad0606cb18d2329dad5a7239d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d18177ecf023b198071d0925594e551d166c7fb.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "极"
       ],
       "answer": "都",
-      "explanation": "“都”字的右边单耳旁较窄，左边部分较宽。"
+      "explanation": "“都”字的右边单耳旁较窄，左边部分较宽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/feb173549b105c7eeb347672851dc4676cddfa8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/4047e3ddec855c0823e552bf01e51aca740f0f53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ce4f0238549e24e1f8198addcacc93d24a2e4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d51dd8d130ce462e444239d77070d038fb8e920a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80bc8b0fa760e371a2ee2c65a2c04c7a19fa52b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/6859b3d6080b71bae9a2f22e30b6abd0e6c70693.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "指南针"
       ],
       "answer": "书包",
-      "explanation": "虽然书包能装东西，但在课文语境下，地图、水壶、指南针是特定的原野生存装备。"
+      "explanation": "虽然书包能装东西，但在课文语境下，地图、水壶、指南针是特定的原野生存装备。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a426ef6d055db2c7c7ab3d7523be46ae8f981606.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46e1efeb268a3e005eaefa551d7034be8b2d7c6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb9474edfc48f0cc4df823d9202b7d11caf355c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4607168c0a68201915bfc0734448067b95b757e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "书写“极、海洋”时左右部分比例均等，显得臃肿",
       "“指南针”的“针”字偏旁部首掌握不牢"
     ],
-    "tips": "临摹字帖时先画辅助框，标注出宽窄比例再动笔。"
+    "tips": "临摹字帖时先画辅助框，标注出宽窄比例再动笔。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1e/1e22c95c6c2860346cad066691054f89817011b5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e8/e864fb7ce7301b3c4a7a53b991e2cf8e5dda3f89.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c9/c9321ae75df10fbbaf8bb27419ad1070c484a8ce.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/30/3086603327d0fc3974259ba97c369ace4db9de6f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a0/a0dedbd3e28a7be58ce4708586a96349ea7f2f2b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3b/3b2b6a09b079b38707573d10268998725bcd0997.mp3"
+      ]
+    }
   }
 }

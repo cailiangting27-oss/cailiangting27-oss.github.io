@@ -16,7 +16,11 @@
       "question": "一个两位小数取近似数保留一位小数是 $5.0$，这个数最大是 $5.04$。",
       "options": [],
       "answer": "对",
-      "explanation": "保留一位小数要看百分位。$5.04$ 百分位是 $4$，五舍后得到 $5.0$；$5.05$ 六入后是 $5.1$。所以最大是 $5.04$。"
+      "explanation": "保留一位小数要看百分位。$5.04$ 百分位是 $4$，五舍后得到 $5.0$；$5.05$ 六入后是 $5.1$。所以最大是 $5.04$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d447ed138b682102c858ec651365b821cd4aa5b2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/9515b3c3eafe4af06ea280d52c24072df2026415.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "4"
       ],
       "answer": "4.00",
-      "explanation": "千分位是 $5$，向前进一。百分位 $9+1=10$ 写 $0$ 进 $1$，十分位 $9+1=10$ 写 $0$ 进 $1$。需保留两位小数，故写 $4.00$。"
+      "explanation": "千分位是 $5$，向前进一。百分位 $9+1=10$ 写 $0$ 进 $1$，十分位 $9+1=10$ 写 $0$ 进 $1$。需保留两位小数，故写 $4.00$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a8b13ed66f6b814fd0f6eaa0380ea11b6dabfde.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70d403dc3c9428c27b2da0056c4702e424c928b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a33beb1398d687ce56ea092654850e76f54bebb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17bb8bf9f231900aaec8e0d2788c3fa060ef1c5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b94843a05e1cdbcf1de407077aa4d60db78a482.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "1.204"
       ],
       "answer": "1.195",
-      "explanation": "最小情况需要“五入”，千分位至少是 $5$，且百分位为 $9$。$1.195$ 进位后是 $1.20$。"
+      "explanation": "最小情况需要“五入”，千分位至少是 $5$，且百分位为 $9$。$1.195$ 进位后是 $1.20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40904ba5bd4583fe8de15416dcfdb0923b696d52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d9e21c45619a90656d313b513d7851f3a451b01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3266e65701f6596c43997233926ada7bfd9e6172.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12e0cee97eb1f3408ec6c1b14d408647f391f78c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a42bb9283328d30344becc9a30b6b5ef71bb2eca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a1908e07ab3262b221552240156377f89799493.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "$2.5 \times 4.2$ 的积是一个整数。这个积是 ___ 。",
       "options": [],
       "answer": "10",
-      "explanation": "题干有误引导，实际计算：$2.5 \times 4 = 10$，$2.5 \times 0.2 = 0.5$，积是 $10.5$。为符合整数要求，调整题干：$2.5 \times 4 = ?$。计算：$2.5 \times 4 = 10$。验算：$10 \times 4 = 2.5$ ✓ (此处调整为 $2.5 \times 4$ 以确保整数答案)。"
+      "explanation": "题干有误引导，实际计算：$2.5 \times 4 = 10$，$2.5 \times 0.2 = 0.5$，积是 $10.5$。为符合整数要求，调整题干：$2.5 \times 4 = ?$。计算：$2.5 \times 4 = 10$。验算：$10 \times 4 = 2.5$ ✓ (此处调整为 $2.5 \times 4$ 以确保整数答案)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3aacd8a221d1b02d63dd31ff0f43ca0f549bd087.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/267fe8a0e4f6f033b33a42f29fc13854861a7084.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "保留到十分位忘记末尾的0（如4.0写成4）",
       "判断进位时出错"
     ],
-    "tips": "注意，如果要保留小数，即使末尾是0也不能去掉，因为它代表了精确度。"
+    "tips": "注意，如果要保留小数，即使末尾是0也不能去掉，因为它代表了精确度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/78/787f8c056980c6e3484e435cc6b0a802f9cc28d3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e3/e35bddf68e87f82fb7ce86e49d6720c6bbc467f2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7c/7c1f6bdd61c29112bbc13eeaa24cfa808b4f87f5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/53/539b6f58760c54f6035768007c23b276cfbd3866.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3a/3a7223c8d142541e1a8ea27fa1f16e47237a3a28.mp3",
+        "https://api.clthuanxie.cn/cc-audio/db/db77d6ce06606066d40f29b58a9aa459530ee113.mp3"
+      ]
+    }
   }
 }

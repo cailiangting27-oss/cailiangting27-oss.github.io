@@ -21,7 +21,17 @@
         "am"
       ],
       "answer": "often",
-      "explanation": "often 为频度副词，放在实义动词 play 之前。"
+      "explanation": "often 为频度副词，放在实义动词 play 之前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6d7674c8088e1a643f9ec8c6b6297c2d23faf0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/4154d6cdd758653445acec1840f5834a202f04d6.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "I ______ watch TV on Saturdays.",
       "options": [],
       "answer": "often",
-      "explanation": "填入频度副词表示经常。"
+      "explanation": "填入频度副词表示经常。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa0c1e8ab46a95ffbbc158345341172d892e7750.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3e402ab3fcaea8b2b1b7f84a692ca07a0b7c4e3.mp3"
+      }
     },
     {
       "id": 23,
@@ -49,7 +63,18 @@
         "."
       ],
       "answer": "I,often,read,books,.",
-      "explanation": "频度副词在动词前。"
+      "explanation": "频度副词在动词前。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aed5404c83f7a46aa249e0a6328af756b19d513.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7afddb68260a60f86c02a021efba7f216c2e7cf.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/397d5080be5f177918bf2a2ddcd91278788c2cd8.mp3"
+      }
     }
   ],
   "knowledge": null

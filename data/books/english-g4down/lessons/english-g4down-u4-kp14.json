@@ -21,7 +21,17 @@
         "horses"
       ],
       "answer": "horses",
-      "explanation": "horses（马）是动物，可以吃草吃。"
+      "explanation": "horses（马）是动物，可以吃草吃。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94c7d731ce8b1f3f8aaefa85cb472dc92d666560.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/8819d19069fae6b4bac183d1f16553abab16b54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2012e4a43bfafe5e0e0dfb8e8d79c4ab38955032.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f890d49474e943dc07a766c21d2bf35d6e527e89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa13e9c53b81b1c4fd304fffbfbb65a43e40dcf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af01fe9b2ce9af9a71a79657200f1c1710be49ef.mp3"
+      }
     }
   ],
   "knowledge": null

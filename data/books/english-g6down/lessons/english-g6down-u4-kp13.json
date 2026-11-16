@@ -21,7 +21,17 @@
         "done"
       ],
       "answer": "did",
-      "explanation": "last night表示过去，疑问句借用助动词did。"
+      "explanation": "last night表示过去，疑问句借用助动词did。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65f6125cca17a3a2645cf2b6be146559d2caddbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5fd9cfe0e8039111d54b588e77b2bb0cad41c3a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/557aa46824bda6aa3194281d39e01e5add3b75c8.mp3"
+      }
     }
   ],
   "knowledge": null

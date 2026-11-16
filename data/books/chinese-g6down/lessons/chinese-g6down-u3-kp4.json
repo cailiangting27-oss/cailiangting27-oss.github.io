@@ -16,7 +16,11 @@
       "question": "在《那个星期天》中，作者通过描写早晨、报纸等细节，表现了“我”漫长的等待过程。",
       "options": [],
       "answer": "对",
-      "explanation": "文中刻画了阳光的移动、母亲洗衣服的动作等细节，真实地写出了“我”在那个星期天焦急等待的心情。"
+      "explanation": "文中刻画了阳光的移动、母亲洗衣服的动作等细节，真实地写出了“我”在那个星期天焦急等待的心情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a70ef0e9be1aab8a6ee8558f192f463b72c7fec4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d0e33377c88b7cd9a50ba7c5f18fa462e39bec2.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“我踏着一块块垫脚石，跳过地上的小水洼”这属于通过动作描写来侧面反映人物欢快的心情。",
       "options": [],
       "answer": "对",
-      "explanation": "欢快的跳跃动作是人物心情愉悦的直接体现，这就是融情于具体的动作细节中。"
+      "explanation": "欢快的跳跃动作是人物心情愉悦的直接体现，这就是融情于具体的动作细节中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/504c236f1c7c7a20bc9f87c8d5b3011eb82f0566.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70443cc56d3e99eb9b4999ce6693eb251c80a761.mp3"
+      }
     },
     {
       "id": 13,
@@ -43,7 +51,17 @@
         "他静静地坐在窗前看书"
       ],
       "answer": "他不停地看表并由于走动发出声响",
-      "explanation": "看表和走动是焦急者常见的下意识动作，通过行为描写体现内心。"
+      "explanation": "看表和走动是焦急者常见的下意识动作，通过行为描写体现内心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/874c5ba58b201a9852262dbdeb58202405131e6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a56da1825a0cb2107a8d66b67511544d5d9a3f36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/821e7faf2a48e1023f256538b70d1daac277321b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3059a5e46fe69aba705fbacdcf9466bf8bd61ed9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3f13e7aef5bf58c384f918f231c55ef9c050f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26e22e71adcbad1d7b3abbee54447b649acebaaa.mp3"
+      }
     },
     {
       "id": 17,
@@ -54,7 +72,11 @@
       "question": "《那个星期天》中，“我”的心情经历了由期待到（___）的变化。",
       "options": [],
       "answer": "失望",
-      "explanation": "那个星期天，由于母亲没能实现带“我”出去玩的诺言，“我”十分失望。"
+      "explanation": "那个星期天，由于母亲没能实现带“我”出去玩的诺言，“我”十分失望。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dda1ecf0b3e28b5b51759792090028b0e7cae58f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd60690d23006bbb9ff99c083549ffaae0e4b865.mp3"
+      }
     },
     {
       "id": 22,
@@ -71,7 +93,18 @@
         "焦急地"
       ],
       "answer": "我,一动不动,坐在,凳子上,焦急地",
-      "explanation": "合理的语序应是主语+修饰语+动作，表达焦虑的情绪。"
+      "explanation": "合理的语序应是主语+修饰语+动作，表达焦虑的情绪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b64c95ca38396bd15127d3cfd477c747a69c9327.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/409fd446d5e10d75c6e327cb71d4ceb173cadb07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/545d18b604ef99c6745c59ce42e00644fc5181b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f0984fbae5f9736e76759e2c9aeb4188c8941bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df9169ae15b0ff8b71572bf47cc0e3737eef4925.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41745cde9bdd0f58fa68dd758f06d14112d9eb77.mp3"
+      }
     }
   ],
   "knowledge": null

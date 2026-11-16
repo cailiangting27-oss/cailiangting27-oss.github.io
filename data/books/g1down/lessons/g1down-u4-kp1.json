@@ -16,7 +16,11 @@
       "question": "10个十是100。",
       "options": [],
       "answer": "对",
-      "explanation": "计数单位换算：10个一是1个十，10个十是1个百，即100。验算：$10 \\times 10 = 100$ ✓。"
+      "explanation": "计数单位换算：10个一是1个十，10个十是1个百，即100。验算：$10 \\times 10 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35c23ca6b7f3d5740d1304d7e86427ac19d9aafb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e463c83426001b5e0fa75f5022632fa9b4ad9ab.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "和79相邻的两个数是80和81。",
       "options": [],
       "answer": "错",
-      "explanation": "相邻数是它的前一个和后一个。79的前一个是78，后一个是80。所以是78和80。 ✓。"
+      "explanation": "相邻数是它的前一个和后一个。79的前一个是78，后一个是80。所以是78和80。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04b9b2891d6113aaa3331d2649ffca637d1e4d33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5ca007dba00360706c65f56034295b1d744f3933.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "18"
       ],
       "answer": "88",
-      "explanation": "八十八由8个十和8个一组成，十位写8，个位写8。结果是88。 ✓。"
+      "explanation": "八十八由8个十和8个一组成，十位写8，个位写8。结果是88。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f21bd2d22ea9815d43f05d585431b35b36d761b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38afd2ec2f9db9276c61839b6a900df67a7c9544.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b37f6ddcefad7e8657837d3177f9ef2462f98acf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8752bca113884fdcce7eb81d4f992713a5225c01.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "8"
       ],
       "answer": "53",
-      "explanation": "5个十是50，3个一是3，合起来是53。 ✓。"
+      "explanation": "5个十是50，3个一是3，合起来是53。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b957e21e03f32de138ddf241a59e792fc54ca2fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b76da3e608d34edb07244cd9b875ee86906328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7110e0d3f236986f20f4297a48a536d8fac5c411.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b58f57506bf5899e1e090c02d1929427437c011.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "4个"
       ],
       "answer": "6个",
-      "explanation": "数一数：37, 38, 39, 40, 41, 42。一共6个数。算式：$42 - 37 + 1 = 6$。 ✓。"
+      "explanation": "数一数：37, 38, 39, 40, 41, 42。一共6个数。算式：$42 - 37 + 1 = 6$。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c1875b35b42064216f5ace5c72311b9b4d6a295.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07f5eee6c1c2a31d50f8be149981f8088f5254df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e3b4f7b2299cfdb0e4ed31f21212d99a5232c8c.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "99"
       ],
       "answer": "10",
-      "explanation": "最小的一位数是1，最小的两位数是10，最大的两位数是99。 ✓。"
+      "explanation": "最小的一位数是1，最小的两位数是10，最大的两位数是99。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/7825176ea36f40ee3ef8b592383c75819401b334.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a79be611e0267e1d943da0737c6c51be67865a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d104eb85cc1190f701f23f1d7df570d559891f49.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "9"
       ],
       "answer": "90",
-      "explanation": "最大两位数是99，最大一位数是9。$99 - 9 = 90$。 ✓。"
+      "explanation": "最大两位数是99，最大一位数是9。$99 - 9 = 90$。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccdf5cf840e7803ffd431306b21293a23f5206bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/dad61432bd00386fb922c31a1b517e75eb487195.mp3"
+      }
     },
     {
       "id": 15,
@@ -123,7 +181,17 @@
         "13"
       ],
       "answer": "30",
-      "explanation": "十位3颗表示3个十，个位没有表示0。组成的数是30。 ✓。"
+      "explanation": "十位3颗表示3个十，个位没有表示0。组成的数是30。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69f2d36df48d82339496616db8e5b2d4a3f0a397.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6692ea5df920cad691c20319a6fffd7a4a766b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/319643bd9a031a7a0edcf280bfd6b5fa623cf0de.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +202,11 @@
       "question": "78里面有 ___ 个一和7个十。",
       "options": [],
       "answer": "8",
-      "explanation": "78的十位是7，表示7个十；个位是8，表示8个一。验算：$7 \\times 10 + 8 = 78$ ✓。"
+      "explanation": "78的十位是7，表示7个十；个位是8，表示8个一。验算：$7 \\times 10 + 8 = 78$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb2ab87beeadf3b715eea42f388e0b02663c03f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bf98807f37a6044e678310eb5862be91b434448.mp3"
+      }
     },
     {
       "id": 20,
@@ -145,7 +217,11 @@
       "question": "一个数个位是0，十位是4，这个数加5得 ___ 。",
       "options": [],
       "answer": "45",
-      "explanation": "这个数是40。列式：$40 + 5 = 45$。验算：$45 - 5 = 40$ ✓。"
+      "explanation": "这个数是40。列式：$40 + 5 = 45$。验算：$45 - 5 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/dab8e8b9edc59ccabe58c55cd34bac6f7c578bc0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91a0fd6770d8a5f7c8f46f6bf6e4036c699beca.mp3"
+      }
     },
     {
       "id": 21,
@@ -156,7 +232,11 @@
       "question": "小明有34个苹果，每10个装一袋，可以装满 ___ 袋。",
       "options": [],
       "answer": "3",
-      "explanation": "34里面有3个十和4个一。每个袋子装10个（即1个十），所以可以装满3袋，余4个。验算：$3 \\times 10 + 4 = 34$ ✓。"
+      "explanation": "34里面有3个十和4个一。每个袋子装10个（即1个十），所以可以装满3袋，余4个。验算：$3 \\times 10 + 4 = 34$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d3085adaa0549009441eda516af1412509ac16f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a5e38b9a46d43eccabcfb0482e2646d2918b0ef.mp3"
+      }
     },
     {
       "id": 22,
@@ -167,7 +247,11 @@
       "question": "$40 + 7 = ?$",
       "options": [],
       "answer": "47",
-      "explanation": "$40 + 7 = 47$。根据数的组成，4个十和7个一合起来是47。验算：$47 - 7 = 40$ ✓。"
+      "explanation": "$40 + 7 = 47$。根据数的组成，4个十和7个一合起来是47。验算：$47 - 7 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7d833b5bc3cdc720c7c103e11880e7d9621ca65.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20b7ae5ab0b3b759b75493eef0bb9eb97249a3ec.mp3"
+      }
     },
     {
       "id": 23,
@@ -178,7 +262,11 @@
       "question": "$86 - 6 = ?$",
       "options": [],
       "answer": "80",
-      "explanation": "$86 - 6 = 80$。从8个十和6个一中减去6个一，剩下8个十。验算：$80 + 6 = 86$ ✓。"
+      "explanation": "$86 - 6 = 80$。从8个十和6个一中减去6个一，剩下8个十。验算：$80 + 6 = 86$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0373fe98a11018132cfe7f286ba94bc79ec79c1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b670faa3ba7f8a991ba7059cdb069641c8273e5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -189,6 +277,16 @@
       "数数时忽略拐弯数，如数完39跳到30。",
       "混淆10个十和10个一的关系。"
     ],
-    "tips": "数数时可以借助手指或小棒，每满10根捆成一捆，帮助理解“十”的概念。"
+    "tips": "数数时可以借助手指或小棒，每满10根捆成一捆，帮助理解“十”的概念。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/20/209d777da0b0b44e008882b4c7f6b9f380f5d430.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5c/5cb6b31ee3b85b3d3082d3e5d520f5d9ef6d02f8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f6bf5c5316ddbb194a60199686f32e21755705c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f5/f5cc0b22e72b27f4d9eb48e68563468fc4c1a3ae.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2e/2e6b8642d82b536ee8f629a9ef04292f3ef62d93.mp3",
+        "https://api.clthuanxie.cn/cc-audio/aa/aa33b315919fc1406dd92647ea96def102678387.mp3"
+      ]
+    }
   }
 }

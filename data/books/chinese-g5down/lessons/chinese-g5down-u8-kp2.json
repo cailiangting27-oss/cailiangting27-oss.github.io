@@ -16,7 +16,11 @@
       "question": "《童年的发现》中，'我'被老师赶出教室是因为真的犯了无法原谅的错误。",
       "options": [],
       "answer": "错",
-      "explanation": "作者被赶出去是因为他的笑被老师误会了，反映了童年的逗趣和尴尬。"
+      "explanation": "作者被赶出去是因为他的笑被老师误会了，反映了童年的逗趣和尴尬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81f02b242e79a3f352c2b3f096ce5fea3804b735.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa1e46af4a2b765d197df94f14f2cb792599d845.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "作者想显摆自己的聪明"
       ],
       "answer": "作者自豪且幽默的自嘲",
-      "explanation": "这是一句含蓄的调侃，体现了童年那种天真的自豪感。"
+      "explanation": "这是一句含蓄的调侃，体现了童年那种天真的自豪感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89306b7ae3d437021b90eb5389614748f87ab79c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d415c6b85798a7fba16072cbd03ad58aa684534a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8443143d05d2899f5ba51f0aed10beadc23385.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f728b241dc4092704c30804869d594e1610dd20a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34fe6ae4df751b567c6af90951e9ffefa5d5356d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49750602e6f611d4bb429e9951bb757600313fd6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "无法体会作者结尾那句'自我安慰'式的反讽含义。",
       "将童年的好奇心误读为调皮捣蛋。"
     ],
-    "tips": "把自己代入作者当时被误解的情境，思考如果你是作者会如何平衡委屈与自豪。"
+    "tips": "把自己代入作者当时被误解的情境，思考如果你是作者会如何平衡委屈与自豪。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/12/12b07192192a74146b3c70939d38a5a340114ae2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f9/f90201e186dafb6b531e3babd1311310e162812b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/45/45c080c3c847f08631931c894d7767060eab06b0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bb/bbe358c869a6e8ba81a799fb750ae56c2cd68015.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c0/c01c0fa0ca1f5b14f2b1726a8a040f4db08d128f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/56/562c26b7010aaa62369e0607a8bcf662994e9250.mp3"
+      ]
+    }
   }
 }

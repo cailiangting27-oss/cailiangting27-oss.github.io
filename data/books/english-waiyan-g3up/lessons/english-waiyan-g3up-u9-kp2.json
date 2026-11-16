@@ -21,7 +21,17 @@
         "rase"
       ],
       "answer": "race",
-      "explanation": "race = 赛跑。"
+      "explanation": "race = 赛跑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a47ba57b148ec26d9b9ad4030791757405d53547.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de4bedce64a13c433914abccee8d49016e57d089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6939278d66e34fcfb23131504217025e78249a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/657db1e0dffa000c9cdad10f4bed2f8bfb0b5a09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2134cc27cc3b7c1065d368fd4c0064305d12c866.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8af44099ce4e6d31ccb54e28706e6c2741b8c8e5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "long jump 漏掉 the。"
     ],
-    "tips": "do the long jump 要加 the。"
+    "tips": "do the long jump 要加 the。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c9/c978a1742c9c3d3f03e26c7f01516e8c46a84177.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e7/e71f38624b68f664e2221c3e68ff789ab5edc4b6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3d/3d3a5e158c2b9564909fc8876cc3e55353b6c4e4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0b/0b41e23e2805850754727c384a55e40aa3ade97d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f3/f3a7fad7c15994b2881ed4b283dc05c90cc174e2.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "钢铁本身密度变小了"
       ],
       "answer": "排开的水量变大了",
-      "explanation": "做成船型后排开水的体积大大增加，获得的浮力大于重力。"
+      "explanation": "做成船型后排开水的体积大大增加，获得的浮力大于重力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78dea822f205710a6c759217a91850350e633d93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/421e3698d6a9e63fd01ca3536dbd47ff0c48cc4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b62879abafd86be3b24313fd2718d31282458f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2205ecf008b13cec64b3933116b89a360f150284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14a54ff40e35fbce550f80f2069f98bcd3be83cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd6e72f8182a52f000a580a545f55c00e5065863.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "混淆体积与排开水的体积",
       "认为浮力只与物体重量有关"
     ],
-    "tips": "把下沉材料做成中空形状，它是变浮的关键手段。"
+    "tips": "把下沉材料做成中空形状，它是变浮的关键手段。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/94/9446470bab147acfc630cb5c167e2f859292720a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/76/762ef233b1d34c4a949f30a4e4ec8dd6e2116e18.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/73/73c1e5c38a3bc53d53b07e76d6affd0b63661481.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b1/b166c68f9f46f0c4f5704b6b3f104e6f24c48618.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6e/6e69c950ab324eacc4368cac562e87c5e3e28262.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d5/d5928f0e458e26a1edf04b3483e3cfa2d8585678.mp3"
+      ]
+    }
   }
 }

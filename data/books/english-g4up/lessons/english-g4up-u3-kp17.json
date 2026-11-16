@@ -21,7 +21,17 @@
         "Thank you."
       ],
       "answer": "OK.",
-      "explanation": "对方提议做朋友，表示同意用OK。"
+      "explanation": "对方提议做朋友，表示同意用OK。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d66d7f8eb479abcd78c6aff1f0e1a9e60505fd96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/619bc388fc150d0a892a9731f1779af6c96e7f61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3f88602d26b6fa8f0b5bf18209890cfbed3fdef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00dca65e40e48c2c569b61859d33e4a27363928a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fda2c74effad5896edb223f2d94b6dcd1f30784e.mp3"
+      }
     }
   ],
   "knowledge": null

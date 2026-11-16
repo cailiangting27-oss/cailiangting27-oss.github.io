@@ -16,7 +16,11 @@
       "question": "我们在任意位置观察一个正方体，最多可以看到它的 4 个面。",
       "options": [],
       "answer": "错",
-      "explanation": "观察规律：站在一个位置观察一个正方体，最多能看到它的3个面（即正面、侧面和上面）。"
+      "explanation": "观察规律：站在一个位置观察一个正方体，最多能看到它的3个面（即正面、侧面和上面）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c77a4ffcb0841c5664689df94e7d3ad795dd898c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16a81a7a06edf7d47150b9f3ed5f609e71705629.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "从正面观察一个球体，看到的形状是一个圆。",
       "options": [],
       "answer": "对",
-      "explanation": "球体的特性：球体从任何方向看过去都是圆形的。"
+      "explanation": "球体的特性：球体从任何方向看过去都是圆形的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a4902d07542322fabf6dfc8c85dcafec3a72adc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ec7e302b1e6ed22e61ae1c60f0631ffeefb5a70.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "如果从正面看到一个物体的形状是正方形，那么这个物体一定是正方体。",
       "options": [],
       "answer": "错",
-      "explanation": "反例推导：长方体的一端如果是正方形，从正面看也是正方形，所以不一定是正方体。"
+      "explanation": "反例推导：长方体的一端如果是正方形，从正面看也是正方形，所以不一定是正方体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0aa862f0c42ae26e37f347efe91a07015e122910.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/259fdb33bcf7ed7dd587612ebdde0f972d2eca7f.mp3"
+      }
     },
     {
       "id": 7,
@@ -54,7 +66,17 @@
         "三角形"
       ],
       "answer": "长方形",
-      "explanation": "长方体的上面、正面、侧面通常都是长方形。"
+      "explanation": "长方体的上面、正面、侧面通常都是长方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebc0af621070d88b254275dfeeb0e4dc2ebebf37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c0d64837a8ef7109c1780b5caffa37796669961.mp3"
+      }
     },
     {
       "id": 8,
@@ -70,7 +92,17 @@
         "球"
       ],
       "answer": "正方体",
-      "explanation": "正方体的特征是 6 个面都是完全相同的正方形。"
+      "explanation": "正方体的特征是 6 个面都是完全相同的正方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/559590a40578ca66efc33c156b82c5b3493fcdea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8177d5631677679fa1c053f3b05fc943d12d665.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "椭圆"
       ],
       "answer": "长方形",
-      "explanation": "竖放的圆柱从正面或侧面看都是长方形，从上面看才是圆形。"
+      "explanation": "竖放的圆柱从正面或侧面看都是长方形，从上面看才是圆形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af1ed2eec9647457dd91bb53c0ccca54ed1da834.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/229298d292b0396426defe1bf0e5af81d2334c64.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd8c1f765d641d26bfb17fe3aa725a74b3ef59e5.mp3"
+      }
     },
     {
       "id": 13,
@@ -102,7 +144,17 @@
         "无法确定"
       ],
       "answer": "长方形",
-      "explanation": "书的封面和底面通常是长方形的。"
+      "explanation": "书的封面和底面通常是长方形的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa3327e870f8ebe9f14f8ea843b62c91d45bc9a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f71f37508c3c281550fd5301468fbfd1199af8e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0b846c416a662c29acf537b0314800fa5d93044.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +170,17 @@
         "12个"
       ],
       "answer": "6个",
-      "explanation": "正方体由6个完全一样的正方形组成。验算：上、下、前、后、左、右各一个，共6个。"
+      "explanation": "正方体由6个完全一样的正方形组成。验算：上、下、前、后、左、右各一个，共6个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7dd6890e332bdbedb61a1f02f2688141450922c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/0365b6e5dfc4006ce09da0abd45fe4161f19bad1.mp3"
+      }
     },
     {
       "id": 18,
@@ -134,7 +196,17 @@
         "8个"
       ],
       "answer": "6个",
-      "explanation": "虽然是两个正方体拼成的，但形成的新物体仍然是一个长方体，长方体固定有6个面。"
+      "explanation": "虽然是两个正方体拼成的，但形成的新物体仍然是一个长方体，长方体固定有6个面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45deb0631df124f0aacc30cdadb980f47bd7ae93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/707c9c7844f115336dd0a2b8fbbbfd83a8509bd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93be805f0c53f0b9554650d166aaacc4ba58e60a.mp3"
+      }
     },
     {
       "id": 19,
@@ -145,7 +217,11 @@
       "question": "正方体有 ___ 个面，这些面的形状完全相同。",
       "options": [],
       "answer": "6",
-      "explanation": "知识点直接应用：正方体共有6个面。验算：上下面2个，前后面2个，左右面2个，2+2+2=6。"
+      "explanation": "知识点直接应用：正方体共有6个面。验算：上下面2个，前后面2个，左右面2个，2+2+2=6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a56fe0ef2ca03a5ffd9678dedd0023cbe85bcf8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d54118bde3208b1f3463024c31441f8a207cdfb.mp3"
+      }
     },
     {
       "id": 20,
@@ -156,7 +232,11 @@
       "question": "从正面看一个长方体，看到了一个长方形；从侧面看，也看到了一个长方形。这个长方体至少有 ___ 个面是长方形。",
       "options": [],
       "answer": "4",
-      "explanation": "长方体的成对特性：正面看到长方形，背面也一定是；侧面看到长方形，另一侧也一定是。$2 + 2 = 4$。验算：最少情况是两端是正方形，四周4个长方形。✓"
+      "explanation": "长方体的成对特性：正面看到长方形，背面也一定是；侧面看到长方形，另一侧也一定是。$2 + 2 = 4$。验算：最少情况是两端是正方形，四周4个长方形。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8f625c43fd389a45ae1c581cb53076e86aa1dcf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6dd23c60a5da0a868aa42915f1b575c8258191f.mp3"
+      }
     },
     {
       "id": 22,
@@ -167,7 +247,11 @@
       "question": "计算：$3 \times 2 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$3 \times 2 = 6$。验算：$2+2+2 = 6$。本题对应正方体3个面可见，若两个正方体合起来数可见面的趣味计算。"
+      "explanation": "$3 \times 2 = 6$。验算：$2+2+2 = 6$。本题对应正方体3个面可见，若两个正方体合起来数可见面的趣味计算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3b17edba562cc083e85e891060dbd6b05073f39.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e6e387a4222fc8e09b6e2690ab2244e6d330ef0.mp3"
+      }
     },
     {
       "id": 23,
@@ -178,7 +262,11 @@
       "question": "计算：$12 - 6 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$12 - 6 = 6$。验算：$6 + 6 = 12$。对应正方体棱的数目减去面的数目的算理。"
+      "explanation": "$12 - 6 = 6$。验算：$6 + 6 = 12$。对应正方体棱的数目减去面的数目的算理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24c946f4f34c7d26dcd856d881dbe5480caecb08.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5347b9ed893d74d1543f407ee4efdd79cb1e3a96.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -189,6 +277,16 @@
       "错误认为长方体从各个面看都是长方形（忽略可能存在正方形面的情况）",
       "将圆柱的侧面看成圆形"
     ],
-    "tips": "记住‘三看’口诀：一看正面，二看侧面，三看上面，立体形状全呈现。"
+    "tips": "记住‘三看’口诀：一看正面，二看侧面，三看上面，立体形状全呈现。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/52/52adeb0e259f097a332eb10f14de1c7ffb04f19d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e7/e77f5da4b41f16350469eeedcf9476c308bb7ef6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/96/96c80ea95180ab87b9181d69057694682f7c7724.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c8/c8f1947fe33ac04fd557d52f044faca8c1320cc3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/50/50af6a97571206078e3c96e52eac0f5837b6c660.mp3",
+        "https://api.clthuanxie.cn/cc-audio/86/860dc0ff25fae76bda6b8263fa089b57ff9eb92a.mp3"
+      ]
+    }
   }
 }

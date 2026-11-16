@@ -21,7 +21,17 @@
         "声响"
       ],
       "answer": "消逝",
-      "explanation": "歇：消逝。指春天的芳华凋谢消逝了。"
+      "explanation": "歇：消逝。指春天的芳华凋谢消逝了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30840241bf8061d2db87c5c691c42bf4a452b3be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da11d57634b6751f3eced3e5b08889611348e879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17f70a8d3d66e1465ecacc36b935ea28714fcf3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/512732b659d60c12ac81d4f0f8d9405600afc14d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/446d3f9f6fee0084992cee0841403b0c9903edcc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2647f846c20bc406147f4b519eb40406701cd17.mp3"
+      }
     }
   ],
   "knowledge": null

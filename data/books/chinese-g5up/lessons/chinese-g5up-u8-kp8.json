@@ -21,7 +21,17 @@
         "阶梯"
       ],
       "answer": "书籍,是,人类进步的,阶梯",
-      "explanation": "这是高尔基的名言，主谓宾结构清晰。"
+      "explanation": "这是高尔基的名言，主谓宾结构清晰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57777c62cc5b6674edd3f532cefbf63c26f83a43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2b1e6998b033d106b93a6ec39ae954c0d4b3f5b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/878279642a418c6966d5bef0d45ed2b722245f57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/958500518df2d563476a867c8da1a37b6299e490.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a35bb74a9ff8d50fe1d552eb8cd75ffca113ddf4.mp3"
+      }
     },
     {
       "id": 23,
@@ -38,7 +48,18 @@
         "方整"
       ],
       "answer": "欧阳询的,楷书,结构,方整,严谨",
-      "explanation": "描述书法作品风格的常见句式。"
+      "explanation": "描述书法作品风格的常见句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0492bccf1ab6494db8d5f6d1eb034b0c9c93693.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37018cfcedea170591543b55d96254520badf85e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b816a6827d3b9fc490b282cbb74cdf81ec6a849f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33eb36f89621be8e4a0c7d24c421c30c0db23af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/953c96d7ddffd476277b3003e0614e90b571a315.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/8657f6a06f20d8fa630b28e9642bedefeb26132e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f11be75395191dbcfd0292e06499167dcb40516.mp3"
+      }
     }
   ],
   "knowledge": null

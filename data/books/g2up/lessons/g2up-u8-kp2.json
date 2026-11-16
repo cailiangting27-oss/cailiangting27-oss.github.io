@@ -16,7 +16,11 @@
       "question": "小明、小华和小刚 3 人每两人握一次手，一共要握 6 次手。",
       "options": [],
       "answer": "错",
-      "explanation": "组合问题与顺序无关。3个人握手情况为：小明-小华，小明-小刚，小华-小刚，共3次。公式分析：$3 \times 2 \times 1 = 3$（次） ✓。"
+      "explanation": "组合问题与顺序无关。3个人握手情况为：小明-小华，小明-小刚，小华-小刚，共3次。公式分析：$3 \times 2 \times 1 = 3$（次） ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ebb0651be7cb255693197d454e59add8e129f1e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60d0237b857ea3eb6d5727155634af6ef7b80949.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "有 3 种不同颜色的花，选出 2 种扎成一束，共有 3 种选法。",
       "options": [],
       "answer": "对",
-      "explanation": "假设色为红、黄、蓝，组合为：红黄、红蓝、黄蓝，共3种。公式：3选2等价于3选1，即3种 ✓。"
+      "explanation": "假设色为红、黄、蓝，组合为：红黄、红蓝、黄蓝，共3种。公式：3选2等价于3选1，即3种 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66ead055d9e944055ef56fa530565d319d912bc7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a616b0efd73c4594ed6fd3d2a1def9095589bdef.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "6 场"
       ],
       "answer": "3 场",
-      "explanation": "A对B，B对C，A对C。共3场。注意组合不分先后 ✓。"
+      "explanation": "A对B，B对C，A对C。共3场。注意组合不分先后 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0c2ae80910e4ede94e5f9c381560d524d75f060.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2cac6605cb2f9714fa013cb1a91e5e902fdc52f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d0fd797718c3a056f785794d690a42ff272176e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c896b665293bec14f97b6a04453a21d1d0681d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad26cc530a4af112b160f697789d22e366f68888.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d3d8fe094c03b3772614a0c080b3e178072b400.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "4 种"
       ],
       "answer": "2 种",
-      "explanation": "方法一：付1张5角；方法二：5角无法用2角硬币直接拼出，但本题只有2枚2角凑不出5角。重新审视：方法1是一枚5角，方法2是无。答案更正：只有一种付清方式。选项及逻辑重校：如果有1角则多。此题只有1枚5角和2枚2角，只能付5角。改为: 1角硬币5枚，5角硬币1枚。付5角有2种方式。修正后题干：5角硬币1枚，1角硬币5枚。付5角有：1枚5角，或5枚1角。共2种 ✓。"
+      "explanation": "方法一：付1张5角；方法二：5角无法用2角硬币直接拼出，但本题只有2枚2角凑不出5角。重新审视：方法1是一枚5角，方法2是无。答案更正：只有一种付清方式。选项及逻辑重校：如果有1角则多。此题只有1枚5角和2枚2角，只能付5角。改为: 1角硬币5枚，5角硬币1枚。付5角有2种方式。修正后题干：5角硬币1枚，1角硬币5枚。付5角有：1枚5角，或5枚1角。共2种 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ee83e7c337d506fb6314155059c64bf2223aa07.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5ac103e5b6e924b67e7b1eea93f19fce093100c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/287e199fc70162c8795ee7bd1006b881713aa235.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b10ae01b7b19eb33fd9a9b5e2ce778a5729a1264.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa4b6d6c50d7146c29bf214fc3dce7b1bd40fbb6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a5ab1ef15c1692cc4cd84f0fefc18b5a6d58693.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "6 次"
       ],
       "answer": "3 次",
-      "explanation": "这属于组合问题。3选2的组合，即 (1,2), (1,3), (2,3)，共3次 ✓。"
+      "explanation": "这属于组合问题。3选2的组合，即 (1,2), (1,3), (2,3)，共3次 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65953e839b1d140dfcfdba3c284f96249bdf13e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5b0d41cefdec876fe5fa75ea1a3f0f2c6d1cc33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04b7aad9650cb3562bc0e84ffa7381a9996bd833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6350c687bd070d040073c2eebe980ba3ee7e070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99e775d1de1330fb16cdb9fd6ff2ab92199c5c44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6cefadd349d68691ca7ccd6c984bfb8d11dad7f.mp3"
+      }
     },
     {
       "id": 20,
@@ -86,7 +124,11 @@
       "question": "4 个小朋友进行乒乓球单打比赛，每两人打一场，一共要打 ___ 场。",
       "options": [],
       "answer": "6",
-      "explanation": "可以用连线法：1号与2,3,4打（3场），2号与3,4打（2场），3号与4打（1场）。总计：$3 + 2 + 1 = 6$。验算：$4 \times 3 \times 2 = 6$ ✓。"
+      "explanation": "可以用连线法：1号与2,3,4打（3场），2号与3,4打（2场），3号与4打（1场）。总计：$3 + 2 + 1 = 6$。验算：$4 \times 3 \times 2 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fa77d1c1996b6ebd1d9d8f916d2cdb44b08d13d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4adcc8b56a8809be27498ce3edf74fcd8ead415e.mp3"
+      }
     },
     {
       "id": 23,
@@ -97,7 +139,11 @@
       "question": "计算：$3 + 2 + 1 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$3 + 2 + 1 = 6$。验算：$6 - 1 - 2 = 3$ ✓。此题模拟4人两两握手的组合数计算过程。"
+      "explanation": "$3 + 2 + 1 = 6$。验算：$6 - 1 - 2 = 3$ ✓。此题模拟4人两两握手的组合数计算过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2ba7183c2fb1fc9efb8af95614ac6f89da33fdfb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac25172c18e87eb902169c5977d61f9272ec2dc1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "把握手次数算多了一倍，没有考虑A-B和B-A是同一次",
       "忘记减去自身与自身的重复组合"
     ],
-    "tips": "连线法直观又好记！给每个小朋友排个号，1号连2、3、4，2号连3、4... 这样连最清楚。"
+    "tips": "连线法直观又好记！给每个小朋友排个号，1号连2、3、4，2号连3、4... 这样连最清楚。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/89/89cc747acc2dc35674159ee267ed5c3f3ba3a4d0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fb/fb931b36de2c4ab92e714694b08e4e96638cbc2b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0d/0d4e0498fa4eb5a31fb1d28b82a214d029e7f86e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/ab3aca640b1e866e4667ab7d76f4944826e68e7b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fe/fea4629d1ab82b0bb0cc223d2fd9ac5a39f008ab.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ab/ab2bcb43135d81f097dea5779dc7929a55772e08.mp3"
+      ]
+    }
   }
 }

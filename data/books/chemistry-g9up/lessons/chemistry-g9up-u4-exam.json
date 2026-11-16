@@ -32,7 +32,15 @@
         "二氧化碳"
       ],
       "answer": "二氧化碳",
-      "explanation": "CO₂ 是化合物。"
+      "explanation": "CO₂ 是化合物。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/9767b5983af1b29a9ea101b3998fabc8f1d7920c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94fb25ffb82c377c3faec89c5afa4b10df96b489.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/d5/d5bfbbe8160137bf051d3812951fb0720192679c.mp3"
+        ]
+      }
     },
     {
       "id": 9,

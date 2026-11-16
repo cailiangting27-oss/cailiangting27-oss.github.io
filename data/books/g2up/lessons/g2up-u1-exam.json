@@ -16,7 +16,11 @@
       "question": "为了交流方便，全世界都统一了长度单位。",
       "options": [],
       "answer": "对",
-      "explanation": "统一单位是现代社会科学测量的基础。"
+      "explanation": "统一单位是现代社会科学测量的基础。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d057d172e6fa915aa32dc0ce46f61b1fe46fe9f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4f3eaa7ff3568285cac009111d2a3dae4e30e2d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "5厘米和50厘米加起来是1米。",
       "options": [],
       "answer": "错",
-      "explanation": "$5 + 50 = 55$厘米，不等于100厘米。"
+      "explanation": "$5 + 50 = 55$厘米，不等于100厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c48f22e36ad6d94f9e3c0efe8d9e6c0388158b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78e7ef553ce5b0ce44a34f110b5df0996445c4f8.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "门的高度大约是2米。",
       "options": [],
       "answer": "对",
-      "explanation": "普通房屋的房门高度通常在2米左右。"
+      "explanation": "普通房屋的房门高度通常在2米左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba67a18e98b8969265f6b191324c26bedd327990.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5e7ec6f90fdbd1614c930ca8c8f0087b6044f92.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "尺子上刻度4到刻度8之间的长度是3厘米。",
       "options": [],
       "answer": "错",
-      "explanation": "$8 - 4 = 4$ 厘米，不是3厘米。"
+      "explanation": "$8 - 4 = 4$ 厘米，不是3厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3ee04f627f1a1481e736b5b41e0c554744590c7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/460758fdd9c7524ec4e86bc6d7efc6c881fd8896.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "2厘米"
       ],
       "answer": "7厘米",
-      "explanation": "$9 - 2 = 7$ 厘米。"
+      "explanation": "$9 - 2 = 7$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e53ef2674048c6f793241d39830dfd4669f6ea8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/02ca852529d409d9a5dac3486ae729d0f09d32f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34e95e3197e45e42d0652bc89471da0155238a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/913f381aa070840e29af8f92e375f48042bc6644.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea24a7087aeabf5b9d53482f23e2f5141c8c0409.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/808a043ede3e8545142878a1cd506b95ef008bf0.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "一样长"
       ],
       "answer": "1 米",
-      "explanation": "1米 = 100厘米，100 > 50 > 45。"
+      "explanation": "1米 = 100厘米，100 > 50 > 45。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87eda80265fa9ddeab6e2982dcd4d9de8e70277d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cb916909647b0b8a9b2ef2e723770d6c494004bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e1b17e796d1e7a401f633fa4d4924df0246f232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/185a6098c0c8d9604f7ec809bb2b901dbc20b884.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50117421c702ab0965d0e1bf021a60d7d391d95b.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "100 厘米"
       ],
       "answer": "15 厘米",
-      "explanation": "15个1厘米就是15厘米。"
+      "explanation": "15个1厘米就是15厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2d556c44fe835941e3412bca996e563f5875e9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37ff23907b55e2f55b7c45e18ecd3eeb2d299fe4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa03e88392f24b002a7e355d7b4f2196605c39d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1911d3aae82e9b1b0d0454b95c2d6b9db67649f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bcbc007ed3bf7930756cac09e1b8d85b78a3e37.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/515ead1e7c7e8b6a07acdee5dae8578786a59e4b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "12 厘米"
       ],
       "answer": "18 厘米",
-      "explanation": "$10 + 10 - 2 = 18$ 厘米。重叠部分由于重合了，需减去一次。"
+      "explanation": "$10 + 10 - 2 = 18$ 厘米。重叠部分由于重合了，需减去一次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26dd6db504882a085df35c8ec65e8413d4fbed89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/184daa7f3870ba9f5ad7d8e3408534e52f3818a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcb33d341d7a36807c70389ab90b5d6368f4ee71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d950883e9448f0a2be34ac7b1611da209349a48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0250a3d96930adfc309c42a13e6817613aee5bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a87af25a57bfd6ba9990a42d30de1d28eb190066.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "无数"
       ],
       "answer": "1",
-      "explanation": "由于两点确定一条直线，两点间只有一条最短的线段。"
+      "explanation": "由于两点确定一条直线，两点间只有一条最短的线段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d5a077da4acf8119fc731a42f0cf1b7267939840.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48188eacb684c2af03eabb4154382b0a68555384.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b32d67f90763c467c09169df3ee875378a4a0ac0.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "1"
       ],
       "answer": "5",
-      "explanation": "$10 - 5 = 5$ 厘米。"
+      "explanation": "$10 - 5 = 5$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cebf3c84e71a59a3986a93a69b50bf6df38dc649.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd14091173872730818fa19df59da848cfb6cb49.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "10 厘米"
       ],
       "answer": "99 厘米",
-      "explanation": "1米=100厘米，$100 - 1 = 99$ 厘米。"
+      "explanation": "1米=100厘米，$100 - 1 = 99$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a40fbc34fd589b4af976767e2dc2d438a15db55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c7eebd24d38675cb77705c69e209edfe60b0060.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed7a6ce5bebb42ff905553da7a4055cfb58031b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6c648341d3d5ae23436bc30fa7c30c639ac8819.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c49b8bcc81b7d50468a458233388afbca995312.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ee1aca0ad33f668be6065c1ddd36a9a02aea755.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "50 米"
       ],
       "answer": "5 厘米",
-      "explanation": "一般在纸上画出的线段用厘米表示比较符合实际。"
+      "explanation": "一般在纸上画出的线段用厘米表示比较符合实际。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00c5bad914016900efe3d753faf1d4413a7357b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c16c4802b92de722d30caebe9d96e69a54d855a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e84aa983b414f6f87bed7b4acf63e1f6da00946.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db9aac9fc1378e7b74750280ae8f8e49481fe72a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a5a84e383a484516430c9386ecf1742543768ca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/574825c8c6127bb32d7632689f798df1d8aa5086.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "2 米 = ___ 厘米。",
       "options": [],
       "answer": "200",
-      "explanation": "1米=100厘米，2米就是2个100厘米，$2 \\times 100 = 200$。验算：$200 \\div 2 = 100$ ✓。"
+      "explanation": "1米=100厘米，2米就是2个100厘米，$2 \\times 100 = 200$。验算：$200 \\div 2 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d327d58905f95c2a39aa3eb4f6d2a137b6ba6ad9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58eb0d2933b8f8d5be088cff19232ea02a06967a.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "有一个正方形，它由 ___ 条线段围成。",
       "options": [],
       "answer": "4",
-      "explanation": "正方形有四条直的边，每条边都是线段。验算：边数=4 ✓。"
+      "explanation": "正方形有四条直的边，每条边都是线段。验算：边数=4 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c6b68902bc6949619b76b3af3ade793229075e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b84fbdbe4889afc8a34bf9e09136dc6672fa8b9d.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$52 + 48 = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$52 + 48 = 100$。验算：$100 - 48 = 52$ ✓。"
+      "explanation": "$52 + 48 = 100$。验算：$100 - 48 = 52$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/0097cd04d324d0d87a6039b61e6f8eefe74c7ed8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d14617688607d2496d90124a40169be3a09cd4d5.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "拟定习作大纲时，只需要写出题目，不需要考虑先写什么后写什么。",
       "options": [],
       "answer": "错",
-      "explanation": "习作大纲必须包含叙事逻辑和条理，即写作的先后顺序。"
+      "explanation": "习作大纲必须包含叙事逻辑和条理，即写作的先后顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b43f564430e7c023d4fbc57dcb9cd3591ee2e6bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e773ccc10ec22fbcd826835460094cbcb067a4f0.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "早起看到太阳升起"
       ],
       "answer": "在比赛中经过努力获得冠军",
-      "explanation": "通过努力获得的成就感最能体现深层次的、令人回味的“甜”。"
+      "explanation": "通过努力获得的成就感最能体现深层次的、令人回味的“甜”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7bb9000f0557b992525737b35395ae25aab0e6d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0838ed66f9c90bf872575cf7a0d2d65be7f94a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55ed1eeebe02105276926d345d8e1fa34ffc0750.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29a9e6e1a17df1b924fd94529c5270de6c1ed898.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83d240de2fb6c9e8f91c9d09f8160979028b9461.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a51041613e5a38fd800da15178775ac6308889f3.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "进行细节描写"
       ],
       "answer": "确定中心意思",
-      "explanation": "必须先有“魂”（中心意思），才能根据这个魂来选材排产。"
+      "explanation": "必须先有“魂”（中心意思），才能根据这个魂来选材排产。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab1a876b42f7544e3e3e572bc0c1bb83f4a7b4dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f282274b063a954fe44847ccb41ea2ac13980e05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b27742ab0461388a26ca0cd895663a6a17b4355.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c927462174d5285926d08d57cb81cc76548074c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0212ccc40e6f87ce93aa5961fb73df87a97c8409.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db702ea6de1bb09cf24fc1f730b0dc6e2ed7dcae.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "写《盼》这篇文章，为了突出主旨，重点描写了（___）的变幻。",
       "options": [],
       "answer": "天气",
-      "explanation": "通过天气的阴晴变化来反衬主人公想穿雨衣的急切心理。"
+      "explanation": "通过天气的阴晴变化来反衬主人公想穿雨衣的急切心理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f4ce59ec385baf87c760fabd6a6d79cc6b8c8c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9a749b1c0a219f98dfcb007483ae3e669e0259d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "大纲只写个题目，没有具体框架",
       "段落逻辑混乱，先写结果再写起因，却没有合理的插叙说明"
     ],
-    "tips": "使用思维导图或简单的序号列表来制定提纲，在重点详写的部分打一个‘★’，提醒自己这里要展开描写。"
+    "tips": "使用思维导图或简单的序号列表来制定提纲，在重点详写的部分打一个‘★’，提醒自己这里要展开描写。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d0/d0a732fc4eb71de86a204d40be0f7afb565e8e0f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bc/bc273374642233f831c631e12e8ebb21902fd6fa.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fc/fc6c3df9a6ef9379ff389acbbb5e0a9bf5b13b77.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/dd/dd9580a971ebc8d7d9edbcbca5eb6e63e6916d4e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9f/9f561168a189a5a2e11bb4ab1b17d6736b1758e8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e0/e025fe90dc20f9996c5c9b6c40577495a5c332c7.mp3"
+      ]
+    }
   }
 }

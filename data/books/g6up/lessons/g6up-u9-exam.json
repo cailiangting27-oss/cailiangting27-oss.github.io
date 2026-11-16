@@ -16,7 +16,11 @@
       "question": "圆心决定圆的位置，半径决定圆的大小。",
       "options": [],
       "answer": "对",
-      "explanation": "这是圆的基本属性，圆心确定坐标，半径确定范围尺寸。"
+      "explanation": "这是圆的基本属性，圆心确定坐标，半径确定范围尺寸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0dbd8b7ce773bb4c8bf57ab245669244b4311a88.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44888d4a51bbb2376dc8f5fcf24947c2272065df.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "比的前项和后项同时乘一个相同的数，比值不变。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是同时乘或除以相同的数（0除外）。原命题没说 0 除外，所以错误。"
+      "explanation": "必须是同时乘或除以相同的数（0除外）。原命题没说 0 除外，所以错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad090ed9a997089e4ab37328c7bef8e231a86f3d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a5a44127efc191875b24902b76c0dce4ad8ec4b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "半圆的对称轴只有一条。",
       "options": [],
       "answer": "对",
-      "explanation": "半圆只有通过圆心垂直于直径的一条对称轴。"
+      "explanation": "半圆只有通过圆心垂直于直径的一条对称轴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60313ef699dbb5c67e7340eedf15d0f465b0abe1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edf902075073857f86e85e372d5c8425dc5c5338.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "比的前项是 3，后项是 4，如果前项增加 6，要使比值不变，后项应增加 8。",
       "options": [],
       "answer": "对",
-      "explanation": "前项由 3 变成 9，扩大了 3 倍。后项应变为 $4 \\times 3 = 12$，增加 $12 - 4 = 8$。正确。"
+      "explanation": "前项由 3 变成 9，扩大了 3 倍。后项应变为 $4 \\times 3 = 12$，增加 $12 - 4 = 8$。正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/677e0b890f7992f35c03a2d0ecfcc843a061cf6f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b525ebaf0f83ca208730da410ea733d7f946404.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "9 : 10"
       ],
       "answer": "1 : 9",
-      "explanation": "糖是 1 份，糖水是 10 份，则水是 $10 - 1 = 9$ 份。比是 $1 : 9$。"
+      "explanation": "糖是 1 份，糖水是 10 份，则水是 $10 - 1 = 9$ 份。比是 $1 : 9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c04d51f75dca6637f2f1ff328a8ad1c1edf6031.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/1641b1ed35f8463cfe9085e35ab01f6c9b346840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66f71d4bbb6571a89c470a561c4103993e0ff646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/240d4ffbea912727f2e787de38b10c4acf2e16eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93184ef0c19b589196a0746ec93c0a85a561a9e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0242262b8dfbd75a992390b00516dd62b1e5f990.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "16"
       ],
       "answer": "12.56",
-      "explanation": "圆的直径等于正方形边长 4 cm，半径为 2 cm。面积 $3.14 \\times 2^2 = 3.14 \\times 4 = 12.56$。"
+      "explanation": "圆的直径等于正方形边长 4 cm，半径为 2 cm。面积 $3.14 \\times 2^2 = 3.14 \\times 4 = 12.56$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2142401500a431c25d0937a178657f9743f6ab94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5478387c73d375929046b948714c8b88ede71f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59226be5c1c97af91d1647c0ebbc1e74df37b150.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0845d02ff0057f4c35e15e2c7547745e80b35ef3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43913cee05335d0dfc350ac774edebdb4304d825.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "等腰三角形"
       ],
       "answer": "直角三角形",
-      "explanation": "最大角占 $3/(1+2+3) = 1/2$。$180 \\times 1/2 = 90$ 度。有 90 度角的三角形是直角三角形。"
+      "explanation": "最大角占 $3/(1+2+3) = 1/2$。$180 \\times 1/2 = 90$ 度。有 90 度角的三角形是直角三角形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f4b722bdc74b1f6a6cdbe412576001b5a7ac616.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a692d9b74b6f06ce7928d492fb1784eee546e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2ac2c9f4b5fb34f70d128df01435d2ac313a28cd.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "2"
       ],
       "answer": "3",
-      "explanation": "半径 $r = C \\div (2\\pi) = 18.84 \\div (2 \\times 3.14) = 18.84 \\div 6.28 = 3$。"
+      "explanation": "半径 $r = C \\div (2\\pi) = 18.84 \\div (2 \\times 3.14) = 18.84 \\div 6.28 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/066514207cf002ebe6d0770add1fa57565542f8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/627a731ac036c55ec0c1bf6f4c2705a4febd4cb0.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "2 : 3"
       ],
       "answer": "1 : 2",
-      "explanation": "设乙为 1，则甲为 2。乙与甲的比为 $1 : 2$。"
+      "explanation": "设乙为 1，则甲为 2。乙与甲的比为 $1 : 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf2f93f656ddc6b8b72bd4e29d342616e37e9a2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78f0e82323644689049b710872f8971974d5939a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/723372ddeda3f08fe5c32e55d3e08767b0f4f58f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aaefe2032917164f437eb759eff65b9c04aa7daa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9625d6d0ad57e58d618ac25d21ac7d3f7966e24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26206b933baafdb89c59f46a69aa36d7f96e3018.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "75.36"
       ],
       "answer": "50.24",
-      "explanation": "面积 $= \\pi(R^2 - r^2) = 3.14 \\times (25 - 9) = 3.14 \\times 16 = 50.24$。"
+      "explanation": "面积 $= \\pi(R^2 - r^2) = 3.14 \\times (25 - 9) = 3.14 \\times 16 = 50.24$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/680dcfe605f871cc2cec1eb895c6d73921024402.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5478387c73d375929046b948714c8b88ede71f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0845d02ff0057f4c35e15e2c7547745e80b35ef3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15f16e94fa63fd4e0589f01ef932d2a1cc096185.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed93b00e1a6634f7e7ff0d0d9705df26d8a88f2a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f86dc1fb85d14c96695c5d019378eaa90ed6e440.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "5 : 6"
       ],
       "answer": "6 : 5",
-      "explanation": "速度比等于时间比的倒数。$1/10 : 1/12 = 12 : 10 = 6 : 5$。"
+      "explanation": "速度比等于时间比的倒数。$1/10 : 1/12 = 12 : 10 = 6 : 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/478f9b43f37e660c6e16b93e966e7d81cdf5acfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/529d5972c6fdfa50cde873180fb143c3e82f4470.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc9dbd7b0cc3c9f5d396c990717ffb3aed9976c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f7bcfc4925d833cf6eb848971d8ef5c2c654c62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f6087c83b78dcc723b7894bcf0081fd883db40f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f94e92fcd16dadd1107e7092cd35a2026131f545.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "无法比较"
       ],
       "answer": "低于 10%",
-      "explanation": "含盐率 $= 10 \\div 110 \\approx 9.1\\% < 10\\%$。所以低于 10%。"
+      "explanation": "含盐率 $= 10 \\div 110 \\approx 9.1\\% < 10\\%$。所以低于 10%。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/8738aef037ae6bcfd87491829eeacc9228e135ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c587de0d195b323937f2ca0a538c78ba3b6fa3b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb0a1c1dfc4e759cbbc34caec4b781a6096de4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92adaf04c96e47d1a89df0c7c235cbc7fc2dc3f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cda0361e99a408a7af20b513ef51c13a4cc34b1.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一根绳子长 20 米，用去 $\\frac{4}{5}$ 后，还剩 ___ 米。",
       "options": [],
       "answer": "4",
-      "explanation": "剩下 $20 \\times (1 - 4/5) = 20 \\times 1/5 = 4$。验算：$4 + (20 \\times 4/5) = 4 + 16 = 20$ ✓。"
+      "explanation": "剩下 $20 \\times (1 - 4/5) = 20 \\times 1/5 = 4$。验算：$4 + (20 \\times 4/5) = 4 + 16 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b1422c7ba317f03299e5e80469719c7836ad69f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31d599cc8ce3b65c61d81349d492e48e08025da7.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "如果 $x \\times \\frac{3}{4} = y \\times \\frac{4}{5} = 1$（$x, y$ 均不为 0），那么 $x$ 等于多少的 3 倍？答案是 ___。",
       "options": [],
       "answer": "0",
-      "explanation": "修正题意：$x = 4/3$。换一题：一个比的前项是 20，比值是 4，后项是 ___。后项 $= 20 \\div 4 = 5$。验算：$20/5 = 4$ ✓。"
+      "explanation": "修正题意：$x = 4/3$。换一题：一个比的前项是 20，比值是 4，后项是 ___。后项 $= 20 \\div 4 = 5$。验算：$20/5 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e113c45abfa1e5e0c180742b2cfe9177b1133c46.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d87b5b01158ed47c02f8836a0f83887a83a6329d.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$150 \\div 50 \\% = ?$",
       "options": [],
       "answer": "300",
-      "explanation": "$150 \\div 0.5 = 300$。验算：$300 \\times 50\\% = 150$ ✓。"
+      "explanation": "$150 \\div 0.5 = 300$。验算：$300 \\times 50\\% = 150$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2831cc18ae592fb1318e46189dcfab07b78b0c7a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/372143cfe39ce619966bc9ca28b27e67decee2f7.mp3"
+      }
     }
   ],
   "knowledge": null

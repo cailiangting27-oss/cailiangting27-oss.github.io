@@ -16,7 +16,11 @@
       "question": "I _______ (drink) some tea last night.",
       "options": [],
       "answer": "drank",
-      "explanation": "drink的过去式是不规则形式drank。"
+      "explanation": "drink的过去式是不规则形式drank。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e6b77c4fac06d14183e8f818f89a945f17e412e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9aac801a6815206cdc2bd9ec773d76d6374c697f.mp3"
+      }
     }
   ],
   "knowledge": null

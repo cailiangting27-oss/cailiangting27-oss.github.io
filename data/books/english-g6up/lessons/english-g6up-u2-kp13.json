@@ -21,7 +21,17 @@
         "run"
       ],
       "answer": "stop",
-      "explanation": "红灯停（stop）。"
+      "explanation": "红灯停（stop）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/056a64d158377e8098e1f1d35925130ee6777e38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b480158e1f30e0b6cee7813e9ecf094bd6b3745.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2185c48b70679027ecf7acc5c70648e8ca634c8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6ad19037c97987c4ff9792810c0e145356717c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60ed67d030e9bc6b87b7d68137d5e097f61126d9.mp3"
+      }
     }
   ],
   "knowledge": null

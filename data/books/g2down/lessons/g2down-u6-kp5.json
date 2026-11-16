@@ -21,7 +21,17 @@
         "红褐色"
       ],
       "answer": "白色",
-      "explanation": "规律是“黑、白、白”，3个一组。$15 \\div 3 = 5$（组），没有余数，说明是第5组的最后一个，即白色。"
+      "explanation": "规律是“黑、白、白”，3个一组。$15 \\div 3 = 5$（组），没有余数，说明是第5组的最后一个，即白色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abb70e9432610cabc0422689563fdb22be902380.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/5568c16f8aee3721bbe73dda5af5057d750a16d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d80ae1cf92167425c756ae25dfb91b8305986d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5996c71fae9faa7c57864a172a2692b67a128a70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ab4db1c7f38862dc0a32d18129389c2095b2d3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8a8749467e5ea33a0796095b7371e6d402e48df.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "周期是4。$26 \\div 4 = 6$（组）……2。余数是2，对应每组的第2个数，即报2。"
+      "explanation": "周期是4。$26 \\div 4 = 6$（组）……2。余数是2，对应每组的第2个数，即报2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffaa6e6c3fc1fb69e18b3b40033d8b3078c8d767.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89e581f2da374d33440e529bce1967ff1eb903bb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "没有余数时找错位置（应该是每一组的最后一个）",
       "周期数数错（比如红黄红黄，周期是2而不是4）"
     ],
-    "tips": "先找出一组里有几个，再用除法算余数。"
+    "tips": "先找出一组里有几个，再用除法算余数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/34/34d2affcdecc6672b20917b8b8f1a1eec538c8a0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7f/7f722f92db6513adb17e3459a19bb8c1a58c44e2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ec/ec904243db2575ae332f7572f0d9bb643143aa24.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/62/620b473bfdec72f3c9716bb614e097516e0c577d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/89/89c9b042a13cd2dcd293550d8ec78771bdbc4992.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d4/d412b3998f0b8831fa1ba422bd1d6ffbd36dadd2.mp3"
+      ]
+    }
   }
 }

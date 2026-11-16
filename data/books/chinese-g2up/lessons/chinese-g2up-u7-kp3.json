@@ -16,7 +16,11 @@
       "question": "“悬崖”的“崖”字，下面是“山”，代表这个地方通常很高。",
       "options": [],
       "answer": "对",
-      "explanation": "崖指高峻的山边，部首是山。"
+      "explanation": "崖指高峻的山边，部首是山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21cb315838150d3a456a8f9e3f777928e058aaf2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19ff3772cdffc31b87fcb4be58c50dbd2dd9ce29.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在海滩上，我们可能会捡到美丽的贝壳。",
       "options": [],
       "answer": "对",
-      "explanation": "海滩是海洋边缘，常有贝壳。"
+      "explanation": "海滩是海洋边缘，常有贝壳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83343eb0ca3c3fcc67d4f8166da53edff4b9c7a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41ea4b8373a29bba0160c2f1ccf45acd33247a2b.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "“雪山”和“高原”属于两种不同的自然地貌。",
       "options": [],
       "answer": "对",
-      "explanation": "雪山是山脉，高原是海拔较高的大片平坦地形。"
+      "explanation": "雪山是山脉，高原是海拔较高的大片平坦地形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e740191a2030c1f4e7d9e4a81928daa170ff4c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7ab70b372f3554b3da5a166febbca8cafc9377dd.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "柳树"
       ],
       "answer": "仙人掌",
-      "explanation": "沙漠干旱，仙人掌耐旱。"
+      "explanation": "沙漠干旱，仙人掌耐旱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a790b270f63afb15c924444ccc5215be4d23001.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/52b0ad4c1f5dc536ab8848a65bdea900a6005d34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5612e1fe552018cd01cf130f547402539ac80ba0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/620a448551b6b86c2929a033a00739baf1b46305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50e6a7257991a7653531decfd164f5075dd799c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/652a0b1e355f63d5a317f5dbf870b0fe24b68000.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "他自己"
       ],
       "answer": "他自己",
-      "explanation": "故事结尾雾把自己藏起来了，于是云开雾散。"
+      "explanation": "故事结尾雾把自己藏起来了，于是云开雾散。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bc11add4beb61b149dc77a6042de7b6fbb3cbd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17b7d656712ce926c0634bbd6b52232465f9e8ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/590157b8d4d7892db4e86332a1794ed4591e60dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03cde3df598bd2f9b37babd2c06dede9d956b81c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0800b9bb43eed6a10a0662974fe14aa10150c27b.mp3"
+      }
     },
     {
       "id": 17,
@@ -81,7 +113,11 @@
       "question": "在浩瀚的（___）上，生活着庞大的蓝鲸。",
       "options": [],
       "answer": "大海",
-      "explanation": "蓝鲸生活在海洋。"
+      "explanation": "蓝鲸生活在海洋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47a8726cc4181ef374d55babd1b40a8ec10e1a99.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7362678a7a1291f584c37f93e36f2bfefabd1169.mp3"
+      }
     },
     {
       "id": 19,
@@ -101,7 +137,21 @@
         "石缝"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "主要由于地理环境决定的典型物产。"
+      "explanation": "主要由于地理环境决定的典型物产。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74c7cb011d1183852e1825ef3362a32143432324.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a5e5ffb7afb7833121ddb1e7e8fad8ce85b857a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4d4215d4f1da12cf3dd4e357ee9001e77eb2497.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bb7d65bcfef1716504858bd97c97a7e1b543a30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b61aa1bd2d993d6f1409eb51a30fb935ff09352.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b307ce677d9d79c877beea908b6dfff168e52af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/620a448551b6b86c2929a033a00739baf1b46305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89ff2849c6391e108cf639ed6c9147551d667081.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50b9caa5b50a9c6f4a598a5a7cf7a7cdd3997278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6a41abde3741d860c6342eb747cc0b337afde7d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -112,6 +162,16 @@
       "将不同环境的事物混淆，如认为高原上有大海。",
       "对生僻字如‘崖’、‘漠’的写法或含义理解模糊。"
     ],
-    "tips": "建议采用分类识字法，画一张‘地理环境图’，把沙漠、海洋等标志性物产贴在对应的位置上记忆。"
+    "tips": "建议采用分类识字法，画一张‘地理环境图’，把沙漠、海洋等标志性物产贴在对应的位置上记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/70/705bfb49a50be70004fdb3882fd4b278a89d8be9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fc/fc6f92c4a866682c2edc18d6af2a4d9a07926dff.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/45/45536d112b1fbf081b63469259227acd6085fc23.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0e/0e1b4ff15b3d2156aac2a76b2d62740e9dab67ba.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d6/d6fe6b0e1cdeb9b73aebd35d8d68826a94134ccd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0f/0fcbc583b9a11f944db6512690502db80bf0a59e.mp3"
+      ]
+    }
   }
 }

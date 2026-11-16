@@ -25,7 +25,21 @@
         "青头"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "小人鱼对应海的女儿，丑小鸭最后变天鹅，青头是蟋蟀，小女孩卖火柴。"
+      "explanation": "小人鱼对应海的女儿，丑小鸭最后变天鹅，青头是蟋蟀，小女孩卖火柴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/209872f6680a2cc5af57357c32bc6be5bd6ac734.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7abbed73c2ddd0ee8f415ec04e6f908174f93d6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77a5ab4877a305d73c8eb59903965c4f63aa96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09529b57978435f0b39b1c57f6d690f6c9ea4c87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e806a0bba0a356a1952805c9480d29977e3314fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d80f2104896fd1981022d35351671de4b213299d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa18e7b7c27b736cb72d15ad6757398c232e10ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62b0d253373e2f639531b0bbedfd3706fd44fde1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dc1d0f15d341935f6168484b8826d2f38bc77b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7654ca0e77eec6607744add052d8569ab3a31a1b.mp3"
+      }
     }
   ],
   "knowledge": null

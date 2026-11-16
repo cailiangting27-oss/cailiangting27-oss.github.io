@@ -21,7 +21,17 @@
         "diàn"
       ],
       "answer": "zhàn",
-      "explanation": "“绽放”的“绽”读作 zhàn。"
+      "explanation": "“绽放”的“绽”读作 zhàn。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1a7a3c002ae6e364c33a782e45e4a7e2d6fdbc4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/7413ee3c70d1c4f58457c58b5af32fd06f4aff45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1d79ac42b7aa64ca7e3debb3b1c98fb5fbf5cd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba2190fc60cd824ea7b13356eff4bda8bfd6c654.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7842be29f0ef9137cc8f7b12521811804b33614d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f4cf811de0d4d4a4bf0c5013131bbe412ec2288.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "闪电"
       ],
       "answer": "阳光",
-      "explanation": "朝晖、夕晖都指阳光的映射。"
+      "explanation": "朝晖、夕晖都指阳光的映射。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5dbd5194b3ee6e1ff6229a0cf43b5571a36dc3ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/946070fabdff713859b492e8549fb73e7fc27a51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6865ac875dfacf9d1ec68d99462c7b07314d2092.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4f18dd7d66ec2e2a0f9f28b0934af98f497deea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/796ce9f91b44e21f64f9c7f7ec1b6597bd6e4e25.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/8098f322739bb9ac121043f4888c9233653a4a4f.mp3"
+      }
     }
   ],
   "knowledge": null

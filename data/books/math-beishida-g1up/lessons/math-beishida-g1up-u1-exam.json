@@ -16,7 +16,11 @@
       "question": "数数时不能重复也不能遗漏。",
       "options": [],
       "answer": "对",
-      "explanation": "一一对应。"
+      "explanation": "一一对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25df47605e843ba0003c1192acf297bb5accd32b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e258f58ef8993564cac53ceda5bedede36150aca.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "6"
       ],
       "answer": "4",
-      "explanation": "3 后面是 4。"
+      "explanation": "3 后面是 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/3807bfa52718c70763d5a222b4fd31bde5224f12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85451af506d71de0885d2715368d694926d215dd.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "小",
-      "explanation": "0 < 1。"
+      "explanation": "0 < 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21a08a92552adf7f74e94e00f65ff87777e26146.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/922517cc7363a85981329bfa950b9d325eb90cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0889c349726f64ac6a687c91b9cc4b6efb69ad07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe81dfe60d8321c6351518cfdbfc4af5453119c7.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "直尺上的刻度从 0 开始。",
       "options": [],
       "answer": "对",
-      "explanation": "0 可以表示起点。"
+      "explanation": "0 可以表示起点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77f09859090d803a93cb8e37f5ab3b57e3343bb5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43a8ec49969b97f2360b462a10ea6994cd181d73.mp3"
+      }
     }
   ],
   "knowledge": null

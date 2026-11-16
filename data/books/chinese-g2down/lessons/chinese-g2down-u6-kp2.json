@@ -16,7 +16,11 @@
       "question": "在宇宙飞船里，宇航员想喝水可以直接用杯子喝。",
       "options": [],
       "answer": "错",
-      "explanation": "太空处于失重状态，水会飘在空中，需要用吸管杯喝水。"
+      "explanation": "太空处于失重状态，水会飘在空中，需要用吸管杯喝水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d06d09bdc5896b5cbd39eea800c450897a536c19.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7a769a4f5752bd4d18d001824f594060293d50f.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "怕撞坏机器"
       ],
       "answer": "人处于失重状态",
-      "explanation": "失重状态下人会飘浮，需要拉住扶手行走。"
+      "explanation": "失重状态下人会飘浮，需要拉住扶手行走。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a7b8b62e09ec5a0b142a29aba01a768641922e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c31ca90ab9de4151d059f1131c6996a6445c2d19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a232775fe609517302b758fd2de71f879be6e517.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db5ddbb9a431d9762929a4373e23d90c78fff1a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9eb5a07191e57bf84ef8fd9133c9ba72a42a7ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/623c004ffb1c099c336f4d9fa3cb2114bd0a0551.mp3"
+      }
     },
     {
       "id": 21,
@@ -52,7 +66,21 @@
         "穿带钩的鞋"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "太空生活中的特殊现象应对措施。"
+      "explanation": "太空生活中的特殊现象应对措施。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42fabd8a7a672669b725108d78e6c7d01947113a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/6380260a652b9e4edbe63a9893ba7b77c9963e89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87f0a7a86f67e635a2d0b70541547a2342ee6566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f07f798e421ba9ef3fc568af94a1053e569ee36d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92ee129ca370eeeb830373a2c3160a8cba46556e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae57aab5d3c8c77f54712aa43f8c65460f730a42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5feb8be0a66752297bffccbfae5adf5781a5668f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa70818c5150e50c233de3c8843d2909b2764a17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8ad2b698fddf347ea313131cd779111ac0d23ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab6b5e7cb7327ae0cc1cef599452f82f152cb86a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -63,6 +91,16 @@
       "将失重的原因误解为缺少空气",
       "认为在太空走路和地面一样"
     ],
-    "tips": "想象自己是一颗在水里没沉底的气球，所以一切都需要“抓手”。"
+    "tips": "想象自己是一颗在水里没沉底的气球，所以一切都需要“抓手”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cf/cf4936092459c0741125dc510101ee0ab91bed0f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/19/19786d450a1c3f2ce43e96580cbcea577bacef6d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c7/c780c233d0eebb2ec43df975d763aa2d984fb0a6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c5/c5366c11480f3e335a1374464c60dcf1d47d69bf.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/79/79ab0b616ef503a96277dd09fff9ce4fb884a8b0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/98/98daff376c68fd185f93b64d68ad3d1e90a0ab7f.mp3"
+      ]
+    }
   }
 }

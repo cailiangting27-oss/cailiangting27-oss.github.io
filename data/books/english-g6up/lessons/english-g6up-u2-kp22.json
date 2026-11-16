@@ -23,7 +23,19 @@
         "to"
       ],
       "answer": "How,do,you,go,to,school",
-      "explanation": "特殊疑问句语序：疑问词+助动词+主语+动词+其他。"
+      "explanation": "特殊疑问句语序：疑问词+助动词+主语+动词+其他。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbeb6e512417e8c13eb94ef4562069215b2a8934.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/766f59ba95b08fd624aa0da6ef70a0eb229f6a0e.mp3"
+      }
     }
   ],
   "knowledge": null

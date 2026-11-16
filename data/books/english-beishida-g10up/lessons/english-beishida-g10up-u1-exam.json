@@ -21,7 +21,15 @@
         "reporter"
       ],
       "answer": "driver",
-      "explanation": "司机 driver。"
+      "explanation": "司机 driver。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fdda0c46f953c1a45bdc520849be1e4edf4e228c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43cf2e256880b0d32c67f85d1dffdb404cb144b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10f5ebe6acb4467b71602be4c4fdb44c44fa26b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a630e157504605e40ba241f6b1f78ab1dd97b9.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "are working"
       ],
       "answer": "works",
-      "explanation": "第三人称单数。"
+      "explanation": "第三人称单数。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/8b/8b5d64b5203badbc209af11f04de3d8c0975c11b.mp3"
+        ]
+      }
     },
     {
       "id": 7,

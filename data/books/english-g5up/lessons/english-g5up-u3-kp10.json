@@ -21,7 +21,17 @@
         "is"
       ],
       "answer": "would",
-      "explanation": "固定搭配What would you like...?"
+      "explanation": "固定搭配What would you like...?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4b75fbfc10bafa22f037502ac29dd28fc893517.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0955dd818206a40e89101bb215630d0623e506fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f665e2720c3356d9e78925ca38c1808e16354d5.mp3"
+      }
     }
   ],
   "knowledge": null

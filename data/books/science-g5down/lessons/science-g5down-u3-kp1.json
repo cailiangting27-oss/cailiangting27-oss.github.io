@@ -16,7 +16,11 @@
       "question": "大气污染、水污染和噪声污染都是由自然原因造成的。",
       "options": [],
       "answer": "错",
-      "explanation": "目前主要的环境问题大多是由人类活动引起的。"
+      "explanation": "目前主要的环境问题大多是由人类活动引起的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb48c72fc2fc1c4967f182fb96368498d76615ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5806cebc40e621dda6960461d80327dd49ff26a.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "海洋"
       ],
       "answer": "森林",
-      "explanation": "森林通过光合作用吸收二氧化碳排放氧气，对平衡大气成分至关重要。"
+      "explanation": "森林通过光合作用吸收二氧化碳排放氧气，对平衡大气成分至关重要。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18e22294907a22dd4abcbc6ff085ae36a53d3ebc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/985a05e71958a02601383890d8482eff9fd72375.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4034444592524f554aa2384653aa127a46834f17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70f4c18c327660f1edaa85614f5441eb9ddc332e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b247c3e6783b29f1772c0ba7baf9f3a454ecb97a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e1487985f483b660644d7cb38e0bd4a385b26e1.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "雾霾"
       ],
       "answer": "酸雨",
-      "explanation": "二氧化硫和氮氧化物是形成酸雨的主要物质。"
+      "explanation": "二氧化硫和氮氧化物是形成酸雨的主要物质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d51af2dbf84c14cba83ea582c0f7950511175e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/298d20891b3810949a98684eb0c97ce3389d4669.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eaf7166153d02d7bb463e4f1edffc0668e82b76c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/718c18ff741378baf69cfae5600f1c16b0b312d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b08cdeb8a7752d247e213fd7ff361ab2fe83dfb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95bf932b62e08a3a11a4fb531b606d8cda299320.mp3"
+      }
     }
   ],
   "knowledge": null

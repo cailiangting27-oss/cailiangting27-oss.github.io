@@ -21,7 +21,17 @@
         "航行方向"
       ],
       "answer": "制作成本",
-      "explanation": "工程思维要求在满足性能的情况下最小化资源投入和成本。"
+      "explanation": "工程思维要求在满足性能的情况下最小化资源投入和成本。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/867bd9b933a98b5e17a2c0d186bf97440372fe2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d7d988f5848e21151f1de6fcd622f8c2bb92807.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/404171062aab4f10aa22189136872cefd95ad8cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fb9531134bf04322f9a3c22ac8acb737cdf9bac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96e9620248a7559b4c7abbd20a0c662a03a9f609.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f90756b993c6d61f74e8a36ca24bf6d32bb09469.mp3"
+      }
     }
   ],
   "knowledge": null

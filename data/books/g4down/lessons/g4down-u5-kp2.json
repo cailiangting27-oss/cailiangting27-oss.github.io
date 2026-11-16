@@ -16,7 +16,11 @@
       "question": "三条长度分别为3厘米、3厘米、6厘米的线段可以围成一个三角形。",
       "options": [],
       "answer": "错",
-      "explanation": "因为 $3 + 3 = 6$，不大于第三边6，所以不能围成三角形。验算：$3+3 > 6$ 不成立。 ✓"
+      "explanation": "因为 $3 + 3 = 6$，不大于第三边6，所以不能围成三角形。验算：$3+3 > 6$ 不成立。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b241446d7bea0d4d7bb91813339302b1557399bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24dcb62ecab81bcfdbfeaebb61a450b1df6a20c8.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "5cm, 5cm, 11cm"
       ],
       "answer": "3cm, 4cm, 5cm",
-      "explanation": "$3 + 4 = 7 > 5$，任意两边之和大于第三边，可以围成。 ✓"
+      "explanation": "$3 + 4 = 7 > 5$，任意两边之和大于第三边，可以围成。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc456fa27e1d96c221190a18969e4329231e4b34.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1c340b702330e274e6cad14ad31e92e4f0acd7c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6e24a000aac1478f45bcb6a6f9934019ffbbb18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e71e994a200cbd2eeefb06122fc47b8f5edb3c56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b17ec6b44b40f50562178dad3a82200db6afbc8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c73ed6bb3761f9e13e9f78c1f7182b18863b5265.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "21"
       ],
       "answer": "15",
-      "explanation": "若腰为3，则 $3+3=6$ 不能成三角形；故腰必为6。周长 $6+6+3=15$。 ✓"
+      "explanation": "若腰为3，则 $3+3=6$ 不能成三角形；故腰必为6。周长 $6+6+3=15$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e505d7b760ce02890ca9c0a8e72cbb83e6b2686.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/774998dac98f01ccc49897a3e6d99c948299464a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "只检查一组边，不注意‘任意’两字。",
       "遇到等腰三角形周长问题时，忽略三边关系判断是否成立。"
     ],
-    "tips": "快捷方法：找出较短的两条边，只要它们的和大于最长的那条边即可围成。"
+    "tips": "快捷方法：找出较短的两条边，只要它们的和大于最长的那条边即可围成。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/21/21eb7129e2a716cc31e2a73f8684afece4cc2968.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ca/ca8db84818b0aab750b82564e3cbb1cbb973036b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9f/9fbba78258cb04f1b190b8116b9e6b3527e9ebdf.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/19/190930a6423cbb24b7f17504e001f55dd5db4321.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/22/224dfccfd1d8b554363ace3c3c7f0149a0ac570d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4f/4fe33dff2cc3bea9e52d69b3485aa503b2d004f1.mp3"
+      ]
+    }
   }
 }

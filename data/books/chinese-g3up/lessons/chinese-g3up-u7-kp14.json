@@ -21,7 +21,17 @@
         "高兴"
       ],
       "answer": "弟弟,高兴,得,欢蹦乱跳",
-      "explanation": "正常的句序应为：主语+心情形容词+得+动作补充说明。"
+      "explanation": "正常的句序应为：主语+心情形容词+得+动作补充说明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e969fa597b7e7ff99247b25e2662c67da5ba8c1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57dac5390389a11153ca9bf0200a845d26eb8243.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d61f999a2911ddd302c8470de5e9c5988768da48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c52fb11c88377371fdbabfd9a547bd54e5d767a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9bd182d2e80d5384637265e62695d473427718a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f985ada1370f2ab25a79cfb8abb6e53ff9eafb85.mp3"
+      }
     }
   ],
   "knowledge": null

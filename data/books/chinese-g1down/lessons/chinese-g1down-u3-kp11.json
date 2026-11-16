@@ -16,7 +16,11 @@
       "question": "李白乘舟将欲行，忽闻岸上（___）声。",
       "options": [],
       "answer": "踏歌",
-      "explanation": "出自古诗《赠汪伦》，踏歌是古代边唱歌边用脚踏地打拍子的形式。"
+      "explanation": "出自古诗《赠汪伦》，踏歌是古代边唱歌边用脚踏地打拍子的形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/466a240276fe413421b9fd676457855362efe919.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50faaea4ee5d325785842599e1587085ddf06a07.mp3"
+      }
     }
   ],
   "knowledge": null

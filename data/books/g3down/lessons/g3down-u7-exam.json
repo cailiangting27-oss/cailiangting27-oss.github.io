@@ -16,7 +16,11 @@
       "question": "所有的小数都比整数小。",
       "options": [],
       "answer": "错",
-      "explanation": "小数包括整数部分。例如 1.2 是小数，但它比整数 1 大。"
+      "explanation": "小数包括整数部分。例如 1.2 是小数，但它比整数 1 大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85568d5bf3712046e5ecfcc0733dd0d00daac595.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd0826fb21055c482fed823a70795097d0acc25e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "1.5 元和 15 角相等。",
       "options": [],
       "answer": "对",
-      "explanation": "1 元 = 10 角，1.5 元 = 15 角。故二者相等。"
+      "explanation": "1 元 = 10 角，1.5 元 = 15 角。故二者相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b403ce0f5222feab35ebce1e5af1b8c6fbca3df5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da66648013580f6e4d35232a233f3eea57c212cf.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "从 2 里面连续减去 2 个 0.5，结果是 1.5。",
       "options": [],
       "answer": "错",
-      "explanation": "$2 - 0.5 - 0.5 = 1$。原题说法错误。"
+      "explanation": "$2 - 0.5 - 0.5 = 1$。原题说法错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b46055d0e891e816b2ce61a0144ed06dbecd5767.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/3896f09bc9ac4e774db6d222515cadb85322c40c.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "比 0.4 大又比 0.6 小的小数只有 0.5 一个。",
       "options": [],
       "answer": "错",
-      "explanation": "在 0.4 和 0.6 之间有无数个小数，如 0.51, 0.45 等（虽然本阶段重点是一位小数，但命题逻辑上是错误的）。"
+      "explanation": "在 0.4 和 0.6 之间有无数个小数，如 0.51, 0.45 等（虽然本阶段重点是一位小数，但命题逻辑上是错误的）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a00fbcd64595b6cdd092d48ea945493c5b4c6343.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae0b7011a0127da0ebeb57393580a7c8cfd47b10.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "0.72 < 0.9 < 0.8"
       ],
       "answer": "0.72 < 0.8 < 0.9",
-      "explanation": "先看十分位，7 < 8 < 9，故顺序为 0.72 < 0.8 < 0.9。"
+      "explanation": "先看十分位，7 < 8 < 9，故顺序为 0.72 < 0.8 < 0.9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e11952f0d990d85e14b249f1fa7c9f3ef28136d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/47889a0d7fcb9c9447786269c62b814dd90ead12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4a219d3f13e1f88498e7bbde86700fdfd124f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c2e9e1c940d150102123c333e053791f24066d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebdadb25f42a940dd09e9717fe52feb653145759.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa0695bc825548927af30160c3108bc0f056414c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "10.4"
       ],
       "answer": "0.8",
-      "explanation": "5.6 - 4.8。十分位 6 减 8 不够，从个位借 1，16 - 8 = 8；个位 4 - 4 = 0。结果为 0.8。验算：0.8 + 4.8 = 5.6 ✓。"
+      "explanation": "5.6 - 4.8。十分位 6 减 8 不够，从个位借 1，16 - 8 = 8；个位 4 - 4 = 0。结果为 0.8。验算：0.8 + 4.8 = 5.6 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc16ca7dd6649e27cb05ebcc494e1e756d142b76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48026248575be074288e0b8334c8383a52f12906.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a26f83404b3689e9473b90563ae874b959b849ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93ec1d5b0e5f86e667093d5857f65ca0fa9c557a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9f16581c451da37e3e7fea6e796799210c42932.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4cab7a79fd01644705fd4d1eaae0c06d0866444.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "3"
       ],
       "answer": "5",
-      "explanation": "如果方框填 5，5.3 < 5.4 成立；如果填 6，6.3 > 5.4。故最大填 5。"
+      "explanation": "如果方框填 5，5.3 < 5.4 成立；如果填 6，6.3 > 5.4。故最大填 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43186e27dec4482ec29ee4c3456da19b0f285178.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32ea0a039ece894fdfb07bdc32a83eacd63f0269.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "5.8"
       ],
       "answer": "5.2",
-      "explanation": "10 - 4.8 = 5.2。验算：5.2 + 4.8 = 10.0 ✓。"
+      "explanation": "10 - 4.8 = 5.2。验算：5.2 + 4.8 = 10.0 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c9cd45b9976b26db1c91ea70b20a70fa5254c0c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/4380b93c5f9e9e252ac9ac548449d65f955603c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986a6a7bbe6a4ae5c1502558f013f6ed6b9ae6f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2c05942fd98efff4c5130f3478ddaad1ed28f27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77526ddfb1469f41739fcab554059141c36d9329.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f93e21a21b4b45a8505394205d46c1274efdaf83.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "3.5"
       ],
       "answer": "30.5",
-      "explanation": "题目要求“一位小数”，选项中只有 30.5 和 3.5。由于 30.5 是由 3, 0, 5 组成且是其中一种组合（实际上此题干下 30.5 是一定组合，03.5 即 3.5 不需要 0）。严谨考虑组合：30.5 满足三个数字且一位小数。"
+      "explanation": "题目要求“一位小数”，选项中只有 30.5 和 3.5。由于 30.5 是由 3, 0, 5 组成且是其中一种组合（实际上此题干下 30.5 是一定组合，03.5 即 3.5 不需要 0）。严谨考虑组合：30.5 满足三个数字且一位小数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dcf9df8ffc643f16485fcb6a381f58b2794d3cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/538a4e32c930284c48c5b9f3fc6b6df03193d386.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff0e46b0b0845b142617e5e0eb6b976a61894a6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f9ec2e948f8e8d54ec10ec5d9e1fdca20117f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3e66c166813c6ccb5819daf234787040c248650.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87141ce55ef6b68c495c3f33459794907423bd51.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "10.5"
       ],
       "answer": "9.9",
-      "explanation": "10 - 9.1 = 0.9；10 - 9.9 = 0.1；10.2 - 10 = 0.2；10.5 - 10 = 0.5。0.1 最小，故 9.9 最接近。"
+      "explanation": "10 - 9.1 = 0.9；10 - 9.9 = 0.1；10.2 - 10 = 0.2；10.5 - 10 = 0.5。0.1 最小，故 9.9 最接近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8be2a10a5eca0d902c30a82cf44634af9673e00e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d28690954e2e5987f92bd27e0f4409ee779a4943.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a70c9e9a51579a7afc940154fda92cb9e34041.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c371db1d0b9b28e14ec02e1c64c79e0a5f7c2a2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1287384bc5ef3ab84a36a5ef1d888df2763567f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/2461c917d777096f4fbe74955eeb836f7c50e2a0.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "没有"
       ],
       "answer": "5.3",
-      "explanation": "不大于包含等于。因为题目问“比 5.3 大”又不大于 5.3，从逻辑看此题描述更倾向于选 5.3 对应的情境（或描述存在逻辑空集，考察对不大于的理解）。注：重新审题，比5.3大 且 5.3=5.3，选A。"
+      "explanation": "不大于包含等于。因为题目问“比 5.3 大”又不大于 5.3，从逻辑看此题描述更倾向于选 5.3 对应的情境（或描述存在逻辑空集，考察对不大于的理解）。注：重新审题，比5.3大 且 5.3=5.3，选A。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ac4aad099916557c94514cf97cda558531bdc48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e710dd44fa12f98194f8bba2bb20cba7bee18ff6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e764b34bb9cf18ff85fc0a77c2cd10063248c10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4380b93c5f9e9e252ac9ac548449d65f955603c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dcff1ebe3337ec442505591882999abdceb4926.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe4bec4ea8d990ec193050dbd81a20e157e09867.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "0.08 元"
       ],
       "answer": "8 角",
-      "explanation": "0.1 元 = 1 角，0.8 元 = 8 角。"
+      "explanation": "0.1 元 = 1 角，0.8 元 = 8 角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/92c4c3f30136bfc30a5b4fd99e58ddb4e36b6b24.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46f595726dc6a4d40e3e6d1c93a1f849772317c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d5a3480b421145a6e58cdf678fac82e9b9c36be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a9ab1022fa870ef44bdf4345fb6bf063de04ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/124b1e96c28c96ed7fc4fe790a26600fd135732e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d40d670416980b97bc04ecee8bf9287f51ed3d7.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "3 米 5 分米写成小数是 3.5 米，那么 8 米 2 分米写成小数是 ___ 米（填数字部分）。",
       "options": [],
       "answer": "8",
-      "explanation": "考查整数部分填写。8 米 2 分米 = 8.2 米。根据题目格式要求填整数位，此处逻辑应为 8.2 的整数部分为 8。由于 fill_blank 只能输入整数，故设定答案为整数 8 符合输入逻辑（或题目改写为 8 米 2 分米是 82 分米）。修正题意：82 分米等于多少分米？答 82。"
+      "explanation": "考查整数部分填写。8 米 2 分米 = 8.2 米。根据题目格式要求填整数位，此处逻辑应为 8.2 的整数部分为 8。由于 fill_blank 只能输入整数，故设定答案为整数 8 符合输入逻辑（或题目改写为 8 米 2 分米是 82 分米）。修正题意：82 分米等于多少分米？答 82。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6480d8580e55a5b30bfd688667e2d05d05e45e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8ec2641494b6b7989bf7ecc6f3baa04572c1da0.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "两根绳子，第一根长 15 米，第二根比第一根短 5 米。第二根长 ___ 米。",
       "options": [],
       "answer": "10",
-      "explanation": "列式：$15 - 5 = 10$。验算：$10 + 5 = 15$ ✓。"
+      "explanation": "列式：$15 - 5 = 10$。验算：$10 + 5 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68743996bc89648ad30100718386a8ba2bcd8f74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e52c372c4e9661ad23cf5e8e780cebc1d5a51a0f.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$200 - 50 = ?$",
       "options": [],
       "answer": "150",
-      "explanation": "$200 - 50 = 150$。验算：$150 + 50 = 200$ ✓。"
+      "explanation": "$200 - 50 = 150$。验算：$150 + 50 = 200$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5476b7ddd561df3788489f7c454b3d0bbf94cfa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/695ba463363144ce69f41b5be24474f42f35414f.mp3"
+      }
     }
   ],
   "knowledge": null

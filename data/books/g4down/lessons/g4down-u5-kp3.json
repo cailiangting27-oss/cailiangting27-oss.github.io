@@ -16,7 +16,11 @@
       "question": "等边三角形一定是锐角三角形。",
       "options": [],
       "answer": "对",
-      "explanation": "等边三角形三个角都是60度，三个角都是锐角，所以是锐角三角形。验算：$60^\\circ < 90^\\circ$。 ✓"
+      "explanation": "等边三角形三个角都是60度，三个角都是锐角，所以是锐角三角形。验算：$60^\\circ < 90^\\circ$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83f219973ee4568a2b23dc84ed25f8f88662c45a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/262b29b55fdc03544235f59b9dfa92eda077cb3d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "等腰三角形的两条腰相等，两个底角也相等。",
       "options": [],
       "answer": "对",
-      "explanation": "等腰三角形的性质：两腰相等，两底角相等。验算：符合等腰三角形定义。 ✓"
+      "explanation": "等腰三角形的性质：两腰相等，两底角相等。验算：符合等腰三角形定义。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b78b1f68b627267a6c732b99bf401bde999f61fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a4b3ed662cca22a315a2fa1c195315cc48d5eda.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "等边三角形"
       ],
       "answer": "钝角三角形",
-      "explanation": "有一个角大于90度的三角形是钝角三角形。$120^\\circ > 90^\\circ$。 ✓"
+      "explanation": "有一个角大于90度的三角形是钝角三角形。$120^\\circ > 90^\\circ$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/473c8f2d2d712655b4cfe21f3be0f9850e816883.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a692d9b74b6f06ce7928d492fb1784eee546e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952bbe1b76197ffef23b9bf81ded249667308ef1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73d9703bd85219e2c942649b0fb8337a83d77d11.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "120"
       ],
       "answer": "60",
-      "explanation": "$180 \\div 3 = 60$ 度。验算：$60 \\times 3 = 180$。 ✓"
+      "explanation": "$180 \\div 3 = 60$ 度。验算：$60 \\times 3 = 180$。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef3c392858f396ae0bac3241faa768671ada720e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/818b9baf185a495ca7cdda2283bd001cb0eb4e75.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "没有限制"
       ],
       "answer": "3",
-      "explanation": "锐角三角形定义：三个角都是锐角。 ✓"
+      "explanation": "锐角三角形定义：三个角都是锐角。 ✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d26ce4bf8974e2193d8320c1a4583524d5dede88.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1da3846e8014c8e19d3dddbf40e45e25bafd30f8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c94b3d8fdc41e4f034f386e7721afc0b10369ae1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "认为等腰三角形不可能是直角三角形。",
       "把等边三角形和等腰三角形的概念混淆。"
     ],
-    "tips": "记住等边三角形是“三好学生”，三条边相等，三个角也相等（都是60度）。"
+    "tips": "记住等边三角形是“三好学生”，三条边相等，三个角也相等（都是60度）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8a/8a87a9de2e281a2b23de10ec30dd51293e3eb526.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a8/a8237d90957e977ac7a52f79579900151344a972.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fb/fb728daa425c214246928979ff64fb5303653dd8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e3/e37a5acc4f75305b7d6b06cc585e36631d7485a7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/31/319caad5fa91388e7806039aa8b2730c698ee041.mp3",
+        "https://api.clthuanxie.cn/cc-audio/85/856d8a9460e6760f8cbe6ab431f2f9bb05337b13.mp3"
+      ]
+    }
   }
 }

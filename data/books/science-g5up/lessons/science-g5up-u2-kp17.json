@@ -21,7 +21,17 @@
         "降雨停止"
       ],
       "answer": "水土流失",
-      "explanation": "流下的泥水说明降雨对地表土壤产生了侵蚀和搬运作用。"
+      "explanation": "流下的泥水说明降雨对地表土壤产生了侵蚀和搬运作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3068599335c6f24e5af90f6f83dd752f39a0bc13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c684588093ab730652d47e5aaefd86637a701dc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d93e82863126cb23571d2d83ecbfd98682b3960.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ff1dee6d224cfd36887b6988b9636e034dd35a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08c0c88efdc92359c98cefca6450ec8045e591c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d6620257cf99a0730b1fd4793691d2ae8434386.mp3"
+      }
     }
   ],
   "knowledge": null

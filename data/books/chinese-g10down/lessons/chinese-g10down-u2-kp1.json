@@ -21,7 +21,15 @@
         "幕次"
       ],
       "answer": "冲突",
-      "explanation": "戏剧核心是冲突。"
+      "explanation": "戏剧核心是冲突。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc60132944ddbddb97a0d855b2c3d6beb8a41ae9.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

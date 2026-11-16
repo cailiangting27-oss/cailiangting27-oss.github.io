@@ -16,7 +16,11 @@
       "question": "一个不为 0 的数乘 0.8，所得的积一定比原来的数小。",
       "options": [],
       "answer": "对",
-      "explanation": "一个非零数乘以一个小于1的数，积小于原数。$1 \times 0.8 = 0.8 < 1$，结论正确。"
+      "explanation": "一个非零数乘以一个小于1的数，积小于原数。$1 \times 0.8 = 0.8 < 1$，结论正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/2345b2dab537dffa225ea9bd9d6cba1697231f43.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/640694b5984ea4b5320b9089f0f4582b23c1b7f4.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "计算 $3.5 \times 2 \times 0.5$ 时，可以先算 $2 \times 0.5$ 比较简便。",
       "options": [],
       "answer": "对",
-      "explanation": "利用乘法结合律，先算 $2 \times 0.5 = 1$，再乘 3.5 得到 3.5。计算过程正确。"
+      "explanation": "利用乘法结合律，先算 $2 \times 0.5 = 1$，再乘 3.5 得到 3.5。计算过程正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebcdc935c46eac9ce3a6ef9f32e3389f8fc1bf29.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cecc3a069bdfc5035136b6057cf3cd44b336b8c.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "$5.6 \times 0.9$"
       ],
       "answer": "$5.6 \times 1.1$",
-      "explanation": "一个数（非0）乘以大于1的数结果变大。1.1最大，所以积最大。"
+      "explanation": "一个数（非0）乘以大于1的数结果变大。1.1最大，所以积最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35f8398fecb4688e559e594dc5df89ddbf0f334b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33a6c68310282337e3d3b1fe80230e23c0c1e82a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff92a29da7d1fc662eea66d7d1ae04dd2c21faca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be7325481b2349bec26f354814a123de85dc9fcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8554d340c63fb579ab27b3577ffefc3df0e49cda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41a7ebcbd48b7a096ddf967aa4db9e62ca1d0788.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "0.99比1小，所以积比原数小。"
+      "explanation": "0.99比1小，所以积比原数小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d5c1b9d934cf8f332313f314e7fa4670db9b13d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/112bb639ff5b4633ae9390a19464de01bd41c53d.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +97,17 @@
         "$2 + 1.2$"
       ],
       "answer": "$0.8 \times 4$",
-      "explanation": "$0.25 \times 4$ 和 $0.8 \times 1.25$ 都能凑整，非常简便。"
+      "explanation": "$0.25 \times 4$ 和 $0.8 \times 1.25$ 都能凑整，非常简便。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/306774ab42304af1171a3d2265b37dc5236ff86b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/409af954becbd864981a1d2e3923ba54b6e28ca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/732c114b6829ebd9a776183211373b58fd104df1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01c68a4a2c7018baa1eeabf86536cfa4dce26c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa55e9a7426ac2ea971a804d76ea69c0332cdac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/475af4e485de1cda522ec71f5fdb51b3c1ac6313.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +123,17 @@
         "3.5"
       ],
       "answer": "30.05",
-      "explanation": "3个十是30，5个百分之一是0.05，合起来是30.05。"
+      "explanation": "3个十是30，5个百分之一是0.05，合起来是30.05。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab28fe972d108601f46c5cda0aebddfeabcfa9fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f9ec2e948f8e8d54ec10ec5d9e1fdca20117f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/538a4e32c930284c48c5b9f3fc6b6df03193d386.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a6035cf6878d9b311d260fe015701b5cbc5ddba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3e66c166813c6ccb5819daf234787040c248650.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab3c168c439109b5a48555cd055dda993196603d.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +149,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "$20 \times 3.5 \times 5 = 17.5$，余 2.5 元。$20 \times 3.5 \times 6 = 21$ 超过了。用去尾法取 5。"
+      "explanation": "$20 \times 3.5 \times 5 = 17.5$，余 2.5 元。$20 \times 3.5 \times 6 = 21$ 超过了。用去尾法取 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50e31b0be54ffcfd8bffe0c59f498437e204b270.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4f7031f911bde7a20b6fcd769a0367e97489fa8.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +170,11 @@
       "question": "1 吨等于 1000 千克，那么 0.5 吨等于 ___ 千克。",
       "options": [],
       "answer": "500",
-      "explanation": "$0.5 \times 1000 = 500$。验算：$500 \times 1000 = 0.5$ ✓。"
+      "explanation": "$0.5 \times 1000 = 500$。验算：$500 \times 1000 = 0.5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c279566e9aae02343aa82e877e92fe0ee90946b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1c6244cbea14a61ea173d3342af1494864ab0ba.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +185,11 @@
       "question": "$0.5 \times 40 = ?$",
       "options": [],
       "answer": "20",
-      "explanation": "$0.5 \times 40 = \frac{1}{2} \times 40 = 20$。验算：$20 \times 0.5 = 40$ ✓。"
+      "explanation": "$0.5 \times 40 = \frac{1}{2} \times 40 = 20$。验算：$20 \times 0.5 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/150aaa9dae2a45b63fd0778ed31c03250817db75.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9edd1166f7fbcb7d57812170cde80b8104fbfb54.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +200,16 @@
       "点小数点时数错位数，尤其是在末尾有0的情况下",
       "小数除法中商的小数点没有和被除数移动后的位置对齐"
     ],
-    "tips": "计算后可以用估算验证结果的合理性，比如 0.9 乘一个数积一定变小。"
+    "tips": "计算后可以用估算验证结果的合理性，比如 0.9 乘一个数积一定变小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c6/c6b2452338ea8a55898b87028bb22725325f77f8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/77/77411b4433c7133fbf851113f51faa974cbff19f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/52/52c2e961a9cd128673b5c033acebbf36d08cec7f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/25/25c741956246a17d56e4bbf8ef61bb71e406c826.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/dd/dd0da8b3481d5e6ec2f8f86c5aa0fc7bcbe23460.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d0/d03286ad79a5a4f4152e12263eeea4766b667a8c.mp3"
+      ]
+    }
   }
 }

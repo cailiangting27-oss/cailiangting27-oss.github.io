@@ -21,7 +21,17 @@
         "horses"
       ],
       "answer": "cows",
-      "explanation": "奶牛提供牛奶。"
+      "explanation": "奶牛提供牛奶。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65fc7c9262c692e6216ec1adb90584ae94012309.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/2012e4a43bfafe5e0e0dfb8e8d79c4ab38955032.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2b5633a4ddb33dbfda04ebc027d1c770aa15dee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae14c7ecc387dfd1581caf73caf0a4092a23b074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa13e9c53b81b1c4fd304fffbfbb65a43e40dcf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/752690f8d20ee63e5632a0a76ff9b7aff2165fa8.mp3"
+      }
     },
     {
       "id": 18,
@@ -32,7 +42,11 @@
       "question": "I like the black and white animal. It's a ___.",
       "options": [],
       "answer": "cow",
-      "explanation": "黑白相间的动物通常指奶牛。"
+      "explanation": "黑白相间的动物通常指奶牛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a758da84540c707abb6005dcc22e87d0d6a98afe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cec882e150b02ede6277768dd96d3d587c173275.mp3"
+      }
     }
   ],
   "knowledge": null

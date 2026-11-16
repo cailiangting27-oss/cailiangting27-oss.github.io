@@ -21,7 +21,17 @@
         "banana"
       ],
       "answer": "mule",
-      "explanation": "mule是动物（骡子），其他是水果。"
+      "explanation": "mule是动物（骡子），其他是水果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8612f3a02e1fa44aeb7ca997fdc7b86863ab932.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc8a2f8cdedb005b5c787692853709b060db75ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/067f4fcde209dcdc7c9551d7f975b3319ca0debe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/250e77f12a5ab6972a0895d290c4792f0a326ea8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/791922bfb100371cde761e5818106c5b19f9c6b7.mp3"
+      }
     }
   ],
   "knowledge": null

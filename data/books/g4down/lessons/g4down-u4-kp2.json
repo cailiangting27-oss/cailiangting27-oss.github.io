@@ -16,7 +16,11 @@
       "question": "30.030 读作：三十点零三十。",
       "options": [],
       "answer": "错",
-      "explanation": "小数部分要依次读出每个数字。30.030 应读作：三十点零三零。"
+      "explanation": "小数部分要依次读出每个数字。30.030 应读作：三十点零三零。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b126bb2aaad141166b158438fc95db0559c0c13a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c6f5f94ab071359ac460f86ade3061d324a316f.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "5.003"
       ],
       "answer": "5.03",
-      "explanation": "整数部分是 5，十分位没有记为 0，百分位是 3。写作 5.03。"
+      "explanation": "整数部分是 5，十分位没有记为 0，百分位是 3。写作 5.03。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/621d7eee1aec176081c4c8aaf6bae11f3ea6cda0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e710dd44fa12f98194f8bba2bb20cba7bee18ff6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1a5e6e0ca64045bd06902feb598ef8d9ec4829d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ec5f34bf0f1ffc2b859e79fff55979dedddbf0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90b799ee761f350d0ae2cd3e111efcc61a18e263.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01c6d849a2a28769f4bb5728a3b1793d90b9fc5c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "读小数部分时像读整数一样（如把0.25读作零点二十五）",
       "写数时丢掉小数点"
     ],
-    "tips": "小数部分无论有几个0，都要一个一个读出来。"
+    "tips": "小数部分无论有几个0，都要一个一个读出来。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4d/4d6e5c7acd2033164297278c7f9baedf5cf0eb9a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fd/fdfe91dbfc9f7c83ace7de0970d74442e8ee972c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f7/f7029adf8038917de5b1a53ba1ecb4100aa7af91.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a6/a644d6aedebe79608e565225e1d830b8e9eef307.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/74/74c4e93f8788110a1f9a35b2fb95ad06a63aaa44.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d7/d790f7e6054fb912708d9efc4c05978f5963467f.mp3"
+      ]
+    }
   }
 }

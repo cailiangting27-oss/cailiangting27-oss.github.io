@@ -21,7 +21,17 @@
         "比形状"
       ],
       "answer": "一一对应",
-      "explanation": "一个对一个。"
+      "explanation": "一个对一个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e895248ccdc2e399060872a32301dadeceaf6855.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/908245fe4de4b978c12944c02e516dce68ca8e88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c46f4fe9c0e3a3d521623e7974a32c07f72e25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/657f902416901439a57f754265a0732bae5a725c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a429e2aded7a78f946f386cfe3578a645f7d6d3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c345af307cfd2533725a200ffea929732ca8d3f8.mp3"
+      }
     },
     {
       "id": 4,
@@ -37,7 +47,17 @@
         "无法比较"
       ],
       "answer": "小红",
-      "explanation": "5 > 3。"
+      "explanation": "5 > 3。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a0cb6f59d3e9d34b28b297d4286ec104b698e4b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca6738e54b83abef20aca22a2507003bf266193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60e4c9204129665c6085af440182d17fc7a1ae45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b9402cc6ec6e22aca0ac79ad4891b666912a6eb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "不对齐就比较。"
     ],
-    "tips": "对齐再比。"
+    "tips": "对齐再比。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d6/d6d07ca8dbb8835796f8ac589cffdf284fcb02c2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/55/558814b38a9940ecd75261c36c35b1a925753bf1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/90/908245fe4de4b978c12944c02e516dce68ca8e88.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2b/2bf066b3cd32479c400a2b9ed1296660ec51e06c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c9/c9ae787e50dba75ce7927ffc339391e01a8cf280.mp3"
+      ]
+    }
   }
 }

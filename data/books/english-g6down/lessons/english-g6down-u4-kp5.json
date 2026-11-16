@@ -16,7 +16,11 @@
       "question": "'grass' 的意思是‘玻璃’。",
       "options": [],
       "answer": "错",
-      "explanation": "Grass是草地，玻璃是glass。"
+      "explanation": "Grass是草地，玻璃是glass。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/4666a5ca6ed34a2ec99698e72382e91640ae87d3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8ddddd066ff0e870a505620f1ff2778f421296f.mp3"
+      }
     }
   ],
   "knowledge": null

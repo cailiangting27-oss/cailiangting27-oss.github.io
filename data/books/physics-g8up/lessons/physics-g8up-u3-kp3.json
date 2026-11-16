@@ -21,7 +21,15 @@
         "凝华"
       ],
       "answer": "液化",
-      "explanation": "空气中水蒸气遇冷液化。"
+      "explanation": "空气中水蒸气遇冷液化。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e7d3be5c7f2512f2d8a9c645a5b63ab33b96f692.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 5,
@@ -37,7 +45,15 @@
         "无法确定"
       ],
       "answer": "内表面",
-      "explanation": "室内水蒸气遇冷凝华在玻璃内表面。"
+      "explanation": "室内水蒸气遇冷凝华在玻璃内表面。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     },
     {
       "id": 6,

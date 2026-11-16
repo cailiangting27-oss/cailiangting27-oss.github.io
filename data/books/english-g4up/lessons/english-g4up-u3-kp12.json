@@ -21,7 +21,17 @@
         "She is Lily."
       ],
       "answer": "He is Tim.",
-      "explanation": "Who提问身份，主语是he，回答应涉及男性姓名。"
+      "explanation": "Who提问身份，主语是he，回答应涉及男性姓名。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6df7a235902db0c4049a8a26002c2e72200b160.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a404c5c3d017ee46387f056de026f99083c03d92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90604b8c23da351a2a12d66a5aae2d6a6c5da4fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a12cc9c4422dac7ae6990e3c9ac8e71feda938aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a332f1492834b787d1b71bb094575255b3391cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7e65212af020bb3e348e0187292e6f187a86e31.mp3"
+      }
     }
   ],
   "knowledge": null

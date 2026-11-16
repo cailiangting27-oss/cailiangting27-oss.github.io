@@ -16,7 +16,11 @@
       "question": "条形磁铁的中间部分磁力最强。",
       "options": [],
       "answer": "错",
-      "explanation": "条形磁铁的两端磁力最强，称为磁极，中间磁力最弱。"
+      "explanation": "条形磁铁的两端磁力最强，称为磁极，中间磁力最弱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/92188d72f3b0f35786d0d762989d05ea2fc512c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c088fa75eca3ae6ea1cacf084b4449693a399b0.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "两端"
       ],
       "answer": "中间",
-      "explanation": "条形磁铁的磁力呈中间弱、两端强的分布特征。"
+      "explanation": "条形磁铁的磁力呈中间弱、两端强的分布特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/935ca7da6756ae99d1c9f98200d6f3e5d6e3908e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d282ab1cab505ad5f5a90e85b1e85d29cbff44e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d00b92ba24ca53afb5854ac9f4c734437836d0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/076df0c96a809ae162b40455babb25cf69cde58b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e62472b9637acf206aa9db1d2f9ae97c39ea264f.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "中间那块没磁极"
       ],
       "answer": "都有两个磁极",
-      "explanation": "任何磁体都同时具有南极和北极，即便断裂也会形成新的磁极对。"
+      "explanation": "任何磁体都同时具有南极和北极，即便断裂也会形成新的磁极对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c05bfefd0cbcde358bd2181acfd6f8ec5b2dc9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef624adbf8b381d98236d8d258bcd5d38953b8d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae7c0b255e66c4e012eb59acc88fe71ba20f28e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b9cd2f3b7937756530b0d38c525397981774329.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb051f66523cfc34ca33ddcfa6d5b5d3f415ea1d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b690f38b70159790fcf8d9af9043d9e9a6625717.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "普通的条形磁铁一共有（    ）个磁极。",
       "options": [],
       "answer": "2",
-      "explanation": "磁铁都有南极和北极，总共2个磁极。"
+      "explanation": "磁铁都有南极和北极，总共2个磁极。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f0de0b0446e8e98115697f2b80fd3eb5987dfa2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42dfe928268d556948ec8f3ca31520af034c33a2.mp3"
+      }
     }
   ],
   "knowledge": null

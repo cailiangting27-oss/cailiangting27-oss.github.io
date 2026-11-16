@@ -21,7 +21,17 @@
         "."
       ],
       "answer": "They,are,tomatoes,.",
-      "explanation": "主语+be动词+名词复数。"
+      "explanation": "主语+be动词+名词复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1050686565a1a0f8462fd08c271578ac9b2067e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/404db29d6ba61318865a25ff7c02724a6a67c89c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95dc1eef7b5609ecb5a8f47a4ac25f03285be68b.mp3"
+      }
     }
   ],
   "knowledge": null

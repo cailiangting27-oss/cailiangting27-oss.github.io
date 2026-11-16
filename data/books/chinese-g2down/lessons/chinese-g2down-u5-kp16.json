@@ -21,7 +21,17 @@
         "杨桃"
       ],
       "answer": "兴致勃勃",
-      "explanation": "兴致勃勃描写兴趣很浓，属于心情/神态范畴。"
+      "explanation": "兴致勃勃描写兴趣很浓，属于心情/神态范畴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f90be872ff98a1851506e4fe26c1655d69209675.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a8e22ad82c9311913896bc25eb044b79ee2fb4b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69c0b09ad8c19a2e4f034457aaa86e52c745b467.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35cacc257ae8ac96f384b5b8b64b25dbba3d93f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83b469617d9c15a62130f9239883e05ca372cf38.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f3d92f94efccbd0f8107f6459edf398f556572f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "。 。"
       ],
       "answer": "， ？",
-      "explanation": "称呼语后用逗号，疑问句末尾用问号。"
+      "explanation": "称呼语后用逗号，疑问句末尾用问号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b773bcc21659c133fce4dee5debc7fc203461ba.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/f2/f24c264f5e28045333ca4ad94316c7e5e5869ae9.mp3",
+          null,
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca460f9a95a1b526ee68511b7fef85555fd342da.mp3"
+      }
     }
   ],
   "knowledge": null

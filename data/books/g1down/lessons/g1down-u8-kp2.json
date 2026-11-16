@@ -16,7 +16,11 @@
       "question": "一张 50 元人民币可以换 5 张 10 元人民币。",
       "options": [],
       "answer": "对",
-      "explanation": "$10 + 10 + 10 + 10 + 10 = 50$。5 个 10 是 50，所以兑换正确。✓"
+      "explanation": "$10 + 10 + 10 + 10 + 10 = 50$。5 个 10 是 50，所以兑换正确。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/29c20a7f92e26e331d35edcbea4de8d433ffd98a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00ad4f9588b743cf7f662767bac40ffc52da7c33.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "正方形的四条边都相等。",
       "options": [],
       "answer": "对",
-      "explanation": "正方形的性质是四条边长度相等，四个角都是直角。这是图形基础定义。✓"
+      "explanation": "正方形的性质是四条边长度相等，四个角都是直角。这是图形基础定义。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d94932ced17b3fb1e0288465498a4327109992b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb60a0d9d287d5b4aba2a7f4ecdb14087f556648.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "圆"
       ],
       "answer": "三角形",
-      "explanation": "根据图形特征，三角形有 3 条边，3 个角。"
+      "explanation": "根据图形特征，三角形有 3 条边，3 个角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c100d71bf25779aad7590c943c40553c9390a891.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffd272e37fcfc01d2341823c61ce20c06a4087ad.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "10 张"
       ],
       "answer": "2 张",
-      "explanation": "1 元 = 10 角，$10 = 5 + 5$，所以可以换 2 张 5 角。"
+      "explanation": "1 元 = 10 角，$10 = 5 + 5$，所以可以换 2 张 5 角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/445d3afa1b8244ca3dd1cb5141d51d264deeda05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/52f1799a224dc330648f9ddb7aacfa5cb8f379c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc44a2ea7ee30d796d5a02e222f94f18ae266f7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56d727e18268d2735715ee5b092371c264aaf2d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99ad90408bf5daae6253a656d1262dafeff07d67.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb44f7567bd815da0c18fb80e7e5fd892f0a0bca.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "2 元"
       ],
       "answer": "1 元 5 角",
-      "explanation": "1 元 + 5 角 = 1 元 5 角。单位不同时分别相加再合并。"
+      "explanation": "1 元 + 5 角 = 1 元 5 角。单位不同时分别相加再合并。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cb1308ca0631cddaa50abdfee48e503cc7844d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af81e11c72155865be0c9d745fa14e45af9774b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd4d0d29da718260003de4990f80514ac35255d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/026f84854eb7a20115d050a333b01ebaaaa5645c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/699c5dcbec799d59b0cfe7a35b6d9de3a4296144.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2be83fd9364f24c9cf2345459602b6f7bcbeb94.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "圆"
       ],
       "answer": "圆",
-      "explanation": "三角形是有边的多边形，无法拼出曲线边缘的圆。"
+      "explanation": "三角形是有边的多边形，无法拼出曲线边缘的圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73067098f6f0d1472e299293399b86318869b0ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a631d4703e3917a3ce15965a9898fe302ccfd61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e13948179f81f3b9cbfed083f165d1963a411a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf568475e266af10407a4a5525fddf8d6b11a2fd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "人民币换算时由于单位不同而直接相加减",
       "在分类统计时容易数漏或重复计数"
     ],
-    "tips": "对于分类题，数一个划一个，保证不重不漏；人民币单位大变小乘 10，小变大看有几个 10。"
+    "tips": "对于分类题，数一个划一个，保证不重不漏；人民币单位大变小乘 10，小变大看有几个 10。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f4/f4e693906d5eaee8332c295b4f91c886216ac36a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/57/57d13f8f3dc29b18b10a36cb491c7e700505417f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5a/5aabaad5c79fb6dc7717464d02ce797a9ab91cca.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/30/3096ec744b2a71e954adce57b1677f8c5c12a981.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f3/f35c1a22dad1c6758d2448247395e9dbe9275051.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a5/a571b83082c453c632b9e9a5951da5602a32cf1b.mp3"
+      ]
+    }
   }
 }

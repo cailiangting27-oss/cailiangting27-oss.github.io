@@ -16,7 +16,11 @@
       "question": "算式 $80 - (20 + 30)$ 的计算结果是 30。",
       "options": [],
       "answer": "对",
-      "explanation": "先算小括号里：$20 + 30 = 50$。再算括号外：$80 - 50 = 30$。验算：$30 + 50 = 80$。故判断为对。"
+      "explanation": "先算小括号里：$20 + 30 = 50$。再算括号外：$80 - 50 = 30$。验算：$30 + 50 = 80$。故判断为对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f944e8c7ed985f2d2daa4d9cf265dd854be65ba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b62908abf5957caf56500d071e8c77514f33898.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "85 + 20 + 30"
       ],
       "answer": "85 - 20 - 30",
-      "explanation": "去掉括号要变号：$85 - (20 + 30) = 85 - 20 - 30$。"
+      "explanation": "去掉括号要变号：$85 - (20 + 30) = 85 - 20 - 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d48d7c474b3e3f0d6cc228fafba99589a851385b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3538f89876a8aeb336d1e94fb2a331c405523ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2189b6b4469337aa6143e931e59ebfbda8c014f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7423b1d2d0af0f1d3614318ee52ddff850af7a5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41d86afd9fe4e888c2a419b6c3ac0a62c71df616.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/4482b289a9963c7a6ea1e0d60cec4a673aa8e2bf.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "无视括号，依然从左到右计算",
       "在列竖式时，只写了括号里的算式，漏写了第二步"
     ],
-    "tips": "看到（ ），先圈起来，写上“先算”两个字提醒自己。"
+    "tips": "看到（ ），先圈起来，写上“先算”两个字提醒自己。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1b/1b4ee0d6e5eca93b1f09bed4e3af9a5ee57d5399.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/77/77dee9c95ef966b3a3cb003d4a08ad9fd1178d26.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5c/5c530fe15202c5da957d99e609a58c9c22dc34ba.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f4/f467540872989a4598aa07aba6988ec13cd551e2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c6/c67f7dde094e639d10526abdac25daa0a281f980.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d9/d94c8d931a345a0d41287899e5ea809fc09bbff2.mp3"
+      ]
+    }
   }
 }

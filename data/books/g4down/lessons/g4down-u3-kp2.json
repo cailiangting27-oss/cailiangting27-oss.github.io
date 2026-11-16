@@ -16,7 +16,11 @@
       "question": "$568 - (68 + 179) = 568 - 68 - 179$",
       "options": [],
       "answer": "对",
-      "explanation": "减法性质：$a - (b + c) = a - b - c$。验算：$500 - 179 = 321, 568 - 247 = 321$。"
+      "explanation": "减法性质：$a - (b + c) = a - b - c$。验算：$500 - 179 = 321, 568 - 247 = 321$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b229ec6cf10113e63ca97d3ad28747346118e2fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44cd6961181d4d22244cd5f6534ef0aad6ac2abe.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "按顺序计算"
       ],
       "answer": "$834 - (156 + 44)$",
-      "explanation": "一个数连续减去两个数，等于减去这两个数的和。156和44能凑整200。"
+      "explanation": "一个数连续减去两个数，等于减去这两个数的和。156和44能凑整200。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96e5430829523138791d009bcc068eb9169afa9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1be1bf921b1adc8e1d9ea8fe74e257c752d8de87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69deb5cad2825d43a4abbe8f1a3647e3640c969e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4440b7dff074a2b29659b28b373c4e066df63925.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e8e5540ce8f61d43731ef460fd836b0df3f0bb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34096cf91e17b5ea344db3ca1188fa6131287ee4.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "155"
       ],
       "answer": "135",
-      "explanation": "$235 - 64 - 36 = 235 - (64 + 36) = 235 - 100 = 135$。"
+      "explanation": "$235 - 64 - 36 = 235 - (64 + 36) = 235 - 100 = 135$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e0f6d67e2d9716269e0fc42354efe13e2b12edf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/40f7c01f4189510031adccd9c604a128adaf9b00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0ca9277f91e40054767f69afeb0426711ca0fddd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50628bd7ee508d3f01ada5e75680e4ab76b6006b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "去括号时符号出错：$a - (b + c)$ 错写成 $a - b + c$。",
       "没有观察数字特征，盲目按顺序计算导致计算量大。"
     ],
-    "tips": "记口诀：括号前面是减号，去掉括号要变号；括号前面是加号，去掉括号不变号。"
+    "tips": "记口诀：括号前面是减号，去掉括号要变号；括号前面是加号，去掉括号不变号。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3b/3b58188aa448cb2db47bd805fe8999b91d82017b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e9/e9c2e474faa0baaae4c07fe950f2ad5d444e3950.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f620d892c90c565785a8f15baabd95d85113668.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/18/186208aed6716b0ab43be9d3f564e3040728feb3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fc/fc03938c8cdfa7ebdfccc6aa65aa7f460bb9d192.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2b/2be745f6647e9f69f7126f73bfa19297e2936a74.mp3"
+      ]
+    }
   }
 }

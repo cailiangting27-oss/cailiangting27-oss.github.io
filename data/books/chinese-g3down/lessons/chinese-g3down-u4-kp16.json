@@ -21,7 +21,17 @@
         "数回来的蜜蜂"
       ],
       "answer": "捉来蜜蜂,带到远处,放飞蜜蜂,数回来的蜜蜂",
-      "explanation": "按照法布尔实验的先后逻辑排序。"
+      "explanation": "按照法布尔实验的先后逻辑排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8a9ef75a1ab34e445cc61b4cd03174cbbd5a748.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dbbc1d86d6f90a912c0f7e78e3f1b0d868d2d7e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e7cb9fcd721bef750e433860040298ab3e28202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fb11c39b3982f1770baa00c1cb13d19e7ec72ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eba2ca87f7efcf9c49c20be68b6af4e46dbd2200.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b73a84361623546faccd87eb3537ff5c5d588d2.mp3"
+      }
     }
   ],
   "knowledge": null

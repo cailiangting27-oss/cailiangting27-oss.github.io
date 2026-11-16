@@ -43,7 +43,15 @@
         "不存在"
       ],
       "answer": "0",
-      "explanation": "趋于无穷时倒数趋于 0。"
+      "explanation": "趋于无穷时倒数趋于 0。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/0d/0d864b52e306635c2e38869f2a3bde67051eacc5.mp3"
+        ]
+      }
     },
     {
       "id": 5,

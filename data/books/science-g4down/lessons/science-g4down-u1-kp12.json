@@ -21,7 +21,17 @@
         "防止雨水淋湿"
       ],
       "answer": "获得更多阳光",
-      "explanation": "叶片交叉生长（叶磨）可以最大限度地接收阳光进行光合作用。"
+      "explanation": "叶片交叉生长（叶磨）可以最大限度地接收阳光进行光合作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16dff46d80caea2e88452accb091933b18f48471.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61becba4e65a1be0eb4c3071b842824dc9838ad4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbd6bf0fc9953dafae08932134471973322fbbd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5cfdd4a1b68da19789609a2c90588d73e45d875.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37c902b0c2304fa2823de462ed471097d8c79d03.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e61a7e358f05ab5763a4d3685c71f125d4b7b8a6.mp3"
+      }
     }
   ],
   "knowledge": null

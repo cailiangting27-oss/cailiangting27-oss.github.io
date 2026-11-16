@@ -16,7 +16,11 @@
       "question": "3比4大，所以可以用符号 $3 > 4$ 表示。",
       "options": [],
       "answer": "错",
-      "explanation": "在数列中3在4的前面，3比4小，应该用小于号表示：$3 < 4$。"
+      "explanation": "在数列中3在4的前面，3比4小，应该用小于号表示：$3 < 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2d4f0b997e5716ba4408047378b0de4d973011f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26de61aa536a08ccea006bf5c68f2090b5b2a39a.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "2比5小，开口应该朝向大的数，所以填小于号 <。"
+      "explanation": "2比5小，开口应该朝向大的数，所以填小于号 <。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2eda025e72f9fcf1fc92d24139c7bea537f4d291.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/9148123083fe31d5d6944df460cde0acdc6d36da.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +56,17 @@
         "0"
       ],
       "answer": "4",
-      "explanation": "同样大小的数用等号连接，$4 = 4$。"
+      "explanation": "同样大小的数用等号连接，$4 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c20ad2fddff39d75b10b70846d9fb97d1e70e51d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f40b480317fff79ed644f17e07d0eb96e678eaf.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +77,16 @@
       "分不清大于号 > 和小于号 < 的方向。",
       "在比较算式结果和数字时，忘记先计算出算式的得数。"
     ],
-    "tips": "可以记住儿歌：开口朝大数，尖尖对小数，两边相等画二横。"
+    "tips": "可以记住儿歌：开口朝大数，尖尖对小数，两边相等画二横。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/29/29b05cd9026099f6b980847784e321cf97d776f1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/db/db5dad482e30fb8fea80742033a02935da4f0d91.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ad/ad9a05942d0bb2eba327560b1b819b48258efaa1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f2/f2ac2199ba6f504461a11e27b471a622b7a9e072.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/be/beb732a1db9e2e0db7e1ac34b85edfb7e3c2560b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/12/12a6f7efaf242572a45bf207c61ad186b3a56655.mp3"
+      ]
+    }
   }
 }

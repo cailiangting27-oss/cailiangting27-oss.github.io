@@ -21,7 +21,17 @@
         "春天在哪里！在桃花瓣上。"
       ],
       "answer": "春天在哪里？在桃花瓣上。",
-      "explanation": "前句是疑问，后句是回答，用问号和句号。"
+      "explanation": "前句是疑问，后句是回答，用问号和句号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc5651b18668c1be334981637433190fb4fb0e47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/353884963f482cd9dd237d8dc7661b111b74af66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a32503035c36100a91594436a6c53d47ae50990a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8abce7124cce09a036cf55417318017d2383ef87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fd16af5c1522610ddc76aaa790e2efab910076a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3c6d6bc2c10e00d13bfe64f33ed30597147f7d6.mp3"
+      }
     }
   ],
   "knowledge": null

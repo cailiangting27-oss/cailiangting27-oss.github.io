@@ -16,7 +16,11 @@
       "question": "“扇”是一个多音字，在“扇风”里读 shān，在“风扇”里读 shàn。",
       "options": [],
       "answer": "对",
-      "explanation": "动词读一声，名词读四声。"
+      "explanation": "动词读一声，名词读四声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6a92931492505ab5ff0c0d1d3ab3b2d6981cc16.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/831f9a19d861a06e241fbe11abe748d841e6fba0.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“决定”的“决”部首是三点水。",
       "options": [],
       "answer": "错",
-      "explanation": "“决”的部首是两点水（冫）。"
+      "explanation": "“决”的部首是两点水（冫）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33f75b1814b45e3d91cb8eb349226f856bbf4dd1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb06faae73107afcb1fb37c6d16a982cba23e946.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "快快乐乐"
       ],
       "answer": "辛辛苦苦",
-      "explanation": "蜘蛛为了织长围巾网了足足一个星期。"
+      "explanation": "蜘蛛为了织长围巾网了足足一个星期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62a7b69f710af4b8b6283bad9d49b94156a992d2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0e0c6f04ccd819ee6a49f5d00981fd240ed06a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cb6264e815ef880eb0f91602da7957e41303129.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66df0c326b701972821c1130cde1501e57e83ea4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3718898e6ecec0c56de88dd0882db1dafbf69810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbc2da2fe8663bd7706f7e882d207dbbe65af2a7.mp3"
+      }
     },
     {
       "id": 16,
@@ -54,7 +72,11 @@
       "question": "大象的耳朵像扇子一样（___）在头两边。",
       "options": [],
       "answer": "耷拉",
-      "explanation": "课文原词，注意汉字写法。"
+      "explanation": "课文原词，注意汉字写法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3be93e928fd40a236b67d2e2acc19043d3dfa3c5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c63883c7cbaf1e6b8c1d8939128adee6732c574c.mp3"
+      }
     },
     {
       "id": 17,
@@ -65,7 +87,11 @@
       "question": "青蛙为了卖泥塘，在泥塘边种了（___）。",
       "options": [],
       "answer": "小草",
-      "explanation": "青蛙听取小牛建议后开始改善环境。"
+      "explanation": "青蛙听取小牛建议后开始改善环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80f2b5e1412e0b17547bd36b88abb0c673d8e75b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d46c9ff873f3211533a0d9788cab3e866370e1e.mp3"
+      }
     },
     {
       "id": 18,
@@ -76,7 +102,11 @@
       "question": "蜘蛛开店，第一个来的顾客是（___）。",
       "options": [],
       "answer": "河马",
-      "explanation": "河马的嘴巴大，所以织口罩很难。"
+      "explanation": "河马的嘴巴大，所以织口罩很难。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1290b0bb4a73ec457fe1f895a1ca6cb3836314d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee13d32c15a392b7f858d2a6dedf7b832f8280fe.mp3"
+      }
     },
     {
       "id": 19,
@@ -96,7 +126,21 @@
         "很多的腿"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "根据课文描述和生活常识匹配特征。"
+      "explanation": "根据课文描述和生活常识匹配特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66959f735af219a36d5bf4fa264fb8d828206e48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a0aafe8dfa55663f4c15df5b61460bd59a6b637.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f3d8614ce05c9519ef63220e998b5424201daed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e82677e917d755b44d67481439a47dd3319aae4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff701038b2e49052c34c4616bb5274f9a7ff489d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e32f8ef9514eeb35ce91f338c161183777e3c8d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dd673c2af9c3b2bf247bf81f4255c685fe090a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb3ea3fdb05ea5c359232bca354ebebd3cc3ef96.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/817fbf7e51d7cb69a0da97a668a1fd94801fb238.mp3"
+      }
     },
     {
       "id": 21,
@@ -116,7 +160,21 @@
         "跳跃"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考查根据课文内容匹配动物与活动。"
+      "explanation": "考查根据课文内容匹配动物与活动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/315d0234bcdcbafcd0462f192a14f788ce68e3e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3741228d09689a25974bc9f09e636e8bc467aaa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f73632e90b99d520d3f60bfa22ef76e9e0d4620.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf15a6e8a3d77f470c3b73a7406270360676056b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2f5fa273fa74ac31a32f2fa26b3545ed4464a45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db515ba37ada6b48d6e8e154d95575188fa1aa86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87f0a7a86f67e635a2d0b70541547a2342ee6566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575d491eaa8ca1f455eacd110fe599e043a908fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55b56b42ee523cdbbc4f6b78fe3bd8c1a595c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a705582f85550ed536ceed43cf6c0a40ae690d7.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "by"
       ],
       "answer": "under",
-      "explanation": "PEP教材Let's do部分指令：Put your foot under your chair."
+      "explanation": "PEP教材Let's do部分指令：Put your foot under your chair.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7804160c5d3e3689374d66fe27d7dd62f6e4365.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/408158643ed564c72fa0921826f8294d71ccbf7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/1086349f9cf0106daec384964b510d5ea3807898.mp3"
+      }
     }
   ],
   "knowledge": null

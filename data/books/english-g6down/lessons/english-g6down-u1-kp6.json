@@ -16,7 +16,11 @@
       "question": "句子 'You are taller than I.' 是错误的，than后面只能接me。",
       "options": [],
       "answer": "错",
-      "explanation": "than后面接主格I或宾格me皆可，在口语中常用me。"
+      "explanation": "than后面接主格I或宾格me皆可，在口语中常用me。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b8ac091aa7d78219952268d6afc1fc329866a77.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e2f9c9c3df05bf37d8a49f2f038940dd3e88e8a.mp3"
+      }
     }
   ],
   "knowledge": null

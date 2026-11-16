@@ -21,7 +21,17 @@
         "人类错觉"
       ],
       "answer": "太阳太远",
-      "explanation": "近大远小的原理，太阳距离地球极远（约1.5亿千米）。"
+      "explanation": "近大远小的原理，太阳距离地球极远（约1.5亿千米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31eb6558d2126e00bc35ebaac72baa31bdf6044b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59cefcb545f58f72d53476a7d71cb81de1457581.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78f8e104fe95a3a5335443fc10a28e45acf3182e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e858400b73ce0953da5eb2e8a621d22c6fee68a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad994e36e7f05c1d96c845e400553ef211dc53e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67c238f176f217053b006454e1e81fdadc1db03f.mp3"
+      }
     }
   ],
   "knowledge": null

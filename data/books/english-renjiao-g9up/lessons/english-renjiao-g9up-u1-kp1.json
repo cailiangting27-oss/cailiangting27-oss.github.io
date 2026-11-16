@@ -21,7 +21,15 @@
         "will go"
       ],
       "answer": "went",
-      "explanation": "last week 用过去时。"
+      "explanation": "last week 用过去时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 3,

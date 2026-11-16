@@ -25,7 +25,15 @@
         "小狗",
         "小猫"
       ],
-      "knowledge_point": "听动物叫"
+      "knowledge_point": "听动物叫",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/838c8c51b5cd85ed66b5d179bf8241055a46693d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e974ae496688a19aaf0381cd63ed7190b815d681.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5be3b89ae2fa683df4bc780d51dd27bb6b65a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d88806ed0e83d892557e7e0e95f1968340eccd99.mp3"
+      }
     },
     {
       "id": 34,
@@ -45,7 +53,15 @@
         "小猫",
         "小狗"
       ],
-      "knowledge_point": "听动物叫"
+      "knowledge_point": "听动物叫",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/217fd493ccc586aad47f8c3ddc9afc55129859c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5be3b89ae2fa683df4bc780d51dd27bb6b65a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e974ae496688a19aaf0381cd63ed7190b815d681.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcfb0e1d66e2d92113e70093bad13624bf2e8567.mp3"
+      }
     },
     {
       "id": 35,
@@ -65,7 +81,15 @@
         "小牛",
         "小羊"
       ],
-      "knowledge_point": "听动物叫"
+      "knowledge_point": "听动物叫",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c3e8ca4e1d29d630b58ed9cb0ee6e1267a0d0ea.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e4a717b7267246342befaeebd77222dd6b9b7b3.mp3"
+      }
     },
     {
       "id": 36,
@@ -85,7 +109,15 @@
         "小羊",
         "小牛"
       ],
-      "knowledge_point": "听动物叫"
+      "knowledge_point": "听动物叫",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e4ab03c4deaacec427e3ed3d8d267de182c825c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b3f2d6a4023238577c3f42fcefea446490a591e.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02ba3a4b1bc89c9c7e1cc02759e14a08cadf6234.mp3"
+      }
     }
   ],
   "knowledge": null

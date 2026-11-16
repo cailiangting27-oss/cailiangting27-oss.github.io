@@ -16,7 +16,11 @@
       "question": "“我的心像揣了一只小兔，怦怦直跳”这句话描写了人物紧张的心理。",
       "options": [],
       "answer": "对",
-      "explanation": "“怦怦直跳”和“揣了小兔”生动地表现了人物内心的紧张不安。"
+      "explanation": "“怦怦直跳”和“揣了小兔”生动地表现了人物内心的紧张不安。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/462233857d2c48ebf08e2fd65215333aac456efc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb2ddbaeeafcabeb93ddeddb37b9a4777e77de4e.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“他在场边走来走去”是一个动作描写，反映了他内心的焦急。",
       "options": [],
       "answer": "对",
-      "explanation": "动作是心理的外化，走来走去直观表现了焦急或坐立难安的状态。"
+      "explanation": "动作是心理的外化，走来走去直观表现了焦急或坐立难安的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/016c8cc5976451665b0a8d44837f29b480553f06.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3299c2f856bcc4785e26938c01dbe9605c0db6b8.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "惊讶"
       ],
       "answer": "惭愧",
-      "explanation": "“红到耳根”和“低着头不敢看”是典型不好意思、惭愧的表现。"
+      "explanation": "“红到耳根”和“低着头不敢看”是典型不好意思、惭愧的表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d259b3d1260a4ae9e9731fd4663572b9e6f8f7c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/afa04bf5847221f526265f5da885911f3b2977d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a68f7e5e93b35c0be6cab485c02c13f3e52ec445.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f81f62fd857fc4e9ec192abc102deb8d226284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd6bd4738cba9106238e616a5b0d16a4287bb658.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd4a6da81d3fab2b1ea4c4927459cf325fd2a7fc.mp3"
+      }
     },
     {
       "id": 18,
@@ -54,7 +72,11 @@
       "question": "《一只窝囊的大老虎》中，我登台表演时的心情用一个字形容是：（___）",
       "options": [],
       "answer": "怕",
-      "explanation": "内心非常紧张害怕，形容这种心理状态最准确的一个字是“怕”。"
+      "explanation": "内心非常紧张害怕，形容这种心理状态最准确的一个字是“怕”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d66af34c3f8352ffa371686b03c568ac836d94c8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cda0f029d08e153a0456d8225f0854dfe309f9c8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -65,6 +87,16 @@
       "容易把动作描写和心理描写混为一谈。",
       "推断人物心理不结合语境，导致情感推导偏差。"
     ],
-    "tips": "尝试把自己置换到文中情境，问自己：如果是我，这时候在想什么？"
+    "tips": "尝试把自己置换到文中情境，问自己：如果是我，这时候在想什么？",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9a/9a2621bcf60305c11464cfd42721781c4ae27fea.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6b/6bf2e3faccc46c62692333e7232cdab0d2c9104a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cd/cd47d851cd4b9f27d4a8d2e1082f69744bcf3148.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/16/16d9de676928e40f589b8fb3faabeafa4d2f867e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/25/254b45b691aba2c7b5d3d9882785a29a9109084e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f2/f2349d00856cccdf1ad0ceccfdd1e5fea28c7647.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "蚕蛾虽然有翅膀，但是不能在空中飞行。",
       "options": [],
       "answer": "对",
-      "explanation": "蚕蛾的翅膀已经退化，只能振动翅膀并缓慢爬行。"
+      "explanation": "蚕蛾的翅膀已经退化，只能振动翅膀并缓慢爬行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/8518326628c51ace8ab6cfdeeafffcc4c6dc1081.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/008e985a2a981ba902b2578983a75694c15604c3.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "胸、腹、尾"
       ],
       "answer": "头、胸、腹",
-      "explanation": "昆虫的共同特征是身体分为头、胸、腹。"
+      "explanation": "昆虫的共同特征是身体分为头、胸、腹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecf6dfaeb3b658911a368efe40b2c3fe34e155a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d50682aad2ed856fdcaa4c7b7beef8a979d51070.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd7b8efaed52e4cce3c479e3a49699543d2bfd85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64d9befdb6f7045a1df7273e8485efc0f9a49b7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cff2694d978ceff8805a4768c69f0de6d3483c9a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bada8c704d4c088f82714f5f46fb5d0dc24e283.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "螃蟹"
       ],
       "answer": "蜜蜂",
-      "explanation": "蜜蜂具备头胸腹和三对足的特征。蜘蛛有4对足，不属于昆虫。"
+      "explanation": "蜜蜂具备头胸腹和三对足的特征。蜘蛛有4对足，不属于昆虫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e38c5329f6c779ec2cac7bac758416c05d704b00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81368dfe6bdaed0b4d9ec75a644078ce5678e10c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f3d8614ce05c9519ef63220e998b5424201daed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f033ebd644b4ac1d28ba9553c1c1de6e149b2380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b81dd8f2a241e7e6ab97d66848706d48a42448c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56ee1106008d7c5c5bc8e7a1fefb2a5993dc0bed.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "成虫期（蚕蛾）的蚕有（___）对足。",
       "options": [],
       "answer": "3",
-      "explanation": "昆虫成虫都有三对足。"
+      "explanation": "昆虫成虫都有三对足。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67174ba4315d42051fb160fc3e7b30925d598807.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/bab3f9451619d76eddd906e446a39fbf71a8cd56.mp3"
+      }
     }
   ],
   "knowledge": null

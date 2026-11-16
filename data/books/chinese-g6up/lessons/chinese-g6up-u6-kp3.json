@@ -16,7 +16,11 @@
       "question": "《浪淘沙》（其一）的作者是唐代诗人刘禹锡。",
       "options": [],
       "answer": "对",
-      "explanation": "《浪淘沙》（其一）确实是唐代诗人刘禹锡的作品。"
+      "explanation": "《浪淘沙》（其一）确实是唐代诗人刘禹锡的作品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15f7e5ce5ab185c0b2ccc4775efa179a761397d3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6510cbf257a41230c03f9b990f65670a6b5f58c.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“两山排闼送青来”中的“排闼”是指推开门。",
       "options": [],
       "answer": "对",
-      "explanation": "排闼意为推门。此处运用拟人手法，写青山富有情意。"
+      "explanation": "排闼意为推门。此处运用拟人手法，写青山富有情意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca22cbe65e8574c1fbdd11abb03590f23a15e15a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80231b926ace08c913a1936d02c030f937a29115.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "隆冬"
       ],
       "answer": "初春",
-      "explanation": "莺啼、绿映红是典型的春季景观。"
+      "explanation": "莺啼、绿映红是典型的春季景观。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28c406e426a8b4b1070430eb8f5f7acfe6b612fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c301e3a95db75d70005658334c4f16ac32f1ebe8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b951ea77dd4c4e209cfb66400ec509ef53d4d9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e93023c8504f57e318a475ec7b028a3c1cf05224.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83d89c347c99098eb1955aa082722b2be46af690.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e67fc8285bfa7cc225b259e2051c9e6f011f274b.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "洗刷"
       ],
       "answer": "颠簸、摇荡",
-      "explanation": "诗句形容黄河波涛汹涌，泥沙随风浪荡漾。"
+      "explanation": "诗句形容黄河波涛汹涌，泥沙随风浪荡漾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f78c0fb400f166a1d4c36ea554e71daf648a655e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33717895eaad6f64c56bbe5b1b3965168d4f8a72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09920ed72edfb9e6090968b12db0eedd6e121d9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55b56b42ee523cdbbc4f6b78fe3bd8c1a595c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8172fb6d0207b327f1945e9ea67e8d184f24dbb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b1570c48a0715fb3262ed6aa2011842d69fe7b0.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "指的是寺庙高度"
       ],
       "answer": "虚指，形容多",
-      "explanation": "这是古代诗歌常用的夸张或虚指手法。"
+      "explanation": "这是古代诗歌常用的夸张或虚指手法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/687b973ba77306194ef9c2df25d48fe5e0acafd5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cfb9e34c461afb34399a54ed68bf0af418e38ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bc34dca32ae1547bb1db2352522436e72228322.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c914a8ad1eb7f5093bd94598ec9b2394e04b26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42cd8ee66dd41908a7f75d0600cdc6301e55cb8c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54aed3fafd9c480087e6ea7021ec727cb519261c.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "如今直上银河去"
       ],
       "answer": "两山排闼送青来",
-      "explanation": "“送青来”直观表现出了满山的绿意。"
+      "explanation": "“送青来”直观表现出了满山的绿意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3ce7349dad913463e91084bea9170cf7417e1bcd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b597f175dfa519d4c0fae45d30205bc816c4e74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fba184242acaccf3342148866e728636012e783a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/908cf5aadb80eebf6d83c91973a7155096c4d0ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c815c8817e22c5f502ad0ca8def128aa71a890e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e841efb4f11c64de61f177af8dfac49278d9aa8.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "《书湖阴先生壁》中，运用了拟人手法的诗句是“一水护田将绿绕，（______）排闼送青来。”",
       "options": [],
       "answer": "两山",
-      "explanation": "根据课文内容，“两山”与“一水”相对。"
+      "explanation": "根据课文内容，“两山”与“一水”相对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52b6e95356cf200f45f443ac459210f593f00296.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d56dd98f42e2d8965ab6e04b41b3affd447e8bc.mp3"
+      }
     },
     {
       "id": 17,
@@ -113,7 +165,11 @@
       "question": "刘禹锡在《浪淘沙》中借“同到牵牛织女家”表达了对（______）生活的向往。",
       "options": [],
       "answer": "美好",
-      "explanation": "诗人借此表达了对宁静、美好生活图景的追求。"
+      "explanation": "诗人借此表达了对宁静、美好生活图景的追求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07d07777b834b9e54525ebf46ef7d6d73df1506f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1b9da58da661403b46a474870b0eb1944482771.mp3"
+      }
     },
     {
       "id": 19,
@@ -133,7 +189,21 @@
         "山林春色"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "A对应江南美景，B对应黄河，C对应庭院，D对应山色。"
+      "explanation": "A对应江南美景，B对应黄河，C对应庭院，D对应山色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e07bfe7fff6a52cad917826aadea9391eb70a82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b6eb954735c8cb4ce871859cd562aa0d8b391a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10bb0aeffaac7feee9d14cd54ad528b594937d62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62fb3236e5c546b0727609c474baa0935ef8b5b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fba184242acaccf3342148866e728636012e783a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f2f6db2b9b50bc270da71480e697e0058ba0f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8882ff600b95cb134577f3815d0076ba17c6e9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8519a428d72b67f3530c12280c6fdab16a570d51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a89b1f3ddc64336bbf3e8f76cb6c0228e42ebe44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e1e98ef48db1247c315ad1e21a67fc00720b75d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -144,6 +214,16 @@
       "对诗中虚指数字（如四百八十、九曲）进行生硬的字面理解。",
       "混淆不同诗人的写作风格和地域特色。"
     ],
-    "tips": "脑海中把古诗词转变为一幅彩色画卷，能更好理解其意境。"
+    "tips": "脑海中把古诗词转变为一幅彩色画卷，能更好理解其意境。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2e/2e430ef08d2cd58b6a435d3e59d9b2d91f786e7c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/68/68964f17f20dad643a3662212eac231c863bf088.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2a/2a9024423e300dcb178d2894e04f7e2f1b8754a5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d9/d9ca9019a199950d312d071db7f8886990ba63f2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d4/d4d934853b73abae9fc031d78f6e30a78fe3f612.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9d/9d5e783205daf361aacbbb054fd3ba8b6ba34269.mp3"
+      ]
+    }
   }
 }

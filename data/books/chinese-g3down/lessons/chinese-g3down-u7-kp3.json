@@ -21,7 +21,17 @@
         "大家都不扔，就你扔，你好意思吗？"
       ],
       "answer": "王大伯，您看垃圾桶就在前头，咱们把纸巾扔那儿，小路更漂亮，您说对吧？",
-      "explanation": "劝告要注意语气，从公共利益出发，换位思考。"
+      "explanation": "劝告要注意语气，从公共利益出发，换位思考。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c24d9e6a2f7b0609773b588838f9422b95bdf0dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71e31f225a75c5993a6751fce25b29fcfe9140ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b32f4c8b0aa42cfc09be915dfc67117fcab9a06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cee37b0b96df54865e24380742b5cb2b0dda261f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/028bb1760c27a52ee79e4a30782d189218908275.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/2786f4af498359eb81138ecd0593c9dabe265238.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "语气生硬，带有批评和指责，导致对方产生抵触情绪。",
       "没说清楚劝说的理由，只是强加意愿。"
     ],
-    "tips": "记住“先礼后兵”，先表示理解对方的处境，再委婉指出可能带来的麻烦。"
+    "tips": "记住“先礼后兵”，先表示理解对方的处境，再委婉指出可能带来的麻烦。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d4/d43b6553381f8ce90c5765deaa073a1218dd8a24.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1db6ba9f6a6ce86de05cc0ea98d7a895cca680c3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5a/5aee417c56faf5019fa5bc40273b9faeced530d4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/31/31f7f454b1fd05049fbb89321bb4f9ee1d39588d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/db/dbde2171e65ea1e6927ea35b96e849a1d801cf41.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b7/b73787401a4d3a29f0bd923f783affc487ca9a8a.mp3"
+      ]
+    }
   }
 }

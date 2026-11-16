@@ -16,7 +16,11 @@
       "question": "如果甲在乙的南偏西 30 度方向，那么乙就在甲的北偏东 30 度方向。",
       "options": [],
       "answer": "对",
-      "explanation": "位置具有相对性。方向相反（南对北，西对东），角度保持不变。"
+      "explanation": "位置具有相对性。方向相反（南对北，西对东），角度保持不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d713974fc11bb88b396af0cfc5e02dd7e087bdaf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/677625b6ce67052aec567df0ba7a1df55b2e53dd.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "南偏东 25 度"
       ],
       "answer": "北偏西 25 度",
-      "explanation": "观测点从 B 变为 A，方向刚好相反。南变北，东变西，度数不变，故为北偏西 25 度。"
+      "explanation": "观测点从 B 变为 A，方向刚好相反。南变北，东变西，度数不变，故为北偏西 25 度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf9a6b5ea67683c0bdcbd1b689f9e91f9479fff8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e895559f87f697b79057dafd5973aa9794bbb40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16eadaa5d36d04d31441a31787d075e6e57e3f35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d84b2d04c600858305878ff64be4c6f99b61198.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/343f853e5a73f03765f0e126aff184b9c579c3b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7e1e01d60ddb7d1be2bbfc796fe42630daff7b8.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "北偏东 35 度",
-      "explanation": "如果 A 在 B 的某个方向，B 在 C 的同一个方向，则 A 在 C 的该方向延长线上。由于每次都是相对方向相反，总体反向叠加仍遵循“南对北、西对东”的逻辑。此处雷达站在母舰的反方向。"
+      "explanation": "如果 A 在 B 的某个方向，B 在 C 的同一个方向，则 A 在 C 的该方向延长线上。由于每次都是相对方向相反，总体反向叠加仍遵循“南对北、西对东”的逻辑。此处雷达站在母舰的反方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/740c79a1aa1b45ef4abcf887b095c46d48c3d80f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b469f4f61a84daf4cb99842a0fec49b4b3589b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fd04e3b455de7b09ce3800233c068b2232cbc9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90041bb851191ec8218c8a023ec310058b403101.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/196f59484797cb952c17eba83abfd2f61241fb8c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "交换观测点时连同角度也一起改变（如 30 度改写为 60 度）。",
       "只改变‘北/南’而忘了改变‘东/西’。"
     ],
-    "tips": "记住‘反义词对’：北对南、南对北、东对西、西对东。角度就像影子，观测点一换，影子的方向变了，但长短（角度）没变。"
+    "tips": "记住‘反义词对’：北对南、南对北、东对西、西对东。角度就像影子，观测点一换，影子的方向变了，但长短（角度）没变。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/36/36cf445e91620e1b094a90f4932ddc292edc0907.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/90/904b49f1dd8a9e10cc396eb09707544814f0ee7d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5e/5ea0ef85eca28be6b3358bb09fefcb13a8460afa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/74/7400342733573df9d3d319b22a17ac9773ea7c3a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b5/b5ddd374b963813bf7228befb44fe4d8f2850cb7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6c/6c64f6b7d5c8e71e24f6d669b6bd7f2eba340ac8.mp3"
+      ]
+    }
   }
 }

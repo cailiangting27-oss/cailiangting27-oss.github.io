@@ -21,7 +21,17 @@
         "紫色"
       ],
       "answer": "绿色",
-      "explanation": "大多数植物的叶片含有叶绿素，呈现绿色。"
+      "explanation": "大多数植物的叶片含有叶绿素，呈现绿色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee4ff6c5c7eaca32510517ffcdaf957e2a2b4746.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df52498f504652c494a591ac718ccb03c11eeebe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e04044bd20574653bbb86b86f4669e3630f7576.mp3"
+      }
     }
   ],
   "knowledge": null

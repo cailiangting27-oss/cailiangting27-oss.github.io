@@ -16,7 +16,11 @@
       "question": "“种瓜得瓜”下一句是“后人乘凉”。",
       "options": [],
       "answer": "错",
-      "explanation": "“种瓜得瓜”的下半句是“种豆得豆”。"
+      "explanation": "“种瓜得瓜”的下半句是“种豆得豆”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27a1d53743f967869f6e684272cebe30d4c33625.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fc63be4ec9ffa8968189f7d6d8e1ecc35d1fb11.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "不进则退"
       ],
       "answer": "始于足下",
-      "explanation": "这是课文积累要求掌握的名言。"
+      "explanation": "这是课文积累要求掌握的名言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f87a25de0a64d375d18478cb2084348e4a0052bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de20094c2e2b9ec9584ed1eb6e2cbd1d6178e0cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5456d1087260885e511556e50a45a6f567c199f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee3d4e92806cf8768ea44455cf8347590a452e20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d385a4a9a2682eeb0358bb5c4feddb63f9b8140.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/079dcd6f72afe84a2deaae5d64366074e5c968c6.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "始于足下"
       ],
       "answer": "种瓜得瓜",
-      "explanation": "“种瓜得瓜，种豆得豆”比喻付出什么努力就得到什么结果。"
+      "explanation": "“种瓜得瓜，种豆得豆”比喻付出什么努力就得到什么结果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15d71faa221989ad44c37e10a25a6a30ea6f8bb0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/2926408917f99758db39cb3ef12db2beeca2ed9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24d1181ca75f3c75f7b297d68305c65c64e9ca33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3876c8e28ef9aae646edd5b9c0cda5dae83b3eeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de20094c2e2b9ec9584ed1eb6e2cbd1d6178e0cc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/365e6c1810e8cce0e51afcce083f8ad2dbf99959.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "百尺竿头，（  ）进一步。",
       "options": [],
       "answer": "更",
-      "explanation": "课文日积月累中的格言。"
+      "explanation": "课文日积月累中的格言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/636c82ca1d711d780f2d73f58b1f5109d7acd2c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e61a66ab5631735b1d5843c96f94266e46e08851.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "机械背诵，在填空时容易写错别字（如把“足下”认作“手下”）",
       "不理解格言背后的实际意义，无法与学习生活联系起来"
     ],
-    "tips": "采用情境教学法，如在孩子取得小进步时引用“更进一步”，在开始新任务时说“始于足下”。"
+    "tips": "采用情境教学法，如在孩子取得小进步时引用“更进一步”，在开始新任务时说“始于足下”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5d/5d60c348d99750cb27a7f803dd1c15396c197700.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0a/0a725dc7e7a3254ce23468b324c3b43b65347b9a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9e/9eded1bf238ec2dff0ff4596f6a1bfd8d8980a8e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/77/77d00e7c10c506e0e70c74e6e31589ef04629004.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/da/dac48d447aeeff395049b3b887f36fea582d6dae.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bd/bde21d196fc9651c20ac83ccca09ed6abb4ab291.mp3"
+      ]
+    }
   }
 }

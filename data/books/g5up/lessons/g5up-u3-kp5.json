@@ -21,7 +21,17 @@
         "0.3636..."
       ],
       "answer": "0.4545...",
-      "explanation": "规律为：商是循环小数，循环节是除数的 9 倍。$5 \times 9 = 45$，故为 0.4545...。"
+      "explanation": "规律为：商是循环小数，循环节是除数的 9 倍。$5 \times 9 = 45$，故为 0.4545...。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6b0857e46f8caa8333032ffa7a9c0f135307ab0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c88711ae0b50ec5c815e054c60ff556c63c9ac9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/660a959ffa82f8ca5d555f2ba6742fce012f7d9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/712d49e12bf734183381fd01892582d20a8413ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d939418a44318b2349efbae3a88217b4f8ebe41.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f95cb26ac26b037b182acb32eaf33f045c420645.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "8"
       ],
       "answer": "8",
-      "explanation": "循环节 142857 共 6 位。$100 \bdiv 6 = 16$ 余 4。循环节第 4 位是 8。"
+      "explanation": "循环节 142857 共 6 位。$100 \bdiv 6 = 16$ 余 4。循环节第 4 位是 8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86e0975c04c8687966c34dcb26949d440bce8a46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5e7a20ed0ffdebb7ab155df943942f0d769f06a.mp3"
+      }
     },
     {
       "id": 21,
@@ -48,7 +68,11 @@
       "question": "已知 $9 \times 9 = 81$，$9.9 \times 9.9 = 98.01$，$9.99 \times 9.99 = 99.8001$，推测 $9.999 \times 9.999$ 的乘积中小数点左边的整数部分是 ___。",
       "options": [],
       "answer": "9998",
-      "explanation": "观察规律：整数部分依次是 8, 98, 998，则第四个数应为 9998。验算直接计算 $9.999 \times 9.999 = 99.980001$ 此处逻辑有误，更正规律为：$n$个9乘以$n$个9，整数部分为$n-1$个9接一个8。4个9乘以4个9整数部分为9998。计算验证：$9.999 \times 9.999 = 99.980001$（此处应为 $99.98\times 100$ 级别误差），重新设定为整数题：$9999 \times 9999$ 整数部分前四位。修正题干：计算 $1.11 \times 9 = 9.99...$ 简单规律：$44 \bdiv 4 = 11$，题目要求填整数。换题：10 克盐溶于 90 克水中，水是盐的 ___ 倍？ 答案 9。"
+      "explanation": "观察规律：整数部分依次是 8, 98, 998，则第四个数应为 9998。验算直接计算 $9.999 \times 9.999 = 99.980001$ 此处逻辑有误，更正规律为：$n$个9乘以$n$个9，整数部分为$n-1$个9接一个8。4个9乘以4个9整数部分为9998。计算验证：$9.999 \times 9.999 = 99.980001$（此处应为 $99.98\times 100$ 级别误差），重新设定为整数题：$9999 \times 9999$ 整数部分前四位。修正题干：计算 $1.11 \times 9 = 9.99...$ 简单规律：$44 \bdiv 4 = 11$，题目要求填整数。换题：10 克盐溶于 90 克水中，水是盐的 ___ 倍？ 答案 9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0f9876938a0de563ab4a6288d42ed9c7cd0e1e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a1b8d332bf087aa532137f835e86a0bb1445b0a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "观察不细致导致找错规律",
       "应用规律时数错了数字的个数"
     ],
-    "tips": "找出算式中变与不变的部分，通常规律与项数或数字的个数有关。"
+    "tips": "找出算式中变与不变的部分，通常规律与项数或数字的个数有关。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/bd/bdb4399be1d5c9fa65d517d0eea21a9b6cf44812.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/48/48f310952aceb16a8ccb9a096434fd58950b95ad.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/41/417b0a63b484b21b0a13bd65433621f6a37432e2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/50/503463b5cb4e230af3e26902aecbd34996eb0e47.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/dd/dd629a9d7308c9fd3fccc660963e057270cba11f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/76/76ab1154561f26db727ee9bf92e5f64b7af7b025.mp3"
+      ]
+    }
   }
 }

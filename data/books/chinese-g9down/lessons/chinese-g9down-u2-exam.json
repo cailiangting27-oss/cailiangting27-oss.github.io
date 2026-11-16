@@ -21,7 +21,15 @@
         "需要"
       ],
       "answer": "想要",
-      "explanation": "欲=想要。"
+      "explanation": "欲=想要。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/4803b29e5dca16694fc180c284ce13aee39e7ad9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dba3a3036e763f616238fe210021d11aa822cdcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c353455aa0ac25839a1afb4a6f1d1a0fdc657446.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,

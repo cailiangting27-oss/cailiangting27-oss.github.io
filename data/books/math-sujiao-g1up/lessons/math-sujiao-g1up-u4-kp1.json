@@ -21,7 +21,17 @@
         "后"
       ],
       "answer": "上",
-      "explanation": "国旗在上方。"
+      "explanation": "国旗在上方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74ca9012e7b558a412800191cbe6ee24b1d9742c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b967ce841ad5f9f54aad4985d4e35380997ddda2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6caf2effb1c0ddb386ff14e1278c73187b81815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/073d8528405ef6313994e97e9b09181c166fdefc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b55d5a1d45c0c705965dcee8467712bee07e927.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/1963797a0afe4ba7f5c22539979d45ca23295f05.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "左面"
       ],
       "answer": "后面",
-      "explanation": "前后相对。"
+      "explanation": "前后相对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06f8456460201fe7048b0b26fccf31889dc7ebff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0261030cd30bb4def6bb0fdc7d3cdf0f93d33c83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3503227142793861e1e122802ecbf5101ac4488.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "上和下是相对的。",
       "options": [],
       "answer": "对",
-      "explanation": "相对位置。"
+      "explanation": "相对位置。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fea1fa705593f8b1e2fb6b7e62c9486dab1bfb6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36dc1ce9b82aad1df50d310d907964cd7e5d0211.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "不说参照物就说上下。"
     ],
-    "tips": "先说明以谁为参照。"
+    "tips": "先说明以谁为参照。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/59/59533444b106a9f2fce38ae074b04fbaacca0669.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/79/79f25b944998dcf634c6865d00f031cd0ea6ff51.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/01/01f335661f9b3119a7dc6eeb62d97cc7474f0489.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/af/af952c37fd96a4c14b884595c56bf7c968dc1d8b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/49/495b64705a4fea1e7b75fbe3cdab555d84755888.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "100"
       ],
       "answer": "至少3",
-      "explanation": "放多粒种子可以避免因种子本身发育不良导致实验失败，增加实验的准确性。"
+      "explanation": "放多粒种子可以避免因种子本身发育不良导致实验失败，增加实验的准确性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/221e954ca3e450066e1716cfb1ec9dfb610a060c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/850590c1d743c783e0f4aa02b14692fa1a40844b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/249aeeb8c748ff75c3cac42b0f80238f0d1ab661.mp3"
+      }
     }
   ],
   "knowledge": null

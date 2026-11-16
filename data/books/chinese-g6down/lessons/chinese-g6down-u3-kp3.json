@@ -16,7 +16,11 @@
       "question": "如果一个人心情很好，看镜子里的自己会觉得“面目可憎”。",
       "options": [],
       "answer": "错",
-      "explanation": "心情好时看事物通常是美好的，心情不好时才会觉得平时喜爱的事物也变得烦人或不好看。"
+      "explanation": "心情好时看事物通常是美好的，心情不好时才会觉得平时喜爱的事物也变得烦人或不好看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b286b0d62a81c52aaad0aeec413d2a44905f9674.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0acbc80967e8001d56a56b6a62726ac6859d50c5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "描写环境时过于刻板，习惯性套用好天气就是心情好，坏天气就是心情差。",
       "忽略了通过感官（听觉、嗅觉等）来写环境，只停留在视觉描写。"
     ],
-    "tips": "练习时，可以尝试针对同一个公园写两段话：一段是去郊游时的心情，一段是弄丢东西后的心情。"
+    "tips": "练习时，可以尝试针对同一个公园写两段话：一段是去郊游时的心情，一段是弄丢东西后的心情。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/25/254de0bd5be093ade2c2dc02319e0476bea84f6b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3a/3aa8f18fff9f1297ab8d43aa0ffea29c4dfe42e2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7c/7c5dba394e171d7a2a686ed153d62f7c42051055.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/da/dacf3692e482d98ea477f6688cdb8d27f0f24a62.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d5/d52d4382113078eae82f065ef56def34aaa0874b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/df/dfd7086863719211f623d6306986ab76417590a4.mp3"
+      ]
+    }
   }
 }

@@ -22,7 +22,18 @@
         "彩色的小"
       ],
       "answer": "一只,彩色的小,翠鸟,站在,船头",
-      "explanation": "按照主谓宾结构：一只彩色的小翠鸟（主语）在船头（状语）站着。"
+      "explanation": "按照主谓宾结构：一只彩色的小翠鸟（主语）在船头（状语）站着。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f69db8b06d70ad17cb17aa4c2ad3a7ce6644120.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dba5afabab0b2bd28d361544a16db1a0161c229b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38d57d9aeef71cec86eb02e1ed58074829f3bfea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd99ee94e7b75cca2e014cda1264f7a80610b6c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df5c5e7dc80534368812caa2b879ed93d421f62d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b6639429009f9a53770144f79d26a0c204f47dc.mp3"
+      }
     },
     {
       "id": 23,
@@ -37,7 +48,16 @@
         "傍晚时分"
       ],
       "answer": "傍晚时分,花瓣合拢,草地变绿",
-      "explanation": "按照时间顺序和因果关系排列。"
+      "explanation": "按照时间顺序和因果关系排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2da12977bf08c5f280ae7031df53ea46557a441d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/08effd77a41fb2e6b9019a79bf6dc179c2ffcf1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67e865cc47bf6c23559f225a6c1e1f16564270ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c92bdab0b1d998d0c2c3f7cf5f35a6fe9c2231f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31b08f3aef2be9ba28e585ba3fc8b162df82e902.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "同一棵植物上的叶子也会有大有小。",
       "options": [],
       "answer": "对",
-      "explanation": "受生长位置和时间影响，同一棵植物的叶子也会存在差异。"
+      "explanation": "受生长位置和时间影响，同一棵植物的叶子也会存在差异。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e15408fe0e9d95bb2dd61d62e9f025c0c0198d86.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72534fa9decd2043c0ee0948430a0f940345cff5.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "小雨伞"
       ],
       "answer": "小扇子",
-      "explanation": "银杏叶具有独特的扇形特征。"
+      "explanation": "银杏叶具有独特的扇形特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a57f2178db3eb9ea5e60259e49fc7feb9c3207e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f81940caa8d74510eb4d1cd4be74950aed7aca0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e0fcc9d1af1fbb67ac643a44c3be029b038dca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a5e5e8abe7f1b62d5fc1650e075b6e19c26f14e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68d803507a70961abd70cdf10c85b0ab9ddc2bf4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/803bac8394cec04eb45562a4d1f455b24df4f577.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "羽毛"
       ],
       "answer": "手掌",
-      "explanation": "枫叶由于有多个裂片，看起来很像张开的手拿。"
+      "explanation": "枫叶由于有多个裂片，看起来很像张开的手拿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77236966406fc97c4eabad4d282ae015abc13b10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/128403c2c03296c9b1f30b89d3eff66141bd4142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f4a3d9e9c8062c0abaf1024a42d61f139a8a727.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7fb774d1936df79baae1de5f3fde1477621b036.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82a5582879c2ddbeea9726ecee0ca16c03c29ed2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/087f706da84c40a1b891d1cfe6359b4e9681b1da.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "变成透明"
       ],
       "answer": "变黄或变红",
-      "explanation": "季节更替会改变叶片内色素含量，导致颜色变化。"
+      "explanation": "季节更替会改变叶片内色素含量，导致颜色变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99c663b42a27522a9cb0565f0b2374685e212f0b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd6dda874f53738ff997a820752228ddd307af67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da6ef6c2fc4fdeb4d9fa4f9d955946ddf08e22a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65dd07a69d47a171aaf5ce2ef233c0764d2daacf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1d9e661d9957b54ea53b68f01fa91fb44b8cd0e.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +109,11 @@
       "question": "叶子边缘像锯子一样的小尖尖叫做（）。",
       "options": [],
       "answer": "锯齿",
-      "explanation": "叶缘的一种形态描述，称为锯齿状。"
+      "explanation": "叶缘的一种形态描述，称为锯齿状。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9234af38de1632e5b915124ff4026fc9b1c20c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e2d441d7959fbc0ee2665609e8e7829f2baf1dc.mp3"
+      }
     }
   ],
   "knowledge": null

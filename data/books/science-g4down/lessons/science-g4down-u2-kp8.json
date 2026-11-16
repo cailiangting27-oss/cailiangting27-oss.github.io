@@ -16,7 +16,11 @@
       "question": "人体的导电性能很好，所以湿的手不能去按开关。",
       "options": [],
       "answer": "对",
-      "explanation": "人体和水都是导体，湿手操作开关极易发生触电危险。"
+      "explanation": "人体和水都是导体，湿手操作开关极易发生触电危险。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b583c935da9cfbdbfb822d1538932409259c3d3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae74d9e71db71378df831d21646ae931b82a6ac4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "认为铅笔芯（石墨）是绝缘体",
       "认为干木头湿了也是绝缘体"
     ],
-    "tips": "潮湿的物体往往会变成导体，安全用电务必保持干燥。"
+    "tips": "潮湿的物体往往会变成导体，安全用电务必保持干燥。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/26/2651b3159ef2c360ef9b32da8b9db65073ad461c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/44/44556f0037d87f67affbd5dd786941f7d43d29bb.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d6/d6740f7e4311044c50ecf214bd7f6bbfda8c22a0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/92/92a7cebfeb7f78686a4579064263b4cdeff433b0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/26/26b597ce27f68157cb6544ae3655541bd52f5d38.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8f/8f503a21de4c726f332ac57b44db93bc3a08b2ee.mp3"
+      ]
+    }
   }
 }

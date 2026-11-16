@@ -16,7 +16,11 @@
       "question": "《盘古开天地》中，盘古的双眼变成了太阳和月亮，这体现了神话神奇的想象。",
       "options": [],
       "answer": "对",
-      "explanation": "神话中身体化作万物是夸张且奇特的想象。"
+      "explanation": "神话中身体化作万物是夸张且奇特的想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d3850013647b8035306b11ca30b3c2b75d82634.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41d15ed5565ac1365074ee6cbbacb5b909cfd842.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "普罗米修斯走路"
       ],
       "answer": "女娲用彩色石补天",
-      "explanation": "五彩石补天体现了神话独有的超越自然的想象。"
+      "explanation": "五彩石补天体现了神话独有的超越自然的想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d72cc394a82afbc2afc921cee3fa95b68131bad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/4873e381cd5ea7377b54b35a5788a635fa59aac3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8a3d5959eaa780d695200b71661acd222eab110.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3535b168cecc1261b1fb3d3237331d2bd039ca0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f7c42c2faa6854f2672751ee40fe02287072061.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59aadef000c4f1f43bc916905cd8933418b821c5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "混淆课文原文中的对应关系，如把汗毛变雨露记成汗水变雨露。",
       "认为神话只是胡编乱造，忽略了古代人民对自然现象的诗意解释。"
     ],
-    "tips": "闭上眼模拟盘古顶天立地的动作，联想身体各部位的特点（热、冷、硬、软）来对应自然万物。"
+    "tips": "闭上眼模拟盘古顶天立地的动作，联想身体各部位的特点（热、冷、硬、软）来对应自然万物。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b9/b98896a19f8aa548c9b5f06dad86ebd43b6d027c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/cb/cb7afcff02440d877bdbbb1ca8647d3efa53d382.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/53/534ff7aa498d24931a05f4989af78a8c515f1a77.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/96/96d102ee8bea251e9b40439d8af3cd2ed55bec1c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d3/d3bcbb03cb257fbe9f949d53543bd82b71947f59.mp3",
+        "https://api.clthuanxie.cn/cc-audio/28/286b2311622ecb203976355668b4f419464849fa.mp3"
+      ]
+    }
   }
 }

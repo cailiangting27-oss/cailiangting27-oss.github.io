@@ -16,7 +16,11 @@
       "question": "在 $3 \times 3$ 的方格中，每一行和每一列的数字都不能重复。",
       "options": [],
       "answer": "对",
-      "explanation": "根据数独初步规则，行和列的数字均需不重复。判断正确。"
+      "explanation": "根据数独初步规则，行和列的数字均需不重复。判断正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e171adf9ada25c7e0348ff1329f2a1e3cb83b52.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab5bff60b0376cf913c1a36fc98041352184c51f.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "4"
       ],
       "answer": "3",
-      "explanation": "每一行数字不能重复且包含 1 到 4。已有 1, 2, 4，缺少的数字是 3。"
+      "explanation": "每一行数字不能重复且包含 1 到 4。已有 1, 2, 4，缺少的数字是 3。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58d8ccd726255a4647b9e69a0a2137dd652b08fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfbed61aaf96d5d59fef41b8ad4b64ed8629fcf4.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "根据规则，同一行数字不能重复。既然第二行第一个数已经是 2，第二个数绝对不能再填 2。"
+      "explanation": "根据规则，同一行数字不能重复。既然第二行第一个数已经是 2，第二个数绝对不能再填 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b34f15c14e94afb36de1138a205aa9733c2a52e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6204a7f97980689ab9eb9787f14998f145aa8ff5.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "在一段 3 格的横行里填入 1, 2, 3。第一格填了 1，第三格填了 2，中间那个格应该填 ___。",
       "options": [],
       "answer": "3",
-      "explanation": "一行需有 1, 2, 3 且不重复。已有 1 和 2。中间一格 $3 - 1 - 2 = 0$ 是不对的，应该是剩余数字 3。验算：1, 3, 2 不重复 ✓。"
+      "explanation": "一行需有 1, 2, 3 且不重复。已有 1 和 2。中间一格 $3 - 1 - 2 = 0$ 是不对的，应该是剩余数字 3。验算：1, 3, 2 不重复 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b26951290ee196adde789a175ed58d4e49cd357.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/589f63e2c7d0d1a5aa1b3e003e2a7cb4a434c496.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "只看行不重复，忘记去查列是否有重复数字。",
       "填数顺序混乱，建议从已知数字最多的行或列开始推理。"
     ],
-    "tips": "找交集！找那个既属于某个数字较多行，又属于某个数字较多列的空格入手。"
+    "tips": "找交集！找那个既属于某个数字较多行，又属于某个数字较多列的空格入手。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1f/1fedc8bdaa0c4465f1acd421d5f3a826e05caa39.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2e/2ebba525469d222001771277dab9e956a0f47eee.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/17/177a96cab4414cace0fe446f555b1bdd08e2d852.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f4/f49a1e01d2f948539cc32611f7729dfbc035400b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/38/38df4f28ffd64e8eaf2adfbab3db3dbeed880534.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9a/9a548415fd8bc8e26448fac79ef7d9e2ac09d23a.mp3"
+      ]
+    }
   }
 }

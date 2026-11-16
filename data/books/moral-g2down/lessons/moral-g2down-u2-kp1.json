@@ -21,7 +21,17 @@
         "嘲笑她"
       ],
       "answer": "主动帮忙提一段",
-      "explanation": "邻里之间互相帮助。"
+      "explanation": "邻里之间互相帮助。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df4d602bba690334525fcfa58934efe3803c319f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d028b63fe8ade6ee8efb62563c5bfae7e65b74c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9da9d8df42123e90ff3654f27fbf49423224ca70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/355f8c7c75a57aafc903055d678a9b03af771d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeb43910661e21108cdb7ba849b33ba358666864.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9a698d3b8c99f944b0ee674fefe61c0041b0dae.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "邻里之间见面可以主动打招呼。",
       "options": [],
       "answer": "对",
-      "explanation": "礼貌待人。"
+      "explanation": "礼貌待人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a30e2b9818436cd08f9c3569ed2e529fc0c49866.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75d55557403345c2bea1fe6ae197270ff7fd5f6b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "在楼道里大声喧哗影响邻居。"
     ],
-    "tips": "与邻居和睦相处。"
+    "tips": "与邻居和睦相处。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/97/97b19f2baa90189fe4abef3a9a354aff0e18f12b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a1/a1a9ef39354fcea75b06619141e8669b4999c790.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/da3dfac12377b9e4366e14eb10397f17415a4fb0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/cf/cfe83c74eee3f3fe59b93d87285dae5b13fb5d34.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d5/d59cc283482aaaa2476e54e5785e48750f6adc46.mp3"
+      ]
+    }
   }
 }

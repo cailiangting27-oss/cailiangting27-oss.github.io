@@ -16,7 +16,11 @@
       "question": "'Touch your nose.' 的意思是 '拍拍你的手'。",
       "options": [],
       "answer": "错",
-      "explanation": "Touch your nose 是摸摸你的鼻子。"
+      "explanation": "Touch your nose 是摸摸你的鼻子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/336302beb0f8bebf93ff6dd55a5236e6dda41208.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/856fa236361718dd048c056b19821e6239523444.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "指指眼睛"
       ],
       "answer": "闭上眼睛",
-      "explanation": "close 有关闭的意思，这里指闭眼。"
+      "explanation": "close 有关闭的意思，这里指闭眼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/037af4ef54c6ab817922bc3c91cdd19c29b97388.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45d934f1fa3e6106404f89a43664b69b6f938c1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffba79e172a923b3c7482c927964167a1d086bac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b59a60676c78996b8a6b0631cd6f7d5c5a97a97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3ab1872b54927c31b4363d11f40c1fa8fd7c4161.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34a6e7c1bf8a1a4c43f01f70c66c04aee96d733c.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "Shake your eye."
       ],
       "answer": "Shake your eye.",
-      "explanation": "眼睛不能 shake (摇晃)，通常是 shake your body。"
+      "explanation": "眼睛不能 shake (摇晃)，通常是 shake your body。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38b5070eec698073e48449ba1e36787655aa88ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e019b90f09d8efd63dbf3bb0b353930a2c42978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bf27902408176cc516a2670c839a151bd37f7db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de20a555eaa27f7fba6af08b814eced479eac9cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8b9502408c56ad9b9b2c5007292209d73b57289.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f957f557a17e1adb0db3c468612b02fd6b42ce22.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "________ your body. (扭动/摇晃)",
       "options": [],
       "answer": "shake",
-      "explanation": "Shake your body 是指摇晃身体。"
+      "explanation": "Shake your body 是指摇晃身体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d73e33392bcbd0b0d5d26d6bc10eefa95996aa1a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1ef33e844756742c4be91e6ad240e595ea8ac42.mp3"
+      }
     }
   ],
   "knowledge": null

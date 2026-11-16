@@ -16,7 +16,11 @@
       "question": "比的前项不能为0。",
       "options": [],
       "answer": "错",
-      "explanation": "比的前项相当于除法中的被除数，可以是0；比的后项相当于除数，不能为0。验算：$0:5 = 0 \\div 5 = 0$，结果有意义。"
+      "explanation": "比的前项相当于除法中的被除数，可以是0；比的后项相当于除数，不能为0。验算：$0:5 = 0 \\div 5 = 0$，结果有意义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e4b07349b11e249bac9e3e564ce25c9cbe1ddc5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/deec60a35e6a4fc19f423bc38b0ee03b081fba10.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "小明身高1米，爸爸身高175厘米，小明与爸爸的身高比是1:175。",
       "options": [],
       "answer": "错",
-      "explanation": "求比时单位必须统一。1米=100厘米，比应该是100:175。验算：$100 \\div 175 = 4/7$。"
+      "explanation": "求比时单位必须统一。1米=100厘米，比应该是100:175。验算：$100 \\div 175 = 4/7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec0069a547ee1a559eb15a7518c2c835c3e02fca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/661c49cb59eba0e0e7e14d4608dc33898a3b960b.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "b是比值"
       ],
       "answer": "a是比的前项",
-      "explanation": "比号前面的项叫前项，后面的叫后项，计算结果叫比值。所以a是前项，b是后项，c是比值。"
+      "explanation": "比号前面的项叫前项，后面的叫后项，计算结果叫比值。所以a是前项，b是后项，c是比值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35880030308a91f17efe2c63f2100ab4d2484b87.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c2d90dbbe8b1557194c436f45d11d22f5ed11d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c867a6f18a21acdb3d362113556292c44f97d18e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5cbacc301ab408ed5e42184217dca777e4ac2f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d6f79ad5cf3f3879a0ffd9c407d3efa8367e7a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5f2006d29d0084e8e3c7beb4dd1fe2d25c6c885.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "1/5"
       ],
       "answer": "5",
-      "explanation": "$0.6 \\div 0.12 = 5$。验算：$5 \\times 0.12 = 0.6$ ✓。"
+      "explanation": "$0.6 \\div 0.12 = 5$。验算：$5 \\times 0.12 = 0.6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f126de63283c7112401190e077a8ee0e695212d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b390cd54a0c0d4f27fa7adf23e3c45536e9f37c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aab0c11f992f78a63bdc1caf2da7c6b632a96e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3879cca16cf0adf25e2eb97b7eabab5943809fd.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "8"
       ],
       "answer": "16",
-      "explanation": "前项由5变为15，扩大了3倍。后项8也应扩大3倍变为24。$24 - 8 = 16$。"
+      "explanation": "前项由5变为15，扩大了3倍。后项8也应扩大3倍变为24。$24 - 8 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62397628ffa216032d690eb2c6701db00a6a451a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5f4de19f966a60ad4086422bd2c3bb782fb14a1.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "8:27"
       ],
       "answer": "4:9",
-      "explanation": "面积比是边长比的平方。$2^2 : 3^2 = 4:9$。验算：设边长为2和3，面积为4和9。"
+      "explanation": "面积比是边长比的平方。$2^2 : 3^2 = 4:9$。验算：设边长为2和3，面积为4和9。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4d75343a8ef5a0cedab698ebdbe96d554feed53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a8/a8f53cac4f15e08bac868d52e1d67cbbb43c4885.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd3fe96786fee707e2ce141f8ffa04d74003766.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e173795fe2f5a3ba037e390c09c8cde1ee5d4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29e280a1a300f072370046ef29c9b966b4ad4502.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44b976346a4833e3567b60975274a3141b034f59.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "2000克"
       ],
       "answer": "1000克",
-      "explanation": "$2 \\times 500 = 1000$（克）。验算：2:1000 = 1:500 ✓。"
+      "explanation": "$2 \\times 500 = 1000$（克）。验算：2:1000 = 1:500 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6bd7523c038904c0911f207ee5f1da94630fabb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/2983bd750fcf9300f1f6884369b93b0c41bd6e25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a71a5a43ecd64f49e29474e8240c4c0ba988d7fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3afab0f560f5eb9136bc7b58641471022b826674.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edcc3308f97a0de82e18222de1e8ab9cb72303f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cd5539c1faa0135e0dc5a7e14869a8663e82b24.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "比的前项是 12，比值是 3，比的后项是 ___。",
       "options": [],
       "answer": "4",
-      "explanation": "根据“后项 = 前项 $\\div$ 比值”，$12 \\div 3 = 4$。验算：$12:4 = 3$ ✓。"
+      "explanation": "根据“后项 = 前项 $\\div$ 比值”，$12 \\div 3 = 4$。验算：$12:4 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0591b54b4177060fecf73414b543f7e957aba40b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcb2aaeb28e030bfbe22e8b0e28de5b0be9679a3.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "计算 $84 \\div 12$ 的结果是：",
       "options": [],
       "answer": "7",
-      "explanation": "$84 \\div 12 = 7$。验算：$12 \\times 7 = 84$ ✓。"
+      "explanation": "$84 \\div 12 = 7$。验算：$12 \\times 7 = 84$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1a7c6e515bbba189ac318326c3e60bcfafa67eee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c309eee1f9ec92a0e9c56e6703b44fd939798208.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +206,16 @@
       "将比的后项写为0（比的后项相当于除数，不能为0）",
       "将比值与比的化简混淆（比值是一个数，可以是整数、分数、小数；而比必须带比号）"
     ],
-    "tips": "记忆口诀：比的前项像分子，比的后项像分母，比值就是那个值。"
+    "tips": "记忆口诀：比的前项像分子，比的后项像分母，比值就是那个值。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cd/cda209b58db02c10365f8ce97c75bf63d69e2ba5.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/81/81229e0ebf2716525694b404ee6615f553104663.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/74/7425d4fad287a37880238602c9dbb555a3eb216b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/48/48846b36fd9b66aeed105bccf3e1f92599517f57.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/42/426d0c0e641ccdab4e9a69accfdca4d2d5418c87.mp3",
+        "https://api.clthuanxie.cn/cc-audio/51/5174fe9fa4d63f5571e61bb655c16b6fb96d473a.mp3"
+      ]
+    }
   }
 }

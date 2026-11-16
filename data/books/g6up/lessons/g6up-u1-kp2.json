@@ -16,7 +16,11 @@
       "question": "两个真分数相乘，积一定小于 1。",
       "options": [],
       "answer": "对",
-      "explanation": "真分数小于 1，两个小于 1 的数相乘，积一定比这两个数都小，自然也小于 1。"
+      "explanation": "真分数小于 1，两个小于 1 的数相乘，积一定比这两个数都小，自然也小于 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a461159e4053016c24da450a7dcaebf95abf00d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e996adb3b3ba404be7dd286b2d66eb3fffea64e2.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "$\\frac{8}{16}$"
       ],
       "answer": "$\\frac{1}{4}$",
-      "explanation": "$\\frac{5}{6} \\times \\frac{3}{10} = \\frac{5 \\times 3}{6 \\times 10}$。约分：5和10约分得1和2，3和6约分得1和2，结果为 $\\frac{1 \\times 1}{2 \\times 2} = \\frac{1}{4}$。"
+      "explanation": "$\\frac{5}{6} \\times \\frac{3}{10} = \\frac{5 \\times 3}{6 \\times 10}$。约分：5和10约分得1和2，3和6约分得1和2，结果为 $\\frac{1 \\times 1}{2 \\times 2} = \\frac{1}{4}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7bff52e41f37d0e03e105543aa37a9dc101412c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c339afa03e060d959e4942be7522c0c992f4c41c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f960094315d60883495f9b74148e17487ee9584.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1ff672df3aeb273bac38b0a5beafe67c78a224b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc4c358fed4bc35b902fc23bdc02e8398ccd68a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a54418644f4fc026b7f54fb2d2bac1efd5f2650.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "a < b",
-      "explanation": "因为 $\\frac{1}{2} > \\frac{1}{3}$，要使乘积相等，较小的数应乘较大的分率。所以 $a < b$。"
+      "explanation": "因为 $\\frac{1}{2} > \\frac{1}{3}$，要使乘积相等，较小的数应乘较大的分率。所以 $a < b$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d56c5f99dde6b45d1a4fd834ecfa23f10a421381.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a7baf43aeb04f66e74fdad620a3a19af90a51ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7bad0befbc8e0ccacc6bac449ec6dbf10c151c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8ab0231566ee4efa5453b3956e718294a4004a81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3c8796184e58a34c2d7ec9bdac40f2e0b561dcd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "将分子与分母相加而非相乘",
       "交叉约分时出错，如分子与分子约分"
     ],
-    "tips": "遵循“上乘上，下乘下”，计算前先交叉约分可以大大降低出错率。"
+    "tips": "遵循“上乘上，下乘下”，计算前先交叉约分可以大大降低出错率。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/7f/7f0e67d368ae773ef8331246af0a3b47e312f838.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/53/5387eb818e2d07b7ecde0b8d5f5a16b778830dae.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/62/62c2f64b8b34fd213288582ac146128d1de3b2de.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/75/75c57f6b51c33bf41c3e06470fd10ac7665639df.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/16/1692fde9d5c10015e6430d81ab4cace82185d8a8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b3/b3dbf3bc3caddf2e12caa08fa4a8752485218304.mp3"
+      ]
+    }
   }
 }

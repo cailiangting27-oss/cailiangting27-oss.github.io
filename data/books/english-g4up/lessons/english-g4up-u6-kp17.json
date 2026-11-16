@@ -16,7 +16,11 @@
       "question": "How ______ apples are on the table?",
       "options": [],
       "answer": "many",
-      "explanation": "询问可数名词的数量使用 how many。"
+      "explanation": "询问可数名词的数量使用 how many。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d00fe02a3cd3964adfc10505bae2dabdb8a82e3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c4a8178cffd2a3368cec3c2abdeec00f0bd6e25.mp3"
+      }
     }
   ],
   "knowledge": null

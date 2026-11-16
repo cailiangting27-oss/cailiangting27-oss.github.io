@@ -16,7 +16,11 @@
       "question": "'hospital' 的中文含义是'图书馆'。",
       "options": [],
       "answer": "错",
-      "explanation": "hospital是医院，library是图书馆。"
+      "explanation": "hospital是医院，library是图书馆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79237f886c945f4797ca5388abbb7eecaaf88488.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c24f71458bb70061ebe10a29a503a9329dac17a7.mp3"
+      }
     },
     {
       "id": 19,
@@ -27,7 +31,11 @@
       "question": "I want to buy some books in the ___.",
       "options": [],
       "answer": "bookstore",
-      "explanation": "买书的地方是书店bookstore。"
+      "explanation": "买书的地方是书店bookstore。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffb9f692a2238ef4f8a0b9dffe87a145e0667234.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/182d10741cb1e12725ffbacb3bb270f4b0e36edb.mp3"
+      }
     }
   ],
   "knowledge": null

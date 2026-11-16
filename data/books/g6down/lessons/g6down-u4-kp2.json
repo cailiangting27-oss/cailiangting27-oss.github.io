@@ -16,7 +16,11 @@
       "question": "圆的周长和它的直径成正比例关系。",
       "options": [],
       "answer": "对",
-      "explanation": "圆的周长公式为 $C = \text{π}d$，即 $C \times d = \text{π}$（一定）。比值一定，符合正比例定义。"
+      "explanation": "圆的周长公式为 $C = \text{π}d$，即 $C \times d = \text{π}$（一定）。比值一定，符合正比例定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b962659f3ada390d1c94c620b152c793499e0e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afa09cf8d08dd0b0da5fabb325dc9b53a1642d38.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "无法确定"
       ],
       "answer": "反比例",
-      "explanation": "$\text{底} \times \text{高} \times 2 = \text{面积}$（一定），得出 $\text{底} \times \text{高} = \text{面积} \times 2$（一定），乘积一定成反比例。"
+      "explanation": "$\text{底} \times \text{高} \times 2 = \text{面积}$（一定），得出 $\text{底} \times \text{高} = \text{面积} \times 2$（一定），乘积一定成反比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d0cb2b3a2ab4c319fd290f7961939e50cc24252.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902f36fcbb5b74ae09c57d8ce60c588efebc6d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967bff830f41b434e6dd2aecb1a10a35939b0190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1718749ae1b0f1efac6bf509d5b23b96b55d52f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab1003e6ea08971f3f4f91001419cbed1516859a.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "都不成比例"
       ],
       "answer": "都不成比例",
-      "explanation": "这些关系的共同点是“和”一定，而不是“比值”或“乘积”一定。和一定不成比例。"
+      "explanation": "这些关系的共同点是“和”一定，而不是“比值”或“乘积”一定。和一定不成比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/296052735abd995c80b6ab0e838d2336c12c88ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f425cb74d8c977525f690502b986786972f2b80f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe510c6670d8a62f0c59cb679e7c75baf8b970f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bc1db7d1398c81cef12b2899f333975cc9ff805.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/577d9cfe6ce4645986bd5d8dfbb85c8b671f5f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3d7c9af69690416420268f5792f6a329e18245b.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "正比例",
-      "explanation": "$\text{图上距离} \times \text{实际距离} = \text{比例尺}$（一定），比值一定成正比例。"
+      "explanation": "$\text{图上距离} \times \text{实际距离} = \text{比例尺}$（一定），比值一定成正比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bb1686bbab3f06c1b809ff2016ed5110c07cc39.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902f36fcbb5b74ae09c57d8ce60c588efebc6d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967bff830f41b434e6dd2aecb1a10a35939b0190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1718749ae1b0f1efac6bf509d5b23b96b55d52f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/902c882ca01db96d6b0593e4a6a4e64ea3ca3496.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "误以为“一个量增加，另一个量也增加”就是正比例（如年龄和身高）",
       "把“和一定”的关系误判为反比例"
     ],
-    "tips": "先写出关系式，看是商一定还是积一定。商定正，积定反。"
+    "tips": "先写出关系式，看是商一定还是积一定。商定正，积定反。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8e/8eaeecf7f40005a5ae5bf2524b91809fbe19ec49.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/33/33d2b2b3b415196d43c2d9d60ef99c7f4f79e8db.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/51/5165f0e8cfa34638b82fc46b98736d7051e21097.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/84/84f4b3177fdc2c07bc6fdaad9b9cba9122e1f71e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/47/47a3d194f8aea71d620364faf7393e0fe62450f0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d2/d254f3350d85c826c43cdfc98e15509f155a0018.mp3"
+      ]
+    }
   }
 }

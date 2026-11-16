@@ -16,7 +16,11 @@
       "question": "一共有5个小朋友排队，小明排在第2个，小明后面还有3个人。",
       "options": [],
       "answer": "对",
-      "explanation": "总人数5人，小明是第2个，他前面有1人。后面人数为 $5 - 2 = 3$ 人。验算：$1 + 1 + 3 = 5$ ✓。"
+      "explanation": "总人数5人，小明是第2个，他前面有1人。后面人数为 $5 - 2 = 3$ 人。验算：$1 + 1 + 3 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53a63b6c08b22cb37469ff652902011c3213084b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d04eb3bd01a1d947a94f48c182c173d2190576c.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "5"
       ],
       "answer": "3",
-      "explanation": "这五个数排好序后，3的前面有两个数（1,2），后面也有两个数（4,5），所以3在中间。"
+      "explanation": "这五个数排好序后，3的前面有两个数（1,2），后面也有两个数（4,5），所以3在中间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be6d8982276bb780400f44f6a3931f1562ab6aa0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b644852b22b83ace50cf3538ae7c35c297a10a13.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "4人"
       ],
       "answer": "2人",
-      "explanation": "小红排第3，说明她是第3个，她前面有第1个和第2个，共2个人。"
+      "explanation": "小红排第3，说明她是第3个，她前面有第1个和第2个，共2个人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/656e69141204bad46706610ba11f9434532d10eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33c8d29d4167dc82757bebb885e8530f770c8021.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9de9c132379fdd9cd1d5b039954a866277bfb02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e3ab962cdb975357882ef2d0ba99f5f4e27e7c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec1cd80f4634c2be1632516ea41057fc47762773.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ea73d3d65cd79efc927e132a4124fcf4b964cc9.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "小明家住在第4层，小明家下面有 ___ 层。",
       "options": [],
       "answer": "3",
-      "explanation": "小明家是第4层，在他下面的是第1、2、3层，一共3层。验算：$4 - 1 = 3$ ✓。"
+      "explanation": "小明家是第4层，在他下面的是第1、2、3层，一共3层。验算：$4 - 1 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ae2d1873df87cf8b11fd6ae499a645ee86eb085.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ad8c2e739c0278831816c2a94f91ee86a55a851.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "混淆‘第5个’和‘5个’，认为‘第5个’就是代表5个物体。",
       "数数时漏数或者重复数（点数不一致）。"
     ],
-    "tips": "数数时，手指指着物体，数一个移一个，做到眼、手、口同步。"
+    "tips": "数数时，手指指着物体，数一个移一个，做到眼、手、口同步。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/13/1359a55a5abc96ec46ea8f691370f9c3d124c7e8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b5/b5e5677805773bd52151170d20cbc5edf52b9059.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d9/d9841abe8f5b11edd1177168e8f41d8f54b76874.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d4/d4eab3a9d88bb43dfe54a40b79f4a36e2c0035e0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/20/2091bfdedf76376ed3b3a3cb9f68c84c8788381d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b9/b98a03a37fc256c087354e1000b1df2d8a209c02.mp3"
+      ]
+    }
   }
 }

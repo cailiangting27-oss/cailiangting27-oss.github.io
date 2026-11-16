@@ -16,7 +16,11 @@
       "question": "诗歌通常分行书写，主要是为了节省纸张。",
       "options": [],
       "answer": "错",
-      "explanation": "诗歌分行是为了表现节奏、停顿，增强韵律感和视觉美。"
+      "explanation": "诗歌分行是为了表现节奏、停顿，增强韵律感和视觉美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc816dc1e73a48ad130f0e7f5c251308042a3243.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fcb6978c67a55e3a0d9f45fc501b93ef84b20c2.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "给小草赋予了“胆怯”和“抬头”的人物动作和情感。"
+      "explanation": "给小草赋予了“胆怯”和“抬头”的人物动作和情感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b90b9f3255c77971e1b6230e6994c8ce4392e0cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/141f81d58fba9dfa3803e431d5b37fb03a8295b7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "把诗句改写成白话文时丢掉了原有的韵味",
       "分不清拟人手法与单纯动作描写的区别"
     ],
-    "tips": "关注诗句末尾押韵的字，感受诗歌的音乐美；留意诗中那些‘不寻常’的搭配，如‘绿得发黑’。"
+    "tips": "关注诗句末尾押韵的字，感受诗歌的音乐美；留意诗中那些‘不寻常’的搭配，如‘绿得发黑’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cd/cd9527fb66233901c324a275b7080111892446a7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/91/91a71a8c1a874d4f7e4b68155df071b70932e908.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/67/67b91cff3b1d82673abfa064538df596c2703965.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/db/db74298f4cd94dc7eb4bd88d8ae029888da75ff0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8c/8c64e2301a1a4f63b23981466b56666a52b95743.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c9/c93f12bd36c62e345efb47e1f6266b0388ee8d5f.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,15 @@
         "先增后减"
       ],
       "answer": "增大",
-      "explanation": "电离吸热。"
+      "explanation": "电离吸热。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/60f866f09c5b1aacbd7075a7aab116d97b4505fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd9a217782adf35c360decf3442ddd2f348f5592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "无法判断"
       ],
       "answer": "酸性",
-      "explanation": "pH<7 为酸性。"
+      "explanation": "pH<7 为酸性。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ]
+      }
     },
     {
       "id": 7,

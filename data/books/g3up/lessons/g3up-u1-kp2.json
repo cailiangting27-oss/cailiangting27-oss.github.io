@@ -16,7 +16,11 @@
       "question": "1分等于60秒。",
       "options": [],
       "answer": "对",
-      "explanation": "根据时间单位进率可知，1分=60秒。秒针走1圈（60秒），分针正好走1小格（1分）。"
+      "explanation": "根据时间单位进率可知，1分=60秒。秒针走1圈（60秒），分针正好走1小格（1分）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b6978e2898db9391d5a4a7dda9b0e9b1c7e93a5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b78de2055c1d93407bcfbc8555d2e80d3a3da6cd.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "120秒就是12分。",
       "options": [],
       "answer": "错",
-      "explanation": "1分=60秒，2分=120秒。120秒应该是2分而不是12分。"
+      "explanation": "1分=60秒，2分=120秒。120秒应该是2分而不是12分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68761c2ef18f887f4be8c6502726fac05a315368.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5d4d8469703c50740f39107f5f0e2fdc028387d.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "≈"
       ],
       "answer": ">",
-      "explanation": "1分=60秒，2分=120秒。因为 $120 > 100$，所以 2分 > 100秒。"
+      "explanation": "1分=60秒，2分=120秒。因为 $120 > 100$，所以 2分 > 100秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c138d04819de909f786ed6055e4bf32141595166.mp3",
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/55/55f45903e8c35dccd42c31945cb3946a2b991307.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/337714481d6fef4eaefea747e611f77f7abb4433.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "60秒"
       ],
       "answer": "1秒",
-      "explanation": "时间单位从大到小排列是：时 > 分 > 秒。1分等于60秒。因此1秒最短。"
+      "explanation": "时间单位从大到小排列是：时 > 分 > 秒。1分等于60秒。因此1秒最短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfe409dc6c3be856b3e4a62131624e1d7a6661d7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b449f4fe9d59bcb5e0b8329a77220d6e26c2983.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f86b49d6ffd4e3259826e195b4fff4df80e5d7da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40f215a1cff810d3139e097142bac03e7f034c0e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/225e504b38d08dbf7df54a3d5ba443e9a80c6172.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "300"
       ],
       "answer": "180",
-      "explanation": "1时=60分，3时就是3个60分。$60 + 60 + 60 = 180$ 分。"
+      "explanation": "1时=60分，3时就是3个60分。$60 + 60 + 60 = 180$ 分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fce4e7f3b1978a6dc9fd3a2f2dbb7128a942cb28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e17476db3d64dbb90d88f860ce53e0a3997e1714.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "120"
       ],
       "answer": "40",
-      "explanation": "1分 = 60秒。$60 - 20 = 40$ 秒。"
+      "explanation": "1分 = 60秒。$60 - 20 = 40$ 秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fdc74deb9afe109e1ddd7f1ebdc2a7eb53fc43d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1cba9fbe3cd48cb752ee57debe06746a1f1c67d.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "2分 = ___ 秒。",
       "options": [],
       "answer": "120",
-      "explanation": "1分 = 60秒，2分有2个60秒，$60 + 60 = 120$。因此填120。"
+      "explanation": "1分 = 60秒，2分有2个60秒，$60 + 60 = 120$。因此填120。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb5810b29e6d9f7bb43226efb2e582bd40db321c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/6478536aae4570a01ac675e17671c5f385573818.mp3"
+      }
     },
     {
       "id": 21,
@@ -113,7 +165,11 @@
       "question": "小明每天睡眠 9 小时，9 小时 = ___ 分钟。",
       "options": [],
       "answer": "540",
-      "explanation": "1小时 = 60分。$9 \\times 60 = 540$ 分钟。验算：$540 \\div 60 = 9$ ✓。"
+      "explanation": "1小时 = 60分。$9 \\times 60 = 540$ 分钟。验算：$540 \\div 60 = 9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee4f36f120eb874d51ed098e57af9dc2b11f1fcb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/056cea58071361563aec845571a72ea99aaccb78.mp3"
+      }
     },
     {
       "id": 22,
@@ -124,7 +180,11 @@
       "question": "60 + 60 + 60 = ?",
       "options": [],
       "answer": "180",
-      "explanation": "$60 + 60 + 60 = 180$。验算：$180 \\div 3 = 60$ ✓。该题对应3小时换算为分钟的计算步骤。"
+      "explanation": "$60 + 60 + 60 = 180$。验算：$180 \\div 3 = 60$ ✓。该题对应3小时换算为分钟的计算步骤。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8e8d46543793ae3e06c4ab67e5b07bf87782601.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7295d490d5b1b584c15549b35a65a55454b1ad5.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -135,6 +195,16 @@
       "受十进制影响，错误认为1分=100秒。",
       "换算3时等于多少分时，错误相加得到90分（将60记成30）。"
     ],
-    "tips": "牢记“60”这个关键常数，换算时可以画箭头标记方向。"
+    "tips": "牢记“60”这个关键常数，换算时可以画箭头标记方向。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cc/cc0fad9c4243914dc7293240042885b12b4c8999.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/49/498f8764a5e75d1cdbbc5dc6a0356f469084967e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c9/c9331681bab88454eeae77ccd937cb71b1678667.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3f/3f938570b8e9dc92de1b6b8782bb7761b7c36a20.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d6/d6c8a83a5e81760b26f8cf03c5d8332a7bee9ed2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5a6ed519b43647b9d9651c0e5da211b11d4b6057.mp3"
+      ]
+    }
   }
 }

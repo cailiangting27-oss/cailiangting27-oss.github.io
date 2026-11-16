@@ -21,7 +21,15 @@
         "稀有气体"
       ],
       "answer": "氮气",
-      "explanation": "氮气约占 78%。"
+      "explanation": "氮气约占 78%。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74f2ea55960daef6212e49f18bb2b9ffc64cc24a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b374a6e167d8d7dbc3863aeb77fb7dadf979f203.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5bfbbe8160137bf051d3812951fb0720192679c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6771e0854f2b9502bcba4fd11427b35625eb805.mp3"
+        ]
+      }
     },
     {
       "id": 2,

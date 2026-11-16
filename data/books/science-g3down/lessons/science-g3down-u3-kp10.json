@@ -16,7 +16,11 @@
       "question": "在观察地球仪时，蓝色的部分代表海洋。",
       "options": [],
       "answer": "对",
-      "explanation": "在地图或地球仪上，蓝色通常表示水域或海洋。"
+      "explanation": "在地图或地球仪上，蓝色通常表示水域或海洋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/5351d5cfa2ed1e1317b32a09fa8d6cf1d5f73f9b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a05c032a69000992adb730cb914a68103f1be4a6.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "无法判断"
       ],
       "answer": "海洋面积大",
-      "explanation": "地球表面约71%是海洋，只有29%是陆地。"
+      "explanation": "地球表面约71%是海洋，只有29%是陆地。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8de26bc9bf6c387d2294c344d55882ab05716714.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a32530485066b509df0de92d2c16551bd8994cab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20a6ff532d3414aac0e1215af994ffe0aab4d474.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/840423dc05099bd0a2a2cbf676404eba57d55088.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc51b86e8a459c2c94ac317fdccec468c876a3d1.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -54,7 +54,15 @@
         "催化剂"
       ],
       "answer": "气体生成",
-      "explanation": "气体符号。"
+      "explanation": "气体符号。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1dd3e618c9e2d21a1e53f268703bc8edc8e5e3.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "日食发生时，月球运行到了地球和太阳的中间。",
       "options": [],
       "answer": "对",
-      "explanation": "日食的成因是月球挡住了太阳射向地球的光。"
+      "explanation": "日食的成因是月球挡住了太阳射向地球的光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7c255ba242899578c04ffd3dd9d0012cd9dc22f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2989e357582123957883c2d3e5948c2c480c259.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "二十二"
       ],
       "answer": "初一",
-      "explanation": "日食发生在朔日，即农历初一，此时月球处于日地之间。"
+      "explanation": "日食发生在朔日，即农历初一，此时月球处于日地之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cd7426f1c7d4da3fbb0dad0e03da27cc56427b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d66773c3df12fd02a8cd344e7a364d0f411c77f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0ddfdd43cb5004d69c092da769d6ced849fd32e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a35c2e8d1a4d58775a8c9a15e8b216c8e26ba3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b55a09f75e886aaef06f337202dde1b0ab1989af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8801fb96a782da49599fc98effbf9af55c7b8af5.mp3"
+      }
     },
     {
       "id": 21,
@@ -43,7 +57,11 @@
       "question": "日食发生时，月球的（___）投影在地球表面。",
       "options": [],
       "answer": "影子",
-      "explanation": "日食是因为月球处于日地间，其影子落在地球上产生的现象。"
+      "explanation": "日食是因为月球处于日地间，其影子落在地球上产生的现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc277c70743d5b1d2be7c770c8bab51c261af2c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4be6a7b7972c2becb76a6357525ad8a6f80e7df4.mp3"
+      }
     }
   ],
   "knowledge": null

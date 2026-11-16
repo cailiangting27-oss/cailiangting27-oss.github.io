@@ -25,7 +25,21 @@
         "穿上"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "put on-穿上, take off-脱下, wash-洗, dry-晾干。"
+      "explanation": "put on-穿上, take off-脱下, wash-洗, dry-晾干。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/747d1d19f7de6a307a2ae191df0167b145dd9040.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/9867b6318273f2d11c018d815dd9b97569233d09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0ed89ab3c516c0e45e58a78c58c8dad29006de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6814a21e90f4f5d5637f70c8e3e2568818d5570e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef926a85211da9af3ba5a2a40a60fb7a729d63c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3fb4579e2333e6d362b9bd7bccc7170ebe26bfc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd56476f56c5e26828dc149a656770d1c1b9fe92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d2f09d1df964f7964b2e22fdf5720ed89d9a244.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/367cbbc2d72cec3ddf718407224186459f65bfe0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a36233d08405c45e4edd87227e0005f5f37e24a6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "我们现在测量课桌的长度，全国小朋友用的单位都是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "为了结果一致，必须使用统一的长度单位。"
+      "explanation": "为了结果一致，必须使用统一的长度单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/751e4b8968b966a32b5b468c09b61b4a797013d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0fbd5f3c9c8cf4f97efe4b439cb8aaac6320e4c.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "计算错误"
       ],
       "answer": "手的大小不同",
-      "explanation": "人的手掌各异，标准不统一导致测量结果不同。"
+      "explanation": "人的手掌各异，标准不统一导致测量结果不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c3fee9e897241f3d546bd27043b4e151376b139.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d097d41f3f9b323011bbd30022b3269229d632f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d966160d78bdb688dbfb45fd09e4b3dfe586b1d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/849f223bfe086204e6d9b70415dfcb6913ea50b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0dbd33ae6842fc9c4a47f12b4eff1d745d67dd3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e53a9e15e10ba4f16ffe837648ca162ce52f0dba.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "毫米"
       ],
       "answer": "岁",
-      "explanation": "岁是年龄单位，不是长度单位。"
+      "explanation": "岁是年龄单位，不是长度单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56702e97f20c35ff678f3305f48088849eccc7ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f13375c1dd3d947bbe8c9cf529cb0c2c7eb773.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b9738ac6c94a93e91534bce9400c79e3254bbc8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0681415754207edaddb764851705eec9526b9ea7.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "认为用任何物体测量同一个物体得到的结果数字都应该一样",
       "忽略单位名称直接比较数字大小"
     ],
-    "tips": "想象一下，如果买衣服时裁缝用大的手量，你用小的手量，衣服就不合身了，所以我们要用尺子。"
+    "tips": "想象一下，如果买衣服时裁缝用大的手量，你用小的手量，衣服就不合身了，所以我们要用尺子。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/28/28fa5a43ce3306a68103cef1979253341d38d7dd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3d/3dac1dc13ba5804f3e545f68591e96dadc915a0c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/91/9167124ccf62305bc36497912a72166be0c1f6f2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/af/af77c0fc9424713215dea4d3635a2e792bfa721e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2d/2d1bd6b74e0712b9bfea8f1855c7c4a4e9e22cb4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/98/98d6a24bdb220c238c47cf5076b94d472da35d04.mp3"
+      ]
+    }
   }
 }

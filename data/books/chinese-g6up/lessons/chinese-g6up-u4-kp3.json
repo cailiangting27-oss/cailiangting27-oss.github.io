@@ -16,7 +16,11 @@
       "question": "《穷人》一课中，桑娜的内心矛盾充分展现了她善良淳朴的品质。",
       "options": [],
       "answer": "对",
-      "explanation": "桑娜在生活艰难的情况下收留邻居的孩子，其内心的挣扎更能映衬出品德的高尚。"
+      "explanation": "桑娜在生活艰难的情况下收留邻居的孩子，其内心的挣扎更能映衬出品德的高尚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2bdac437ebfbbd2097faf19b7eafd58857f9678a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/1851b01c3d5828ba1cc9fe86369467141bd8dff3.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "环境描写"
       ],
       "answer": "神态描写反映心理",
-      "explanation": "通过脸色和神态的描写，间接表现了桑娜紧张和担忧的内心世界。"
+      "explanation": "通过脸色和神态的描写，间接表现了桑娜紧张和担忧的内心世界。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff6846cf2504173d113b795aec65469ca9eedaa0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bb13a1b46e021d92f8d4490214df8a1e8ec4fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f43b7b50b40fdcc996d27ef8220f067ed2d69f09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8d9683681dad026da33c97e6cff8617132bd972.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90402fdbca9742f5224a4a5719d16edf6a4c4ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/668d372fe8f76d20fefd13260a46464de403527f.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "‘他会说什么呢？这是闹着玩的吗？自己的五个孩子已经够他受的了……’这里运用了性格描写中的（___）描写。",
       "options": [],
       "answer": "心理",
-      "explanation": "这是典型的内心独白，属于心理描写。"
+      "explanation": "这是典型的内心独白，属于心理描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc68475745f9785b49631553cf56332b1f1aaf50.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d37a98af15f81fde2140aabacf62b9f92039f1f.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +77,17 @@
         "心"
       ],
       "answer": "她的,心,跳得,厉害",
-      "explanation": "考查简单的现代文陈述句语序。"
+      "explanation": "考查简单的现代文陈述句语序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7e9aa46637c0e3c41a5bde1bcc9ebfd0ddda72f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54fe6f6671d757870f861764475efe2e97a12c73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65598d443d03500cada6a9776f3b8ef299215f00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bffa73f7cd89f97b25b6de918ef96f562b7f223.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/481e547b1aa586156baa0d92a5037925b2590215.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/070ecaa42680f04d4fc21ed57ac157ecd45c7cf2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "学生常混淆神态描写与心理描写，如看到‘脸色苍白’就认为是心理描写。",
       "续写小说时，心理描写生硬，只会写‘他想’，不会通过矛盾挣扎来写。"
     ],
-    "tips": "寻找‘……’省略号和问句，这些地方通常是内心犹豫徘徊的真实体现。"
+    "tips": "寻找‘……’省略号和问句，这些地方通常是内心犹豫徘徊的真实体现。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/16/1638c17afcd6d9e13efc181ec88e9335cd4c422a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7e/7ec67043dc6bdef0cf6620dcc1beef3bb21dc9c5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c6/c653ab3b396e43d8dfbd63989854cfa5d014b201.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/97/97bbf67bf976dda91049c17745bcf05ded166e8e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/97/974d5bc9702edb76cc06cd943470e993ff2b1bf2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/de/de43d7e5bdcd233039dd938abb08959e875a5943.mp3"
+      ]
+    }
   }
 }

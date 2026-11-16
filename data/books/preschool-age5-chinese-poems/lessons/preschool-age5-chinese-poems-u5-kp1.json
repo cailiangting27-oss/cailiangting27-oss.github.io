@@ -23,7 +23,12 @@
         "type": "poem",
         "emoji": "📜"
       },
-      "knowledge_point": "画"
+      "knowledge_point": "画",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/0c/0cb175324a91ca0be2120555e1d4ef810c147ccf.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/79/796de5df0c84dc26cf33807a53b99a395ac5521b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c26c7c7e9c003dc32c663494b994d78f2cd963e.mp3"
+      }
     },
     {
       "id": 10,
@@ -41,7 +46,12 @@
         "type": "poem",
         "emoji": "📜"
       },
-      "knowledge_point": "画"
+      "knowledge_point": "画",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/91/91f540bb72c23edd4e66b50d2015e69d70e8ac54.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7895942e7cc44b0087cf3ab59c7c96536221da7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81ccdaa018d3e497f106a2806adbcc1910d3fab3.mp3"
+      }
     }
   ],
   "knowledge": null

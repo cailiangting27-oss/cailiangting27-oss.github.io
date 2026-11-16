@@ -16,7 +16,11 @@
       "question": "每套衣服用布 2.2 米，50 米布最多可以做 23 套衣服。",
       "options": [],
       "answer": "错",
-      "explanation": "$50 \bdiv 2.2 \bdiv 22.72...$ 套。根据生活实际，剩下的布不够做一套，应采用“去尾法”，即只能做 22 套。验算：$22 \times 2.2 = 48.4$ 米，$23 \times 2.2 = 50.6$ 米（布不够）。"
+      "explanation": "$50 \bdiv 2.2 \bdiv 22.72...$ 套。根据生活实际，剩下的布不够做一套，应采用“去尾法”，即只能做 22 套。验算：$22 \times 2.2 = 48.4$ 米，$23 \times 2.2 = 50.6$ 米（布不够）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6899e4aa444b28c8326cab8d687eb0f6b56fc520.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82ba06175f74c35585aeb7f4a86616b601296934.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "15"
       ],
       "answer": "14",
-      "explanation": "$60 \bdiv 4.5 \bdiv 13.33...$ 个。剩下的油也需要一个桶装，所以用“进一法”，$13 + 1 = 14$ 个。"
+      "explanation": "$60 \bdiv 4.5 \bdiv 13.33...$ 个。剩下的油也需要一个桶装，所以用“进一法”，$13 + 1 = 14$ 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a96a188c59d82f5d0dccf0ff73a2db7889e3b78.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8b1376ef21ca64d45aa91b41877425504e47755.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "3.4"
       ],
       "answer": "3.6",
-      "explanation": "$2.5 \bdiv 0.7 \bdiv 3.571$。百分位是 7，四舍五入到十分位应进一，结果为 3.6。"
+      "explanation": "$2.5 \bdiv 0.7 \bdiv 3.571$。百分位是 7，四舍五入到十分位应进一，结果为 3.6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/987c2385f9d5ac855dcd49405dc1f8edc47597f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3e66c166813c6ccb5819daf234787040c248650.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/bac4b03419be9dd1ca94c3c927e170560d480f68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d4fe29b07ccafc2af12770b82c33600ea62b6ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f23a602910dc8852626969ed2cab4934b4ae5d5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8468457bf59293b93d240d6f7ece84ea320ccb30.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "老师准备了 25 个苹果，平均分给 6 个小朋友，每个小朋友最多分到 ___ 个完整的苹果。",
       "options": [],
       "answer": "4",
-      "explanation": "列式：$25 \bdiv 6 = 4.166...$ 个。分苹果必须是整数，且不能多于总数，用去尾法取整为 4。验算：$4 \times 6 = 24 < 25$。"
+      "explanation": "列式：$25 \bdiv 6 = 4.166...$ 个。分苹果必须是整数，且不能多于总数，用去尾法取整为 4。验算：$4 \times 6 = 24 < 25$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3dd4189922ca0dde95d96a31b964a30295245036.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/079005f1db43c4b08dca567b21262449fcd8f5f4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "机械使用四舍五入，忽略生活情境",
       "计算精确位数时没有多算一位便直接取值"
     ],
-    "tips": "分东西、做衣服用“去尾法”；装东西、载人用“进一法”。"
+    "tips": "分东西、做衣服用“去尾法”；装东西、载人用“进一法”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/45/45b93c2ef347b3f7d8637a1888eca08f6e2e153d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b6/b6ee98ae476765c8839036b5a76bd091aa496574.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8f/8fc3f3989b8d6f63b5ca7554ee0fbc118e59e92d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b8/b81ef92d5825c3f49e653bf0b98760856a8cabd2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/28/28e4824eeae704a01b730c62aa43aaf65ef7c47b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c2/c2c3ec7d3416d0238ffa5118e272be9bf518b54f.mp3"
+      ]
+    }
   }
 }

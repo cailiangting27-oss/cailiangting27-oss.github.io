@@ -21,7 +21,17 @@
         "不写作业"
       ],
       "answer": "体谅并自己做力所能及的事",
-      "explanation": "体谅父母。"
+      "explanation": "体谅父母。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab19df3c8b3a7aad8e173e540ac2bc97c1aab8f5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b8367446f2d07cf9570ee06a38ef71b2992dbcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e16297ccb65d421ed4e9d4c1ebd876833b990b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c99fd07b1e446236b2523743f236321d860d7bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e95e9b953923d5b59a88e993d6e9161f103ae929.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6400e41c9cc7d3d196fa8080cceb67c819f5ad3.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "感恩不一定要用昂贵的东西表达。",
       "options": [],
       "answer": "对",
-      "explanation": "贵在心意。"
+      "explanation": "贵在心意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfc9344c2e48959517471d4fde3ddbea3bae7956.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/017890ff4dad3b7ffad15385020d5c0ac36ceece.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "任性要求"
       ],
       "answer": "优异成绩与懂事",
-      "explanation": "懂事是最好的回报。"
+      "explanation": "懂事是最好的回报。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4040900e1d588cf4d4d18c34d792eb822822f531.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a53963d9691496f2c66f31077b11d9a4080b79cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53e428dda9ee07070c9720828a356a46e0d56483.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed74d0ba39ea71351a8da4707e5b9ed968008daf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee0f4a35d1923cfc9865e14385491af0c2b918ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82cfc0278961e4e7788e20bef5a592c877210732.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "家庭成员之间应该相互尊重。",
       "options": [],
       "answer": "对",
-      "explanation": "相互尊重。"
+      "explanation": "相互尊重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/982f76f144b8ed0d60246aae95c0fb6f52dd5f53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc96c51aed5a283c5e5cab01b927b74f806b416d.mp3"
+      }
     }
   ],
   "knowledge": null

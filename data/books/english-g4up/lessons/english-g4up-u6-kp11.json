@@ -21,7 +21,17 @@
         "father"
       ],
       "answer": "uncle",
-      "explanation": "爸爸的兄弟被称为叔叔或伯伯，英文是 uncle。"
+      "explanation": "爸爸的兄弟被称为叔叔或伯伯，英文是 uncle。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c398f5b2e74eceaba208dcb0658fe27204cb3034.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/28909cfb89b135ea1bd6846e24e24a7f3215f6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5afc8df8baab874c14a0f776641edd16d00591f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/980578c262f7bbccbd6cf9696ff451c34321d2c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/4837da2b18ed6434ea5343641ebfcf13a6cdcdda.mp3"
+      }
     }
   ],
   "knowledge": null

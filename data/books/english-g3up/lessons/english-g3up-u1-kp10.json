@@ -21,7 +21,17 @@
         "me"
       ],
       "answer": "your",
-      "explanation": "询问姓名使用形容词性物主代词your（你的）。"
+      "explanation": "询问姓名使用形容词性物主代词your（你的）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ec64ce8d59448b34942268a65e9412e0bf6bb10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6fc13387a075ba84fe6edb9b0bdf7f7b8d8ea2b.mp3"
+      }
     },
     {
       "id": 18,
@@ -32,7 +42,11 @@
       "question": "What is ___ name?",
       "options": [],
       "answer": "your",
-      "explanation": "询问你的姓名：What is your name?"
+      "explanation": "询问你的姓名：What is your name?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75f5e24b2d526c0b37b5e677b4ed9e81f38f0d7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f7ff479f4ef9c770d93841a32c5f61ca9403de0.mp3"
+      }
     },
     {
       "id": 22,
@@ -47,7 +61,16 @@
         "name"
       ],
       "answer": "What's,your,name",
-      "explanation": "询问姓名句式：What's your name?"
+      "explanation": "询问姓名句式：What's your name?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2a8717191203981dff069fe7f11aafb9711d3e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e10af251b6ed2ce34e711496bf02834ee1067ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ae999552a0d2dca14d62e2bc8b764d377b1dd6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5badb2fe3e013e66331d9b56d82545f86caa9027.mp3"
+      }
     }
   ],
   "knowledge": null

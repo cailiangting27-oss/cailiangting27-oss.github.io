@@ -16,7 +16,11 @@
       "question": "'fat' 的意思是 '瘦的'。",
       "options": [],
       "answer": "错",
-      "explanation": "fat意为'胖的'，thin才是'瘦的'。"
+      "explanation": "fat意为'胖的'，thin才是'瘦的'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4650f30c18429bde8f234ecc3bb428f586708ed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08784c143ce51b17d8558e3e47b99f2eb68b6899.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "当我们要说长颈鹿很高时，可以用形容词 'tall'。",
       "options": [],
       "answer": "对",
-      "explanation": "tall用于描述人或动物的身高'高'。"
+      "explanation": "tall用于描述人或动物的身高'高'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bef4c3bee6c625bbe40e89fe1bbc5d6c55f094e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a36de6a2b487607beb587aa5b03d42e3347f55b3.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "'short' 有两个意思：一个是'短的'，一个是'矮的'。",
       "options": [],
       "answer": "对",
-      "explanation": "short既可以描述长度短，也可以描述身高矮。"
+      "explanation": "short既可以描述长度短，也可以描述身高矮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84c36693f7db8e40d0de46a5bf9f85272ffacf0a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6f86ad0e5ed0aa17f95a5af1b6adc6db3b5e8d8.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "short"
       ],
       "answer": "big",
-      "explanation": "大象的体型巨大，通常用big来描述。"
+      "explanation": "大象的体型巨大，通常用big来描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1de0814eb1b7fbd44062479f70d562346153b61c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca10b58bda3d848e9fcd6c6634edb095bb9fb68b.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "thin"
       ],
       "answer": "tall",
-      "explanation": "长颈鹿的特征是高，与后面的short(矮)形成对比。"
+      "explanation": "长颈鹿的特征是高，与后面的short(矮)形成对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3b7863dbe195c0a8c5d77b243b18c65ed587229.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b5fb1c9d70308c44b6bf579a82122981bd37a7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8104eddfa254f0e8d79e44f18fd056421a241f47.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "fat"
       ],
       "answer": "fat",
-      "explanation": "熊猫的体型较圆润胖，与猴子的thin形成对比。"
+      "explanation": "熊猫的体型较圆润胖，与猴子的thin形成对比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36442e75465d87ba844d8a756f381a50c344500a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b5fb1c9d70308c44b6bf579a82122981bd37a7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bffcd310868145e69bf13e66d36214e4f6c29e7.mp3"
+      }
     },
     {
       "id": 14,
@@ -102,7 +144,17 @@
         "fat"
       ],
       "answer": "long",
-      "explanation": "描述身体部位(腿)的长度用long。"
+      "explanation": "描述身体部位(腿)的长度用long。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a11e44a6cd5974aa3a60582e4b5af2acd2fba70.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b5fb1c9d70308c44b6bf579a82122981bd37a7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50884af3a6192c29c8db316841c6d9f58db971ad.mp3"
+      }
     },
     {
       "id": 16,
@@ -113,7 +165,11 @@
       "question": "The elephant has a long nose and a ___ tail.",
       "options": [],
       "answer": "short",
-      "explanation": "大象有长鼻子和短尾巴。"
+      "explanation": "大象有长鼻子和短尾巴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/270bcb7016e0dada0cd425c1be0ce8aae132065e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b735e03842311ff6f395b282c427a10a59fdb430.mp3"
+      }
     },
     {
       "id": 18,
@@ -124,7 +180,11 @@
       "question": "The mouse is small. The elephant is ___.",
       "options": [],
       "answer": "big",
-      "explanation": "small的反义词是big。"
+      "explanation": "small的反义词是big。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5602e5b185bb8799dfde2695001da128c0e15f4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3426e4ab5c0b0985735066b8509198f802dd2d1.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "瘦的"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "tall-高的, thin-瘦的, long-长的, small-小的。"
+      "explanation": "tall-高的, thin-瘦的, long-长的, small-小的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2df58ede07030ee3e33f5cbdc5ea97c4d963d1ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04d4c2a9af8c263a0ea0be34157903a8ed03f3c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43b0e9fe8b0b908847b1c0a83610d94ae1df1069.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de212dd1e7d719557d840c9b7c3039b4455515db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6dc08ba1a20c345947101d4b9fa97cf1121a02e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f8da7202eb3461c20c2cb236a122df4851f4071.mp3"
+      }
     }
   ],
   "knowledge": null

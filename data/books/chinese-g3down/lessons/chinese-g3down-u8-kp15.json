@@ -21,7 +21,17 @@
         "正在锻炼"
       ],
       "answer": "性格急躁",
-      "explanation": "“跳”这个动作细腻地描写出了急性子顾客沉不住气的性格特点。"
+      "explanation": "“跳”这个动作细腻地描写出了急性子顾客沉不住气的性格特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/9268732e8e0901637b05ae500c8983e1ea196645.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a7a9dfdaf460ff1913951d9a2588c81bccb6b6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e27422d9ec3fa985c6d163abcb628807f5638cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/370ebd9ac7fe72857f0806c02f41ee219dfd6c64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9bdcc3685af818c91e2810e6910875e70e22e74.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/768f7224ba9bdf63c545f8455561d3a3b8203b39.mp3"
+      }
     }
   ],
   "knowledge": null

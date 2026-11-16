@@ -21,7 +21,15 @@
         "开方"
       ],
       "answer": "取绝对值",
-      "explanation": "保证为锐角。"
+      "explanation": "保证为锐角。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/24/249fa2320aa4bbca18c437ee5e8626a1abf7d4cb.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": {

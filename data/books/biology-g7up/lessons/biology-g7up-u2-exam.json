@@ -59,7 +59,15 @@
         "毛发"
       ],
       "answer": "毛发",
-      "explanation": "毛发不是植物器官。"
+      "explanation": "毛发不是植物器官。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922d22dd3f7a23b05726e1ce20d5f7f0cf98a087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3",
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

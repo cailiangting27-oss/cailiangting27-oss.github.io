@@ -21,7 +21,17 @@
         "5"
       ],
       "answer": "2",
-      "explanation": "$7 + 5 = 12$，个位满十向十位进 1，个位上写 2。"
+      "explanation": "$7 + 5 = 12$，个位满十向十位进 1，个位上写 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ccdc9346daee1f2fe50e383ce8054de37039de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcceead837f817c46395e5812c2404eca3d32a35.mp3"
+      }
     },
     {
       "id": 18,
@@ -37,7 +47,17 @@
         "$\\frac{5}{9}$"
       ],
       "answer": "$\\frac{3}{9}$",
-      "explanation": "吃了的总份数：$\\frac{2}{9} + \\frac{4}{9} = \\frac{6}{9}$。剩下的份数：$1 - \\frac{6}{9} = \\frac{3}{9}$。验算：$\\frac{2}{9} + \\frac{4}{9} + \\frac{3}{9} = 1$ ✓。"
+      "explanation": "吃了的总份数：$\\frac{2}{9} + \\frac{4}{9} = \\frac{6}{9}$。剩下的份数：$1 - \\frac{6}{9} = \\frac{3}{9}$。验算：$\\frac{2}{9} + \\frac{4}{9} + \\frac{3}{9} = 1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66efdd9ec7b9490cfc14ea106bc414955c7591da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8cc928d2e5e044d3a3e4cc9b56c22e2f26bee3fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/594c8b267069448b58fe77ad60497eb30f763a4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38d66fd28bf3ba8b51c0aee2face90f6ff78f0c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7cee4c1bc083c3979f7ac19ac9f8646a3d0a29e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/115722bfdc36b3a0f5d65f4a06257aca809e8e51.mp3"
+      }
     },
     {
       "id": 21,
@@ -48,7 +68,11 @@
       "question": "一个正方形的周长是 36 厘米，它的边长是 ___ 厘米。",
       "options": [],
       "answer": "9",
-      "explanation": "正方形周长 = 边长 $\\times 4$，所以 边长 = 周长 $\\div 4$。$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$ ✓。"
+      "explanation": "正方形周长 = 边长 $\\times 4$，所以 边长 = 周长 $\\div 4$。$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56d01f2b8b4fd7320051fcbe3a7a0eb6d936c70f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11828759f56b835537ec55554cd27aee60f099d4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "在解决“至少需要几条船”等进一法问题时，忽略了余数部分也需要额外的一份。",
       "逆向推算时，加减法关系搞反。"
     ],
-    "tips": "遇到复杂的应用题，可以尝试画线段图辅助分析，或者先从最末尾的条件往前推算。"
+    "tips": "遇到复杂的应用题，可以尝试画线段图辅助分析，或者先从最末尾的条件往前推算。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/05/05e6ffa72595354ea0d42699e942a7911a223c4d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/10/1000ddc5a53a490aef2a0a624c4a04b4ebc3e863.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/29/29eff94f89dea54337edc42b4e20128dc72d151e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a9/a90635d49bb99d9fc845bb17c66750e6c3e1dcf0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/eb/eb0bb86cf4c8765db00a1fed2c9cb74d09b4718b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/45/45fb22d2ee379f4538b81bddd7f3c8c0de032d83.mp3"
+      ]
+    }
   }
 }

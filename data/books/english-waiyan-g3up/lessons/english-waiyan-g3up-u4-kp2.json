@@ -21,7 +21,17 @@
         "It can't fly."
       ],
       "answer": "It can fly.",
-      "explanation": "can + 原形。"
+      "explanation": "can + 原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96985085073c3f9061c6c99df6e1313113a6ba15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0a0e64ab9929a3373c70fef63ee6db3a82f63fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9ffb1a4ba7c18e68f876f621098afd63f6b14759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b6ab23d346d1f92653c37186a3bfaedde48378a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a06c87de3678101bbc1955e32781b6a4db664233.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a565b48d4704344df5ff67a9dfe6a6611a8ee46.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "far 与 fast 混用。"
     ],
-    "tips": "far 管距离，fast 管速度。"
+    "tips": "far 管距离，fast 管速度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ae/ae6c4f8c9a5d35f156996729b7ed28e8122d331e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/68/68b455c99c56eed3766e56efb9d064ef83de7f2d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/32/32a8da13bd1a123bd73418bb32f219500f8b6621.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/43/433ba76c97ec8d8c58dfce7517ee9f5db7789afa.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7b/7bc2fbca8a5c4372dfade168a5f46ff42605cfe9.mp3"
+      ]
+    }
   }
 }

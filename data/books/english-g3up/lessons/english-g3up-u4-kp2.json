@@ -16,7 +16,11 @@
       "question": "当我们询问离自己较远的动物是什么时，常用问句 'What's that?'。",
       "options": [],
       "answer": "对",
-      "explanation": "that 指代距离说话人较远的人或事物。"
+      "explanation": "that 指代距离说话人较远的人或事物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18b31ddbf133c4e8d48cdd9d9044e310776e227d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a35bf388a82f100524cd8e58dbf07d656751f1a1.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "听到建议 'Act like a tiger.' 时，我们应该模仿老虎的动作。",
       "options": [],
       "answer": "对",
-      "explanation": "Act like... 意为“模仿……做动作”。"
+      "explanation": "Act like... 意为“模仿……做动作”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/640394e0b05975ba002f43fd4c8983776846e3fc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a6373778cd7c9197d22c76ce22a641f8cf5c31f.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "This"
       ],
       "answer": "It's",
-      "explanation": "问句使用What's this/that，回答统一用It's a..."
+      "explanation": "问句使用What's this/that，回答统一用It's a...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/335afba676e0645c408c106afc923e35090101d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3683d0554cb0566d1ea09e88f1975e3362becec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d4519fa2db5dfd2ac331ece6bac94b9573a5910.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7971e6a051104074fdae0f02322417b6eb5695a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/311fc2f54df73b0f8b654f0929679d81648f8cc4.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "I like it."
       ],
       "answer": "Look at that.",
-      "explanation": "Look at... 意为看着某物。"
+      "explanation": "Look at... 意为看着某物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4549d7ef77a1082172b0001f33bb329ab315ae2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c70f07e52993a8604d21a6dbd959b4c88a91944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bface48bc6c6db723d02e7e163a4f3663567863.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c275d81d016bca588c392dd34ef79fd8918f9bf.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "an pig"
       ],
       "answer": "a bear",
-      "explanation": "bear首字母发音为辅音，用冠词a。"
+      "explanation": "bear首字母发音为辅音，用冠词a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3b724fbd9cfb5e216ecd5b74bb74e8093995db8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef60c7a36194ff50bb630cf1ea3f1c271cae1bfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5083264740ec0cfa3d4db05aebea045a14587ea7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4da045cf44f0f1d74d79c66fca0e8ff72dcd425e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2126119752ebc54618dbaad3cc4d572defeec42.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efc10ba669c27767bdff776fab9e4bcbdbae08cb.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "It's a dog."
       ],
       "answer": "It's a bird.",
-      "explanation": "只有bird会飞。"
+      "explanation": "只有bird会飞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b933ef75ae173dc18ba224e06b9ffff6d92d11e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8222d0f631624b48d1441821f74e05ca5211ce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f3552487c983bbfd5fd27a67f4b90755c1ea4bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d70fc3318f0da75fffd1644b13e45d332d28ea11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce4a90d4add471b4ef1de458ed23613baadec0c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce191034abdde0a03c927d5e1a435eb0e0cd3f07.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "How many?"
       ],
       "answer": "What's that?",
-      "explanation": "因为动物园的动物通常在笼内或围栏内，属于稍远距离，用that。"
+      "explanation": "因为动物园的动物通常在笼内或围栏内，属于稍远距离，用that。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8028949a1d2cde3388b3ec8bf366363165eb87a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c0b74c5c4915548f169997ab1cd7913d90c53d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/2669cc23ec9a922ca884004193bd4d8e1e422462.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3031897e282167593fbb4dbe81dc48ebbe9a002d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a2fd45ed29c5b23c092187b67300c75ef3f68a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a482fe670b48ede39301c73ca52e73de10fca1e.mp3"
+      }
     },
     {
       "id": 17,
@@ -118,7 +176,11 @@
       "question": "—What is this? —It ___ a cat.",
       "options": [],
       "answer": "is",
-      "explanation": "It对应的系动词是is。"
+      "explanation": "It对应的系动词是is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb9ccd794d17a91c33ed8f56533b7505745fbbc8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eed7fb3a668c2bbed112baf52f463f95de0fe924.mp3"
+      }
     },
     {
       "id": 21,
@@ -138,7 +200,21 @@
         "看着我。"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "核心常用语匹配。"
+      "explanation": "核心常用语匹配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/efd96f2c43abc9a3ea87a3a1cbc00d99dc48250b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c17f01e88cd1082b2bfcc3b3e782b394c36fccf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89511a76c8cbc174d6fe0018b08443f894e18a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c136f23bd818441f280300044f4204ad0e10cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bface48bc6c6db723d02e7e163a4f3663567863.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9790d587701cce4de0e62974324248d2ff4e921.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a62332d8179e67d09040092da8e80ea1d487232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daa4df048a3360b9c144abb8d675f43b756726a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b34de49b1a0dc1350efd6a23b0c3609802e113fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2cffb31e728f13f995b826aad6402a51aff73bd8.mp3"
+      }
     },
     {
       "id": 22,
@@ -153,7 +229,16 @@
         "is"
       ],
       "answer": "what,is,this",
-      "explanation": "特殊疑问句语序：疑问词+系动词+主语。"
+      "explanation": "特殊疑问句语序：疑问词+系动词+主语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c87e54e94112bf8215efd0571170e99d15ad954.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a110e6b9a361653a042e3f5dfbac4c6105693789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f21260aeab3d5ffbc333fca42fd745c4fba553f3.mp3"
+      }
     },
     {
       "id": 23,
@@ -168,7 +253,16 @@
         "monkey"
       ],
       "answer": "It's,a,monkey",
-      "explanation": "陈述句语序：主谓（缩写）+宾语。"
+      "explanation": "陈述句语序：主谓（缩写）+宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/631b14213e1f25c8d26a54ab5d4a53b94502d50c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab87d24bdc7452e55738deb5f868e1f16dea5ace.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd3f206e2c97ffbc7f166fd14701d409bf73a628.mp3"
+      }
     }
   ],
   "knowledge": null

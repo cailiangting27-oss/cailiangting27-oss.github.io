@@ -16,7 +16,11 @@
       "question": "I am going to the park ____ (明天).",
       "options": [],
       "answer": "tomorrow",
-      "explanation": "明天的英文单词是 tomorrow。"
+      "explanation": "明天的英文单词是 tomorrow。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0ed7caa7e83b7e04d3d643bf79d3a0d74f0a6ad8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b7f86bf626516f47039bca983ec032f470e375d.mp3"
+      }
     }
   ],
   "knowledge": null

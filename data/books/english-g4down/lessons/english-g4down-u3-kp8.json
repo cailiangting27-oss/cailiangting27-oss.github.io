@@ -21,7 +21,17 @@
         "Sorry"
       ],
       "answer": "Yes",
-      "explanation": "肯定回答用Yes, you can。"
+      "explanation": "肯定回答用Yes, you can。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99a5698ee9c41e75344124302e82eae9a52799eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/816c52fd2bdd94a63cd0944823a6c0aa9384c103.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5397e0583f14f6c88de06b1ef28f460a1fb5b0ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0a98216a32426b9e66a4ac1eb6df2e96e1b495c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b11ad7095116515dc8abf12cf29d2b96305e2725.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8a863d6832fcfef3e3f4ce3e9d3d2331663e7fe.mp3"
+      }
     }
   ],
   "knowledge": null

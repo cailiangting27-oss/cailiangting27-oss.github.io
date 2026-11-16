@@ -20,7 +20,16 @@
         "游来游去"
       ],
       "answer": "小鱼,在水里,游来游去",
-      "explanation": "这是典型的主语+地点+动作句式。"
+      "explanation": "这是典型的主语+地点+动作句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83fd9f0b73f3f17b4d21632e2101853b0fc63cf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a178090a63e99ef3cd8dce1dc972f895c70f23c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bda3e7387a32cbf5ed159b3ca54bdf2d153e2fea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f820841098feec8bcf61300bd66d49d1bc3b73d.mp3"
+      }
     },
     {
       "id": 23,
@@ -35,7 +44,16 @@
         "嫩竹子"
       ],
       "answer": "大熊猫,爱吃,嫩竹子",
-      "explanation": "大熊猫是主语，爱吃是动词，嫩竹子是宾语。"
+      "explanation": "大熊猫是主语，爱吃是动词，嫩竹子是宾语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a542644a9bb2241224abc237672077ed0aaac67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/caa7a22040111e9008d2f3dad9a6b6f6fa42539b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a1180ae75e37355ee801be5dd5a9b8a129a8791.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8c98a5a5c5f04a6b97ca7e06107401ea1b01a8f.mp3"
+      }
     }
   ],
   "knowledge": null

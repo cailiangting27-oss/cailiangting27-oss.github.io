@@ -16,7 +16,11 @@
       "question": "当我们观察机械摆钟时，摆针摆动（___）个来回代表经过了一秒钟。",
       "options": [],
       "answer": "1",
-      "explanation": "标准的机械摆钟，一个完整往复代表两个半周期，或特定的一个往复对应秒计。"
+      "explanation": "标准的机械摆钟，一个完整往复代表两个半周期，或特定的一个往复对应秒计。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c38f35d4aea0b62dcb5ca27f836a4b5c1135601.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27999fc5873361a0d27d88936f3b1d0dc8c671cd.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "不需要阳光"
       ],
       "answer": "种类很多",
-      "explanation": "校园内分布着乔木、灌木、草本等多种植物。"
+      "explanation": "校园内分布着乔木、灌木、草本等多种植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56707200ce0012e5c60c0e313f57dac2e72c62e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a6a3a889395054d4f2a13f3cde67125dd668064.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70067b9c0b23967dc361454fa90758fca618c928.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7e5f0f66f7df4ee2c4d8ca2d66796e0d86ca0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43db0768cb53f9dd0959ecf8122d44ed462ae48c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/3167aaf4c302c48fc79f64543365cf49db373310.mp3"
+      }
     }
   ],
   "knowledge": null

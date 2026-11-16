@@ -21,7 +21,15 @@
         "无限不循环小数"
       ],
       "answer": "$-3$",
-      "explanation": "$-3$ 是负整数，属于有理数。"
+      "explanation": "$-3$ 是负整数，属于有理数。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/9d/9de184a51c60ecb15336305dc19456407447b97c.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -32,7 +40,10 @@
       "question": "0 是正数。",
       "options": [],
       "answer": "错",
-      "explanation": "0 既不是正数也不是负数。"
+      "explanation": "0 既不是正数也不是负数。",
+      "audio": {
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/046dc04a297559f4a17f415e0472d20d980ad478.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +53,9 @@
     "common_mistakes": [
       "认为 0 是正数或负数。"
     ],
-    "tips": "0 既不是正数也不是负数。"
+    "tips": "0 既不是正数也不是负数。",
+    "audio": {
+      "tips": "https://api.clthuanxie.cn/cc-audio/04/046dc04a297559f4a17f415e0472d20d980ad478.mp3"
+    }
   }
 }

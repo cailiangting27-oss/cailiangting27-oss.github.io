@@ -21,7 +21,17 @@
         "a potato"
       ],
       "answer": "potatoes",
-      "explanation": "potato的复数通过加es构造。"
+      "explanation": "potato的复数通过加es构造。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00f22e19776fcf5dbfb018db7e42a33daa1af54e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc182bc9d09b51c2afe78eca1cf776b21bb7293d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e2e95f5ad970eadfa7e17eaf73da97024aa5359.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8819d19069fae6b4bac183d1f16553abab16b54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/747f7d3d864b11c79e1bc4eaa1c862cbd4e055e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/458fe949da3109e2d3ac79667549582910d28d2a.mp3"
+      }
     }
   ],
   "knowledge": null

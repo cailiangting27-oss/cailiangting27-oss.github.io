@@ -21,7 +21,15 @@
         "It's five o'clock."
       ],
       "answer": "Class Two, Grade One.",
-      "explanation": "问班级答班级。"
+      "explanation": "问班级答班级。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb0afe2d38690910e4c58c8b4547e8c4ca0728e6.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 3,
@@ -32,7 +40,11 @@
       "question": "How old 用来问年龄。",
       "options": [],
       "answer": "对",
-      "explanation": "问年龄。"
+      "explanation": "问年龄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7b252b3a7a201ab6390e1c5570763e5cf614c7a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07d6faecd8ad5f2337bd21816bf4b0001cfa89d1.mp3"
+      }
     }
   ],
   "knowledge": {

@@ -16,7 +16,11 @@
       "question": "我们从不同的位置观察同一个物体，看到的形状可能是不一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "基本概念：观察位置不同，看到的物体的部位就不同，所以看到的形状往往是不一样的。"
+      "explanation": "基本概念：观察位置不同，看到的物体的部位就不同，所以看到的形状往往是不一样的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce4092c938cf7da1d8975cffd0549319ae780ba4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d510a2c02f487ae1b06d641d0571ab0eb2f44d74.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "四个小朋友围坐在一起观察一个小汽车玩具，他们看到的形状一定都相同。",
       "options": [],
       "answer": "错",
-      "explanation": "围坐意味着位置不同（前、后、左、右），看到的汽车部位（车头、车尾、侧面）是不同的。"
+      "explanation": "围坐意味着位置不同（前、后、左、右），看到的汽车部位（车头、车尾、侧面）是不同的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab68bdcab365b95f5bf1e589dcb5311766fde167.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c9851d15eea98edc2494223c7dc784840d02982.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "上面"
       ],
       "answer": "正面",
-      "explanation": "站在物体正前方，观察到的就是物体的正面。"
+      "explanation": "站在物体正前方，观察到的就是物体的正面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9021f2b34dcf80be4f148db1372e695cca44c86f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70c2195016b7083c06a1c99b45fbcb6bc7d97c04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70aa1101d805f0bd92d99eb59bc4be6fe5b83fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf289e456dafacdf18001855c1384b8945e7dfb1.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "右手"
       ],
       "answer": "背部",
-      "explanation": "在身后观察，看到的是物体的后面（背面）。"
+      "explanation": "在身后观察，看到的是物体的后面（背面）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45029b12a95985bbce5bd218f1ca6f1e6cbf7f38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f883c3e7266d0fca73abb59c8a3e8bb2ef97d0f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d0bee7fe7fc8a77775ebe7efea7bcbe335ecc87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/679cb7928d1a3c1a1261a69d006a93a0b8642e4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01a67595ac5b718e1cdb95fa696be26781896ed4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a7752ae429395eb0dd1c01da5e9d0b2034e1ba5.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "上面"
       ],
       "answer": "后面",
-      "explanation": "树在车后面，小猫在树后面，所以看到的是车或人的后部。"
+      "explanation": "树在车后面，小猫在树后面，所以看到的是车或人的后部。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/108a463a24c3928bb43f29bf0a36ed581b7163a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c61cc16a8e08a58fd0118190b8bb9d3066c40c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67404b82a681410683b73d366d9fd0f4c96a5bc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70aa1101d805f0bd92d99eb59bc4be6fe5b83fec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f9dc2e69564ad62aa0afff1d0d1320734e5a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e4b1170ff044074668077ada945589eb5adb60c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "混淆左、右侧面看到的形状，尤其是带有方向性的物体（如车头朝向）",
       "认为同一个物体无论从哪看形状都应该一样"
     ],
-    "tips": "观察时要通过‘身临其境’的想象，把自己假想成站在那个位置的人，看物体的特征部位在哪里。"
+    "tips": "观察时要通过‘身临其境’的想象，把自己假想成站在那个位置的人，看物体的特征部位在哪里。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cd/cdd56de4bcfe84f096994f1fb6a2d8f4a736b728.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ac/acce493550eeb161aa7c4362780c8418d69b70db.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c4/c4bcf69a79bace425a4eba52b913dcfaa9491902.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/40/40dd6d246506a2c8bd498e40f9e406bf276f1828.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/33/33cc661a4059f1b222a928be022963db342b6945.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4c/4c8f52a7cd894b72832deaac9d93aa53edd02e5c.mp3"
+      ]
+    }
   }
 }

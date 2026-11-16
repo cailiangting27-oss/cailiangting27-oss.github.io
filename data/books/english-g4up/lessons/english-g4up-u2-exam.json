@@ -16,7 +16,11 @@
       "question": "'pencil box' 的意思是'铅笔盒'。",
       "options": [],
       "answer": "对",
-      "explanation": "pencil铅笔，box盒子，组合为铅笔盒。"
+      "explanation": "pencil铅笔，box盒子，组合为铅笔盒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d446e6e7c26a294fab64c58ee2e8ad33c7f50679.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d08128405174b1b15310c033c9ef5af1d00b856c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在 'English book' 前应该使用 'a' 而不是 'an'。",
       "options": [],
       "answer": "错",
-      "explanation": "English以元音音素开头，应用an。"
+      "explanation": "English以元音音素开头，应用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df2af7d68472fe4325f6049a199e52e89af51d4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39694eeaaf8231e09ab8378d71452033cf11412e.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "单词 'pig' 里的字母 'i' 发音是 /aɪ/。",
       "options": [],
       "answer": "错",
-      "explanation": "pig是闭音节，i发短音/ɪ/。"
+      "explanation": "pig是闭音节，i发短音/ɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7adb827d827770ae1903a7b150897301e7dd48bb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0be6f568dd041a769754e2d0690a39b8d5cdd723.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "失物招领处在英语中可以说成 'Lost and Found'。",
       "options": [],
       "answer": "对",
-      "explanation": "固定词组，失物招领。"
+      "explanation": "固定词组，失物招领。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e2408676623a743a5c3edc938d6c8cdc4c18135.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98389b0a3f31864ef94135c5d9c753fd26a0e810.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "orange"
       ],
       "answer": "black and white",
-      "explanation": "常识：大熊猫是黑白相间的。"
+      "explanation": "常识：大熊猫是黑白相间的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83461817dd0b32944a1e641376a2454486d8f37a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/978370619bec400e38bb2f90601c27942e383a17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b840bf086174d61176c9695430659fe63ea46e53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f342e7bb9ab6ad9989529403ca18477049d8a3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/246286996cbf4b5b021eaeabd1d1e3317a745877.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "I"
       ],
       "answer": "my",
-      "explanation": "修饰名词schoolbag应用形容词性物主代词my。"
+      "explanation": "修饰名词schoolbag应用形容词性物主代词my。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dde059f167080a380f5440f1e941c5df91d868f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/838bdfac466b83aaa9413d587f31eddc8df1abcb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "Hello."
       ],
       "answer": "Thank you.",
-      "explanation": "别人帮你找到东西或递给你东西，应说谢谢。"
+      "explanation": "别人帮你找到东西或递给你东西，应说谢谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e321a99363b3fe8323313a5d33455812f2fa6d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00dca65e40e48c2c569b61859d33e4a27363928a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b56d519ccd9e1e5b2a725e186184cdc68de0731.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75618c1fb7096460e7c491d139f1ae57e3113c03.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "big"
       ],
       "answer": "many",
-      "explanation": "提问可数名词（books）的数量用How many。"
+      "explanation": "提问可数名词（books）的数量用How many。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4905ca1f53f116ced137b6eb8770fa6befed77aa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/95c4bea12e4edcf8aad730a222793324dc42c29d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b8ff35cd44b17bd65799cd157380ae659d78b2e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "milk"
       ],
       "answer": "rice",
-      "explanation": "rice符合字母i在开音节中发/aɪ/的规律。"
+      "explanation": "rice符合字母i在开音节中发/aɪ/的规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25199346c09141e65d352e7b57b9f2c279984d68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/69/6939278d66e34fcfb23131504217025e78249a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1451be86dec195d7cc442606c44d545783f5a28.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "apples"
       ],
       "answer": "an apple",
-      "explanation": "apple单数前面用an。"
+      "explanation": "apple单数前面用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d2d5762af2d7cbbc9f5abad1ffcfe0a83727bff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef60c7a36194ff50bb630cf1ea3f1c271cae1bfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efde5f0b5ff895fcca278565e6778bc1b8990e9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76c2436b593f27aa073f0b2404531b8de04a6ae7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7d9e99be3130bd3d24641550c779fc506fb1e1b.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "I have some ______ (糖果) in my hand.",
       "options": [],
       "answer": "candy",
-      "explanation": "candy即可数也可不可数，在此填原形。"
+      "explanation": "candy即可数也可不可数，在此填原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/7977c1dc851c66846a848cb38f30fd671971974a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f696ae5a831ad8c53e9c8d097ebafb1e7d06d53b.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Please ______ me your storybook.",
       "options": [],
       "answer": "show",
-      "explanation": "给我看看..., 动词是show。"
+      "explanation": "给我看看..., 动词是show。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13d0c953627305b0abb281f3aec14b98e2d85aef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8246a81dfbb074425ca4dcedd26d6acf3895828.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "I have ______ (一个) English book.",
       "options": [],
       "answer": "an",
-      "explanation": "English前用an。"
+      "explanation": "English前用an。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f5ca6511debe31e736c322103a80e99fcadfa76.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47af00ad01c5603e411ca55d152d4e4b25759294.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "可爱的"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "考察本单元形容词意义。"
+      "explanation": "考察本单元形容词意义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8890b90c8cd1eceba5572121931b0a55d8f379e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e85183c21f800c0290d27f5c832b77e70a59045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfccc06f14414bff5a59be7fc90abf4404b47fc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c62a1190b91bc6d55417edafa8856c0bd9c93108.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2010281d5053cc58bfd1e227e18c25a20f335f33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/666f7133f23526b1c38f39748ef654acc7f3886e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30b636dc1e047fdf6f900c1807d1e5da63da24d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b04aed9cc8d7d02eba419cc75a8afa977bd19b59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86500b17747d9a454b22f9f1d05957b4950b9d29.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/365b033b369d19076a31d40eaf45a5e2e3a158e7.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "schoolbag"
       ],
       "answer": "My,schoolbag,is,green",
-      "explanation": "主系表结构：我的书包是绿色的。"
+      "explanation": "主系表结构：我的书包是绿色的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/754a8f85d3fc68098dd13767cc7913556dc85c40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e92a15d5dd78974f49420d2215a264bb0b93a55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84be8bfab6a3759a5fe7480e6b4f63540f3271a9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73307931d3dda052e4c365cde819bc04afd95ed8.mp3"
+      }
     }
   ],
   "knowledge": null

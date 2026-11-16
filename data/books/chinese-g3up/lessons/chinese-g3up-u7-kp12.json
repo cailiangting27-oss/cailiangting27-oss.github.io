@@ -25,7 +25,21 @@
         "稀疏"
       ],
       "answer": "A-2,B-1,C-3,D-4",
-      "explanation": "温柔对暴力，幽深对平坦（指地势开阔），快活对忧愁，浓密对稀疏。"
+      "explanation": "温柔对暴力，幽深对平坦（指地势开阔），快活对忧愁，浓密对稀疏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f3e05cc20d4ce9db3cfd8861920d1f8f55e01c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1f98066a3c39519e2df7ee1a67f0fdf857dac25d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d65b1d0d9cb67cf5b15b255bb2fdf5ba16642243.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5a4408ec70528454bfca2810a5ce03171e4cb6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fffa033118cc4547d729df6f6c0ac327b8f6445.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/812bec54f8681824603eaa9640579182a59a8e37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb038a4c801ab1c104837bab9f4d15e95e34c709.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d66f58d1c19e332a3589f0761212cd709a3d13f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fea788743e4bfb5b251826b71940b477aa8fd808.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26700039a7427e01ac3b095883e878e029b41521.mp3"
+      }
     }
   ],
   "knowledge": null

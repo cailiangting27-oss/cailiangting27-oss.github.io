@@ -16,7 +16,11 @@
       "question": "两个异分母分数相加，必须先通分再计算。",
       "options": [],
       "answer": "对",
-      "explanation": "异分母分数的分数单位不同，不能直接相加，必须通分化成同分母分数后再计算。"
+      "explanation": "异分母分数的分数单位不同，不能直接相加，必须通分化成同分母分数后再计算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64a62bc163635003982a6c3b3ca51d705aae30ea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/534d995ecc0712930b6ef5597ea031067642d907.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "\\frac{2}{6}"
       ],
       "answer": "\\frac{5}{6}",
-      "explanation": "通分母为6，$\\frac{3}{6} + \\frac{2}{6} = \\frac{5}{6}$。"
+      "explanation": "通分母为6，$\\frac{3}{6} + \\frac{2}{6} = \\frac{5}{6}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0a6f9f68779a4417ec8596beac702c7690a596c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94b9256e0a6483c8977cf1cc752a60316429e3d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59001262ed1e2633a68d5f2dd3f38de913d2a3db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a063853bdfd761520e06382373fe270b6078994b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f00c0690131c93cc9233d796f6985273a736f0db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/663657164eed419d4a730225ad8306430225b929.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "\\frac{1}{2}"
       ],
       "answer": "\\frac{7}{12}",
-      "explanation": "通分：$\\frac{9}{12} - \\frac{2}{12} = \\frac{7}{12}$。"
+      "explanation": "通分：$\\frac{9}{12} - \\frac{2}{12} = \\frac{7}{12}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79d2320e5a255f022d166950d6cdd07ac30764fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e96e3834ec0ea6160815a745bddeb2d6b72d98d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3c46c882c1edbd973b95209d5d3c3594e7b3085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3401ffe13c937b7d53677635f449532845f1fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb946338365d9781f7d2e9ec692c26702d0ae3a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04b66819056b746b20e9ecb37df46ca45ac7be6c.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "7 米"
       ],
       "answer": "\\frac{7}{10} 米",
-      "explanation": "$1 - \\frac{3}{10} = \\frac{7}{10}$（米）。"
+      "explanation": "$1 - \\frac{3}{10} = \\frac{7}{10}$（米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/5661a5cf99766bbe11693fb23eb136a2b8e8c659.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c701abbce71fa91e11a3c3dc702311a4a66724c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed8b6a8100f6ea9afac8b61ec0fc78785e6ab96e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a54bd68843ff0d54bda59a6e960e6c793d8057fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0d271f9e861554eaa790c4c6e1f8265ae0924d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a1085f2764c3bae6b343f62ad39018e0b080c85.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "无法比较"
       ],
       "answer": "\\frac{3}{4} 大",
-      "explanation": "通分：$\\frac{2}{3}=\\frac{8}{12}$，$\\frac{3}{4}=\\frac{9}{12}$。因为 $9>8$，所以 $\\frac{3}{4}$ 大。"
+      "explanation": "通分：$\\frac{2}{3}=\\frac{8}{12}$，$\\frac{3}{4}=\\frac{9}{12}$。因为 $9>8$，所以 $\\frac{3}{4}$ 大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb557068d39ee9562b3e07fb3ff0e8b3bd3468bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c52f88a4553d5db9182159a3cd684101bbebbb16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12d453566e66c1dd4865ca173a9d04fc32b1bf98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/991d526f499e6376ff4d9d0393c0da80ca218714.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "妈妈买了一个西瓜，爸爸吃了 $\\frac{1}{5}$，小明吃了 $\\frac{2}{5}$，还剩下这个西瓜的几分之几？（填分子的数字，已知分母为 5）结果的分子是 ___。",
       "options": [],
       "answer": "2",
-      "explanation": "西瓜总数为1。列式：$1 - \\frac{1}{5} - \\frac{2}{5} = \\frac{2}{5}$。所以结果的分子是 2。验算：$2/5 + 1/5 + 2/5 = 5/5 = 1$ ✓。"
+      "explanation": "西瓜总数为1。列式：$1 - \\frac{1}{5} - \\frac{2}{5} = \\frac{2}{5}$。所以结果的分子是 2。验算：$2/5 + 1/5 + 2/5 = 5/5 = 1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/7803476ad9835b75b6909d1a92fc3ce9bca2c869.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5399da9803d7d01066b7eeaa0c0d50ec9e6d8a67.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "不通分直接把分子加分子，分母加分母。",
       "通分时只把分母扩大倍数，分子忘记对应扩大倍数。"
     ],
-    "tips": "找公分母时，通常找分母们的最小公倍数，这样计算量最小。"
+    "tips": "找公分母时，通常找分母们的最小公倍数，这样计算量最小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/eb/eb3987e0005a752c0483e3a5e384500e8c53446a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/63/632297399a570f760e5634c961d66d715b0290ba.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/15/1500fc7273c73c2a56d8d518b3f5711c603dd05e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4f/4f4188ab64fa6a3d235aa5e5dbbc2ca5880b87e8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c30088273ca3eaf15e89cde2b74637400383add2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/78/78186b8f9402ed289cb69a3ab94b5bd87431873d.mp3"
+      ]
+    }
   }
 }

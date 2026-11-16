@@ -21,7 +21,17 @@
         "夸张"
       ],
       "answer": "拟人",
-      "explanation": "“笑脸”赋予昙花人的特征。"
+      "explanation": "“笑脸”赋予昙花人的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67da006dc7c0e955764e6780149f17d9771f0ede.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10da45d5513bf0e4ef67c3080f4c99633f3222ae.mp3"
+      }
     }
   ],
   "knowledge": null

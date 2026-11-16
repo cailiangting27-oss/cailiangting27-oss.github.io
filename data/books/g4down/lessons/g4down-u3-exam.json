@@ -16,7 +16,11 @@
       "question": "三个数相加，先把前两个数相加，或者先把后两个数相加，和不变。",
       "options": [],
       "answer": "对",
-      "explanation": "这是加法结合律的文字定义。$a+b+c = (a+b)+c = a+(b+c)$。"
+      "explanation": "这是加法结合律的文字定义。$a+b+c = (a+b)+c = a+(b+c)$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf4469b89c573601dd4198c7a2a07cdaad9a296d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9e2dd2100f12e68cce0d79942f4e12479cd838d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$45 \\times (100 + 1) = 45 \\times 100 + 1$",
       "options": [],
       "answer": "错",
-      "explanation": "分配律应为括号外的数与括号内每一个数分别相乘。应为 $45 \\times 100 + 45 \\times 1$。"
+      "explanation": "分配律应为括号外的数与括号内每一个数分别相乘。应为 $45 \\times 100 + 45 \\times 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba6fbd4a5d96f6190fab0868728c64c2d8b53d9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17397c9e107202d9dfb7a5bb86b4cce484d733c6.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "$356 - 102 = 356 - 100 + 2$",
       "options": [],
       "answer": "错",
-      "explanation": "$356 - 102$ 相当于减去100再减2。应为 $356 - 100 - 2$。"
+      "explanation": "$356 - 102$ 相当于减去100再减2。应为 $356 - 100 - 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f339fb91b0901e7c5d75530fdec5dc08fab37c30.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c539abebe43a6b758c18317957bff4f69f099bf.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "$125 \\times 16 = 125 \\times 8 \\times 2$",
       "options": [],
       "answer": "对",
-      "explanation": "16可以拆解为 $8 \\times 2$，应用结合律先算 $125 \\times 8 = 1000$。"
+      "explanation": "16可以拆解为 $8 \\times 2$，应用结合律先算 $125 \\times 8 = 1000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4ae72db957cb411e81411f345449136358e4f36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0517aae63f4ae90c01cc576f1ebbe301581e4853.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "按顺序计算"
       ],
       "answer": "$(25 \\times 4) \\times (8 \\times 125)$",
-      "explanation": "将 32 拆成 $4 \\times 8$，使 25 找 4，125 找 8，结果是 $100 \\times 1000 = 100000$。"
+      "explanation": "将 32 拆成 $4 \\times 8$，使 25 找 4，125 找 8，结果是 $100 \\times 1000 = 100000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8881c81b12b47181a928f018ce75d863a95d4b22.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae865ce98d7a0defd9cf78e067621b903ec97637.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c8f7b06f9180634b4880dea990903547d5f7dbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a394acc1fee6fceb1d79504f16786b928f6cc13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e8e5540ce8f61d43731ef460fd836b0df3f0bb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bd7ba192364418556c99e764b65a789987663cf.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "以上都不对"
       ],
       "answer": "以上两种都对",
-      "explanation": "第一种用分配律，第二种用结合律，均能达到简算目的。"
+      "explanation": "第一种用分配律，第二种用结合律，均能达到简算目的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc52b3071bfbc24559782239df858e0cd40f8994.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f13a5c4f23a4ef5ba29c63ea193d412d7272caf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17a88a943fbeafbd24f013fcba56d879cd747b17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a41118fbd38477c53eb1b935fe31499d055b765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8899b1d7636939c829b393038390cbf355e896c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d23cf33ea5657a1cebfb186cc0a8c407cc184a40.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "40"
       ],
       "answer": "10",
-      "explanation": "$420 6 7 = 420 42 = 10$。"
+      "explanation": "$420 6 7 = 420 42 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d67f1398c4cdc1c5b15121370645caeb18bdde63.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b87b11e091234e7c8c16dfaa7d19131b299dbea.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "$78 \\times 101 - 78$"
       ],
       "answer": "$78 \\times 100 + 78$",
-      "explanation": "$78 \\times 101 = 78 \\times (100 + 1) = 78 \\times 100 + 78 \\times 1$。"
+      "explanation": "$78 \\times 101 = 78 \\times (100 + 1) = 78 \\times 100 + 78 \\times 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/759fd0d1ddc549030850d7bbb2b466206d3a1a9f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30e878894ab30567845f71da91d00c5584823f89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/797f21f240f50eb862321247c0679be3a2caf48e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/669270c6371077da26a99a543b19297bd829f3fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8780201d2d2ab889566b37f7c7e38b4a2e178ee1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a3a5fe7b99edddfcae5c67fe67f7e389b3eaa5d.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "300"
       ],
       "answer": "240",
-      "explanation": "$5 \\times 12 \\times 4 = 12 \\times (5 \\times 4) = 12 \\times 20 = 240$。"
+      "explanation": "$5 \\times 12 \\times 4 = 12 \\times (5 \\times 4) = 12 \\times 20 = 240$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/2990455a56296ec18e596c718d342fcce0b7d8d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/cae91e45aed80f3a3fe285c3c8c1a7e78d82d473.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edc46c048d7eef27fd54e98802dac1bb8b006393.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "$125 \\times 80 \\times 8$"
       ],
       "answer": "$125 \\times 8 \\times 11$",
-      "explanation": "88 拆成 $8 \\times 11$，应用乘法结合律 $125 \\times 8 = 1000$。"
+      "explanation": "88 拆成 $8 \\times 11$，应用乘法结合律 $125 \\times 8 = 1000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01e572a90a0075cbf7379a199fcea1b2f627a8ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7b11e41659cf91c1103e59ea1eca910f6d9def1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67f878585831516378a47202c1dcaa4bab15f929.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0443d6c7e7063c13d8299738b41f3cb853a3630b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54e77f76441e39b8936ec8987e174abe619da8bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca25f47c9fe6572b05364d4852608e4ac2290733.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "$25 \\times 40 \\times 4$"
       ],
       "answer": "$25 \\times 4 \\times 11$",
-      "explanation": "$25 \\times 4 = 100$，再乘 11 等于 1100，比分配律更口算化。"
+      "explanation": "$25 \\times 4 = 100$，再乘 11 等于 1100，比分配律更口算化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b0b03c6b06839db53a403885955b95c26272196.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e7fdeb76fd25f0df281031aa6983ae7f3d9b59b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5ba6581ae40cf8d3e5e1bb313b6492b361cb42be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8fecbb25f3c12a48203b032835c0754c17b5b2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62cb7f410f2d8560c27b5716a33f9fa364e121b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cb9a1c4632f7fc10e3f746325636484d9767f82.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "800"
       ],
       "answer": "400",
-      "explanation": "$25 \\times 2 \\times 8 = 50 \\times 8 = 400$。"
+      "explanation": "$25 \\times 2 \\times 8 = 50 \\times 8 = 400$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee662448da2cbbc99a44a570cf9165e7c5c28638.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/0688d8c76aef0789de78c4c5588196f470267b27.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "计算 $368 + 231 + 132$。利用加法交换律可以先算 368 + 132，其和是 ___。",
       "options": [],
       "answer": "500",
-      "explanation": "$368 + 132 = 500$。验算：$500 - 132 = 368$ ✓。"
+      "explanation": "$368 + 132 = 500$。验算：$500 - 132 = 368$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23c6c0e871c2e0b3d8dbcf38e4966323874b6ee1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bca02ebfcb2f2927c5cec40b45950a20c70eb27.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "仓库里有 900 袋水泥，第一天运走 248 袋，第二天运走 252 袋。还剩 ___ 袋。",
       "options": [],
       "answer": "400",
-      "explanation": "$900 - (248 + 252) = 900 - 500 = 400$。验算：$400 + 252 + 248 = 900$ ✓。"
+      "explanation": "$900 - (248 + 252) = 900 - 500 = 400$。验算：$400 + 252 + 248 = 900$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d0d7a467e74a2e5c56d038d3e4f8553d1920c93.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd42dd1aa03cf3ceb26c31fd2762c97052520ab1.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "$125 \\times 32 = ?$",
       "options": [],
       "answer": "4000",
-      "explanation": "$125 \\times 8 \\times 4 = 1000 \\times 4 = 4000$。验算：$4000 \\div 32 = 125$ ✓。"
+      "explanation": "$125 \\times 8 \\times 4 = 1000 \\times 4 = 4000$。验算：$4000 \\div 32 = 125$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/393b043ae0745d72494ac99b26b1202530770241.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/253c4f8b99c76a5534dac4391746020b71fe1b57.mp3"
+      }
     }
   ],
   "knowledge": null

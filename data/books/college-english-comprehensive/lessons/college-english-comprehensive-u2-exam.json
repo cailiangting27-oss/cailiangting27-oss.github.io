@@ -48,7 +48,15 @@
         "逐字对应"
       ],
       "answer": "使译文表达完整通顺",
-      "explanation": "增词为使表达自然。"
+      "explanation": "增词为使表达自然。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/e7/e732c164df12e078a4a67e144eb19f533b648241.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 8,

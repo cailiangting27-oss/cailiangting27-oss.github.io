@@ -16,7 +16,11 @@
       "question": "在比较恐龙模型大小时，我们可以直接通过眼睛看一看模型的高矮。",
       "options": [],
       "answer": "对",
-      "explanation": "观察法是最基本的比较方法，可以直接用肉眼判断物体的体型特征。"
+      "explanation": "观察法是最基本的比较方法，可以直接用肉眼判断物体的体型特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4556051bc6fa83defdf3670771461dba645b56b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7dffaaf0c9eb74db113e6e4dec997461f0f70b7.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "完全不需要比较"
       ],
       "answer": "把它们放在同一个水平地面上比较",
-      "explanation": "比较高度时，必须保证起点（零刻度线）在同一水平线上。"
+      "explanation": "比较高度时，必须保证起点（零刻度线）在同一水平线上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/806a21706d0acd331857d6c86c450407d190f2aa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c60bc80f87ea57b989cfc8a351d006c492e5269.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/682e02a5d6e07ef6ef9795f887d4ed586f8b7f6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7269943b80e4f7fcca7e33aa835a5e2fab14ccad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4e4740f9d79a23e4b5b9c2cafa6ce70a1ff0188.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b55f460e8735848730ad5e3e2244b4a975a1a531.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "给两根绳子标记同样的刻度"
       ],
       "answer": "看绳子的包装盒大小",
-      "explanation": "包装盒的大小不代表物体的实际长度。"
+      "explanation": "包装盒的大小不代表物体的实际长度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32be434c10d8cfac441a6b5e7d32c9a9a17c9c54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd1ea0ba229236ae78863af6009c11aa4372a5cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d264865d8c91e7439cf6f04da3248b7e80507a75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c14998ac294ece0e7065ad314e0f679627a4ada0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d105ab9783a8d07638e9d1aa981255eaabbdb62f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/3518ab8fba83ad1c22157464976cd4cd47312f6d.mp3"
+      }
     }
   ],
   "knowledge": null

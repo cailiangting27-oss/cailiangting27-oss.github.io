@@ -21,7 +21,17 @@
         "2 条大船和 5 条小船"
       ],
       "answer": "4 条大船和 2 条小船",
-      "explanation": "方案A：$5 \times 6 + 1 \times 4 = 34$（错误）；方案B：$4 \times 6 + 2 \times 4 = 32$（正确）。"
+      "explanation": "方案A：$5 \times 6 + 1 \times 4 = 34$（错误）；方案B：$4 \times 6 + 2 \times 4 = 32$（正确）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df288440b09774e112ded5df99686173026a8baa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78add660894d1380e4ac2f566e13691489801346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4130ed47dd6251464a99b5f96a890bbb34fecaec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/470b888b9cf97b06ee59fb260ff81687826ebf7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56788311b8216de38a537b1ff7f338731e7c8e4d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/153eed5fce7a68ba674d8a72758aa199ec0bff0e.mp3"
+      }
     },
     {
       "id": 13,
@@ -37,7 +47,17 @@
         "无法比较"
       ],
       "answer": "大船便宜",
-      "explanation": "大船：$30 \times 6 = 5$（元/人），小船：$24 \times 4 = 6$（元/人），$5 < 6$。"
+      "explanation": "大船：$30 \times 6 = 5$（元/人），小船：$24 \times 4 = 6$（元/人），$5 < 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10f2e7db062dcfb6a42d67789dca7ee7314d783f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96eb89f5ce1bf31d32f1ab5ddade940c8a5af4a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/676df0a1618609fd21234a03d1e66f38bdae2a4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a7ac6c0601101df8e7b00503e89dde25089084.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6cffc870fff1545bceb49b50d19464333832f3b.mp3"
+      }
     },
     {
       "id": 21,
@@ -48,7 +68,11 @@
       "question": "老师带 30 名学生去划船，每条船限坐 4 人，至少要租 ___ 条船。",
       "options": [],
       "answer": "8",
-      "explanation": "总人数 = $30 + 1 = 31$（人）。列式：$31 \times 4 = 7 \times \times \times 3$。因为剩下的 3 人也需要 1 条船，所以 $7 + 1 = 8$（条）。"
+      "explanation": "总人数 = $30 + 1 = 31$（人）。列式：$31 \times 4 = 7 \times \times \times 3$。因为剩下的 3 人也需要 1 条船，所以 $7 + 1 = 8$（条）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/601b20ea01a096ce606bb9858115dbef61338ee6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f980ab4c2f281b19016517b5fe50e987e58c4c82.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "只考虑单价便宜的，没考虑到如果留出大量空位反而更贵",
       "计算总人数时漏掉老师或带队人员"
     ],
-    "tips": "先比单价，再算满载，最后微调。如果剩下的位置多，尝试把一条大车换成两条小车试试。"
+    "tips": "先比单价，再算满载，最后微调。如果剩下的位置多，尝试把一条大车换成两条小车试试。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/4331508a69d386c9c48118d8fe382567bc00b755.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/eb/eb857fa0d1f75f8eb5aa91a728eed3fd288225fe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/19/19bbae1bbd2d35e1ce6b1fdb5435d54266decc7d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/00/004449aaaaef23f6336622c051fbcdc2a991b853.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fb/fb1daea12ecb37c18b0294d38a77a6602dbeca9e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a8/a81056a3f5a849eb21b17c6f3e23c23ccfc66baf.mp3"
+      ]
+    }
   }
 }

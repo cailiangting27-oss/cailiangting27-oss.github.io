@@ -16,7 +16,11 @@
       "question": "和别人商量事情时，如果对方不答应，我就应该大声哭闹。",
       "options": [],
       "answer": "错",
-      "explanation": "商量不成功时也要有礼貌，不能哭闹。"
+      "explanation": "商量不成功时也要有礼貌，不能哭闹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec242dffc28284688ede0ee722db52eb18617978.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac8551a579a7c07eb02ee966557c0ff5f3e7dad0.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "喂，送我去明明家。"
       ],
       "answer": "妈妈，我可以去明明家玩一会儿吗？",
-      "explanation": "使用委婉的商量语气和礼貌用语“可以吗”。"
+      "explanation": "使用委婉的商量语气和礼貌用语“可以吗”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdd12e8d4892dac3213a26c9c07fc61103274698.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41a8d1bb3db6353568ec7031d01c440fa282236b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4af777eb5857e447b6901340a055aa4976c42a60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b21f52bd5020fe782f83ac99b666753ff916e682.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c25e285b1f0ae48541effe48d42861e4130eab13.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a14d7bcf990baccd1029952ede9e6aa6a736c4c9.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "抱歉没按时还，能再借我读两天吗？"
       ],
       "answer": "我就不还你了，你能拿我怎么样。",
-      "explanation": "这是不讲理的表现，违背了商量的礼貌原则。"
+      "explanation": "这是不讲理的表现，违背了商量的礼貌原则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9df76712454fffd523fbd9febaaf5d871ab86a5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03e577d0da9f347610bec4c9b614c6a4f48224d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5895fa949637877c04a90867ff97f02ffb7eb02b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dd0225f2f712114242f5ff3d6d35d173321499.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1deb50848e473ef662dc578932e54ec22cf0133.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58f247e4d8ab9a0f90f86d142d0c394d8c5a523c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "语气生硬，把商量变成了命令。",
       "被拒绝后情绪失控，没有耐心地说明理由。"
     ],
-    "tips": "记住“先礼貌，后说理；被拒绝，不可恼”的小口诀。"
+    "tips": "记住“先礼貌，后说理；被拒绝，不可恼”的小口诀。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ff/ff7d054a54dd00a2b650b5ab76af68cd7bca64f9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d5/d54c33765d4cb42ddf6f0e4b108430320730efc8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/66/6606f47a4a50c2172d711fc49dcd06d0c3515795.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ea/eaa8708447fa610371d4b57fc4f8ee50db89d06d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/20/20099bd73f3a0bac572a1538c9fe728e8783e3c4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/df/df3d59ddaee4a63dd123f0ef0bcf415b10d966fd.mp3"
+      ]
+    }
   }
 }

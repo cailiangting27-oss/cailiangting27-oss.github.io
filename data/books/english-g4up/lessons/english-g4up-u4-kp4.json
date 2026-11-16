@@ -16,7 +16,11 @@
       "question": "'study' 的中文意思是 '卧室'。",
       "options": [],
       "answer": "错",
-      "explanation": "study 的意思是书房；卧室应该是 bedroom。"
+      "explanation": "study 的意思是书房；卧室应该是 bedroom。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18c3dc690a499ffef638923c1030f45dbddb2751.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a31b63bfcdfe4f3107e1281795a4e61e3c7a70a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "厨房的英文单词是 'kitchen'。",
       "options": [],
       "answer": "对",
-      "explanation": "kitchen 意为厨房，拼写正确。"
+      "explanation": "kitchen 意为厨房，拼写正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09508c93e0e1cc2718e71066003131965499f7ae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66a0bfe41b215393c616cd8700972aa2fd13514c.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "bedroom"
       ],
       "answer": "living room",
-      "explanation": "根据常识，看电视通常在客厅（living room）。"
+      "explanation": "根据常识，看电视通常在客厅（living room）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/4741a006c5243b2933faa35c4c5516f25c6b715c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2f56c0ac09ef740a2b7c6409b5ef046ae6ccd42f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bfb05496f963647e4d2c8b9a3ba6c0265800b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/122604decb5a6e3989745b352da8004cf940fb21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/009e058c883c683e1330228851ecafe3265c8f51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f00593e7849b679787d3e1daa1b847d283758cc.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "fridge"
       ],
       "answer": "study",
-      "explanation": "阅读通常在书房（study）进行。"
+      "explanation": "阅读通常在书房（study）进行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd558e59096addea1181d86dd29fa3fd19c07f32.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f56c0ac09ef740a2b7c6409b5ef046ae6ccd42f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72bfb05496f963647e4d2c8b9a3ba6c0265800b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a82c7a5e37077d52db198435e33225cfcbf0de6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35c5f7b855740a4d905d7fa7a33bee65e1d8010c.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "are"
       ],
       "answer": "has",
-      "explanation": "It 是第三人称单数，表示“有”要用 has。"
+      "explanation": "It 是第三人称单数，表示“有”要用 has。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f7b2a5a6c3fcc84be5f375dce61fa30f7a1f909.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bd420b1ef340a44dad9c5f0cabf0458fb8fec69.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "Go to the ______ . Take a shower.",
       "options": [],
       "answer": "bathroom",
-      "explanation": "洗澡（take a shower）是在浴室里。"
+      "explanation": "洗澡（take a shower）是在浴室里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9ede780335d7336097879a59da5f194c83af1d09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c98cd85c374babff3c3feeac3223d8d653604bd.mp3"
+      }
     },
     {
       "id": 18,
@@ -97,7 +139,11 @@
       "question": "Go to the ______ . Make a salad.",
       "options": [],
       "answer": "kitchen",
-      "explanation": "做沙拉通常在厨房。"
+      "explanation": "做沙拉通常在厨房。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb22099f41598fe53844a33637a453dc75710817.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e306c385015cd95840743b8c2b873031dccf5d3.mp3"
+      }
     },
     {
       "id": 21,
@@ -117,7 +163,21 @@
         "在窗户旁"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "in the desk-在书桌里, near the window-在窗户旁, on the fridge-在冰箱上, behind the door-在门后。"
+      "explanation": "in the desk-在书桌里, near the window-在窗户旁, on the fridge-在冰箱上, behind the door-在门后。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28d8bc51adc81ad6694a9c590da6b54946bc3b43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cc779d5585d00024e254cf8bc870c3e5d809599.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12403708054cbc5d7afb250406c577ef77a6974d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a37db5acb7e4049dd024b32164d28cc8bfbcfb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b96e1dbf77b2b448f3a35cd14de01a7845ab146f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11b75dbe9c6b2aa315b2f8dd74fb07199cb30fe6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/531db38895a502be8e915dcb7a1ff9cfcc9ffff8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69bf6981c2a5eacd0cb8394ca419f0046137833b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cddc5402f4789cb2dc191049efcb74d90c288f8d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1c6fd41330813a0de5d9f7da124bd0b5037eb4f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "地球家园除了人、动物和植物，还有土壤、岩石和水等。",
       "options": [],
       "answer": "对",
-      "explanation": "地球家园不仅包括生物，也包括非生物环境。"
+      "explanation": "地球家园不仅包括生物，也包括非生物环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/396de007b4614403ef3444e257fd97b7071f88cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08b3067f8df9e100882c74705c3c6fc7ff02a2c5.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "洁白的云朵"
       ],
       "answer": "路边的小草",
-      "explanation": "草具有生长、繁殖等生命特征，属于生物。"
+      "explanation": "草具有生长、繁殖等生命特征，属于生物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/316052a71a2cdd0c6f20ddfb9950c2c7bcf15c8f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/4647d03a57b89efaa9bea12bd572fb77fea968f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27d7b87a36001a37241323be7ca9a28075c3c658.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a0159e2d7c3a63154df3bfd51c8c3fa64a69ae7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b94d11cb20270c30a8d84e709d430e79117d680d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9ca9e8aa6f352dc4f2f7265e8f1c56952975f6e2.mp3"
+      }
     },
     {
       "id": 21,
@@ -43,7 +57,11 @@
       "question": "地球家园中，表面覆盖着许多沙土和碎石的部分叫做（___）。",
       "options": [],
       "answer": "土壤",
-      "explanation": "土壤是地球表面的疏松层。"
+      "explanation": "土壤是地球表面的疏松层。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f68f7e097b6bf707d7781c5ad0c943bd30e34d5c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/423989bdec6ece1608b0d8ab6ffcf201ceace76c.mp3"
+      }
     }
   ],
   "knowledge": null

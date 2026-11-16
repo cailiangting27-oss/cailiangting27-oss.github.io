@@ -16,7 +16,11 @@
       "question": "塑料、木头和陶瓷都是热的良导体。",
       "options": [],
       "answer": "错",
-      "explanation": "塑料、木头和陶瓷导热性能差，属于热的不良导体。"
+      "explanation": "塑料、木头和陶瓷导热性能差，属于热的不良导体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fd877fb74ce732e5af055f9593f1e395dffa6c6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ece28087db5eef2f0a009b5356ac046eb89dad62.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "更加美观"
       ],
       "answer": "防止烫手",
-      "explanation": "木头和塑料是热的不良导体，能减缓热传导。"
+      "explanation": "木头和塑料是热的不良导体，能减缓热传导。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/774fd77d95d6ed06909b2c7407d2bf16a8f9691e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e60ce36849925056733fedc151699108cca9e33b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/564ca9be633f522c2171f109fd29ee5e75a68c23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f06d0caa2f8cf6bb9eb73fe49cb4d949fb6f8d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61becba4e65a1be0eb4c3071b842824dc9838ad4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0ccb0809705afe04373b84e3bab4675df8c949c.mp3"
+      }
     }
   ],
   "knowledge": null

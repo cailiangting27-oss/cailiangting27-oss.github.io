@@ -16,7 +16,11 @@
       "question": "Don't go at a ______ light.",
       "options": [],
       "answer": "red",
-      "explanation": "红灯停，不能走。"
+      "explanation": "红灯停，不能走。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a7fffcde385661781ae08a3eea4dbffbdcce97d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b77961df2d70b7095d5d2fbca823a2a58067a6aa.mp3"
+      }
     }
   ],
   "knowledge": null

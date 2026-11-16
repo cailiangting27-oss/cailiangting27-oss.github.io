@@ -21,7 +21,17 @@
         "did"
       ],
       "answer": "What,did,you,do",
-      "explanation": "特殊疑问句结构：特殊疑问词+did+主语+动词原形？"
+      "explanation": "特殊疑问句结构：特殊疑问词+did+主语+动词原形？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7116e40f27e618afd86c7c78180d28c107d7266.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88b3391947fd894aaa2d2f93d406a663a05112dc.mp3"
+      }
     }
   ],
   "knowledge": null

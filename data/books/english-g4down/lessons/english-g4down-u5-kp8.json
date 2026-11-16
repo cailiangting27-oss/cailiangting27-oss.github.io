@@ -21,7 +21,17 @@
         "wash"
       ],
       "answer": "put on",
-      "explanation": "外面冷，根据常识应该是“穿上”外套。"
+      "explanation": "外面冷，根据常识应该是“穿上”外套。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8027b5c618af4d67aff9c2d2c36bc6882dbe3ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/9867b6318273f2d11c018d815dd9b97569233d09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c0ed89ab3c516c0e45e58a78c58c8dad29006de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80271f9ece264de17a3c9665e1c35f16c86a2625.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6814a21e90f4f5d5637f70c8e3e2568818d5570e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58df2f2e4198519c7f2fba3a458a6a8b343e58bf.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "Please ______ up your clothes.",
       "options": [],
       "answer": "hang",
-      "explanation": "hang up是一个固定短语，意思是“挂起来”。"
+      "explanation": "hang up是一个固定短语，意思是“挂起来”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/678038a3c01d6c6bc3e6cd86df3b15e5e5efbe78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e1c0629a841164e2021104700aab6f1a4c8a869.mp3"
+      }
     }
   ],
   "knowledge": null

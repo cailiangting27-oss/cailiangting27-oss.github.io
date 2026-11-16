@@ -25,7 +25,15 @@
         "红色",
         "黄色"
       ],
-      "knowledge_point": "找颜色"
+      "knowledge_point": "找颜色",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff1ceb185ae95831ce69f7b776edf499429e4cf4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b6b6b599057bb173fd3865dcce9d0c2d37dd992.mp3"
+      }
     },
     {
       "id": 38,
@@ -45,7 +53,15 @@
         "黄色",
         "蓝色"
       ],
-      "knowledge_point": "找颜色"
+      "knowledge_point": "找颜色",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c738cc11c162a7f064b41de2501fd37d2dbe1af3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/121b89217872e4b8b2fabf27a7584120c5f8d1d0.mp3"
+      }
     },
     {
       "id": 39,
@@ -65,7 +81,15 @@
         "蓝色",
         "绿色"
       ],
-      "knowledge_point": "找颜色"
+      "knowledge_point": "找颜色",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d8f8714af1f6276354812b125c248541b03f443.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b69fcf7c395971b75075513ceabbe909cd0ca17.mp3"
+      }
     },
     {
       "id": 40,
@@ -85,7 +109,15 @@
         "绿色",
         "红色"
       ],
-      "knowledge_point": "找颜色"
+      "knowledge_point": "找颜色",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28e7d4c7870b4452e1b0377a8580b2935145dcc5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26d3560de163f7a5b8390053fd7bef5ffdf57f40.mp3"
+      }
     }
   ],
   "knowledge": null

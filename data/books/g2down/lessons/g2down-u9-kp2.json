@@ -21,7 +21,17 @@
         "第四名"
       ],
       "answer": "第一名",
-      "explanation": "乙班不是第一也不是第三，所以乙班是第二。还剩下第一和第三。甲班没得第一，所以甲班是第三。那么丙班就是第一。"
+      "explanation": "乙班不是第一也不是第三，所以乙班是第二。还剩下第一和第三。甲班没得第一，所以甲班是第三。那么丙班就是第一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9d83275aeea417727100109b5b0df8b56f082db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b8b0bdeacff5a0beab61423a78bf2d69f2598c19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/306be33fea8c4bfa97817a97cd11cc4e73d60aca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0ffd8cd118c6677ac9dff32062bd2a6d264c9bfd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9df214ed7f9061db64427e81af28a5ac4e51183.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7ba2124a930608b4984ac5f7cb8cc845286974f.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "一样重"
       ],
       "answer": "乙",
-      "explanation": "丙 > 甲，且 甲 > 乙。所以 丙 > 甲 > 乙。乙最轻。"
+      "explanation": "丙 > 甲，且 甲 > 乙。所以 丙 > 甲 > 乙。乙最轻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32ab87ae3b0ac81f0df4a779badc0eacb3a148c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b85dd8d61a8cfb57f67c0971abd4763193b2f19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3458316756ea82e7351d0af35a972b5a81e50fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c72e61fc706ef838b4ff8ac2a0e6776dc5f6de90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/634b186d1196ce996f2f88cfebc3013bdcc372a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5756c0f893dd7a0b980069727a3c254cd02d8e8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "在一个对象对应了一个属性后，忘记在同行的其他属性格里打“×”。",
       "没有仔细审题，导致勾选的对应关系出错。"
     ],
-    "tips": "要掌握“纵看横看”的技巧，只要某一行出现了一个全对，其余格子必须全是错。"
+    "tips": "要掌握“纵看横看”的技巧，只要某一行出现了一个全对，其余格子必须全是错。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8d/8d387df5c0250d58ea66d186fc0633e27199a603.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/23/23a2d205625bfdff50ac32059e98e8e220bc92ee.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/04/046df7982996f948f66d08fe396555f04dfd7ff2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b4/b4ab8731c59f214c81d92c9a950394fe570f4444.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5d/5d6c70bd814b90d37091258cfc9326a390df1694.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bc/bc6b104af5fee57eecc1a305ec586a710b25c0cd.mp3"
+      ]
+    }
   }
 }

@@ -37,7 +37,15 @@
         "鼠"
       ],
       "answer": "蟹",
-      "explanation": "蟹是节肢动物，无脊椎。"
+      "explanation": "蟹是节肢动物，无脊椎。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/76/76cdb81bb9cc61afc7a841fade3106bea234f3e3.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/fb/fbcd574974fb9825d9ec23acadd347aff3db182e.mp3"
+        ]
+      }
     },
     {
       "id": 7,

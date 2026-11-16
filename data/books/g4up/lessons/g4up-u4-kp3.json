@@ -16,7 +16,11 @@
       "question": "已知总价和单价，要求数量，应用总价除以单价。",
       "options": [],
       "answer": "对",
-      "explanation": "基本数量关系：$单价 \\times 数量 = 总价$。其变式为：$总价 \\div 单价 = 数量$。"
+      "explanation": "基本数量关系：$单价 \\times 数量 = 总价$。其变式为：$总价 \\div 单价 = 数量$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc2cd9e95de2e4802fc80a7c545320cab8dde6a6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e05e42d8c6863a3c18c14438d33e385f82484bbc.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "120 千米/时表示每小时行 120 千米。",
       "options": [],
       "answer": "对",
-      "explanation": "速度单位“千米/时”读作千米每小时，表示单位时间（1小时）内行进的路程。"
+      "explanation": "速度单位“千米/时”读作千米每小时，表示单位时间（1小时）内行进的路程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2d19708aede3f8185dfe57f2ffa9a7c3a2fd427.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2cb4a4ed02e458e3f10150a2e3065940951389b1.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "路程"
       ],
       "answer": "单价",
-      "explanation": "“每升多少钱”是指单位数量的价格，即单价。"
+      "explanation": "“每升多少钱”是指单位数量的价格，即单价。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d61a25ba44de938196370de7a6020fd109175fad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/354d70f7bf6371da28313e4299207bb91b098e97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ae893190360ea3db36361c337f4cb15c6e4b53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b370511a765025f1332303d09ff708f6d13a737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b8e6550234c83f8c285b81491fb48da8adc9a4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fc903fb891115ea214604112fe7052eeab1f33f.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "31 千米/时"
       ],
       "answer": "31 米/秒",
-      "explanation": "速度单位写法：路程单位/时间单位。每秒 31 米写作 31 米/秒。"
+      "explanation": "速度单位写法：路程单位/时间单位。每秒 31 米写作 31 米/秒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a3c614d480fd58d3f570123338c5540b77a24c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17affed7339ae62224145da9010661dd537d067d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/552b1f010dd733c05e424fbcf7fb95a15edd7038.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e81cae56edf5afb93f3ba8eace5cb0bdfc3db9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c47150a441b8b5740fe0ffceeb5ba092a0b36b09.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15748462f01f618da87d4d6b33018d5f64611c7e.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "720 千米/时"
       ],
       "answer": "80 千米/时",
-      "explanation": "$速度 = 路程 \\div 时间 = 240 \\div 3 = 80$（千米/时）。单位必须是复合单位。"
+      "explanation": "$速度 = 路程 \\div 时间 = 240 \\div 3 = 80$（千米/时）。单位必须是复合单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76fd9871f27cc698a270b091c0f2c92ca28215b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4ba0b2e3511e5ae675291240c2e1d66b83e170f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c41d1e07c57ff3dfd3560a3b0f3e457b4b547536.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ec55e864dd05ed7c9809ff4eda33b1ad4b8c041.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d120fefa979b8b12a53bcb6749889e2c534582.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f346fee231991a5b7b87d29093a5708cde9a337f.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "速度"
       ],
       "answer": "速度",
-      "explanation": "单位时间（每分钟）跑过的路程叫做速度。"
+      "explanation": "单位时间（每分钟）跑过的路程叫做速度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1ac8688a9dea5fded8f7ea2b6e9ac4afda0edc45.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b370511a765025f1332303d09ff708f6d13a737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b8e6550234c83f8c285b81491fb48da8adc9a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fdffbb9ed5968bade3a5e66463d1c05fcf4101.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf3fef9de0adb3541ed784745935f1fa0aa7e33e.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +155,17 @@
         "倍数"
       ],
       "answer": "总价",
-      "explanation": "已知单价（125元）和数量（40套），求共需钱数即总价。"
+      "explanation": "已知单价（125元）和数量（40套），求共需钱数即总价。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60012041c8bffd8bdc918b0f8a5f576469ff0544.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/354d70f7bf6371da28313e4299207bb91b098e97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b370511a765025f1332303d09ff708f6d13a737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ae893190360ea3db36361c337f4cb15c6e4b53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc7822df05b0d540f7c89bbce286a9656cca2c7e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8185a931301ecc1b2a690f9b1765fb538e6c0708.mp3"
+      }
     },
     {
       "id": 20,
@@ -118,7 +176,11 @@
       "question": "小明家到学校的路程是 600 米，他每分钟走 50 米，从家走到学校需要 ___ 分钟。",
       "options": [],
       "answer": "12",
-      "explanation": "列式：$600 \\div 50$。计算：$600 \\div 50 = 12$。验算：$50 \\times 12 = 600$ ✓。"
+      "explanation": "列式：$600 \\div 50$。计算：$600 \\div 50 = 12$。验算：$50 \\times 12 = 600$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f682bd24ced5bb72ffbbaa2d883f1a70634ebd1e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e613faeb40f1416e043f525379b696efaef471f0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "写速度单位时，漏写时间单位，如只写“千米”而不写“千米/时”。",
       "三者关系记混，求时间或数量时误用乘法。"
     ],
-    "tips": "记住“路程”和“总价”这两个“大数”通常是用乘法求得的，而其余两个量则是用“大数”除以另一个量。"
+    "tips": "记住“路程”和“总价”这两个“大数”通常是用乘法求得的，而其余两个量则是用“大数”除以另一个量。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3d/3d516e223026702c396f14fbe2dd6dd0f4f8207c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/38/388df052876d6b35a384796bae7f75ac47781cb0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/00/009e92fbdbe960c4b7208f15e346ba553ff13de4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/14/14cac17ee21ff4f86909fa8252104a551116fb9b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/89/895377d111739d727962ab47d3d858d27925c52f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/54/5414854c844d43acf0fef92c9e60b0b19bd85edb.mp3"
+      ]
+    }
   }
 }

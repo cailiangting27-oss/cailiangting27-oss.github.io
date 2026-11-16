@@ -21,7 +21,17 @@
         "duck"
       ],
       "answer": "duck",
-      "explanation": "use, cute, tube 中的 u 发 /juː/，而 duck 中的 u 发 /ʌ/。"
+      "explanation": "use, cute, tube 中的 u 发 /juː/，而 duck 中的 u 发 /ʌ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39882f668561e7b96d6c998c2d20598de8d5aafc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/04489a12bbaa6aebffb61ed2f524424ba8e1147e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c62a1190b91bc6d55417edafa8856c0bd9c93108.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae2f41c62e8be2fcd14fa2072b07e28ca04caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41605fac6a3b088fb812d518844269923d0492b6.mp3"
+      }
     }
   ],
   "knowledge": null

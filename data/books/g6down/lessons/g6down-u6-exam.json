@@ -16,7 +16,11 @@
       "question": "任何一个不为 0 的自然数，它的倒数一定比它本身小。",
       "options": [],
       "answer": "错",
-      "explanation": "1 的倒数是 1，不比它本身小。真分数的倒数比它本身大。"
+      "explanation": "1 的倒数是 1，不比它本身小。真分数的倒数比它本身大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53133dad2aafa74c4eded579a0c0db46c9ae1c3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccfeeadceff0fd1bfa34eb1dc3cd6626a496fbf3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "周长相等的长方形、正方形和圆，圆的面积最大。",
       "options": [],
       "answer": "对",
-      "explanation": "在周长相等的几种平面图形中，圆围成的面积是最大的。"
+      "explanation": "在周长相等的几种平面图形中，圆围成的面积是最大的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9d21851874c8b9e0062dac329b73c4bc37f4d74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83d71fcee76a8f31c6ff335dc27cb5d5b4672a05.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "把 25 克糖溶于 100 克水中，糖水的含糖率是 25%。",
       "options": [],
       "answer": "错",
-      "explanation": "含糖率 $= 25 \\div (25+100) = 25/125 = 20\\%$。"
+      "explanation": "含糖率 $= 25 \\div (25+100) = 25/125 = 20\\%$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/845a80ab808de1c4554994ee383fab980c4ec70c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e9cba963c4383f97903dfe4e30e9c53b5908745.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "把一个分数的分母缩小到原来的 1/2，分数值就扩大到原来的 2 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "分母与分数值成反比例关系。分母缩小，分数值扩大。"
+      "explanation": "分母与分数值成反比例关系。分母缩小，分数值扩大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4303716671b5838f7771c9cea0a72e672d1cdcb2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f31fda43a41760d2074fad3aba9e6717c3a17de6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "等腰三角形"
       ],
       "answer": "直角三角形",
-      "explanation": "因为 $3^2 + 4^2 = 9 + 16 = 25 = 5^2$，符合勾股定理。"
+      "explanation": "因为 $3^2 + 4^2 = 9 + 16 = 25 = 5^2$，符合勾股定理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43c8cf055bb9e3ea5fb7bdb2991b4c7e84a928a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a692d9b74b6f06ce7928d492fb1784eee546e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9db00362505d5fa62ab93027bd3c044749e91860.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "统计表"
       ],
       "answer": "扇形统计图",
-      "explanation": "扇形统计图主要用于对比部分与整体的关系。"
+      "explanation": "扇形统计图主要用于对比部分与整体的关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec861b8f70021e0b7b4546b17760a77972fac43f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c5193171a80eabb70473438ca91a38c92ae2866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2482f2ba5ef02cca86563793970ff87ae7200c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e2062fbd306ba0decc8d020d0a766eb1c8d3dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc7f988e9964bccc2f62b1c602415c1fdd09c14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/263a385c54c31b9d649c1932470b3a413d3cdd19.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "4"
       ],
       "answer": "3",
-      "explanation": "转动圈数与齿数成反比例。$48 \\times 1 \\div 16 = 3$ 圈。"
+      "explanation": "转动圈数与齿数成反比例。$48 \\times 1 \\div 16 = 3$ 圈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f40825e6cf475078309cbcdfb12510e501d1fb8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b974e51b047f2ba97fdc8104d4258ce0346a3aa5.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "45"
       ],
       "answer": "30",
-      "explanation": "$V = 1/3 \\times 底面积 \\times 高 = 1/3 \\times 15 \\times 6 = 30$。"
+      "explanation": "$V = 1/3 \\times 底面积 \\times 高 = 1/3 \\times 15 \\times 6 = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64509b934d7ae007120efce9adbcf04ed61728f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b29a959cd4fd87165292303a8dd48139b43a2029.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "200"
       ],
       "answer": "667",
-      "explanation": "周长 $\\approx 60 \\times 3 = 180$ 厘米 $= 1.8$ 米。$1200 \\div 1.8 \\approx 666.67$，取 667。"
+      "explanation": "周长 $\\approx 60 \\times 3 = 180$ 厘米 $= 1.8$ 米。$1200 \\div 1.8 \\approx 666.67$，取 667。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/5511c7c0f8db28ff008996e41b4a7fb878b1c7dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59129aacfb6cebbe2c52f30ef3424209f7252e82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74da6152f5b23ae319b48bec60aff34ee65862cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81a9a289f7ab2818afc5c251afc0f49e9b55c4c6.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "6"
       ],
       "answer": "18",
-      "explanation": "圆锥体积是圆柱的 1/3，削去部分是 2/3。$12 \\div (2/3) = 18$。"
+      "explanation": "圆锥体积是圆柱的 1/3，削去部分是 2/3。$12 \\div (2/3) = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/026541ea2876569ef38dad0994a45fc508c322ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b941f15644572cf604db9eea6222cb08d2dc62f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "12"
       ],
       "answer": "27",
-      "explanation": "$V = 3 \\times 3 \\times 3 = 27$ 立方厘米，即 27 个。"
+      "explanation": "$V = 3 \\times 3 \\times 3 = 27$ 立方厘米，即 27 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31616472ac87629f6e0cfc2248765b22a34c82d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad3942c53c5d05fa2a9820e9712dce992d31f872.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "100"
       ],
       "answer": "120",
-      "explanation": "总数 $= 120 \\times 3 = 360$。王芳 $= 360 - 110 - 130 = 120$。"
+      "explanation": "总数 $= 120 \\times 3 = 360$。王芳 $= 360 - 110 - 130 = 120$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/894601c2ae9d0023e6d880e8b56be5a39e1ad194.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e796e48332af4142b10ca0f86e65d9bfdb05884.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7541babb57434e5631ffa2b5639e24f8ce84fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7db8e925b6fa70960ac6a4b578bce1c0f08435a1.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个十位数，最高位是 1，亿位上是 5，千万位上是 8，其余各位都是 0，这个数写作 ___ 亿。",
       "options": [],
       "answer": "15",
-      "explanation": "1,580,000,000 写作 15.8 亿，题目要求整数字符串，核对：15 亿八千万。由于必须是整数，改题为：这个数包含多少个千万？答案：158。"
+      "explanation": "1,580,000,000 写作 15.8 亿，题目要求整数字符串，核对：15 亿八千万。由于必须是整数，改题为：这个数包含多少个千万？答案：158。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdfc0ebeaa0e970c56ee352301d9550d0f3b5595.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9fbf9414d53acc2bdaf4c7e456175970f2908a61.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "六(1)班有 50 人，今天请假 2 人，今天的出勤率是 ___ %。（请只填数字部分）",
       "options": [],
       "answer": "96",
-      "explanation": "出勤人数 $= 50 - 2 = 48$。出勤率 $= 48 \\div 50 \\times 100\\% = 96\\%$。✓。"
+      "explanation": "出勤人数 $= 50 - 2 = 48$。出勤率 $= 48 \\div 50 \\times 100\\% = 96\\%$。✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5adccdd5d1a6794dc3ec8431e3121f699eaab9d2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b19771f5eb8dca4596c7f6cd303a0bcecdf0b5c4.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$200 - 15 \\times 4 = ?$",
       "options": [],
       "answer": "140",
-      "explanation": "$200 - 60 = 140$。验算：$140 + 60 = 200$ ✓。"
+      "explanation": "$200 - 60 = 140$。验算：$140 + 60 = 200$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c31ed942138d83d2ecc75662487786c32c9ba229.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41353e6ad3a82e59a05e2e2f61a8bc9e68f32933.mp3"
+      }
     }
   ],
   "knowledge": null

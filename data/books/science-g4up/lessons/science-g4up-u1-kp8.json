@@ -16,7 +16,11 @@
       "question": "鼓膜是非常薄且有弹性的薄膜，即使很轻的声音也会引起它的振动。",
       "options": [],
       "answer": "对",
-      "explanation": "鼓膜的结构特点决定了它能感应声波带来的细微压力变化并产生振动。"
+      "explanation": "鼓膜的结构特点决定了它能感应声波带来的细微压力变化并产生振动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5ef3518f664105d7fdf233a8477987fa9ae23d7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63e89d1aadbf2b6795d1174fc1d3264c808f3bb9.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "耳蜗"
       ],
       "answer": "耳蜗",
-      "explanation": "耳蜗接收听小骨传来的振动并将其转化为大脑能接收的听觉信号。"
+      "explanation": "耳蜗接收听小骨传来的振动并将其转化为大脑能接收的听觉信号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b079c1e64036cc418829b85e8c270cf0c59f466e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4be1ee37c939bb78cb16ad642c841f76b8b64f51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df1498b4b05b0e0a6ff01a2ed2e9ace92d9e56ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db79b84b666cae28ba57b17392bab5baffa22235.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc6386c5f941cc9cd5286dfac13609caef4466e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/5863963dc4b9d4cee2f5a5848caea50e05846f35.mp3"
+      }
     }
   ],
   "knowledge": null

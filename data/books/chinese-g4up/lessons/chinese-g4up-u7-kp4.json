@@ -16,7 +16,11 @@
       "question": "“中华不振”中的“不振”意思是精神不振作。",
       "options": [],
       "answer": "错",
-      "explanation": "在此语境下，“不振”的意思是国家衰败、不振奋，而非单指个人精神状态。"
+      "explanation": "在此语境下，“不振”的意思是国家衰败、不振奋，而非单指个人精神状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1d6fcb505a6e60062e6e302d0fc8eacc05dca6e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cce7a8c983238389a53640b3f1d82a4a9c065346.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“醉卧沙场君莫笑”中的“沙场”指的就是沙漠。",
       "options": [],
       "answer": "错",
-      "explanation": "“沙场”在诗句中特指战场。"
+      "explanation": "“沙场”在诗句中特指战场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7bc90d751049db4c982201ea3851241fa38033d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5650ea1b3791515cd021e7ffe613af7105d5d479.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "妄想(wàng) 气氛(fèn)"
       ],
       "answer": "纠缠(chán) 宁可(nìng)",
-      "explanation": "崛读jué，签读qiān是对的，宁读nìng也是对的，氛读fēn。"
+      "explanation": "崛读jué，签读qiān是对的，宁读nìng也是对的，氛读fēn。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0feaaca00d646225b30c4e2e614fdf875fa2708c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/800806e6ca5dd7b39e64f6e2e5d7083b63e9bff8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/153e441ff3bb4c02bb3ab59a9c41b1f47684674d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1d4db8e68cd9d8b481dc95bc69204ed9edba407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f235c634fbffa0582e2c4a3c8148f02a21e97dd8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc20d9fe63192e146ca13d52a27b63959f2f52f1.mp3"
+      }
     },
     {
       "id": 17,
@@ -54,7 +72,11 @@
       "question": "“为中华之崛起而读书”中的“崛起”一词的意思是（   ）。",
       "options": [],
       "answer": "兴起",
-      "explanation": "崛起始指山峰突起，这引申为国家兴盛。"
+      "explanation": "崛起始指山峰突起，这引申为国家兴盛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10699d6fcd99c5d6ee4809227877f67d18a13a13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12fd802fe17b024299e00ca9c07d6c7a5e6ea4f2.mp3"
+      }
     },
     {
       "id": 21,
@@ -74,7 +96,21 @@
         "搅扰"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "坚定-坚决；清晰-清楚；妄想-痴心妄想；纠缠-搅扰。"
+      "explanation": "坚定-坚决；清晰-清楚；妄想-痴心妄想；纠缠-搅扰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f5fdae338bb8fe86c75cc3290b84e0203adbef2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c15d279877ff9fefc1382b05e994a8c5b69ce5c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18a72ea003b5df1f70ea1d3670cdaaf15a4f18a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c55085b998732d97980f4f01bbe2e84cd9947f9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16a033b2d016a0d843b1d193fd1cfffadcac9bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47849dadc8c02f14462e6c2a06b082a7caac6755.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0269d9c98c52667c23bef8292d21d1afb2df8ecb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13da3358c0d8f887f2a941c9b10a9851a8ee5535.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b269a88399366938d30c7a6a3b158048ed08dc1d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74ac06218069fb67d2bdf8addcad6cc5c8893d1d.mp3"
+      }
     }
   ],
   "knowledge": null

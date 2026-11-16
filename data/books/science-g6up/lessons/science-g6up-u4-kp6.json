@@ -16,7 +16,11 @@
       "question": "小电动机里的转子其实是一个电磁铁。",
       "options": [],
       "answer": "对",
-      "explanation": "小电动机的转子由铁芯、线圈和换向器组成，本质上就是一个电磁铁。"
+      "explanation": "小电动机的转子由铁芯、线圈和换向器组成，本质上就是一个电磁铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69cfd473217fcf841715f5c5b666143c334f3f93.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/95fce6363120b158871a9b6d91e61d8685c4bbed.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "换向器"
       ],
       "answer": "换向器",
-      "explanation": "换向器的作用是每转动半周改变一次线圈中的电流方向。"
+      "explanation": "换向器的作用是每转动半周改变一次线圈中的电流方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8ea6bc80e906e6bd89e8b47c12eb5daa1eb0c56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9b5bdeededd65c79e70054cc83f0870096bc89a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f019ca4b0e6ab71676fe9e6da53cc189a0bacb63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c62d4162f7861b330362371e70e7b700b0467b6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a37f888c6ba92985e03e6b0c6272163e7c65716.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0dd6425500cac27e7e583bc4a0f198e6aafa8462.mp3"
+      }
     }
   ],
   "knowledge": null

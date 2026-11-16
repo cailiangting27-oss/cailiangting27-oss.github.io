@@ -16,7 +16,11 @@
       "question": "“日”和“月”组合在一起变成“明”，意思是亮晶晶的。",
       "options": [],
       "answer": "对",
-      "explanation": "日和月都是发光体，组合在一起表达“明亮”的意思。"
+      "explanation": "日和月都是发光体，组合在一起表达“明亮”的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e9b76b7b331155e9512ba0155d768ea997ad058.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8ad0b63c7b4a8a7f54086d8ab0401359c30358a3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“小”和“大”组合成“尖”，是因为物体上面小下面大就是尖的。",
       "options": [],
       "answer": "对",
-      "explanation": "上小下大即为尖，这是典型的会意字构字逻辑。"
+      "explanation": "上小下大即为尖，这是典型的会意字构字逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/811129b2f32ffb9b99af482b73a5bc231aa25400.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb5cdae88757ef3a2d56e9ca5d41f23299567aa1.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "森"
       ],
       "answer": "休",
-      "explanation": "“单人旁”代表人在，“木”代表树木，人靠着树就是“休”。"
+      "explanation": "“单人旁”代表人在，“木”代表树木，人靠着树就是“休”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/833884219b4b689d8a0217df2d3c0d6d002e83b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0afbe7b539e1a1fb8bc41209ca28d526d4447ec0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d37fc6a5eb9e695c815279a4d7a83127b9fe9900.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/020ff479d2df7b0e8cc73de2df59c89fcb28d04c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d92836b0d9bfe741156c6a84b320f58522a68baa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a22957682795b199be428a5d78245a58715fe27f.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "去"
       ],
       "answer": "歪",
-      "explanation": "“不”加“正”就是“歪”，意为不正。"
+      "explanation": "“不”加“正”就是“歪”，意为不正。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/607357123620c6be5e94fd0c338529ce82948196.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd8dd3270578ad315d632e73d792b8cb3097da0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bf5c10ad9378ef9bbc09c93a693bd0ca4e21644.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08819c1294b19204284107c28e0ed652f6d9fa27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/033fd274f014aec08c2dfb1902e6090cbbb2c295.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6d139eb6628ada60836bcb12d52c89f85f99180.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "磊"
       ],
       "answer": "晶",
-      "explanation": "三个日重叠在一起是“晶”，表示非常明亮。"
+      "explanation": "三个日重叠在一起是“晶”，表示非常明亮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd1a2295a516a5ff5077ae7476142ffa76e12a67.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/971c851fe407ac7f2a799a1192381aa6f897e6f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2beda89ac316e9bfc74427d517cd7d9425ee615.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d38533298bd32d3ca216f342d8313b6f87a96d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82ac8d8c0e82f9764a28575dbae9c0e8c075bab4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb53df5f0996ed4e2c99734dd5a276c146d44d50.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "“小”和“土”放在一起，组成的汉字是（）。",
       "options": [],
       "answer": "尘",
-      "explanation": "微小的尘土即为“尘”。"
+      "explanation": "微小的尘土即为“尘”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c657c7c9db6c239748d637c7652c2b26421936d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11983c2da639e70020f0cdc2a35d94a280af4ff8.mp3"
+      }
     },
     {
       "id": 20,
@@ -106,7 +148,21 @@
         "林"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "人靠树为休，上小下大为尖，双木为林，三木为森。"
+      "explanation": "人靠树为休，上小下大为尖，双木为林，三木为森。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77dc550506a862c3a4b5e790b607ca4f61123de0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/65e0c69ab9c78e8dcf685d6eeb2a4e1f648f393b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77cad3b2e57326881e0e51d3d147d210d7cfcd61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7becd89613b7ef0a3ade19246a08d83348ca46b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f85d1e59fc06be1dc4fdb61dd4de2d13e3ab9e14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8477cc57a5d8e8e5f0dd4fe8b0b0020d3dc5402.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0afbe7b539e1a1fb8bc41209ca28d526d4447ec0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d92836b0d9bfe741156c6a84b320f58522a68baa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/020ff479d2df7b0e8cc73de2df59c89fcb28d04c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39075184ed33b914e62d17a6aa981b2c3ef13043.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -117,6 +173,16 @@
       "将“尖”的上部分误记为“少”。",
       "死记硬背字形而不理解“人+木=休”这种逻辑联系。"
     ],
-    "tips": "学习时可以采用“拆字游戏法”，把汉字想象成积木，拼在一起讲个小故事来帮助记忆。"
+    "tips": "学习时可以采用“拆字游戏法”，把汉字想象成积木，拼在一起讲个小故事来帮助记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f5/f5c08560f87b1e206f6dce51214ebc495d1ea604.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7d/7da4678434f4815a9cde960aee202d8f1fb4224c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/69/69d570ec61f2920e523264e39c65f5b39e7ba239.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2f/2f6b48a1e39d412e001f823baa1293f6e315c5a5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/af/af0aa78779ea6b7d46eefe0395a071f5a6e867e9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/aa/aae7dc6abde10a1a21f1256a05dffcd2b3043c31.mp3"
+      ]
+    }
   }
 }

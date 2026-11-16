@@ -25,7 +25,15 @@
         "眼睛",
         "耳朵"
       ],
-      "knowledge_point": "认识身体"
+      "knowledge_point": "认识身体",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c9eeb5336a984093862de02610eef8b7edba4a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4bb6966ede32a3704b825ea59454ba29a6f8edec.mp3"
+      }
     },
     {
       "id": 26,
@@ -45,7 +53,15 @@
         "手",
         "耳朵"
       ],
-      "knowledge_point": "认识身体"
+      "knowledge_point": "认识身体",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7ebe7bb59e9213a07c18fe179b33b442f003053.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c08a56997a213be6ddd1039b6232fe05403de514.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7b75afb807ab7628099e1bb8f9d93bbad94e3e8.mp3"
+      }
     },
     {
       "id": 27,
@@ -65,7 +81,15 @@
         "手",
         "脚"
       ],
-      "knowledge_point": "认识身体"
+      "knowledge_point": "认识身体",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5486e297930880f3649ad23ecc752d87ba363ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c08a56997a213be6ddd1039b6232fe05403de514.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2a6d2606a0a399dd46111838bbc2c3c2ef7e14b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b807a3b4d668698624afdc1593d436a4ddfae420.mp3"
+      }
     },
     {
       "id": 28,
@@ -85,7 +109,15 @@
         "眼睛",
         "脚"
       ],
-      "knowledge_point": "认识身体"
+      "knowledge_point": "认识身体",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3c0d5c7945d61285200323b222fa66a5161469f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2a6d2606a0a399dd46111838bbc2c3c2ef7e14b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d72d908cf946c7907e42e59add33dff0a211881.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "介绍朋友时可以说：'This is Miss White.'",
       "options": [],
       "answer": "对",
-      "explanation": "This is... 是介绍他人的常用句型。"
+      "explanation": "This is... 是介绍他人的常用句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebc0e7525b9993e802a86bb1a3101d0ce13cb2d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37f38d5ac86e21b387a24e48ac8352b676daf2a7.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "初次见面打招呼应说: 'Good morning.'",
       "options": [],
       "answer": "错",
-      "explanation": "初次见面应说Nice to meet you。"
+      "explanation": "初次见面应说Nice to meet you。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a033f8f5918cdbc506ed7c19d4b3dd4006920547.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf1d3d82e3613bd9e4ccf09a0686feda3bd06830.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "Hello!"
       ],
       "answer": "Nice to meet you, too.",
-      "explanation": "对方表达很高兴见到你，应礼貌回应我也很高兴见到你。"
+      "explanation": "对方表达很高兴见到你，应礼貌回应我也很高兴见到你。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/610232e55f53972227edc3a5644f1ba563097c13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be3a062abde27913d24e3333dfa29f9841899bca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/957b0a15c37d9305674ac07ff9f37accfaac6f2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69342c5c39e5ae5f0077aecc32c0f81811fb8193.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bf55acbc870190099fe7822bf95b0b65b8df6aa.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "I am a teacher."
       ],
       "answer": "This is my mum.",
-      "explanation": "向第三方介绍某人使用 This is..."
+      "explanation": "向第三方介绍某人使用 This is...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/babcb6ae5755f12e14cfdc2f2b694991dfb598fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cfa28afd0a9ad0d596be0bde6828297d7f40330.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c429bc223710feb33616c07f840e1ff73e4f8e22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c49760d14cdf604cb71bb448dae89cf5ef367398.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/650427abe3b1a963c2f90f632d36431c9f914467.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd37450a3da3dd51f23d05ec1503836f7b4883c7.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "This is Miss Wang."
       ],
       "answer": "Good afternoon, Miss Wang.",
-      "explanation": "下午见面使用Good afternoon。"
+      "explanation": "下午见面使用Good afternoon。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f61c44ae3f4c16bcce4cffb8092e4e8848ad91f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5aad09c8f7830a4d9e7dea07bd798796a5c6ec0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61d0dfa1ab5c7384baace5acf2efe2214622255d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4111156b7d54cb2abf515d8345c1231609e2040c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47929eeade09d3c77d123a5043da91c8d9650955.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cceab4e54aa1d9743042085261ccc4d5204ac19e.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "________ is Mr Jones. (这是琼斯先生)",
       "options": [],
       "answer": "this",
-      "explanation": "句子开头首词填空，注意此处填小写单词原型即可（系统判定核心词汇）。"
+      "explanation": "句子开头首词填空，注意此处填小写单词原型即可（系统判定核心词汇）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e93ceced3a1111df883b62b7c6fd9c79799c4a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bd1398eeb2d42fbb0f5eb6aadd757aa5d3c0de4.mp3"
+      }
     },
     {
       "id": 22,
@@ -102,7 +144,17 @@
         "Mr"
       ],
       "answer": "This,is,Mr,Jones",
-      "explanation": "句中介绍他人的固定搭配：This is + 姓名。"
+      "explanation": "句中介绍他人的固定搭配：This is + 姓名。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d79f880c66ce5b5215f8abada63d747dd16044f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7971e6a051104074fdae0f02322417b6eb5695a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/175a1fa2b61f8285a86adc8c3b9945ca46da2872.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5063aea71291724bb9d7d64345803a3c6e08e9b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/6948f03a8bc995f747882fce055ef5ad556c4f90.mp3"
+      }
     },
     {
       "id": 23,
@@ -118,7 +170,17 @@
         "to"
       ],
       "answer": "Nice,to,meet,you",
-      "explanation": "问候语固定的语序。"
+      "explanation": "问候语固定的语序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b888f90d985269c4eeb5ff4d3841b214e65f6fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/392d7871944af9f8a8dae971414194d77db5e065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/434b5c4f9011401333273182ffb24b8aece97859.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3c24a0e1f3789b90c1a2efba12b867600874860.mp3"
+      }
     }
   ],
   "knowledge": null

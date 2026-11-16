@@ -21,7 +21,15 @@
         "频率"
       ],
       "answer": "音色",
-      "explanation": "音色由发声体决定。"
+      "explanation": "音色由发声体决定。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c4/c4301894a290bd434c5b8e12f861428770481d4e.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 5,
@@ -37,7 +45,15 @@
         "速度"
       ],
       "answer": "响度",
-      "explanation": "改变振幅即响度。"
+      "explanation": "改变振幅即响度。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/c4/c4301894a290bd434c5b8e12f861428770481d4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fdffbb9ed5968bade3a5e66463d1c05fcf4101.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

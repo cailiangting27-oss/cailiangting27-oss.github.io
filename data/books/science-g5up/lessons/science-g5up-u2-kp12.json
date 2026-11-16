@@ -21,7 +21,17 @@
         "岩浆岩"
       ],
       "answer": "岩浆岩",
-      "explanation": "岩浆喷出地表或在地下冷却后形成的岩石是岩浆岩。"
+      "explanation": "岩浆喷出地表或在地下冷却后形成的岩石是岩浆岩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e786ed1e7e3e8c1b365d184eb2c052cc3370eea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d975383ea255d040e7356b2a01da6629bbe13fe9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f639636c901f178bb2af833f3b85f0a0100ecf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca855522d4ea28a91d044cccb17fde8c0acf3ab4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebecbf2e2275b7b85d11645123cab33828fe18e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62bd65717997ac08f2aaa05f45c5a7b5163368b7.mp3"
+      }
     }
   ],
   "knowledge": null

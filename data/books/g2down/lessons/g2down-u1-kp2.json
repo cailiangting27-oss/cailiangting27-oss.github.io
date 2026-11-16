@@ -16,7 +16,11 @@
       "question": "一个“正”字代表 5 个数据。",
       "options": [],
       "answer": "对",
-      "explanation": "“正”字一共有5笔，在统计数据时，每一笔代表1个数据，一个完整的“正”字表示5。"
+      "explanation": "“正”字一共有5笔，在统计数据时，每一笔代表1个数据，一个完整的“正”字表示5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/389ed497097df1cb587c86c6ea2899862571cbad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4561d5608a6951ab456f5d11c57e1f28dd626148.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "用写“正”字的方法记录数据时，写了两个“正”字和三个笔画，代表 12。",
       "options": [],
       "answer": "错",
-      "explanation": "两个“正”字是 $5 \\times 2 = 10$，再加上三画是 $10 + 3 = 13$，不是 12。"
+      "explanation": "两个“正”字是 $5 \\times 2 = 10$，再加上三画是 $10 + 3 = 13$，不是 12。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c78f6a18de467400ccd0df11863eb9e68990f4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44a45a6df0d6ce7e6383afdc1137a16f43bb3fad.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "5"
       ],
       "answer": "15",
-      "explanation": "一个“正”字代表 5，3 个“正”字就是 $5 \\times 3 = 15$。"
+      "explanation": "一个“正”字代表 5，3 个“正”字就是 $5 \\times 3 = 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/649c42e6c216381f835e9275e964ee7a1387217b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c47180743d29949879a823c6025f68abbbc9ffb.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "4个完整的，余0画"
       ],
       "answer": "3个完整的，余3画",
-      "explanation": "$18 \\div 5 = 3$（个）……$3$（画）。验算：$3 \\times 5 + 3 = 18$。"
+      "explanation": "$18 \\div 5 = 3$（个）……$3$（画）。验算：$3 \\times 5 + 3 = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a90c08a64fb792d04d7feb0a607db1dfa21f6a5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/caccb5ac426dda3bbb5839e56e28ce68352eb920.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21f0c8b497558aff81b8e6a1c6148739809e55bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75e326543946fa7fd5b6a09a66d2d3302cfe8755.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/5449c2665401ed1be071c992fb755fce3a3da19c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fc3bf614ff5d40eb524951d3170cd3068664adc.mp3"
+      }
     },
     {
       "id": 19,
@@ -70,7 +98,11 @@
       "question": "统计记录显示有 4 个完整的“正”字，这代表的数字是 ___。",
       "options": [],
       "answer": "20",
-      "explanation": "$5 \\times 4 = 20$。一个正字是 5，四个就是 20。验算：$20 \\div 5 = 4$。"
+      "explanation": "$5 \\times 4 = 20$。一个正字是 5，四个就是 20。验算：$20 \\div 5 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4ae7ea9372e4c030f9b423f8d8c5da5cf784f542.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/431454711a87f3c523b906a06800da6dee487543.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "数“正”字笔画时，把一个“正”字当成了4或6",
       "记录过程中，由于分心导致少画了笔画"
     ],
-    "tips": "写“正”字要横平竖直，笔画清晰，每写完一个“正”字可以小小地圈一下防止数错。"
+    "tips": "写“正”字要横平竖直，笔画清晰，每写完一个“正”字可以小小地圈一下防止数错。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d3/d3af96b293ed94227f0afa8ee39b24b9af469431.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/eb/ebbf1df1ed7a63240217dd0757897f190a1f6e29.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9c/9cc159e57fc065282d8dd2b833d87814802951cd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8e/8e3b77f1e213fe562aa7b9acbff9484a30ab3844.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9cc5158329e4b901f39ec5434072d6057ebf62ad.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0e/0edfbbe2be79b21f17a8106c3b1ffaf3ec3e4fd3.mp3"
+      ]
+    }
   }
 }

@@ -22,7 +22,18 @@
         "?"
       ],
       "answer": "How,tall,are,you,?",
-      "explanation": "询问身高的特殊疑问句结构：How tall + be + 主语 + ?"
+      "explanation": "询问身高的特殊疑问句结构：How tall + be + 主语 + ?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96d6a22fdd6ac6ae2899b778bfe1c6eddbf61d47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/910848ca4848e4d6a41bfb9e7ca0e3a89c19d090.mp3"
+      }
     }
   ],
   "knowledge": null

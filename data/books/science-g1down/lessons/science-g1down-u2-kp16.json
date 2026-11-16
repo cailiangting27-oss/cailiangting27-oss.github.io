@@ -21,7 +21,17 @@
         "小猫"
       ],
       "answer": "蛞蝓（鼻涕虫）",
-      "explanation": "蛞蝓和蜗牛一样，都是通过腹足爬行的。"
+      "explanation": "蛞蝓和蜗牛一样，都是通过腹足爬行的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a26b0e029b5000c2045d724ef091d79c863df2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e8fb03c46fe91fcf6611cb58cb8a920e719c958.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab46ff16cc931ff661c550a2120897e7568460e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a330047e0a14641b997d83b20c4af8e27ca3d4e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5be3b89ae2fa683df4bc780d51dd27bb6b65a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6bcae0bbf3606def18bac44602fc02ce3c61d4e.mp3"
+      }
     }
   ],
   "knowledge": null

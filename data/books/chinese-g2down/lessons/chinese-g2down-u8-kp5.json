@@ -21,7 +21,17 @@
         "故事的结尾"
       ],
       "answer": "发生的时间",
-      "explanation": "“很久很久以前”是时间词，交代了故事的时间背景。"
+      "explanation": "“很久很久以前”是时间词，交代了故事的时间背景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3411612d58f0700e98d4c7dba2b5c3ff3f5aba9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2d82bca9f962fe79dd5055f1a1dad4710bd5532.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d03636c5bb301a3c1d6ec09290b30775f72fd9a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7233483ce7e089791a4b37c47f9c18b89d86b89b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b82ac3c4fc7b052910e3d33183b4a8324aca8a79.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da8241cd19d7022a9c64b7c393815da6fc9627f5.mp3"
+      }
     }
   ],
   "knowledge": null

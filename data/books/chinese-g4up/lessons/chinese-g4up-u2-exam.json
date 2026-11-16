@@ -16,7 +16,11 @@
       "question": "筛选问题时，我们需要把对理解课文没有帮助的简单问题剔除。",
       "options": [],
       "answer": "对",
-      "explanation": "为了深入理解，应优先关注能引发思考的高质量问题。"
+      "explanation": "为了深入理解，应优先关注能引发思考的高质量问题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ae1478149c37afc2890e4ce96fce3bd55a57ef.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/8931df66a901a1c55a115e1b33ec625201dc3eba.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "蝙蝠在夜间飞行时，是靠眼睛来避开障碍物的。",
       "options": [],
       "answer": "错",
-      "explanation": "蝙蝠是靠嘴发出超声波，由耳朵接收回声来定位的。"
+      "explanation": "蝙蝠是靠嘴发出超声波，由耳朵接收回声来定位的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81bd313e65c9b6c28d9f3d05ce6daa546db17795.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3dd006e49bfb8bf955a786d291a14829da22aba2.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "针对课题提问是一种低级的提问方式，无助于理解全文。",
       "options": [],
       "answer": "错",
-      "explanation": "针对课题提问是捕捉文章核心主旨的重要途径。"
+      "explanation": "针对课题提问是捕捉文章核心主旨的重要途径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25adc6dce3cdee81d443871e5e0b91c6ca590597.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f52e0ddb63ca94a0179b286a14c609de47aeecbd.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“呼风唤雨”在课文中形容人类利用自然的能力很强。",
       "options": [],
       "answer": "对",
-      "explanation": "文中用这个词形象表现了科学技术的巨大力量。"
+      "explanation": "文中用这个词形象表现了科学技术的巨大力量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d997cb1be8370706377221e0997826f6a8ee6f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9c2da84756bfebc366a65540c8ddb15244a3555.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "高超的记忆力"
       ],
       "answer": "嘴和耳朵的配合",
-      "explanation": "这是文章最核心的科学实验结论。"
+      "explanation": "这是文章最核心的科学实验结论。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/568783eafb46271a2373285a61985f4e5d44db0b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c111bf722a5ec6dabc8ac637f883df4eae08347.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d949823364c9989be87ababf9d8eb1ba522efaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/253f6bbaf3882251fd00707dd8a848cfa3ab7a80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8204c3eb16d352dbd18bc3126de7edfbe428de14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16e51d7e59ce64d82a6b2bcd97c950b05a655f5c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "动摇"
       ],
       "answer": "居住",
-      "explanation": "定居意为相对固定地居住在某地。"
+      "explanation": "定居意为相对固定地居住在某地。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/860c35d943f838c14ae35cb2bce344c79c20d8ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef2c859acb53b7283231ea92b08c90a916bca9c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff172eba487058f0408bdd322a12d4d4e59b7bde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92c1b6c8fd3f40e4752f2a06c8c2443c660c091f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70c500d92923d99abf4fc7c61c81db167bc7e121.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82403179dfd090263196a24924998eac95c4a695.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "马虎"
       ],
       "answer": "舒畅",
-      "explanation": "两个词都代表心理或生理上的愉悦状态。"
+      "explanation": "两个词都代表心理或生理上的愉悦状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f857fc5285f22a98c09ff3ce42b42e7b05e1c27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dd/ddc53b8a34bd6fa81db598a7483d1dca3c4f7629.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27429f465b3c2f6f39185b85c2d54c41d9629065.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/508510701136e5e1ef6d11ecce00091df1c85d66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d607b98b8f154870dd658f4927ecdc3a4e3a0ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/4419ae84bd8a5ef8963fe25c2ae2686a08b52e41.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "蝴蝶飞行时有没有声音？"
       ],
       "answer": "为什么作者如此关切雨中的蝴蝶？",
-      "explanation": "这个问题探讨作者的情感寄托，上升到人文关怀层面。"
+      "explanation": "这个问题探讨作者的情感寄托，上升到人文关怀层面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c657ac7578fc163210e7228460645f5f46c04116.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/913f8d8b6a2523523c849a20c429ed183c596d81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b75fb7ce94b59ba8cb7331b03f607f8b57e1c159.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e1141f144f7d4cfe337c7d139ad85a205e9d841.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1efabc27077c80d57d0a5652fb4fd314c860821d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bb084fe7ed3800d5c6a2f2ec733f8f055e6a420.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "埋下伏笔"
       ],
       "answer": "点明主旨",
-      "explanation": "首句开宗明义，确定了全文的基调。"
+      "explanation": "首句开宗明义，确定了全文的基调。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a507511d1e6f643d0206de17a8b968b4e2a0d86e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7ad4bf95c32b189d181c8c775f37ba35dca0ad63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01de1c846ad044f39bc28a5a167de0ecb017a71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4ba34eb6c9268e1d9eb734ea511ed9fad02fd0e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1685489229c21198871161293624081dcb6a8339.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29adff11ad7533adc5228eb014e8858f2aa12f7d.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "反问"
       ],
       "answer": "比喻",
-      "explanation": "把地球比作村庄，形象说明了科技拉近了人们的距离。"
+      "explanation": "把地球比作村庄，形象说明了科技拉近了人们的距离。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0be0fad601ce62b366d117741c6f995896c523f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0811f05c035407526d261d6bb4e0deb553400290.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "在阅读中产生的，如果不影响对课文内容的理解，可以适当（    ）。",
       "options": [],
       "answer": "忽略",
-      "explanation": "提问也要分主次，为了阅读效率，非核心问题可以先放下。"
+      "explanation": "提问也要分主次，为了阅读效率，非核心问题可以先放下。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77be870ea46ab46b45c86684798ad25f05b34a32.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00c0fc278b57dc837cb00d5bbb7b328c8b016274.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "蝙蝠发出超声波就像雷达发出的（    ）。",
       "options": [],
       "answer": "无线电波",
-      "explanation": "无线电波是雷达工作的核心物理媒介。"
+      "explanation": "无线电波是雷达工作的核心物理媒介。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83858ad91440e483f59a75e1fe41d4a22be13287.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6daf10cc70d8337e9353706ec013fefa6c6ef856.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "完善"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "考查对相近动词的使用语境认知。"
+      "explanation": "考查对相近动词的使用语境认知。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5aa83446b33b9e8f43e7b0569239895f5162ba47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db10228fa5d641e94265d03493da0e7aea5b63ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27029887b387543ea4d0a7b1925e15c62c4cc004.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/2918633ac811b6f7e3462c219f0d9585b12aebe3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f59bd9e46edb8783a06be482eaa328e4ea9e7ab5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/908902c930d934226448252d0e9ecb3ac06259f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/120aa437f1d30b561a8401e74e59410b36c11a02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94ab99ae0ccd7d078848f8b4096b87096c891169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c916cf613251dcd06977ca522ab5674aac948cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94e9a3c8a264c6eb009454f66e504de023dfda07.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "被鸽子吃掉"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "回顾《一个豆荚里的五粒豆》的具体故事情节。"
+      "explanation": "回顾《一个豆荚里的五粒豆》的具体故事情节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e0f7f4b0373fbbfaa2374936fb0b9389af33a25.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a47653e0a907c6138d494e0fe02c8e60298cdbdd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e8d1d332ac7eefcfae0cdc059f9254f0bacd0c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c49d9969fbcc7a34f3c118b2f05e0f1f69bdae4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/935ba847c88f6f5fd0bd31f4853ccbaf9c24896f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0ab26289b4e313425d562325f9fe7fcf1383659.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57015d2fbe70b885d7db398441fb2e26044083d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8336004eb27878c210d0e6b57355f17d5b8b346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea6f67a1eb1d6641479f3b97d0a18391eafca8de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/797ae6890ad03704ed5eb7cfe9abd584a6273826.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "我们"
       ],
       "answer": "提问,可以,帮助,我们,理解",
-      "explanation": "这是对本单元核心策略意义的表述。"
+      "explanation": "这是对本单元核心策略意义的表述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1da38e1fd90c5273b610a5825a083070b72b785.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/cea7163a668b7c4c8ca831d57cf961b1904a26ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14304745e4d69ad3136fc1d53ab2fe18b9cdd361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79176103e6df6bfad424dc54570641a5d4f315a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adf465ebf0e6d7fa6622d29a3186b8847f246833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/5965699044a361e6765cfc8151db402c1f475def.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "数字描写"
       ],
       "answer": "数字描写",
-      "explanation": "通过具体的数字记录手术刀数，极力衬托出刘伯承忍受痛苦的惊人意志。"
+      "explanation": "通过具体的数字记录手术刀数，极力衬托出刘伯承忍受痛苦的惊人意志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be59504ab6059ce3fb3aaa133be0a4d113680a2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c657f80b22062a3e86ef506921339dfd649e1236.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/435fff592203fffed176e42d8a37eeac32493404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bb13a1b46e021d92f8d4490214df8a1e8ec4fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa50fc665989725756b47670fc606988707374bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7a840b3e3685c117815e146182c212f17c5720e.mp3"
+      }
     }
   ],
   "knowledge": null

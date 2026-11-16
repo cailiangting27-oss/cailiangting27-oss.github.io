@@ -16,7 +16,11 @@
       "question": "水蒸气是水的一种气态形式，它是没有颜色、没有气味、透明的气体。",
       "options": [],
       "answer": "对",
-      "explanation": "科学定义中，水蒸气是无色、无味、透明的气体。"
+      "explanation": "科学定义中，水蒸气是无色、无味、透明的气体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a07478ff0c04aaa992c491a1530ac68d2a72dcc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5ad1f09e95e4a4877ec592dddf7fc14f1733b469.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "直接消失了"
       ],
       "answer": "变成了水蒸气散发到空气中",
-      "explanation": "这是典型的蒸发现象，液态水转化为气态水蒸气。"
+      "explanation": "这是典型的蒸发现象，液态水转化为气态水蒸气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6d630c905da85403ece79fe9efc2848dcd0c281.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/2430243533d3d522a7d77337cd5b6fc17cb29db3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6aaad444caab1de3f476ab0710e201727be886cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e355630e955699393dca278094e345ac0429aab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bc895e14136efd6043834d819f30fb53e24f136.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e67f5bf6dd28d13e909028e1d27232ef3431ed9.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "草叶上的露珠"
       ],
       "answer": "河水水位下降",
-      "explanation": "河水水位下降是因为液态水变成了肉眼看不见的水蒸气进入空气。"
+      "explanation": "河水水位下降是因为液态水变成了肉眼看不见的水蒸气进入空气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/653a61322adc3b4f4a1a441aa7c7e162ae3c52ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2c51dbdc936f608590f51a75650e7badc17528d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cde12b219d7df950450729bfac97c32f8555b962.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9503de6ed66c24a6b14cd539dd743b52601478c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7371dc43df142d1577af422b7ae0a06cd6280ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3721df0cd202742a47921d28bf6b4031f6e10e91.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "液态的水变成气态的水蒸气的过程叫做（）。",
       "options": [],
       "answer": "蒸发",
-      "explanation": "蒸发是描述液体表面变成气体的科学术语。"
+      "explanation": "蒸发是描述液体表面变成气体的科学术语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/7446a04c1064a783feb138839e9546154c47639f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4a5b77fb04be82fc9d941cf3f1fd84e97360d04.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "认为水蒸气是白色的烟雾",
       "认为水蒸发后就消失了"
     ],
-    "tips": "记住“看不见的那部分才是水蒸气”，白汽是小水滴。"
+    "tips": "记住“看不见的那部分才是水蒸气”，白汽是小水滴。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/85/85ec0ee0299ca67763bb27ad50bf943b0ed5c8b8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bf/bf07d8d051e9e19a81d058b665143a183e25660e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d5/d5da46bf7cd20c8c594c9a28e9cf9307ae9490c4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/97/97006bc6747d35e5f34656eddb8c6410ba2ad852.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8d/8ddf04571ff884dacea7c4c17369e7b9a82e567b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ae/aed737dbe14ec9f0130b7beca789fa23f32876ea.mp3"
+      ]
+    }
   }
 }

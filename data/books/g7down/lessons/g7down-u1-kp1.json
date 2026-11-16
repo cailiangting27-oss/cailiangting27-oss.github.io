@@ -21,7 +21,15 @@
         "无法确定"
       ],
       "answer": "40°",
-      "explanation": "对顶角相等。"
+      "explanation": "对顶角相等。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     },
     {
       "id": 2,

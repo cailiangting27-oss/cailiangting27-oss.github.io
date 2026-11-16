@@ -16,7 +16,11 @@
       "question": "我们可以通过观察岩石的颜色、硬度、光泽等特征来识别它。",
       "options": [],
       "answer": "对",
-      "explanation": "科学观察岩石的标准通常包括颜色、纹理、硬度、透明度和光泽等。"
+      "explanation": "科学观察岩石的标准通常包括颜色、纹理、硬度、透明度和光泽等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad43d3a28b0f802a15fd5357fc505ea5c027c745.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c178867def54a4e82a17f6336d513b563643f2bf.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "硬"
       ],
       "answer": "较软",
-      "explanation": "能被指甲刻划出痕迹为软；指甲划不动但铜钥匙能划动为较软；铜钥匙划不动但小刀能划动为较硬。"
+      "explanation": "能被指甲刻划出痕迹为软；指甲划不动但铜钥匙能划动为较软；铜钥匙划不动但小刀能划动为较硬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06bd4afb98f1119669eed11c177e2b117bee541a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a8a30887abcda9cae876b81c70c743ab80a409a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b6bb145f3d165753a7cf0e089e8346828f7505e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1100387b0c80937460de6e0fdf3e736008769107.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32709a595a6a999659339d8a5d48ba5bc2e3b545.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfd4e502b2a06b8c0ecee7ad71a6d47884f1412f.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "温度计"
       ],
       "answer": "放大镜",
-      "explanation": "放大镜是观察岩石细部特征、颗粒大小常用的工具。"
+      "explanation": "放大镜是观察岩石细部特征、颗粒大小常用的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a56f5494b59f0ae2b7448004145afe06d98522c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3ce0888571f83685eaef8120f242d70aad557eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0398d9d8b83d41a2e316fa8fe7b055e8cee70d72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5112eea057e491bfaa6c22e1ebb0de62ff597bac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bfea5b380d7b3ac2b15741663a9d92bab92a6f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/784768eefb41bc0871458e2df6fc4de3fd0b57d6.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "页岩"
       ],
       "answer": "石灰岩",
-      "explanation": "遇盐酸冒泡是石灰岩的主要化学特征。"
+      "explanation": "遇盐酸冒泡是石灰岩的主要化学特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/17dc5ad97ca675405bda4e223392892e3dcf4e6d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01dda0b1bd75ff76aa59f522f1e4cfd697862433.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c488988fa9e097dba85c2f22205cc3a74f231e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cfa0ca4d55442a5c9b76c74ecc30903ca9aabd8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c90dff0d5691ebac3d95d988e4fc332fb0c99d7e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2dee411fdda896e871f67044d6587ee671323084.mp3"
+      }
     }
   ],
   "knowledge": null

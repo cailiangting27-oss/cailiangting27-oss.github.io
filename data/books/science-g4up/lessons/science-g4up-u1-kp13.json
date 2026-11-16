@@ -21,7 +21,17 @@
         "宇航服隔绝了声音"
       ],
       "answer": "月球上没有空气",
-      "explanation": "真空中没有传声介质，所以声音无法传播。"
+      "explanation": "真空中没有传声介质，所以声音无法传播。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93f4879ccf1ec8fd8eca0aa6e415c9b28ada8375.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff2feb1a9d0216c565b0457283fb411f866c3b2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87ca007893295e14a4b4b57cb20390e3fefd06b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/221fc9438c78fff86b05c72534e112eb74fc898c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f3194aa49f14f903defec9271a0d963bad38e23.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e0e8a37c21e315473e62257986aeb3b12b29d65.mp3"
+      }
     }
   ],
   "knowledge": null

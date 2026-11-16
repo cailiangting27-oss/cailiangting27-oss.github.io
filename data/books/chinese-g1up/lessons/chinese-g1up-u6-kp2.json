@@ -16,7 +16,11 @@
       "question": "我们可以说“一头小猫”。",
       "options": [],
       "answer": "错",
-      "explanation": "通常说“一只小猫”，“头”常用于体型较大的牲畜，如“一头牛”。"
+      "explanation": "通常说“一只小猫”，“头”常用于体型较大的牲畜，如“一头牛”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23a5fdbbe9f33d974e035b104ed7b5ee9cff099f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7cc663bee9f2ac82bdf0637e640f57b2d015b79.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“一群鸭子”中的“群”表示鸭子的数量有很多。",
       "options": [],
       "answer": "对",
-      "explanation": "群表示成群结队，指数量较多。"
+      "explanation": "群表示成群结队，指数量较多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f182469dbbf6c7fa5db8946d67cbd5354b72bc89.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de9e77b91077cf9090033fe65c02e521be6a7774.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "群"
       ],
       "answer": "群",
-      "explanation": "小朋友不止一个时，生活场景中多用“一群”。"
+      "explanation": "小朋友不止一个时，生活场景中多用“一群”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68be9bc276a118b7862d1897a2ebe89b4a715735.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f366635ad280467112ba3b1945e03ea7cfefc0a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/462f338ef88d70a56ffa5df52d38169a1d158a5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7b2a6ee68ec1aff82f710f27fd2dcb710ddc457.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a867dcff6070d276cf59b21784b98fb4e2e43aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19433c05a123c8910aa34c41178e938ade833f63.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "群，个"
       ],
       "answer": "头，只",
-      "explanation": "大牲畜用头，小动物用只。"
+      "explanation": "大牲畜用头，小动物用只。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bed4029e43e71e416b02f0d777a59f077f670ae4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e7aa1c9749978cd5d096cb19c67e7c1ae5c5894.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3146e5e6c564194fbb36e773d6f0ce10567fbac6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54604b0aba5c3de93e77450c53635effd404dff0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff927e8401f6ea4c5a7a97f540d09a622b96db7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e983d9bae7aa650d08b0abbd45dfa12ba51523bf.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "一个苹果"
       ],
       "answer": "一张鸭子",
-      "explanation": "鸭子通常用“只”或“群”，不能用“张”。"
+      "explanation": "鸭子通常用“只”或“群”，不能用“张”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33d9cdbc45ed489025e6fd2e2ec7f7f76123038d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1cd5b2e67c944d5714072d93043177600b1ab8f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0d47e7414146fdfd4d5ec3ccc089eac43485761.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72b6e7a5dd1f831c9f572bbbaf8da0923db674e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c499198e7835d02e0e0f1f1b1a31b8a8afcd4513.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/239c53cc469599e554843478b7599245dd1673d6.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "过生日了，妈妈给我买了一（）课外书。",
       "options": [],
       "answer": "本",
-      "explanation": "书的常用量词是“本”。"
+      "explanation": "书的常用量词是“本”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8c07d7de78a17c8ee3fe749d41b9e4a9004e610.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c470f80c448fbc4b42dc59ca939d50ab7ba5381.mp3"
+      }
     },
     {
       "id": 19,
@@ -106,7 +148,21 @@
         "雨伞"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "一头老牛，一只小花猫，一颗枣子，一把雨伞。"
+      "explanation": "一头老牛，一只小花猫，一颗枣子，一把雨伞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ab38652c5036ff5e8078f4afba5f34154a04491.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/7385a5faf995485523756128d1031daf5c88bf20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9546a920468f604836dc8a12ec0c2c3ff0734085.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f51327a21ac79f9dd4090069084fcd22349cd36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83f6ae8f1bce3bf34a62e96eb459e9160d9614cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3741228d09689a25974bc9f09e636e8bc467aaa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb8f825a1b45a367b051086037d360e66b770fa1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0327f0f0e99c94c7b730f00f3f99127b7dab7d2f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9289f3e13fc66aef66921e3efb9579cb60c0844.mp3"
+      }
     },
     {
       "id": 22,
@@ -122,7 +178,17 @@
         "山上"
       ],
       "answer": "山上,有,一头,牛",
-      "explanation": "按照“地点+动作/状态+物品”的逻辑排序。"
+      "explanation": "按照“地点+动作/状态+物品”的逻辑排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fbd5b75066a6dc39a3d486bfbcda44c9b9774a47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7385a5faf995485523756128d1031daf5c88bf20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf9b3e9c32c4dbb149c64b255d85b4d9f7f116e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/245e3b3260fc8be545fc9e8262112318257bb880.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da77084010869ce3d46c016d528c49e447fdccbe.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "混淆“颗”和“棵”的使用（如误写为一棵珍珠）。",
       "量词错位，如说“一个牛”。"
     ],
-    "tips": "分类记忆法：按形状（长条形用“条”、圆形用“个”）、按大小（大的用“头”、小的用“只”）进行归类练习。"
+    "tips": "分类记忆法：按形状（长条形用“条”、圆形用“个”）、按大小（大的用“头”、小的用“只”）进行归类练习。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/23/230d9c711fbeefa1d0f4e617cee8b1d610f8707f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c2/c2816391cc9cfa346df31935f011704d0edd27e7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e1/e13ba137c6e08a2fd92e35417eaa3ad1e68262b5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8a/8aed7093fb27618756917b4b586b5c3c0a020cb6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9cf0fd012ca2accdf005a953d6980b163318f085.mp3",
+        "https://api.clthuanxie.cn/cc-audio/75/75645e7fcf189b2e3f125445eb36fe33c3eae46d.mp3"
+      ]
+    }
   }
 }

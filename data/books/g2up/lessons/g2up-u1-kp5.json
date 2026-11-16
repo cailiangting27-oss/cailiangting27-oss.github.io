@@ -16,7 +16,11 @@
       "question": "1 米 = ___ 厘米。",
       "options": [],
       "answer": "100",
-      "explanation": "根据教材定义，1米等于100个1厘米。验算：$100 \\div 1 = 100$ ✓。"
+      "explanation": "根据教材定义，1米等于100个1厘米。验算：$100 \\div 1 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02259a3b7562206c780e6b4034e4d02cf7581ebf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4dc788739bc5a31f267919564df1f58ebae871f5.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "严冬"
       ],
       "answer": "初春",
-      "explanation": "桃花开、燕子归是典型的春天特征。"
+      "explanation": "桃花开、燕子归是典型的春天特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4e5e138f56f002197e29d214e7b4b512ee75301.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/183b8458672df0abfe8037273dc52c51859ed4dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd116599161aab0a09d61830b5a504c7b9f26af2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c301e3a95db75d70005658334c4f16ac32f1ebe8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a39346ab2a158ebe58c8cf05a998f448c876479a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/588b015f3a7d83255f70ff585ddb6dfa8634b573.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "变黄了"
       ],
       "answer": "还是合拢的",
-      "explanation": "花瓣合拢时露出绿色的外壳，所以草地是绿色的。"
+      "explanation": "花瓣合拢时露出绿色的外壳，所以草地是绿色的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a33c24a9c8bb63bcd8cf9e246f94266ad9d98400.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7deb8c32fbeb3f454a5252a4339cbe93390da93a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b7e6d41800f5b564a0be06b22aa95bbc0194374.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1eac2138d2b61b596f40ca24566a8a84a3711b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad9b1db6198a4477d349e25599ab07b69a556a59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a91605812874b624840186013bca3b0192a03229.mp3"
+      }
     }
   ],
   "knowledge": null

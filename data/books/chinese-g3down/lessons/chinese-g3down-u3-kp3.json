@@ -16,7 +16,11 @@
       "question": "在蔡伦改进造纸术之前，西汉时期就已经出现了笨重的麻纸。",
       "options": [],
       "answer": "对",
-      "explanation": "西汉时期已经有了麻纸，但由于粗糙且产量低，并不普及。"
+      "explanation": "西汉时期已经有了麻纸，但由于粗糙且产量低，并不普及。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef059a1010e21be0861eac9030526035a167f086.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1da659587995ea6cc6a66ad552f229d4342b6370.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "这种纸无法用来写字"
       ],
       "answer": "原料容易得到，造纸成本降低",
-      "explanation": "蔡伦用树皮、麻头、破布等原料，使得造纸术得以普及。"
+      "explanation": "蔡伦用树皮、麻头、破布等原料，使得造纸术得以普及。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/970959a37bfb851f0d396047a989ca74cea700d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e9599033c9c8998f9984ed83ce87367d7c9e0513.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94ecdf037c999798bbcf998482c939a95c371229.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca08f872534c947623291f157e761cee78304f6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97161acb0c2028ead7aaa1a747e07d0f7a3bf704.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6a033748696af696f0154e019876ecb82e14f31.mp3"
+      }
     },
     {
       "id": 17,
@@ -43,7 +57,11 @@
       "question": "东汉时期，（___）改进了造纸术，是我国古代四大发明之一。",
       "options": [],
       "answer": "蔡伦",
-      "explanation": "蔡伦是造纸术的关键改进者。"
+      "explanation": "蔡伦是造纸术的关键改进者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c005f4df7a7c08319c4f77b4815afda146914e93.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/beb62f56bd4652c5cf492579f68fe5d11118388e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "误认为纸是蔡伦发明的（实际上蔡伦是‘改进’）。",
       "无法正确排出造纸原料出现的先后顺序。"
     ],
-    "tips": "可以画一条时间轴，标注出“商朝-周朝-西汉-东汉”对应的书写材料。"
+    "tips": "可以画一条时间轴，标注出“商朝-周朝-西汉-东汉”对应的书写材料。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/31/318706d1bcbea7692cd64dab31b0476c9eba6bca.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d8/d8d36d8899ff5303e2e28a33955ddb8cc5779cfc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4b/4b95b3ed8e82830aecde713294bda10ecf046cb1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/67/673b7ec4ee2d5935693def12b74be657cb63c349.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/24a7a31cc9612598532d42409fd091f6559167d0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/62/62a4a0b064d52272773af6cd602f725fdd72f3ac.mp3"
+      ]
+    }
   }
 }

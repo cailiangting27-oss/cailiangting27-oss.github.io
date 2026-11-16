@@ -16,7 +16,11 @@
       "question": "明明有 24 本书，平均分给 8 个小朋友，每人分到 4 本。",
       "options": [],
       "answer": "错",
-      "explanation": "计算 $24 \bdiv 8 = 3$（本）。通过三八二十四验证，$3 \times 8 = 24$，所以每人分 3 本。"
+      "explanation": "计算 $24 \bdiv 8 = 3$（本）。通过三八二十四验证，$3 \times 8 = 24$，所以每人分 3 本。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4add9960a45284d2586e221e23f72c8ce26fe2fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b47d5767b7a53e1d53a6ddd8ae111babc51c0a2.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "$35 \bdiv 7 = 5$（本），口诀：五七三十五。"
+      "explanation": "$35 \bdiv 7 = 5$（本），口诀：五七三十五。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d051d7c00bb877578f5cc350783b8dcb2d8e4b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07dc0dbb52208ae5575ca697299350d6f4a08172.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "10"
       ],
       "answer": "9",
-      "explanation": "$54 \bdiv 6 = 9$（辆），口诀：六九五十四。"
+      "explanation": "$54 \bdiv 6 = 9$（辆），口诀：六九五十四。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7da05b62f91b57f3e4f52352051ff4728f445fd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb2389fbf315518db6bdc00678806b2e09a2a6fe.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "6"
       ],
       "answer": "10",
-      "explanation": "先算原来的组数：$24 \bdiv 3 = 8$（组）。再加上新来的：$8 + 2 = 10$（组）。"
+      "explanation": "先算原来的组数：$24 \bdiv 3 = 8$（组）。再加上新来的：$8 + 2 = 10$（组）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7cc89601f78a62f6058e2cbda5f380b430d6b8b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0f82bfe5eac713f5324e42d63f9061ba34012f3.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "无法计算"
       ],
       "answer": "百合便宜",
-      "explanation": "百合单价：$28 \bdiv 4 = 7$（元）。玫瑰单价 9 元。$7 < 9$，所以百合便宜。"
+      "explanation": "百合单价：$28 \bdiv 4 = 7$（元）。玫瑰单价 9 元。$7 < 9$，所以百合便宜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a6e37332857dc61548a129e44c71d8552d0f173.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/3320868fda50652e0bdba9363a1671e5b67fe7a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4486e8bff85da458bcb8b1f9435625aad1cd74e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a7ac6c0601101df8e7b00503e89dde25089084.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf184f23ec94dad9f407bc7f76b6834c78d9bd51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8d69a791c3d431c57ea99512c5f01cdf80de2d0.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "有 16 个羽毛球，平均装在 2 个筒里。如果改为每 4 个装一筒，可以装 ___ 筒。",
       "options": [],
       "answer": "4",
-      "explanation": "总数是 16 个，每筒装 4 个。列式：$16 \bdiv 4 = 4$（筒）。验算：$4 \times 4 = 16$ ✓。"
+      "explanation": "总数是 16 个，每筒装 4 个。列式：$16 \bdiv 4 = 4$（筒）。验算：$4 \times 4 = 16$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d97899acf45a9d7f972375df7fc10f049f10c711.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87b52cfdf29d329d1208f656441aa484aec9b0a8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "分不清总数和份数，位置列反，如将“18元买2元一个的笔”列为 $2 \bdiv 18$",
       "在两步应用题中，遗漏中间步骤直接得出错误结论"
     ],
-    "tips": "做题三部曲：一读题找总数，二看是怎么分，三用口诀算得数。"
+    "tips": "做题三部曲：一读题找总数，二看是怎么分，三用口诀算得数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/03/03c644a895b2d8b1e9ed30f3fed8fd599254652c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d5/d5ad4f4cbbfa4f28afb19864d230bd166f0b3305.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c7/c70f59828fcb0328cb047baaebdd4760f6e33068.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1f/1f8bb194cc7f5ea8f50cd7470f68004d155dfee5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bd/bd6915c773e571f6ca64d849e7b1999768d112c0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a6/a64c39a8ecf1e2d7a9995488a2b5f873e9ffdced.mp3"
+      ]
+    }
   }
 }

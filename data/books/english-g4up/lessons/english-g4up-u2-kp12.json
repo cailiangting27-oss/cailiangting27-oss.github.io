@@ -21,7 +21,17 @@
         "short"
       ],
       "answer": "new",
-      "explanation": "语境表达兴奋拥有新书包，且后句描述big（大），new符合逻辑。"
+      "explanation": "语境表达兴奋拥有新书包，且后句描述big（大），new符合逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6197b082fb3a71f0c0fc76efca0ece6df5f6cdf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2a6b03f190dfb2b4aa91f8af8d477a9bc3401dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89f6229a11ac4ebaa553c1a3ea96d78fa7483735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f121ef42e643af87d25233fc1cd9bbd66810ba9.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "单词 'sing' 和 'pink' 中字母组合的发音完全相同。",
       "options": [],
       "answer": "错",
-      "explanation": "sing发/ŋ/，pink发/ŋk/，两者不同。"
+      "explanation": "sing发/ŋ/，pink发/ŋk/，两者不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cdec2d8d2881458df459969ef97eb2b6cfd300cc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97c74c1802f87e14e1f798f6cd7a3b8472b2a5c6.mp3"
+      }
     }
   ],
   "knowledge": null

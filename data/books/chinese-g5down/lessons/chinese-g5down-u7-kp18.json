@@ -21,7 +21,17 @@
         "牧场"
       ],
       "answer": "那是,一片,宽阔的,牧场",
-      "explanation": "按照主语、量词、形容词、名词的顺序排列。"
+      "explanation": "按照主语、量词、形容词、名词的顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/838790a9fb604a293e763414ec891918554bae6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6b85d464af1c59efca0adf0c717bffdb16422289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7ced59ff79923e0779143fac22c4e0ed164f866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d359ae2e01b26ef5470951df1191c8c3ccccf59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1899c5b32405d12cb4a56cd04d8f7fe41177535d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/732e2def50ed71c65c17402c8d94bf3fd9ddda1a.mp3"
+      }
     }
   ],
   "knowledge": null

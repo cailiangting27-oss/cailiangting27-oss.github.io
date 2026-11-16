@@ -16,7 +16,11 @@
       "question": "My friend has blue hair. 意思是‘我的朋友有蓝色的头发’。",
       "options": [],
       "answer": "对",
-      "explanation": "blue是蓝色，hair是头发。"
+      "explanation": "blue是蓝色，hair是头发。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d92d487a99da635514662d091333c89b84e369a3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/049bde832b9926cbf36e690218331164cd26d023.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "当介绍一个女生的名字时，可以说：His name is Lucy.",
       "options": [],
       "answer": "错",
-      "explanation": "女生的名字前应该用Her而不是His。"
+      "explanation": "女生的名字前应该用Her而不是His。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0168cd73623e79fc98f9e7e5297624fe67de9440.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e9934f48fa4fd4688b7e96be884e7a184f2cbae.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "He has glasses. 意思是‘他戴着眼镜’。",
       "options": [],
       "answer": "对",
-      "explanation": "has/have 在描述穿戴特征时可以表示‘戴着’。"
+      "explanation": "has/have 在描述穿戴特征时可以表示‘戴着’。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/318c3354eb65a70dad86db054238953d12503dc7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4c7e042819b26f95d081d9ae603214652a65758.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "friendly 是形容词，用来描述人的性格友好。",
       "options": [],
       "answer": "对",
-      "explanation": "friendly虽然以ly结尾却是描述人性格的形容词。"
+      "explanation": "friendly虽然以ly结尾却是描述人性格的形容词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8aad5e9d8616e25ee9b7fdf14bf35cd8caf503b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4ee7458057e5d7644f11cd8b111eee25f246475.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "How"
       ],
       "answer": "Who",
-      "explanation": "根据答句my sister可知是在询问身份，用Who。"
+      "explanation": "根据答句my sister可知是在询问身份，用Who。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4417a415f2bd1ee293dea17649a24ff3e599181.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d531617dd394cef59d3cf58fc32b3bc458f6744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcbaa90c2dc41f1bdf2e2362b6c3cdbb7421578a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "are"
       ],
       "answer": "has",
-      "explanation": "Wu Binbin是单数主语，表示“有/佩戴”特征用has。"
+      "explanation": "Wu Binbin是单数主语，表示“有/佩戴”特征用has。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba122fbc7c2cdb15b8e7182a7ce2faef241c13f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b4ed697944292dfe1a35c8e9ca7de801bd99f70.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "no"
       ],
       "answer": "note",
-      "explanation": "根据上下文“能写在上面”判断是便条note。"
+      "explanation": "根据上下文“能写在上面”判断是便条note。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5f068562569a2b02baceaee17603b86b0345f37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51048b7325d60e326d19a9cfbeff2577be1672e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/557f255516719ea16f8f4a0aae1166054e2c9b43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd1286353570c5703799ba76999323b7c7447b06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b745b358f4e71f5ec81cee72f79cba47a5105ca.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "He is tall."
       ],
       "answer": "A boy.",
-      "explanation": "选择疑问句二选一回答其一。"
+      "explanation": "选择疑问句二选一回答其一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e56626fe0a77cf7697fb92f24655f3438458b43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/165119ab4f48345eb66cc7d05927d0b879421e2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce477a0860490a73af78128d45531813f056ca3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/746afd723b4860202d1b895912ece5e25e0e9aed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38737e01343940ee420c4dfec59de6f241f83c46.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0be7df09df5ca224c7d307f10120fd9ed0fa962d.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "shorts"
       ],
       "answer": "short black",
-      "explanation": "描述发型时一般按“长短+颜色”顺序排列。"
+      "explanation": "描述发型时一般按“长短+颜色”顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3b0d9b60b6d1dce7f49b6ca3d72a6d02e1a9785.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a660d0844e381904ab0a7aad4472e91bd0520c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1db1e613e74ab03778d51cb882e27df9183ce0d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b01c1956b7fd3c61c30934a88c4ecc095bef8e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e32d15b246e504af33cd10eb2ad2222215746fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d04e53bbd825fd05570efb489caf5b5ff3f08309.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "desk"
       ],
       "answer": "friend",
-      "explanation": "后面提到了Her name，说明前面的主语是人friend。"
+      "explanation": "后面提到了Her name，说明前面的主语是人friend。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ab7d6ddbd67faa798c29925ed7ab3694ea7efd9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fc512490a15036460b5489401439d6da5407fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7cfa080913f4dae18d802d041de7d664b10e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/618a13bfdc88cc540545fdce73f842415c7f796f.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "She is my friend. ______ name is Chen Jie.",
       "options": [],
       "answer": "her",
-      "explanation": "女性姓名所有格用her。"
+      "explanation": "女性姓名所有格用her。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/084b6eea4aff3066fd36be0558d62477bbdea11b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08efb6c325512ad251da08429ccc511f8cedab90.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Touching my ______(鼻子) and your face.",
       "options": [],
       "answer": "nose",
-      "explanation": "鼻子英文为nose。"
+      "explanation": "鼻子英文为nose。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5285ca427556c078918fc0996d2b6084fde2d09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2cfd5527de483fb963f8dd583eda4d79eb69fc3.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "He ______ (有) a green schoolbag.",
       "options": [],
       "answer": "has",
-      "explanation": "单数主语he后接动词has表示拥有。"
+      "explanation": "单数主语he后接动词has表示拥有。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c97d5d522e1011ecfe5784562f6ae3203e378b53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b038bef1158deb24c69e75a5eb7639bdca4a850.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "强壮的"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "考察本单元重点外貌与性格词汇。"
+      "explanation": "考察本单元重点外貌与性格词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/1075ae1aefa597f83dadd26b0d7ce309fe446723.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/0117691d0201f04aa02f586b774c190802d47d8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba22ef34f8bf4f0d4fde40c9b22c2921ae964f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f88242698e13e1b19a2459d8d5551f8a16f21074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6dc08ba1a20c345947101d4b9fa97cf1121a02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de3a2c1ae3ca8ba4aa3016392d248a09c075eefb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8596902078acafcfa7d15ad80e3caf6faaee41.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b82aafb9fdc251d7ed82a86dd43489fe4f3c7efe.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "blue"
       ],
       "answer": "He,has,blue,glasses",
-      "explanation": "主语+谓语+特征描述（颜色+名词）。"
+      "explanation": "主语+谓语+特征描述（颜色+名词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/7702d8f4a05a8918f7cb4b33103350d22dedfc14.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba22ef34f8bf4f0d4fde40c9b22c2921ae964f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a77dfd506b829e60581ef88261001ab1c605d15.mp3"
+      }
     }
   ],
   "knowledge": null

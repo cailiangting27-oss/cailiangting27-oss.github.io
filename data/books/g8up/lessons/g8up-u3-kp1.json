@@ -21,7 +21,15 @@
         "不等边三角形"
       ],
       "answer": "等腰三角形",
-      "explanation": "等腰三角形有一条对称轴。"
+      "explanation": "等腰三角形有一条对称轴。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a631d4703e3917a3ce15965a9898fe302ccfd61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/91/919cc9b426219233755985ff1749215502974b3e.mp3"
+        ]
+      }
     },
     {
       "id": 6,

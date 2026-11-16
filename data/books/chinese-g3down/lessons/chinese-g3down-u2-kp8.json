@@ -21,7 +21,17 @@
         "走动"
       ],
       "answer": "奔跑",
-      "explanation": "古汉语中‘走’指的是跑。"
+      "explanation": "古汉语中‘走’指的是跑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/825b8f72d9dd23c4dff39f43e04b505ff9cfee90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3eb99fc30ed8d812d0f2543724a30c40d7220aac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90d5845e4c1bbb7ad3b21ce868a15ac31451be58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0ba189053c0dc676ef77d12cdafc29f0740054a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1cd9a90b8cb0f20e27f54705121075d4380cd3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1df447d361b0a315048fc74e821b8f20c5401d81.mp3"
+      }
     }
   ],
   "knowledge": null

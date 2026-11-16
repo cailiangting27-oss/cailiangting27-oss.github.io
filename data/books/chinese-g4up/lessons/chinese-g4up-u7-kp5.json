@@ -21,7 +21,17 @@
         "无视"
       ],
       "answer": "谢绝",
-      "explanation": "谢绝与拒绝在婉言推辞的语境下意思相近。"
+      "explanation": "谢绝与拒绝在婉言推辞的语境下意思相近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c89adb26baa4390e9c0fe757292ecefad61ff3ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fd42515b0303281b1809998ae64ac4a74c597128.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0ba189053c0dc676ef77d12cdafc29f0740054a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39e7f460b9197447f503689b16e9a5a592a2925e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/411778dc87b288c4b874d8d2dd7464e1297db25a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c458e61a4d92b29de92190efbcbd5cd93754024.mp3"
+      }
     }
   ],
   "knowledge": null

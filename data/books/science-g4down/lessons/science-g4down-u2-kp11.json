@@ -21,7 +21,17 @@
         "灯座"
       ],
       "answer": "开关",
-      "explanation": "开关通过接触和断开发挥控制通断的作用。"
+      "explanation": "开关通过接触和断开发挥控制通断的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b1fbff2178ec9a3c417cfaba476dbc2e829c8ce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/afc6ecc9c60f1629c944853e3e13b4a7a03a59ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7716c4a8f033f4fb83b6af0170be1e736b836c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78e42e38cf11a3684eeba8cacdc688c66794c674.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce0d0e93bd2c63be9d28d7f45d253fc93c612844.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a11cc0c52eb64e551cacee1c3bb5f55636c129a.mp3"
+      }
     }
   ],
   "knowledge": null

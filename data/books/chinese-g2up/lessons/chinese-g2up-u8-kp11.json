@@ -21,7 +21,17 @@
         "呼呼"
       ],
       "answer": "吱呀",
-      "explanation": "推门的声音通常用“吱呀”来形容。"
+      "explanation": "推门的声音通常用“吱呀”来形容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b23595870167e9c9bae925d68ca244d13630c53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/793270a0604d45fbde89fc8f68b27a5c9ea4d3fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef2e429fbaf84d26822b9ab78c7b6c34d578aa70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26e6b6e14f058309c650cbb3ee82790fbcddb274.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0632e4b1b7ad6ca35042a486c3338b18ab00096b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82a19787dc2fe6eab4ebee760e53a71d3b5cad92.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -22,7 +22,18 @@
         "好了"
       ],
       "answer": "如果,他的,病,好了,该多好哇",
-      "explanation": "这是一个表达愿望的感叹句。"
+      "explanation": "这是一个表达愿望的感叹句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc960510c6b4810f524d54231109330066bb851c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8dd0adb4f72d2914d57f71c4cd30f14f39941406.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f77300148f8132e88021fa4166ddd62ad4fe7a9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42342f7af1a6bbb6f9c4c43e5b5927083daa00d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a9af6fab622b8517dcad7630698631083f2c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fac14ac62108b927aa7c529f8e6520620b3ed4d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31c4771f0a83df7cfe68dbcad310cdc2ebd3efe2.mp3"
+      }
     }
   ],
   "knowledge": null

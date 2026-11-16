@@ -16,7 +16,11 @@
       "question": "“梗概”这个词的意思是作品的大略内容。",
       "options": [],
       "answer": "对",
-      "explanation": "梗概即为大意、主要情节的简略介绍。"
+      "explanation": "梗概即为大意、主要情节的简略介绍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb98a53b0ab5d2389fac9bb34b108c28469f6f34.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8546fd570037778b8cae65c6d88f0ab01808302.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "随心所欲、随波逐流"
       ],
       "answer": "积极乐观、坚韧不拔",
-      "explanation": "鲁滨逊在绝境中求生存的精神核心是乐观与坚韧。"
+      "explanation": "鲁滨逊在绝境中求生存的精神核心是乐观与坚韧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a126ebd12f76c53970831779729c60a955ede414.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0b4ad4c96d6b94bf62c36499c8f6f712b2e7536.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5bc87503752a1a7be783a846804cde861c5ddd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2538c190f7c4562bbd3e67a41c12f46b9e46d98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57291e4ee95284cd413675a8055ecebc6fa8d210.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67cbc05cb3e8e7b1dd654c24d269fd24cbdf2447.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "读者阅读习惯在变"
       ],
       "answer": "文学语言具有丰富性",
-      "explanation": "不同的翻译风格展示了语言表达的多样与魅力。"
+      "explanation": "不同的翻译风格展示了语言表达的多样与魅力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e50370d122883cc08f4324c0d7af2e0c4c0cc73.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1be0267d9e9a20a10dabd4b51b48c400e8cafee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/843f6e9a280fe4a9413c96d962c81ea0b2dfaf98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43dec8da34b49b8d1cb6acf64b05f3b264929c62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fb2af4e5efa8a38a96616056d21fe4b8c13dba1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4a0a1c8f9d2fdd44ac0e7452b6cfefbdc523293.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "忽视语境：认为所有的翻译都一样，只关注故事情节而忽略语言美感。",
       "理解浅表：无法说出不同表达方式优劣的原因。"
     ],
-    "tips": "朗读不同的译文片段，语感会告诉你哪种表达更有生命力。"
+    "tips": "朗读不同的译文片段，语感会告诉你哪种表达更有生命力。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/87/8735e499131030828037ce7e2c2f144e7e7673b4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d7/d7254f94d83e27791b04ce2583446076afd6f136.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d4/d4ba61b771254a219c7ddc9ed911517db476d6fb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0c/0cab9a9d162dcad0f1684527e36fc85b2dfc4435.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5c/5c5cdc08a01cdb14edfc40f6f29b032e263056ca.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bf/bf10ef961d0250ead5a3eb092e56f102563c66bc.mp3"
+      ]
+    }
   }
 }

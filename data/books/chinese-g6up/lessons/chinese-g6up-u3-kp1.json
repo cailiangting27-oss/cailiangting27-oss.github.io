@@ -16,7 +16,11 @@
       "question": "阅读《竹节人》时，如果任务是教别人玩，应该仔细阅读详细描写制作和玩法的段落。",
       "options": [],
       "answer": "对",
-      "explanation": "根据不同的阅读目的，要选择不同的阅读内容，教人玩需要关注具体制作与动作细节。"
+      "explanation": "根据不同的阅读目的，要选择不同的阅读内容，教人玩需要关注具体制作与动作细节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2e1758ed59d5b922f298f4c8673d43934158533.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e35fccf4cbe7d78828b74f399cfc8b0a326de1aa.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "浏览文章时，可以先看标题及每个段落的开头一两句话，这能帮我们快速把握大意。",
       "options": [],
       "answer": "对",
-      "explanation": "这属于快速阅读（扫读）的有效技巧。"
+      "explanation": "这属于快速阅读（扫读）的有效技巧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f04280df81f1b20bda5f68e5cad2f81ccfc8499.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d50b433f1723a49ae050357d6b727c84ccad6676.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "背诵描写故宫建筑的优美段落"
       ],
       "answer": "快速浏览找到平面图和游览须知进行筛选",
-      "explanation": "为了规划路径，应当针对性地检索信息类文本。"
+      "explanation": "为了规划路径，应当针对性地检索信息类文本。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52658cd7ba8a74b670e8a657007da045ae7d80d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d0c895c1ae7c2f4f0055e913045619376c25123.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e19fbefda3e86b59fbb6b2e3f7b1ccad7e74cc88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6114bbe0237d462e09b0d6f31a2716c123c5048e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93dbaad92fc9cb4430cc70f8563d195aa6a16fbe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/9282148c14095984eea1f9798159771076e9225b.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "宇宙中有无数星系这一类信息"
       ],
       "answer": "宇宙中有无数星系这一类信息",
-      "explanation": "“宇宙中有无数星系”是宏观背景，与针对火星生命的任务不直接对标。"
+      "explanation": "“宇宙中有无数星系”是宏观背景，与针对火星生命的任务不直接对标。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/638b660af112b4b21f47de2eadd0eed9d49558ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e14adf5483f26d30774cc5a2026be21d45beee47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f5cc636d41566938e7c9d9c70f06d96114d731f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba5535bbd74da8a7fb862098f0f1904f21a2a620.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b465c4a566118f9272ebddead79e49f37163e5e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e514dbb8f74f780bc7cb2c06cd5895b6c69b4fe.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "只看书本的第一页和最后一页"
       ],
       "answer": "忽略与本次阅读任务没有关联的内容",
-      "explanation": "这是提高阅读效率的重要策略。"
+      "explanation": "这是提高阅读效率的重要策略。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c23e2fab3d52495ab8e7b29848b15020a774bb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89baa89e58f452e07f2487e50264dc0794fce355.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09997f259c3c4de590b742d79dc5b5ea32232aba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ec688f6b419da87146aeb208f9c58be1bd2fcc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/9345d1e157f93273cf6225986e8c58a65861a1d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acc6bbed017c75fef66ac202a02aabf5fc8ac77e.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "竹节人起源的历史"
       ],
       "answer": "老师上课没收竹节人的情节",
-      "explanation": "趣事主要集中在比赛过程以及师生互动的巧妙情节中。"
+      "explanation": "趣事主要集中在比赛过程以及师生互动的巧妙情节中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08c5b547f319fd27c258bc5ba86fadff2d63cc82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f30d9de0819ab57b718ac054779f14f8de4bebc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/607b2d9b06a0df3ac5b9ce5dcfd19b9c10d127e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48f550882632c1729d18e072a7025520abeb5917.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8b6b183e340a32990bf0bd40cdaecd0461c5456.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ec6257f7dcce048cfc46eb3d9f011efc9a769dd.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "关于宇宙是否有边际的思考"
       ],
       "answer": "科学家对待火星探测器发回照片的分析过程",
-      "explanation": "科学分析的过程体现了证据至上和逻辑严密的严谨态度。"
+      "explanation": "科学分析的过程体现了证据至上和逻辑严密的严谨态度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/554976d5010eff120fee4f2ebb32518635ae3494.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e18edef3db81524c60959214619c53b2e42508ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb0931774cd0865ff3cc6c698b21454f612f1790.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae2e75298a268e5b6e4aa305affa0fae521a3a26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc4b0c762a37ddb0689c8a04c958ea1f0442bcff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfb6feff684bdaf415a760efcbc959a2d481b59b.mp3"
+      }
     },
     {
       "id": 18,
@@ -118,7 +176,11 @@
       "question": "为了提高效率，针对不同的阅读目的，我们需要选择不同的阅读（___）。",
       "options": [],
       "answer": "方法",
-      "explanation": "本单元的核心在于学会根据目的灵活应用阅读方法。"
+      "explanation": "本单元的核心在于学会根据目的灵活应用阅读方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/697e6fa2c8413141ac51743f3e6c97cafa1467f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e61a19ad23db58165b7339f926d0046dee2b44bb.mp3"
+      }
     },
     {
       "id": 20,
@@ -138,7 +200,21 @@
         "略读"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "找日期用扫读，学制作要细读，知大意用略读，赏语言要精读。"
+      "explanation": "找日期用扫读，学制作要细读，知大意用略读，赏语言要精读。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48798541297e42a974b24ccfc133f41fa8607ca5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6fc1918b9498439bd4e6f6e783ef2292bfe521d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe33cae18025aebe05dad80f922eb9e66d89c435.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36d25a6e8e7e31ae2905d643d86d30a8351e55e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f877a4a42a26b3d3e7022867101f4f95d187edac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c34499beb4bea44cb114f4264efe18e66884b1a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55867bfc22c535b769e3ddeaa1251ee95d0f5148.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/daf71a77b97055bf3e7143a93d78512bfcc61a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0886d5b4c37f7f8fd0fee45809acdf7f042168e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d48b972a0201f6c3523fdef842ec294b172c7c8.mp3"
+      }
     },
     {
       "id": 22,
@@ -155,7 +231,18 @@
         "目的"
       ],
       "answer": "读书,讲究,目的,要有,策略",
-      "explanation": "这是本单元学习的核心观念。"
+      "explanation": "这是本单元学习的核心观念。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6afa02986b48df041c821083af6740a5cc476d49.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1bd09c4bbeee977901a5491cea46b245c05f1a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1ffe13c4f118411b5c1fced37b6f7ed0b4d4b829.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3c49831c6369e33f90f693856c3493320ab72ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71cba3580f3bd6430ba85d7ddae78994e9a6e52e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/881d5275d9dc51973fa398cf26329586cbd6ac65.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e510fc0acc0fe34b926e023c720c383b52f5ccfb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -166,6 +253,16 @@
       "不管目的如何，都从第一页第一个字读到最后一个字",
       "阅读完后无法准确提取与任务相关的关键内容"
     ],
-    "tips": "先看清题目要求，带着问题去文章中“寻宝”，效率会更高。"
+    "tips": "先看清题目要求，带着问题去文章中“寻宝”，效率会更高。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cf/cff7d8a26e025aa77c604b21fa1c866152fdef96.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d4/d4ac530912df751357e3cf12740c5087f73ef88e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/49/4950f8dddc2dacb253ceba1ea57a9ade23e0d398.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8b/8bed45f8204f972f032f0f1e7fd1ef456dbd7eb6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b6/b6d763f4f3a78f5b533bd073a3b3777f0e4605b4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/25/2511e01f894b80cd089d331fcd4427865450b42a.mp3"
+      ]
+    }
   }
 }

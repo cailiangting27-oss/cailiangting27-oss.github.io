@@ -25,7 +25,15 @@
         "圆形",
         "正方形"
       ],
-      "knowledge_point": "找形状"
+      "knowledge_point": "找形状",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de8f93e1a165c7e9c8ff2dd919292bb1bf724291.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b6b6b599057bb173fd3865dcce9d0c2d37dd992.mp3"
+      }
     },
     {
       "id": 42,
@@ -45,7 +53,15 @@
         "正方形",
         "三角形"
       ],
-      "knowledge_point": "找形状"
+      "knowledge_point": "找形状",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a16f62bea95bf9a51ac62c04eb4f8fffad167f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c700b22974c9392ff598850fe1f7328c9ed08a58.mp3"
+      }
     },
     {
       "id": 43,
@@ -65,7 +81,15 @@
         "三角形",
         "长方形"
       ],
-      "knowledge_point": "找形状"
+      "knowledge_point": "找形状",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e53c7afeb90b4504f962234d7202101c81b7d93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed7889a03a0a4c7546cb7b5956051c5bcabe5a95.mp3"
+      }
     },
     {
       "id": 44,
@@ -85,7 +109,15 @@
         "长方形",
         "圆形"
       ],
-      "knowledge_point": "找形状"
+      "knowledge_point": "找形状",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3569ac46b585038ee5bbb62355e3b5bd7818dfbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0062378ae359ead91b214184b648ca3c7331977.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37e1fc71f50616777d2695e7eea4c325e7620410.mp3"
+      }
     }
   ],
   "knowledge": null

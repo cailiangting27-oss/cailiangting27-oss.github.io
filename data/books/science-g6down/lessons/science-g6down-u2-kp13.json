@@ -21,7 +21,17 @@
         "喜欢的颜色"
       ],
       "answer": "单眼皮",
-      "explanation": "单双眼皮属于可通过生殖细胞传递给后代的形态特征。"
+      "explanation": "单双眼皮属于可通过生殖细胞传递给后代的形态特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/280e64de6da5e116f6d9517f20fc9ad5ecb7a8c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3f54de57a50b8a6d1c167c515d0ebca8339697.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174f60253d1fd65142cd7353645aeb58a9a5ee83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/577b1498c2dfc457ba2cc35d2f6e3a63cf5be657.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4311780f443ae9fafcaa931862d62a0f85626ad9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/483860e3a8c6b62a6d81687478f9a5a28be341e5.mp3"
+      }
     }
   ],
   "knowledge": null

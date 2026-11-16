@@ -16,7 +16,11 @@
       "question": "“泥融飞燕子”中的“泥融”指泥土湿润、融化。",
       "options": [],
       "answer": "对",
-      "explanation": "春天冰雪消融，泥土变得湿润，所以说“泥融”。"
+      "explanation": "春天冰雪消融，泥土变得湿润，所以说“泥融”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee5aca0fd8dfe7bb768a74e818259f08dfe7c5ed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15ead1891156364c5cbf896beb59d868b4786e68.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《三衢道中》描写的是初夏时节的景色。",
       "options": [],
       "answer": "对",
-      "explanation": "由诗中“梅子黄时日日晴”可知是初夏。"
+      "explanation": "由诗中“梅子黄时日日晴”可知是初夏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a86674141077426a53a88142342b38166be37cdd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df0431a52e887b262a29564f8b8c97d9bd98eb72.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "洗浴"
       ],
       "answer": "将要",
-      "explanation": "这里指河豚这时候正要逆流而上。"
+      "explanation": "这里指河豚这时候正要逆流而上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f887efece504e3c8b651d409bb8ee58fed7f4aa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dba3a3036e763f616238fe210021d11aa822cdcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/4803b29e5dca16694fc180c284ce13aee39e7ad9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c353455aa0ac25839a1afb4a6f1d1a0fdc657446.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b0e700e167ef72ef1a433c39f03adfe17877e36.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6db2dc8003938dac7b2a3c2ca1060318eb909e0.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "鸳鸯生病了"
       ],
       "answer": "春日温暖安逸",
-      "explanation": "燕子的“飞”是动景，鸳鸯的“睡”是静景，一动一静展现春天的生机与恬静。"
+      "explanation": "燕子的“飞”是动景，鸳鸯的“睡”是静景，一动一静展现春天的生机与恬静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7dcd7117f6e7e3b8f306c1f0441fa391f181d76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7688014c5bca4ed43c5ed3dc84e60ab737a763a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf54a34c3726695ef50271a4edd5bcd050956a3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a0c32934111c68cb34b82960b17eea29d7ba3c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c524e560b7c2c9f4eba060ac5fa0d919f589367.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/150c01c05d773f0deefc6b99fa725e55afb5a212.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "游兴很浓"
       ],
       "answer": "游兴很浓",
-      "explanation": "诗人归途中见绿意不减，又有鸟鸣陪伴，心情十分闲适愉悦。"
+      "explanation": "诗人归途中见绿意不减，又有鸟鸣陪伴，心情十分闲适愉悦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d558a4ba6a450c38a16c815d91e68ef2e810875f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/afdf98e88269b7ad610d631033f696c90f432052.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddb1c26724a4f01291282b5983b112895b11b309.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a64991e8b8e590f5837bde86ddd2f2a9d8c5f66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7c2781210465bf3b696be20b2ae961899b10265.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/123cf1f4036dff47ea096f9d76c2356c7ad1cb79.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "“竹外桃花三两枝，（___）水暖鸭先知。”请填入空缺词语。",
       "options": [],
       "answer": "春江",
-      "explanation": "出自苏轼《惠崇春江晚景》。"
+      "explanation": "出自苏轼《惠崇春江晚景》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4bd28c074351f519d3aac57dde5f62d4e40d25a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a117d14143145e14ece4f41ae1293a0fd7a66617.mp3"
+      }
     },
     {
       "id": 17,
@@ -97,7 +139,11 @@
       "question": "《惠崇春江晚景》中，描写江边植物的词语是“（___）”。",
       "options": [],
       "answer": "蒌蒿",
-      "explanation": "描写了江边的蒌蒿和芦芽。"
+      "explanation": "描写了江边的蒌蒿和芦芽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2d04bfa5be482533d6edecc83d29f275d99052a9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc99fd5503c3527cf6b4ed188f08293e51012e15.mp3"
+      }
     },
     {
       "id": 20,
@@ -117,7 +163,21 @@
         "芦芽短时"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "综合考查诗句的动静结合及背景意象。"
+      "explanation": "综合考查诗句的动静结合及背景意象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1f2aba989dffe84735d6a0219f62771186f01cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1010218efeb6f7ce50c57ddb314649c21c032b05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3743e96b631ce51f34e3c6870d3eee1fa4fdf647.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6d9056c36e6b53263e2d37502a2a7b9d0e8a16d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5983fb347aa68a8ee155bda1a3d7fec0725650d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b8a2c483dd7e418ca17976dee11e522458d50ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53f8dca75519e11e5e4b555ecaa88140abb87a48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d84e474e16791261f523e659d0b3fc39560a683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/837b30aea5b8654cc12dbd831a2c7e85eed04e86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/202c49938793212bdfa940667acfe29ffed32596.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -128,6 +188,16 @@
       "分不清古诗中的季节（如把初夏的黄梅看作春季）",
       "解释诗意时机械翻译，缺乏画面的生动想象"
     ],
-    "tips": "想象画面时，可以从色彩、声音、气味和温度四个维度展开，让诗歌变电影。"
+    "tips": "想象画面时，可以从色彩、声音、气味和温度四个维度展开，让诗歌变电影。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/74/74330305cc0ccd84ea3f2a8684f17f055222a926.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1b/1beac01a60cdc7ab2d2da0b60c5f3e63dcefdef1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/88/880ac3fea4e4a3b307756941de6e2b861969997b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/51/5163bc7a1d17979df36cabb4b0cbda474e3bb504.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/57/5721c10b2f2cde6e945fa66c1ca4874811dbc878.mp3",
+        "https://api.clthuanxie.cn/cc-audio/43/4327942cf5fa685a601b7b5c5451d6dcf5b7614c.mp3"
+      ]
+    }
   }
 }

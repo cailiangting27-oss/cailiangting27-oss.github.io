@@ -16,7 +16,11 @@
       "question": "测量身高时，我们应该穿着厚底鞋来增加高度。",
       "options": [],
       "answer": "错",
-      "explanation": "测量身高应脱去鞋帽，确保数据的真实性。"
+      "explanation": "测量身高应脱去鞋帽，确保数据的真实性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b640199f24b26a1e95af3d830b5e464e06ba404f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a277402c169bdde33a334918162c4b4e81a5ebe6.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "以上都是"
       ],
       "answer": "以上都是",
-      "explanation": "身高、体重的增加以及身体局部（如指甲、头发）的变化都是生长表现。"
+      "explanation": "身高、体重的增加以及身体局部（如指甲、头发）的变化都是生长表现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/3762d517884f4bc52557888e58a1bff237a7ea33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8a5e6637c6d46b5c92ee7527339a39f8cfd7ad19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/382be637dd1fe887042299af0521aba4791b400d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39a21168281522121e7f597dd8cd186839404130.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd3aadacd34e9d21223c3c470fb3eefd691c2e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea9c8a42b3066a79b99e956df67353f2de6418b3.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "衣服颜色"
       ],
       "answer": "衣服颜色",
-      "explanation": "衣服颜色是个人的外在装饰，不属于身体生长变化的生物特征。"
+      "explanation": "衣服颜色是个人的外在装饰，不属于身体生长变化的生物特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8603af2dd132ff5fcf0687aeb7ba79a146b63b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/3612a433c18058c98bb5b5f1950612e900c0d914.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3193595c29ee14222073ad3b50eb62b69886b6e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccbe5f8a4be75a73efe109d8ee2e105089bb033f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/091708dde3df588b91956f796104feab95435fc9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b9074e8bbe5f995d101e696c8fc1ef8e783fa87.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "通过对比小时候的照片和现在的自己，我们发现身体在（___）。",
       "options": [],
       "answer": "生长",
-      "explanation": "体型变大、身高增长统称为生长。"
+      "explanation": "体型变大、身高增长统称为生长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7846cd8044666f94d039ab8743ee38585e816f0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4ba4ad7ee7dd2f2e5f2a8938e7b2595be8a97645.mp3"
+      }
     }
   ],
   "knowledge": null

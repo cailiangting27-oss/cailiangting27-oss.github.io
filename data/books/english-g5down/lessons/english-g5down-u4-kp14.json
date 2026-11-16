@@ -21,7 +21,17 @@
         "third; three"
       ],
       "answer": "three; third",
-      "explanation": "第一空表示数量用基数词，第二空表示顺序用序数词。"
+      "explanation": "第一空表示数量用基数词，第二空表示顺序用序数词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e141074a6e8f21d1ae044fcd4221522bca345da1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/9384e26041ded11f03a3dfd7503a48ed491a88db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aac99d2cd5af3e6ff2359175125d9f3b998cc1b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6939715da9c2fe22d3d57fc1550ffb00e6845b9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b7912986669eaaebca966b51e3d6bc319857982.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62d95da987b10e89df177aa7b9fec0fc765dd414.mp3"
+      }
     }
   ],
   "knowledge": null

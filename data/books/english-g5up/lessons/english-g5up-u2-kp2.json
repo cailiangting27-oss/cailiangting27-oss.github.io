@@ -16,7 +16,11 @@
       "question": "在句子 'What do you have on Mondays?' 中，Monday 必须用复数形式表示每个周一。",
       "options": [],
       "answer": "对",
-      "explanation": "on Mondays 表示每个周一，符合习惯表达。"
+      "explanation": "on Mondays 表示每个周一，符合习惯表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/2272bb66cce50b321e1982b040ba0ade4970d61d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c4028f04f420a3521a9b4d90709b022d8650e1b.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "are"
       ],
       "answer": "do",
-      "explanation": "主语为 you，助动词用 do。"
+      "explanation": "主语为 you，助动词用 do。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6acdc404ef9c747c88cee86a1aef61d47ef0ec2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fc2173e00c79b2d477b3c728b173adab3bd0dff.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "the Saturday"
       ],
       "answer": "Saturdays",
-      "explanation": "星期单词首字母需大写，表经常性行为用复数。"
+      "explanation": "星期单词首字母需大写，表经常性行为用复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c49d19dffba50f67c0be8dfc679052be35be636.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e68bac4949f2e78634e25bc77cc8ec4cade4a886.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd2ddac5c5c7a04ba9ae0e63610671adda93788f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17063c506b81a46c2eb7716af50cf19d4ed5a6c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33debdd59e53f127f6c026644f800f38fa8f61de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f895b649784c1828800e5a907f4fcf7806f6f540.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "No, I'm not."
       ],
       "answer": "No, I don't.",
-      "explanation": "Do 引导的一般疑问句，否定回答为 No, I don't."
+      "explanation": "Do 引导的一般疑问句，否定回答为 No, I don't.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0af5c1045bf68ef1ce6c19e1d1115c08e511220c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76ab27ebb626260bcfc67fb9ee1b74f3f31467f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/284da0cb3a948422cae9aa2005de405f53017333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae764f02660f6d3fa2c7a95a13a5839976e31ab7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47da5c1cce1bf6c9ef010031c53f6488fded897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d0d08d8bfb83df8ec794e7eee7a29beb5f1a578f.mp3"
+      }
     },
     {
       "id": 13,
@@ -80,7 +114,17 @@
         "It's Wednesday."
       ],
       "answer": "Mr. Li.",
-      "explanation": "Who 提问人，回答应为姓名或称呼。"
+      "explanation": "Who 提问人，回答应为姓名或称呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f65f8ed15c2d48120e3fa4df6be5c7f21800809.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c09daadc1ff05306b6382096c2fed406baaef83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/0534fee5ebe14edd96e72764fa8b2a2c031c1869.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d13dfb0d25beade69fe712c2af322c3bb034b9f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9423e379dcb7f9a34c7270a3edad49e60749d49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a985ce9487e0d6b838352b638d5428bcb1a832b0.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +135,11 @@
       "question": "What ______ you have on Fridays?",
       "options": [],
       "answer": "do",
-      "explanation": "助动词填空。"
+      "explanation": "助动词填空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f74f78e0590ca43c1e119e82f6fb97b343580b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/608d9ad7f0356b873724d04b1bec8970768dff54.mp3"
+      }
     },
     {
       "id": 22,
@@ -108,7 +156,18 @@
         "?"
       ],
       "answer": "What,do,you,have,?",
-      "explanation": "特殊疑问句结构。"
+      "explanation": "特殊疑问句结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b935a62b42c7cadf83427f138cda1a9b5f264fd8.mp3"
+      }
     }
   ],
   "knowledge": null

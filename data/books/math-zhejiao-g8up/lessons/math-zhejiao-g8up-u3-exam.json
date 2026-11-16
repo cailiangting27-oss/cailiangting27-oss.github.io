@@ -21,7 +21,15 @@
         "面积相等但不全等"
       ],
       "answer": "全等",
-      "explanation": "SSS 判定。"
+      "explanation": "SSS 判定。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 6,

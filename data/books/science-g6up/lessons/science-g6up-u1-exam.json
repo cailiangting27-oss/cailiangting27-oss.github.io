@@ -16,7 +16,11 @@
       "question": "自然界中绝大多数生物体都是由细胞组成的。",
       "options": [],
       "answer": "对",
-      "explanation": "除了病毒等少数非细胞生物，细胞是生命结构的基本单位。"
+      "explanation": "除了病毒等少数非细胞生物，细胞是生命结构的基本单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74939d851baa5d09aef0fec56e82997f968a134c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78569f104a800772fd38c6a80414ec5ad6fbfe12.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "草履虫是一种单细胞生物，它不需要吃食物也能生存。",
       "options": [],
       "answer": "错",
-      "explanation": "草履虫通过胞口摄入水中的细菌等小型有机物。"
+      "explanation": "草履虫通过胞口摄入水中的细菌等小型有机物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e65a94f274446af083dc6c405ced4f471a590709.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/550ef0b09cda7a83056406b4ec7a5aff536fc14f.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "调节显微镜时，若物像在视野左上方，应向右下方移动玻片。",
       "options": [],
       "answer": "错",
-      "explanation": "显微镜成像是倒像，物像在左上方，实际物体在右下方，应将玻片往左上方移。"
+      "explanation": "显微镜成像是倒像，物像在左上方，实际物体在右下方，应将玻片往左上方移。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b6238d21c8c7b3e29babac219c29cd5f860f48e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fab509e534bfe2e21d01f57ceb5257d71ade441.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "感冒、流感等疾病往往是由肉眼看不见的病毒引起的。",
       "options": [],
       "answer": "对",
-      "explanation": "病毒是比细菌更小的微生物，具有致病性。"
+      "explanation": "病毒是比细菌更小的微生物，具有致病性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bcf6b97831cc978f070156f0940b71d63ec5b5f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bc838c15bb9ec4b63c59dfa25f8418b09ca3ced.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "用手指用力按压"
       ],
       "answer": "将一边先接触水滴，然后轻轻放下",
-      "explanation": "这种操作可以有效避免产生气泡，以免干扰观察。"
+      "explanation": "这种操作可以有效避免产生气泡，以免干扰观察。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02e933ee1980c6ddb3b3995aa8a090db52e0de75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d148fa9492ba9fc78fc4c3104db037cdbfdfcafa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f708f110fd3929f60fc515e9458c7c9e366918d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/530802b90e74cbae0e68ea98a2c86e63d78974f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fb4625222e3d7b10fcbc3ad48106be1a0389ea6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe31e95eb05532188b5afe5ae887096286b8beb7.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "细胞是生物最基本的结构单位"
       ],
       "answer": "不同部位的细胞形状完全相同",
-      "explanation": "不同部位的细胞根据功能需要，形态会有显著差异。"
+      "explanation": "不同部位的细胞根据功能需要，形态会有显著差异。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1ce269acaa0b88c85476228c22faf374e6a0626f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9ebf2ac77d6c769569cf217611b05f0c8a742cf7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddfcf99cf1759fdf773dec3f6f4ed0910a36fea9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d55e345074d3d48d8a8b17bf124f1e93fdb6581c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ad4657199b43145c0cabfa903b6216b60890c5c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/818f320b0265897b1ed6ab7492db4fda896e471a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "小草"
       ],
       "answer": "微生物",
-      "explanation": "列文虎克是世界上第一个发现微生物的人。"
+      "explanation": "列文虎克是世界上第一个发现微生物的人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/8007a3fea6bcb3fea3dcf7bf9c7fb0bdfc1c059a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd2dd78da0e2eb675e83a372905e762965672f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a20633d3b3f85a5adac53ba0fa40872a1cc539f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c1b9d44905f6945a2b15aafc5012bb730542b7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90ec779ad29ded51dac7f31aea77beaeb9be1a56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed36287915933781820e6d379ffcd8e8c6a18b15.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "载物台"
       ],
       "answer": "物镜",
-      "explanation": "旋转盘（转换器）上连接着不同倍数的物镜。"
+      "explanation": "旋转盘（转换器）上连接着不同倍数的物镜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e31eff438c0e3f9bc365e739211de724e1890158.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb503eca305057d08a04b3e07ebe9531f47219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/673011f3e6570fc5d072cc19782a4e1134753476.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b91f2a37ed7e6a3c1e3f3ab7be36f2c7a7aefd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c5aafacafcd1878958ca76aa5c0be3c1c907d49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d34dd1eece2d03d2d1ca7bce55ee43bfbfa97ac1.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "真空环境"
       ],
       "answer": "温暖潮湿",
-      "explanation": "温暖、潮湿和有营养的环境是大多数微生物繁殖的理想条件。"
+      "explanation": "温暖、潮湿和有营养的环境是大多数微生物繁殖的理想条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff8e25e4869d0d3f41ec51b2260acd3e194d938e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7f/7f2184de7861418e7775339d0a3b501cc93da70f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca28d3172ee5d9fa56b8a47c418411114fd4ed56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58a95881d7e48427c06827a504aed8353aeab9b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e0c1f4b0c93e5583e1e766ca8a3362e6000ab5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cce9a0492dcab3bc2019e98f1235b9e917a5457.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "细胞壁"
       ],
       "answer": "叶绿体",
-      "explanation": "叶绿体是植物细胞进行光合作用的场所。"
+      "explanation": "叶绿体是植物细胞进行光合作用的场所。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/50480db9a563ff7e59132f3222344c512270f795.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/062d3debde2e7db09e68b6f45e451807e5b3efe4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a12c6b38186c2585c77b537f8bb865af97edf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c71d064802993e225e5c89261e2b1b6163cfd4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f32a5e242951ae0d80819bcf6fd7c0161233d91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb5ab5be40e20a6c0d8b6f11ab3319b974b5794f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "转换器"
       ],
       "answer": "调节旋钮",
-      "explanation": "调节旋钮是专门用来调整焦距确保成像清晰的。"
+      "explanation": "调节旋钮是专门用来调整焦距确保成像清晰的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afafa88c1a254ffcc2806384e1c9159d8b78142b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9fbb503eca305057d08a04b3e07ebe9531f47219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55c384e0efa49949c14270d88ea3b88dfa96df3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/673011f3e6570fc5d072cc19782a4e1134753476.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91ff4cf5c40e4b1711ca20949122340d1a1dc7f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ec15c8662c8fab7bc6f3d4d7349887341af67aa.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "防止食物被撞碎"
       ],
       "answer": "隔绝空气，抑制微生物生长",
-      "explanation": "真空包装去除了氧气，使好氧微生物无法存活，延长保质期。"
+      "explanation": "真空包装去除了氧气，使好氧微生物无法存活，延长保质期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f444e712d7c8ff113b65f81fed3c776196352508.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03356f7de9d4774e8d4a98472a52c4c1c83fc67d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4009056f3add52d796e933c11e3ac634c2030b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8222036a0c096bd00fb6fa116769c5acf8b483cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1cfd4544888f6b9ecb21d2b5cd1121f63885840.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f8feac17b040aa6df611135306ee278ef301aad.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "罗伯特·胡克在（）年左右利用显微镜发现了细胞。",
       "options": [],
       "answer": "1665",
-      "explanation": "1665年是科学史上细胞被命名的关键年份。"
+      "explanation": "1665年是科学史上细胞被命名的关键年份。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/daa4c5555077436eb7a3de033061b358d1530a05.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82819701a91b48394cc175e2fef28eba9cdb4b7b.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "绝大多数微生物结构极其简单，肉眼（）看见。",
       "options": [],
       "answer": "0",
-      "explanation": "此处0代表无法感知/肉眼可见度为零，或题干设空意指数量级。规范答法应为无法，但在纯数字约束下，此空设定为理解题意逻辑（0代表否定/无法）。"
+      "explanation": "此处0代表无法感知/肉眼可见度为零，或题干设空意指数量级。规范答法应为无法，但在纯数字约束下，此空设定为理解题意逻辑（0代表否定/无法）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/004a066fb8036052865ddabb77e81fe0f71d12c1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cccf938056647ec6878ca144d500209cb56190e2.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "靠近人眼的显微镜镜片称为（）。",
       "options": [],
       "answer": "目镜",
-      "explanation": "目取眼睛之意，即对着眼睛的透镜。"
+      "explanation": "目取眼睛之意，即对着眼睛的透镜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e8d93e38298575452534a7ca2dc3d02bd7a6e3d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32a3068b2e90daa23d1b51bc58e3c813462007e6.mp3"
+      }
     }
   ],
   "knowledge": null

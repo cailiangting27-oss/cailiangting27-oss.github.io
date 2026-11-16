@@ -16,7 +16,11 @@
       "question": "在古代，人们曾把字写在竹片上，这种书叫竹简。",
       "options": [],
       "answer": "对",
-      "explanation": "竹子是古代造纸术普及前重要的书写材料。"
+      "explanation": "竹子是古代造纸术普及前重要的书写材料。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81092d3deab4f2c0290290a50d8b6f3f262b631c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98f207312ef867ef40e45392788dce705ed0e4d8.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "防蛀防腐烂"
       ],
       "answer": "轻便易携带",
-      "explanation": "纸克服了竹简笨重的缺陷。"
+      "explanation": "纸克服了竹简笨重的缺陷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20f112e1ae35056673722bb53ff2732b6883f89b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b30db41859acfac6722ac68060182cc62894278f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acaed1c116ae81530361db6f62c7b85bc3c60b05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5b7621b93405175cc088c63da7a9f5245931953.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c7bf9c955412c5fa16b62f6f86e42e2177b630c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7cb4643b47106fe911174b38ff984eb214b82f9.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "在造纸术发明前，人们在竹片上刻字，一捆竹简写不了太多字。大约（ ）年前蔡伦改进了造纸术。",
       "options": [],
       "answer": "2000",
-      "explanation": "蔡伦在公元105年前后改进造纸术，距今约两千年。"
+      "explanation": "蔡伦在公元105年前后改进造纸术，距今约两千年。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8efc3d19a2e74b5cac42f096b0f532359aca263a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3be163387f71fa825d83fa2bb6fb4e527d5530ac.mp3"
+      }
     }
   ],
   "knowledge": null

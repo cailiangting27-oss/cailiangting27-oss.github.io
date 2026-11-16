@@ -21,7 +21,17 @@
         "达尔文"
       ],
       "answer": "罗伯特·胡克",
-      "explanation": "1665年罗伯特·胡克用显微镜观察到软木塞上的小孔并命名为细胞。"
+      "explanation": "1665年罗伯特·胡克用显微镜观察到软木塞上的小孔并命名为细胞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a12119c909e40c07612f72b09bda8150fbbea789.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/dadca09a63ebe9345b8b268449af684243d98743.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b680a3a9dbe9b0a587e6034878466f634dcda7b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4abf1d895a0823add0882b4dc8019ec5c695c33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d65841aea827cc30479173f4b27a0b206b908d5c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5ee7f9372f55fcca0e5257dc0d2065ddc2bbe76.mp3"
+      }
     }
   ],
   "knowledge": null

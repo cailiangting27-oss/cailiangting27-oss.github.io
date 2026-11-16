@@ -16,7 +16,11 @@
       "question": "《爬天都峰》中描写石级“笔陡”，是为了说明山路很难走。",
       "options": [],
       "answer": "对",
-      "explanation": "环境描写如“笔陡”、“铁链似乎从天上挂下来”都突显了爬山的困难和挑战。"
+      "explanation": "环境描写如“笔陡”、“铁链似乎从天上挂下来”都突显了爬山的困难和挑战。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d26e77ab7def4f673716a4f8fa68a07e7282ea7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d209bf4cfd5d8985e31f93f409bac2cb27c72eb4.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "介绍小路的构造"
       ],
       "answer": "表现天气寒冷，路不好走",
-      "explanation": "寒风和崎岖表现了环境的恶劣，为后续人物克服困难做铺垫。"
+      "explanation": "寒风和崎岖表现了环境的恶劣，为后续人物克服困难做铺垫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10e3138e7b70a15d991a7718b33fef85af5ff2a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/542ce07642ce3882ba42218e9328ccee909f1089.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575062b5d4cda4e0b7089096343cae756503ee73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e682eeff4fcd94b0d2dc4562ac39784725a6f813.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/253c2c24dac90a7be0c4164b9591eff195ecb9da.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8c63f7424461f300b957772e38a1ec830977d8f.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "描写背景声音"
       ],
       "answer": "人物内心的焦急或沉思",
-      "explanation": "以动衬静，突出环境的压抑感或人物心事重重。"
+      "explanation": "以动衬静，突出环境的压抑感或人物心事重重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d412bfb3f0e17db38634c243ac4b400e142defe1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/851e8b149ea359e39ea8082781782bed9e28d38e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb12d81ae7493af35de6a721bb466e7aeae7b76f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64272c635d3ad9460a5226f0a131342af26abbdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fef88d75600af255831e992c26d61513f7e3673.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b618382465cb30a41d39b40a4c0b7b18d36ccc24.mp3"
+      }
     },
     {
       "id": 23,
@@ -65,7 +89,18 @@
         "挂下来"
       ],
       "answer": "陡峭的,石级,似乎从,天空中,挂下来",
-      "explanation": "仿照《爬天都峰》中的原句结构进行排序。"
+      "explanation": "仿照《爬天都峰》中的原句结构进行排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4ae996783782a9d0a686136e9186b0ddbb9d79f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/589e3144be349de9461f066c4ef653b4dca33764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/eff4d92ee224811135283051e61bc2f721c75a75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79b33c6763a25cdc9101e0ada442502fc8247e6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efa7b1a944d248ee554cf8540c26ae9c811abd7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/131566fcb5651d74e5f4969beeb516b761017e6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43e8a204b47cbcb69a1aa16e0729c9cba7dcfcb1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -76,6 +111,16 @@
       "环境描写与故事情节脱节，写了很多风景但对叙事没用。",
       "形容词使用过于苍白，只会写‘很美丽’、‘很可怕’。"
     ],
-    "tips": "尝试在人物心情大好时，描写路边的花草都在点头；在大考前，描写周围空气的凝固。"
+    "tips": "尝试在人物心情大好时，描写路边的花草都在点头；在大考前，描写周围空气的凝固。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/86/865ffacc54e56143ea0adecbf88c4b1d3e23bf3b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6a/6a40c443296e9641a49257c5e655c30b2f93b343.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/45/459ef8927ad5bb8a94d1405a0491fd4868b4f675.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/87a309a9e7f79f8725d9f99c82752f72123e13dd.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e1/e1c0554e3d8b3628ce129708c830bac088da3321.mp3",
+        "https://api.clthuanxie.cn/cc-audio/52/52fba3987168bf7d12d7e96555703993e9440e57.mp3"
+      ]
+    }
   }
 }

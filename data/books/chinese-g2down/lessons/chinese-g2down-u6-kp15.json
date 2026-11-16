@@ -23,7 +23,19 @@
         "天空中的"
       ],
       "answer": "天空中的,星星,像,闪闪的,蓝蓝的,宝石",
-      "explanation": "本体是星星，喻体是宝石。"
+      "explanation": "本体是星星，喻体是宝石。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e509ffa35930befa4656c6f2c9428b93d774db5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c05bde81eae592bbfb19c72edfb4d390ddb4d690.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81619aa654bd930da9f0d27cfd3d3b959ec1c143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5872bb464c579657920995c24fa6b0979835f1ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92e5dcd954d5684232872637323572d6152afd04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aee409621642dd7433a2c30045d367d582af61e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d4768b9192f78ce70888efbe6c921d3809ab2962.mp3"
+      }
     }
   ],
   "knowledge": null

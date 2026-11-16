@@ -64,7 +64,15 @@
         "自北向南"
       ],
       "answer": "自西向东",
-      "explanation": "自转方向自西向东。"
+      "explanation": "自转方向自西向东。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20566ba3e1849aba2b420c77da3fdeec025aca11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ee4d6ce183dbef4c3edc98418fe38cdebc89d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f0b66f359fcc6fa93ae5859029af41bed2a9b20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a07e37226c05d7ba0d470084ce758aa194da31e.mp3"
+        ]
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "8厘米"
       ],
       "answer": "4厘米",
-      "explanation": "在弹力限度内，物体的伸长量与受到的拉力成正比。"
+      "explanation": "在弹力限度内，物体的伸长量与受到的拉力成正比。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04da7d04ed5328855093dedeb46004b5222509c6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea24a7087aeabf5b9d53482f23e2f5141c8c0409.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c82e45a11e4fb8c02ff650c97eb534841ab1d85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b58945289af669968f068249b9b632b311ff113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/216560453beaefede7b81829039047dc68fc7e0e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a5446b6b76eb3c0b212dca836e8bcb61920ea7b.mp3"
+      }
     }
   ],
   "knowledge": null

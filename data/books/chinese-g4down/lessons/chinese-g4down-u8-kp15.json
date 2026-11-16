@@ -21,7 +21,17 @@
         "可圈可点"
       ],
       "answer": "平平安安",
-      "explanation": "平平安安属于AABB重叠结构。"
+      "explanation": "平平安安属于AABB重叠结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/616a2890389f4fb9cef278cd0f62b6b3dc70bbd0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/bed68010f7f740237a6714dc7e622fcd5a2fca95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/925fda46ea08a164b092be6006668adc5b1ce072.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f43df3dccaf1900ae47da8968bc828480671fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e91314dea8deb796108f59a3e73829c5fbf2e546.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14b0657efa3f0ce1d88a5b7c55a7357beb0b804f.mp3"
+      }
     }
   ],
   "knowledge": null

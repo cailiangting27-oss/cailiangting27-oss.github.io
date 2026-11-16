@@ -16,7 +16,11 @@
       "question": "建立自然保护区是保护生物多样性的一种有效措施。",
       "options": [],
       "answer": "对",
-      "explanation": "建立自然保护区可以就地保护生物的原有生存环境。"
+      "explanation": "建立自然保护区可以就地保护生物的原有生存环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8840a13d44b70fb83387c0fc2eb6a3d75ef54a4e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7c3b03edcb3de4835060c50ad00414baf6b5312.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +36,17 @@
         "环境整治"
       ],
       "answer": "迁地保护",
-      "explanation": "将遗传物质或种子等移出原产地保存属于迁地保护。"
+      "explanation": "将遗传物质或种子等移出原产地保存属于迁地保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fd25e0166e98bb76ee1db713321dc0e165379f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a635c387c30c5e6cb9ca1114e01107c43eb531f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e02316c42cca367ff41baf33b12a922d40a942.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d159dc4cb508af14f8a5709462e772c73fb5885f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5224515be41acabbf2a9f383033bef67fce614e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7afb060e68733f0b7f8608141fec29fe060d5f3.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "the plate"
       ],
       "answer": "plates",
-      "explanation": "How many询问数量，后面需由名词复数形式。"
+      "explanation": "How many询问数量，后面需由名词复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94edae99b7f7357613ef657049042d1a16f80dd5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/9012c45d7bd54d45993199c9c2089f7746b9ce67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e51aa7f63f5147015c9fe80ac7cb247b54fc46f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82059ab3b93915cfa25872d426541870cb3babd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ce1c2304b100abb390e4d4169849ca6b72ffb4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a06c0c174976ccd3ecc3995e55667ea98a034e1c.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "算式 $12 \\div 3 = 4$ 读作：12除以3等于4。",
       "options": [],
       "answer": "对",
-      "explanation": "除号读作‘除以’，按照算式书写顺序从左往右读：12除以3等于4。验算正确。"
+      "explanation": "除号读作‘除以’，按照算式书写顺序从左往右读：12除以3等于4。验算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b1b41736dd9adb19db3d1420872c27b3bbb9763a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f36e7afd3b09948181c22833b725b9228ec7074d.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "$12 \\div 2$"
       ],
       "answer": "$12 \\div 2$",
-      "explanation": "求把一个数平均分成几份，每份是多少，用除法计算。列式为 $12 \\div 2$。"
+      "explanation": "求把一个数平均分成几份，每份是多少，用除法计算。列式为 $12 \\div 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f0eb33b9ba3830db4d06194a0073615d3170c6c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/07c1d07d984639d856da0c1a121148ffaa883dc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46599f0f48d94e9dc087069f287b70ecb03b7562.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c85b9964821036604b1ba7154912a5c7cd8a9d10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b21b7b6461ca8982c92b13e9cf5ec202d4e09e86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/911a8477e9856f657eef0f98a6f014a8fc303737.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "$18 \\div 3 = 6$"
       ],
       "answer": "$18 \\div 6 = 3$",
-      "explanation": "按照中文语序：18（被除数）除以（除号）6（除数）等于（等号）3（商）。"
+      "explanation": "按照中文语序：18（被除数）除以（除号）6（除数）等于（等号）3（商）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cb89fd1f2d52a85f44ce7dbf28167792277bc8b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/dbbe946d6845fa5b16a99a3a02d40987d12b4a32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11b32a37eb40e3baa854238afbc7fa7c0d83ce6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5541ddb2f8dfad258de8d5198af306ca6ec49e4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1750660494948abf786a4cf363de58b121d8fbb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c885a5febfb0edf8d94c1343340b74b6e39458a.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "48"
       ],
       "answer": "3",
-      "explanation": "求12里面包含多少个4。列式：$12 \\div 4 = 3$（组）。验算：$3 \\times 4 = 12$。"
+      "explanation": "求12里面包含多少个4。列式：$12 \\div 4 = 3$（组）。验算：$3 \\times 4 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2949113608cfb59ef8fe29d58381cc780958663.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c2f4fc9d6c3394f09abe27d8339ded54d2cb4a5.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "把10个心形饼干平均分成5份，每份有 ___ 个。",
       "options": [],
       "answer": "2",
-      "explanation": "列式：$10 \\div 5 = 2$。验算：$5 \\times 2 = 10$ ✓。"
+      "explanation": "列式：$10 \\div 5 = 2$。验算：$5 \\times 2 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7843c1c4d5ef23cebd42693d804bf37c874d644.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6370c75f8f905b9d71b3ee2c94a79b631dbf61b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "将‘除以’读作‘除’，这两者含义在初中会有区分，目前必须准确使用‘除以’。",
       "被除数和除数位置写反，如12除以3写成 $3 \\div 12$。"
     ],
-    "tips": "谁被分谁就在前。读算式时，像读课文一样从左往右顺着读除号。"
+    "tips": "谁被分谁就在前。读算式时，像读课文一样从左往右顺着读除号。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0e/0e1da86342ee97cf21d06a1e4b0b2c3c16fa93b4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/73/73ae1944e44f2cc9aed7d586b1bea3d752ccdb83.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a8/a8366898ddd7312bd7b8467575750cef1022ed8b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1b/1bd28399f78517815c0382764b50c82eac8ea8a5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/cb/cb04ea27b3632c6d07b7f7a70f01e9ece83c470d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/08/08381271daf6927aa0c9645e1b30e1441d58d8aa.mp3"
+      ]
+    }
   }
 }

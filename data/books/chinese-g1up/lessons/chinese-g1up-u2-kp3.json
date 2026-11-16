@@ -16,7 +16,11 @@
       "question": "“足”指的是我们的手部。",
       "options": [],
       "answer": "错",
-      "explanation": "“足”在古代汉语中指的是脚。"
+      "explanation": "“足”在古代汉语中指的是脚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26cea32494a436b855ecb99ed551d4920be4f5b5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b75899ca17c864267834c7d5445ad01fcc374d04.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“坐如钟”要求我们坐着的时候要像钟一样端正稳定。",
       "options": [],
       "answer": "对",
-      "explanation": "这是对坐姿的要求，形容坐姿端正。"
+      "explanation": "这是对坐姿的要求，形容坐姿端正。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6cff0c0e8542ad2dd9458792469bd92023d8357.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7c123dd77ab223be787d52ac54485fe28e0cb6b.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "手"
       ],
       "answer": "目",
-      "explanation": "“目”指的是眼睛。"
+      "explanation": "“目”指的是眼睛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a894c4583e68a9855570bf2cc7b5e31376bcb32a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8481effa10a79282d8a63ef7b7fae89968233779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0ea34a22f0eac2781fec4d2313834095742eee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c08a56997a213be6ddd1039b6232fe05403de514.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52c04606628698860ee5bf061452e09ae5ea8197.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "足"
       ],
       "answer": "耳",
-      "explanation": "耳朵是听觉器官。"
+      "explanation": "耳朵是听觉器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6a555569f2ab249440718ca6640cc4384f3fb7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0ea34a22f0eac2781fec4d2313834095742eee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8481effa10a79282d8a63ef7b7fae89968233779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b07e7149dc46f6af2c78660ad6dd9545fa533.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16fdcc7e77464f4559fdab3f9b9b1e647de3b029.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c094c449d8e37f469213849488ac5987c7b02e36.mp3"
+      }
     },
     {
       "id": 18,
@@ -70,7 +98,11 @@
       "question": "“站如松，(  )如钟。”",
       "options": [],
       "answer": "坐",
-      "explanation": "考查课文关于姿态的背诵。"
+      "explanation": "考查课文关于姿态的背诵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94402ed03cb90c0d4dc406d5a05afa3d01507316.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b2f9ebdeb6ae15b46c6590c4efe59f971d917b6.mp3"
+      }
     },
     {
       "id": 20,
@@ -90,7 +122,21 @@
         "听歌"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "考查身体器官的功能归类。"
+      "explanation": "考查身体器官的功能归类。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13d6b07e81862691cc766aa7afbddd5af3af6a27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9e88a8fc5619cb2d2ddc7ba29543d1fd6c03926.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19941f8048fa3857fc122394b6affacea3ef3d97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff0c85e855929578e5a3c6715975e2d80e6ade0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/966ff730a388762e370ec73d9c943d19f1230a2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f07f798e421ba9ef3fc568af94a1053e569ee36d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a25e2662147e172ca27016863e0527f2ffd6944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be89f02d9ba6e8aafb0e28e1f1500e24fbc29c6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ff7d6fe2c859d20a6437ab208ce8d0dd048e13c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/0742db00ee5a15dece9f4dd18be520c24a965357.mp3"
+      }
     },
     {
       "id": 23,
@@ -105,7 +151,16 @@
         "坐端正"
       ],
       "answer": "我们要,姿势,坐端正",
-      "explanation": "考查词语逻辑组合。"
+      "explanation": "考查词语逻辑组合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a336013c6e4ef91974d7e6cd12f52eeed0b592e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9605fdd79a2101674d0aa9a253e67cb84a87eba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ee7d2b601b082b8c3b515b731ab9f9873f22b3d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/430da5ec25057f02bd44d536e40e435286c0ce3c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -116,6 +171,16 @@
       "“目”和“日”混淆（多写或少写一横）",
       "“耳”的长横位置写错"
     ],
-    "tips": "玩“我说你指”游戏，家长说出身体部位，孩子指着部位并报出对应的汉字。"
+    "tips": "玩“我说你指”游戏，家长说出身体部位，孩子指着部位并报出对应的汉字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/92/92d6fb19efecdda3feba8523906f36be4b7348bf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ff/ff656fc27bc76ce76e3900e680075791cf6e8cd3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0c0373b76775daebc522eec7f50ddff7879cc24f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/39/39ef50460cd5ebd19efd6817d28c35f880da94e1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/68/68612d0cab06472dc480309e6a29eb38830027d7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c9/c9c0a2981b09816ea2a6645f881ca36638697b1b.mp3"
+      ]
+    }
   }
 }

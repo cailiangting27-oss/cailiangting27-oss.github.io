@@ -16,7 +16,11 @@
       "question": "“秋季里，稻上场”说明秋天是收获的季节。",
       "options": [],
       "answer": "对",
-      "explanation": "秋天是农作物成熟收获的季节。"
+      "explanation": "秋天是农作物成熟收获的季节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c097eded03fc7c4ac37f41b48f4a60489203e16.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/700448712172ee336019e687ee3e12bbd1c31f6f.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "冬季"
       ],
       "answer": "夏季",
-      "explanation": "夏季农事忙，这时候要进行采桑和插秧。"
+      "explanation": "夏季农事忙，这时候要进行采桑和插秧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f5bfea13cf80be2f43a6136b980a202f1ed4725.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c991d16933a8a3ba3534eac743a2e4bf0096a80.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "犁"
       ],
       "answer": "犁",
-      "explanation": "犁是用来翻土的农具。"
+      "explanation": "犁是用来翻土的农具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4dab27d49077889007e2d5efcd03ddb3e61aa5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/511f33bf7b7120827c35744a856662db57b4b8a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce0b6d1af2919980e9f591594230d1474073c1d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72c2ddd7d338b268df1165fd058802053568a372.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be09b1b4498b777c1ec3d91a6df198588062f751.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3caa5fc2d54e569928eb547599736871cf6f3613.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "“春季里，春风（  ）”，横线上应该填哪个两个字的词？",
       "options": [],
       "answer": "吹开",
-      "explanation": "出自《田家四季歌》：春季里，春风吹。"
+      "explanation": "出自《田家四季歌》：春季里，春风吹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8dcb4677934361404e9a951cfa95098c52645440.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bee71ab6aa7436854c499e8e8e5fc48d105dd42.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +103,17 @@
         "施肥"
       ],
       "answer": "耕地,播种,施肥,收获",
-      "explanation": "通常农事是先耕地，再种地，中间施肥，最后收获。"
+      "explanation": "通常农事是先耕地，再种地，中间施肥，最后收获。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a978172540fa8ebec9cb70786734f4175c9d68c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1e8a3ee6a07f6f2d82837abbed1087649ef9478.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae25ef893465e89e0d299f7e3d98872a91b46f9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08b8a9d6d10955949d9f3e009f58c640a6a24f34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ea556d87149ccf947e13e9b262b30687a7df761.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2ad0c95e5f87f06bb226518fb1396c03c4f326a3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "将秋季的收割提前到春季",
       "不理解“插秧”和“采桑”发生的具体季节"
     ],
-    "tips": "联系生活实际，夏天最热的时候是农事最忙的时候。"
+    "tips": "联系生活实际，夏天最热的时候是农事最忙的时候。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/94/940910b2a4e979cc3d16824c3adf4bcc4cf419ef.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c5/c5006644aff5391d9ca91ef6c78ffdd4e9fc331c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f93c648c3f8c0825f7ecf72432229e2a7a73f64.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/58/5819fe6a70be3ec7b6b6e3dbd183201db08f445d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/56/56dd58fb63a7c862798f5d2964fc468cba6ee95f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2b/2b22b5da2d13fc67f55e3fa744344a1b71385192.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "《我变成了一棵树》中，“我”变成树是因为不想在吃饭的时候被打扰。",
       "options": [],
       "answer": "对",
-      "explanation": "课文开头交代了“我”变树的动机是希望躲避妈妈催促吃饭。"
+      "explanation": "课文开头交代了“我”变树的动机是希望躲避妈妈催促吃饭。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/5981d6b6eba2bbdb759d31b7a0c88d559ddd2ee6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a20f2b53989d71b8cc614ccb12ea3b5de8dd33e2.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "在奇妙的想象中，我们可以写树木在跳舞，小鸟在下棋。",
       "options": [],
       "answer": "对",
-      "explanation": "拟人化是想象故事中常用的表达方式。"
+      "explanation": "拟人化是想象故事中常用的表达方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/dfca3afeaf54b2a3062429beb0c39a8790016276.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4924933061c1d1aedb41eaffdecc471b83350e7.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "在屋檐下挂着"
       ],
       "answer": "在天空变魔术",
-      "explanation": "云朵的特质是变化多端，符合逻辑。"
+      "explanation": "云朵的特质是变化多端，符合逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10a6ea3dbc367b241ea6c75f76f42f13d28a90cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/ba88af54cd3c92ac62d7b49f02f1199ab2d9b7ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e86ac0afa69f572009f8ae8bdc3d624d8f04625.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b17b37e41d851c5a46fb789037471975e23a916.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d4e734d4349f97ab975aaf19adedd09f5899ed6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/549b0945d06c3614bc41a979ce816f160a295dd8.mp3"
+      }
     },
     {
       "id": 20,
@@ -63,7 +81,21 @@
         "随风飘荡"
       ],
       "answer": "A-4,B-2,C-3,D-1",
-      "explanation": "根据事物属性想象合理的行为动作。"
+      "explanation": "根据事物属性想象合理的行为动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74839edb510616dc0f2e1ac5572c6d019b822770.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2fdfdb6eb4048f6231d6fba2981d3ee888e1e211.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1925ffb4a3c84782aaea93faa6fb54f5c9f8e1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b1cc38fd5933deacfcb65e49b6b1e0480964a99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce7034b338905cefcbdf18ef90b86b82c20e1a01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5095c94581972d62d23141c1653724c95d525848.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1a90aef2d7b71042c6b0a74a15ce4eae768c777.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10b0317fd1af4a97514ce0d32242437adc6a3535.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83d61a5a39bdcfcbf141f084a049e703ae864768.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1117fd3954c820e00d2b1cf93794384598d1d876.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -74,6 +106,16 @@
       "变身后忘记了主角原本的身份背景",
       "没有利用新身体的生理特征来制造故事情节"
     ],
-    "tips": "写作时闭上眼，想象自己的身体变成了那种事物，你的手会变成什么？脚会变成什么？你能感觉到什么？"
+    "tips": "写作时闭上眼，想象自己的身体变成了那种事物，你的手会变成什么？脚会变成什么？你能感觉到什么？",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/97/97ec5444a4c4ff3d25624ab4cec722c08a7908bb.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/04/04475e786091190524eb903b3e6b4d0df212c734.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d3/d3d4057a5241673a62ac44753b4b39498491ea5e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e6/e66a13eae59a473b6f9dfd437d2070b5e1addf5b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f6/f6e89c3eab228444761be35aa2d8dd5c39cd7cef.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fd/fdc218a9854f8267057bcb95cb4ec98b77b0556d.mp3"
+      ]
+    }
   }
 }

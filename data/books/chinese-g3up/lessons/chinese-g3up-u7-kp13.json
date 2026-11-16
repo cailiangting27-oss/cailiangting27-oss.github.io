@@ -21,7 +21,17 @@
         "是"
       ],
       "answer": "风,是,大自然的,音乐家",
-      "explanation": "出自《大自然的声音》第一节。"
+      "explanation": "出自《大自然的声音》第一节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3da12a73734bb851b8bbafd099751c6def2c4bd5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed4c9c550f3fe26a9e142fd12ecf4b7cf0a6814d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fb9a3b28acefcd6c52f561ab3529aa48bd6ff7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1cffddc40751fa020ecee450816aafd6cb067c32.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "测量气温时，气温计应该挂在室外阳光直射的地方。",
       "options": [],
       "answer": "错",
-      "explanation": "测量气温应在室外阴凉通风处，阳光直射会导致数值偏高。"
+      "explanation": "测量气温应在室外阴凉通风处，阳光直射会导致数值偏高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f19e0a8a743c539db04ef3897bdfb8f910c9b84.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27875501ade208beb4cae964a0333133021a93eb.mp3"
+      }
     }
   ],
   "knowledge": null

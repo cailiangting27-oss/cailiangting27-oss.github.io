@@ -16,7 +16,11 @@
       "question": "计算组合图形的面积，只能使用分割法进行计算。",
       "options": [],
       "answer": "错",
-      "explanation": "计算组合图形面积除了分割法，还可以使用添补法或其他转化方法。"
+      "explanation": "计算组合图形面积除了分割法，还可以使用添补法或其他转化方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d03523429963096cf621cb871b0a6c22095439e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/818e8efa748f017f4e099757d20209f2ca322bef.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "300"
       ],
       "answer": "200",
-      "explanation": "一个正方形面积 $10 \\times 10 = 100$，两个就是 $100 \\times 2 = 200$。"
+      "explanation": "一个正方形面积 $10 \\times 10 = 100$，两个就是 $100 \\times 2 = 200$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c312a49a978c1b736bae7a50e8bbc3d9d5d3d25f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc36d03d63220cd4f9014edd55af701217f65b6b.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "秤重法"
       ],
       "answer": "数方格",
-      "explanation": "不规则图形通常通过数方格法估算面积。"
+      "explanation": "不规则图形通常通过数方格法估算面积。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d05e255fa17ce3b5f809535a429676773aa29939.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be18be1865f57f0a879d5b2c362a0ddb585c2ddc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c00b1ebd051479670f35283e092b39f62ef6525.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14c1fe8b20d403889d9b763f48d6c88f1fd47077.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd69d596a47f642e7497e52fa5adddeb7dbefc40.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/466437dea344edc51be9787328e033631964ba58.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "分割图形后找错隐藏的边长尺寸",
       "添补法时忘记减去补上去的那部分面积"
     ],
-    "tips": "尽量采用简单的分割方式。数不规则图形方格时，可以先数满格，再数不满格。 "
+    "tips": "尽量采用简单的分割方式。数不规则图形方格时，可以先数满格，再数不满格。 ",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6a/6aa3bf612fbbd6e0e0de3579e7d3edbc5b67f3ca.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/22/22f5f65fb5df0ac94ee77f73fdb95c6a7fce39c9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/88/8805f5cf2a85a5b932307f79123c3b65700f5559.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/3e/3e1f51591ec9f01e3ca69faf74be883c9021fb4d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fc/fc75558fed987d9bfaed9e07fc18a2af6ab341cd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/44/442e84dc9afe3a2399de862c114c15886d148c70.mp3"
+      ]
+    }
   }
 }

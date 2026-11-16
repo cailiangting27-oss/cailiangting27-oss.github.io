@@ -22,7 +22,18 @@
         "like"
       ],
       "answer": "What,is,the,weather,like",
-      "explanation": "询问天气的固定句式：What is the weather like?"
+      "explanation": "询问天气的固定句式：What is the weather like?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee08931de79cd0fd2530ba802f7555e3bbec3b1c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97211a8888128314d9ca34d1005f08cb83ed5d9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f98669cc9b81fea7bd27f04b1d03b400f511a9df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab255e3c472c0e9261d2c14f1a2e8567c9b5a24d.mp3"
+      }
     }
   ],
   "knowledge": null

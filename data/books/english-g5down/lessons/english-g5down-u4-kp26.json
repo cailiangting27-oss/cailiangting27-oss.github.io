@@ -23,7 +23,19 @@
         "."
       ],
       "answer": "It,is,on,May,5th,.",
-      "explanation": "肯定句结构为：主语+is+on+月份+序数词。"
+      "explanation": "肯定句结构为：主语+is+on+月份+序数词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23f9c2aa07c7a42f234ee16fe264c2b1ee6d47a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c94f479833c5d401cffdfa7afe6c9c2d56448019.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e17694795d854607d5284e0228e281f50006611d.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39d039e1f2e9c1c73be5955eda05e079a5899b90.mp3"
+      }
     }
   ],
   "knowledge": null

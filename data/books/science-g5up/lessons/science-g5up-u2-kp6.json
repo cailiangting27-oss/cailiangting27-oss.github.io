@@ -16,7 +16,11 @@
       "question": "地震发生时，如果来不及跑出室外，可以躲在坚固家具旁的三角地带。",
       "options": [],
       "answer": "对",
-      "explanation": "当地震发生时且无法立刻疏散至开阔草地，应寻找结实的屏障和三角支撑空间躲避。"
+      "explanation": "当地震发生时且无法立刻疏散至开阔草地，应寻找结实的屏障和三角支撑空间躲避。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a2434b987392ad3df65f4d15a076225e4d86ba1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c1d03345d2142f08357f669a1b71b8e02a1036f.mp3"
+      }
     }
   ],
   "knowledge": null

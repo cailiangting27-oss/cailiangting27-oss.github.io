@@ -16,7 +16,11 @@
       "question": "在统计参加两项活动的人数时，中间重叠的部分代表这两项活动都参加了的人。",
       "options": [],
       "answer": "对",
-      "explanation": "韦恩图的重叠区域表示两个集合共有（交集）的部分。故描述正确。"
+      "explanation": "韦恩图的重叠区域表示两个集合共有（交集）的部分。故描述正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b19e76496fb68833f0611604210e223316bb81bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/ddf6032ac63033039df09e4af474f8696da6b695.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "$12 - 10 + 3$"
       ],
       "answer": "$10 + 12 - 3$",
-      "explanation": "总人数 = 集合1 + 集合2 - 重叠部分。$10 + 12 = 22$人，但有3人算了两次，所以要减去3。"
+      "explanation": "总人数 = 集合1 + 集合2 - 重叠部分。$10 + 12 = 22$人，但有3人算了两次，所以要减去3。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d24f08cc736d760a97864973aaa530a4f09cd0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/229318ff8a8a65a625db3681f2ad98ef6bbdefc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd541e90dc382395f112e108c210d7f1d0484ab9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bba16635ba91e56341bd3099c39eb23bd2305ce2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c8429339deb12aebf32bcce996bfe613e6e1124.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3bea7e347fcb693ddfdbecfb2c6797e55c0ea0dc.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "5"
       ],
       "answer": "10",
-      "explanation": "$15 - 5 = 10$人。验算：$10 (仅赛跑) + 5 (重叠) = 15$人 ✓。"
+      "explanation": "$15 - 5 = 10$人。验算：$10 (仅赛跑) + 5 (重叠) = 15$人 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e7bd22384942d7f87ef8e8e9e3fa5e2cd1d4097.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34eed3a8bf150d58e587bcb63a3e235733ee0d0c.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "3"
       ],
       "answer": "8",
-      "explanation": "没有重叠则直接相加：$5 + 3 = 8$。"
+      "explanation": "没有重叠则直接相加：$5 + 3 = 8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41301543666278945f17e497c5c1ef9bffe089b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3218f51cedb5d96b0a6d4b656fe2de5105ce5dd1.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "4"
       ],
       "answer": "6",
-      "explanation": "$8 - 4 = 4$差错；正确为$8 - 4 = 4$是仅左圈。对不起计算错误，重新计算：$8 - 4 = 4$ 不在选项中？不，$8 - 4 = 4$。噢，选项C是6，应该改为4。更正：$8 - 4 = 4$。重新设定题目：左圈总共10人，重叠4人，左圈独有人数为10-4=6。故选6。"
+      "explanation": "$8 - 4 = 4$差错；正确为$8 - 4 = 4$是仅左圈。对不起计算错误，重新计算：$8 - 4 = 4$ 不在选项中？不，$8 - 4 = 4$。噢，选项C是6，应该改为4。更正：$8 - 4 = 4$。重新设定题目：左圈总共10人，重叠4人，左圈独有人数为10-4=6。故选6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bfa509b3e542d1802adf6751d4bb352595caac4f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b39b5e16da3d7049551045d5145d0a9b08ba44b8.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +140,17 @@
         "22"
       ],
       "answer": "8",
-      "explanation": "$12 - 4 = 8$人。验算：$8(只骑车) + 4(重叠) = 12$人 ✓。"
+      "explanation": "$12 - 4 = 8$人。验算：$8(只骑车) + 4(重叠) = 12$人 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36825d41781a8a7b1f43cc2991f640e620256369.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10135aeb15ef052cae63ab385a8e773dd79aa9ea.mp3"
+      }
     },
     {
       "id": 20,
@@ -107,7 +161,11 @@
       "question": "三(2)班学生报名参加兴趣小组，参加航模组的有 15 人，参加机器人组的有 18 人，两项都参加的有 7 人。参加兴趣小组的一共有 ___ 人。",
       "options": [],
       "answer": "26",
-      "explanation": "列式：$15 + 18 - 7 = 26$。验算：$15 + 18 = 33$，$26 + 7 = 33$ ✓。"
+      "explanation": "列式：$15 + 18 - 7 = 26$。验算：$15 + 18 = 33$，$26 + 7 = 33$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9b07eae87278b0565caf78f64c4302cedb8972c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/af28d0c0e6386c4565eb8666d451b4c3f52c8759.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +176,16 @@
       "将题目中的总数直接当成圆圈中除了重叠部分以外的部分",
       "无法正确区分‘包含重叠部分的集合’与‘不包含重叠部分的独有部分’"
     ],
-    "tips": "做题时可以先画两个大圆，把题目中的数字填入对应的区域，先填中间重叠的，再求两边剩下的。"
+    "tips": "做题时可以先画两个大圆，把题目中的数字填入对应的区域，先填中间重叠的，再求两边剩下的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/be/be92b1af153e64e9683c3d9bf8c3567a0c331afa.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4b/4b410ccedbee16c145fa177e5b3191978d545268.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d2/d2bab82cee82e134ee6eb13585cd0d69002b69cd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/64/64f51c07d698f93e8399b06538c8e35e9565f3d4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6d/6d96915fb48d2d57236e02c9527918add4561e76.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7f/7f5c5c43922f90d8be5af74f0655a033c4900689.mp3"
+      ]
+    }
   }
 }

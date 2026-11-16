@@ -16,7 +16,11 @@
       "question": "《母鸡》一课通过母鸡负责、慈爱、勇敢的动作描写，改变了作者对它的偏见。",
       "options": [],
       "answer": "对",
-      "explanation": "作者通过观察母鸡护雏的一连串动作，产生了敬佩之情。"
+      "explanation": "作者通过观察母鸡护雏的一连串动作，产生了敬佩之情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/378210b0ac0af48edf42d9338bae8332deb712fe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2a02feb59f7ff4fde7bae0634ef08064ec3d040.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "性格散漫"
       ],
       "answer": "欺弱怕强",
-      "explanation": "在描写母鸡讨厌的部分，作者通过这种细节描写体现它欺侮弱小的习性。"
+      "explanation": "在描写母鸡讨厌的部分，作者通过这种细节描写体现它欺侮弱小的习性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/eece088683e2820d96e607523395c8bfec7da836.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01dfd680e452f6ff279b731e88ef21821fcdd7f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3458d3c136dd61927ecd63971765bf5967df286.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb4e721b9323288bb0b39715e97522c132fb30e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7851858d0d9610f1586c012b4092ec084f7b123c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07efb71af1088f60090b1fff138e53bbc004a5c8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "描写过于笼统，如只写“小狗在跑”，没有具体的姿态",
       "动作描写与要表达的性格不匹配"
     ],
-    "tips": "观察动物时要学会抓拍“特写镜头”，把大的动作拆解成三个以上的小动作。"
+    "tips": "观察动物时要学会抓拍“特写镜头”，把大的动作拆解成三个以上的小动作。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/81/815d6da80c1ecf0228b85a27c1d342f8291ec627.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/21/215de3662a693a5319d070ebc1d472c454a704cb.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b6/b6d02fe06f3792c27d84d6d0242e325fded9f6f7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6c/6c7bcca1f6bcd997efcea145eedd63bdb7c359d7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d8/d88863515a99c27e61c98f27ac81acc23fec5c69.mp3",
+        "https://api.clthuanxie.cn/cc-audio/de/de2debb6314c65a1257294892b3a8e997761e14d.mp3"
+      ]
+    }
   }
 }

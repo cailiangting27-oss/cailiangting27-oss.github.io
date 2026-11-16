@@ -16,7 +16,11 @@
       "question": "计数单位就是数位。",
       "options": [],
       "answer": "错",
-      "explanation": "计数单位是个、十、百等；数位是个位、十位、百位等。两者意义不同。"
+      "explanation": "计数单位是个、十、百等；数位是个位、十位、百位等。两者意义不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/906a87b621f6dff9dc2a257114a9ba034c79a086.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64199af5dd54741e78a872409f65e12ef7df3914.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "省略万位后面的尾数求近似数，要看千位上的数字。",
       "options": [],
       "answer": "对",
-      "explanation": "根据“四舍五入”法，省略万位后面的尾数要看低一位（即千位）的数是否达到5。"
+      "explanation": "根据“四舍五入”法，省略万位后面的尾数要看低一位（即千位）的数是否达到5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/5295730b845c1a7ececb0fd1ce2467a748e1674f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d1fa902d9d867d18825255a4abced7d0c959794.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "十万位"
       ],
       "answer": "千万位",
-      "explanation": "八位数的数位从右往左数分别是：个、十、百、千、万、十万、百万、千万。最高位是千万位。"
+      "explanation": "八位数的数位从右往左数分别是：个、十、百、千、万、十万、百万、千万。最高位是千万位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c66eb444db2e519d7dbc8395628ca6cb9b59cef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e097f48caaba44deedd534a28adf6effc83be91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3b7aae3e9a24393b9ad8dafdbb4637520d5a565.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bf84464f63d2a871f095ee0939406f0e5b23184.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30663644451cc325f0fbf87a88b8ea8d7bd82914.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f868d91222db8ad2f07ba8075a0a1ca4fa75390.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "五百万零二写作 5000002。在 5 和 2 之间共有 5 个 0。"
+      "explanation": "五百万零二写作 5000002。在 5 和 2 之间共有 5 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84b4de8d9b65031d8a516fda270cc21654f293be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/370d72a9e2d7c122fec49aebda040b612807f0c1.mp3"
+      }
     },
     {
       "id": 8,
@@ -75,7 +103,17 @@
         "4"
       ],
       "answer": "3",
-      "explanation": "先算 $35 \\times 8 = 280$，因为两个因数末尾各有一个 0，所以积要在 280 后面添两个 0 得到 28000。末尾共有 3 个 0。"
+      "explanation": "先算 $35 \\times 8 = 280$，因为两个因数末尾各有一个 0，所以积要在 280 后面添两个 0 得到 28000。末尾共有 3 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3477e57eeb670cf3d6362c4eb77ec1c71b932fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ca8a98fd24de5f46e75647a3ea8cbeb4bfceed2.mp3"
+      }
     },
     {
       "id": 9,
@@ -91,7 +129,17 @@
         "乘 100"
       ],
       "answer": "乘 10",
-      "explanation": "根据商的变化规律：除数不变，被除数乘几，商也乘几。"
+      "explanation": "根据商的变化规律：除数不变，被除数乘几，商也乘几。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46b494206ee886188b698157aeff62d45425cd57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e82d74d26bcb58a2d2eaea194a5c0feef6d95a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7927b72971c3b91225da8a1f7a8516b0c87b7d40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d32b90766af1248d1b22490aab7637920c58362e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae3e189565362b0345c8b2c36df920454c157b2f.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "商是一位数，意味着被除数前两位 58 小于除数 $\\Box 2$。要使 $58 < \\Box 2$，$\\Box$ 最小填 6。"
+      "explanation": "商是一位数，意味着被除数前两位 58 小于除数 $\\Box 2$。要使 $58 < \\Box 2$，$\\Box$ 最小填 6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de92da5ebc0578ffb26a7d4689671d7397d468fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f97fc2d1b19ce88d46f4f6bc9bfd12e62370de3e.mp3"
+      }
     },
     {
       "id": 17,
@@ -123,7 +181,17 @@
         "1000"
       ],
       "answer": "1",
-      "explanation": "1 公顷 = 10000 平方米。边长 100 米的正方形面积 = $100 \\times 100 = 10000$平方米。所以是 1 个。"
+      "explanation": "1 公顷 = 10000 平方米。边长 100 米的正方形面积 = $100 \\times 100 = 10000$平方米。所以是 1 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/319ef82eb9a0546bfb36b3d2fafb80ecccfdbeff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b447b1a70f69a78b54e426f6ee0f197b95f85ab1.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +202,11 @@
       "question": "1 平方千米 = ___ 公顷。",
       "options": [],
       "answer": "100",
-      "explanation": "1 平方千米 = 1000000 平方米，1 公顷 = 10000 平方米。$1000000 \\div 10000 = 100$。验算：$100 \\times 10000 = 1000000$✓。"
+      "explanation": "1 平方千米 = 1000000 平方米，1 公顷 = 10000 平方米。$1000000 \\div 10000 = 100$。验算：$100 \\times 10000 = 1000000$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b74c56117dd9f0b533f16526f94a6ed6bcbc6768.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6ab936313ee809fd524aee774e715f930d359cb.mp3"
+      }
     },
     {
       "id": 20,
@@ -145,7 +217,11 @@
       "question": "一个五位数，省略万位后面的尾数约是 6 万，这个数最大是 ___。",
       "options": [],
       "answer": "64999",
-      "explanation": "省略万位约为 6 万，万位应为 6。最大值则千位应填 4（四舍），后续位填 9。所以是 64999。"
+      "explanation": "省略万位约为 6 万，万位应为 6。最大值则千位应填 4（四舍），后续位填 9。所以是 64999。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c4e3e4e997b8828c863faad5072ccafa5d3c18d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccde5999d29c0f6205d8db1a2a494e724f767c1b.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +232,11 @@
       "question": "计算：$120 \\times 40 = ?$",
       "options": [],
       "answer": "4800",
-      "explanation": "$12 \\times 4 = 48$，因数末尾共有 2 个 0，补充后得 4800。验算：$4800 \\div 40 = 120$✓。"
+      "explanation": "$12 \\times 4 = 48$，因数末尾共有 2 个 0，补充后得 4800。验算：$4800 \\div 40 = 120$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d603ee7d68c2efcbf22c9908ffac1c57803fe611.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/247b393ce15ab6767e270707517c7e9e37a68507.mp3"
+      }
     },
     {
       "id": 23,
@@ -167,7 +247,11 @@
       "question": "计算：$672 \\div 21 = ?$",
       "options": [],
       "answer": "32",
-      "explanation": "$67 \\div 21 = 3 \\dots 4$；$42 \\div 21 = 2$。结果为 32。验算：$32 \\times 21 = 672$✓。"
+      "explanation": "$67 \\div 21 = 3 \\dots 4$；$42 \\div 21 = 2$。结果为 32。验算：$32 \\times 21 = 672$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c37bbebefd6ddd0f8e3b51153d40ba2c0a1f37e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/6111623d4fac9ab5ee35e9b1ee49b537bf7fabd3.mp3"
+      }
     }
   ],
   "knowledge": null

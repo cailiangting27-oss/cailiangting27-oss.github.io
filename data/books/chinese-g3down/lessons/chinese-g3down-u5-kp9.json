@@ -21,7 +21,11 @@
         "……"
       ],
       "answer": "？",
-      "explanation": "这是一个疑问句，表达好奇询问。"
+      "explanation": "这是一个疑问句，表达好奇询问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/2778f141f427e574c256ceeda64385613e5e7e53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04cc0d269bf91935b40c7682cdce4862c62d7b9d.mp3"
+      }
     }
   ],
   "knowledge": null

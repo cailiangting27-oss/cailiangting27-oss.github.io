@@ -16,7 +16,11 @@
       "question": "$5 + 4 \times 2$ 的计算结果是 18。",
       "options": [],
       "answer": "错",
-      "explanation": "$5 + 4 \times 2 = 5 + 8 = 13$。先算乘法再算加法。验算：$13 - 5 = 8$, $8 \times 1 = 8$, $4 \times 2$ 确实是 8。"
+      "explanation": "$5 + 4 \times 2 = 5 + 8 = 13$。先算乘法再算加法。验算：$13 - 5 = 8$, $8 \times 1 = 8$, $4 \times 2$ 确实是 8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca69611e9dc8661074287645c4932cdbd50be7eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a5c8eb12c78599f6a2fc9a5a9254bb849017864.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "$54 \times 9 + 3$"
       ],
       "answer": "$54 \times 9 + 3$",
-      "explanation": "$54 \times 9 + 3$ 应为先计算除法（注：此处纠正为乘除优先于加减规则），选项中应理解为考察乘除优先权。"
+      "explanation": "$54 \times 9 + 3$ 应为先计算除法（注：此处纠正为乘除优先于加减规则），选项中应理解为考察乘除优先权。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a133ae3a09c9f855ac446aae263ff1e18a69a1c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/0381de52f1bf6c2c2a23111ec572273326b8c0d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1339638fffa15458c26c2f91a196a2ceb04ed7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac2e988f86af5e0ecf92f47475ca488d927c58fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/749e51793ba8f1f5dfffd6d8ca07be36d73e68d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1157e44a40dea8bdb129337015f04c6dfd6ee9d1.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "以上都不对"
       ],
       "answer": "$4 - 32$",
-      "explanation": "$4 - 4 \times 8 = 4 - 32$，对应先算乘法法则。"
+      "explanation": "$4 - 4 \times 8 = 4 - 32$，对应先算乘法法则。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88712c7a1ffdc16bbdd563308a8f5b97f8f96e0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a057c50b77f2ba17819cb7e8e0689d7441ac1aa5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47a78c2ae2f09007ae617c232f71c826945dc626.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9265f5dd6dade78136a6be158ace46bf7c0f8ce3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8899b1d7636939c829b393038390cbf355e896c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97332d4cab0970e8abd1d7dc239429b3c3e5e0ab.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "13 个"
       ],
       "answer": "31 个",
-      "explanation": "$4 \times 9 - 5 = 36 - 5 = 31$（个）。"
+      "explanation": "$4 \times 9 - 5 = 36 - 5 = 31$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5026587f52caaf29f81dba9b8dc938c76ab72361.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4ff97812d336a9eb271d04966aa70849478c3143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53c06c0c061cb45c16e5ab80043b6d1de6daab79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f69c925273300172c9fd38079217f32d4c6ed109.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adc927396ce359ec8041648f9176607a31fecc62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/2014ea30f943db3a87eadede380a7a2a5a92d70f.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "小明买了 5 袋糖，每袋 8 块，吃了 12 块，还剩下 ___ 块。",
       "options": [],
       "answer": "28",
-      "explanation": "列式：$5 \times 8 - 12 = 40 - 12 = 28$（块）。验算：$28 + 12 = 40$ ✓。"
+      "explanation": "列式：$5 \times 8 - 12 = 40 - 12 = 28$（块）。验算：$28 + 12 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1815ece6b3307500b12cfd728b62f5e4ec35d06.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb3d1f66b027c224b2556d6cde0f1d05571f1920.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "计算：$72 \times 8 - 4 = ?$",
       "options": [],
       "answer": "5",
-      "explanation": "$72 \times 8 - 4 = 9 - 4 = 5$。验算：$5 + 4 = 9$，$9 \times 8 = 72$ ✓。"
+      "explanation": "$72 \times 8 - 4 = 9 - 4 = 5$。验算：$5 + 4 = 9$，$9 \times 8 = 72$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87a1cebcf7ea635fedee783b38219cbd0428e1df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d4827669118998529f443b0f04b99eb0d4db808.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "习惯性从左往右算，忽略了乘除法优先的规则。",
       "抄写算式时，把没算的加减法符号漏掉。"
     ],
-    "tips": "记住口诀：先乘除，后加减。"
+    "tips": "记住口诀：先乘除，后加减。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/34/341632cc0272a82e81d9dc2a32b1419aa809cf5c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/31/31a1830e00d34a65ed5c2e61d125a1e78c015922.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/02/022618dc0a990da43f1dc52cb8ef74a8c400b26d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/20/20773161091cc0cdbdae16694687b37219c60fe0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/60/60a953452a969bdd949232eff19bb43b4058d813.mp3",
+        "https://api.clthuanxie.cn/cc-audio/1d/1d5355e4102e57d64a28a9bb8e4516a7539c3eae.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "when"
       ],
       "answer": "whose",
-      "explanation": "whose中wh发/h/音，其他三个单词中wh发/w/音。"
+      "explanation": "whose中wh发/h/音，其他三个单词中wh发/w/音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1f0284f767456d655f5f05707d21e33f4ac7f6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a110e6b9a361653a042e3f5dfbac4c6105693789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46148cc3b4d2b3ac8073f14b0cba7f25ffff54bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89b8d783289b9811667b7a21cdb99cba222325bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30603fa9e0f620c305cd627ab0ff138a960c48bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b995a87d07063e6e34c2d5f3a8938d3cfa01c42.mp3"
+      }
     }
   ],
   "knowledge": null

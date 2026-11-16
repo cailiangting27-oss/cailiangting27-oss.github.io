@@ -32,7 +32,15 @@
         "无法确定"
       ],
       "answer": "变小",
-      "explanation": "$\\rho=\\frac mV$，$V$ 变大则 $\\rho$ 变小。"
+      "explanation": "$\\rho=\\frac mV$，$V$ 变大则 $\\rho$ 变小。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ]
+      }
     },
     {
       "id": 9,

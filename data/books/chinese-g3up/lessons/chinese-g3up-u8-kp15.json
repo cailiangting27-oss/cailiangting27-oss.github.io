@@ -21,7 +21,17 @@
         "男孩在随口乱说"
       ],
       "answer": "男孩深受感动，决定放回灰雀",
-      "explanation": "这句话反映了男孩内心波澜后的坚定决心。"
+      "explanation": "这句话反映了男孩内心波澜后的坚定决心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6daf3e5b6f7aecd54a5726e427e1c7fa936fea36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c07361e8df7a580940047eab0e710f5b8fb28356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3e0b4f06929b324431c95cd0c705e9a8e2323fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50bbf3ee0830cf33aef2c2facc67d486fa17930a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/870d98acb7aefaf4c0d421cf88d9a9136f072e8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d79a155e6ae7b95c12fff01904a7e2c429b63245.mp3"
+      }
     }
   ],
   "knowledge": null

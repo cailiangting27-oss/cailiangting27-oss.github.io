@@ -16,7 +16,11 @@
       "question": "如果要表达'在二楼'，英文应该是 'on the two floor'。",
       "options": [],
       "answer": "错",
-      "explanation": "层数应该使用序数词，'在二楼'应表达为 'on the second floor'。"
+      "explanation": "层数应该使用序数词，'在二楼'应表达为 'on the second floor'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83cbed8223fad8afeacc4f476b45703ad073252a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5df4d703a1ab55edd857f5d02897ad9b88bfd429.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "under"
       ],
       "answer": "on",
-      "explanation": "在第几层楼固定搭配介词on。"
+      "explanation": "在第几层楼固定搭配介词on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b2bf96d386811cb4cc7f22fb48efc309dbe2438.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a135b99f15c24f929cfb1a51b53092597b6ffac2.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "they"
       ],
       "answer": "this",
-      "explanation": "Is是系动词单数形式，主语也需用单数指示代词this。"
+      "explanation": "Is是系动词单数形式，主语也需用单数指示代词this。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/366cbdd41ba06c4aaa665d7126cc004a774591dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ccf720ae2a65bf420d3032289d78d77e9b8739d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1fdd46d8d229558fa889e1610ec4ca9adc25328.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b56c11d36b6fe26147f65943796ec675992f3ff9.mp3"
+      }
     },
     {
       "id": 10,
@@ -64,7 +88,17 @@
         "on"
       ],
       "answer": "next",
-      "explanation": "next to为固定搭配，意为紧邻、在...隔壁。"
+      "explanation": "next to为固定搭配，意为紧邻、在...隔壁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0f5f6b09e4d2f1fdd8a9c9df35ec4642e34d899.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c46683a8f9c86808adc4afc876b3900a6dcca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edee9402d198b04ac77dcf5dc9cc3dac44573782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c8869983ffe3b4f9abe1dc851bda61399ef6e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26fd371f799d5e61cc07e0a19e101d4c779cadd0.mp3"
+      }
     },
     {
       "id": 14,
@@ -80,7 +114,17 @@
         "three"
       ],
       "answer": "first",
-      "explanation": "描述楼层必须使用序数词，first是第一。"
+      "explanation": "描述楼层必须使用序数词，first是第一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/855baaa0411df554080871f3298629af119e3d74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe05bcdcdc4928012781a5f1a2a77cbb5398e106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0996a37c13d44c3b06074939d43fa3759bd32c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b802f384302cb24fbab0a44997e820bf2e8507bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bf3319a1b9a5d551d0e704a524e101e9166889b.mp3"
+      }
     },
     {
       "id": 17,
@@ -91,7 +135,11 @@
       "question": "Where is the library? It is ________ the second floor.",
       "options": [],
       "answer": "on",
-      "explanation": "表达在某一层楼用介词on。"
+      "explanation": "表达在某一层楼用介词on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c69ee094ddb9547469a46109559a4504a6b044e0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de043c2a9109b14f81f9ce82513198b60208787a.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "The gym is next ________ the library.",
       "options": [],
       "answer": "to",
-      "explanation": "next to是表示方位的固定搭配短语。"
+      "explanation": "next to是表示方位的固定搭配短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9d33b3e0ad09cc30732694b4ac91152dc23b172.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d1d2da93f33288df4aaf42bfd36c4d1a371b3ae.mp3"
+      }
     },
     {
       "id": 21,
@@ -122,7 +174,21 @@
         "紧邻"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "first floor-一楼, next to-紧邻, art room-美术教室, second floor-二楼。"
+      "explanation": "first floor-一楼, next to-紧邻, art room-美术教室, second floor-二楼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/979c4118983cb1989c08fd06cf2ab0070f86228c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94e27b282b002cb90acf74dfb45f71529e424a24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b8fd8727d3bddc84e98e7b827f72392f1d68066.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0816b48fa3bbce493318671b73f0a6e091b7f369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f43c4ff75f7b4067f40840b42943c345b0cc006.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/089cc273b31a3753189b18d5bdb54e239fbef3a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fca7892c9602d1259d66f9708ec437c1b76c2c20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/256c6e7264bb59454445288d985e28623d23f204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e56804099b03c1b3f3585a1581d20b4084436b91.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d620c97de5a4ec3b87f623e561c89ac27450026f.mp3"
+      }
     },
     {
       "id": 22,
@@ -138,7 +204,17 @@
         "library"
       ],
       "answer": "Where,is,the,library",
-      "explanation": "询问地点的句型是Where + is + the + 地点名词。"
+      "explanation": "询问地点的句型是Where + is + the + 地点名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/fff6734faa395a230af92f9b79c7d36547fd3f68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525f61b6729229b1a8854a9e50bcaa52ea96b131.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fede30ca87820b78c15a6002bf64d966e89ff970.mp3"
+      }
     },
     {
       "id": 23,
@@ -156,7 +232,19 @@
         "floor"
       ],
       "answer": "It,is,on,the,first,floor",
-      "explanation": "描述方位的陈述句结构：主语 + is + 介词短语。"
+      "explanation": "描述方位的陈述句结构：主语 + is + 介词短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8b83d6fa9e61d2b3b66fd77526c518b3546c91d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0996a37c13d44c3b06074939d43fa3759bd32c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/3684c9d3c05e7bee19e2728c6a5b2bbccf0cd9c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84f8ae9cc7057e01f4068b2c0bbd248bf0a46b56.mp3"
+      }
     }
   ],
   "knowledge": null

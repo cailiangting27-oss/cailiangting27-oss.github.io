@@ -21,7 +21,17 @@
         "His"
       ],
       "answer": "He",
-      "explanation": "男性用 he。"
+      "explanation": "男性用 he。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee2ebda3b336b7ce77cca4519ed5873ef547488c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79b58b71cd28cfddde8367f3177c2645a7709bf5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd30c756f81900ea9437d4bedc745f67ce43e009.mp3"
+      }
     },
     {
       "id": 3,
@@ -37,7 +47,17 @@
         "Her"
       ],
       "answer": "She",
-      "explanation": "女性用 she。"
+      "explanation": "女性用 she。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b1ff9378bc14f98366aa309bb269111c8c6687f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7acc4a63bfa4b603392fb8adfd2d4ca89c11f46.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9deb4eae495272c28216117ab7a9d14e9eca393c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36edef5290e059014720a1c694b902e336e7738a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "男女代词混用。"
     ],
-    "tips": "先看性别再选代词。"
+    "tips": "先看性别再选代词。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/805e50db544894b55755ccc36632b23455cfae5c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/50/5039500761c3d540e2d40dc39c10d152eb16b874.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ac/ac1da4e153452fc2fbbd737e4d1a19341fab0d66.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6f/6f94ef1c3e2fd15bef242001f69d2d68005a369d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/90/908c2642541874b267119e738920f62a30ac0cc6.mp3"
+      ]
+    }
   }
 }

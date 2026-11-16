@@ -16,7 +16,11 @@
       "question": "我们通过耳朵可以听到声音，辨别声音的高低和强弱。",
       "options": [],
       "answer": "对",
-      "explanation": "听觉器官是耳朵，能接收声音信号。"
+      "explanation": "听觉器官是耳朵，能接收声音信号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a902520622e4ae940dff7e6e3d4d6e8c1e813f13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/5522e459cb4b57c85787d415e517dc127149a82d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "鼻子的作用是闻气味，它也是我们的呼吸器官之一。",
       "options": [],
       "answer": "对",
-      "explanation": "鼻子是嗅觉器官，具有分辨气味的功能。"
+      "explanation": "鼻子是嗅觉器官，具有分辨气味的功能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fbdd7a8f226eac3b9c7ef31aedfdbc9ab72f1094.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b61ef14855e95c8503fa95409c4fb095f617d96.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "耳朵"
       ],
       "answer": "眼睛",
-      "explanation": "眼睛是视觉器官，负责感知物体的视觉特征。"
+      "explanation": "眼睛是视觉器官，负责感知物体的视觉特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1c0d668e83c5d95a83990dd34fcb8d371b86c2c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/daac7c63f08af6070d70cae002ae114732691d7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a9abe7cd7d641b41d2f5106e9f44fcc8a2473ce.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "用眼睛看"
       ],
       "answer": "用嗅觉闻",
-      "explanation": "醋有明显的酸味，可以通过鼻子闻出来。"
+      "explanation": "醋有明显的酸味，可以通过鼻子闻出来。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa7f3b10ca5d30059100cc33e08d3bf8b4cfd8c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f954457718a5c7795083ffd42c7427deba657b67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac54f31516e0852950eb406ab8a73d74403e8d7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70af52328a976fec5d72d8e57901df2be93afd83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1b9621182fbcdfc4169b4419148f31f6bfed854.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2ba3d3e4db3170b517805c0fbdbac666a3892940.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "耳朵"
       ],
       "answer": "手（皮肤）",
-      "explanation": "皮肤是触觉器官，可以感知冷热、粗糙、软硬。"
+      "explanation": "皮肤是触觉器官，可以感知冷热、粗糙、软硬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70f58bc1f9357e77ad34e8b9f8f6b3518010d0a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30631558e5803eaa3e8ab63b926ed2a50bbbc02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce5441f777bfbace865e66121c3f35578f75fb9e.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "味觉"
       ],
       "answer": "触觉",
-      "explanation": "盲文是凸起的点状文字，靠手指皮肤的触觉来感知。"
+      "explanation": "盲文是凸起的点状文字，靠手指皮肤的触觉来感知。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84f84635ee0b224689444efa42275a0e21df8a08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/907b1b217e7e1c2cd4348454965360063e1e12b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74f0196010c61b8ee37fb3232ab51e46e62159d1.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "正常人的感官系统共有（___）大感官。",
       "options": [],
       "answer": "5",
-      "explanation": "人有眼、耳、鼻、舌、皮肤五大感官。"
+      "explanation": "人有眼、耳、鼻、舌、皮肤五大感官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/224c83d8b2afb7f4fb2d335fd751e6f2483095fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/753f8a233f78ec9d1b6e8e59bc91c48780612b2c.mp3"
+      }
     },
     {
       "id": 21,
@@ -113,7 +165,11 @@
       "question": "我们常用（___）来辨别事物的颜色。",
       "options": [],
       "answer": "眼睛",
-      "explanation": "眼睛产生视觉，感知色彩。"
+      "explanation": "眼睛产生视觉，感知色彩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b32adee8c94695d2074ef3ab82e87ccea75b8e92.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d59eb2f3162431880f95bfbaf670401d5909ffd8.mp3"
+      }
     },
     {
       "id": 22,
@@ -124,7 +180,11 @@
       "question": "我们说话、吃饭都要用到（___）。",
       "options": [],
       "answer": "嘴巴",
-      "explanation": "嘴巴是重要的面部结构，涉及消化和语言。"
+      "explanation": "嘴巴是重要的面部结构，涉及消化和语言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/784f3028037c2738a68d57f50bc236c159a31a5b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3216b8a327987b40358bc7d5b74fb462ae2bd42.mp3"
+      }
     }
   ],
   "knowledge": null

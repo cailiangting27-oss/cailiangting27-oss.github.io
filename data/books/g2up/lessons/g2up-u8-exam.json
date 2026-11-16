@@ -16,7 +16,11 @@
       "question": "用 8 和 0 两个数字，只能组成 1 个两位数。",
       "options": [],
       "answer": "对",
-      "explanation": "因为两位数的十位不能是0，所以只能组成80。验算：08是个位数 ✓。"
+      "explanation": "因为两位数的十位不能是0，所以只能组成80。验算：08是个位数 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa8b094c5f58c733fc0c6c8e425ceb3a3a529859.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31985eb5d777d73b688d3687fe610dd78f47c7a7.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "2 把椅子分给 2 个小朋友坐，每人坐 1 把，共有 4 种分法。",
       "options": [],
       "answer": "错",
-      "explanation": "设小朋友为A,B，椅子为1,2。分法一：A坐1，B坐2；分法二：A坐2，B坐1。共2种。验算：$2 \times 1 = 2$ ✓。"
+      "explanation": "设小朋友为A,B，椅子为1,2。分法一：A坐1，B坐2；分法二：A坐2，B坐1。共2种。验算：$2 \times 1 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f94cbe46cb4ea51dec3296ddc33e0e9541012fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40dd26085930d8eb849770e3ddf4013964076ab2.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "从 3 个数中挑选 2 个数求积，得出的结果可能比挑选 2 个数求和的结果多。",
       "options": [],
       "answer": "对",
-      "explanation": "例如 2, 3, 4。和可能是 5, 6, 7；积可能是 6, 8, 12。积比和多是正确的 ✓。"
+      "explanation": "例如 2, 3, 4。和可能是 5, 6, 7；积可能是 6, 8, 12。积比和多是正确的 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6a91673872893b8e83f7498e7d2ec53572f088a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/9901c3eb03e8d2e267260429d6fece4f5ba0c438.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "由 1, 2, 3 组成的没有重复数字的三位数一共有 6 个。",
       "options": [],
       "answer": "对",
-      "explanation": "固定百位：123, 132, 213, 231, 312, 321。共6个。符合规律 $3 \times 2 \times 1 = 6$ ✓。"
+      "explanation": "固定百位：123, 132, 213, 231, 312, 321。共6个。符合规律 $3 \times 2 \times 1 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d636c3a2b99165d76775bc56f26633f20e7d6a52.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75153aec5278acc209b3361a69d0771e81c9bfc5.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "6 种"
       ],
       "answer": "3 种",
-      "explanation": "假设水果为 A, B, C。选法有：AB, AC, BC。共3种。验算：这相当于由于3种里不选1种，也是3种 ✓。"
+      "explanation": "假设水果为 A, B, C。选法有：AB, AC, BC。共3种。验算：这相当于由于3种里不选1种，也是3种 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89f03ec38ecc14be1f143052067c91c4139ff43c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5ac103e5b6e924b67e7b1eea93f19fce093100c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/287e199fc70162c8795ee7bd1006b881713aa235.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b10ae01b7b19eb33fd9a9b5e2ce778a5729a1264.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d34ba8f667a3aa497766d4dc6417b21c354a2e43.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8b3035fedd35bec7377483a4329628a27b15f0d.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "6 个"
       ],
       "answer": "6 个",
-      "explanation": "十位选其一有3种，个位选剩下其一有2种，$3 \times 2 = 6$。分别是：24, 26, 42, 46, 62, 64 ✓。"
+      "explanation": "十位选其一有3种，个位选剩下其一有2种，$3 \times 2 = 6$。分别是：24, 26, 42, 46, 62, 64 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bbc227d91e2fe386056a0d2dbdb76b30ba12f3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6b9aa49d48a112086614f0871bf86f08877b0ca.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "6 个"
       ],
       "answer": "4 个",
-      "explanation": "0不能在十位。十位是4的有：40, 47。十位是7的有：70, 74。共4个 ✓。"
+      "explanation": "0不能在十位。十位是4的有：40, 47。十位是7的有：70, 74。共4个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/8239082f52537df882170a22a2ffa07908e7d1ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19466330e3852a8f3cb288f656658486778c247d.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "45"
       ],
       "answer": "36",
-      "explanation": "积的情况：$2 \times 4 = 8, 2 \times 9 = 18, 4 \times 9 = 36$。最大是36 ✓。"
+      "explanation": "积的情况：$2 \times 4 = 8, 2 \times 9 = 18, 4 \times 9 = 36$。最大是36 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c054516430044626ce0025c9ea364ef1b6fb0527.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/266c9591a4a51de0ffdee69024d08b1d9a8b29f9.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "6 个"
       ],
       "answer": "3 个",
-      "explanation": "列举所有：12, 13, 21, 23, 31, 32。满足条件的有：21, 31, 32。共3个 ✓。"
+      "explanation": "列举所有：12, 13, 21, 23, 31, 32。满足条件的有：21, 31, 32。共3个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b862f5525af3dfbdca723e5381ae68c54a841aa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b76f197bf46f2ab9296f18acee4e06a96bc759fe.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "8 场"
       ],
       "answer": "6 场",
-      "explanation": "公式：$3 + 2 + 1 = 6$。或组合公式：$4 \times 3 \times 2 = 6$。验证：A-B, A-C, A-D, B-C, B-D, C-D ✓。"
+      "explanation": "公式：$3 + 2 + 1 = 6$。或组合公式：$4 \times 3 \times 2 = 6$。验证：A-B, A-C, A-D, B-C, B-D, C-D ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae682852bb7d9758f63badd7262c0c8ac568de11.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/32c896b665293bec14f97b6a04453a21d1d0681d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a9eb7b87d4bc95e8f3147c8f248aa8d9907b58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad26cc530a4af112b160f697789d22e366f68888.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9e9ad491e7446c6eb7477f7052931edbe49ffcc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd5eb15996074f603744cbe98a2cb1585041ffe8.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "12 种"
       ],
       "answer": "6 种",
-      "explanation": "第一个小朋友有3种选择，第二个小朋友有2种，第三个有1种。$3 \times 2 \times 1 = 6$。验算：假设书为ABC，分法有ABC, ACB, BAC, BCA, CAB, CBA ✓。"
+      "explanation": "第一个小朋友有3种选择，第二个小朋友有2种，第三个有1种。$3 \times 2 \times 1 = 6$。验算：假设书为ABC，分法有ABC, ACB, BAC, BCA, CAB, CBA ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c798a1eab0f330133d4201920134214e93b62c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b10ae01b7b19eb33fd9a9b5e2ce778a5729a1264.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d34ba8f667a3aa497766d4dc6417b21c354a2e43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a67b456aa05e09b82baad57f242e1d7510d9a62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8f1b4a6e698fe17613b4010a383d1238d4e4b57.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/777370dfdac4697d9423721128a192687c3751e7.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "9 个"
       ],
       "answer": "4 个",
-      "explanation": "十位不能是0。10, 12, 20, 21。共4个 ✓。"
+      "explanation": "十位不能是0。10, 12, 20, 21。共4个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/211c0ce3b7d13734587202cef656fc298735e324.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b15988bb52519a59218877097a1b3441313af51a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d736499fc9feee72a77b2714b1729d0761a37883.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "5 个人每两人握一次手，一共握了 ___ 次手。",
       "options": [],
       "answer": "10",
-      "explanation": "握手规律：$4 + 3 + 2 + 1 = 10$。验算：$5 \times 4 \times 2 = 10$ ✓。"
+      "explanation": "握手规律：$4 + 3 + 2 + 1 = 10$。验算：$5 \times 4 \times 2 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3230d2549e0a52fb4b9b50cb29585d93e700392.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6ed7551686df198766988d6ee97237651007292.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "用 1, 3, 5, 7 四个数字可以组成 ___ 个十位是 5 的两位数。",
       "options": [],
       "answer": "3",
-      "explanation": "固定十位为5，个位可以是1, 3, 7。共3个。验算：51, 53, 57 ✓。"
+      "explanation": "固定十位为5，个位可以是1, 3, 7。共3个。验算：51, 53, 57 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afc8b94855cd4305744fec66a7bbc15e922a2496.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1840d9e567a75f83331f788e4f384c4ceb0dc84.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$4 \times 3 = ?$",
       "options": [],
       "answer": "12",
-      "explanation": "$4 \times 3 = 12$。验算：$12 \times 3 = 4$ ✓。"
+      "explanation": "$4 \times 3 = 12$。验算：$12 \times 3 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0179e7bd9b356d2af8b1b38ff12a01d01999297.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbe50a6cacb87820104ee866c067c96979ab76b5.mp3"
+      }
     }
   ],
   "knowledge": null

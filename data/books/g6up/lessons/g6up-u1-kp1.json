@@ -16,7 +16,11 @@
       "question": "3个 $\\frac{1}{5}$ 的和与 $\\frac{1}{5}$ 的 3 倍相等。",
       "options": [],
       "answer": "对",
-      "explanation": "因为 $\\frac{1}{5} + \\frac{1}{5} + \\frac{1}{5} = \\frac{1}{5} \\times 3$，根据分数乘整数的意义，二者完全一致。所以结果是对的。"
+      "explanation": "因为 $\\frac{1}{5} + \\frac{1}{5} + \\frac{1}{5} = \\frac{1}{5} \\times 3$，根据分数乘整数的意义，二者完全一致。所以结果是对的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a40c8e163ae00d16076261d8115ff1dab6496210.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/2606760113865e2472ec340f057de2e48e96845a.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "整数乘法的交换律对于分数乘法同样适用。",
       "options": [],
       "answer": "对",
-      "explanation": "根据教材定义，乘法交换律、结合律、分配律在分数乘法中同样适用。"
+      "explanation": "根据教材定义，乘法交换律、结合律、分配律在分数乘法中同样适用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6830a7a2bd9250e32e1d9ecb7c3c1267a5a077b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/042f9f88b07fcd0ead71dfa67d39b6fdabc72d16.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "$3 - \\frac{4}{9}$"
       ],
       "answer": "$\\frac{4}{9} \\times 3$",
-      "explanation": "分数乘整数的意义是求几个相同加数和的简便运算。"
+      "explanation": "分数乘整数的意义是求几个相同加数和的简便运算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b900e73b6eb6dd60df14249dd7f84ab20b745316.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e5/e5c30d81cda2998ab4c88dfd77499ab9467021a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef5a4cbb1a9e83170b5ffc8a6d49a2cc4ec4a489.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094584da31106710981628bdf792f35b6e7b0b1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/7171973193db736a8e354d1b62a108d2c4ca8ff1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba4d2070db70360fcc9c5331e10a212d47765b41.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +77,17 @@
         "$24 \\times 8 \\div 5$"
       ],
       "answer": "$24 \\times 5 \\div 8$",
-      "explanation": "分数乘整数的计算方法是：分子与整数相乘，分母不变。"
+      "explanation": "分数乘整数的计算方法是：分子与整数相乘，分母不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02c6a0a2a589ea8f4a7e7d48c9208b19313cf2cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83de0245b1c5150ff7510a2a5ef0bdea1d9242c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bca8f233425acb6d004a76b77a045afef13c4bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46ad6146324c5d0995e2f5551ce6f0309bafca5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a3c62cc1ff126b2d18ac0989a5960db25006a9e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d4ffd9fb4bbf3caad061d8475fac91442a6b338.mp3"
+      }
     },
     {
       "id": 19,
@@ -70,7 +98,11 @@
       "question": "一个正方形的边长是 $\\frac{3}{4}$ 分米，它的周长是 ___ 分米。",
       "options": [],
       "answer": "3",
-      "explanation": "周长 = 边长 $\\times 4$。$\\frac{3}{4} \\times 4 = 3$（分米）。验算：$3 \\div 4 = 0.75$ 即 $\\frac{3}{4}$ ✓。"
+      "explanation": "周长 = 边长 $\\times 4$。$\\frac{3}{4} \\times 4 = 3$（分米）。验算：$3 \\div 4 = 0.75$ 即 $\\frac{3}{4}$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02466471ff82b63db77ed5a41072726f695bafdd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e20a7d6f81680a97ddb3d17c98b54f36571985d.mp3"
+      }
     },
     {
       "id": 22,
@@ -81,7 +113,11 @@
       "question": "计算：$120 \\times \\frac{3}{4} = ?$",
       "options": [],
       "answer": "90",
-      "explanation": "$120 \\times \\frac{3}{4} = 120 \\div 4 \\times 3 = 30 \\times 3 = 90$。验算：$90 \\div \\frac{3}{4} = 90 \\times \\frac{4}{3} = 120$ ✓。"
+      "explanation": "$120 \\times \\frac{3}{4} = 120 \\div 4 \\times 3 = 30 \\times 3 = 90$。验算：$90 \\div \\frac{3}{4} = 90 \\times \\frac{4}{3} = 120$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0b4968bb56487fe16d515613b53e58e6092c59d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7617c81e3cf05b81877bfa17de8ad93922861e9a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -92,6 +128,16 @@
       "错误地用分母与整数相乘",
       "忘记约分导致结果不是最简分数"
     ],
-    "tips": "记住“分子乘整数，分母不动”的原则，看到大数字先看能不能约分。"
+    "tips": "记住“分子乘整数，分母不动”的原则，看到大数字先看能不能约分。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/65/65725b768f5336ed9a89d7ea4a02915473c92c04.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2e/2ea25ab4d6ee10c10db1bb99f2e13c203faae44c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/58/58ac2961514e73e42934422c5894319644f97a51.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5f/5f98fd4d08201d35fbfef3f567c2681071095f49.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5b/5b86351b05003f8cb2d5915b0ed5a338fb7089dc.mp3",
+        "https://api.clthuanxie.cn/cc-audio/36/3617e3be114c5cd8b96ea620dde0a917498abfcf.mp3"
+      ]
+    }
   }
 }

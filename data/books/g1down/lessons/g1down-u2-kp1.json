@@ -16,7 +16,11 @@
       "question": "计算 $11 - 9$ 时，可以用“破十法”，先算 $10 - 9 = 1$，再算 $1 + 1 = 2$。",
       "options": [],
       "answer": "对",
-      "explanation": "破十法是把 11 分成 10 和 1，先用 10 减 9 等于 1，再把剩下的 1 与被减数个位上的 1 相加，结果是 2。"
+      "explanation": "破十法是把 11 分成 10 和 1，先用 10 减 9 等于 1，再把剩下的 1 与被减数个位上的 1 相加，结果是 2。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01d7a0544792126f53ec26f4fecf4e1f784752bf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29cb7d418476688bcf6ebacb4762e385e1d5b03d.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "想加算减法：计算 $13 - 7$ 时，可以想 $7 + 6 = 13$，所以 $13 - 7 = 6$。",
       "options": [],
       "answer": "对",
-      "explanation": "想加法算减法是利用加法和减法的逆运算关系，计算正确。"
+      "explanation": "想加法算减法是利用加法和减法的逆运算关系，计算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d26e39cd12c8a81adc971a1c0ab2556be3f34c7c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da1345ff2091bb7607cb8186fa20d1b9c3fae7f5.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "找回的钱 = 付出的钱 - 商品价格。$15 - 9 = 6$（元）。"
+      "explanation": "找回的钱 = 付出的钱 - 商品价格。$15 - 9 = 6$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0e8868fc88c36ca706b472e142132c6094a6353.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40495d99b07717b5a59572f0c70bf3044d87be00.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "8"
       ],
       "answer": "7",
-      "explanation": "$13 - 6 = 7$，验算 $7 + 6 = 13$。"
+      "explanation": "$13 - 6 = 7$，验算 $7 + 6 = 13$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e829e6f52dadfc32af18697a7f3498c7aaa3446.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/659032320a0673883c9f530713ef82dbf9a23224.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "$14 - 8 = 6$。"
+      "explanation": "$14 - 8 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/7594e47f949fc88a6ec9542768a53865cc31b81e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10771d198d60e38549728d5cb2f4ab33d190c60f.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "$14 - 9$"
       ],
       "answer": "$13 - 7$",
-      "explanation": "$15 - 9 = 6$，$13 - 7 = 6$，所以两者相等。"
+      "explanation": "$15 - 9 = 6$，$13 - 7 = 6$，所以两者相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0ff05d51f283f1020e792a10988c8ef3c1446aed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f572750aedf754374f3a9dbab5af89dc87e256d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/781e253560fc2cdf0e3cb5967763d3cbf2c405eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/682e9afe934917b1c31273b8669270ea2b254492.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8164ba2415a914a52461c10466938f489385433a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4d9db6f685ab27cd53986f23f1a2098f3859daa.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "$14 - 9$"
       ],
       "answer": "$16 - 7$",
-      "explanation": "A=9, B=8, C=7, D=5。9 最大。"
+      "explanation": "A=9, B=8, C=7, D=5。9 最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e8f399554d8b2ee99f26546afd258906471be90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e909bc19becb5ae91643e85c0f00236f66eff585.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dbc43c81e7edc2c47bcb8616c9a9640ce1d6d15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40d3ae42732e941f15a4f62f92eb13a75b1e9522.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8164ba2415a914a52461c10466938f489385433a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6d251bdcd9bf71aed8a82b863706e091e242100.mp3"
+      }
     },
     {
       "id": 16,
@@ -123,7 +181,17 @@
         "9"
       ],
       "answer": "7",
-      "explanation": "当 $16 - 8 = 8$ 时，要使结果大于 8，减去的数必须小于 8。所以最大填 7。"
+      "explanation": "当 $16 - 8 = 8$ 时，要使结果大于 8，减去的数必须小于 8。所以最大填 7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a23059d8720db6497d644d73b3ead7257eaa4c2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d12bca43bd90f1851789e669a5d2ef72585f699.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +202,11 @@
       "question": "小明有 12 个苹果，分给小红 8 个，小明还剩 ___ 个苹果。",
       "options": [],
       "answer": "4",
-      "explanation": "$12 - 8 = 4$。验算：$4 + 8 = 12$ ✓。"
+      "explanation": "$12 - 8 = 4$。验算：$4 + 8 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/172b1a5f8a6a36bd8d0e0e9d47134afc66e0ea5e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cd1fbe546bef8a4d0572487b42b07f21f9a1a0c.mp3"
+      }
     },
     {
       "id": 21,
@@ -145,7 +217,11 @@
       "question": "一个加数是 9，和是 17，另一个加数是 ___。",
       "options": [],
       "answer": "8",
-      "explanation": "$17 - 9 = 8$。验算：$9 + 8 = 17$ ✓。"
+      "explanation": "$17 - 9 = 8$。验算：$9 + 8 = 17$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/936ed1fdfe2d943720e6347a66655523fe57be12.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5143fa3bb0daae688defe7159cf23b0a7323fb5.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +232,11 @@
       "question": "计算：$15 - 8 = ?$",
       "options": [],
       "answer": "7",
-      "explanation": "$15 - 8 = 7$。验算：$7 + 8 = 15$ ✓。"
+      "explanation": "$15 - 8 = 7$。验算：$7 + 8 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/792f58b5f57da89ad05258e7c0d3dee3b0afbe51.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/dee562de3167c1801fb27c5c59f2b2501a4f6358.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -167,6 +247,16 @@
       "在使用破十法时，最后一步忘记把减剩下的数与个位数相加，如计算 $13 - 9$，只算出 $10 - 9 = 1$ 就结束了。",
       "想加算减时加法口诀不熟练，导致得数写错。"
     ],
-    "tips": "记住“减 9 加 1，减 8 加 2，减 7 加 3，减 6 加 4”的小口诀，可以极大提高计算速度。"
+    "tips": "记住“减 9 加 1，减 8 加 2，减 7 加 3，减 6 加 4”的小口诀，可以极大提高计算速度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/25/25aed1d221aa2d7dc6fdae0f3c0b3c367ce8453e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1f/1f5aff315c1563211cbf4afba989eeb259c5cfb5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5d/5d0da86f1c4eb788159f6a7068bd9ff34820c6c5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6d/6d3498d09338046f7d6f424d1c4356f64b519064.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/97/97c01606c95b0fbf835ba92c6cdf3f6b0b5badd7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fe/fe54b08ab02f30d75fcc2f5bd848576a369cb635.mp3"
+      ]
+    }
   }
 }

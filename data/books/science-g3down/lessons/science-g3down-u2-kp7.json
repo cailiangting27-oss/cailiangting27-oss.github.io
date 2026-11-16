@@ -16,7 +16,11 @@
       "question": "蝙蝠会飞，因此它属于鸟类，是通过产卵繁殖后代的。",
       "options": [],
       "answer": "错",
-      "explanation": "蝙蝠是哺乳动物，属于胎生。"
+      "explanation": "蝙蝠是哺乳动物，属于胎生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4b574d5c7b83f385957ccefe6f5f5807daaabae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfbb21b3a3b1d369d4347970221648fdb3f14fc5.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "鳄鱼"
       ],
       "answer": "大熊猫",
-      "explanation": "大熊猫通过产下幼崽并哺乳，是胎生。"
+      "explanation": "大熊猫通过产下幼崽并哺乳，是胎生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea59b5192ef67a9276e4a2bdbb373ff1fde945bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a330047e0a14641b997d83b20c4af8e27ca3d4e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/caa7a22040111e9008d2f3dad9a6b6f6fa42539b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c75c143c99c3385b8a86120d35058303a9b12eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19320dc02a1a25e16ea0c1af5cb33a3dee94402e.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "变态发育动物"
       ],
       "answer": "胎生动物",
-      "explanation": "狗是哺乳动物，直接产下胎儿。"
+      "explanation": "狗是哺乳动物，直接产下胎儿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/307a8a4037b3e86b346a5cc4dfc8171d776cd43a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c98f99d2882d2d8732895441495d7c4897cb3979.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/267ad7e9630ff22a691ee417a4a6e9af20f87e91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4ab9de0d02f1375a6a434b2daeba05fc4d5bf4b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57d98b4051f0bb2f5483eff7fa568923524e6856.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/0158510514ca1065e861f8f45ee7559f24fe85e1.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "靠产卵繁殖后代的繁殖方式叫（___）。",
       "options": [],
       "answer": "卵生",
-      "explanation": "卵生是动物繁殖的基本方式之一。"
+      "explanation": "卵生是动物繁殖的基本方式之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3db3ea91ffdf842eb17ce60d7f572e49e073e457.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b671a3144ab9daf49e2dec5fae6739c335452587.mp3"
+      }
     }
   ],
   "knowledge": null

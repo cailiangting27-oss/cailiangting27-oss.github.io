@@ -16,7 +16,11 @@
       "question": "$24 \times 3 \times 2 = 4$。",
       "options": [],
       "answer": "对",
-      "explanation": "$24 \times 3 = 8$，$8 \times 2 = 4$。验算：$4 \times 2 = 8$, $8 \times 3 = 24$ ✓。"
+      "explanation": "$24 \times 3 = 8$，$8 \times 2 = 4$。验算：$4 \times 2 = 8$, $8 \times 3 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abe7db9e4fe9e166a0e43f3c4304cedf87d0bbfc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d2ec0d3b7ac3e4c9ca8e39015e53e119983e081.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在没有括号的算式里，只有加减法和乘除法，要先算乘除法。",
       "options": [],
       "answer": "对",
-      "explanation": "混合运算的基本原则是先乘除后加减。"
+      "explanation": "混合运算的基本原则是先乘除后加减。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b70d96fdf364ab6887cf7cf17eb33c554c74060.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/009da5e1a9416cc852aabdae2b47c8c5a49c4005.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "30 元钱买 4 个 7 元的面包，还剩 3 元。",
       "options": [],
       "answer": "错",
-      "explanation": "$30 - 4 \times 7 = 30 - 28 = 2$ 元。应该是剩 2 元。"
+      "explanation": "$30 - 4 \times 7 = 30 - 28 = 2$ 元。应该是剩 2 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02d8e6ac72d2f14b42a93430fcaedccd210ff23b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/525f0d4f579bb9f5be0e965f42e75ee5e3e668b0.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "$6 \times 6 + 6$ 的结果比 $6 \times 7$ 小。",
       "options": [],
       "answer": "错",
-      "explanation": "$6 \times 6 + 6 = 36 + 6 = 42$，$6 \times 7 = 42$。两者相等。"
+      "explanation": "$6 \times 6 + 6 = 36 + 6 = 42$，$6 \times 7 = 42$。两者相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec513bee9ab094b794f0fd9f7b5a6706131c544d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19ab69fd07d61c1dd307539c57206d5b8f485995.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "把 3 放在前面"
       ],
       "answer": "加小括号",
-      "explanation": "加小括号可以改变运算顺序，使减法优先。"
+      "explanation": "加小括号可以改变运算顺序，使减法优先。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0ee729ce37b758931b75ffd7c58876ac1d43c575.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20f9227f5cfeb643ffed622fc0962827bba9f2bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/745be3e49086690463cc04ee732af667a2f10192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d453d75a834a315266c164e3fac1e27dd3e156c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/baf0763c25603ab505ba21347f673ea4b352cc14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d401a7903735cb9b8256056ee57bf265855e489e.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "11"
       ],
       "answer": "10",
-      "explanation": "$8 + 16 \times 8 = 8 + 2 = 10$。先算除法。"
+      "explanation": "$8 + 16 \times 8 = 8 + 2 = 10$。先算除法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3ab2642263f583b682b5919414b128bcaa5bf4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3ee2d6c2c9a016156ffaff79d5ce9b7802b0dfe.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "27 元"
       ],
       "answer": "19 元",
-      "explanation": "$3 \times 5 + 4 = 15 + 4 = 19$（元）。"
+      "explanation": "$3 \times 5 + 4 = 15 + 4 = 19$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e13b6d98fddf66823fd550de7646eb7e62ec865.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33e4f2351ec227f0cf86e8dbd12230ec8d450845.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd4d0d29da718260003de4990f80514ac35255d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0899e409e3520afce09254ff73f9907eeaf7f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f9280daad2fe6532b887b434eccabe1e6090bac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e19e946ee1d58e78655cd4bce9161ad68382a685.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,11 @@
         "≈"
       ],
       "answer": "=",
-      "explanation": "$32 \times 4 \times 2 = 8 \times 2 = 4$；$32 \times (4 \times 2) = 32 \times 8 = 4$。相等。"
+      "explanation": "$32 \times 4 \times 2 = 8 \times 2 = 4$；$32 \times (4 \times 2) = 32 \times 8 = 4$。相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3f53813af86740618afa968769360632f2f5946.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c9df1432227fa77f75ec285453a2dd832d4a7f2.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +179,17 @@
         "$24 - (12 - 6)$"
       ],
       "answer": "$24 + 12 \times 6$",
-      "explanation": "A=22, B=2, C=26, D=18。最大的是 C。"
+      "explanation": "A=22, B=2, C=26, D=18。最大的是 C。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1c460c3fff7040131916c37bd647cb1aa585219.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eaa72d5ba2105dfdb5ba9ac1693879302d4c4192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7637028d8d46117978217aff49e9160c4d3801e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92512a39b443d2c69cdb255f40ac66707e2008f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80bbb65a19b47f4dfd5b612b6708e98760f60d3c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b975ad8c0e72321292d479f29e18ea2e6f585060.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "$7 + 49$"
       ],
       "answer": "$7 \times 8$",
-      "explanation": "7个7加1个7等于8个7。"
+      "explanation": "7个7加1个7等于8个7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/728aad735a081228e688aa0de6d9c21b0fbd4529.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d11050c486b20fe597d7dde1a6512156e92b2104.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb09f30eadf298d2386088894a3c876047877cac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c7251a5c3aa3f7b67771e6d0ee98c3077a08cdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9ef026001037a21e9797f82e84d94d55a33baa6a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9438bab1f707573c1fb56d63408f711d24744ec8.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +231,17 @@
         "50"
       ],
       "answer": "70",
-      "explanation": "$100 - 50 = 50$, $50 + 20 = 70$。"
+      "explanation": "$100 - 50 = 50$, $50 + 20 = 70$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/090e49fcf4a77835aae3f5dc996913201e18bb86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7541babb57434e5631ffa2b5639e24f8ce84fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9051983cee5179b42a7eb89cbcfbaa0a30110674.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +257,17 @@
         "30 只"
       ],
       "answer": "32 只",
-      "explanation": "$8 + 8 \times 3 = 8 + 24 = 32$（只）。"
+      "explanation": "$8 + 8 \times 3 = 8 + 24 = 32$（只）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dcd2980e83b3abb41f28615f7d52c5a8db83bbbc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a7e6a3b65626a12e35abdc988054c9d8f42f7cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd2f42f66dd532e94dd1cfff7f9243000dd610ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7dbb8043c7af33171d0e0e6c6243bdd7552c782d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63e595f2216b9d0fe3b7891e61f7c4c4a35691ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02d81da5651ef32457bf81b075a6138b6c9bd800.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +278,11 @@
       "question": "篮子上有 30 个鸡蛋，拿走了 6 个，剩下的平均放在折子里，每个折子放 6 个，需要 ___ 个折子。",
       "options": [],
       "answer": "4",
-      "explanation": "列式：$(30 - 6) \times 6 = 24 \times 6 = 4$。验算：$4 \times 6 = 24$ ✓。"
+      "explanation": "列式：$(30 - 6) \times 6 = 24 \times 6 = 4$。验算：$4 \times 6 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/bae9c2dd67fb411acc879e64706db2079cef5238.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aee47673c8bb5a0c3271275eeb315201b4cc2ab2.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +293,11 @@
       "question": "计算 $4 \times 9 \times 6 = $ ___。",
       "options": [],
       "answer": "6",
-      "explanation": "列式：$36 \times 6 = 6$。验算：$6 \times 6 = 36$ ✓。"
+      "explanation": "列式：$36 \times 6 = 6$。验算：$6 \times 6 = 36$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e64a2198fe71a1cef88949de61f46d6316a631a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/102066c23d163bcc114e79ecf7df825d95bf7d7a.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +308,11 @@
       "question": "计算：$(28 + 12) \times 5 = ?$",
       "options": [],
       "answer": "8",
-      "explanation": "$(28 + 12) \times 5 = 40 \times 5 = 8$。验算：$8 \times 5 = 40$ ✓。"
+      "explanation": "$(28 + 12) \times 5 = 40 \times 5 = 8$。验算：$8 \times 5 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2c1c0cc9f0829bbc23152fe510542610fb46f2f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf101c55e8b92c4442c6f4f4178a45be41d185ed.mp3"
+      }
     }
   ],
   "knowledge": null

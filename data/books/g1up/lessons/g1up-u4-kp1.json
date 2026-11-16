@@ -16,7 +16,11 @@
       "question": "乒乓球的形状是球。",
       "options": [],
       "answer": "对",
-      "explanation": "按照立体图形的特征，乒乓球可以任意方向滚动，表面是曲面，属于球体。验算：球体特征符合 ✓。"
+      "explanation": "按照立体图形的特征，乒乓球可以任意方向滚动，表面是曲面，属于球体。验算：球体特征符合 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4073551b8dc1781ef4dfe2952936fa1452aa5470.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73156753ad890e336ce2b2715e4d8128e82cc755.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "长方体有 6 个面，而且每个面都是长方形。",
       "options": [],
       "answer": "错",
-      "explanation": "长方体有 6 个面，通常是长方形，但也可能有两个相对的面是正方形。因此“每个面都是长方形”说法太绝对。验算：特殊长方体存在正方形面 ✓。"
+      "explanation": "长方体有 6 个面，通常是长方形，但也可能有两个相对的面是正方形。因此“每个面都是长方形”说法太绝对。验算：特殊长方体存在正方形面 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/503bd54344cada533294b0d8f4a2b1df0bf165cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac90e9b3ca27fa084f47527413e3ad41888275f9.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "球"
       ],
       "answer": "长方体",
-      "explanation": "文具盒有长长的边，平平的面，属于典型的长方体。验算：实物特征匹配 ✓。"
+      "explanation": "文具盒有长长的边，平平的面，属于典型的长方体。验算：实物特征匹配 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fb39e979aedd61422909418183920b358105703.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fef14206493059cde6d9512d7140e90332c742fa.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "砖头"
       ],
       "answer": "足球",
-      "explanation": "圆形的物体容易滚动。足球是球体，全方位可滚动。书本、魔方、砖头有棱角，不易滚动。验算：形状特征分析 ✓。"
+      "explanation": "圆形的物体容易滚动。足球是球体，全方位可滚动。书本、魔方、砖头有棱角，不易滚动。验算：形状特征分析 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f95e7f669c190dc9a6a7c1a73e7b7b40ea2bdd43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac0d4c9d682702c5bf994697ad3bd9f955da296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e75cb729ba060ba6e59d9432aa381176db9418.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514ef76f62517512927f78a448abe44c2e7657d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82f7931da0b82bdeb3f689fe8130655d07e1ec6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3b6c1f4ef0ec3db5139d87effdef0e6ed03b9b2.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "8 个"
       ],
       "answer": "6 个",
-      "explanation": "正方体和长方体一样，都有 6 个面。验算：数一数上、下、前、后、左、右共 6 个 ✓。"
+      "explanation": "正方体和长方体一样，都有 6 个面。验算：数一数上、下、前、后、左、右共 6 个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7dd6890e332bdbedb61a1f02f2688141450922c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5828578513a90d219c3ea8a70db83b7137da671.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e96c929637f6dbf2567bdbcd66dbf36a0ddbf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1cdbcfefed1d21a001ee72bbd5f120c7e064644.mp3"
+      }
     },
     {
       "id": 10,
@@ -91,7 +129,17 @@
         "长方体"
       ],
       "answer": "圆柱",
-      "explanation": "电线杆细长且横截面是圆的，像圆柱。验算：几何形态比对 ✓。"
+      "explanation": "电线杆细长且横截面是圆的，像圆柱。验算：几何形态比对 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b51f9d61bd77f8a742cd1c2788af3db039087143.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30fdb9b8df1fcb6f5603673c6205e9e95f523059.mp3"
+      }
     },
     {
       "id": 12,
@@ -107,7 +155,17 @@
         "球"
       ],
       "answer": "正方体",
-      "explanation": "满足方方正正且 6 个面都一样大的特征是正方体。验算：正方体定义匹配 ✓。"
+      "explanation": "满足方方正正且 6 个面都一样大的特征是正方体。验算：正方体定义匹配 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/504ff023ce905aff811ba91e5f19e1928c4551a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6db8fd844a1bafc77b16f927ea93f7c4835a72a.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "一个正方体有 ___ 个顶点。",
       "options": [],
       "answer": "8",
-      "explanation": "正方体上面有 4 个顶点，下面有 4 个顶点。列式：$4 + 4 = 8$ 个。验算：实物数数法得出 8 ✓。"
+      "explanation": "正方体上面有 4 个顶点，下面有 4 个顶点。列式：$4 + 4 = 8$ 个。验算：实物数数法得出 8 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7f2928f16ac8a888985fcb6dc02492d0b213064.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7da2c200066625ba39bb93ce0029b339a2bdfe88.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "容易将“长方体”说成“长方形”，混淆立体图形与平面图形。",
       "认为只有长长的才是长方体，忽略了有两个面是正方形的特殊长方体。"
     ],
-    "tips": "可以通过“摸一摸”来记忆：有尖尖角的是长方体和正方体；没有角、滑滑的是圆柱和球。"
+    "tips": "可以通过“摸一摸”来记忆：有尖尖角的是长方体和正方体；没有角、滑滑的是圆柱和球。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cd/cd9fe43cf47b71ef8f0918e48c280489d012aa87.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/df/df43e16c0341afa514119620c9a03146398875ba.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/67/67d5c1ef0d3b4ebfab78f266096f92f6822ecdb2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ae/aef6817d361c175116570f73ccf5bc105ec41f03.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c3296bb50e1adc79f17b0457ee5ede78986e5431.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8e/8ecafa79b9c366fd6c8040252bb12c9e8b824373.mp3"
+      ]
+    }
   }
 }

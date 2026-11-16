@@ -16,7 +16,11 @@
       "question": "想象故事虽然奇特，但其中蕴含的情感往往是真实的。",
       "options": [],
       "answer": "对",
-      "explanation": "想象是外壳，母爱、童真等情感是内核。"
+      "explanation": "想象是外壳，母爱、童真等情感是内核。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abd3c09a02fff436b8e2991e9b92090c2cd550b7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e87fb496a388b93fee989b5077ba2e6041a402d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -27,6 +31,16 @@
       "故事只有光怪陆离的描写，读完后感觉空洞无物",
       "情感表达生硬，与想象的情境格格不入"
     ],
-    "tips": "记录下生活中最让你触动的一个瞬间（如妈妈的叮咛），尝试给这个瞬间套上一个神奇的“马甲”。"
+    "tips": "记录下生活中最让你触动的一个瞬间（如妈妈的叮咛），尝试给这个瞬间套上一个神奇的“马甲”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/af/affeed300ebb6835950ceb9f185c170011381d91.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d9/d955a512c4c0d1f6e97a2925f752152d655901af.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/13/139bac750367b10df1630c4c43df0239d76c7144.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/33/337c7b8f24aba79740c4fbccf9477b2931da3d78.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3f/3f969194df7dcf56a726186c397243fbe9807c7f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/99/9984f086a95aa8b636969a649f0a9ef0f83e73fd.mp3"
+      ]
+    }
   }
 }

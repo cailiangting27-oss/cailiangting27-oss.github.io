@@ -25,7 +25,21 @@
         "嗅觉"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "分析即景描写所涉及的五感。"
+      "explanation": "分析即景描写所涉及的五感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d115dc20528a3f628ae01937a49b2515cae55ded.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd60f09426cee6c21cc5faf9e0ac209cf4c8c2f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f0700ada7045e537fb8246f99e35b45602186af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f5c9754df39117860d8fec8485132a683c441fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce1ad2acab79c718e5add053c9991eb11463396d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/266303ac07a0fc7ff374bcab0ded5783006b60e0.mp3"
+      }
     }
   ],
   "knowledge": null

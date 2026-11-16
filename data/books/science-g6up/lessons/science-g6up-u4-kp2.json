@@ -21,7 +21,17 @@
         "风能"
       ],
       "answer": "风能",
-      "explanation": "风能可以自然循环再生，化石能源属于不可再生能源。"
+      "explanation": "风能可以自然循环再生，化石能源属于不可再生能源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/068edd70e6114e2f0c4e1f4f5ac0f27625a35b0a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1adc77d31df1c2fbcfce7d038ad2c14558617cac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d750cfa9d186e472303b9be2eef3b60ec72f556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0de50c16ce85e5d435b2ddc961210936a7fa44e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4513be4f2a23d1de8bac50a4f3bdd94193591c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf0dafc9720b64eccd2946a9c45527075f5328b0.mp3"
+      }
     },
     {
       "id": 17,
@@ -37,7 +47,17 @@
         "0.1"
       ],
       "answer": "10",
-      "explanation": "1000瓦时 / 100瓦 = 10小时。"
+      "explanation": "1000瓦时 / 100瓦 = 10小时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a18bcdac8b79a09bb80b389c7e12fce45f1c327a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84fa45ccd3c8b1f2b710ef6969135dcb596b2136.mp3"
+      }
     },
     {
       "id": 19,
@@ -48,7 +68,11 @@
       "question": "某电热水壶功率为 2000 瓦，连续工作 30 分钟。该水壶消耗的电能是（）度。",
       "options": [],
       "answer": "1",
-      "explanation": "2000瓦 = 2千瓦；30分钟 = 0.5小时；2 * 0.5 = 1度电。"
+      "explanation": "2000瓦 = 2千瓦；30分钟 = 0.5小时；2 * 0.5 = 1度电。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6207de98d01e350a735e44969da19d9c9c6cf448.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6cb47bcaee8c7a12f904e056f4d31a8d57899c7.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "1千瓦时电能通俗的说法是（）度电。",
       "options": [],
       "answer": "1",
-      "explanation": "1kW·h等于1度电。"
+      "explanation": "1kW·h等于1度电。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec5a7b9a43f29a5ad5a8ca6948b3c8cfba604909.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12cc5907df9be0411ec4da42906340bc07069008.mp3"
+      }
     }
   ],
   "knowledge": null

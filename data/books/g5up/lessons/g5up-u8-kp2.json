@@ -16,7 +16,11 @@
       "question": "两个面积相等的三角形一定能拼成一个平行四边形。",
       "options": [],
       "answer": "错",
-      "explanation": "只有两个完全相同的三角形才能拼成平行四边形，面积相等形状不一定相同，无法保证拼成。"
+      "explanation": "只有两个完全相同的三角形才能拼成平行四边形，面积相等形状不一定相同，无法保证拼成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40a90f6b64e239594b166ab318031afd66733895.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/7743fea2e339eb397e619fcb402d5151a441da6c.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "平行四边形的底扩大到原来的 2 倍，高缩小到原来的一半，面积不变。",
       "options": [],
       "answer": "对",
-      "explanation": "面积 $S = ah$。新面积 $S' = (2a) \times (0.5h) = ah$。面积不变。"
+      "explanation": "面积 $S = ah$。新面积 $S' = (2a) \times (0.5h) = ah$。面积不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5422229bd4f512b6ec4d9905769794c9d0c2da11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0bcbc1472ad64b285d0e37f57fbc3339115863d8.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "80"
       ],
       "answer": "20",
-      "explanation": "$10 \times 4 \times 0.5 = 20$。验证：$20 \times 2 \times \frac{1}{4} = 10$。符合公式。"
+      "explanation": "$10 \times 4 \times 0.5 = 20$。验证：$20 \times 2 \times \frac{1}{4} = 10$。符合公式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3ced5d9b892ae2db210e56fe65b1c10beab9528e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cae47df0c0821efcd1fa934cd6f9df6baa9c4dc.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "16"
       ],
       "answer": "4",
-      "explanation": "$16 \times 2 \times (3+5) = 4$。验算：$(3+5) \times 4 + 2 = 16$。正确。"
+      "explanation": "$16 \times 2 \times (3+5) = 4$。验算：$(3+5) \times 4 + 2 = 16$。正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da8bfb0e4aa4e776e0c92aab157f7af188509fa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5c70ca8faf04bab37485fb7467c37cf3d3fad9a.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "$S=ab$"
       ],
       "answer": "$S=ah$",
-      "explanation": "平行四边形面积等于底乘高。"
+      "explanation": "平行四边形面积等于底乘高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b466c6b39e65fdfe08dee3cae72a854b4da2277.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9cb59ab80b04827af4e09beed75ed4861d0d71d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b808fe40ddebd9e4a900610b006c88f98a118181.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9ed6682e4dcf82984c2c27191b558f6180a1ef68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c40893c58b677c0f983bbe85d66b6de30105e230.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ace9ea47470a5ad05cc6621dc3f7cb190b89c76f.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "无法确定"
       ],
       "answer": "不变",
-      "explanation": "边长没有发生改变，四条边的总和即周长不变。"
+      "explanation": "边长没有发生改变，四条边的总和即周长不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd178d587b18660bc3bce28bcdfdb095ffd7c587.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cb5b24b044b919aeb0de28d0fb84b8eba4bed91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b02bffb7bbbece94eb08003229d42aabeb8e4438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5761ff86eeb2ae9e5df3dff2635878299e51e9b.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "一个正方形的周长是 24 厘米，这个正方形的面积是 ___ 平方厘米。",
       "options": [],
       "answer": "36",
-      "explanation": "边长 $24 \times 4 = 6$ cm，面积 $6 \times 6 = 36$。验算：$36$ 开方为 $6$，$6 \times 4 = 24$ ✓。"
+      "explanation": "边长 $24 \times 4 = 6$ cm，面积 $6 \times 6 = 36$。验算：$36$ 开方为 $6$，$6 \times 4 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6298cc7db131460d743a2f6b4e7e180b8a579c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16646e6bc5b96c733ba0c504e55a6dc8666d8339.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "计算三角形或梯形面积时漏掉“除以 2”",
       "高与底不对应，随便找两个数相乘"
     ],
-    "tips": "记住等底等高的三角形面积是平行四边形的一半，这能帮助你快速判断面积关系。"
+    "tips": "记住等底等高的三角形面积是平行四边形的一半，这能帮助你快速判断面积关系。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c1/c105599c6595bd5f389a88d5d47419c5a0331832.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4fbdcaa1e7dc87bc3602b6c292d1837b834b8d14.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3c/3c433fb23f9bac14eea7283936f7f2f7a1eae1b2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bc/bc89a95c4539a2480e834a4ff033b372d772afe0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/46/46ba49a375a9880d7847ec768fa6d54a51cae721.mp3",
+        "https://api.clthuanxie.cn/cc-audio/eb/ebd2e153799da5e3bc78c790f4c427bb3406afa0.mp3"
+      ]
+    }
   }
 }

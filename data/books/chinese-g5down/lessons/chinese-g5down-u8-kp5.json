@@ -21,7 +21,17 @@
         "木讷寡言"
       ],
       "answer": "妙语连珠",
-      "explanation": "妙语连珠形容说话精彩，契合幽默的主题。"
+      "explanation": "妙语连珠形容说话精彩，契合幽默的主题。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78bf5f734539017bdec07e34dd25487f8081ac3e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1fee0622b2b7c6a5342faaca2d3d7b8c4300f2dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74e846efa0fdc05b3615fd4c109cc04f03800d29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69ff26c3341c063b09d0dd93fb2f05ee4e9999cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2ba40093ee3d2eca40a67eaed088bb4edc62e668.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88af7f00784b14e35076c7445ff0155d7222e4ab.mp3"
+      }
     },
     {
       "id": 19,
@@ -41,7 +51,21 @@
         "拜访"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "甚：很；诣：拜访；设：摆放；示：看。"
+      "explanation": "甚：很；诣：拜访；设：摆放；示：看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49d89b84c04f3ba0ae2ee1a864ad1808bb2a6c9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eba9dd3e35546afc2b6869bc58509c47219de3d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98ffa3afdff7e0d3fe52ae199fd115d024f32ce6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebbdf13fa650eb8dfed3ee4f9e9f439f379c31a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02f255d03f001deccd3d18a756bbce704556d799.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7be934c70d651cb102febad08fa4aaecfd6fe70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/372cced8fc530a1362af0a827db72c0a041ea54e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74a04cc4bf3ac133a6abd449c12c878eb50b0f69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e44ddb6f20149f83c263add71528bc51e505f5e0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/619631f2cd43d5c12a3a5da23ac81f8f5dde3169.mp3"
+      }
     }
   ],
   "knowledge": null

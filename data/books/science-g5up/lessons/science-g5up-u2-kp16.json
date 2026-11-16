@@ -21,7 +21,17 @@
         "江南丘陵"
       ],
       "answer": "黄土高原",
-      "explanation": "黄土高原土质疏松、植被稀少，受流水强烈侵蚀，泥沙汇入黄河。"
+      "explanation": "黄土高原土质疏松、植被稀少，受流水强烈侵蚀，泥沙汇入黄河。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/749b71071ee11e26be5d7e3bd69e230e34d850c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c29c6909369218c09c0463d8764d1a21d8055eab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2f7a67bca622d8f48a9fc29551f9a5ccf1fe53c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a14ab1d249b2dd3ab2a160bdabd3b6d8992b85c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4406e83ecfe266f401eed14a7d12293c1bddfb41.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fad42b40dd4953fe6f8c0c85a484ac63390a097f.mp3"
+      }
     }
   ],
   "knowledge": null

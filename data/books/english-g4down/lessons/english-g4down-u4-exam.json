@@ -16,7 +16,11 @@
       "question": "单词 'duck' 的复数是 'ducks'。",
       "options": [],
       "answer": "对",
-      "explanation": "直接在末尾加s。"
+      "explanation": "直接在末尾加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5036d389db5a4d1c670ebed68d6edd6f8045152.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82dbebab444c68ec53a2303ec4ae05024b2afafb.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "单词 'ball' 和 'tall' 中 'al' 的发音相同。",
       "options": [],
       "answer": "对",
-      "explanation": "在这里都发/ɔː/。"
+      "explanation": "在这里都发/ɔː/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32dc0031b40165007bff8bc8a024a311a8f71639.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47c50c8686b9dc6aef0c909da5569cc4e65665a6.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "我们可以说 'This are horses'。",
       "options": [],
       "answer": "错",
-      "explanation": "are horses是复数，主语应该用These。"
+      "explanation": "are horses是复数，主语应该用These。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/959732f7f4ee403b8dbc049d1c6235d4ed039292.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4ad6de1a38fa21d543e7b2f968186be84e378b74.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "英语中 'milk' 是不可数的，不能直接加 's'。",
       "options": [],
       "answer": "对",
-      "explanation": "milk属于物质名词，是不可数的。"
+      "explanation": "milk属于物质名词，是不可数的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1be740b6574e5c98e768e9dc842162e401e8826.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92ebade9b20cf3ac88aa76109ef9792a03a786ba.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "This; those"
       ],
       "answer": "These; those",
-      "explanation": "cows是近指复数，sheep结合over there判断为远指复数。"
+      "explanation": "cows是近指复数，sheep结合over there判断为远指复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/923736f448e235aafcaa99398e000cfdc3fbf01d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/26/266656ef7c10c92dec02bf3af0d961ec8c36fca7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/194b95b59c9571604f1d9521f25a6fc262e80fc3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8982ba197961f289ea8f76e2f59f2c98272f630a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9474c2b625f57c5809667267f68ebb3c1a772ca0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3c663d472f307e23576704dcb2a9406ee8b1d7d.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "They are big."
       ],
       "answer": "Yes, they are.",
-      "explanation": "复数一般疑问句的标准肯回答用They are。"
+      "explanation": "复数一般疑问句的标准肯回答用They are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f72ae6284f564e29c66ebdbc878e2e37b97805c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78463fe881d35cfd0a30cf62378725807db84ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d0d251d5d0ab020d3e081c2cfe8b6526716e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff7286a97ae9b892776ef469f93ca0a0aa762e51.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7a9ddc937be4a7df8765fb284686c06e1e54b25.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "cow"
       ],
       "answer": "sheep",
-      "explanation": "fifteen后接复数，sheep复数不变，goats若对需加s（选项已有），cow需加s。"
+      "explanation": "fifteen后接复数，sheep复数不变，goats若对需加s（选项已有），cow需加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87f69239412f129116d44f2499fa04c5238680d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/888f807d45ff6ce47240c7ed4e884a6f9dc7b4fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6525f2e663e8d223c2f9041fefdf2dba6ca70d63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff25da8a9de99956d385747c6318e28ab693519.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bbddb4a037421a7b1e1b1bdd6447b03097f0df1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5e072255df9f39645148131eee9f8228abcfc06.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "Green"
       ],
       "answer": "Four",
-      "explanation": "How many 提问数量，回答应为数字。"
+      "explanation": "How many 提问数量，回答应为数字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07581bc67ed80b87b2dd1b19bf0f639087762efd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5d87b23f24ed0de795c83cc3a260e8ee53e8e96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d445793119997ba55c5c4686d49c6659421ffe88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/268510121c0ccf7efd2354f5b9c6f8239c211e13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/933bf21afdd55a0d2283845fed0e7bbdd1f5db49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d44646c1f7a3b047ec8aa0bf6d4e07f4a8696595.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "tomato"
       ],
       "answer": "potatoes",
-      "explanation": "those后接复数，四个选项中只有potatoes是复数形式。"
+      "explanation": "those后接复数，四个选项中只有potatoes是复数形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32fd59c23e410506c478ddc756946d1fb11a965a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/3199ea056253916c41d65c6fd39b52e5f239873c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0be2dc421be4fcd0172e5afceea3970e2f3d940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8819d19069fae6b4bac183d1f16553abab16b54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/321f6b7e8bf7f29aab89c5e41a555b1b0baa41a9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30d569f334fa341f607513f996b9aadf33635992.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "dogs"
       ],
       "answer": "carrots",
-      "explanation": "vegetables（蔬菜）对应的选项只有carrots（胡萝卜）。"
+      "explanation": "vegetables（蔬菜）对应的选项只有carrots（胡萝卜）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fee7cddceb88e2e7371ff1b2e319b83b04ce508.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa13e9c53b81b1c4fd304fffbfbb65a43e40dcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2012e4a43bfafe5e0e0dfb8e8d79c4ab38955032.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f890d49474e943dc07a766c21d2bf35d6e527e89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc90fda9b1a7483de0af0a2364167decfdb1d247.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee69b6819989cb3a38661a3e82ba6f1f565835f0.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "They are round and red. They are ___.",
       "options": [],
       "answer": "tomatoes",
-      "explanation": "圆圆的红色的蔬菜是西红柿。"
+      "explanation": "圆圆的红色的蔬菜是西红柿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b319fbc340af9c0e7f43198fb7ea49ed92439ab1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e63bfb3f4440117d328c7ecc902824ac6c5dc2e8.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "___ are horses over there.",
       "options": [],
       "answer": "those",
-      "explanation": "over there指远处，horses是复数，用those。"
+      "explanation": "over there指远处，horses是复数，用those。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f0d2559d6c17cc9b054decfa167298d7409e420.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34437ba054b18690462a25ca3f21569e60c43a20.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "Welcome to my ___.",
       "options": [],
       "answer": "farm",
-      "explanation": "本单元关键词：农场。"
+      "explanation": "本单元关键词：农场。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef3d5ed2250b6f0d90be682607591f1230bb786b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df8433f44858e98cf1f030bcc62d08cc1f6db17c.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "山羊"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "horse-马, cow-奶牛, sheep-绵羊, goat-山羊。"
+      "explanation": "horse-马, cow-奶牛, sheep-绵羊, goat-山羊。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0cf4908a7739d8a6b631a894df056c06643dfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/091b5035885c00170fec9ecf24224933e3de3fcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bbddb4a037421a7b1e1b1bdd6447b03097f0df1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6525f2e663e8d223c2f9041fefdf2dba6ca70d63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/162d15a0c695fc8cf15dc1993a627e676194f59e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a48009439933c79848199e8eb4ca6790b326b1c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d39044ed6984d1294a0eb3ec05b44df1885bb7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e86ac24a212cbb68ceb0c7c4219539a60ce9857a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02e0e45ea6727f168ce9621237aeda182d3d345b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce289d714919e86a4d91eb8ab490984244104655.mp3"
+      }
     },
     {
       "id": 22,
@@ -216,7 +318,19 @@
         "you"
       ],
       "answer": "How,many,cows,do,you,have",
-      "explanation": "这是询问数量的标准句型。"
+      "explanation": "这是询问数量的标准句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae14c7ecc387dfd1581caf73caf0a4092a23b074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b476f12b47b1aaac05962792ef27e7c3775f097.mp3"
+      }
     }
   ],
   "knowledge": null

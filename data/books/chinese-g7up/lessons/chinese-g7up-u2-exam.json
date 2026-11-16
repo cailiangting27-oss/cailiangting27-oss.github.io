@@ -48,7 +48,15 @@
         "情感顺序"
       ],
       "answer": "情感顺序",
-      "explanation": "说明顺序为时空逻辑。"
+      "explanation": "说明顺序为时空逻辑。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/24eb1188e3c81708967eeb014eaf5a1a95f91951.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a0b3daab54555bbf1f12ec83043bd15b83881da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee89dc7e16abb90a80380646d0ba38e2b744dd7.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 8,

@@ -21,7 +21,17 @@
         "old"
       ],
       "answer": "many",
-      "explanation": "询问可数名词的数量用How many。"
+      "explanation": "询问可数名词的数量用How many。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/811db2b131db6cf40dba7bcf03d3bf5803091b4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5fe0200d1c7a5139bd18fd22268c4ca8bf45e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/626395edc405dd527a659d085932aff5916da9c8.mp3"
+      }
     },
     {
       "id": 16,
@@ -32,7 +42,11 @@
       "question": "How ___ cows do you have?",
       "options": [],
       "answer": "many",
-      "explanation": "How many引导对可数名词数量的提问。"
+      "explanation": "How many引导对可数名词数量的提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e8fa6d9f0b8a712404541cf53d57196a35ca644.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/699a0884aaaa5f142b57b5a6186cb45f27520eb6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在小数点的末尾添上“0”或者去掉“0”，小数的大小不变。",
       "options": [],
       "answer": "错",
-      "explanation": "根据小数的性质，在小数的末尾添上“0”或去掉“0”，小数的大小不变。题目中说是“小数点”的末尾，表述错误。"
+      "explanation": "根据小数的性质，在小数的末尾添上“0”或去掉“0”，小数的大小不变。题目中说是“小数点”的末尾，表述错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9344a11120f7ef4d72c9b21add5cb776593989bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/799b87dc44859adf42caf9cb59f7712a96402c67.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "等腰三角形不可能是钝角三角形。",
       "options": [],
       "answer": "错",
-      "explanation": "等腰三角形可能存在钝角，例如顶角为120度，底角各为30代的三角形就是等腰钝角三角形。"
+      "explanation": "等腰三角形可能存在钝角，例如顶角为120度，底角各为30代的三角形就是等腰钝角三角形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6727dff9efb6a8e407af03e653da8884283fbe07.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e4ef9226000205ff55be6300bbe71e688f68130.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "三角形任意两边的和大于第三边。",
       "options": [],
       "answer": "对",
-      "explanation": "这是三角形的基本特性，两边之和大于第三边，两边之差小于第三边。"
+      "explanation": "这是三角形的基本特性，两边之和大于第三边，两边之差小于第三边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd529fc87e0a8fb0c02df3ece56b976b92914d7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0cd65a8ecd34886dae3fd445142638a9b7eb332.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "0.58"
       ],
       "answer": "5.80",
-      "explanation": "根据小数性质，只有小数末尾的0可以去掉而不改变大小。5.80去掉末尾0变成5.8，大小不变。"
+      "explanation": "根据小数性质，只有小数末尾的0可以去掉而不改变大小。5.80去掉末尾0变成5.8，大小不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e5071e21fd8ba964797787b3581b058006e6f9f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abcf6e2396791fff19c2195d3290c93cf3cf78fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0925116e1cfa4768de1baf13f094fa0ed837cecc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ecc5701b7c3d81ab5ad490cebb860b82dc069c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7ea7ff14a5c6ad71e624558b71570d2437973dc.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "35.007"
       ],
       "answer": "30.507",
-      "explanation": "3个十是30，5个十分之一是0.5，7个千分之一是0.007，合起来是30.507。"
+      "explanation": "3个十是30，5个十分之一是0.5，7个千分之一是0.007，合起来是30.507。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/1589a1dfc45a800db319e230344feeb9c5f6c90c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c31210a3bb3c06d2f43441bf0c555395d73e92a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/525046d70f4575d26512e725d7e63c5f981ac59e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d41f05534482ef147a82c904ab239b87840d10f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a40707101e7c6432924fc4e31d814efe112337.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/277ba691be4828954f80d90a4ed304e92ae6a5b8.mp3"
+      }
     },
     {
       "id": 8,
@@ -86,7 +118,17 @@
         "500"
       ],
       "answer": "5",
-      "explanation": "0.05 扩大 100 倍即小数点向右移动两位，结果是 5。"
+      "explanation": "0.05 扩大 100 倍即小数点向右移动两位，结果是 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c2e99d09b1ec6fb156ad91aa85d86b577084647.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b390cd54a0c0d4f27fa7adf23e3c45536e9f37c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3216825f6f6d3c5372c1cac72e111e93f48cff15.mp3"
+      }
     },
     {
       "id": 9,
@@ -102,7 +144,17 @@
         "70"
       ],
       "answer": "80",
-      "explanation": "三角形内角和是 $180^\\circ$。$180 - 45 - 55 = 80$（度）。验算：$45 + 55 + 80 = 180$ ✓。"
+      "explanation": "三角形内角和是 $180^\\circ$。$180 - 45 - 55 = 80$（度）。验算：$45 + 55 + 80 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b453fff85c243bad234e7d1aa51b6d28e0bf0b82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ee9fcfd04897145b615f20efa9eb7041b6e13dc.mp3"
+      }
     },
     {
       "id": 11,
@@ -118,7 +170,17 @@
         "十点零零二"
       ],
       "answer": "十点零二",
-      "explanation": "小数读法：整数部分按整数读，小数点读作点，小数部分依次读出每个数字。"
+      "explanation": "小数读法：整数部分按整数读，小数点读作点，小数部分依次读出每个数字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc09982fa13cecc6aa9f3d6ca5ba2ffc8bb92d2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b4c292e8c9a0f55aedffb8e435785c480414551.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3f90cd6a60fc61e761a0e9a9a78b891095c3055.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a383aab788c259ff69df879b72090142508ec1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9560c575d7ff71cf1caccb720d62d3675515b4ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff88e293a1375ee2ea36edb8aa6c5ea4a8a7d731.mp3"
+      }
     },
     {
       "id": 14,
@@ -134,7 +196,17 @@
         "百分数"
       ],
       "answer": "百分位",
-      "explanation": "小数点右边第一位是十分位，第二位是百分位。"
+      "explanation": "小数点右边第一位是十分位，第二位是百分位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b4652011c357df8cc08c223d944249ef61955fc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41e76c4dc9f9a4733782dc2cde0ce95a737af8a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2481a6a1ac225869e9ed5d1c2972340743bd857.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/546dcb027fc63baa55c15172e24bcd6fe8374a21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffe7edb04822cddcee897022a707b0ce957aa217.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a416c031bf8feca125f59786d19a35e7fd4d8a55.mp3"
+      }
     },
     {
       "id": 15,
@@ -150,7 +222,17 @@
         "正方形"
       ],
       "answer": "正方形",
-      "explanation": "长方形2条，等边三角形3条，等腰三角形1条，正方形4条。正方形最多。"
+      "explanation": "长方形2条，等边三角形3条，等腰三角形1条，正方形4条。正方形最多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a187200b1cf83b74b495e3419b963dd5f3ed5d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952bbe1b76197ffef23b9bf81ded249667308ef1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cde8df21cd1d639e6c16edf3db05cd5b38676a53.mp3"
+      }
     },
     {
       "id": 19,
@@ -161,7 +243,11 @@
       "question": "3 吨 50 千克 = ___ 千克。",
       "options": [],
       "answer": "3050",
-      "explanation": "1 吨 = 1000 千克，3 吨 = 3000 千克。$3000 + 50 = 3050$ 千克。验算：$3050 \\div 1000$ 是 3 吨余 50 千克 ✓。"
+      "explanation": "1 吨 = 1000 千克，3 吨 = 3000 千克。$3000 + 50 = 3050$ 千克。验算：$3050 \\div 1000$ 是 3 吨余 50 千克 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95a699c2e35259c5073a6560ee5f38ac8c4132fa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f3b51b2bff10f9ad2abb03629306ee5792561cc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -172,6 +258,16 @@
       "混淆“小数点的末尾”与“小数的末尾”，在小数点后面直接加0导致数值改变。",
       "判断三角形时，忽略两边之和大于第三边的硬性条件。"
     ],
-    "tips": "制作一个小数和整数的数位对照表，记住小数点右边分别是十分位、百分位、千分位。"
+    "tips": "制作一个小数和整数的数位对照表，记住小数点右边分别是十分位、百分位、千分位。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c7/c724845afc49b989e2ef1c6c5998eca69cdfe250.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d2/d28a1df93a304c5b5f404b168e63b1a87472a0a1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6b/6bc6e1ed1d84691fad6c4d2b4c3c1955b3730aac.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1c/1c1fd967eec63f15399779e6618d3e580f33a320.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2f/2f0574968a8a82e1d745ef60e22ad4b846f5b644.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5f/5f390a628f89015fdae4dbd71ac5318fb970ea66.mp3"
+      ]
+    }
   }
 }

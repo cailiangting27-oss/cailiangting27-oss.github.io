@@ -21,7 +21,17 @@
         "I am a teacher"
       ],
       "answer": "That's sounds great",
-      "explanation": "当别人说出理想时，合适的反馈是表示赞赏。"
+      "explanation": "当别人说出理想时，合适的反馈是表示赞赏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/5204e202288857f28d0613e3ca2ad9803136f652.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/481bebe8a5d31e64b2f74a3439be89cd0506fe93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1b8358d611ecff26a3961e19556a662d2874cb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b11d7fcb47cb8b8674189fe3e71265bd8bdbbab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35585a3b41b94d09e281c0b8bc7cf9cc2e9cb054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8df57681e419bda85502a613c5d83be475f7baa.mp3"
+      }
     }
   ],
   "knowledge": null

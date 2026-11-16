@@ -21,7 +21,17 @@
         "被雾大海藏起来了"
       ],
       "answer": "大海被雾藏起来了",
-      "explanation": "被字句主语是承受者。"
+      "explanation": "被字句主语是承受者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c82965514e0c8b750f6ebc9eed4f0108b82d992.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/392ee62d510916f64273a938a70d7d82184f404b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06d6d35357e624f301502c046147cdafc7617bc6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63a2dc7ed21f7f4608e3642455dea94e6731c9f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b0f7078b349e56c2c8af33e9fae32de7bbf52fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e353f1f4f590532961d1a5b352df9de577fe9b96.mp3"
+      }
     }
   ],
   "knowledge": null

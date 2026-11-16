@@ -16,7 +16,11 @@
       "question": "句子 'Does he likes dancing?' 在语法上是正确的。",
       "options": [],
       "answer": "错",
-      "explanation": "有助动词 does 时，实义动词必须用原形，应为 Does he like dancing?"
+      "explanation": "有助动词 does 时，实义动词必须用原形，应为 Does he like dancing?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/566cc1b2a51498b8b0ed18ebec82554408ccb873.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5392eee55706bfca3b5ce2c6bbd4e41dc5a2856.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'farm' 的意思是'公园'。",
       "options": [],
       "answer": "错",
-      "explanation": "farm 意思是农场，公园是 park。"
+      "explanation": "farm 意思是农场，公园是 park。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/660f7a85c6b083e2cca72144a0336828e505d1fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9f0b297a341fc60d7a8b8443bee6df10d244341.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "We are both interested in music. 意思是我们都对音乐感兴趣。",
       "options": [],
       "answer": "对",
-      "explanation": "be interested in 表示对...感兴趣，both 表示两者都。"
+      "explanation": "be interested in 表示对...感兴趣，both 表示两者都。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c230d06a8e290be49ef8315764a7f092dcc61362.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a57b31b92a465e7a13793e437d9b2e5e79ad07dd.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "名词用 his 还是 her 取决于人称性别。",
       "options": [],
       "answer": "对",
-      "explanation": "his 他的，her 她的。"
+      "explanation": "his 他的，her 她的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0fc683b2d17d585e35acfab6bc10955c6bb9e71.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73d606952dcf336f2b4521dc1eae8bf7d747476a.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "aren't"
       ],
       "answer": "doesn't",
-      "explanation": "三单主语的否定句借用 doesn't。"
+      "explanation": "三单主语的否定句借用 doesn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1e59a28b7430f5e3a2c4ad9358dc17fd56433c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0d1d894a4aed77f598aa155982ad66f45cd947f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2ebf5133051bf39cd49d499acea403e44a4978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3090d78152a3e621d5e445916ba15d50c674da30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/624cd1f425ffb0afe6e743d09639a61c5ac6e5af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1bc644119c9b7c5930f4323293c53987462f08ab.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "study"
       ],
       "answer": "studies",
-      "explanation": "study 变三单，去 y 变 i 加 es。"
+      "explanation": "study 变三单，去 y 变 i 加 es。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f11f69ad539f81227ea06ef979171fa36de74862.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43d3957ebe2420555f8766bd39c60a83966c910d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a513ed5bdc99c03bee68ff17a48ff07a2029f822.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c48a4223ea370e8b84e8234dfa4c624fff376cbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d141297ceba3c00a331b5758d7fc6c8594365b5.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "Do, does"
       ],
       "answer": "Does, does",
-      "explanation": "主语 she 对应助动词 Does。"
+      "explanation": "主语 she 对应助动词 Does。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/655c2cbe96a2ddb96647a2ac27eb24f780083408.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/becae2cab0d7a7652ea12b3f32b36cf6dddfb3e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45b5335cca7e7988915d5a867f9b6de7aeaa8404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4ce8392c2bf564aa3cd4f1243ab265b31cff473e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/390a2b7d768664c417f1dc606d284cffaf1e1ade.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0597972e201cebaa72cf1aae05518df9ba85cc42.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "tome"
       ],
       "answer": "comes",
-      "explanation": "He is from... 或 He comes from...。"
+      "explanation": "He is from... 或 He comes from...。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/eced7ea83b40e38a51088aa07ac78931727c200d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d88d473b374eed7046db3c2a4ddcb91a88cbad76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74f5cacb17fe7f0b0b7babd0407fecac0c32008c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e47e5c469fc82dc725b998fc796351d90c43b82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6de7ed1326b5bd963b36bf1899010b68d38562e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53f4ef33661ef6f6dfc3c70fe53c7c5492183ab8.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "book stories"
       ],
       "answer": "comic books",
-      "explanation": "本单元高频词 comic books (漫画书)。"
+      "explanation": "本单元高频词 comic books (漫画书)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2c93525c523b04eefdc2cd338094a605aa3dc17.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b685e265a6d0fb8e8d706f9524e8ba84b294e9ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef8f976bb4f5de3268b0a18040d9a35964db4316.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01593a7b3919244b959c893a0db44f8d82f92b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2db406fdcf86cef51b34cf7c30292b57370eef24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9165ee031e722217236527faf5eaeaf87cddc5b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "I like singing."
       ],
       "answer": "She likes dance.",
-      "explanation": "like 后面应该接 v-ing，应为 dancing。"
+      "explanation": "like 后面应该接 v-ing，应为 dancing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbcd0e38b8334497e2d32fa9d696a2cdc0282806.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d72a4d34df296ba8da5fb78b1ee0cdf1c98936cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdfcc888893adcf70b054dacbd445ea08c7041e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80c4e6e9da894d3e225c058c7194037719605383.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15fa0d298e39521fe0e299d0c46969b0bc986a5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/501f685e12974ff22f4eff52e2c38b573aea33f0.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "He likes ________ (唱歌).",
       "options": [],
       "answer": "singing",
-      "explanation": "sing 的爱好形式。"
+      "explanation": "sing 的爱好形式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/595a1a9a48907b9849142881b8b6e89f7f30d89d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f71bb3f4b472221a06976392fff03ec1b77ecad.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Wu Binbin ________ (去) to school by bike.",
       "options": [],
       "answer": "goes",
-      "explanation": "go 的三单形式是 goes。"
+      "explanation": "go 的三单形式是 goes。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61e49b1ecaaaf06dfc84ad6d77b2c85b0a057bb3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a5589c92694bde0039072aeba466805989b41f6.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "We like ________ (烹饪) Chinese food.",
       "options": [],
       "answer": "cooking",
-      "explanation": "cook 的动名词。"
+      "explanation": "cook 的动名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebec6334792f6fe2e4fceed69897bb00b838ce9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/471136fcebe10790d88ec49c05f066ecdaaa63d8.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "跳舞"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "A-练武术, B-唱歌, C-跳舞, D-读书"
+      "explanation": "A-练武术, B-唱歌, C-跳舞, D-读书",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/025c5d2bca24834a358e41671ecaebd770b01f56.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e6af9649114a3dca972a125f73457405964981f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de77a66ed5bef31a8f668029633ba3101c9cb06e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b9be56907c5d36be90e52ba60135a5a0df15e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/227f38db8f9408a503acd51e3de98a46bb1209f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646478a9b069ab4878b37dc2fb998e2fd1e655ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b743a8836fe8da7280f19b20249fe9dda7a4a303.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1bd09c4bbeee977901a5491cea46b245c05f1a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/575d491eaa8ca1f455eacd110fe599e043a908fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecb6c606643aa239da2b2e1ddf235227cb120a42.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "Australia"
       ],
       "answer": "He,lives,in,Australia",
-      "explanation": "主+谓+地点状语。"
+      "explanation": "主+谓+地点状语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb7fd4c55d5e7c41a2f1f8a52f83e71bd86f4aca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25596ab9d8d1f53c836cb4d11c801d84f56b8e22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ceafb51e2b0783d53dd620019dff3aa66708a26f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/661534bafd7c23843704b6e877e6a620d8a1c06b.mp3"
+      }
     }
   ],
   "knowledge": null

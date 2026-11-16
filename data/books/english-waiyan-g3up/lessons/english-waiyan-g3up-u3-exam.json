@@ -21,7 +21,17 @@
         "that"
       ],
       "answer": "those",
-      "explanation": "复远用 those。"
+      "explanation": "复远用 those。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/0944cfc9b0a6d417c3d8dcbe5129897ccdce02c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ccf720ae2a65bf420d3032289d78d77e9b8739d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81b781d39d62e9d0e272e181ce7802af3f0f94f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33b82201081ec7c438cb5d9a36cd72bcb153050b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9302ad7e59521597734e9323c9e83110175ca33b.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "duckies"
       ],
       "answer": "ducks",
-      "explanation": "一般加 -s。"
+      "explanation": "一般加 -s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0e0e29ef8d67ea51ff45081bb20e9df7ab89b5e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2b5633a4ddb33dbfda04ebc027d1c770aa15dee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44c5f8c5468ced260975fe97ce15cbb825b37a2d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8b59ef2e7c94ade03bf1cb89b4413615e6bc66f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a01fd053d8cc6a46276b85a8c51d023753b86287.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "this 指近处的单个事物。",
       "options": [],
       "answer": "对",
-      "explanation": "单近 this。"
+      "explanation": "单近 this。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d32ac05242fb72856680b7c5a38da8f4fd9e3c4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04ed573f23b7f08cef786c52904da03544d7f423.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "These are flower."
       ],
       "answer": "They are flowers.",
-      "explanation": "复数用 they are。"
+      "explanation": "复数用 they are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a32086c18134d4a38172381483700617e0ebbe3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03249ca01571d33be97d42dea977d822a926ce4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/629190963a8ee267d47ad71e0ccdd16cfe7e0357.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a87877d6ac9d8ca3e851bf387ae8deb4973cd7b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7711f96dea16df7b6da9ce1071158312d432d8a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40aa1f807d1bb0f8353abdbc2429aac1c7b23dc1.mp3"
+      }
     }
   ],
   "knowledge": null

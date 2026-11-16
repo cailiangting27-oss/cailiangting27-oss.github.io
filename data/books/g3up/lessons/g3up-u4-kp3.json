@@ -16,7 +16,11 @@
       "question": "在解决“妈妈带了 800 元买两件商品够不够”的问题时，通常使用估算更简便。",
       "options": [],
       "answer": "对",
-      "explanation": "判断“够不够”通常只需要通过估算确定范围，不需要精确计算。验算：$398+398 \rightarrow 400+400=800$ ✓。"
+      "explanation": "判断“够不够”通常只需要通过估算确定范围，不需要精确计算。验算：$398+398 \rightarrow 400+400=800$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ca3a6e3d502bb496ddbc5c7a048befae6e6481.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15d94c417c06a77624cb37007a95e2b7f005ed5b.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "300"
       ],
       "answer": "500",
-      "explanation": "估算：$298 \rightarrow 300$，$196 \rightarrow 200$，$300 + 200 = 500$。验算：$298+196=494$，接近500 ✓。"
+      "explanation": "估算：$298 \rightarrow 300$，$196 \rightarrow 200$，$300 + 200 = 500$。验算：$298+196=494$，接近500 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08d28164e33b4810e59c9f631ca19cf50616fd57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83a383c0fa81f295d057f8f5ed0ba4610947817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15aa0c7e8fbd2923db7041d012e8838d66b9572d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/576d4109d754a0788d2d7248f9899a50b60b8698.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "不够",
-      "explanation": "估算：$245+187 > 240+180 = 420$。$420 > 400$。精确算：$245+187=432 > 400$。验算：$432-400=32$，还差32元 ✓。"
+      "explanation": "估算：$245+187 > 240+180 = 420$。$420 > 400$。精确算：$245+187=432 > 400$。验算：$432-400=32$，还差32元 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d057444d477795a36b81ff7d6108da6ea71fc0e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/1119ad031e97ddf780d3261c83d859b8825017dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c73fa2ada34e2761532328554027ce6f5a963cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e26bf726bf199c7ef630150b011dc4e6247c61f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8de283873fd4a3660088461b000099362861325.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "估算精度不足：将498看成400而不是500，导致误差过大",
       "不该用估算时用估算：题目要求“找回多少钱”这类精确数值时使用了估算"
     ],
-    "tips": "判断够不够时，如果要买东西，估算时尽量把钱往小了估，或者把价格往大了估，这样更保险。"
+    "tips": "判断够不够时，如果要买东西，估算时尽量把钱往小了估，或者把价格往大了估，这样更保险。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5e/5e00bf4e8540dd28a08d752062aea6f66c311e58.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/54/5447c08964dfe47d0c7a0dcdc0ab17e38acde80e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c8/c80fa145e578d95c969d8af33cff62ddc4db9bdd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/30/30730e7849169c986c7d3519916d557a5ccb7b91.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/66/66b3fb23ad165f8b150279d5939c847d174e09e6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/81/81db4cb330d8e149a214f9c799e36be7b8cc73e3.mp3"
+      ]
+    }
   }
 }

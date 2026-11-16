@@ -16,7 +16,11 @@
       "question": "$3000 + 400$ 的结果是 7000。",
       "options": [],
       "answer": "错",
-      "explanation": "3个千加上4个百结果是3400。验算：$3000 + 400 = 3400$ ✓。"
+      "explanation": "3个千加上4个百结果是3400。验算：$3000 + 400 = 3400$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cbc909ad2233e83374546acc8952556e4f25641e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d8e0a8fa7cd96e334a32cf0ed524e5ea2ca05f9.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "12个一减5个一"
       ],
       "answer": "12个百减5个百",
-      "explanation": "1200是12个百，500是5个百，相减得7个百，即700。"
+      "explanation": "1200是12个百，500是5个百，相减得7个百，即700。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0208b67dcd27f3c7eae981fad70d90630d45869.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/211ac4886c19f90047f1704e0d624e9f9b38c643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b14c3dd9332365f7db229255525ae952128df233.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeffe92dc4efefb1b8dc39fd09aea2cbcdf96583.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82b0ec0c6bf26dbfeb9e8c211a30ea362d868952.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df3a3b9de32d5b6902b10daa8577972cc66edb1b.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "15"
       ],
       "answer": "1500",
-      "explanation": "8个百加7个百是15个百。验算：$1500 - 700 = 800$ ✓。"
+      "explanation": "8个百加7个百是15个百。验算：$1500 - 700 = 800$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef66443c03faacc3803d44ecb01d2af0190bb77a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13682ac418603aa0966369d46bbf282f562acf47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7841fb1f92b99194ca818d410cb09430731b6285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/271593a69439c052d4de63e50c569060dcd78e91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/655a25fcc311a59e61fac2df522529f97b808de2.mp3"
+      }
     },
     {
       "id": 21,
@@ -59,7 +83,11 @@
       "question": "草地上有 200 只羊，又跑来 500 只，现在一共有 ___ 只羊。",
       "options": [],
       "answer": "700",
-      "explanation": "$200 + 500 = 700$。验算：$700 - 500 = 200$ ✓。"
+      "explanation": "$200 + 500 = 700$。验算：$700 - 500 = 200$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2d/2dda8aa24045e1c5caeb127376fb3262d6c7d83f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a788ba2698b46efb8a75fb2cda625812f5a5245a.mp3"
+      }
     },
     {
       "id": 22,
@@ -70,7 +98,11 @@
       "question": "$4000 + 5000 = ?$",
       "options": [],
       "answer": "9000",
-      "explanation": "$4 + 5 = 9$，所以 4 个千加 5 个千等于 9 个千，即 9000。验算：$9000 - 4000 = 5000$ ✓。"
+      "explanation": "$4 + 5 = 9$，所以 4 个千加 5 个千等于 9 个千，即 9000。验算：$9000 - 4000 = 5000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9e121f3446a48d0c0acd91ffd73c2cb20a4b47e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d4c0d18bccf47a6f9e0e7905ae3f9e7288e2da3.mp3"
+      }
     },
     {
       "id": 23,
@@ -81,7 +113,11 @@
       "question": "$1300 - 600 = ?$",
       "options": [],
       "answer": "700",
-      "explanation": "$13 - 6 = 7$，所以 13 个百减 6 个百等于 7 个百，即 700。验算：$700 + 600 = 1300$ ✓。"
+      "explanation": "$13 - 6 = 7$，所以 13 个百减 6 个百等于 7 个百，即 700。验算：$700 + 600 = 1300$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84308f17bfb8672a94b7d7d6179c7d886d6e234b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e3329c632cc7ae7ba81995049949be9f9bd9237.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -92,6 +128,16 @@
       "计算结果末尾的0个数写错",
       "进位或退位计算错误"
     ],
-    "tips": "把末尾的0先遮住，算出数后再加上相同个数的0。"
+    "tips": "把末尾的0先遮住，算出数后再加上相同个数的0。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/be/bec3fed70ae19792b05b758835c4a3cafa1d262b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/98/9807153986b376992fe4471c4283735571e4f6f1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e0/e0a868ef3025c99a429898a0020d575c0cd967b8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bc/bc3bb0d40a526cc7ef3184571256f388c736de39.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/11/113f2f198eb1f452557d869cf43859caa5be2369.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ca/ca0ebe75a6d57dd1c0423926407211ad4a9d02aa.mp3"
+      ]
+    }
   }
 }

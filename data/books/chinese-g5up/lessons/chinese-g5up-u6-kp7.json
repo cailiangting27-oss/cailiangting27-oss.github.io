@@ -21,7 +21,17 @@
         "我没法不支撑这个家。"
       ],
       "answer": "我不得不支撑起这个家。",
-      "explanation": "“不得不”是标准的双重否定，表达肯定的必要性。"
+      "explanation": "“不得不”是标准的双重否定，表达肯定的必要性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13ebf12a7c95d0ffe341d3112712c68c0f8bebd8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b01065a58f07aa3663346d66b81d73f4683b000d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44f5877046cca7ba2c5b27afa00ef2b1f954f707.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a819a968ab30e0636ca0b1bb07ee54b9ee857cb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec21c16637fbf0bc565a424ab0751db12cb7eaa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a308c8689785c10d1a4ee2957e0b38da6450d01.mp3"
+      }
     }
   ],
   "knowledge": null

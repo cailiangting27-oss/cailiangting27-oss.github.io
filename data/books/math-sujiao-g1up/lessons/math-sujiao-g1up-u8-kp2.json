@@ -16,7 +16,11 @@
       "question": "计算：9 − 5 = ？",
       "options": [],
       "answer": "4",
-      "explanation": "9 − 5 = 4。"
+      "explanation": "9 − 5 = 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca34eabd7d166644b37ba3ac10f126ec11a1c268.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf7a2034c272817d3b0db5cb3086e20ed221ef1b.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "计算：8 − 3 = ？",
       "options": [],
       "answer": "5",
-      "explanation": "8 − 3 = 5。"
+      "explanation": "8 − 3 = 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c02ffa1842a554286b5322c41983cdafcc5738ba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20f693d13572fc7d548bcdbde2a9a95783d23221.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -37,6 +45,15 @@
     "common_mistakes": [
       "减法顺序颠倒。"
     ],
-    "tips": "总数减去掉的部分。"
+    "tips": "总数减去掉的部分。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/67/673c84415650bb63023f5cc1f7bf3889377e8dcd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e3/e3ad650ff6bafb955c0dcc6d7e6b188d1059aa14.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/92/92747786309a97610829ce2c9eb43dec12250bc7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/ababe2338900e470a4e582c72c2d04a203593d84.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c3/c3f2b99a81add02ccb5c244775b2ca5561736825.mp3"
+      ]
+    }
   }
 }

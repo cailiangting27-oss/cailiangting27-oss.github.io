@@ -16,7 +16,11 @@
       "question": "无限小数一定都是循环小数。",
       "options": [],
       "answer": "错",
-      "explanation": "无限小数包括无限循环小数和无限不循环小数，如圆周率 $\\pi$ 是无限不循环小数。"
+      "explanation": "无限小数包括无限循环小数和无限不循环小数，如圆周率 $\\pi$ 是无限不循环小数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62f679777560ec8f27ece3bcdc74249a0df05808.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/bac19726479ae13aeed4f83c60bdc7bfbb31f0ff.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "$0.6666$ 是一个循环小数。",
       "options": [],
       "answer": "错",
-      "explanation": "循环小数必须是无限的。$0.6666$ 是一个四位小数，属于有限小数。"
+      "explanation": "循环小数必须是无限的。$0.6666$ 是一个四位小数，属于有限小数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0a89e304083cec3a87b6f6b35f3bc8fc854b096.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d994d5b77bbc751d9d7a17fdffcc699094108d5.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "$0.481...$"
       ],
       "answer": "$0.4\bdot{8}\bdot{1}$",
-      "explanation": "$5.3 \bdiv 11 = 0.48181...$，循环节是 81，所以记作 $0.4\bdot{8}\bdot{1}$。"
+      "explanation": "$5.3 \bdiv 11 = 0.48181...$，循环节是 81，所以记作 $0.4\bdot{8}\bdot{1}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6801fb0b38ddc1f440d6fad3e9b0b2b7fca5c807.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/9446d09cca2efca8969b4bf8b0dc68a72a21b679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09b4a2d3bffe24b276418b85b5a172ac8f746aad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/777842b013bd9a4ef01128b790a086798c902860.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3b70c018737aed79de8f1abd93d1f38884f1ba3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a54a2137d5508fb6eb3f6517df5fa029e650826.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +77,17 @@
         "2"
       ],
       "answer": "25",
-      "explanation": "循环小数中依次不断重复出现的数字叫做循环节，此题中 25 重复出现。"
+      "explanation": "循环小数中依次不断重复出现的数字叫做循环节，此题中 25 重复出现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86a29473f2481b00bd3eaf23231bdf6439fb2248.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4551b2d552b0795735b70411d13d6b5ad82d6b8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f52c45f374fe6ae1fcbbff6a1a104d69613353e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "把有限小数误认为是循环小数",
       "写循环记法时点错了位置"
     ],
-    "tips": "循环小数必须是无限的。循环节是指最先开始重复的一段数字。"
+    "tips": "循环小数必须是无限的。循环节是指最先开始重复的一段数字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5f/5fd904de165f2bea8ddb3b4d570b2d9f56b332d1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/00/00c5d2e89d32f26bd7401943e165d3313a82430a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/da/da17c05e23aece5dfe6ce7b72011b58ae7e20f70.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ca/caf85e79cc3149227afa20f487b95ca66323c6bf.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6c08fa70cb4af152e042ab7c4b1afd52195dbc40.mp3",
+        "https://api.clthuanxie.cn/cc-audio/00/00f6396529c5e547a2c13980d40d277aaf8c3d3b.mp3"
+      ]
+    }
   }
 }

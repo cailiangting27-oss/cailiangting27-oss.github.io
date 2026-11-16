@@ -21,7 +21,17 @@
         "1500"
       ],
       "answer": "1800",
-      "explanation": "$25 \\times 18 \\times 4 = (25 \\times 4) \\times 18 = 100 \\times 18 = 1800$。"
+      "explanation": "$25 \\times 18 \\times 4 = (25 \\times 4) \\times 18 = 100 \\times 18 = 1800$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1278b03c007f8ccd71dc02b71e60397e2e4fc72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c774d8e1e30b273143a93836f845a4d3f44a60f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a129261ef1c88ada8b9611d79cd7e0a112c9d4f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4ac914c09d7c097fe1f4f96b897e625b6922069.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7841fb1f92b99194ca818d410cb09430731b6285.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5ebe2480aadd47860d3136b13d958e2752cde88a.mp3"
+      }
     }
   ],
   "knowledge": null

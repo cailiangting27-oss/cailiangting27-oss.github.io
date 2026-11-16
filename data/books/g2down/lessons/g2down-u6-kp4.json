@@ -16,7 +16,11 @@
       "question": "有21个小朋友划船，每条船限乘4人，至少需要5条船。",
       "options": [],
       "answer": "错",
-      "explanation": "$21 \\div 4 = 5$（条）……1（人）。剩下的1人也需要坐一条船，所以是 $5 + 1 = 6$（条）。"
+      "explanation": "$21 \\div 4 = 5$（条）……1（人）。剩下的1人也需要坐一条船，所以是 $5 + 1 = 6$（条）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bccc53013e1b3a19bd391970b701e8ac0cc1678.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e0073535ed5de907361b592dfcdc8c8a185a844.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "32张"
       ],
       "answer": "6张",
-      "explanation": "$32 \\div 6 = 5$（张）……2（人）。剩下的2人也需要一张桌子，$5 + 1 = 6$（张）。"
+      "explanation": "$32 \\div 6 = 5$（张）……2（人）。剩下的2人也需要一张桌子，$5 + 1 = 6$（张）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdea3b609a7341ef0d0f1af7bdb7bc17490da91a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac355fae3e2d0cfd21493907ed28c164e4a9285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0604cfb81cfa3dd29dd27600b8f2e28de29c22e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc38fcdaea5a09615e99603f5774ea3f0af3be7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa37ed71c2f48ab222398ce7ae0e562895eae007.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be6eef05f644b3f80595de2439c304405f2bb9f7.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "24件"
       ],
       "answer": "4件",
-      "explanation": "$24 \\div 5 = 4$（件）……4（颗）。余下的4颗不够钉一件衣服，只能钉4件（去尾法）。"
+      "explanation": "$24 \\div 5 = 4$（件）……4（颗）。余下的4颗不够钉一件衣服，只能钉4件（去尾法）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c94b1990fc862b8fcd4ce8efee471816d74f33a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f25d27ac4bcb23df7f5ffa1465aad627c6bb683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e573ad2079b2422c73fda912e2fa8716790ee119.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dec65f712b25e29d98e50774e9ccb6f43d150d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8769a026351673d638c6046850c59e6bfc5d924b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd1e82a55640c81027a388ddb7c300a16f3f7069.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "19段"
       ],
       "answer": "6段",
-      "explanation": "$19 \\div 3 = 6$（段）……1（米）。剩下的1米不够剪一段，所以只能剪6段。"
+      "explanation": "$19 \\div 3 = 6$（段）……1（米）。剩下的1米不够剪一段，所以只能剪6段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abfac7637f10e3b2fe192a08786c417e6d49250f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1049a53c97ad667b7ad09ec90f1fb6fe75990ab2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3274e43a34d63a386981884fb140c499ae3d1b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d07ea0e15fb5e27e4af0e03e7d7320a542170814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ec3fbee9dc7b87ad5b6781b3966aadc85947da1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d76d71b6cdd0e4cf7f61ab0f88a9d280613f3feb.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "有25个球，每个盒子装6个，要把这些球全部装入盒子里，至少需要 ___ 个盒子。",
       "options": [],
       "answer": "5",
-      "explanation": "$25 \\div 6 = 4$（个）……1（个）。余下的1个也需要一个盒子，所以 $4 + 1 = 5$（个）。"
+      "explanation": "$25 \\div 6 = 4$（个）……1（个）。余下的1个也需要一个盒子，所以 $4 + 1 = 5$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/7486f36a543f5c70d1e2421286bfd361ad09907e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6263964782a39fbe24e5b15b1a4e6ed44dfb900d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "租船问题忘记给余数的那1人预留位置",
       "做衣服问题错误地将余下的布料也算作一件成品"
     ],
-    "tips": "读题时圈出关键词，问“最少”通常跟进一法相关，问“最多”通常跟去尾法相关。"
+    "tips": "读题时圈出关键词，问“最少”通常跟进一法相关，问“最多”通常跟去尾法相关。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a7/a7b45395c424fcc9ee65d462d34039c15c3f898b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/42/4234eb7b379f8f2be19d967294fd628ed4f4b3ee.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f9/f9afdfd87d5e16bf137a8d41c1222fc69c4a5620.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6c/6c2525e483f6e8b65a4c2117b7f34f34a60c866c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/12/12722d3ff2fc2e8bb23b60a9e883da0de37a407f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/46/4695925504f1462c5aab269e60ffd0e67f7192d1.mp3"
+      ]
+    }
   }
 }

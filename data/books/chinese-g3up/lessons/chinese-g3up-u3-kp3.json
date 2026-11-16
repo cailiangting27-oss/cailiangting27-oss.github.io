@@ -21,7 +21,17 @@
         "人们用铅笔写字"
       ],
       "answer": "铅笔和橡皮吵了一架",
-      "explanation": "拟人化的冲突是童话情节的核心。"
+      "explanation": "拟人化的冲突是童话情节的核心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/458c1c6578e82d6e3ee8e1dfd78a3b434d3a7380.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c339b18b12e11d5ea02d100e94fba9c7093ac67b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/716c574c7244606dcb18018f6fd02589e70d0455.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfb32f8213469e203b00c28a4a57f30fe3bc8d65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e9297c8e11af9cf8bc63d40b61428b89475cef4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/999d7485a21e6cb3364d47e5717f59f1cd9f499b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "流水账式记录，没有有趣的冲突和对话",
       "结尾过于仓促，没有体现童话的意义"
     ],
-    "tips": "可以尝试‘假如...会怎样’的提问法来寻找灵感，如‘假如作业本会说话会怎样？’"
+    "tips": "可以尝试‘假如...会怎样’的提问法来寻找灵感，如‘假如作业本会说话会怎样？’",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a4/a4831c50d17f79b90c91ceebb74e10a334275252.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/70/70b6f41072fe9e1e0846687c0b138e55080338d9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/58/5887d69ffd99f6dd03abbed6144749822c14b8eb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/74/748e65008b5de7397c1816d681c60c701ce35e4f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/73/735688372a7fe95799e6156042e24347854fadf5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e1/e13399a228db90538df02c8782dcd9e99c6c822d.mp3"
+      ]
+    }
   }
 }

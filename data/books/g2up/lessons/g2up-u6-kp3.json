@@ -16,7 +16,11 @@
       "question": "买一个 $8$ 元的笔记本，买 $9$ 个需要支付 $81$ 元。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是 $8 \\times 9 = 72$（元），不是81元。八九七十二。"
+      "explanation": "应该是 $8 \\times 9 = 72$（元），不是81元。八九七十二。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec9da80178f35589657e5f544b5ff4f19497e028.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee42d1f2e8fec60c16cdffae331e21d912d01bb3.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "64"
       ],
       "answer": "56",
-      "explanation": "$8 \\times 7 = 56$（条）。"
+      "explanation": "$8 \\times 7 = 56$（条）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cb4ca7b6317b7fa33e2d62d0ebafb2cb642b39c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e01e17467891f7c933dbaa00e1459d23db3fe4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54ceb91256e8190e474aa752a6e0650a2df5ba37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/9654f4f4f61c65b03adf99f66e7a2bf34a19c245.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "64"
       ],
       "answer": "60",
-      "explanation": "$7 \\times 8 + 4 = 56 + 4 = 60$（个）。"
+      "explanation": "$7 \\times 8 + 4 = 56 + 4 = 60$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/140adf2bbd726023caa81c2c3aefbe869f2b156b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9334987ece78b6fe8bf130ef00b74847c1d3da6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54ceb91256e8190e474aa752a6e0650a2df5ba37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad9c56a6e2c2253482c523cb851335c9f2487ee2.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "7"
       ],
       "answer": "3",
-      "explanation": "$30 - (9 \\times 3) = 30 - 27 = 3$（元）。"
+      "explanation": "$30 - (9 \\times 3) = 30 - 27 = 3$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe657720ca02994ee8da973a1c0b7aad945234f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2ad597a20fbb8c90889b93bb5e5eced215201e71.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "小明每天看 9 页书，刚好看了 7 天看完。这本书一共有 ___ 页。",
       "options": [],
       "answer": "63",
-      "explanation": "列式：$9 \\times 7 = 63$。验算：口诀“七九六十三” ✓。"
+      "explanation": "列式：$9 \\times 7 = 63$。验算：口诀“七九六十三” ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5df8b725a16be75ea50fa285049eea0fa9e2133e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5ccfa362beaf87f231d49c731d45305312aa0eda.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "没分清“每排有几个”与“一共有几排”的关系，错误列式。",
       "两步应用题中，做完第一步乘法后忘记进行第二步的加减法计算。"
     ],
-    "tips": "画简单的草图或圆圈图可以帮助理解数量关系，分清哪些是个数，哪些是份数。"
+    "tips": "画简单的草图或圆圈图可以帮助理解数量关系，分清哪些是个数，哪些是份数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ec/ec7e94deeef5b4af0aa5fca30e357b433aebb57e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/3c/3c2a96fcbbc03af90bfce52fac1f98145c648ffb.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f9/f9b4f771a3d3b6f505089910bea533bb00c8c426.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bc/bc68523d900db2e72b2b897230cc9383cc84e782.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bd/bd2338a400d8babadd06976835857d6b257fce42.mp3",
+        "https://api.clthuanxie.cn/cc-audio/89/891aa4c3bbd04cd43856d41cdf9d3f9f7d836557.mp3"
+      ]
+    }
   }
 }

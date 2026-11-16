@@ -16,7 +16,11 @@
       "question": "Did you watch TV? No, I ________.",
       "options": [],
       "answer": "didnt",
-      "explanation": "一般过去时否定的简略回答用didn't(此处要求全小写字母不含符号)。"
+      "explanation": "一般过去时否定的简略回答用didn't(此处要求全小写字母不含符号)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c50a449b33d44edfa136726601ccd340e67b9868.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c81f87d11e65d225ad77aca13166d41f9e45c64e.mp3"
+      }
     }
   ],
   "knowledge": null

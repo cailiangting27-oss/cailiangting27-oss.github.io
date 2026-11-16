@@ -16,7 +16,11 @@
       "question": "“删”字的偏旁“刂”像古人用刀在竹简上刻痕。",
       "options": [],
       "answer": "对",
-      "explanation": "“删”本意是削去简牒上的字，利刀旁代表工具。"
+      "explanation": "“删”本意是削去简牒上的字，利刀旁代表工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1f3e6c44267628d6fd13fc7b5b137e763135445.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f43959b7d86200724309ce70960a7787c96f9a12.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "网上搜到的所有关于汉字的历史资料都一定是准确的。",
       "options": [],
       "answer": "错",
-      "explanation": "网络资料良莠不齐，需要慎重筛选和多方求证。"
+      "explanation": "网络资料良莠不齐，需要慎重筛选和多方求证。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27afa16eee2cbdffc0adb56b24f38f5e8998f51b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8615dca2e19edbfd9e6757e975f5776d59313d99.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "研究报告的“研究方法”可以只写“写字”两个字。",
       "options": [],
       "answer": "错",
-      "explanation": "研究方法应具体到搜集资料的具体途径，如“查阅图书”、“调查访问”等。"
+      "explanation": "研究方法应具体到搜集资料的具体途径，如“查阅图书”、“调查访问”等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/756e086f3d5bacd00be755fa32ee403d1cd26b3c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16787658c2c36f82713e6e576ab2a1a6100d4159.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "汉字经历了从繁到简的变化过程。",
       "options": [],
       "answer": "对",
-      "explanation": "汉字总的发展趋势是笔画减少、结构简化。"
+      "explanation": "汉字总的发展趋势是笔画减少、结构简化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a870a68fa856a00fe62b0c0b1e420df560c0a31.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fa08be75b2f5af9a8cefdaf0b2ede7934f540a6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "驾"
       ],
       "answer": "桐",
-      "explanation": "“桐”左侧木字旁表义，右侧同表音。"
+      "explanation": "“桐”左侧木字旁表义，右侧同表音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5b555706a413f7d293779cba5f2229f04ea8780.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96e3ea48e41fd6c6e9360ebfba22e9269ebc8165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7068735a4dcda1a6d6238b154d56397e57f4c67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc73601f2012312cbf4252aa5969908bbc88cd02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06ac8e78af0b13d4d9869d812cb2ed245d15ff69.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9acce76a98028a2a689392fe46ff30f4101899cf.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "顺从"
       ],
       "answer": "好像",
-      "explanation": "该成语意思是好像靠近又好像离开。"
+      "explanation": "该成语意思是好像靠近又好像离开。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce1290b778d3b80143e5f73723cf6f4b14993ba2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/041005a1deede88a44d2528f82e6aeaccfbea78f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/24a9af6fab622b8517dcad7630698631083f2c5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5630b886f9cd31702e7c1606eb1f62ab0c759063.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/182103dd0fd20e998019d3395448524f91aee99a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf2cff3958cd622b5fc73c4c9681c344d73d6b74.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "史学家"
       ],
       "answer": "书法家",
-      "explanation": "王羲之被尊称为“书圣”。"
+      "explanation": "王羲之被尊称为“书圣”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3eac62a6fc290bf71b39d33501be14db7d0d2e33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a557033f5bca06fc1cc18852ed3222bcd5b9d7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf3e14a1086bb02d893cbfc4510ee99079a6bf60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6cdb662d9fe3accdab57842cd33941cd15b3d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2227ce33cc1f4d65a57c75ebf7d2b7a83f289555.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/285d12316d4c374a850871d644833baf6165849a.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "草书"
       ],
       "answer": "金文",
-      "explanation": "金文刻在青铜器上，线条浑厚，给人古朴的感觉。"
+      "explanation": "金文刻在青铜器上，线条浑厚，给人古朴的感觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87a121ad207ee551daefe74eb3a0dd2f3556a65e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b816a6827d3b9fc490b282cbb74cdf81ec6a849f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b05b10b1ca3650e73fa117ac046d1a9925ebc95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a9ba3612b379adcb3bc8feabc72c0194d2b1afa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e73a8d2c38f3864b0c0fda5f3b50eb3c68573eb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9ec374f3ec9148d3f9f3a38a3b593b3a1593ddb.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "重重叠叠"
       ],
       "answer": "龙飞凤舞",
-      "explanation": "“龙飞凤舞”形容书法笔势壮丽生动。"
+      "explanation": "“龙飞凤舞”形容书法笔势壮丽生动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/6148986d7b100056c1d543495a17929807581f31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4a41a808c74fa2422e8afffe593f884b7aefbb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19932d1c8db6ba72002c230f6f5aeaa0a720aa02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28142597d854e55d3051efdef092272462b3ca6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bfeca28d35bd18d2e2c06ccdaa1b6ce29cf394f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81616a64a8eae1dd9cd396b00ef7beace23059a9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "象形字"
       ],
       "answer": "形声字",
-      "explanation": "“门”表音，“耳”表义。"
+      "explanation": "“门”表音，“耳”表义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69f1480886a1417e0c4f30001cf4c599ab9fdb08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a05e7ab0e37e924bed7a62c5f04389587829bf12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9166fdba2b1c97850264bc130d773ec8af26efe6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ad12e20c289b96c4b0dd1f837cefa1f3f06bc73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f362cac31edee0a571b807feec7ff6cfe9bc94e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa8761128a257aa77349f3446466a3e78d80eb8c.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "有一种汉字形式叫（___），是用丝绸或竹简书写的。",
       "options": [],
       "answer": "简牍",
-      "explanation": "在纸发明前，汉字主要写在竹简或木牍上。"
+      "explanation": "在纸发明前，汉字主要写在竹简或木牍上。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87b6105dee49336ba8eae35d7fa50d38214c00bb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25b974bf2ab0b262d0597de40574aed8c8aaff6e.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "“月”字在演变成现在的字之前，最初是（___）形。",
       "options": [],
       "answer": "新月",
-      "explanation": "甲骨文中的“月”字就像一弯新月。"
+      "explanation": "甲骨文中的“月”字就像一弯新月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5471a48aac09084014b36298a17a72bbfe1110a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf70bd196b70b8c46cf2847d01780ead302d828d.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "会意字"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "休（会意）、山（象形）、刃（指事）、飘（形声）。"
+      "explanation": "休（会意）、山（象形）、刃（指事）、飘（形声）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/092179ba54130aef99527bcbd5f18b6c8e0e1c43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0afbe7b539e1a1fb8bc41209ca28d526d4447ec0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e248e5603d3e908214e506d4c5fa3700b2ef7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4faa4f917a760261924655cc3e8af4124c8c391.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38f2022b1907c9c1291da28df9e600d4ce44b289.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ad12e20c289b96c4b0dd1f837cefa1f3f06bc73.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a05e7ab0e37e924bed7a62c5f04389587829bf12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f362cac31edee0a571b807feec7ff6cfe9bc94e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9166fdba2b1c97850264bc130d773ec8af26efe6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/173b2414d0e5cae61d1d75dc385d240398eaeb59.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "潦草狂奔"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "隶书突出特点是蚕头雁尾，草书笔画相连，颜真卿以楷书著称，王羲之行书第一。"
+      "explanation": "隶书突出特点是蚕头雁尾，草书笔画相连，颜真卿以楷书著称，王羲之行书第一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/226a5e224a3264d40b43a6de30f684c554775a97.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5b0e3cdc513436a1ae8d78c1be54402dabc2a278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e73a8d2c38f3864b0c0fda5f3b50eb3c68573eb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b816a6827d3b9fc490b282cbb74cdf81ec6a849f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a9ba3612b379adcb3bc8feabc72c0194d2b1afa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/7535be89dfe57d843ae17e0d0d9763e938da303e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0be25aa565dc908c882af97aa607a70a3fd14e3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f96e4aa57ef08379f7b8e2ed5fd71516540c4b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96fb8c534db70c34520be840a1d8906a61a094f9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c04088bfc6ffda20c3d3cbaf05d8d7a1c13e4f4e.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "道理"
       ],
       "answer": "每个,汉字,可能,蕴含着,深刻的,道理",
-      "explanation": "主语是汉字，谓语是蕴含，宾语是道理。"
+      "explanation": "主语是汉字，谓语是蕴含，宾语是道理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d88469668181d2d3011951c566d9257223a5e6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/3627901ffc790bb36fb0177fcc1c4c92bfdec877.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c06ce2d7fdeda6ff7629156bee66bf4d818ab397.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66918f18973afb64717ba36dd8db59e1ce85ad7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74070b81cd6e6c52eb1afaca95132c4b6282fc30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3bb209a5e64c612d42f96cb2d79b5466eeee99f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11bb37dd900fb720e343ceb2f06fac5cb05084ba.mp3"
+      }
     }
   ],
   "knowledge": null

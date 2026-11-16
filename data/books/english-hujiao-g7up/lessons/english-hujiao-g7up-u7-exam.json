@@ -64,7 +64,15 @@
         "in bed"
       ],
       "answer": "after school",
-      "explanation": "课后活动。"
+      "explanation": "课后活动。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b8037158ea203396742814e9dd34cd14afe9c1af.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     }
   ],
   "knowledge": null

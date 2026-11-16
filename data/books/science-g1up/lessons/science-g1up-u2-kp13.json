@@ -21,7 +21,17 @@
         "果实"
       ],
       "answer": "根",
-      "explanation": "根负责固定植物体并吸收土壤中的水分和养分。"
+      "explanation": "根负责固定植物体并吸收土壤中的水分和养分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db175856e83d301fa5460ec347811906f165dfff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37c63540a2b64ad2e7a69c4d9b63be994e818744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f49cd09f621296d2481398311aca26ececb6c8ae.mp3"
+      }
     }
   ],
   "knowledge": null

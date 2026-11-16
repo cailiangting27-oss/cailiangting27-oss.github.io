@@ -21,7 +21,17 @@
         "对着同学耳朵大吼"
       ],
       "answer": "远离噪音环境",
-      "explanation": "强噪音会伤害耳膜，保护听力应远离高噪声环境。"
+      "explanation": "强噪音会伤害耳膜，保护听力应远离高噪声环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fbff691ffd96bc17224ef9417c2541694c2815e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1099432c2b4a0ff138148cda32a72a6f90591b5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/773807177c1be891cf664ecbb785ac4e84057ac9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be643dabf02386694f30571e32998181ce8872b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/685ef1e0b1542034bcf56bec4c4f115048330aa1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db246c2153e17017f6271011e2ba0d4e043108b9.mp3"
+      }
     }
   ],
   "knowledge": null

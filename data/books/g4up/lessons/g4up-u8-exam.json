@@ -16,7 +16,11 @@
       "question": "为了节省时间，可以一边走路一边看书。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然能同时做，但看书影响走路安全，不利于健康，不属于科学优化。验算：常识判断。"
+      "explanation": "虽然能同时做，但看书影响走路安全，不利于健康，不属于科学优化。验算：常识判断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cff23266edaf5545ffb72727f8daa3943b1c31c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edb9aef3d53112eecd0e424f0ef10fff064d4cfc.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在一个锅里同时烙2张饼的时间和烙1张饼的时间是一样长的。",
       "options": [],
       "answer": "对",
-      "explanation": "因为两张饼是同时放入同时加热的。验算：符合生活逻辑。"
+      "explanation": "因为两张饼是同时放入同时加热的。验算：符合生活逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/621a2079e78bab14c801379b7ccbba95fb878f2c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5379b910fc318fbb5c6d5503fa5693ba6e057655.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "流程图可以帮助我们清晰地分析各种事情的先后顺序。",
       "options": [],
       "answer": "对",
-      "explanation": "流程图是优化问题的工具。验算：定义正确。"
+      "explanation": "流程图是优化问题的工具。验算：定义正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e50cf81bfbc031193638dee13332e14db6e53a5d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f663fe220009d1a980b6c6708ac771639c765a63.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "烙3张饼的最佳方案是始终保持锅里有2张饼的表面在受热。",
       "options": [],
       "answer": "对",
-      "explanation": "这是3张饼交替烙法的核心：锅不闲置。验算：结论正确。"
+      "explanation": "这是3张饼交替烙法的核心：锅不闲置。验算：结论正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7297e49f2963ff32f51a60bfcc3dfd873883f90.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91ef21b8a11e63eaa92448ec2c44068a0b28ca69.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "6"
       ],
       "answer": "12",
-      "explanation": "2张一起烙需要6分钟。4张分2组，共12分钟。验算：$4 \\div 2 \\times 6 = 12$ ✓。"
+      "explanation": "2张一起烙需要6分钟。4张分2组，共12分钟。验算：$4 \\div 2 \\times 6 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0feac513dc40b1b86262ca636bb8d44607155fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ef80fab1f822f6db46bca61ff4f15e509861def.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无法获胜"
       ],
       "answer": "4-9, 8-7, 6-5",
-      "explanation": "强胜中，中胜弱。4对9（输），8对7（赢），6对5（赢）。验算：2胜1负 ✓。"
+      "explanation": "强胜中，中胜弱。4对9（输），8对7（赢），6对5（赢）。验算：2胜1负 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f365265eaede2b1a3b8bab98cd8fccffecf50d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b829adbf03351572f20cafe3908cd728f9d7f361.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d19cf5f36f30c7906218fc31ebd8658d6918c0d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32afec2047dcf2aa88281a4219869924fa41fba2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50d48efe415a69bceea51ef8d58df2905ce2d570.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80a30079f77728a0931581e95c9aef833518abde.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "22"
       ],
       "answer": "30",
-      "explanation": "由于是双面复印机（通常指一次翻面或直接双面扫描），如果是逐张复印，$10 \\times 3 = 30$。即使是每面单独算，3张纸6个面，最优交替也是$3$次操作。验算：$10 \\times 3 = 30$ ✓。"
+      "explanation": "由于是双面复印机（通常指一次翻面或直接双面扫描），如果是逐张复印，$10 \\times 3 = 30$。即使是每面单独算，3张纸6个面，最优交替也是$3$次操作。验算：$10 \\times 3 = 30$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99f4bce116b0a23df38b074e0089a003782ac4b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a52d74ce63c6e5b36091467fd9895981b934414.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "甲乙随机出随机"
       ],
       "answer": "乙根据甲的出场情况后发制人",
-      "explanation": "博弈论中，后发者根据先发者的排列进行最优匹配（田忌赛马模型）。"
+      "explanation": "博弈论中，后发者根据先发者的排列进行最优匹配（田忌赛马模型）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dcaecebe0d17ff9709958ccdf8cff6240f6c746b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de0d01750a077f85626c9d77b7608f574229673c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60cf8e42812c47f79f6844ca7a4c28057617510d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cac9784cfbc199d7f94b05f4eab0caf6a0911f70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2db26335e6b321fd54bff2c57a9478db4feae289.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10dd937afd2826ae4276714f546433ef86b43f9f.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "18"
       ],
       "answer": "9",
-      "explanation": "6块肉共12个面。每次烤4个面。需要的次数：$12 \\div 4 = 3$次。时间：$3 \\times 3 = 9$分钟。验算：12个面，一次4个面，确实只需3次。"
+      "explanation": "6块肉共12个面。每次烤4个面。需要的次数：$12 \\div 4 = 3$次。时间：$3 \\times 3 = 9$分钟。验算：12个面，一次4个面，确实只需3次。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/564c01d42769b57fa2fc6b6d298fbdca28fc730b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14202db346f95ee0a759e8752aec8585f6b0c13e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "20"
       ],
       "answer": "23",
-      "explanation": "先烧水，在烧水的10分钟内收衣服（3分钟）。烧水完共花10分钟，然后写作业20分钟（烧水已完，无并行空间）。但如果边写作业边烧水，则先收衣3分钟，再写作业（此时烧水）。总长：$3+20=23$。验算：$23 > 10+3$ 且容纳20 ✓。"
+      "explanation": "先烧水，在烧水的10分钟内收衣服（3分钟）。烧水完共花10分钟，然后写作业20分钟（烧水已完，无并行空间）。但如果边写作业边烧水，则先收衣3分钟，再写作业（此时烧水）。总长：$3+20=23$。验算：$23 > 10+3$ 且容纳20 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f0b39ed06f6e4509d519ed47f54a19af696216a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6692ea5df920cad691c20319a6fffd7a4a766b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d435a6cdd786300dff204ee7c2ef942d3e9034e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22336433352d2e657762bb2c82f956b2469d1f4d.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "随便选"
       ],
       "answer": "用实力高于对方当场选手的进行比赛",
-      "explanation": "因为要拿剩下的两局，必须保证每局都胜过对手。"
+      "explanation": "因为要拿剩下的两局，必须保证每局都胜过对手。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae43684077f302746186b9f84bdcb9a2912aa83b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0184c63e96e82cac8b98cee7a6e00517bb6ebc4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3bd9ad58e391bb61e0b6cd8e79c68141336575e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/643b9c2d8ca99793b8e244c0ce6e25cdf80c72ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8217d841e2e3cdde0bb50f92b16793e74c8eaae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfcf3fb83cb41783566a70385acf719fcc64e9ce.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "30"
       ],
       "answer": "27",
-      "explanation": "在放水的12分钟内完成脱衣和刷牙。放完水后再洗澡15分钟。$12+15=27$分钟。验算：$12 > 2+3$ ✓。"
+      "explanation": "在放水的12分钟内完成脱衣和刷牙。放完水后再洗澡15分钟。$12+15=27$分钟。验算：$12 > 2+3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f634e28465ddc6f6b0d66eab08bfaa6d92eb0638.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7719a1c782a1ba91c031a682a0a2f8658209adbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/eca56ff3a6a4ab459a468cf4a1fbbf45269bc81b.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "用锅烙饼，每面要4分钟，一次只能烙2张。烙2张饼需要 ___ 分钟。",
       "options": [],
       "answer": "8",
-      "explanation": "2张一起放，正反两面。$4 + 4 = 8$分钟。验算：$4 \\times 2 = 8$ ✓。"
+      "explanation": "2张一起放，正反两面。$4 + 4 = 8$分钟。验算：$4 \\times 2 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59c4ac586c02f94d41117c598a0d66eff50f787c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06c89ce5990bf37832a952e763bcc31fbade9197.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "爸爸要出差。整理衣物8分钟，烧开水15分钟，灌水瓶2分钟。爸爸最快 ___ 分钟后可以出发。",
       "options": [],
       "answer": "17",
-      "explanation": "烧水15分钟（其间可整理衣物）。水烧开后灌水瓶2分钟。$15+2=17$分钟。验算：$15+2=17$且$8<15$ ✓。"
+      "explanation": "烧水15分钟（其间可整理衣物）。水烧开后灌水瓶2分钟。$15+2=17$分钟。验算：$15+2=17$且$8<15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/027a7f5bd60eed710a1fad2ebaa57fd7092bcb9c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f37366b384f6201261ec60ce854dd1f43252eeb.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$45 + 5 - 30 = ?$",
       "options": [],
       "answer": "20",
-      "explanation": "$45 + 5 = 50$, $50 - 30 = 20$。验算：$20 + 30 = 50$ ✓。"
+      "explanation": "$45 + 5 = 50$, $50 - 30 = 20$。验算：$20 + 30 = 50$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef8ca20f3c456222999ad78d521a348fb9826f70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f303bcd5f35552c71307f004f6a6626f12b54ff2.mp3"
+      }
     }
   ],
   "knowledge": null

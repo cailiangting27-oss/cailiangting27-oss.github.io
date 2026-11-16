@@ -21,7 +21,17 @@
         "冰棍冒“白气”"
       ],
       "answer": "湿衣服晾干了",
-      "explanation": "水从液态变为气态的过程叫蒸发。"
+      "explanation": "水从液态变为气态的过程叫蒸发。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35c51ff02b9392b496e95b6993abec9a853f3485.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/229a32f18582dcc2dadd3585beddbfe3cd345ef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/907fc9dc0fb62b725fcb845113a5f3c0f9eede2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb3a96ecf0c685e06acf393e8bf10ae63ce748d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/831e97eb0a4e00139f7261f894a5f915d58ab1f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d2bf39b685c2280073ea2a0a46ac373ff697ae8b.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "在常压下，水加热到沸腾时的温度大约是（）℃。",
       "options": [],
       "answer": "100",
-      "explanation": "在标准大气压下，水的沸点是100摄氏度。"
+      "explanation": "在标准大气压下，水的沸点是100摄氏度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a2b9eff685ee544cd75251deb0744897b982b52.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b562152f2d5924a1355814aefac0c0afe392a164.mp3"
+      }
     },
     {
       "id": 20,
@@ -43,7 +57,11 @@
       "question": "水开始结冰时的温度通常是（）℃。",
       "options": [],
       "answer": "0",
-      "explanation": "在标准大气压下，水的冰点是0摄氏度。"
+      "explanation": "在标准大气压下，水的冰点是0摄氏度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8f87650931611181509221925be238bea5ca926.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c0cacfce8c54cd3b8118bbb1482e8547b5c2e6f.mp3"
+      }
     }
   ],
   "knowledge": null

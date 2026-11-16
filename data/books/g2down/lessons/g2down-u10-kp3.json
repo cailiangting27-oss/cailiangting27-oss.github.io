@@ -16,7 +16,11 @@
       "question": "在有余数的除法中，余数一定要比除数小。",
       "options": [],
       "answer": "对",
-      "explanation": "这是除法的基本性质，如果余数大于或等于除数，说明商小了，还能再分。"
+      "explanation": "这是除法的基本性质，如果余数大于或等于除数，说明商小了，还能再分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a30b01d4f030766255abbbf2c240ba5930ac93e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f1df09e9f88877fda943a56b112a2c74e89625d.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "以上都是"
       ],
       "answer": "1 千克",
-      "explanation": "$500 + 500 = 1000$ 克，1000 克 = 1 千克。"
+      "explanation": "$500 + 500 = 1000$ 克，1000 克 = 1 千克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4073d5f8081aed000c3337f23f2bf49809c25eb5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b6f78278d139bcd8f1953a25e51c3e5544efbb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d524f31393f2e66e96d6b598e8b797d285d7030.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9d6ebd71e1cfcc97bd020771f6cb56cde74de39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd3aadacd34e9d21223c3c470fb3eefd691c2e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb91354e4546aba1672486929bcf675e5d8de625.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "5"
       ],
       "answer": "7",
-      "explanation": "$54 \times 8 = 6$（条）……6（人）。剩下的 6 人也需要 1 条船，所以 $6 + 1 = 7$ 条。"
+      "explanation": "$54 \times 8 = 6$（条）……6（人）。剩下的 6 人也需要 1 条船，所以 $6 + 1 = 7$ 条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09819f65091dad4a6c481fbae05807295a8fc464.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/855249a12ef46cb5825421fd63283afb833c241f.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "小红",
-      "explanation": "小丽第一名。小红不是第一且只有三人，小红可能是第二或第三。若加上条件：小军是第二，则小红是第三。"
+      "explanation": "小丽第一名。小红不是第一且只有三人，小红可能是第二或第三。若加上条件：小军是第二，则小红是第三。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d352ec6960be890bd2918eff28182d1ef4df9648.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/60e4c9204129665c6085af440182d17fc7a1ae45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/39f6a1c3b319d13d5c3a99929f8162a6e7ec7add.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fa09ce849d0236cfe6c724f8f225dd791f32970.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd759ff2bd2397ddf5e226b2c370c2f2660e48a6.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "2999 比 3000 小，3001 比 3000 大，所以 $2999 < 3001$。"
+      "explanation": "2999 比 3000 小，3001 比 3000 大，所以 $2999 < 3001$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/555023b5e296646fcb198fd58335887013712799.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/caed58abe43226ab89c4978684ce67ad33983e94.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +134,17 @@
         "米"
       ],
       "answer": "千克",
-      "explanation": "生活常识，西瓜属于较重物体，用千克作单位。"
+      "explanation": "生活常识，西瓜属于较重物体，用千克作单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a7e52f74b3dab743f5d76bb64dd058c3f43dcbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9f67bd55cadc0af64da8f4fdd68eb5b95c6f78a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7083090cfcc4d4e783b361cfc33aeb1098876442.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1df851e4d16a12cc2cf602ab6dfb38c280c7ba79.mp3"
+      }
     },
     {
       "id": 21,
@@ -107,7 +155,11 @@
       "question": "小明有 20 元钱，买了 3 支笔，每支 6 元，还剩 ___ 元。",
       "options": [],
       "answer": "2",
-      "explanation": "先算花的钱：$3 \times 6 = 18$（元）；再算剩下的钱：$20 - 18 = 2$（元）。验算：$18 + 2 = 20$。"
+      "explanation": "先算花的钱：$3 \times 6 = 18$（元）；再算剩下的钱：$20 - 18 = 2$（元）。验算：$18 + 2 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0ad1b56a5de71c4696d638387aa2ee3a67a5628e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/7132c200d5e9cfefeb4065e52a2714094a45a424.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +170,16 @@
       "在租船问题中计算出余数后，忘记在商的基础上加 1",
       "漏掉题目中的隐藏信息，如“小明和 3 个好朋友”总共是 4 人"
     ],
-    "tips": "读题时用笔划出关键词，解决完问题后想一想结果是否符合生活常理。"
+    "tips": "读题时用笔划出关键词，解决完问题后想一想结果是否符合生活常理。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/81/81b6cb03b093c49335af056b9400bce9b099eddf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c7/c76c96f51251409205726bd9bfa5e753a7652f7f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f2/f2ff1d719196d667d3c6f8042acde21ecdae27c4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/44/444d8f598926cd4e30a8ab8d3dd4a74b5a1f6b27.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/32/3232ac8d0c8d2d2b5090744c1b5b1c0924442ec3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9a/9ac73c6a64f9e2453d850761dd30902668301615.mp3"
+      ]
+    }
   }
 }

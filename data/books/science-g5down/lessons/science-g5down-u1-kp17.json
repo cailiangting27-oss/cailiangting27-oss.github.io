@@ -21,7 +21,17 @@
         "立刻灭绝"
       ],
       "answer": "先增加后减少",
-      "explanation": "天敌消失羊会大量繁殖，随后会导致草原退化食物不足，数量再下降。"
+      "explanation": "天敌消失羊会大量繁殖，随后会导致草原退化食物不足，数量再下降。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21e560b68bee9f743f98f12b46c86f3e6561ae8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cbd203919ea89f59e21d8b31d2fe136625e2ca3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80c88d8dea5882fa99e3644a079a8056984168d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eb954f1507ffbb2fa3592efd59ffa96a9609156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29a2838d85d4a6a094ac46a89c0e7805ab54c03f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/895d4f0573c345e1d2e96cca993cb8edfccbc345.mp3"
+      }
     }
   ],
   "knowledge": null

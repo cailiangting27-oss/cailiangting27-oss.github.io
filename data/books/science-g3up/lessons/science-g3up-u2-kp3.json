@@ -16,7 +16,11 @@
       "question": "虽然空气很轻，但由于空气占据空间，所以它也有质量。",
       "options": [],
       "answer": "对",
-      "explanation": "质量是物质的基本属性，空气作为物质是有质量的。"
+      "explanation": "质量是物质的基本属性，空气作为物质是有质量的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b4b915172841c554e215ee2b33e8b819e7d07fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df73b5b8f2379eb946fc2d4bb7c878969b21d6ac.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "量筒"
       ],
       "answer": "简易天平",
-      "explanation": "天平可以通过平衡原理，利用回形针或绿豆等微小物体的数量来体现空气的微小质量。"
+      "explanation": "天平可以通过平衡原理，利用回形针或绿豆等微小物体的数量来体现空气的微小质量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e220a2100b5acc24c63b766b9b5ea5616657f90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d0/d0b64016308fc0a943655108709c39af7c39f78b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8eaebf1a58377fc30b79e5fa346b62e22439d952.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9829ae58f66261ebc2594934125c494c0ce3dbba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e27ac72df33c8877bd873fe57bf113eddb6cd18d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e137d95a11dd433f3702b55eb7ad255e0c3c28d8.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "无法判断"
       ],
       "answer": "向皮球一端倾斜",
-      "explanation": "打入更多空气增加了皮球的总质量，天平向重的一方倾斜。"
+      "explanation": "打入更多空气增加了皮球的总质量，天平向重的一方倾斜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32ca599def9e3e6ac39fa52a3cd8c1ed6a013d4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d2c5e0aad25a4e450cc4cccad65e9356dd6eb98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93c74cdbf856008d80d5866046c76fbc7fcbb6f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8b73d3933a323a36db05ec4a483ae76fc253a7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d064c86993bb5d0add41d0a66c42fab4a5f3cb4a.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "实验发现，20筒空气的质量大约相当于（___）枚回形针。",
       "options": [],
       "answer": "1",
-      "explanation": "根据三年级教材实验参考值，20筒空气很轻，约等同一枚回形针或其零头质量。"
+      "explanation": "根据三年级教材实验参考值，20筒空气很轻，约等同一枚回形针或其零头质量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0714b29c580024bfee90b2e8211b0b471ba97245.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f0b083cf15c7ac2f8d171b93e9a0db0be8ff758.mp3"
+      }
     },
     {
       "id": 22,
@@ -70,7 +98,11 @@
       "question": "在测量空气质量时，我们可以用（___）来替代微小的质量读数。",
       "options": [],
       "answer": "绿豆",
-      "explanation": "绿豆质量均匀且小，适合作为简易天平的平衡物。"
+      "explanation": "绿豆质量均匀且小，适合作为简易天平的平衡物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/677e389243e1317959fd3e21bdbf4a5146213f3e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5386ad55736f745c13246209f2b6d651d609bf5c.mp3"
+      }
     }
   ],
   "knowledge": null

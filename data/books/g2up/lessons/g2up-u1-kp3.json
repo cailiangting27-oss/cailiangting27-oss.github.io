@@ -16,7 +16,11 @@
       "question": "1米比100厘米长。",
       "options": [],
       "answer": "错",
-      "explanation": "因为1米 = 100厘米，所以它们一样长。"
+      "explanation": "因为1米 = 100厘米，所以它们一样长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac3722a3811cf6e733900e533b07361dc1d8c56d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6395adfd99654c66365d55324eaaab1d5bb6be5f.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "角"
       ],
       "answer": "米",
-      "explanation": "跑道较长，应选择长度单位“米”。"
+      "explanation": "跑道较长，应选择长度单位“米”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/448f0a88d1a28f665059136b80a696a7ded12384.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/581448d7367857c64d83198e443d8fc4f5b8824c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/622f3c5acb0e3c96620f795bdd08896e2a5d9490.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/198631ac546ec303ed17885540ba9041d45a3136.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/858e3a3791e61a3bca0da4569292ccc1069a7a45.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "无法比较"
       ],
       "answer": "<",
-      "explanation": "3米 = 300厘米，30厘米 < 300厘米，所以30厘米 < 3米。"
+      "explanation": "3米 = 300厘米，30厘米 < 300厘米，所以30厘米 < 3米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23de6efb690b68be37d80307b9bd1a8580d8e0f4.mp3",
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/44/4461a8e6078043efcfed10b28f271e103d6a4564.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/769ae7e62a6d28a842e339cfef41dc6b3587c84d.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "小华",
-      "explanation": "小东身高是 130 厘米。135 > 130，所以小华高。"
+      "explanation": "小东身高是 130 厘米。135 > 130，所以小华高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2abebb1994725a4a9f56955ce11aeb7a818bbd1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/bedd04b0ca69a4e372766d04219e39fea945bde7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db297e6b88f5adfa683c00d73a1ee35343eb85f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da185e0387de8d73d3d51256a651e3efc6410782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e138e18d0e092afac456cab7cc5afde6fb8a70e5.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "3"
       ],
       "answer": "6",
-      "explanation": "$2 + 2 + 2 = 6$（米）。验算：$6 \\div 3 = 2$ ✓。"
+      "explanation": "$2 + 2 + 2 = 6$（米）。验算：$6 \\div 3 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/274e743052b48b22f288fe6bbf5588afa3af0715.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20dd346f3cd88ec6e7b5a5c44e5cd304dd2e6508.mp3"
+      }
     },
     {
       "id": 21,
@@ -91,7 +135,11 @@
       "question": "小明身高 1 米 25 厘米，也可以说身高是 ___ 厘米。",
       "options": [],
       "answer": "125",
-      "explanation": "1米 = 100厘米，$100 + 25 = 125$。验算：$125 - 25 = 100$ ✓。"
+      "explanation": "1米 = 100厘米，$100 + 25 = 125$。验算：$125 - 25 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c27bf20949d6b5c7c13aff490dd8f33a39125dc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/871954a7598f30e9a1ea21e80a62187d28b28876.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,11 @@
       "question": "计算：$100 - 35 = ?$",
       "options": [],
       "answer": "65",
-      "explanation": "$100 - 35 = 65$。验算：$65 + 35 = 100$ ✓。"
+      "explanation": "$100 - 35 = 65$。验算：$65 + 35 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8eea3cf97b88af508ae2e10f5d7bd18480d3cf5e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9490a13e483a429268a8368043c022e3af4fd877.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "记混进率，认为1米等于10厘米",
       "在给物体填单位时，把米和厘米填反，如写出“大树高10厘米”"
     ],
-    "tips": "张开双臂，两个手尖之间的距离大约就是1米。"
+    "tips": "张开双臂，两个手尖之间的距离大约就是1米。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9f/9faa28d0262da6305000feae7bf19886d86ae64a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/28/280fc084a31765e7bca94d164fd1e358d8b2d6f2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/39/390e2178cf59006a7f9c325aff443e8c775582d3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/da/da0dcb24f3bbcc399e8cd0ec2c2f89830ab3b42d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/4c/4c97e8a2d127d8992344dacb6294e87c3969e424.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c53a1340eb5414323cf22385cd0088d32ad8c5eb.mp3"
+      ]
+    }
   }
 }

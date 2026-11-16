@@ -16,7 +16,11 @@
       "question": "在烧杯底部加热水时，热水会向上流动，冷水会向下流动。",
       "options": [],
       "answer": "对",
-      "explanation": "液体受热后体积膨胀，密度减小而上升，上部冷液体密度大而下沉，形成对流。"
+      "explanation": "液体受热后体积膨胀，密度减小而上升，上部冷液体密度大而下沉，形成对流。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3553c5e729411555861a07418eb859503f7e5eb9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adf18063e280226c0a95d426aff18fa8ab48b1b8.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "水平流动"
       ],
       "answer": "向下流动",
-      "explanation": "冷空气密度大，会向下沉，从而形成对流使全屋降温。"
+      "explanation": "冷空气密度大，会向下沉，从而形成对流使全屋降温。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccd5580e3374f37dd7660c4f05e38de5297cb666.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1315748e482728b1f84254e61dac14023befbc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79f6746212fd6cf2b5291c57a7de258d96235bac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b7c97e5908a27b4dddf41f886887f7700fe9c71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b78c243e51074f846902d35c3250b15bf4f5a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7f2ecd73b0be822e721bb413ec306127b39903a.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "加快水的加热速度"
       ],
       "answer": "方便观察水的流动",
-      "explanation": "红墨水作为示踪剂，能清晰显示冷热水流动的轨迹。"
+      "explanation": "红墨水作为示踪剂，能清晰显示冷热水流动的轨迹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58a40a727ca0bda0fe278def7d78e379d9358d75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/14/140341dc62b8791255fe85004eefac5713877965.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a0bb27fac3296c288078f2fd9cdf416f0eebc10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eacf7bf7184e934229839f17c5919cd0527b5203.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/542d92efad99f796020c9b547eec5af54255e7e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd712830b919e9cfcb14991a992ae0dea12ba60c.mp3"
+      }
     }
   ],
   "knowledge": null

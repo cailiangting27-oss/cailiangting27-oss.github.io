@@ -16,7 +16,11 @@
       "question": "地球自转的方向是自东向西。",
       "options": [],
       "answer": "错",
-      "explanation": "地球自转的方向是自西向东。"
+      "explanation": "地球自转的方向是自西向东。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd1c6d5d190ca8bc76c06db353b873fcb4f6f5d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c63c6c42f04730c04811d49294b0c0b0ec5b37b.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "还没到深夜"
       ],
       "answer": "正处于深夜",
-      "explanation": "由于地球自西向东转，东边的城市北京先迎来黎明，西边的柏林此时还处于黑夜。"
+      "explanation": "由于地球自西向东转，东边的城市北京先迎来黎明，西边的柏林此时还处于黑夜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/287c51fcc22984ed1f9c5e080b634b927a1826b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86d328dd15da99bc2d1b71dc8341099d079db285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c915cdaf266e6e0cf3e435a36e8680d3c185acd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60951248c672089450c441415cc94ee8102a82e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4958debc0d4e5c43fbe0170d80c2d4b62b3ea04.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51247226dc7882d271d99c0e57326bc4df243cb6.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "自南向北"
       ],
       "answer": "自东向西",
-      "explanation": "相对运动原理，人自西向东转，看到的参照物会向相反方向运动。"
+      "explanation": "相对运动原理，人自西向东转，看到的参照物会向相反方向运动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cd34bb3202fff52f31cd52483f406198e2f7d76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20566ba3e1849aba2b420c77da3fdeec025aca11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ee4d6ce183dbef4c3edc98418fe38cdebc89d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a07e37226c05d7ba0d470084ce758aa194da31e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f0b66f359fcc6fa93ae5859029af41bed2a9b20.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6bd724df6b873ec3aae01e4f78628abf2b9647b9.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "随重力消失而停止"
       ],
       "answer": "会随地球自转发生偏移",
-      "explanation": "傅科摆利用摆具有保持摆动方向不变的性质，证明了地球在自转。"
+      "explanation": "傅科摆利用摆具有保持摆动方向不变的性质，证明了地球在自转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a49fea435a593a46a83ecd4f5290a9bb48386b1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f924fa8a1aa82dc466cd867a608a1d30acbc0dbe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/090b23437ab25e0b4d4f0e877fe1ebcfcb1a2e87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d1e9fb9ba43e772ca6cae662b64e396078c3494.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b44908ca24d3794428c8c8ec4a87b33e7b0104a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/121a2a3e7c909c8a3ee3e418ace765caf6114e53.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "地球自转一周的时间大约是（    ）小时。",
       "options": [],
       "answer": "24",
-      "explanation": "地球自转周期为一天，即24小时。"
+      "explanation": "地球自转周期为一天，即24小时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2371b13acb3091b80627198d935d342bcf5806f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7471e75ebfcba6900e5bfcbb9aa578a1aceb0fc.mp3"
+      }
     },
     {
       "id": 23,
@@ -86,7 +124,11 @@
       "question": "在地球仪上，连接南北两极的线叫做（    ）。",
       "options": [],
       "answer": "经线",
-      "explanation": "经线是地球仪上连接南北两极的半圆弧线。"
+      "explanation": "经线是地球仪上连接南北两极的半圆弧线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f81cbb8e4d3eec33e5f3cfcd3173d6b2436e1eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b3c601d30c1a841b29fb292fd830267f91ee9f9.mp3"
+      }
     }
   ],
   "knowledge": null

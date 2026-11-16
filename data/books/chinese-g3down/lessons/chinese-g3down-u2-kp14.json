@@ -21,7 +21,17 @@
         "好奇"
       ],
       "answer": "傲慢",
-      "explanation": "感叹号和词语体现其盛气凌人。"
+      "explanation": "感叹号和词语体现其盛气凌人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/079a5e4541b6d98aa3a037399d186dc986ceb693.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/288c028873d627b03e723da6921a0b5518b37d75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c039ff67dba2f55c8f8fe98be0a85d24be3ab807.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd4396c5e5689b4244764941fa02e1ca8156d149.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/799dba635a37f99f5bcf07248f5fa5d48a47465b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e18646507df3be12d504341e97d1feff49cbf591.mp3"
+      }
     }
   ],
   "knowledge": null

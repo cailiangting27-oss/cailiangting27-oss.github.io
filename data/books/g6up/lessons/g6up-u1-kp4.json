@@ -16,7 +16,11 @@
       "question": "$\\frac{1}{2} - \\frac{1}{2} \\times \\frac{1}{3} = 0$。",
       "options": [],
       "answer": "错",
-      "explanation": "按照运算顺序，应先算乘法再算减法。$\\frac{1}{2} - \\frac{1}{6} = \\frac{1}{3}$，而不是 0。"
+      "explanation": "按照运算顺序，应先算乘法再算减法。$\\frac{1}{2} - \\frac{1}{6} = \\frac{1}{3}$，而不是 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba48d8370dc58f6f921a2a26d70449fec93a7d1e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d31c56413511950fe98c9687e1f101d4180db218.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "先通分再乘"
       ],
       "answer": "乘法分配律",
-      "explanation": "由于 48 是 6 和 8 的倍数，使用分配律 $48 \\times \\frac{1}{6} + 48 \\times \\frac{1}{8} = 8 + 6 = 14$ 非常简便。"
+      "explanation": "由于 48 是 6 和 8 的倍数，使用分配律 $48 \\times \\frac{1}{6} + 48 \\times \\frac{1}{8} = 8 + 6 = 14$ 非常简便。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fc1a0bba75ab8655675bfc6f283ce780f1e44e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/338ef8eb271cd5ac6bbde63d05de460918afd8cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b95361afceb0be7a978c3d002cc877e77b2d5464.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/8394e9b1f8ce0eae5eebe6797b67fbba43289d7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f6bea1071a7547a1749c76ea542ad2455215ade.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7c792e9e2fd2290600fc7d84c5952be2c4d8237a.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "32"
       ],
       "answer": "12",
-      "explanation": "$\\frac{1}{4} \\times 32 + \\frac{1}{8} \\times 32 = 8 + 4 = 12$。"
+      "explanation": "$\\frac{1}{4} \\times 32 + \\frac{1}{8} \\times 32 = 8 + 4 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e7d16572610e473fdf35fa71eb88c670b91e943.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06fe7f26684a04f19f07ff3fe6bb68549a52b5a6.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "$12 \\times 1$"
       ],
       "answer": "$12 \\times (1 + \\frac{1}{3})$",
-      "explanation": "$12 \\times \\frac{4}{3} = 16$ 为最大项。"
+      "explanation": "$12 \\times \\frac{4}{3} = 16$ 为最大项。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e05516b8237922d61eb4f9c58901fdb0e901f5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b9144f634801dc2c024584fc1851afc522a307ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b0a3d596e28488eab23f088c4921c6e4afa4e95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a7da815799043c3a1bb950a191390484d3baa29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5db7ea8973c654bd2a690a031dbec910a3924ad3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7a467017d961587acead74b7481689f64c57be4.mp3"
+      }
     },
     {
       "id": 23,
@@ -75,7 +109,11 @@
       "question": "计算：$25 \\times \\frac{4}{5} \\times 5 = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$25 \\times \\frac{4}{5} \\times 5$。先算 $\\frac{4}{5} \\times 5 = 4$。再算 $25 \\times 4 = 100$。验算：$100 \\div 5 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$ ✓。"
+      "explanation": "$25 \\times \\frac{4}{5} \\times 5$。先算 $\\frac{4}{5} \\times 5 = 4$。再算 $25 \\times 4 = 100$。验算：$100 \\div 5 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7eab2af8f9777371848dbc8f336087f34674a074.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb1b80fabb0c365987ce38ba9b9118367a82ea14.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "分配律带符号错误，如括号里是减号却用了加号",
       "计算顺序颠倒"
     ],
-    "tips": "观察题目，如果有括号且括弧外的数是分母的公倍数，优先考虑分配律。"
+    "tips": "观察题目，如果有括号且括弧外的数是分母的公倍数，优先考虑分配律。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/55/554894e803c33ba1feb88fa7b7296e597bd2e467.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/20/20885d474b563015eabc800a5ba7d917351e265f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f3/f30cae750418aceb34054858cd0b1a4c83d6d700.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a0/a04d56c6946602ebc1951538680be616f1770d79.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/30/303499e9ad5a93ca993303b4ec4bde1122a32f9e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c4/c44722f69394f9196c4d526fc13b8348c8e9d2f3.mp3"
+      ]
+    }
   }
 }

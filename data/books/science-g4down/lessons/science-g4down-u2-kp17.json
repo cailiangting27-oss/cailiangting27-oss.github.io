@@ -21,7 +21,17 @@
         "有开关"
       ],
       "answer": "可能有导线连接",
-      "explanation": "通路状态代表两点间存在电流通过的路径。"
+      "explanation": "通路状态代表两点间存在电流通过的路径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62634df25bfbc0d7eb3e2a3d5044cb119ffcaf89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa0a39934a14a2da3de3b143ab0b795b5909d64e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9505612b5d746048fc1af1a86c90d5e893074c64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12e69e6e742b3643f65504aaab65d8f94c935f4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b84108d3d523af27bedaf8482a426ac4d7ae0c24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/980dee927a1546d9f2881bd6bb70344877dd924e.mp3"
+      }
     }
   ],
   "knowledge": null

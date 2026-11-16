@@ -21,7 +21,17 @@
         "荒唐"
       ],
       "answer": "荒凉",
-      "explanation": "描述缺乏人烟、贫瘠的环境，用“荒凉”最贴切。"
+      "explanation": "描述缺乏人烟、贫瘠的环境，用“荒凉”最贴切。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/445c3c5499e0c6798c54d25fe6dc8975f6057d59.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb1d744aa18fb7f654162c225a1e980115d82fc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f55107d6280d0d1bac7f5f46411b6b1f1360af4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad0b7cbc34fb6c8d52abfa8707a9181d791e81a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a6506e4695e2fa4ab7b0773bf9771299a4c6186.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/532d990c82bebd0e18f91a0111a2b267c7ad4cbf.mp3"
+      }
     }
   ],
   "knowledge": null

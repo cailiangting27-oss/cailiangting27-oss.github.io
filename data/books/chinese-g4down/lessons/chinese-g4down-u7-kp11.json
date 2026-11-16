@@ -21,7 +21,17 @@
         "hǔn"
       ],
       "answer": "hùn",
-      "explanation": "“混乱”的“混”读音为第四声。"
+      "explanation": "“混乱”的“混”读音为第四声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9be886f01ab22595504e1f962912b1c0e2479ed3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/84f0f8cdaf35c0dfc672112881600f8f9c9db5c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd3df4d3e4fba21a943dad6004523c80cd16815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31f9f74f0628fc9696be4d480b0673e7b58bb116.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3e0c25243b98a705eee23931301573f5acba3a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/574bc8e93bcc233fd0e3e075a1cc7f0cc436a3f1.mp3"
+      }
     }
   ],
   "knowledge": null

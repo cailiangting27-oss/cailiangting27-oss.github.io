@@ -21,7 +21,17 @@
         "200"
       ],
       "answer": "12",
-      "explanation": "1 小时 = 60 分钟。$200 \\times 60 = 12000$米。12000 米 = 12 千米。"
+      "explanation": "1 小时 = 60 分钟。$200 \\times 60 = 12000$米。12000 米 = 12 千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21797a10e5a1d5d7959b74fbcd896730d74d8095.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dde12d546af88e5c395da05d35f760cc07403cc2.mp3"
+      }
     },
     {
       "id": 13,
@@ -37,7 +47,17 @@
         "12"
       ],
       "answer": "6",
-      "explanation": "交替煎法。第 1、2 条正面（2分钟）；取出第 2 条，放第 3 条正面，第 1 条反面（2分钟）；取出第 1 条，放第 2 条反面，第 3 条反面（2分钟）。$2+2+2=6$分钟。"
+      "explanation": "交替煎法。第 1、2 条正面（2分钟）；取出第 2 条，放第 3 条正面，第 1 条反面（2分钟）；取出第 1 条，放第 2 条反面，第 3 条反面（2分钟）。$2+2+2=6$分钟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b75e604d881c1835d199c2a521206c12d24c1e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e1ba07440ca22445035acbca8e81d342bf226e7.mp3"
+      }
     },
     {
       "id": 18,
@@ -53,7 +73,17 @@
         "60 元"
       ],
       "answer": "5 元",
-      "explanation": "总支数：$8 \\times 12 = 96$支。单价：$480 \\div 96 = 5$元。验算：$5 \\times 96 = 480$✓。"
+      "explanation": "总支数：$8 \\times 12 = 96$支。单价：$480 \\div 96 = 5$元。验算：$5 \\times 96 = 480$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5be11ef7e96aa47692b28bb383d17aac1f3a03ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db9aac9fc1378e7b74750280ae8f8e49481fe72a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c4b8ac63ebb077ac7f1e5c7f2ad1bf50cdabbfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a57540f9bfcd8674b779dc46ff2f156c4e369c99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5f90c710b5e54aadbd04fee3e812ee6d4653dcd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b92a4979e0a7d51c8744f71433363c921f1b0329.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "一辆货车送货，去时速度 60 千米/时，用了 3 小时。原路返回只用了 2 小时，返回时的平均速度是每小时 ___ 千米。",
       "options": [],
       "answer": "90",
-      "explanation": "路程 = $60 \\times 3 = 180$千米。返回速度 = $180 \\div 2 = 90$千米/时。验算：$90 \\times 2 = 180$✓。"
+      "explanation": "路程 = $60 \\times 3 = 180$千米。返回速度 = $180 \\div 2 = 90$千米/时。验算：$90 \\times 2 = 180$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c497145d1d7cac150c01ba097ff61a1836e34ff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c82e553709f3a990ec350512440bb86f5e33cbd2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "在烙饼问题中没有采取交替法导致时间变长",
       "单位换算不准确，如公顷和平方米之间的进率记错"
     ],
-    "tips": "解决优化问题时，核心策略是‘不让锅闲着，不让工序等候’。"
+    "tips": "解决优化问题时，核心策略是‘不让锅闲着，不让工序等候’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5e/5ec912d9fb6409d4da20a39d446873b8ef367c07.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/32/3297954af892dee05db22f7ccf970bf2dc4c5249.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cb/cbf5b9f9195a09a29e9acd82f5612507b9481aa2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/43/435c3476bd23d6f626e89cd31f18112997380baa.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6c18ef787d36cb7df5e539259367f10344d43d1a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/62/62ecdc8cc41a3e14c98f147bc6080f34c3139cdf.mp3"
+      ]
+    }
   }
 }

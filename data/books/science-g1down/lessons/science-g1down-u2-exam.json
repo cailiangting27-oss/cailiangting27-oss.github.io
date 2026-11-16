@@ -16,7 +16,11 @@
       "question": "动物都需要家，有了家才能平安生活。",
       "options": [],
       "answer": "对",
-      "explanation": "栖息地或巢穴是动物生存的基本需求之一。"
+      "explanation": "栖息地或巢穴是动物生存的基本需求之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58706141c67e9cf06bc9be917c9c8b7eee24b6d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/456901d606a0115c76d9c737ea1e9c0a04dcb005.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "轻轻触碰蜗牛的触角，它会把身体缩进壳里。",
       "options": [],
       "answer": "对",
-      "explanation": "这是动物对外界刺激产生的应激反应。"
+      "explanation": "这是动物对外界刺激产生的应激反应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0acc5c8414904db1145f47924a8455da7e1cafbf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/52b268aaf2446fcc8e090a93b8b5f5d4865527bd.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "只要是生活在水里的生物，我们就都叫它鱼。",
       "options": [],
       "answer": "错",
-      "explanation": "水里的生物很多，如螃蟹、乌龟、水草等，只有具备特定结构的才叫鱼。"
+      "explanation": "水里的生物很多，如螃蟹、乌龟、水草等，只有具备特定结构的才叫鱼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c9941eb933441190e77c5f2ee6b66e3dffb00bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/5443186cc436dea1e13cca8c5c844ed8688c36a6.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "我们要定期给蜗牛清理粪便，保持环境卫生。",
       "options": [],
       "answer": "对",
-      "explanation": "动物生存需要干净卫生的环境。"
+      "explanation": "动物生存需要干净卫生的环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73e80088fcdd7f90705ca7c4b15148e7a5275ac8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bec15e596e94b1eb4f3bdcbdc3fad9e15ed45d76.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "用剪刀剪"
       ],
       "answer": "放入凉水（不淹没口鼻）",
-      "explanation": "适当的水分刺激可以诱导蜗牛苏醒。"
+      "explanation": "适当的水分刺激可以诱导蜗牛苏醒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3082a6d5909783195677bc629ed6e346bd1634c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d59e8432d67ca21d1c49f7894abebc6f036ad1a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fd8b59d48945b1e5b13c405e628227d8ae91477.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0337a2b2b6c17615a188c608e0dc93403704598c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b9bfa928b3aabd0e9c58685756e83982e68d7cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56cabf20d516542e966db2173ba4b8ccff35c0a2.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "鱼刺"
       ],
       "answer": "鱼鳞",
-      "explanation": "鱼鳞具有保护鱼体和减少阻力的作用。"
+      "explanation": "鱼鳞具有保护鱼体和减少阻力的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dda6d0793379a8a316080650cca4d1af863fe15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d29e524bed6ac624640a22e14e3d8b574be8912b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/915d05236453339cf83597ffed46a9367e0401bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe40d20eac606677eeb393ce715aea6ae17047ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60077042c32b6fd73e7294999616b7e2c77aaceb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f229ec122823b6a6413808d4d1c1987bbcc8b27.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "数一数有几只虫"
       ],
       "answer": "直接把蚂蚁踩死",
-      "explanation": "观察实验需要爱护动物。"
+      "explanation": "观察实验需要爱护动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07bb92554105a7f2c837a0438b74442459a2adf9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f652eb909fd84df1871a15a472941145685262b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a082e7eb49048d6f66ee4933621bfeeaa9f749a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86c54e08de950c0ee7e4fc6832d331a19156ab1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e73d3a24805b9d9cf3a5113e87110a8de1448ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7ebe93fc240aa2a2a28e48605c3c42f13da822e.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "水底深处"
       ],
       "answer": "潮湿和阴暗",
-      "explanation": "蜗牛为了防止水分蒸发，喜好阴暗潮湿的环境。"
+      "explanation": "蜗牛为了防止水分蒸发，喜好阴暗潮湿的环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/547c396cc484cb4fd433ebf98bddba4e9eb221ea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c485ccd0fb35e9bbd3779dc5274c633bc429e76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/633471162872473c369701d0e4b305e5e7120a55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf998986b8089316a2531cc5d9852dd976e19e81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab8157a34ecaf4fb5019d6ed9df82ab268b1bf84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/839c442f814a0991c73ae1086b06a8d82a57db20.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "没有颜色"
       ],
       "answer": "和蔬菜颜色相近",
-      "explanation": "蜗牛消化系统结构特殊，粪便颜色往往受食物颜色影响。"
+      "explanation": "蜗牛消化系统结构特殊，粪便颜色往往受食物颜色影响。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/089e2fc8063e22b5932cee5f69694c0e511162d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d140e3f8675eda6645484cea584aa8a191c8ac97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b369971c66454f5fcab89d1d14be62c04e79d31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b177225e98cfd5d90b2cdf3bc67fc3c6f24a642.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b26c66b5ae523c253eb7ae05de061e0ffa80019.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/ddb8e84515fa4bdf1cdf25cacb2a5d33e7017e1f.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "太阳"
       ],
       "answer": "地球",
-      "explanation": "地球是目前已知唯一适合生物生存的星球。"
+      "explanation": "地球是目前已知唯一适合生物生存的星球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f6aa60d2f7ae2df4a98025f26712fe0ba36661f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/3935de6f7e9789f7d34bb2bbf524810c3f618c6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79d91579056cebc02b3008c3baec11d7aa42688e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a04d7faed1e87cb0d1c083519a2804dc534b2278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a1c1dd7222f9630d53926c500d9c3d06ee1529e.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "在电池的作用下跳舞"
       ],
       "answer": "会自己找水喝",
-      "explanation": "主动获取营养物质是生命的特征。"
+      "explanation": "主动获取营养物质是生命的特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68ce1ff3c4b5df8262c41653db2942968946800a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/dfce70baf295e591fadd5da56600dbcd9c9d5e26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10e6141a27ed569b971e5be96be5fbb41b12bf83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/527bd2c7df5c4ddd0464e9e51c68551f96c6a42b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd22498eacce4479a4fec970acf9dae0d9c63c3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/0421ac68f371d82f1de5490b89295206df37a518.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "翅膀"
       ],
       "answer": "波浪形的腹足运动",
-      "explanation": "在透明介质上可以清晰观察到蜗牛腹足底部的肌肉蠕动。"
+      "explanation": "在透明介质上可以清晰观察到蜗牛腹足底部的肌肉蠕动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca10723f56e9cbffe68fd4e0f7600a5be7ec3936.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b36825aa394d5c3471d6222abdd536a73e9af81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a91671c41d35748391b0de988ed6257a9a7961da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/708202613e556458df33ede39e21f87b6ad4fe2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4f83388b7cd44767c332e6d199f3cf953b82c438.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/620536934aa7f866ada0a61c3b4dd3acda03dd70.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "猫有（___）条腿。",
       "options": [],
       "answer": "4",
-      "explanation": "猫是哺乳类四足动物。"
+      "explanation": "猫是哺乳类四足动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14727a5ad5b03785b3d4785fa7936c3cfed9e1e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/795d019b0fa4205680ca5934cccc918e4ddc2492.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小明养了3只蜗牛，又养了2只金鱼，他一共养了（___）只小动物。",
       "options": [],
       "answer": "5",
-      "explanation": "简单的计数统计考察对动物个体的认知。"
+      "explanation": "简单的计数统计考察对动物个体的认知。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdb972b13a97346ae9ed1e116e7fa2d466b6dbe6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/099c2518e5542894ec88830501be2e40c889072b.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "蚂蚁喜欢在泥土里钻洞，这种地方就是蚂蚁的（___）。",
       "options": [],
       "answer": "家",
-      "explanation": "教材中常用“家”来通俗化描述栖息地。"
+      "explanation": "教材中常用“家”来通俗化描述栖息地。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a9a4a4bdbad6066ceec22cd7b20eb2fcb528b98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cff8b518c544c29b713f93e509ab0b40ddd8fd7e.mp3"
+      }
     }
   ],
   "knowledge": null

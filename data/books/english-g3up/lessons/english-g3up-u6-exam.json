@@ -16,7 +16,11 @@
       "question": "当我们数数时，'nine' 在 'ten' 的前面。",
       "options": [],
       "answer": "对",
-      "explanation": "数字顺序是9, 10。"
+      "explanation": "数字顺序是9, 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ae8bf9a612f0579a0d7cfbb31ac8d5022de738e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0ded1de7da82d7b73fb846d71aaf00014c142d4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "字母 'Z' 是 26 个字母中的最后一个。",
       "options": [],
       "answer": "对",
-      "explanation": "A-Z共26个字母，Z为末位。"
+      "explanation": "A-Z共26个字母，Z为末位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/5702e13a2b95168099db037c36af6513955611a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93f377b8c8d5e3624ff9d87bef08ea82e802fad6.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "当我们说 'two plates' 时，'plates' 后面要加 's'。",
       "options": [],
       "answer": "对",
-      "explanation": "复数名词需要加s。"
+      "explanation": "复数名词需要加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/5232a9d0f459ea1971cad4d582bdced94dbc4114.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b53701de769cecd22ebc397ba3c8b5444db3ce3e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "如果你有 6 个苹果，再买 4 个，你就有 'ten' 个苹果。",
       "options": [],
       "answer": "对",
-      "explanation": "6+4=10。"
+      "explanation": "6+4=10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/ccab81ffaa99cda9c19bff79cd692fc7fd8e337c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a4a1c83d8ffef9c52a49d645e210576832c9f6e.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "ten"
       ],
       "answer": "five",
-      "explanation": "一只手有5根手指。"
+      "explanation": "一只手有5根手指。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7692823ddf71d6daf004de260c7b56ad7917bac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f8f7eec5dea5ac43738721939c120318cbff1df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f611ef507988ab213d126fcc8a9739a84bca384.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "Good morning."
       ],
       "answer": "Thank you.",
-      "explanation": "生日收到祝福的回应方式。"
+      "explanation": "生日收到祝福的回应方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42241ae281480656cfe10b4021e6ae13fa2f9a35.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0d169800f36090dec66d66dac922ddf6d2f636c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0236008155c8de50fcb903fab37b719fafeb32c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174534c6b3882921f07bb41f7a29c9824d9b171b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c3e9f7ad0c9c2b824bab5400d074c38f6d6cbe0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b67fd68b9d3ffdac2726f0577499d13c5273e66.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "a pencil"
       ],
       "answer": "erasers",
-      "explanation": "How many后接复数。"
+      "explanation": "How many后接复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b928d240d02393ee786bf980656dfa7f483e7b9a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fd761b6e2ada5dbe995912daf2eeb7d503f94298.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2fc512490a15036460b5489401439d6da5407fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/854fc1db1283d222ff173100afcfd51a08ddbc62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/448c726a0af14756b06dbc747df6892872cfd665.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/8985dad70f62b138cc2f94c0867fa07027ec7a52.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "Bye."
       ],
       "answer": "You're welcome.",
-      "explanation": "不用谢的标准表达。"
+      "explanation": "不用谢的标准表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2ebc52cfdd74c6ce300f6114d83cad0461e21416.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91bb266617e23b370aa2f7ca013ddea693880bcb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00dca65e40e48c2c569b61859d33e4a27363928a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25b02b6f1b5d3c256b8d360b0d0aaa7c14814e8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e17e7660ce70478fa87aa34f5109878418ca10cf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24498e9cc276ca1db49b96c9ae2b67b606615e1e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "a"
       ],
       "answer": "some",
-      "explanation": "cakes是复数，用some修饰。"
+      "explanation": "cakes是复数，用some修饰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e60e2b4aa2e19a13578676d92518935649f54a9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/236a390b55f523d43f49995a1992820e8c6f99a6.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "eight"
       ],
       "answer": "six",
-      "explanation": "10-4=6。"
+      "explanation": "10-4=6。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74397c297862767362436e22c38a0bbba7e77323.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d479fa0ef92542c808003731bc478f714ec1da4c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/580dc60a6c0f51534109032a0cb757334edb5ad6.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "I have 8 books. (拼写8)",
       "options": [],
       "answer": "eight",
-      "explanation": "数字8的英文拼写。"
+      "explanation": "数字8的英文拼写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fd88d44c42001fb238f5f85bd9f5cd15d7c9e70.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84f78880231d1d3fe0fa4b06a0b2651331aea4a4.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "How old ___ you?",
       "options": [],
       "answer": "are",
-      "explanation": "主语是you，be动词用are。"
+      "explanation": "主语是you，be动词用are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e57a8dfee638ebbdb4d53f67ba9ceb69ac8eeede.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cda24dec15ebf5fed6b32b1f34b53d0042c8978e.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "___ see! One, two, three...",
       "options": [],
       "answer": "let",
-      "explanation": "Let us see/Let's see 让我们看看。"
+      "explanation": "Let us see/Let's see 让我们看看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c9fff0931047b1857b9842925857476caac1aeb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f88a45f7282454692dd92d682001ca6b5e3412b.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "ten"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "10-ten, 8-eight, 6-six, 7-seven。"
+      "explanation": "10-ten, 8-eight, 6-six, 7-seven。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d4696423454e88e0bc09b7ac1051996b29a44ff1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bec9703f7a456cd2b4ab5fb3220ae016e3e394e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d479fa0ef92542c808003731bc478f714ec1da4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3562449147ffc783230d2a13d02a75ac42989b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ec2a018e5b633e8accd82223aaaa505a0a032ba9.mp3"
+      }
     },
     {
       "id": 22,
@@ -213,7 +315,16 @@
         "seven"
       ],
       "answer": "You,are,seven",
-      "explanation": "意为：你是七岁。"
+      "explanation": "意为：你是七岁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/905cb326c779f0123e079bf8ccb223176a3cf32d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a00bbe560e6b0f5263e3e6cba4ff3fb9a6fe9ef0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8766bb8fff1520abef96456dfdf30ecdf265ec58.mp3"
+      }
     }
   ],
   "knowledge": null

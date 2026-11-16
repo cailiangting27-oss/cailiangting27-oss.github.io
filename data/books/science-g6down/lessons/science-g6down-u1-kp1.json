@@ -16,7 +16,11 @@
       "question": "住房中的供水、供暖、采光等系统都是独立存在的，彼此互不干扰。",
       "options": [],
       "answer": "错",
-      "explanation": "住房中的各个系统，如供水、供暖、电路等在设计和施工中需要相互配合，协同工作。"
+      "explanation": "住房中的各个系统，如供水、供暖、电路等在设计和施工中需要相互配合，协同工作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c123bb6fe90958100ded7b8247876a40c5a92d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/006986d46455a5b8075e201e5feff64c4bc4017c.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "承重墙是住房的基本结构之一，不能随意拆改。",
       "options": [],
       "answer": "对",
-      "explanation": "承重墙支撑着整个住房的重量，属于核心结构，随意拆除会危及房屋安全。"
+      "explanation": "承重墙支撑着整个住房的重量，属于核心结构，随意拆除会危及房屋安全。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/166a2b1deb2154af6a8804242e718dcc19a48a02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2ddb035d7c8d89b901eca3e8791e945b5a5d595f.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "通风系统"
       ],
       "answer": "家具风格",
-      "explanation": "系统是指由相互作用、相互依赖的若干部分组合而成的具有特定功能的有机整体，家具风格属于软装审美。"
+      "explanation": "系统是指由相互作用、相互依赖的若干部分组合而成的具有特定功能的有机整体，家具风格属于软装审美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bcfb84598593187b625bcb973f48dfdd7c90326d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74d133076de0433eee9b9cee793a1a42557c6c4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e75b76fff3e3ac034b6a0edb047c0a44b667b55e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb9d3245cc0f6cdbde659cd513f1851326e561a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e2404287ce478ff67885f890f5af1e9869ccf5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8ac697e7585d6eac323c830abd993043605f752.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "装饰部分"
       ],
       "answer": "基本结构",
-      "explanation": "梁、柱、墙是构成房屋稳固性的基本结构。"
+      "explanation": "梁、柱、墙是构成房屋稳固性的基本结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bce8f7f431bed71f2d55dfb5e6fc55ffd1269198.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e75b76fff3e3ac034b6a0edb047c0a44b667b55e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bb627eb443a9c4d4be266ed2152435f8306a607.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1450dc514bf1073aafb07414d21314a4dcf8376.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/747cc8a7e1a085f29b646dd298d10a77f64eb281.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/761677f2391d7f64dd63af1c3cf5ef0de2bb72e7.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "混凝土结构"
       ],
       "answer": "钢结构框架",
-      "explanation": "鸟巢利用钢梁相互支撑形成巨型空间网格结构。"
+      "explanation": "鸟巢利用钢梁相互支撑形成巨型空间网格结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1472e98a6f7aeeebd2b6776ab161fb8db9b917ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1345dfbccb6ff9fe062ff7b113ee041b3e4f341d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0888c4b8b2dec61738ab233965540b779a1d4d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29258fc59fdad4e2a4a9ab3e6361e3f521f6ab48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/153cc20d2d442534edcef92a7c12993894f83841.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff9d95f92fc25efc11d624e8f30943bbcce2d761.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "认为装修风格也属于住房系统",
       "忽略了各系统之间在墙体内的交叉协作关系"
     ],
-    "tips": "观察自家的总电闸、水表位置，能帮助理解系统的集成。"
+    "tips": "观察自家的总电闸、水表位置，能帮助理解系统的集成。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/00/0033b0d91e4ba4b3650d24742721726de3e5cbd7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ae/ae125465102b9941cce0d44c22f8ff30add4b522.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a2/a2b50b8811a3fa82258fb9b1ea14a9cd6c6cd13f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/83/83e8fd9d57eeb26b8f105c14bc77d0abf76f138c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/42/422cc61c067b0af9bd4edc43841e20a6f05777b9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/85/85c58a21713256850c8e107ff11eac9d0749704b.mp3"
+      ]
+    }
   }
 }

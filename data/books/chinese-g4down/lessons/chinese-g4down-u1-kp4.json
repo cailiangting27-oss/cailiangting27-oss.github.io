@@ -16,7 +16,11 @@
       "question": "转述别人的话时，通常需要把‘我’改为‘他（她）’。",
       "options": [],
       "answer": "对",
-      "explanation": "转述需要转换人称，以第三人称视角客观传达。"
+      "explanation": "转述需要转换人称，以第三人称视角客观传达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e501de87351772252259e5a0920ba72886eee413.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbe73e1469784519e9014dd3e3ad9b647740d949.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "老师说明天他把故事书还给你。"
       ],
       "answer": "老师让我明天把这本故事书还给图书馆。",
-      "explanation": "小明应将‘你’改为‘我’，并明确表达老师的要求。"
+      "explanation": "小明应将‘你’改为‘我’，并明确表达老师的要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e3d8a9cba338da9f2a31cfdb0a1e86f32a3e1389.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a96c5953e1633b1fa5fd125b90290bf3dfe99dfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e602393c5d6c8901cfd81479c85fabd70ee8b8c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f17ebb3e4290b84e5a577885225df9937866c08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f38e669bbf62bbb694e37c078e486f7155505c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c73aff45f1e115d39f01db18f9dcf3a483d9499.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "转述时人称没有转换，导致听话者产生误会（如依然用‘你’）",
       "只记住了半句话，丢失了关键的时间节点"
     ],
-    "tips": "练习时可以先在心里默想：‘假如我是那个人，听到这话该怎么跟别人说？’"
+    "tips": "练习时可以先在心里默想：‘假如我是那个人，听到这话该怎么跟别人说？’",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b6/b6ce3a8240dac54af754f2f9f40fecc3445e8c20.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5d/5d0dd07baf817f6e6e10e284babdeba6beb8ade2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/44/44c425adca9227af2c53c18d5a4b96dea97a9e0c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/75/755cbc40b6570ff51d234373f5c3158d1eaea8a6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3c/3cf3df2ebc562101ad6e111bb8b35f8699b7eb4a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ac/acffbb8aea77036913b987220520dd1c637b7cc0.mp3"
+      ]
+    }
   }
 }

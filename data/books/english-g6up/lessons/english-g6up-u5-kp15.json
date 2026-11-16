@@ -21,7 +21,17 @@
         "to go"
       ],
       "answer": "goes",
-      "explanation": "主语为She，一般现在时谓语动词用三单形式goes。"
+      "explanation": "主语为She，一般现在时谓语动词用三单形式goes。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68fdbff25f122cb9ab5ed3b09878a39d4e3df31e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbd74c1a58ff9b5490486a9f5769158b43e60461.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00482c43e8666ca81e853e5ec442073ea0311502.mp3"
+      }
     }
   ],
   "knowledge": null

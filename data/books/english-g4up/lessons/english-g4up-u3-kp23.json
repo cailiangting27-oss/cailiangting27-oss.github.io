@@ -25,7 +25,21 @@
         "强壮的"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "strong-强壮的, friendly-友好的, hair-头发, glasses-眼镜。"
+      "explanation": "strong-强壮的, friendly-友好的, hair-头发, glasses-眼镜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fbfc695727d6912ae537f69c805ef781535adc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/0117691d0201f04aa02f586b774c190802d47d8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41209342f36141100dd8dc887e9ab9dae2f71f87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc70b0511b268629ba9522bfbab90c0cec91c2c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba22ef34f8bf4f0d4fde40c9b22c2921ae964f9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/4765b26100322e5a33192d9b2465e2ad1e8db32d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14705f3192836c323d4bf7f2880afa9f55f0ea2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de3a2c1ae3ca8ba4aa3016392d248a09c075eefb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8596902078acafcfa7d15ad80e3caf6faaee41.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30b76ed2059bc34da462ca879167f4a5394bd19d.mp3"
+      }
     }
   ],
   "knowledge": null

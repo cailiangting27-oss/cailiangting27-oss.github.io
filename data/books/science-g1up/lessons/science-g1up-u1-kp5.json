@@ -16,7 +16,11 @@
       "question": "我们可以通过画图的方法来记录植物的生长变化。",
       "options": [],
       "answer": "对",
-      "explanation": "画图描绘、拍照、测量都是记录植物生长的科学记录方法。"
+      "explanation": "画图描绘、拍照、测量都是记录植物生长的科学记录方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a617056d64d284e4208bd22d909447f94e42da7c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90c9cdffcae9edce37d108cad658f6e1db3f2b26.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "书本"
       ],
       "answer": "书本",
-      "explanation": "空气、水、阳光是植物生存的基本条件。"
+      "explanation": "空气、水、阳光是植物生存的基本条件。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/100395d98484b17fcf57734e88b79a69670bf554.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d72588a6ce39934428dcf325ee43107648c3718.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4f18dd7d66ec2e2a0f9f28b0934af98f497deea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac0d4c9d682702c5bf994697ad3bd9f955da296.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20c26a3754789a4c50fb8de109522ffc2b7ca699.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "没变化"
       ],
       "answer": "根",
-      "explanation": "种子萌发通常是先发根，以便吸收水分。"
+      "explanation": "种子萌发通常是先发根，以便吸收水分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce0e75fef6b0b4884377365505201bdb67d2adf0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9be4611e164ba0e59236ee4b6b776403b6f42389.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37c63540a2b64ad2e7a69c4d9b63be994e818744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14998bed8651d34d486f45e34c9cf9d05eb3df40.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f48a098195804712b434b4ec79f6cdb1dc887bc.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "画一个圆圈"
       ],
       "answer": "测量高度并记下来",
-      "explanation": "测量是科学记录生长变化的重要数据来源。"
+      "explanation": "测量是科学记录生长变化的重要数据来源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f170be057be900c4ef1022fde21df81f125a052.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0bd25876b6daed765a87abd7abcfe7c4b5bff44c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d49d24574acea5be7ce4fa75a02e9c3f20b80bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa9cc13fac517f99c86815dd2ad95c5e2aa7633.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7cd2532bb4031d316e14d42d81fd291cb95bb4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36998a09dc334cd58b1e7761e9bc1e26fac5dcb6.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "如果每天给大蒜浇水，大约过（）天它就会长出绿芽。",
       "options": [],
       "answer": "3",
-      "explanation": "在适宜条件下，大蒜萌发周期大约为3-5天。"
+      "explanation": "在适宜条件下，大蒜萌发周期大约为3-5天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb03b07609fae677f29e141b5d585a05f9264e6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f5dd41980866709e54698cb2576c71fb49e539a.mp3"
+      }
     }
   ],
   "knowledge": null

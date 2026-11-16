@@ -21,7 +21,17 @@
         "我"
       ],
       "answer": "我,是,一年级的,小学生",
-      "explanation": "按照主谓宾结构：我是小学生。再加入定语修饰。"
+      "explanation": "按照主谓宾结构：我是小学生。再加入定语修饰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a559daaf670d844833f574fc19f0935212b76e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8189dd3e98b07bd3a2058ca7e577df9514b972c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/34180b103cd96239206efb2182fbc175697d3844.mp3"
+      }
     },
     {
       "id": 23,
@@ -38,7 +48,18 @@
         "水里"
       ],
       "answer": "鱼儿,在,水里,快活地,游来游去",
-      "explanation": "主语（鱼儿）+ 地点状语（在水里）+ 描写词（快活地）+ 动作（游来游去）。"
+      "explanation": "主语（鱼儿）+ 地点状语（在水里）+ 描写词（快活地）+ 动作（游来游去）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cccbe78c0e48ea912adb2483068a2210a896d19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4de8f50b12bdffb2e80fa268311f933176248de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bda3e7387a32cbf5ed159b3ca54bdf2d153e2fea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7af4751d92243e3e3ad1964927c9dac70a53b76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8f870e0d9cb549f798dd32c44ff8d30a7febf11.mp3"
+      }
     }
   ],
   "knowledge": null

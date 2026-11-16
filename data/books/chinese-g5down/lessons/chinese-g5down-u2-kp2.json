@@ -16,7 +16,11 @@
       "question": "《景阳冈》中的武松，是一个豪爽、勇敢但也有点自尊心强的硬汉。",
       "options": [],
       "answer": "对",
-      "explanation": "武松不听店家劝告上山，明知有虎也要上去，体现了他的性格特点。"
+      "explanation": "武松不听店家劝告上山，明知有虎也要上去，体现了他的性格特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e8ed5eb23e822d9b0c150e9fafa1db1c58fb476.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2d6e15f97aae981468c3a6a8a3c24fedc27c69d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "《猴王出世》中，石猴之所以能当王，完全是因为他天生力气比别的猴子大。",
       "options": [],
       "answer": "错",
-      "explanation": "石猴当王是因为他敢于第一个跳进水帘洞，展现了极大的勇气。"
+      "explanation": "石猴当王是因为他敢于第一个跳进水帘洞，展现了极大的勇气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07370083c1bc0417a9638cd29ccde88aeb997b49.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acab1addec67c3f6302f7d41761d8f1a767d0177.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "心胸狭窄，嫉贤妒能"
       ],
       "answer": "有勇有谋，神机妙算",
-      "explanation": "诸葛亮运筹帷幄，草船借箭体现了他的神机妙算。"
+      "explanation": "诸葛亮运筹帷幄，草船借箭体现了他的神机妙算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49cd3ed06e17d5c92fc55fe17eece558fc919d60.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/1959dd56133cd7f9b5bb00efac7495891a3dc41e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afaa5ee8b8b7ce199001fb627707c26882b21885.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d361e70bc3215b1b54ff5a37772a0c186eb7a68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b603bc4a0ea16541b3805f869a070b6b5d4e89a8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62fa9fa56928215cf0d48b88b79ac5266acd1336.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "第四天夜里"
       ],
       "answer": "第三天四更",
-      "explanation": "课文明确记载诸葛亮预测出第三天四更天必有大雾。"
+      "explanation": "课文明确记载诸葛亮预测出第三天四更天必有大雾。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d385d2430dc00630a5360174c891448a2ddbb44.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/102236badd601a32e6d5a161b25ec9e83b02c999.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/688c5a0357278e32d0bc3a50d9dd1a1a13a8e6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91bfc6e5ed2abb563b41f20d65cbd23b5ee779aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94d60159626a917dd2d37fc4d33ec5576fca2ffb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c2324bc78fb87a6f657e0a9c84cd07831ae0e3b.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "探春"
       ],
       "answer": "林黛玉",
-      "explanation": "林黛玉的风筝线断了，众人说这叫“放晦气”。"
+      "explanation": "林黛玉的风筝线断了，众人说这叫“放晦气”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57e08a9349d5878b62dfbf02c2b600f135deb0e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6bd19617cd97a961f322e529c6ddaff8a628f099.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dab2108b61c3e3d4ddeba88dcd63b6705512f64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f938dc63594109905aa04c9c1418bb26fbfc68a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f869f92e711d3dfb98fa62b31a619c1893f2e75e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d04c2424ddf7074814c85b0a53cc671dcd08f875.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "丢在山下没带上来"
       ],
       "answer": "打在枯树上折断",
-      "explanation": "书中描写武松抡起哨棒猛打老虎，却因用力过猛打在枯树上折断。"
+      "explanation": "书中描写武松抡起哨棒猛打老虎，却因用力过猛打在枯树上折断。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28cb61d23055c547ff8a983fc1e63c12440b5350.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1262dad00d2d1cca39bf4f3b870a376214baa56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7b62b3e3e30cdde11fc73435d7fb471fde42917.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/3351f0690f5bb3d88b7d8e8ed4166e580f43762c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82cbe1795de6fb06619085c4f5887a43006caadf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/944463906f245ebbe7513c72b6babb53d1c1a19e.mp3"
+      }
     },
     {
       "id": 17,
@@ -102,7 +150,11 @@
       "question": "石猴在花果山发现的水洞，石碑上刻着“（___）洞天”。",
       "options": [],
       "answer": "福地",
-      "explanation": "原著文字为“花果山福地，水帘洞洞天”。"
+      "explanation": "原著文字为“花果山福地，水帘洞洞天”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f5665a6ae0254f59b376c2d7508555d69d54e29.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd1bc9e6ead5e878d4a2fbd05a3b9202c872548b.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +174,21 @@
         "豪放硬朗"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "诸葛亮核心特征是神机妙算，武松是豪放硬朗，黛玉多愁善感，石猴勇敢灵巧。"
+      "explanation": "诸葛亮核心特征是神机妙算，武松是豪放硬朗，黛玉多愁善感，石猴勇敢灵巧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f00932d64ae9fb5e6ed210ab7993c812659eab5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/06fac22214afb466253a3ea189bc9d11a50995fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16ce65e52ad06676e369b8a73a75fa083b3c594e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bd19617cd97a961f322e529c6ddaff8a628f099.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d49e49c751eb5315d2480e481890b72bd4e862b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b441d6853badf9f28d580f553e18ad840885e97c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23c408538a53b90c34b7365df792e57594f3b78f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/849e35d96306802c1f5910e5e08e1dbe2c3038c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05c0e495589bc32cf37e5226b8b7861432182271.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc279eb0c920163a1bb701b5fef4355f2ec0f09e.mp3"
+      }
     },
     {
       "id": 22,
@@ -139,7 +205,18 @@
         "陷害"
       ],
       "answer": "周瑜,设下,计谋,陷害,借箭",
-      "explanation": "整个故事的起因是周瑜想陷害诸葛亮借箭不成。"
+      "explanation": "整个故事的起因是周瑜想陷害诸葛亮借箭不成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9960d258f8084d071cdebdee442ec7bbed92a3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abe7eca1fddda1244d137af1abbca9d2012aaa6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/febe8a7c1c24dcae1591901358b6897258cee812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ede91af78ef8ef0868ad274862fd0336b594c9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63f98380838cd20417c024566b69f35a9af9428f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/518d9be0e78602fff893e22152725c72cf057d5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33641f115bb0b2caa4d05aea3a633d3391294224.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -150,6 +227,16 @@
       "对人物性格分析简单化（只说好人、坏人）",
       "脱离文本细节空谈人物性格，没有证据支持"
     ],
-    "tips": "可以尝试给角色做“朋友圈档案”，用关键词标注他们的标签和脾气。"
+    "tips": "可以尝试给角色做“朋友圈档案”，用关键词标注他们的标签和脾气。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5e/5ef503a46d6c3a52b2e14079c69b23fc7a3febdd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a4/a46bd30abb5aabb144f64b751bab3a9402102a45.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1e/1e8d01f884b0c1d2cfb3a920d26f18ab8cd537cb.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ac/ac765b502dcf4a352928b3ecce654c64aac204a5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b5/b5ab43f5f2caeaceba09b8d74e102e4327907db6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/31/31e9af6040832e2e8acb2c7a3e670c775e095a93.mp3"
+      ]
+    }
   }
 }

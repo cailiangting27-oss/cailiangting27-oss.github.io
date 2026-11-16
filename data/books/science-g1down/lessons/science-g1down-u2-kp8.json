@@ -16,7 +16,11 @@
       "question": "在校园里观察小动物时，我们可以用手直接抓捕。",
       "options": [],
       "answer": "错",
-      "explanation": "观察动物应遵循不干扰、不伤害原则，不能直接用手抓捕。"
+      "explanation": "观察动物应遵循不干扰、不伤害原则，不能直接用手抓捕。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/6087e4e3735b786d90ea131b619f83f1b21b5b2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc87f39f24be03363eca13b184c03dc312f0100a.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "喂它们吃巧克力"
       ],
       "answer": "静静地观察，记录特征",
-      "explanation": "科学观察应尊重生命，保护动物的生存环境。"
+      "explanation": "科学观察应尊重生命，保护动物的生存环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16a75ed505a333cb784907888e09fc63cdde8e71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5cc2a2b7f2f326fa13a709a7b2913e8683b8d810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/191815c7836613fcd2e2a471d478b6cbcd7340fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ca7ac5819f64447dd674c770aad657195ce7963.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/021a83347aa1e526f5271a7ecccc33510ab5ec97.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/4610ae852e4dd60f7c6b7ca66e3538d1f8291e7a.mp3"
+      }
     }
   ],
   "knowledge": null

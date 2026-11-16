@@ -21,7 +21,17 @@
         "winter"
       ],
       "answer": "autumn",
-      "explanation": "autumn = 秋天。"
+      "explanation": "autumn = 秋天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5a2bf32fa3cce9a635414777eb1021dff7e617b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83c8c81f803130a59a7960d955725404ef1170f2.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,17 @@
         "六"
       ],
       "answer": "四",
-      "explanation": "春夏秋冬共四季。"
+      "explanation": "春夏秋冬共四季。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b669a896ce8f39570343590512047a36d3975b5e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f88740b348014a4eef0d2132f6cc2fced6f5b3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49ddb069d5b8358521ebc0dc49d8a6b22de8b231.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f07f53d63e166c78821aba2e482990e6674bb17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d72c724e03b360484cd7a9000f14544b50a0957.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/3070ae6459540868e8b1b26ee85e4de1c9d4239a.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +68,11 @@
       "question": "夏天通常很热。",
       "options": [],
       "answer": "对",
-      "explanation": "夏季高温。"
+      "explanation": "夏季高温。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/5216152123cf42701314e7c98a464f2605df5b99.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab0481ba467086f877fc3a4f9666f06212511b76.mp3"
+      }
     },
     {
       "id": 8,
@@ -64,7 +88,17 @@
         "Yes, I do."
       ],
       "answer": "I like summer best.",
-      "explanation": "问最喜欢，答 like… best。"
+      "explanation": "问最喜欢，答 like… best。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbf8cc09cca83ec6ef34811f0b4010dda7ead572.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d4cf88fc5200cab072f44c7e45ff8efb9de2746e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec70a12372b2716f62b08f1b697021177f578203.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83dd8669115b49d46d5244594ea95b4d48f4c59c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/7694bd623818f1dae70ee2539726a3673122e74d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1cc21242613427b00cae37cf165fa1c8c1b0268.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "going"
       ],
       "answer": "went",
-      "explanation": "go fishing的过去式是went fishing。"
+      "explanation": "go fishing的过去式是went fishing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c54dc9153f90e07fcff0420952deb199dbcb2a05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dda18e17a07798813aa6b01fb8587029d34f3b39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7b4153d68f0b18e7b0bdf0f8ac9de6c50bce19d.mp3"
+      }
     }
   ],
   "knowledge": null

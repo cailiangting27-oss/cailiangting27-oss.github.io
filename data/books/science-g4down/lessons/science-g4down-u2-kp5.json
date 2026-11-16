@@ -16,7 +16,11 @@
       "question": "我们不能用家里的交流电做电路实验。",
       "options": [],
       "answer": "对",
-      "explanation": "家用交流电电压高达220V，远超人体安全电压（36V），电路实验只能使用干电池。"
+      "explanation": "家用交流电电压高达220V，远超人体安全电压（36V），电路实验只能使用干电池。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0ed513d411538b3d9f2713a3d8083ba691a6f54c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cb2b30fc604dc48288a82161e4d5657a697f16f.mp3"
+      }
     }
   ],
   "knowledge": null

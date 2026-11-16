@@ -25,7 +25,21 @@
         "戴望舒"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "这是本单元四首诗词的作者归属。"
+      "explanation": "这是本单元四首诗词的作者归属。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd576ced33adde68b8f587c41e748166def919ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bcddc3815c3ee0e653f7670cd011c5a9e14a69aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bd105c499e977a8b3eba5e548920dc66a8ac67f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2644283b718e9b7eab4b9b04f78f612e7d94b64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d3346ab5e832b4325d5b838289235be7b7b4cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae065c8aa2f976484a39d9e3ac7c0510ecfb64ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2fd06a3edec818e59afcc93ed610fc88f79cbc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeff6c8fb0355f8f942041ff141c427780a3e3d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afee867db7c6ad9083e646584ce0b5ca2ee27cd7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8795b7d9b686eb8687a89e414fcafd17f1b1d3b.mp3"
+      }
     }
   ],
   "knowledge": null

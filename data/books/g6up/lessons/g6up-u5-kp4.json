@@ -16,7 +16,11 @@
       "question": "半圆也是一个扇形。",
       "options": [],
       "answer": "对",
-      "explanation": "扇形是由圆心角和一段弧以及两条半径围成的图形，半圆是圆心角为180度的扇形。"
+      "explanation": "扇形是由圆心角和一段弧以及两条半径围成的图形，半圆是圆心角为180度的扇形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e1144e1de75d350c71a96c54b398849a7fd341d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db3b00a900ae69309b851e530a680c1d42c7b960.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "圆心角150度的扇形"
       ],
       "answer": "圆心角150度的扇形",
-      "explanation": "在同圆中，圆心角越大，扇形面积越大。150度是选项中最大的。"
+      "explanation": "在同圆中，圆心角越大，扇形面积越大。150度是选项中最大的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90f7482694fc9e6d51c1707d8e5b4871616d395d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96cf94fc762a3484f718f7684b5dfce6a7d3da93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/785e2a053d436461f02233f737ed11d8df23bc32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87a8068c62e7137fefd98959fe99374e095231f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41e9434d9e360e211a375cc59d9531a12d2b88be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b86dc1f5dc8b1f12dd68e06240c98b2f5113ab6.mp3"
+      }
     },
     {
       "id": 18,
@@ -48,7 +62,17 @@
         "360"
       ],
       "answer": "90",
-      "explanation": "$360 \\div 4 = 90$度。"
+      "explanation": "$360 \\div 4 = 90$度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb74bf693c4eea99e64d15d7cc5c4704c1fefaa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1773d62a609dd09e98ea1aebeddbd949b78bf83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5ae511d6feb0c0bad19083843d3fd442da913205.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "认为顶点在圆上的角也是圆心角。",
       "在比较不同圆中的扇形大小时，只看圆心角而忽略了圆本身的大小（半径）。"
     ],
-    "tips": "扇形就像切开的一块蛋糕，蛋糕的大小（面积）取决于切开的角度和整块蛋糕的大小。"
+    "tips": "扇形就像切开的一块蛋糕，蛋糕的大小（面积）取决于切开的角度和整块蛋糕的大小。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/64/649da037c60cce99108919d29cef5fa939ef6fbc.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/47/47592447e132a12e40f9c7d1e90955c77b4ac193.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/2b/2b17d0e46c1c1273146f493e3e7c8c4bbbeed4af.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2a/2acfe0508e8b6bff6c86dcbb18d1c1f2e9016ba2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2f/2fca53cf51eea52d77fd5749e12406b089bb58a2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/81/8192250e8c33cc06eccde0746fb627384b13c272.mp3"
+      ]
+    }
   }
 }

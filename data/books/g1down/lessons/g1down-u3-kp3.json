@@ -16,7 +16,11 @@
       "question": "分类整理数据后，每一组的数量相加应该等于总数。",
       "options": [],
       "answer": "对",
-      "explanation": "分类只是把全体成员分成了几部分，部分之和等于整体。验算：$3+5=8$，总数仍为8。"
+      "explanation": "分类只是把全体成员分成了几部分，部分之和等于整体。验算：$3+5=8$，总数仍为8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04ca5bde043c1b749e59048e0e630eeb51eb7fda.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7578ea72d2a88484d30f52d3cd27f278f5d78b43.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "如果表格中苹果有5个，梨有3个，那么苹果比梨多2个。",
       "options": [],
       "answer": "对",
-      "explanation": "通过减法计算：$5 - 3 = 2$（个）。验算：$3 + 2 = 5$ ✓。"
+      "explanation": "通过减法计算：$5 - 3 = 2$（个）。验算：$3 + 2 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cea55a2b39dd3b213f95c49448834aa164942477.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61a8445d6abd03b305c9be02039cdc03bece8d60.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "无法确定"
       ],
       "answer": "男生多",
-      "explanation": "$10 > 8$，所以男生比女生多。"
+      "explanation": "$10 > 8$，所以男生比女生多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47fa608d6ced956bef64250b72d4491cb2b18149.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e34733820ae312db81ab2eca7a23e37b95e1e22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71a901390c83fcc2dacd306f49cac589f83647f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93530e093ef5680ba71fab5fd2949aa29cc09f32.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "7 天"
       ],
       "answer": "1 天",
-      "explanation": "$4 - 3 = 1$（天）。验算：$3 + 1 = 4$ ✓。"
+      "explanation": "$4 - 3 = 1$（天）。验算：$3 + 1 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ab5f3d88409cdd4052aec5fd05584506973cbb7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/11/11f478b6c1c43b67e5cfd2965237c640a06dac11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922916918654673833a83047504da1a9d984ed63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/698d9e917128cefe832bd157c3b5260b1209fb4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e45a81074f47bd592d5089cfd8a1dbaf884fcd49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/833e65a149e42f7b62ee184fdb0e002fcdb2c6f2.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "无法比较"
       ],
       "answer": "蓝铅笔多",
-      "explanation": "原来的蓝铅笔加买的：$4 + 2 = 6$（支）。$6 > 5$，所以蓝铅笔多。"
+      "explanation": "原来的蓝铅笔加买的：$4 + 2 = 6$（支）。$6 > 5$，所以蓝铅笔多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd6fae46a66f0092245ed0f083e48019ed8b8643.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c4430e38c396a20e10427a8f48731059d3bf451.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca1aa073ec6a71334dafad56d67c791460cdf0e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd6413ce874a3d823202a1a9ad234e956a7ce5f0.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,11 @@
         "≈"
       ],
       "answer": ">",
-      "explanation": "因为 11 大于 9，所以用大于号。"
+      "explanation": "因为 11 大于 9，所以用大于号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/628572b43ca5f434bcdbe838d7d171783038e54f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7ff1dd01395b3335a231feaab52f51203f4b4030.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +149,17 @@
         "2"
       ],
       "answer": "13",
-      "explanation": "苹果：$5 + 3 = 8$（个）。总数：$8 + 5 = 13$（个）。验算：$13 - 5 = 8$ ✓。"
+      "explanation": "苹果：$5 + 3 = 8$（个）。总数：$8 + 5 = 13$（个）。验算：$13 - 5 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89986883261897864bf2b34f666ceb3be798af74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d04a86a89f7576c3bdebf444f636d7b5df0e12fe.mp3"
+      }
     },
     {
       "id": 20,
@@ -118,7 +170,11 @@
       "question": "一盒积木里圆柱有 12 个，正方体有 8 个。圆柱比正方体多 ___ 个。",
       "options": [],
       "answer": "4",
-      "explanation": "$12 - 8 = 4$（个）。验算：$8 + 4 = 12$ ✓。"
+      "explanation": "$12 - 8 = 4$（个）。验算：$8 + 4 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f18964b181d4fde091aa898f672f386ce9c4f4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a65ef34faab5bfb9d54498ea65a450170fa06aeb.mp3"
+      }
     },
     {
       "id": 23,
@@ -129,7 +185,11 @@
       "question": "计算：$18 - 6 = ?$",
       "options": [],
       "answer": "12",
-      "explanation": "18 减 6 等于 12。验算：$12 + 6 = 18$ ✓。"
+      "explanation": "18 减 6 等于 12。验算：$12 + 6 = 18$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1425333024b00cb2d3bab7849f20e2d918620c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e837b46dab786792d4d94c37acc3a7cba07b322.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +200,16 @@
       "在比较“谁多谁少”时，看错表格中的数据行。",
       "无法正确理解“比...多几个”或“比...少几个”的运算含义，将减法做成了加法。"
     ],
-    "tips": "看表时可以用手指着数据，读题时圈出“多”或“少”这些关键词，帮助准确判断运算方法。"
+    "tips": "看表时可以用手指着数据，读题时圈出“多”或“少”这些关键词，帮助准确判断运算方法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fa/facaf99edefa532f37502a671e017c99f81c80c9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/2e/2e5f3a4accf75fc6afd465b3640e6f45996295fa.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/99/996f2ddea1ad2aa3cd911ae78f002e1ca359ed25.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/79/79b8ec8c0ccef24f8db81c0d3b1d7ee8f8d6db35.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/52/5200b9f48240f7274d825b509667402745c63695.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b3/b307f706d3d7dd99f49ca56b33dcc4770d6c939b.mp3"
+      ]
+    }
   }
 }

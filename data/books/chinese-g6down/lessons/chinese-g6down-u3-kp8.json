@@ -21,7 +21,17 @@
         "因为母亲在陪“我”玩"
       ],
       "answer": "因为“我”沉浸在期待中而忘我",
-      "explanation": "心理学上，当人专注地期待某事或处于兴奋中时，主观感觉时间过得快。"
+      "explanation": "心理学上，当人专注地期待某事或处于兴奋中时，主观感觉时间过得快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8ddec02b011890add46aedd6526e302c3112426f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af38e2b1141dbc51daaa4e332a98684a783c0e35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff663d1bd2ad9467e216417c622097741e4a683.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df2dfa675503eed9e948eb832dfb8ece8c9da0d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/083ce418c6b015569eb0cfb6fd9b3703615f8ba3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfb7f62f4d1e8f3d041212d476df1bf768186ebb.mp3"
+      }
     }
   ],
   "knowledge": null

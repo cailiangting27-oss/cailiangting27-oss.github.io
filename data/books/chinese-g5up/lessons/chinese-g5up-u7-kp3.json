@@ -16,7 +16,11 @@
       "question": "《观书有感》中的“半亩方塘”仅仅是指大自然里的鱼塘。",
       "options": [],
       "answer": "错",
-      "explanation": "方塘在这里比喻书本和知识的海洋。"
+      "explanation": "方塘在这里比喻书本和知识的海洋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a954d387fa634387a0c01738baaae39478b9392f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2533699d89538348dc133c470cc757cebb5cda8a.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“问渠那得清如许”中的“渠”字在这里是指“它”，指代方塘。",
       "options": [],
       "answer": "对",
-      "explanation": "渠，代词，指方塘。这是古代汉语的常见用法。"
+      "explanation": "渠，代词，指方塘。这是古代汉语的常见用法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32e8e0ac6d6b4094f16e2bc2b459cf810e3c390d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd23112da1b8b70af5ef3e0c4280e431ac65e852.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "划船需要顺流而下"
       ],
       "answer": "不断学习新知识，思想才能活跃",
-      "explanation": "源头活水象征新知识，方塘清澈象征思想活跃。"
+      "explanation": "源头活水象征新知识，方塘清澈象征思想活跃。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/848c016fa6f7be0e455f579ff799eccc7bdce8be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c7/c7020cf3c4c39243cbb30b125bdb9bf96bbc9838.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76cd7b006c762170d613eb2955108cacea717903.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35cf14fb3dce01b2a75393efdea0efc5be593ef9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25bc33ec122bf22e10fecee9f8e14306081c9de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8bcdee95f2be609aa4421a65cdbc36e1ee48483.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +77,17 @@
         "高尚的人格品质"
       ],
       "answer": "丰富的生活实践和新知识",
-      "explanation": "活水指不断注入的新事物，喻指不断吸收新知识。"
+      "explanation": "活水指不断注入的新事物，喻指不断吸收新知识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f73d91ec5e6ef0311d788fd9d1997f1484f6338f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/058cf5bf336093f652b06d79cd9fc5e15a0deece.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c556be338d18f248510a6f876dc9e16637810d41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e5794ef75027aa171146422324131ac3029c9a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b59797e89a41f10c20aeda60f1d9001266a8544.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b10575c685b29181510d64b4a6b538017eb3c9a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "死记硬背诗意，不理解‘渠’、‘歇’等关键字在语义中的桥梁作用",
       "无法将诗中景物与现实生活中的学习行为挂钩"
     ],
-    "tips": "尝试把古诗里的词代换成现代词汇，比如把‘活水’直接读成‘新书/新知识’来理解全诗。"
+    "tips": "尝试把古诗里的词代换成现代词汇，比如把‘活水’直接读成‘新书/新知识’来理解全诗。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/23/23e970ebf006753be6fbcf55e58bfa93d9b5c1be.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/20/20327d81b1a59d7fa4f9d4a0b7e8ab9bcd6dcedf.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f5/f577e66350fa769cca3261ff86333b3c12fb81fd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0e/0e01e891309c1de18e18cbbf88772ffd1967d148.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/81/81a06f7bbfb159f515b9186f035492fbb5914cae.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f0/f033c6f828235df5341785b963ff673344781211.mp3"
+      ]
+    }
   }
 }

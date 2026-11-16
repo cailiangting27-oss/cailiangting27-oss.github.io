@@ -16,7 +16,11 @@
       "question": "分数加减混合运算的顺序和整数加减混合运算的顺序相同。",
       "options": [],
       "answer": "对",
-      "explanation": "分数加减混合运算与整数一样，如果是同级运算则从左往右算，有括号的先算括号里面。"
+      "explanation": "分数加减混合运算与整数一样，如果是同级运算则从左往右算，有括号的先算括号里面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/299020f36e1dafaee44a30a74b3159db7a49338f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c3246878c0cf419c6418cbf3ca616321c73f2374.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "0"
       ],
       "answer": "\\frac{1}{4}",
-      "explanation": "$1 - \\frac{1}{4} - \\frac{2}{4} = \\frac{3}{4} - \\frac{2}{4} = \\frac{1}{4}$。"
+      "explanation": "$1 - \\frac{1}{4} - \\frac{2}{4} = \\frac{3}{4} - \\frac{2}{4} = \\frac{1}{4}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90241bc955fd566bc4b8de54bd004636ca24e951.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/eb946338365d9781f7d2e9ec692c26702d0ae3a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26b808893af1ddee7377b540816a50afeb3b4481.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f39c6143dd624f0929d3babdfbb5bf8b5c45d6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8786d2e77746ddd2e16814c4865ee8511159ec1a.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "\\frac{2}{7}"
       ],
       "answer": "\\frac{5}{12}",
-      "explanation": "$1 - \\frac{1}{3} - \\frac{1}{4} = 1 - \\frac{4}{12} - \\frac{3}{12} = \\frac{5}{12}$。"
+      "explanation": "$1 - \\frac{1}{3} - \\frac{1}{4} = 1 - \\frac{4}{12} - \\frac{3}{12} = \\frac{5}{12}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bb32a448aac950bc1b7aca42821537562aad14b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e96e3834ec0ea6160815a745bddeb2d6b72d98d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a10fa55d1324328f9ba60c9343ed0ecb0506d678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3401ffe13c937b7d53677635f449532845f1fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f683aa8b51e2bf85866ac5020a8fbbb016bace.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0d0eca014835e8e3a2f75e2ddc26a49fbe9390e.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "\\frac{1}{4} 杯"
       ],
       "answer": "\\frac{3}{4} 杯",
-      "explanation": "第一次喝 $\\frac{1}{2}$ 杯纯奶。加满水后奶占 $\\frac{1}{2}$，第二次喝了 $\\frac{1}{2}$ 的 $\\frac{1}{2}$ 即 $\\frac{1}{4}$ 杯纯奶。$\\frac{1}{2} + \\frac{1}{4} = \\frac{3}{4}$。"
+      "explanation": "第一次喝 $\\frac{1}{2}$ 杯纯奶。加满水后奶占 $\\frac{1}{2}$，第二次喝了 $\\frac{1}{2}$ 的 $\\frac{1}{2}$ 即 $\\frac{1}{4}$ 杯纯奶。$\\frac{1}{2} + \\frac{1}{4} = \\frac{3}{4}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/068bde70c73d92122d3e99771c5e23f6a02d95c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/220bcc0a97f7bcff8b30e509f37177ceed81efbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/697923b1e45d34f0e8b63def7c5998c0cad37cfc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d07991c512e47266a7ddfdd22918974dd64e54a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/052415a560f4181adc422fd0a2479ce11a5415d6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/013350650a9904957a5ca59436cc04e12d3418c7.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "一根 2 米长的铁丝，先剪去 $\\frac{1}{2}$ 米，再剪去 $\\frac{1}{2}$ 米，还剩 ___ 米。",
       "options": [],
       "answer": "1",
-      "explanation": "列式：$2 - \\frac{1}{2} - \\frac{1}{2} = 1$（米）。验算：$1 + 0.5 + 0.5 = 2$ ✓。"
+      "explanation": "列式：$2 - \\frac{1}{2} - \\frac{1}{2} = 1$（米）。验算：$1 + 0.5 + 0.5 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/602b4b8be6c86f7f89105ec4710c0375656b936e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1dc13c55a1a0eddc80ccf72e2f3e7cff64a99a18.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "计算顺序出错，先算加法后算减法（在没括号的情况下）。",
       "一次性通分时，由于公分母太大容易算错分子。"
     ],
-    "tips": "观察数据，如果前两个分数已经是同分母，先算前两个会更方便。"
+    "tips": "观察数据，如果前两个分数已经是同分母，先算前两个会更方便。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ef/ef4372c95c5aa674f128be6646bbb16f89ec78f8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9d/9d790b17a4e371386b36e9349169e6a0cb036f05.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/93/93895dcb702a5af85a2bbd8de7969b6b02b50d14.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/15/15f62fc71e2d0694b291d40dd891b7076ec8ba87.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6f/6f15d387928876f47e520f7760c095731563d8c0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/be/be266e69bfcbc063dba9ef5c25d7d046d8bdefe8.mp3"
+      ]
+    }
   }
 }

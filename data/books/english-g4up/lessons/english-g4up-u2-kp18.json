@@ -16,7 +16,11 @@
       "question": "-What color is it? -It is ________ (黄色的).",
       "options": [],
       "answer": "yellow",
-      "explanation": "黄色译为yellow。"
+      "explanation": "黄色译为yellow。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6ff6212f08b76f5fe101bae5adcbecb5ef12311f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50340f360ab7ed4834002a08f9801044ea151caa.mp3"
+      }
     }
   ],
   "knowledge": null

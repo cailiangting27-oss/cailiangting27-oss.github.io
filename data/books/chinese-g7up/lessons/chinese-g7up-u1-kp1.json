@@ -21,7 +21,15 @@
         "结果"
       ],
       "answer": "议论",
-      "explanation": "议论是表达方式，不是要素。"
+      "explanation": "议论是表达方式，不是要素。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89b4aa6364ce3c4a0d1eebc1f6c90e2073eb37ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9e0a3f4e5d4cb56f2d54bc30856201a1be5ef8d.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/0a/0a2c91cec6c8fb259482b99dde05c9438784dce9.mp3"
+        ]
+      }
     },
     {
       "id": 2,

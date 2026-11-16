@@ -16,7 +16,11 @@
       "question": "If you like sports, you can be a head teacher.",
       "options": [],
       "answer": "错",
-      "explanation": "喜欢运动的人更适合作为运动员(athlete)或体育老师(PE teacher)。"
+      "explanation": "喜欢运动的人更适合作为运动员(athlete)或体育老师(PE teacher)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5d53e54d4b4c3fd29e1bc83d24811df2254beea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fcd1879a27af05aa059c661da7e2d95e347b8a3f.mp3"
+      }
     }
   ],
   "knowledge": null

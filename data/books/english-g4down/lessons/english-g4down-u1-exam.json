@@ -16,7 +16,11 @@
       "question": "'art room' 是美术教室的意思。",
       "options": [],
       "answer": "对",
-      "explanation": "art是美术，room是房间，合起来是美术教室。"
+      "explanation": "art是美术，room是房间，合起来是美术教室。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f27223a0dafbde454bead4aee2a09f79aed4483f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c611d64e519306613e24a77c9b14a638f15bfc8.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "如果要表示一楼，可以说 'one floor'。",
       "options": [],
       "answer": "错",
-      "explanation": "应该用序数词 first floor。"
+      "explanation": "应该用序数词 first floor。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b36c9eceb817824b80c691f81003bab7ecf6abbd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09e13545203ab9eb5982d34a267f47a76f2a527e.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "单词 dinner 结尾处的 er 发音与 water 结尾相同。",
       "options": [],
       "answer": "对",
-      "explanation": "两者都符合词尾er发弱读/ə/的规律。"
+      "explanation": "两者都符合词尾er发弱读/ə/的规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2beb2d7e9abfb43a452a29780c9207cb00ca596.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61fc6c3264506e93dd3be5e3d35cc1ea4bd320d0.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "句子 'The gym is next to the library.' 的意思是体育馆在图书馆后边。",
       "options": [],
       "answer": "错",
-      "explanation": "next to 的意思是'在...隔壁'或'紧邻'，不是'在...后边'。"
+      "explanation": "next to 的意思是'在...隔壁'或'紧邻'，不是'在...后边'。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea10ba6583784ed5399d07e41723eb29cbb9bb17.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e3d3a0a8e70c3aa24e854e691a53d14eb440e29.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "library"
       ],
       "answer": "art room",
-      "explanation": "美术教室是画画的地方。"
+      "explanation": "美术教室是画画的地方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80f7207e177be2c3302b7a8dbc12ae45c872d08d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0816b48fa3bbce493318671b73f0a6e091b7f369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3e6610aeba331678ba9403abe7071de46087a0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d191430e46c0aa54b7e69a4efbf4254e422b8814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00299a408dc3498a3cd7bae6db588f3324654d76.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f1bca86e7579fd3f9cf8b4956d0f6b7ff5a7c8e6.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "for"
       ],
       "answer": "on",
-      "explanation": "表示在楼层上，介词用on。"
+      "explanation": "表示在楼层上，介词用on。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9a3d48142248ca52b9f134cf977a383693550393.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/424e882302e190e8ed6d62e6202e6c674b935d47.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "Does"
       ],
       "answer": "Do",
-      "explanation": "have是实义动词，主语you，疑问句需借助助动词do。"
+      "explanation": "have是实义动词，主语you，疑问句需借助助动词do。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/1077224902406b2481969f7f70055b58d5c532ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22bdf47be3fd0a53ecdf5d6edbde0a2c6b97f0e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae736c9aa65b546674f885b9d310ed02350787c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6cecdb79958c080bc23c16f89e320dfb99f11c44.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "be"
       ],
       "answer": "is",
-      "explanation": "主语that是单数，系动词用is。"
+      "explanation": "主语that是单数，系动词用is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18670e2425533976b4d9127edc85a90f5464f80f.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/faa4fb4e668db78f4b2821ea203dfbe853289b5b.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "No, it's"
       ],
       "answer": "No, it isn't",
-      "explanation": "后文说它是图书馆，说明前面的回答是否定的。"
+      "explanation": "后文说它是图书馆，说明前面的回答是否定的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d566a15850e221adbd570553264e8376491fd68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45ddbbb6794ec235a7ee63d9141e09d3e24609fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4097b3e18d75f00e968ff55cad5628e0000a1488.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae90bc77317f2de2a6775eabe27b894c2fa461c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0142e5b0065b9032ffc62ae512103957865f7c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c47c2dec31aeae717563c3ea6e05e5127d025816.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "on"
       ],
       "answer": "next",
-      "explanation": "next to 是固定词组。"
+      "explanation": "next to 是固定词组。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f693f793bf8bbf7d7b002434cf7866edf7f878f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c46683a8f9c86808adc4afc876b3900a6dcca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edee9402d198b04ac77dcf5dc9cc3dac44573782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/405906c9d5be6ae5393ca65fb0e7c38e0d585ecb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/1350237caac3f168c7b2a03b0263d183caee4b86.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "one"
       ],
       "answer": "second",
-      "explanation": "题目中已有the，所以只需填入序数词second。"
+      "explanation": "题目中已有the，所以只需填入序数词second。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79b884192f7bfe645ddd1176d83169074e58e75b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad782ecdac770fc6eb9a62e44f90873fb97fb26b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/352f7829a2384b001cc12b0c2613c756454a1f6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b67cfe05127edf0bf9270f02086501b6e7fb9ce5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe05bcdcdc4928012781a5f1a2a77cbb5398e106.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de20d743d59e4a41d613514d3a6b64f4672a7040.mp3"
+      }
     },
     {
       "id": 17,
@@ -172,7 +258,11 @@
       "question": "Your classroom is on the ________(第一) floor.",
       "options": [],
       "answer": "first",
-      "explanation": "first是第一的意思。"
+      "explanation": "first是第一的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/554fe74e26d17cbd9ded2258aa0cab2aed2362a7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c87f1e71280e69375eb9426f62ac1a78e315d779.mp3"
+      }
     },
     {
       "id": 18,
@@ -183,7 +273,11 @@
       "question": "________ you have a library? Yes, we do.",
       "options": [],
       "answer": "do",
-      "explanation": "主语为you，一般疑问句开头用do。"
+      "explanation": "主语为you，一般疑问句开头用do。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e52484d8c9ea172c040bf566385dba81b3d9429.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/1400124b55c2db76b718070031fdff4007f00ec1.mp3"
+      }
     },
     {
       "id": 20,
@@ -203,7 +297,21 @@
         "老师"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "water-水, teacher-老师, sister-姐妹, dinner-晚餐。"
+      "explanation": "water-水, teacher-老师, sister-姐妹, dinner-晚餐。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b50b1e04b66d9c40199f271a214053870ef248ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd09baa19dc7688f96e2ea45033603921cd7b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78cbc77f583dd8082f08804b0579daad54c5771c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf197d50d35ba06c0c00d6895869009ead7d43cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/5413d30d2b27ed872c4250d9b6217eacc2707082.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/494f23d624bb3f7d6149c3a2cc282b443cab2b10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/447cf08e1fc37a6fe8c234f3cbaf3408b6764c09.mp3"
+      }
     },
     {
       "id": 21,
@@ -223,7 +331,21 @@
         "打扰了"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "this way-这边走, excuse me-打扰了, how many-多少, welcome to-欢迎来到。"
+      "explanation": "this way-这边走, excuse me-打扰了, how many-多少, welcome to-欢迎来到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78d4654daf7be2316332515de8dc0bb9bf0954eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3f013624720048615c0d818b6945e2f1f6e89ae4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25018d83422a099ba2c0fccc778effc512ae4098.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d34e27686cd4953ee3bd5d089477d4ed109e76b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/806b644ecc0071576a6399ba38487a5f00176a3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b1da6930fe9adea725d064042febf0562180ed6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c999d484a3a2ad686cccc959583e2329884a333.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de3cb6dc613832f3b09cd4d42b45f6ed171695d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64a4273f60b3102409e8218c4eb3bf6979dc7c88.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/468aab213202aae389ff7fc628fde1b7d71741dc.mp3"
+      }
     }
   ],
   "knowledge": null

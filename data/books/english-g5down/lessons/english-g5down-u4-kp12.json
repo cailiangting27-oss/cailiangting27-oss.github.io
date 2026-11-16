@@ -21,7 +21,17 @@
         "5st"
       ],
       "answer": "fifth",
-      "explanation": "five变序数词需改ve为f再加th，即fifth。"
+      "explanation": "five变序数词需改ve为f再加th，即fifth。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bba4451e9ead97801692e815ce998b21035ab435.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4d/4db2c1df4610cd6c0da6b9197b066bfb4e9b9d00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5ad43148c90a8f2d296fc74f9f327538e964d000.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f85da71aef0f1a738147a5cc3f6197d8af4e55f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646439db9d6a475612d489712bbc5aa08a9f35dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79111563cb20050dfb2e2464fee104559372cee4.mp3"
+      }
     }
   ],
   "knowledge": null

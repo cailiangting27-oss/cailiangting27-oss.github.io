@@ -16,7 +16,11 @@
       "question": "一般过去时只能用来描述昨天发生的事。",
       "options": [],
       "answer": "错",
-      "explanation": "过去时间可以是昨天、上周末、两年前等。"
+      "explanation": "过去时间可以是昨天、上周末、两年前等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/405bb75d3c1b256b3a540fc098919613376f6f78.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35237ff862dda140e601ea088bd7a9bab7907cf7.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "以辅音字母加y结尾的动词变过去式，要把y变i再加ed。",
       "options": [],
       "answer": "对",
-      "explanation": "这是规则动词过去式的变化规则之一，如study-studied。"
+      "explanation": "这是规则动词过去式的变化规则之一，如study-studied。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffb6895b3a6be01b4a486591ec744d3dc66b3da2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4877a6c6b67c4d1d592464125647ce06538d827.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在过去时疑问句中，实义动词必须用过去式。",
       "options": [],
       "answer": "错",
-      "explanation": "助动词did出现后，实义动词恢复原形。"
+      "explanation": "助动词did出现后，实义动词恢复原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e541952f7d44956cf11cf9475cf4bcfb69d6c83b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1c67f977d64f519adea7e94f24bb474af44fd7b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "I had a cold 意思是'我感冒了'。",
       "options": [],
       "answer": "对",
-      "explanation": "have/had a cold是患感冒的固定表达。"
+      "explanation": "have/had a cold是患感冒的固定表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e8296fd722937bc22a09fce6dd611c5445ec293.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d7c08ec8a5d65b9f7acfdd0d202f562ecbd9ae6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "do; did"
       ],
       "answer": "did; do",
-      "explanation": "疑问句结构为did+动词原形。"
+      "explanation": "疑问句结构为did+动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/86/86a475ba2f67d8c95f5c89d1da41035e2b59ace3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a897de0c3820c73768b32bef708bfb613d13e81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9569c82493c552da9d54702219935e302952d4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfcf57f475f4cd3e2fc6c7730f4be27aaf2978d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c18046c594216a8314cc2508dc184d767e78e709.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e4684b7d12fafeb1b71f44a46d7c3065c18a2dd.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "watched"
       ],
       "answer": "watched",
-      "explanation": "看电视节目的习惯用语是watch TV，过去式为watched。"
+      "explanation": "看电视节目的习惯用语是watch TV，过去式为watched。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18e34cfd019362575affb98acf1a5d1131ce169e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/292b0901993f7e9d9a0d9b80542f9e59505ba5be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29596a43a2ef2bbfa00f6a16c0cb1d108bc63e32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e04e93cf9dd0cf9ba75e9b7afb940d1b10dcc4f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9ba5caac365124d795d327ff3aefea08dd30ffb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "I did it"
       ],
       "answer": "It was fine",
-      "explanation": "How was... 询问情况，回答It was..."
+      "explanation": "How was... 询问情况，回答It was...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/656504cf708ce18b17affa4b5583782c941898d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a4b8d1d7b17bf814694770e6deec44b07ded3c98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bbefa9182a385ca1bf9cc0d08f24cb877e7c792.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd99accb32be09b462bd803af7e8e19d23c1684f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee3dcc894e01f1c845bd235a55eb6e820753cceb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c5d1619199bb55ad39675195e0141090766b62b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "badly"
       ],
       "answer": "interesting",
-      "explanation": "用来修饰film的形容词，有趣interesting最合适。"
+      "explanation": "用来修饰film的形容词，有趣interesting最合适。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d901afd92c527ffaea004e0bb89899893b1e3d0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca7a4abcc2d7c17b202c21effe8258356c3593e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68f55551796668375c528bd96b0d0fbc847bd123.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee964c68253058ef6f71df2584f243c2c4a9e957.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acb47a2b8ad64b0170031727369fa5dcce3f1102.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "is reading"
       ],
       "answer": "read",
-      "explanation": "Did后跟原形，read的原形与过去式同形但此处取其原形。"
+      "explanation": "Did后跟原形，read的原形与过去式同形但此处取其原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0072f48c61625f7e8aca8349c7f8f53788f036c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/380aba3902a438fdabe1efa63b45b67a30451eed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7afddb68260a60f86c02a021efba7f216c2e7cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/227f38db8f9408a503acd51e3de98a46bb1209f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0f53df049ea0c64ca842787e4a07174130d3b69.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/673dc91fe98b8f6054e4d4abdeeddcd269495263.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "for"
       ],
       "answer": "on",
-      "explanation": "在假期中常用on your holiday。"
+      "explanation": "在假期中常用on your holiday。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8872e5c10c79695b45f2d42a4364d8f28ec6e5f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1fb026079c5f0b165bf524a92ba4d8a5120ffbd.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "My father ________ (cook) dinner yesterday.",
       "options": [],
       "answer": "cooked",
-      "explanation": "cook加ed。"
+      "explanation": "cook加ed。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51e3dd8d2d54db781a5755521ec215e44f8170ad.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b6a03268a6f1002fad0d9c733386a4092a77de1.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "I ________ (not watch) TV last night.",
       "options": [],
       "answer": "didnt watch",
-      "explanation": "否定形式为didn't + 动词原形(不含标点写成didnt watch)。"
+      "explanation": "否定形式为didn't + 动词原形(不含标点写成didnt watch)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16427a7ac562b3f2e1ed9e034f442638ce889a7e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8410ac8dacf48da5e8891a6944428d8fe078577.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "The show was ________ (好极了).",
       "options": [],
       "answer": "excellent",
-      "explanation": "好极了、优秀的英文是excellent。"
+      "explanation": "好极了、优秀的英文是excellent。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0897cbae6939828eb9f40a158a096ccdc7ce18f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/afe30907d5f758369db98a54e6fc11c98caa3272.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "洗我的衣服"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "短语意指：洗衣服,扫房间,待在家,看电视。"
+      "explanation": "短语意指：洗衣服,扫房间,待在家,看电视。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40c5812fbdce8104fbcfcc7ea5edf138bde4eaa4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b95f6922ceb9a6795e192ebd594521c734e545.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7448dc251d81e4e84f177859468f60d4aeda30e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c417502b39b2677f24571216810e43b0749fc5fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/8616939c7c2ae3c13dc97ee3a85e59f8d7e89dc3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a347663c6b859e762a1934e40360fa03b7036c9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9e56e284d954f35c31099a4e42da7a7ba966e1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/305db271fd820a522e516d228038d62a773d5544.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4bf3d18942399783a41ae231f75296ef31cf8f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da377094bf4ba18bff7ecafd157c7607dd010cac.mp3"
+      }
     },
     {
       "id": 22,
@@ -214,7 +316,17 @@
         "cleaned"
       ],
       "answer": "I,cleaned,my,room",
-      "explanation": "主+谓+宾结构。"
+      "explanation": "主+谓+宾结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e04ad38157c79181d753598a4350cfd40e437530.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a5a05c01ee6e7b614f4055d6908eaee91d9c95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ce772e4c5c1595c18f6a7fa201a5b171d35814f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76e2c9f1335d70aa42ad3bfea6af66fc9ac4ddde.mp3"
+      }
     }
   ],
   "knowledge": null

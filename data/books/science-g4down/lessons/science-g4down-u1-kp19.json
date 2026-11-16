@@ -21,7 +21,17 @@
         "防御敌人"
       ],
       "answer": "减少水分蒸腾",
-      "explanation": "缩小表面积可以有效减少体内水分通过叶片蒸发。"
+      "explanation": "缩小表面积可以有效减少体内水分通过叶片蒸发。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/108b7dab790de677dcf9ef231e07e49e8334f5cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be6f6ecd284affec9f79b04a03a6de2b77a71cc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c9cd08bcfec9cf512fe461a39df24f6f7205ab6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca33fc717d03983905e12837f8f24a0f3629ff6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d521b574b3897989398c7b73d879f14c42da9a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12d98afdfa568a169d07d2ccd39fa2a67d619786.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "用0、1、2三个数字可以组成6个不同的两位数。",
       "options": [],
       "answer": "错",
-      "explanation": "两位数的十位不能为0。可以组成的两位数有：10、12、20、21，共4个。故说法错误。"
+      "explanation": "两位数的十位不能为0。可以组成的两位数有：10、12、20、21，共4个。故说法错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f50d835ec12a0109ab98ef3500546e7054441330.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b92fd9e921a7a981d778a0dd2b4e23cc98853639.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "排列的顺序发生改变，结果也就随之改变。",
       "options": [],
       "answer": "对",
-      "explanation": "排列强调有序性，如数字1和2，组成12和21是不同的数，故正确。"
+      "explanation": "排列强调有序性，如数字1和2，组成12和21是不同的数，故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e0c192fef0c31538714c1381a18fac7bcb6abf5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf3729b69dc82cf6d63c56989a359b1f74dbb08d.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "9个"
       ],
       "answer": "6个",
-      "explanation": "十位选2，有25、28；十位选5，有52、58；十位选8，有82、85。共 $2 \\times 3 = 6$ 个。"
+      "explanation": "十位选2，有25、28；十位选5，有52、58；十位选8，有82、85。共 $2 \\times 3 = 6$ 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a3f24a364d06aa7e33cb911aef1917777705d80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45baf450e627c3824ae17eaa47a6711c0734e4cf.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "9个"
       ],
       "answer": "4个",
-      "explanation": "十位可以是3或6。3开头：30, 36；6开头：60, 63。共4个。"
+      "explanation": "十位可以是3或6。3开头：30, 36；6开头：60, 63。共4个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14f43360abe303e2c22a67453493b77ea323852f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5ac7066314de2916b04f0f2e34b7d781bf88425.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "9种"
       ],
       "answer": "6种",
-      "explanation": "第一个位置3人可选，第二个位置2人可选，第三个位置1人可选。$3 \\times 2 \\times 1 = 6$ 种。"
+      "explanation": "第一个位置3人可选，第二个位置2人可选，第三个位置1人可选。$3 \\times 2 \\times 1 = 6$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e5dc022f733cf09822eac8b76761e6de3427b8b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9223ba3adfd431934126568314183ebe512ddaca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc31b90665e8e9d759c085ae028046234d54e88.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3088af006f184be51f196f7830b67e02f05e145.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "12个"
       ],
       "answer": "6个",
-      "explanation": "百位有3种选法，十位2种，个位1种。$3 \\times 2 \\times 1 = 6$。"
+      "explanation": "百位有3种选法，十位2种，个位1种。$3 \\times 2 \\times 1 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5a768c0600bf56e292ab823a1fafa83fcee7d69.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b52983ae949b7c7b071aced1a77e53ec93e056ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24e1df5761a851c90acf0a6c9db43ca7b345aff1.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "4个"
       ],
       "answer": "1个",
-      "explanation": "十位不能为0，只能是40。故只有1个。"
+      "explanation": "十位不能为0，只能是40。故只有1个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01a55a086eb959547e549dd342ac096a97c2d117.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/237f8026c118dcfe397a0b95c37ebb17bd41f075.mp3"
+      }
     },
     {
       "id": 18,
@@ -123,7 +181,17 @@
         "4个"
       ],
       "answer": "2个",
-      "explanation": "可以组成37和73。共2个。"
+      "explanation": "可以组成37和73。共2个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/423e7058259fc02ac185c405c7d7f32d01005b90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23011f74f9af3f54dbceea72deacbe6e8f15045c.mp3"
+      }
     },
     {
       "id": 20,
@@ -134,7 +202,11 @@
       "question": "用5、6两个数字可以组成 ___ 个没有重复数字的两位数。",
       "options": [],
       "answer": "2",
-      "explanation": "可以组成的数是56和65。共2个。验算：$1 \\times 2 = 2$ ✓。"
+      "explanation": "可以组成的数是56和65。共2个。验算：$1 \\times 2 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fcfcefc3d33140fbe1a4a445d90d630c154c03a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65f2cbcfa46e2e336c10cd15a2bdc3ece7c58733.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -145,6 +217,16 @@
       "在组成两位数时漏掉包含0的情况或错误地将0放在十位。",
       "枚举时没有按照一定的顺序（从小到大或从大到小），导致重复或遗漏。"
     ],
-    "tips": "记住“先选位，再搭配”。先定下最高位有几种选法，再看后面的位置。画树状图是最清晰的展示方式。"
+    "tips": "记住“先选位，再搭配”。先定下最高位有几种选法，再看后面的位置。画树状图是最清晰的展示方式。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/31/31958c2a249d36bccd744fe6372260d693ca3f1f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/49/4932e87c06469d893292fd842c823c0a76e9b576.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/56/567c78982eafdc6b53a8ddb524deab346a2b798c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e5/e5e29658819b9335b7aed6490219bc866be543a1.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5a/5a11f457176f6d2068ab7d016de5c263fddea1bd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d9/d99b3f6bc6c2cb162ea2e98a8beebcdf0fc916f2.mp3"
+      ]
+    }
   }
 }

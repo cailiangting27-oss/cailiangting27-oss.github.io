@@ -21,7 +21,17 @@
         "机械动力-人力-自然动力"
       ],
       "answer": "人力-自然动力-机械动力",
-      "explanation": "最初是手摇独木舟，再利用风帆，之后发明了蒸汽机和内燃机动力。"
+      "explanation": "最初是手摇独木舟，再利用风帆，之后发明了蒸汽机和内燃机动力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06c267ce5da591b4853eb34390e5909b338932a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21a82ff4910d15aed367a6832d41dd7e82f6b0fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc571292191f1c8bfd6e3ae5eaecd53a0551cd67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d69745595b0d89638ab9d963e1e43aec5acf53ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21324d5b050dca60715680906d5c2f388afcf46b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a1f053db1f312b42d3204b885b7e7ec0ff4457c.mp3"
+      }
     }
   ],
   "knowledge": null

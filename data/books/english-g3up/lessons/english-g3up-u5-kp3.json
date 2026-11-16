@@ -16,7 +16,11 @@
       "question": "字母 R 的小写形式是 r。",
       "options": [],
       "answer": "对",
-      "explanation": "考察字母 Rr 的大小写对应。"
+      "explanation": "考察字母 Rr 的大小写对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87586d512fcc7edf56d6dca98cc5dcd3867eb694.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/1796c7e2d5e32f5e522a53c56791d5c3a57b50cf.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "ant"
       ],
       "answer": "pig",
-      "explanation": "Pig 以字母 P 开头，发音为 /p/。"
+      "explanation": "Pig 以字母 P 开头，发音为 /p/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88424817a29267672c0cc263b7d59196c701d553.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cd4ba93087f27499adb46f6a91ddeb729b9966b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e49512524f47b4138d850c9d9d85972927281da0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d989e8d27dc9e0ec3389fc855f142c3d40f0c50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64bd05d89142566144bce27f4904a322d8d9e836.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45e2e5a94a48d665ab86f92fc16cd34bb8e9c003.mp3"
+      }
     }
   ],
   "knowledge": null

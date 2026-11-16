@@ -16,7 +16,11 @@
       "question": "55中的两个“5”表示的意思相同。",
       "options": [],
       "answer": "错",
-      "explanation": "左边的“5”在十位，表示5个十；右边的“5”在个位，表示5个一。意思不同。 ✓。"
+      "explanation": "左边的“5”在十位，表示5个十；右边的“5”在个位，表示5个一。意思不同。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6d16379e5dc3ef1cdf701e38d9d4a17cbafc576.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/894da49f46aac3202b17e6de4772f5e182bb2fa5.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "比30大又比35小的数只有31, 32, 33, 34这四个数。",
       "options": [],
       "answer": "对",
-      "explanation": "在整数范围内，30和35之间的整数只有31, 32, 33, 34。 ✓。"
+      "explanation": "在整数范围内，30和35之间的整数只有31, 32, 33, 34。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31a47bd00c16bf979382c1e98bd46a2fdf89d7d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9df408773ca579abdb935ad6ab7455e6e6118afa.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "两位数一定比一位数大。",
       "options": [],
       "answer": "对",
-      "explanation": "最小的两位数是10，最大的一位数是9。$10 > 9$，所以成立。 ✓。"
+      "explanation": "最小的两位数是10，最大的一位数是9。$10 > 9$，所以成立。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5460ede0d056100ec4eee8e3f26d0d8790e99545.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edbe80d6f385730cba68afff7527ba1875a74f42.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一个数个位是8，十位是1，这个数读作一十八。",
       "options": [],
       "answer": "错",
-      "explanation": "18 读作“十八”，而不是“一十八”。这是由于读数习惯中，十位是1的两位数省略前面的“一”。 ✓。"
+      "explanation": "18 读作“十八”，而不是“一十八”。这是由于读数习惯中，十位是1的两位数省略前面的“一”。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f52d3d27cfaf71d9c491fdea06a92f89a7264115.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8a370f04faabb2e225f16552eeccbc555b1100c.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "4个"
       ],
       "answer": "6个",
-      "explanation": "可能的两位数：60, 51, 42, 33, 24, 15。共6个。 ✓。"
+      "explanation": "可能的两位数：60, 51, 42, 33, 24, 15。共6个。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23a1d48155df1282f78fb4d62e422c60a295c3e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07f5eee6c1c2a31d50f8be149981f8088f5254df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8b18d2bad6058089e2a85418cf4e1557466d960.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,11 @@
         "≈"
       ],
       "answer": ">",
-      "explanation": "比较十位数字：9大于8，所以 $92 > 89$。 ✓。"
+      "explanation": "比较十位数字：9大于8，所以 $92 > 89$。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46902cceb44109e0a15968b8600c07b8e5e5e337.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d8d65bfe04e5a9bdc5b896d5a86ed41ccaa7107.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +127,17 @@
         "20个"
       ],
       "answer": "80个",
-      "explanation": "“多得多”表示数值差距很大。80比20多60，符合条件。 ✓。"
+      "explanation": "“多得多”表示数值差距很大。80比20多60，符合条件。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fdf47df9fc65e4ece40011118ea91fc9fccfc4b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5ae3ba7d081c8287b7a9f982b37da15fbb22b02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49a78fe9dac3774931d7ff3fcd95ad2ef3ff752d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/0930a55bfb216bb1cda8f5f816910ca84c8efcca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa4ef60faca9be7f92e506b88a10413bdf9bd447.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ffde91660cbf9b8332df1fa27921e75276a4a2f7.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +153,17 @@
         "111"
       ],
       "answer": "100",
-      "explanation": "按照数位写出：百位1，十位0，个位0。合起来是100。 ✓。"
+      "explanation": "按照数位写出：百位1，十位0，个位0。合起来是100。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b7930bf7e59bb16c35f774af3e164f7d70ac72c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/699a6eaebc0f488471a101968f4a9012ae763408.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +179,17 @@
         "38"
       ],
       "answer": "45",
-      "explanation": "从大到小排列：83 > 54 > 45 > 38。第三个是45。 ✓。"
+      "explanation": "从大到小排列：83 > 54 > 45 > 38。第三个是45。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0221de191b5fd2005a403de7c570b2ab6e1bf33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d7116e23efef7292cad5e6f033d9a962708228c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0edbe675242c7e4f9e260651ae842d7d25ce4ac2.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "307"
       ],
       "answer": "37",
-      "explanation": "3个十是30，7个一是7。合起来是37。注意不要填成73。 ✓。"
+      "explanation": "3个十是30，7个一是7。合起来是37。注意不要填成73。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15c7aeb6a588e149b628e9748333a7a408cda9df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/35e995c107a71caeb833bb3b79f9f54781b33fa1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fc1bb57c95fe04d4a8acab34ca0576ac19fdc01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae5ffa6599c837509139132ef41c7856f33a50f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88c60c81cbd412d46f09d2b9060e861e0907fd9f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +231,17 @@
         "38盒"
       ],
       "answer": "3盒",
-      "explanation": "38里面有3个十，所以可以装满3盒，剩下8个。 ✓。"
+      "explanation": "38里面有3个十，所以可以装满3盒，剩下8个。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/182bde0489e3b5eac484ccdbb248c2c33a5506a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba5c7ec48464fbf6f88e23d5f1c4b375ebb5481.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5b642cf203a4ee23945b460fc5d37994f9a29d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/6875dd35184044835b09f9cdce1af0dd41a9aa7e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c02b985d85e66fd0b774c7104645a674c71b423e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a826012641c498543ad57e22a43a00163343fce.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +257,17 @@
         "90"
       ],
       "answer": "89",
-      "explanation": "最大两位数99，最小两位数10。$99 - 10 = 89$。 ✓。"
+      "explanation": "最大两位数99，最小两位数10。$99 - 10 = 89$。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/832f3f6780fc3d445afd5786855a8da967ae02e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a79be611e0267e1d943da0737c6c51be67865a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16b06bd9b738835e2d134fe8d596e9ab0086a985.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42180040a011e84467abf780146d3acd1a5633b2.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +278,11 @@
       "question": "一个数从右边起，第一位是3，第二位是5，这个数是 ___ 。",
       "options": [],
       "answer": "53",
-      "explanation": "右起第一位是个位（3），第二位是十位（5）。结果是53。 ✓。"
+      "explanation": "右起第一位是个位（3），第二位是十位（5）。结果是53。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e1913df18ed2870f8cbbf9945b8b2e420ebb5c3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e657ed9555489081863bcabcec34539b9041ac2.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +293,11 @@
       "question": "小明有 20 元，小红有 28 元，小红比小明多 ___ 元。",
       "options": [],
       "answer": "8",
-      "explanation": "列式：$28 - 20 = 8$（元）。验算：$20 + 8 = 28$ ✓。"
+      "explanation": "列式：$28 - 20 = 8$（元）。验算：$20 + 8 = 28$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb30f085b4b8da57a5f39c938fe23b21497feda4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11f76f421a2de448ec8c44157da4c8ed8bed269b.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +308,11 @@
       "question": "$50 + 30 = ?$",
       "options": [],
       "answer": "80",
-      "explanation": "$50 + 30 = 80$。5个十加3个十等于8个十。验算：$80 - 30 = 50$ ✓。"
+      "explanation": "$50 + 30 = 80$。5个十加3个十等于8个十。验算：$80 - 30 = 50$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c0e19502d6fa6bce14b884a1df60fe6e4f1575c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/352224a4c529ade35115349a9e858b09728300e7.mp3"
+      }
     }
   ],
   "knowledge": null

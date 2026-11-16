@@ -16,7 +16,11 @@
       "question": "红色信号灯代表停止，英文是 'Stop and wait'。",
       "options": [],
       "answer": "对",
-      "explanation": "Red light means stop and wait."
+      "explanation": "Red light means stop and wait.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48a265858feb452d16ef5ed326632f99ae1ae513.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b12c53119aad1ae4bd1aadc69e69b81641017326.mp3"
+      }
     }
   ],
   "knowledge": null

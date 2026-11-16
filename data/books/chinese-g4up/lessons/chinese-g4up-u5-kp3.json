@@ -16,7 +16,11 @@
       "question": "“他把书包扔在桌子上，头也不回地走了。”这句属于神态描写。",
       "options": [],
       "answer": "错",
-      "explanation": "“扔”、“走”是明显的动作描写，用来表现人物的心情。"
+      "explanation": "“扔”、“走”是明显的动作描写，用来表现人物的心情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10342fd3570246dd2a64e8f1e76cf5fc6852c832.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e12c2f7b96e4ca412824708ad858475a7ac3c12f.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“抓、跑、跳、喊”这四个词中，“喊”是不属于动作词的。",
       "options": [],
       "answer": "错",
-      "explanation": "“喊”是发的声，但在习作习惯中属于言语动作（动词）。"
+      "explanation": "“喊”是发的声，但在习作习惯中属于言语动作（动词）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/899fe4bd32ffa3bb4520df803300ce03272eb724.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5d5409d79f391305c3e8eb6f5f23a41fc623469.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "扛 挪"
       ],
       "answer": "背 跑",
-      "explanation": "结合生活情境，书包通常用“背”，去操场参加活动通常用“跑”。"
+      "explanation": "结合生活情境，书包通常用“背”，去操场参加活动通常用“跑”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b788e6d68b098739bcf77ff2fa00e0a09923aec0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/6559dfb3c891d3e9ec94b05e48ac96f124b9089e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1f02fe336471cf1736b0627c3856d6f1cf16f3c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5de33a7bade925aa1df4d43452a2b103e98970d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a02a1f05d9304741b6bb411e12a014eda4668e53.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f95d1f614f7a5b09ed5abe9277ecce5357f1a7a.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "轻快地"
       ],
       "answer": "奋力地",
-      "explanation": "根据《爬天都峰》课文内容及语境，爬山过程极其艰辛，用“奋力”最恰当。"
+      "explanation": "根据《爬天都峰》课文内容及语境，爬山过程极其艰辛，用“奋力”最恰当。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d62900c6e0b3ad5a6f2570299040dab489ae4cf7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2b7725cc08319930629ff0c2bbbe58616cf36c7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2edb428f8a9c4443623a105a8e5eb37820a067d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc813f220ac4e0348849e1f747990d47d38f19a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cac68aef0dfa0fc7f2dbab7cead248de39eeb07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e02f0f68224851daaf69255936f83c5144fbc271.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "徘徊"
       ],
       "answer": "飞奔",
-      "explanation": "飞奔形容速度极快。"
+      "explanation": "飞奔形容速度极快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c94779834ffd5d7f140105bffc5f3bc334a2636.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0c6f41b68099cb9292f137d68ab146741f41f5ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dd2cd599187f406b487f4e1dbb9e0b70af487e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c362f054fbd8df7545b198fb79a0d1601e9ce15c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f2ffbd930c04c7dcb9a688389952c99f553b61a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/160eeb5615722648668b1338e33d6eb32b867e10.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "“他（  ）起水壶，咕嘟咕嘟喝了下去。”括号里填一个最准确的动词。",
       "options": [],
       "answer": "举",
-      "explanation": "喝水的动作常用“端”或“举”。"
+      "explanation": "喝水的动作常用“端”或“举”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7b7f6c944b36c9b327516146f10609061a9441e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8a5480cccea5756853927ab8dbd18e7027d533a.mp3"
+      }
     },
     {
       "id": 19,
@@ -106,7 +148,21 @@
         "双脚"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "眨眼、嗅鼻、跺脚、拍手是常见的动宾搭配。"
+      "explanation": "眨眼、嗅鼻、跺脚、拍手是常见的动宾搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de80ec405f32425df53d5a81e0ce604cee9c39e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1432ab5616f97de07f594b63182b75c5362f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f08e8769f1467c442ee923aa306eddb1fbcd195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afd4f1ad66f1a02683a150ba85248be02b9066c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60a8be1e4b8cc7994b9e73bdd95aaeaddf3d2739.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/128403c2c03296c9b1f30b89d3eff66141bd4142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ca960a58cfb085dbc180b83c2671125ce192dfe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6018b7b7a2ddc0c6f5c2f2b89acd61be321e1c7.mp3"
+      }
     },
     {
       "id": 22,
@@ -122,7 +178,17 @@
         "羽毛球"
       ],
       "answer": "小明,稳稳地,接住了,羽毛球",
-      "explanation": "主语(小明)+状语(稳稳地)+谓语(接住了)+宾语(羽毛球)。"
+      "explanation": "主语(小明)+状语(稳稳地)+谓语(接住了)+宾语(羽毛球)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/615a3d20dc1e8f8b5fdefc2e53fda10a9231382a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/63e94fda4cce0c315325d324fc225b0fd66cbbee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/794ebe44605520c29534e99dab4221d97306c61a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca6738e54b83abef20aca22a2507003bf266193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06936d11689b8f9b1d9fca002c851343b10fa046.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c5157d4f8393799a4d849aab85632d1769649db.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "一个句子中重复使用同一个动词（如多次用‘拿’）。",
       "动作衔接生硬，不符合逻辑规律。"
     ],
-    "tips": "模仿‘慢动作回放’，观察一个简单的动作其实包含了哪些更细小的步骤。"
+    "tips": "模仿‘慢动作回放’，观察一个简单的动作其实包含了哪些更细小的步骤。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a7/a7440f1d92481b8dd3b7d824563943a9f65e936d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4f4ad309d0c9e6429ff2cac911b0bd3b7066fad5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/20/2044695eb3b28009d59a484ef500f46847089fc2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/52/5289c293255e3985fd9d1a30cedfd76fdfa889a8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/52/524b5808ebd4d1561a3b7814dd2c861777c73443.mp3",
+        "https://api.clthuanxie.cn/cc-audio/54/542c270ab6f08967ca0acf46810adcc9bd76f0c0.mp3"
+      ]
+    }
   }
 }

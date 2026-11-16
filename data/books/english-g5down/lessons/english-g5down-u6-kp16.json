@@ -21,7 +21,17 @@
         "Yes, she isn't"
       ],
       "answer": "No, she isn't",
-      "explanation": "根据后一句She is drawing可知，前一句是否定回答。"
+      "explanation": "根据后一句She is drawing可知，前一句是否定回答。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/571e5d3b277f76bcacd66d3c1d5828201c388c7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4821aa202e1f9370f1cd6c2fd8ca767d2e11056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/320c0ac33494697038c3624463a287fc0e542b06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d793bc80a4893799d9c546ecafe41b6b7fb98285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbdfdd89d291fc2ab0994139778dc56ecbd946b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6de1ca7bae7ca37001fa4f8c235bde82b653d72.mp3"
+      }
     }
   ],
   "knowledge": null

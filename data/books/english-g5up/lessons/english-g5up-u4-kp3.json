@@ -16,7 +16,11 @@
       "question": "玩足球应该说 'play the football'。",
       "options": [],
       "answer": "错",
-      "explanation": "在英语中，球类运动前不加定冠词the，应该是play football。"
+      "explanation": "在英语中，球类运动前不加定冠词the，应该是play football。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cfb817ad0766554bee89a375caa9aa5d88da08e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e147f8ebbe472d2ea13bc1a532bbf9d8b6af3a25.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "/"
       ],
       "answer": "the",
-      "explanation": "在西洋或民族乐器名称前通常要加定冠词the。"
+      "explanation": "在西洋或民族乐器名称前通常要加定冠词the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/594edd7ef95583a3d8a5cd22d6501668858be017.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86f7e437faa5a7fce15d1ddcb9eaeaea377667b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de73eac0c305038f0437bc6a1f994a5a4379ed28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e6f481bf179346c2fe07f32450aa9b0e8cb1da6.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "/; /"
       ],
       "answer": "/; the",
-      "explanation": "球类运动前不加the，乐器前加the。"
+      "explanation": "球类运动前不加the，乐器前加the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/916c6036072f1768c13cb9aa521b386e599afee5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a298f26ccb0ea304ae75c515001a2b021f2f3b00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbbbc64de1a429a916f41daf4b9530a370bc0a0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/898af568f0e8d2b42fbaf868e2aebd33b6fd25f1.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6c3cd50c524b92ef17f85913905244481ccecbb.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "Sarah can play _____ piano.",
       "options": [],
       "answer": "the",
-      "explanation": "乐器名称前需要加定冠词the。"
+      "explanation": "乐器名称前需要加定冠词the。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e4b07b3c2afa99c81b7bae85e712d7ac9a00a24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/713099cc5ca1f1b5988f9363b41cbff36cafbbbd.mp3"
+      }
     }
   ],
   "knowledge": null

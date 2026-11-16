@@ -21,7 +21,17 @@
         "No, it does"
       ],
       "answer": "Yes, it is",
-      "explanation": "Is it开关的一般疑问句，肯定回答为Yes, it is。"
+      "explanation": "Is it开关的一般疑问句，肯定回答为Yes, it is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78f609186858e0f8a646d0d2deed25723c56d1e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45ddbbb6794ec235a7ee63d9141e09d3e24609fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb713e376e8ca54aa3e065f4635081ce9b68584f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9123b28c107fff8805dd259ed3faa0b3a9fe7783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adf629912a2b807aa3ea852e8476ecd68d0f5c5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc0e467a299a84ced200a49de73ecb22caba1690.mp3"
+      }
     }
   ],
   "knowledge": null

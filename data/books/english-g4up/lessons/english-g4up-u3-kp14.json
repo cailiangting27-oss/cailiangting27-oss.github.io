@@ -21,7 +21,17 @@
         "quiet"
       ],
       "answer": "gift",
-      "explanation": "生日祝贺语境中，送的是礼盒/礼物gift。"
+      "explanation": "生日祝贺语境中，送的是礼盒/礼物gift。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/923aefbf4f34ab7d46b06349cd73abfea1824230.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7b2fb7443bcfed3bac3d67aca009e4a523bd3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc529d972f1f4f2ddf4bd20f3b9ed3693aa11449.mp3"
+      }
     }
   ],
   "knowledge": null

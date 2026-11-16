@@ -16,7 +16,11 @@
       "question": "‘北定中原’中的‘中原’在这里指黄河中下游地区。",
       "options": [],
       "answer": "对",
-      "explanation": "中原是中华文化的摇篮，当时指被金兵占领的领土。"
+      "explanation": "中原是中华文化的摇篮，当时指被金兵占领的领土。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77633999c95b28d7c7af1ff2ed78a694dfc6eeaa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a7e7196dd9e5c2e79c83f6944374c1dc11d79de.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《少年中国说》是梁启超为了鼓舞中国人的斗志而写的一篇散文。",
       "options": [],
       "answer": "对",
-      "explanation": "背景是维新变法失败后，梁启超以此激励国人，尤其是年轻人。"
+      "explanation": "背景是维新变法失败后，梁启超以此激励国人，尤其是年轻人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b79bb5d109e54bd347629d37f798fc612fabb2b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17d7ccee929c5ed55b065adfe3683259a26dfadc.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "‘天公’在《己亥杂诗》中是指自然界里的老天爷。",
       "options": [],
       "answer": "错",
-      "explanation": "‘天公’在这里象征着当时的统治者。"
+      "explanation": "‘天公’在这里象征着当时的统治者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f5090b56d7618237cb9e069a4cd467eaf2e4023.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f8ecab1a398c179a0ed5f83054f4d98bd05c230.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "‘干将发硎，有作其芒’是形容少年的聪明才智像锋利的宝剑开始发光。",
       "options": [],
       "answer": "对",
-      "explanation": "干将是名剑名，象征少年富有才华且刚露出锋芒。"
+      "explanation": "干将是名剑名，象征少年富有才华且刚露出锋芒。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be582313f8c0c16fda515b321e09bc3951f57f33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbb48384125ea33e397f0fd9cbc16a87e9c54caf.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "所有的外乡人"
       ],
       "answer": "忘却国计民生的权贵",
-      "explanation": "作者在这里运用讽刺手法，批评那些偏安江左的统治者。"
+      "explanation": "作者在这里运用讽刺手法，批评那些偏安江左的统治者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c89581dea80145de0d0be403f29c8cc4b0e6ccbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/096256afb84d414bb302e52aedd853e38a478d14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e3cef1fadfe517cc29a7cd9f1b0348f0c1277fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84079b322c5fee8b328429c1e203779e1ee89f8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8feea1c6eaa11eae38b7bdc05a21a77307684d77.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c28fb3a1c80ffbc17a5323d6f98b3c1969add14b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "农业的丰收"
       ],
       "answer": "国土的壮阔",
-      "explanation": "这句话通过写少年的顶天立地，衬托少年中国的宏大气度。"
+      "explanation": "这句话通过写少年的顶天立地，衬托少年中国的宏大气度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c52e430472c9a65d4d718b2c7f5118ea70085559.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/42c1826a4cd6e2cad33439fdf1f7dcda95a7bfe3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d7c2486cdfecdb483dba2bafd698eff7eb2198.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e709e27a6add8cb3a5392834d96b4da2e982c75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34207044e9074bbc3ba38db48b0e3f8ac7027ca4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/460c158050954a2a2f00ecf22db8bd4ac121489b.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "歌舞升平"
       ],
       "answer": "任用人才",
-      "explanation": "下一句是‘不拘一格降人材’，可见其目的是希望各色人才破格涌现。"
+      "explanation": "下一句是‘不拘一格降人材’，可见其目的是希望各色人才破格涌现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf5ed090acb51886ef850a3db6e4db3b7626183b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b99dfafebe2cfcfb139e91243c40d1f0b0237cc7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/419944f2dfc7e45a4051ef17ea4bd6817bda3a6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9683c538ff59a55e4128def5de4a19a89432087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee72e68452c8b064f965f364f8d4ba5afd592f66.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be5bc6c5254cd83ff0c35a6281a4eeb5a3023bc1.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "夜晚的景色美"
       ],
       "answer": "布局的宏大精妙",
-      "explanation": "以此比喻许多小园紧紧环绕在主园周围，体现园林建筑的独特性。"
+      "explanation": "以此比喻许多小园紧紧环绕在主园周围，体现园林建筑的独特性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a1730f0063c6b65f9243e36e4d14dfe77ab29d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1debf34376c666f6bc9f7aaa0ec7ce1e6a0ffebd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55a01a030ce55e785990649f1a81111df0df25ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fec0a7246a05d3a015fdffcbd502829ff1fd52b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c31f001185d3ef46cd82fc337012346b1e76679.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdc5eb49d2f7ccf6bd5b176a2f39cf2d560da371.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "清爽活泼"
       ],
       "answer": "悲愤沉郁",
-      "explanation": "陆游临终前的绝笔，充满了对国家命运的忧虑和未能见统一的悲痛。"
+      "explanation": "陆游临终前的绝笔，充满了对国家命运的忧虑和未能见统一的悲痛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c573a3c05d5dc728caf0e34d63ab7606e289e363.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e4e813f940b2a72d67329c559b90fb5a8b81a1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf0f512a1c2c5bceb2e88e18f68223d4677a4ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31613bb23484145b33da1d5d3460c2c498a0fd35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddbfa35251df571468a181deb88d953addab190b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/992ec5bde667c57c193f7ba693be091e0c237c2b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "背诵描写精美的段落"
       ],
       "answer": "记住落后就要挨打的教训",
-      "explanation": "这是一篇爱国主义教育文章，重在通过毁灭带来的反思。"
+      "explanation": "这是一篇爱国主义教育文章，重在通过毁灭带来的反思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9fbade7404839739f66755f83fb793ed9eaa467.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6621de59d3d57b7d162404578af08fef27b41f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b4cf35c916ba4cad56256aae73255aaed44cbd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3fbc7b1e2c6bf2cd128e8c43d5cf5dd465dd364.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b496337545f9d2c4423e87e4bcf5987c8be4ae3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/680313882853c82d13a71a278838d77995f24ac6.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "九州生气恃风雷，万马齐喑（___）哀。",
       "options": [],
       "answer": "究可",
-      "explanation": "出自《己亥杂诗》，意为这种死气沉沉的局面终究是可悲的。"
+      "explanation": "出自《己亥杂诗》，意为这种死气沉沉的局面终究是可悲的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bfa575359eff271e08db8bf5cb1069897795291c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38663fe1d62b0f6b97f20f6a6b4ec7e77dfbd1e4.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "圆明园的毁灭，不仅是中国文化史上不可估量的损失，也是（___）文化史上不可估量的损失。",
       "options": [],
       "answer": "世界",
-      "explanation": "这是课文的第一句话，界定了这场灾难的国际程度。"
+      "explanation": "这是课文的第一句话，界定了这场灾难的国际程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09d61389286ce5458c3e16b05fe6b7e2339f698b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4fcd94e61cdc2ef7207702a8a67ef722525b975.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "昔日幻想"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "粉黛写华丽，瑶台写幻想之境，而断壁和枯草形容毁灭后的凄凉。"
+      "explanation": "粉黛写华丽，瑶台写幻想之境，而断壁和枯草形容毁灭后的凄凉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ee44d8dcd6a93edc9b45dcd4ccf0154e1bbc5ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/aceb3b647b93ff26e8c715d8f2aee16500aa3717.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/120648f2adee241ce1ac0593f00210ae4bb069ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21595ca37f3ad37a68423474e44e0a469f7d67d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c23b67f28df72ab1aa65b392f180982e2718959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e80bca2afbe1c41d2f2f3ed0392f44113439540b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ed4f601ebc604a1785c9d50c777c4ca03c0a84f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67bca399ac54775b312d72eb5642a7f9648a0f63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0eb75d6581409f9c54788f23e2ed2618c4611c44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11bc4b5defc0766655eb19bacf42c98b0f7f375a.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "国富"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "对应关系是：智-智、富-富、强-强、独立-独立。"
+      "explanation": "对应关系是：智-智、富-富、强-强、独立-独立。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/459ea9be343c46c624dbff7adb0c5800f69c860c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce6cb3ffd11153ff57d0d8a3f66d53a6c4746c21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1b5d0565a32dba0c3b01731c24caacca4281d08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af0230dba6a37cd228d58defb3754e40c5e6d949.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/677051344d7b3be68c7d91635274d0999fd42e99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c61ad05f985aee5b6ab50fbc69292f2ad7179d94.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5058d1b12d8c9208956b60d7ff29a8cbbb2a6b72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e791fda4daba504ab2667e82bb2fae339207c1c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e71cf51592f5037b05d55bfc6f9aa63f2eae87e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9a/9a6e02e26f55a94d154f3b6c1d0514929b6aba1f.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "与天不老"
       ],
       "answer": "美哉,我,少年中国,与天不老",
-      "explanation": "课文结尾的赞叹句，表达了强烈的自豪。 "
+      "explanation": "课文结尾的赞叹句，表达了强烈的自豪。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47dde485cfecfc3c9a428219a7cbeb3591c11e6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54e7acbe47a4b05d644bc6150161c9fee011f0c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0d1007111f3e8749a650dd591880ecb54658cdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27397bcff9eee58d714d040d0e338e3bbf2a6c4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39ebf15adfff71d4331586caf950764625f181a1.mp3"
+      }
     }
   ],
   "knowledge": null

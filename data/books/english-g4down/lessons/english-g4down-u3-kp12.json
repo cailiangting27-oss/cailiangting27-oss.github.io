@@ -16,7 +16,11 @@
       "question": "____ the weather like today?",
       "options": [],
       "answer": "whats",
-      "explanation": "缩写形式为what's，此处要求全小写字母不含标点。"
+      "explanation": "缩写形式为what's，此处要求全小写字母不含标点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/9845bd0eb4b53b2e9d8a940fcbb406e8f9e64452.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf7a0dfeafb9bcd83c700a75b2bb5dcbacd709d1.mp3"
+      }
     }
   ],
   "knowledge": null

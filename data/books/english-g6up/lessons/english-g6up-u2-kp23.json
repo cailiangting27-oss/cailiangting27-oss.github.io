@@ -23,7 +23,19 @@
         "lights"
       ],
       "answer": "We,must,pay,attention,to,lights",
-      "explanation": "We must pay attention to... 我们必须注意..."
+      "explanation": "We must pay attention to... 我们必须注意...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7caa2f301f5fb456300172166fc0258f0b6caca3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/5723d165ed59595207e8c0c85bb720c83f4ce809.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a24ae9faf6a4ba419bee6dc5d1d746acf826b198.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0278de5f6e5df29d9c928bcb6d5a285ea17ce11.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfc95e50f828f0aecd632c939fd45c1bf5272127.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/9367742c0b53c6327a75affb316c1633ca66a8dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72aa8b583dfc479c4438a34eea0433ae62ba7c63.mp3"
+      }
     }
   ],
   "knowledge": null

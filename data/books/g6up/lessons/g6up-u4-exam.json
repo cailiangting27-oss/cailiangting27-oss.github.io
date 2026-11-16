@@ -16,7 +16,11 @@
       "question": "比的前项、后项和比值都可以是分数。",
       "options": [],
       "answer": "对",
-      "explanation": "比的三个组成部分都可以表现为整数、小数或分数。验算：$(1/2) : (1/3) = 3/2$ ✓。"
+      "explanation": "比的三个组成部分都可以表现为整数、小数或分数。验算：$(1/2) : (1/3) = 3/2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16e80d474be8683e57578d24e433b297866e6e0b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45316e51e27c388a7b4034b66ae07256492c056b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "如果 a:b = 1/2，那么 2a = b。",
       "options": [],
       "answer": "对",
-      "explanation": "$a \\div b = 1/2$ 整理得 $b = 2a$。符合等式基本性质。"
+      "explanation": "$a \\div b = 1/2$ 整理得 $b = 2a$。符合等式基本性质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/feea31f106e710719eddc750e235f533a5ff678b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bdc54a6c1c733fa2afe614d0e38dedae4ac55d1.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "8:15 的后项增加30，要使比值不变，前项应增加16。",
       "options": [],
       "answer": "对",
-      "explanation": "后项变为 $15+30=45$，扩大到原来的3倍。前项 8 也应乘3变为24。$24-8=16$。"
+      "explanation": "后项变为 $15+30=45$，扩大到原来的3倍。前项 8 也应乘3变为24。$24-8=16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/065de5f006e0f9fd4f42d608e19387643864cb1a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92f1b76b045c1084ee5e7d17049c680c64bf466b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一个长方形周长是 20 厘米，长与宽的比是 3:2，则长是 12 厘米。",
       "options": [],
       "answer": "错",
-      "explanation": "$20 \\div 2 = 10$，长应为 $10 \\times (3/5) = 6$ 厘米。"
+      "explanation": "$20 \\div 2 = 10$，长应为 $10 \\times (3/5) = 6$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/953baed4e6508c9a85edaa5a9159d1c3855b6e9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/611b6d67be9843a0a72f4f152a64e5165f8d5642.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "0.5"
       ],
       "answer": "2:1",
-      "explanation": "$(1/4) \\times 8 : (1/8) \\times 8 = 2:1$。"
+      "explanation": "$(1/4) \\times 8 : (1/8) \\times 8 = 2:1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d5e5f97564b16b7e1aeccde8c94726bd69ddd5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5cce4a20661ad69574740bf8d5adc320971754.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9adeea088e0d8fbc89986452daacd1fb0309557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86fb66e18f8f93fcd88b5bcad20f44853a88eaac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b390cd54a0c0d4f27fa7adf23e3c45536e9f37c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5091ea3a1a284555a735831fc957fb2ae60c8d75.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "3.14:5"
       ],
       "answer": "3:5",
-      "explanation": "圆的周长比等于半径比。$2\\pi r_1 : 2\\pi r_2 = r_1 : r_2 = 3:5$。"
+      "explanation": "圆的周长比等于半径比。$2\\pi r_1 : 2\\pi r_2 = r_1 : r_2 = 3:5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14989c2398b587e9e774a8c686cf7b725560d0d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59a2241295a06c5ddb5492e05666ba81fae14b29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b8af4bc1e60711ce9069f5acc717932260ddfdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/047c449264924f9a363aaae6a0ec9e2cdf96d110.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f37430f6f8231874303bda811eca3abe3c494121.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d80975ae3c28dd93382aa30e0639a571e16c5d3.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "缩小到1/5"
       ],
       "answer": "不变",
-      "explanation": "除以 5 等于乘 1/5。前项和后项同时乘 1/5，比值不变。"
+      "explanation": "除以 5 等于乘 1/5。前项和后项同时乘 1/5，比值不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f83c5df514f48b7bacfe3c3cd9b66cf2432fdab1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7474bcb512a813b932f718d29aececd4da85d47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93b35ed81dd72c02144d89f50c4d26111a8373db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42b56473d95e7fa5ff931819229416c3f7689098.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90fb6c1d0af4725f827fccb01d899a26e1468e5e.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "5:3"
       ],
       "answer": "3:5",
-      "explanation": "设乙为3，则甲为2。总和为5。乙：总和 = 3:5。"
+      "explanation": "设乙为3，则甲为2。总和为5。乙：总和 = 3:5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd5941fbbef87295332955e5fba58b7876e81b8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59a2241295a06c5ddb5492e05666ba81fae14b29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd3fe96786fee707e2ce141f8ffa04d74003766.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e47773877b730c176b82743c38ae31cf5e6cb208.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ad34d4906fbd57d26e025c22639dbd0e131af9e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/92/92cf11542906ae09ade5d3873a05ac05f87b3275.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "0.05"
       ],
       "answer": "1:20",
-      "explanation": "$0.15:3 = 15:300 = 1:20$。"
+      "explanation": "$0.15:3 = 15:300 = 1:20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5cccc61d07ce35792e046889bfbf0a8af5a2d19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df3e994563d1c7f65f830bb489c15cb49e2e1a13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c49aa9a5db936e7663bf9d3bf2d5c14de79547d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91b37f2bd76f1208088017c0f3d0311916f4daf7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b49d70e9c2aadf371f8e2de967420455151329d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05406ddba0e0fa04dc1a4156fb7eca4f19469251.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "锐角三角形"
       ],
       "answer": "直角三角形",
-      "explanation": "最大角占 5/10。$180 \\times (5/10) = 90$度，故是直角三角形。"
+      "explanation": "最大角占 5/10。$180 \\times (5/10) = 90$度，故是直角三角形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a1053564de8868338fd4cb1dee3b3764cf38159.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e6568838c1987a9d2d54ef8a69796d2f02af7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9be5f242f33c093b2e2e2c42bdb9a42db1b940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc842634432fdcb95c556e1e99b22d9b11749cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a692d9b74b6f06ce7928d492fb1784eee546e6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/184c5462b9442be29800ca1b0e48e924b17b1532.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "120克"
       ],
       "answer": "105克",
-      "explanation": "水 $5 \\times 20 = 100$克。糖水 = 糖 + 水 = $5+100=105$克。"
+      "explanation": "水 $5 \\times 20 = 100$克。糖水 = 糖 + 水 = $5+100=105$克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05880b808abb7cba6d9508093fda894a4be85562.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d93b160b1751cd63b7b70d7679235b1f3efc0850.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79626bd392678357cc44dfb425e4f87527d27067.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df7a0713e14d079d67f750945053f60b2279fa25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37d7c26529ce18a13059a0aab53f5a9fc7e57388.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb0afbb04f5770aaa66fc669ae457b556a0c2d3f.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "比值与商"
       ],
       "answer": "比号与括号",
-      "explanation": "比号对应除号和分数线，不是括号。"
+      "explanation": "比号对应除号和分数线，不是括号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e698463ca3a0b86c661a9f9d8ca352efc6c10da3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bda0c60d45d3c899e947686603db599cd62df57b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2200725b9678e0f31aaa8539b4bce6e1a00ef4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe66bba14783958fb45c104f791a7ea1e323608e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f95d58b9f63bc01f66c73ca0d9d8fb3b1ab379.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06193316db5c3412b2fa84d61f3a034a5fce74aa.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "比的前项是 24，后项是 6，比值是 ___。",
       "options": [],
       "answer": "4",
-      "explanation": "$24 \\div 6 = 4$。验算：$6 \\times 4 = 24$ ✓。"
+      "explanation": "$24 \\div 6 = 4$。验算：$6 \\times 4 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a74bd103aad771c281801f6f62265d9f2d12747c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/836fda00aff1370faf8e2b869f62f35d5a26e032.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "把 20 厘米长的绳子按 2:3 分成两段，较短的一段是 ___ 厘米。",
       "options": [],
       "answer": "8",
-      "explanation": "总份数 5。短段占 2/5。$20 \\times (2/5) = 8$。验算：长段为12，8:12=2:3 ✓。"
+      "explanation": "总份数 5。短段占 2/5。$20 \\times (2/5) = 8$。验算：长段为12，8:12=2:3 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/896af6bde332d3bcf76e9cc628f6574f58c0099b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/742846b3c32ec6d3740099cc879490de3f983981.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算 $120 \\div 15$ 的结果是：",
       "options": [],
       "answer": "8",
-      "explanation": "$120 \\div 15 = 8$。验算：$15 \\times 8 = 120$ ✓。"
+      "explanation": "$120 \\div 15 = 8$。验算：$15 \\times 8 = 120$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a6ad249870c084ab78a70c40bf3162aed939c05.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65b4bf8be674e92b42f80882093e825b7fc49dca.mp3"
+      }
     }
   ],
   "knowledge": null

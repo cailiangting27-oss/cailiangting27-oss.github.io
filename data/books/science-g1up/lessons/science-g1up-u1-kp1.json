@@ -16,7 +16,11 @@
       "question": "塑料花不需要浇水，所以它不是植物。",
       "options": [],
       "answer": "对",
-      "explanation": "植物是活的有生命的，需要水分和阳光；塑料花是非生物。"
+      "explanation": "植物是活的有生命的，需要水分和阳光；塑料花是非生物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/5357aacb8386e365b40d0430c2a9cd15b7a3a10c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08a44bcd4f51fcb391f7f890ef378482f429767e.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "我们公园里的树木是活的，它们属于植物。",
       "options": [],
       "answer": "对",
-      "explanation": "树木有生命，能生长，是典型的植物。"
+      "explanation": "树木有生命，能生长，是典型的植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78c2f3086221efe49f51d233615139229f681d13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d507dfd04eb5806591bd8a098b52825d305e4e3c.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "纸蝴蝶"
       ],
       "answer": "小草",
-      "explanation": "小草会呼吸、生长、繁殖，是有生命的植物。"
+      "explanation": "小草会呼吸、生长、繁殖，是有生命的植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6882c7389e3179fec2d1bcb42a4a4a1671a1d308.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f5dab2ca05cb98aa04caef79fe652e918c71f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90ec779ad29ded51dac7f31aea77beaeb9be1a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1b2946625fda643d77de405f67ed96fff8cfd5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a084619d292b25c8caf056e66085db228a8bd0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f725bf34d2c41237f8bfbfcd31402fe95ba943a.mp3"
+      }
     }
   ],
   "knowledge": null

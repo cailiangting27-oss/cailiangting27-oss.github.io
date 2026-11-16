@@ -16,7 +16,11 @@
       "question": "小说一定要有波澜起伏的情节，才能吸引读者的注意力。",
       "options": [],
       "answer": "对",
-      "explanation": "情节是小说的三要素之一，曲折的情节可以产生悬念，使故事更有感染力。"
+      "explanation": "情节是小说的三要素之一，曲折的情节可以产生悬念，使故事更有感染力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c798a9f7e2b124ab73e41dfa96ffee3f46d07d3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9327162631ce4a6f74c3567fdc2171ac504afb73.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "《桥》的结尾揭示老汉和小伙子是父子关系，这在前面没有任何铺垫。",
       "options": [],
       "answer": "错",
-      "explanation": "文中多次提到老汉‘揪’出小伙子、小伙子‘瞪’老汉等细节，其实是为结尾父子关系的揭示作了铺垫。"
+      "explanation": "文中多次提到老汉‘揪’出小伙子、小伙子‘瞪’老汉等细节，其实是为结尾父子关系的揭示作了铺垫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/0463a773931d8336031167dc017780d0ff46126d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/713d528e0b4d5660765f98f8139640e3d5b8b8e8.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "故事主要由对话组成，没有环境描写"
       ],
       "answer": "层层设疑，结尾出人意料又在情理之中",
-      "explanation": "文章将父子这一关键信息隐藏到最后，给读者带来了强烈的心理冲击。"
+      "explanation": "文章将父子这一关键信息隐藏到最后，给读者带来了强烈的心理冲击。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b3c234e44912121f971d4b656d48f5a16855182.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25f88b96792a0d7159360ea82d14230be899e83c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c22d0ec23e06745bee9204d5a78e0592b1a1b9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/880613793d3abfb622cbdedf0bdc27049511fa98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6fd1c836f95387fb23f8f7453df127d5132afd0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6703259feafe784eb6d65a06c6c13e0faec1b55.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "作者忘记写后续了"
       ],
       "answer": "留下悬念，让结局更感人",
-      "explanation": "通过动作暗示，将善良的力量推向高潮，意蕴悠长。"
+      "explanation": "通过动作暗示，将善良的力量推向高潮，意蕴悠长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21499a2c2aa4384c0e2796842cc6c4ca5f0f898d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/5951fffd3cb729d7bae38e2d5c79a18c5597d066.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11f4cd6612e6efc7c74fddf456a08bffb27ea249.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/323cfd18d395080d96dadbd2ccd3a5d2444aab57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/001f9ffd3e09de469413b38ebedc2dc5747f23c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43a6f27d3e4eb11db07b9e688d514c2b5a900267.mp3"
+      }
     },
     {
       "id": 22,
@@ -77,7 +105,19 @@
         "水中"
       ],
       "answer": "老支书,像,一名,丰碑,矗立在,水中",
-      "explanation": "老支书的高大形象如同一座丰碑。"
+      "explanation": "老支书的高大形象如同一座丰碑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/2685d045ca2cbe98fd7b8d7a88176530688c7b71.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df8c6712960a3844530161a3597e18be310d0ad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/264feee28fad5b4666cf5312bff8c802276feab3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a72a28e89ea6dbf2bf4e9d9a29d58db8b11800b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed7e11a1f288d983acca505c0c86a4b513209845.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbf71e87b3e6e933b74bc0ee45bee0826e55eecb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c78adbaab636a4af47ddba4da532f737adf9fec.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -88,6 +128,16 @@
       "忽视文章前面的‘伏笔’，导致无法理解结尾的合理性。",
       "在分析情节时，只能概括大概内容，不能准确指出‘扣人心弦’的具体点。"
     ],
-    "tips": "尝试用‘起、承、转、合’的方法理清思路，寻找那个让故事‘反转’的关键动作。"
+    "tips": "尝试用‘起、承、转、合’的方法理清思路，寻找那个让故事‘反转’的关键动作。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/39/39c5ed9f5089ef52aa809559f525efd9dbbb2e46.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6b/6b047841a9fc6e5dcb940851252ee25fa3986f3f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/01/0131e9d833d437bdd5899fbb3d30cbf089c6b3a3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d8/d8bf3cc773ce85624fbc44159832640b7ae856ae.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/45393932fa83e804ed0376204d3bd759f05e0738.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0f/0f3c9e90d0b9d843477cde7356bca8cd0ce0cc6c.mp3"
+      ]
+    }
   }
 }

@@ -25,7 +25,21 @@
         "鼻子"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "nose-鼻子, note-便条, Coke-可乐, home-家。"
+      "explanation": "nose-鼻子, note-便条, Coke-可乐, home-家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fd20aa710b8d50ffdbfe71ea6510aec1d03f8dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f58c9adc75e11a9c4c108e39bb79bfb4435ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51048b7325d60e326d19a9cfbeff2577be1672e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1bc52c3b4d18b50d9188ceaf909705d85b91559.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e83249bd3ba79932e16fb1fb5100dafade9954c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea478686f627033b0be13230f352999bd081c454.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7de8177ce74b123ce9744fd680804140ceee9abc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9a5ec50fdf9b22d975e76f41a8b1f5de667fa1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4aac88471a3b1095ae5c8631082f737c7c2eb670.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/812f1f91cc2e24d0afdcacf13f0d6670697c4927.mp3"
+      }
     }
   ],
   "knowledge": null

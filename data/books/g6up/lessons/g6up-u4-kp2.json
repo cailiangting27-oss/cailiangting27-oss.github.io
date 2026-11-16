@@ -16,7 +16,11 @@
       "question": "比的前项和后项同时乘一个相同的数，比值不变。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是同时乘或除以一个相同的数，且这个数不能为0。如果同时乘0，比的后项变为0，比就没有意义了。"
+      "explanation": "必须是同时乘或除以一个相同的数，且这个数不能为0。如果同时乘0，比的后项变为0，比就没有意义了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad090ed9a997089e4ab37328c7bef8e231a86f3d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13c50aa3324edd7a068ca8ebd31fbd52cc04073d.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "最简单的整数比的前项和后项必须都是质数。",
       "options": [],
       "answer": "错",
-      "explanation": "最简整数比的要求是前项和后项互质，不一定非要是质数。例如4:9是最简比，但4和9都是合数。"
+      "explanation": "最简整数比的要求是前项和后项互质，不一定非要是质数。例如4:9是最简比，但4和9都是合数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6eebf171505dde845f7254830c66a9c0a304ad9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9dcfb8555c6fbb6d9e404d31903827c6851fa25.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "12:4"
       ],
       "answer": "3:1",
-      "explanation": "$1.2:0.4 = (1.2 \\times 10) : (0.4 \\times 10) = 12:4 = 3:1$。最简比符号不能省略。"
+      "explanation": "$1.2:0.4 = (1.2 \\times 10) : (0.4 \\times 10) = 12:4 = 3:1$。最简比符号不能省略。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46d0fb971ea178a9b305b92dd5d3404486864551.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8a85f7347d5a9b41b5540a002a89c78e83410f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dbf42f30ee2cc74e32b6fc0cb6ccd8fa713f87f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5ae109d3fb7466a37d0286878ce93750ba67def.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5f289ced8ee9239f4c0e9b845d5495e250e7094.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "扩大到原来的3倍"
       ],
       "answer": "扩大到原来的9倍",
-      "explanation": "设定原比 $1:1=1$。新比 $(1 \\times 3):(1 \\div 3) = 3: (1/3) = 9$。$9 \\div 1 = 9$倍。"
+      "explanation": "设定原比 $1:1=1$。新比 $(1 \\times 3):(1 \\div 3) = 3: (1/3) = 9$。$9 \\div 1 = 9$倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8bac833f44dc316a29023d24b15ce15fc4bb3c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a6d1dcdea9d8f1a0166d8a7b9d6a67cedcd04377.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bd8cd724b0cab568ef5af19ef4cd2ac276b84d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6341cf519f0507fb18be4ad533532c8d454afabe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56b22909bc55332020f8c9c6f31b6f8f5fbcdadd.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "4:9"
       ],
       "answer": "2:3",
-      "explanation": "$0.2:0.3 = (0.2 \\times 10):(0.3 \\times 10) = 2:3$。"
+      "explanation": "$0.2:0.3 = (0.2 \\times 10):(0.3 \\times 10) = 2:3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e67e168475cfd63200f993c63090cb94ef16fbd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cfd3fe96786fee707e2ce141f8ffa04d74003766.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3996b6ea950b55eb675068b6eb119dc2d2d09055.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9adeea088e0d8fbc89986452daacd1fb0309557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8f53cac4f15e08bac868d52e1d67cbbb43c4885.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/596cb37bb14560c0472bd8390012c25f56f0ce15.mp3"
+      }
     },
     {
       "id": 20,
@@ -86,7 +124,11 @@
       "question": "将 25:100 化简为最简整数比，后项是 ___。",
       "options": [],
       "answer": "4",
-      "explanation": "$25:100 = (25 \\div 25) : (100 \\div 25) = 1:4$。后项是4。"
+      "explanation": "$25:100 = (25 \\div 25) : (100 \\div 25) = 1:4$。后项是4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49c47a3cca99f7bff1272ed9c30024cf2baae863.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/052c2765963d941c7cb23410562f1d4d0a961030.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "化简时只在前项乘，后项忘记乘",
       "化简结果写成一个孤立的数字（结果必须保留比的形式，如 2:1）"
     ],
-    "tips": "遇到分数比，先通分去分母；遇到小数比，先扩位变整数，再求最大公因数约分。"
+    "tips": "遇到分数比，先通分去分母；遇到小数比，先扩位变整数，再求最大公因数约分。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6a/6a0e194c9e9883332a95e6c5654c7b499304bac9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/75/75c0a1e1a615f59f9e917812f6f2e108fac5f2e6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bb/bb1580637e3d9ce83f90cea7a403e4c3f6cf7c31.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/70/70251654780766a1f6a01c48c87fd08f466c9985.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a9/a9823e8c9a612c14aebc4e82271e5e6955b0bed6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/53/539e0878c26af2b52f675b85c4eaa37d4b8ee5df.mp3"
+      ]
+    }
   }
 }

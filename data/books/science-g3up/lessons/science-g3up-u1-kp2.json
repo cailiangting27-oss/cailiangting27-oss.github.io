@@ -16,7 +16,11 @@
       "question": "读取温度计数值时，视线应与温度计液面持平。",
       "options": [],
       "answer": "对",
-      "explanation": "这是温度计使用的标准规范，仰视或俯视都会造成误差。"
+      "explanation": "这是温度计使用的标准规范，仰视或俯视都会造成误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d3e3f6d0cb6a3292707c5e27684125efd4dbaf4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7dc165132c74a4071b5f4a5810d84e62dcd51028.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "120℃"
       ],
       "answer": "100℃",
-      "explanation": "在标准大气压下，水的沸点是100摄氏度。"
+      "explanation": "在标准大气压下，水的沸点是100摄氏度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72e477c7eb5f7e2a7a4055648f0cb2b0b1ce7123.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb4f219a3555d9a8580c873a479e262c88a3ed9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9e1d7deee9215bb301a736d8f18359b4223167f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d5985ff0c58ac1e83ee2f317a7ef60a2823ed16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e019c80c830b743a860ce821dca04ef15d7e3a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b562152f2d5924a1355814aefac0c0afe392a164.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "空气"
       ],
       "answer": "小水滴",
-      "explanation": "水蒸气是肉眼看不见的，“白汽”是水蒸气遇冷凝结成的小水滴。"
+      "explanation": "水蒸气是肉眼看不见的，“白汽”是水蒸气遇冷凝结成的小水滴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cd09cb385877e0ae8fa55c98425dad9f5575d35.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0e75a19e20170bfd3365e1d21bbf1f63385f4693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19f8166c8462949c04f627fbb06abe972bfc8ff9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/578731a04a192644c0fb9897e5a741d504c5abcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/4367abd988723480f1ff40de7742b2f394ff851f.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "当水沸腾后，继续给水加热，水的温度会保持在（）℃不变。",
       "options": [],
       "answer": "100",
-      "explanation": "水沸腾时的特点是持续吸热但温度保持不变。"
+      "explanation": "水沸腾时的特点是持续吸热但温度保持不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82dcc000fb6ba5207c86c123eeb20530f224b884.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64ecbaae0e9122b8777f1e6123fd751d9ab576f7.mp3"
+      }
     }
   ],
   "knowledge": null

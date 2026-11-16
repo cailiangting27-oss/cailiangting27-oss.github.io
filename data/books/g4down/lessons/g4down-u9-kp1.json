@@ -16,7 +16,11 @@
       "question": "假设笼子里全是鸡，如果实际算出的脚数比假设的多，说明笼子里一定有兔子。",
       "options": [],
       "answer": "对",
-      "explanation": "每多一只兔子，脚的总数就会比全是鸡的情况多 2 只。因此脚数变多说明有兔子。故说法正确。"
+      "explanation": "每多一只兔子，脚的总数就会比全是鸡的情况多 2 只。因此脚数变多说明有兔子。故说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26872588c7f2b04a83d671749911cd0773b745f6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a86f133caad41ac2cca77ae1bfc6f3c998ed63d.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "鸡有 2 条腿，兔有 4 条腿，鸡和兔的腿数之差一定是偶数。",
       "options": [],
       "answer": "对",
-      "explanation": "2 的倍数是偶数，4 的倍数也是偶数，两个偶数相减（或相加）的结果必为偶数。故说法正确。"
+      "explanation": "2 的倍数是偶数，4 的倍数也是偶数，两个偶数相减（或相加）的结果必为偶数。故说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd7ead30b08f87b7fbba2e18594bca9484bc9a4e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d989cbfbc020499aebef6f32aea7d0a3b0eeb5f2.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "已知鸡兔共 10 只，共有 30 条腿。假设全是鸡，则会有 20 条腿，剩下的 10 条腿是因为把兔子当成了鸡。",
       "options": [],
       "answer": "对",
-      "explanation": "假设全是鸡：$10 \\times 2 = 20$ 条。多出 $30 - 20 = 10$ 条，这 10 条是由于每只兔少算了 2 条腿导致的。故说法正确。"
+      "explanation": "假设全是鸡：$10 \\times 2 = 20$ 条。多出 $30 - 20 = 10$ 条，这 10 条是由于每只兔少算了 2 条腿导致的。故说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebb6fdb8b2307549077069c1cd933dd48772e29b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfff3ead3a6e2b90c276e6abee61e0f4ceceab12.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "6"
       ],
       "answer": "5",
-      "explanation": "假设全是兔：$8 \\times 4 = 32$ 只脚。多出 $32 - 22 = 10$ 只脚。鸡：$10 \\div (4 - 2) = 5$ 只。验算：$5 \\times 2 + 3 \\times 4 = 10 + 12 = 22$ ✓。"
+      "explanation": "假设全是兔：$8 \\times 4 = 32$ 只脚。多出 $32 - 22 = 10$ 只脚。鸡：$10 \\div (4 - 2) = 5$ 只。验算：$5 \\times 2 + 3 \\times 4 = 10 + 12 = 22$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c4a8e175513a3879e4af6b7239a2aab1ec2cee5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ee0c4846da732efb15774a96808acd5c59ab088.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "25"
       ],
       "answer": "10",
-      "explanation": "假设全是鸡：$30 \\times 2 = 60$ 只脚。少算了 $80 - 60 = 20$ 只脚。兔：$20 \\div 2 = 10$ 只。验算：$10 \\times 4 + 20 \\times 2 = 80$ ✓。"
+      "explanation": "假设全是鸡：$30 \\times 2 = 60$ 只脚。少算了 $80 - 60 = 20$ 只脚。兔：$20 \\div 2 = 10$ 只。验算：$10 \\times 4 + 20 \\times 2 = 80$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a571c27412df82299e09957841391969b36d425.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35cc913bf2cb942e109e8c78fb5f505bc98e3e12.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +118,17 @@
         "15"
       ],
       "answer": "5",
-      "explanation": "假设全是鸡：$15 \\times 2 = 30$ 脚。兔：$(40 - 30) \\div 2 = 5$ 只。鸡：$15 - 5 = 10$ 只。差值：$10 - 5 = 5$ 只。验算：$10 \\times 2 + 5 \\times 4 = 40$ ✓。"
+      "explanation": "假设全是鸡：$15 \\times 2 = 30$ 脚。兔：$(40 - 30) \\div 2 = 5$ 只。鸡：$15 - 5 = 10$ 只。差值：$10 - 5 = 5$ 只。验算：$10 \\times 2 + 5 \\times 4 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30cf2b5e91aa859e405b50c7aa587634380aee53.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/1446006ee33e625aa329d70e0b160ebe80513d1f.mp3"
+      }
     },
     {
       "id": 12,
@@ -102,7 +144,17 @@
         "35"
       ],
       "answer": "25",
-      "explanation": "假设全是小和尚：$100 \\div 3 = 33 \\frac{1}{3}$（不便计算）。假设全是大和尚：脚（馒头）总数 300。多出 $300 - 100 = 200$。大转小：每大换小差值为 $3 - \\frac{1}{3} = \\frac{8}{3}$。小：$200 \\div (8/3) = 75$。大：$100 - 75 = 25$。验算：$25 \\times 3 + 75 \\div 3 = 75 + 25 = 100$ ✓。"
+      "explanation": "假设全是小和尚：$100 \\div 3 = 33 \\frac{1}{3}$（不便计算）。假设全是大和尚：脚（馒头）总数 300。多出 $300 - 100 = 200$。大转小：每大换小差值为 $3 - \\frac{1}{3} = \\frac{8}{3}$。小：$200 \\div (8/3) = 75$。大：$100 - 75 = 25$。验算：$25 \\times 3 + 75 \\div 3 = 75 + 25 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c47d58937e4f6f1a7f278782c775ec74ab6de972.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/972a67c48192728a34979d9a35164c1295401b71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/2885232d9bd4dd3dbef8f6980b0d717d981d21f6.mp3"
+      }
     },
     {
       "id": 14,
@@ -118,7 +170,17 @@
         "蛇"
       ],
       "answer": "野鸡",
-      "explanation": "《孙子算经》中的“雉”在古代汉语中指野鸡。选：野鸡。"
+      "explanation": "《孙子算经》中的“雉”在古代汉语中指野鸡。选：野鸡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b40327be44f4fdb6b93fa5cbc52f3e2b03d1b374.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e2d3914a7d30479050e2da9d8bf0bb3070024d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b25c35f0c4592e12eab3f07b946b8d72264de32.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67bcd6875b71e391c3cc9268c8a6857129b7a8ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78684dde666a432c59a760fb50c3656a2479fc66.mp3"
+      }
     },
     {
       "id": 15,
@@ -134,7 +196,17 @@
         "70"
       ],
       "answer": "60",
-      "explanation": "兔脚：$10 \\times 4 = 40$。鸡脚：$10 \\times 2 = 20$。总数：$40 + 20 = 60$。验算：$60 - 40 = 20$ ✓。"
+      "explanation": "兔脚：$10 \\times 4 = 40$。鸡脚：$10 \\times 2 = 20$。总数：$40 + 20 = 60$。验算：$60 - 40 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddef42e322821c9531c8fc70ef528c05410dc2f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b37996a7c9f6650ad47a31b6f20818deaf9ed09b.mp3"
+      }
     },
     {
       "id": 19,
@@ -145,7 +217,11 @@
       "question": "笼子里有鸡和兔各 5 只，一共有 ___ 只脚。",
       "options": [],
       "answer": "30",
-      "explanation": "鸡脚 $5 \\times 2 = 10$，兔脚 $5 \\times 4 = 20$。$10 + 20 = 30$。验算：$30 - 10 = 20$ ✓。"
+      "explanation": "鸡脚 $5 \\times 2 = 10$，兔脚 $5 \\times 4 = 20$。$10 + 20 = 30$。验算：$30 - 10 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a00fd40d6f7bf6127f288da463e2f488af566d40.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cfaaaeb3af5a845ba83ef3fab7ab594acb386cf.mp3"
+      }
     },
     {
       "id": 20,
@@ -156,7 +232,11 @@
       "question": "鸡兔同笼，头 20，脚 56。兔有 ___ 只。",
       "options": [],
       "answer": "8",
-      "explanation": "假设全鸡：$20 \\times 2 = 40$。兔：$(56 - 40) \\div 2 = 8$。验算：$8 \\times 4 + 12 \\times 2 = 32 + 24 = 56$ ✓。"
+      "explanation": "假设全鸡：$20 \\times 2 = 40$。兔：$(56 - 40) \\div 2 = 8$。验算：$8 \\times 4 + 12 \\times 2 = 32 + 24 = 56$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11a069007a1832c6de2ce342f55e24964a535c22.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0ffb2d4bb5cb5a22e6f9807c5fd5eb1e6ed183f5.mp3"
+      }
     },
     {
       "id": 22,
@@ -167,7 +247,11 @@
       "question": "计算：$(48 - 10 \\times 2) \\div (4 - 2) = ?$",
       "options": [],
       "answer": "14",
-      "explanation": "先算括号内：$48 - 20 = 28$；再算除法：$28 \\div 2 = 14$。验算：$14 \\times 2 + 20 = 48$ ✓。"
+      "explanation": "先算括号内：$48 - 20 = 28$；再算除法：$28 \\div 2 = 14$。验算：$14 \\times 2 + 20 = 48$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/305578ee0f05cec06896a09fb22228081ab7c96f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23f1dba3e95c6fcbf5aa75da0742328dad5d64d5.mp3"
+      }
     },
     {
       "id": 23,
@@ -178,7 +262,11 @@
       "question": "计算：$35 \\times 4 - 94 = ?$",
       "options": [],
       "answer": "46",
-      "explanation": "$140 - 94 = 46$。验算：$46 + 94 = 140$ ✓。"
+      "explanation": "$140 - 94 = 46$。验算：$46 + 94 = 140$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d38275d4e1fa75f2756352762e5d6b2b1c46b0f2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/801afb7f734a303df1bd7de845dc1018fdb4c26c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -189,6 +277,16 @@
       "计算差量时单位不统一或找错对应关系。",
       "得出结果后不带入原题进行头数和脚数的二次验证。"
     ],
-    "tips": "记住‘假鸡得兔，假兔得鸡’。即假设全是鸡，算出来的是兔子的数量。"
+    "tips": "记住‘假鸡得兔，假兔得鸡’。即假设全是鸡，算出来的是兔子的数量。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5f/5fb681d9c95255fb05df7f993ac6611f41d9f8c6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bd/bda85579217092d94d2d0e40923ba048bc10f960.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b2/b26bf5fcd318b2dacb89d30bf38d5820e4beaa7a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4cde019154e20c4cb71d16bedb60b826f3b582a8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3a/3a88437b8a69ae51a5c15cfdf0b1c222d8683084.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f1/f14ace08caf482e43018be81a05e1fc6df4d701d.mp3"
+      ]
+    }
   }
 }

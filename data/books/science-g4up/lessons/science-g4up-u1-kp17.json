@@ -21,7 +21,17 @@
         "变弱"
       ],
       "answer": "变强",
-      "explanation": "振幅决定音量的强弱，幅度越大声音越强。"
+      "explanation": "振幅决定音量的强弱，幅度越大声音越强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6c818089c26482d8c13ab90525654572c00d080.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/883e0b16150ab2d547c0a686bf3b4be5f01a409b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3454d779027ed4ad9e1f69c6bba332dbe9e98f02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f2ff97dee0368dcf198e9b1f1fd8edc6281c31e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec3617d8aa7e256d34c21c9be775051779dd1c27.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cb6403c7661673270217cc9c3c89eeaeef16d38.mp3"
+      }
     }
   ],
   "knowledge": null

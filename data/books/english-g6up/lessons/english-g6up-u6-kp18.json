@@ -16,7 +16,11 @@
       "question": "If you are ill, you should see a ______.",
       "options": [],
       "answer": "doctor",
-      "explanation": "生病看医生，固定短语see a doctor。"
+      "explanation": "生病看医生，固定短语see a doctor。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a10c3784186e7c2a60ddc5cbec67e6faffd1bd3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24c3ff4e3805ecf1bd2f4da124a853413580920c.mp3"
+      }
     }
   ],
   "knowledge": null

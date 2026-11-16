@@ -21,7 +21,17 @@
         "西北风"
       ],
       "answer": "西南风",
-      "explanation": "风向标箭头指向的方向即为风吹来的方向。"
+      "explanation": "风向标箭头指向的方向即为风吹来的方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78c49072013883f5b7ef55b3aacb0be5c2338f4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c6c54066ddfb860611f069c188ebe623ed2b966.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20dcae8ba6ffb23efaeb01e8192a468f0b5d7507.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7d4464fbf6ace00f0c9927fe52084c7f48e5a49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe813ee1c00aa1f270fe0d393b1edd1066dbedc5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/edddf3f00e3d107e21de13cb21c6cd91612ad14c.mp3"
+      }
     }
   ],
   "knowledge": null

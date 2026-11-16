@@ -16,7 +16,11 @@
       "question": "描写人物时，通过旁人的反应来表现主人公的特点，这属于侧面描写。",
       "options": [],
       "answer": "对",
-      "explanation": "侧面描写即通过外界事物的评价或反应来烘托人物形象。"
+      "explanation": "侧面描写即通过外界事物的评价或反应来烘托人物形象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2ed4186d0fe285dd227c289a129a8f887d2a30b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/ccbf3b33a5bf80fb6a7fb832f5a050c39f48e713.mp3"
+      }
     },
     {
       "id": 14,
@@ -32,7 +36,17 @@
         "外貌描写"
       ],
       "answer": "声音烘托",
-      "explanation": "通过未见其人先闻其声的方式烘托其开朗特点。"
+      "explanation": "通过未见其人先闻其声的方式烘托其开朗特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8be827dba44cafacc06d4dc326c9aa973340a12f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2dc95f1f89627067a1b8b7909c757a912ef9d8ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/435fff592203fffed176e42d8a37eeac32493404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90402fdbca9742f5224a4a5719d16edf6a4c4ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7fcc659c1963839dba0a4b902f6535eff51e808.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d1761106f103b3f6b28e4f2782c2cc96f86e358.mp3"
+      }
     },
     {
       "id": 23,
@@ -49,7 +63,18 @@
         "曹小三"
       ],
       "answer": "大家都把,惊讶的,目光,投向了,曹小三",
-      "explanation": "体现曹小三（代表旁人）的反应，从而衬托刷子李的技艺。"
+      "explanation": "体现曹小三（代表旁人）的反应，从而衬托刷子李的技艺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24fb2bb5afc840b0cdb0843d80f80b792c75b01c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f81479c59e36f0ba0edd123c724559ccd896c227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d65d27bf0cbe4a509ebacb56d7e969c49870450b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/625f6b46e73e1b055882cc586d391573f690e993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cd8e7b0132dcfa140f7f59a22fb287c431fc4bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9433a66b20dcaf3a30d8e9b765d24e475d9efdbc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72bebd1fd2a82c39f7efef0efed025536e50088d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -60,6 +85,16 @@
       "反客为主，写了一堆路人的反应却让读者忘了主角是谁",
       "侧面描写与主角特点不匹配，起不到衬托作用"
     ],
-    "tips": "想象主角在做惊人之举时，周围人的嘴巴、眼神是什么样的。"
+    "tips": "想象主角在做惊人之举时，周围人的嘴巴、眼神是什么样的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/72/727a98aa6a45be5c2faebaec1f93533cba0c42b0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/76/760886944e1211f38c4541cc9453c9a71a5f4409.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/38/3890986c19cbee50462aaceea45d96b8dd555abf.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/14/14d1218fd67a1de83f4f198042eece6fe3e14a06.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0c/0ca4cb01138432f705b68e4e28f68feb44cc0fa2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/58/58164e5148694052bdf5817851a51b9c4488d21d.mp3"
+      ]
+    }
   }
 }

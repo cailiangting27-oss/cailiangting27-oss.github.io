@@ -16,7 +16,11 @@
       "question": "如果我们只用眼睛观察，就能知道杯子里的液体是酸的还是甜的。",
       "options": [],
       "answer": "错",
-      "explanation": "味道需要通过味觉器官（舌头）来感知，眼睛只能看到颜色。"
+      "explanation": "味道需要通过味觉器官（舌头）来感知，眼睛只能看到颜色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0bb7b8ed8f5113b3697529d0fab2ee289bad9fe.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0821397cf5d8e6d963ffe530cabdf2d9480c5d2.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "逻辑能力"
       ],
       "answer": "反应速度",
-      "explanation": "翻拍手游戏需要根据对方动作迅速做出避让或拍打，是反应能力的体现。"
+      "explanation": "翻拍手游戏需要根据对方动作迅速做出避让或拍打，是反应能力的体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b9d455b192e6bba10b99f0a530bd567a0a56f08.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1aa872e63c895930c8802ced433062f8f3bf2983.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89438575e91a9e9d38930f7878a495ec65c27189.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2150ca2f55235f63146ef0cb6ea48c32881d45d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5859e3832820ea0e6959a2a80759885774f52caa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbf1b1b2c1b228510e3daf414d25477fb864c917.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "听觉"
       ],
       "answer": "视觉",
-      "explanation": "闭上眼睛即关闭了视觉通道。"
+      "explanation": "闭上眼睛即关闭了视觉通道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bf975002eed04ca3ff6ccc4545b5212cedcda29.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30b4addaef67ebc550418249b61d01b689d25224.mp3"
+      }
     }
   ],
   "knowledge": null

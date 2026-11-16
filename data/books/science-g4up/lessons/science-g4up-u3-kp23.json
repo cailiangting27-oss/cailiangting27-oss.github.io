@@ -21,7 +21,17 @@
         "最大"
       ],
       "answer": "0",
-      "explanation": "使用前需要进行调零。"
+      "explanation": "使用前需要进行调零。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d162e8e777e10d9de24f085626cc322ddfacaea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed690ebb15cc5b89ebafddca2a027d67881e5ec8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da9d036b84276a4e25b17809aded032190f9820f.mp3"
+      }
     }
   ],
   "knowledge": null

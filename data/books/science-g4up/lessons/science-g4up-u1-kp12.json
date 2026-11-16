@@ -21,7 +21,17 @@
         "越弱"
       ],
       "answer": "越低",
-      "explanation": "伸出长度越长，振动部分越长，振动越慢，音高越低。"
+      "explanation": "伸出长度越长，振动部分越长，振动越慢，音高越低。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a338d998a1330bda0edfb1c80538a6ebb60fcdf7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5ec62a138e740f91eb7b11db5c52b20aef7942b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1259f64f2e01d922efc55eaa40d4892f9a4f818f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f282ecc20fe2633f46afbe599a53ff6215d56555.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b5144cbee4b699df1ba5bd3eb1d06f541c209de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ef145b46af33f771e19c3e4e04b62105bd10faa.mp3"
+      }
     }
   ],
   "knowledge": null

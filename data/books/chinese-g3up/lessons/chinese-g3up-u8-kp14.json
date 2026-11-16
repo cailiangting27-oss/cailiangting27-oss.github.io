@@ -21,7 +21,17 @@
         "不仅……而且……"
       ],
       "answer": "虽然……肯定……",
-      "explanation": "根据《灰雀》原文语境，小男孩虽然嘴上不承认，内心里已决定改正。"
+      "explanation": "根据《灰雀》原文语境，小男孩虽然嘴上不承认，内心里已决定改正。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8e555705d3d98d181557f311a4284e698625aa9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/7174f742505fcb920b4e90b022e6658121030f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a55720a25018b71bd4ff48ec836218d119347f81.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/182f688d315c1923b7c2c3d5c8e8ec2adb40a2b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c91a74b2cbd87cdbfd5af472caa0e9d1d548e42e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80990558a0501246f759f197ccaf7e97ecdf552e.mp3"
+      }
     }
   ],
   "knowledge": null

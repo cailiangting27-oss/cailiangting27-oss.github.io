@@ -16,7 +16,11 @@
       "question": "敲击盛水量不同的玻璃杯，水越多，发出的声音越高。",
       "options": [],
       "answer": "错",
-      "explanation": "水越多，振动质量越大，振动越慢，发出的声音越低。"
+      "explanation": "水越多，振动质量越大，振动越慢，发出的声音越低。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b9862943258019e7c92dbc5ef8e8ecac0cf1353.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9e7a1e79a5198c8a5071338848dd7b5bdb5991e.mp3"
+      }
     }
   ],
   "knowledge": null

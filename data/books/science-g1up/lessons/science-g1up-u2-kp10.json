@@ -21,7 +21,17 @@
         "闭上眼想象"
       ],
       "answer": "站在树下仰望",
-      "explanation": "实地观察应在保证安全和不伤害植物的前提下进行。"
+      "explanation": "实地观察应在保证安全和不伤害植物的前提下进行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6bdd307ee25fe542159749295f66255fa3b6f85.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b89578498ddce67186fb62bacba752eeb42189bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2ee239b15b293f19757aacc09c7e1fcb8fb2b758.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb0ec2c550fe5003a76e9590f7a78c579d2e1474.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25e560596182e3d37de588061392d43bf4d3d66e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d568f3eb82486e305825efa29b1e9027357ad425.mp3"
+      }
     },
     {
       "id": 19,
@@ -32,7 +42,11 @@
       "question": "我们在校园里观察了（___）个不同地点的植物。",
       "options": [],
       "answer": "1",
-      "explanation": "由于一年级实操性强，通常以一个具体区域（如花坛）为起点进行深度调查。"
+      "explanation": "由于一年级实操性强，通常以一个具体区域（如花坛）为起点进行深度调查。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3491fb95d1452d4c55ff3047d303ebd3268b472.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb67e9b698e2d495a8ad8494850bcb8d2e937278.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "采摘花草回去观察",
       "只记录植物而忽略环境"
     ],
-    "tips": "观察时要从远到近，从整体到局部。"
+    "tips": "观察时要从远到近，从整体到局部。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5d/5dcbb4a2d6e849638c0ec90d5f3c74f92b35be78.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/77/776b6aaa7028da12565f3f0a23679574fbd97716.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/04/04ab8fcea7310b4723d3af832272a4f43724e42d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c0/c0e64c9c48d88db38815bbded0ffc7b9c9ab1b6d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/61/61b5802175eb4fbb8ff9e7ac51eacc27fbc1758a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/51/519546e7e42f698143ba139bb0cd1a41a5df03a0.mp3"
+      ]
+    }
   }
 }

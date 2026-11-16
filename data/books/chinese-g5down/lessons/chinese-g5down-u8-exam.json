@@ -16,7 +16,11 @@
       "question": "《手指》的作者丰子恺是我国著名的漫画家、文学家。",
       "options": [],
       "answer": "对",
-      "explanation": "丰子恺以散文和漫画著称。"
+      "explanation": "丰子恺以散文和漫画著称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8bb6babc7cf4517d1ca44abbe2c775ab7e4f65e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0540693d41e60a45cad5b688d05d36ef16fa5077.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'草铺横野六七里'中的'横野'意思是风平浪静。",
       "options": [],
       "answer": "错",
-      "explanation": "横野指辽阔的原野。"
+      "explanation": "横野指辽阔的原野。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f51db29dce495eaa4a348c69d43ac7a2dbb14da9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bc1992117b7178c4af33ae19757c872e8482d9d.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "杨氏之子听出孔君平是拿他的姓氏开玩笑，所以才礼貌地反驳。",
       "options": [],
       "answer": "对",
-      "explanation": "听出了弦外之音才能进行机智的回应。"
+      "explanation": "听出了弦外之音才能进行机智的回应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e63a7f0ef5a99dde66aadc241036c165f03e3d23.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/56be790159807b5a173bb51fd3699989a1c7ce56.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "《手指》中无名指和小指通常只在丝竹管弦或兰花指中表现出优美。",
       "options": [],
       "answer": "对",
-      "explanation": "这是文中描写手指作用多样性的体现。"
+      "explanation": "这是文中描写手指作用多样性的体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0beeee9ca7cf9bf72465fa9d1c6b54f6f5023a3e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df95fa03c62b0d008356c3cc9bb30fad8bb9fbc8.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "夸张"
       ],
       "answer": "拟人",
-      "explanation": "赋予食指人的动作和思想。"
+      "explanation": "赋予食指人的动作和思想。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/254c405c03a8127bb5edd8584acfdb08435c7509.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17fddaa7554ab3dc06e655ef81904c053190e4d7.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无趣"
       ],
       "answer": "早了一百年",
-      "explanation": "文中原话体现了作者充满童真的自信。"
+      "explanation": "文中原话体现了作者充满童真的自信。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62e3deedafe00039a4da61890589193c9ad3f725.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc29366db9af581b2e66a358051dd85c4dcaaec9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/924453580b4d703a25112543752429137e7df153.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fb53a393e5ecf4e57436fbf213ca3d4078f8195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cbc23b7395f14f88bea62b4699df1d42e95ca64.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3907e1048d7c7d35e43383170b103385f6f125d6.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "画家的姓名"
       ],
       "answer": "画中人物的表情和动作",
-      "explanation": "通过动作和表情捕捉漫画的讽刺或幽默点。"
+      "explanation": "通过动作和表情捕捉漫画的讽刺或幽默点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f34bfcd4820cd74dabcd0fa37a7bb91956c99590.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da77c0dc99850efbd27e8a37c2aafa7ddcdfca80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/943315ee3e7ec758dae1c134cf65686dec06bb2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db98c9d99997725fa631de220dd2febb16cd298e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/921b4c2bc85a5d11c5a272ae6f375d2b5ca82079.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43916e07420520bc35104f1d23227de81ecd289b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "无所事事"
       ],
       "answer": "天真机灵",
-      "explanation": "作者持欣赏赞美的态度。"
+      "explanation": "作者持欣赏赞美的态度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7eb97d860007a56b5cd819895b69d1f4e225b00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f2ed0ad90c3017a5a39b5e03ed4f849ecb021c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/104af0e3a6f4adc99f876b7ec43a030cca0dc71a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fff59d0af9b6e2b091250008fa9f857c947d14b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52676a3597e501ef49ac01537c8181c342887225.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/541fbe6855330bad7ff9f8299733ace4e11725f4.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "孔君平"
       ],
       "answer": "杨梅",
-      "explanation": "孔君平指着杨梅说的，所以此代指杨梅。"
+      "explanation": "孔君平指着杨梅说的，所以此代指杨梅。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/771ed4cf63afdb2428cdacc7ef0726f0f0662dd1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f8eeaeee6189abe40c5b312629a9b18e9965418.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d524a2baaa5d4aab71d76131ce772aa2146c8e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a4155303aa3aea4afd80c14c2d8895295838809.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/598062b0219dec5c54a62b9aba0dd649e7d92578.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79e3632dfaad09843ef28922804128b3940404f9.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "难道五根手指要团结一致？"
       ],
       "answer": "五根手指怎么会不团结一致呢？",
-      "explanation": "反问句加强肯定语气。"
+      "explanation": "反问句加强肯定语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e1151f7b17c66696fca456ee27728085159cb846.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea2000b3a78fedcb5826198d2876aef235fe7fdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c6f132faf12f3cc16a7f4e56bb990566bff3a07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3e86711e63257ba7a2e8f81da8ea4fb81db057.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/04721a3d43802b6cc156e312839cfd4306c0d428.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1368ea6b434edffabf60fb461268cf1e64bdce5.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《手指》最后一段告诉我们，五根手指只有（ ）才有力量。",
       "options": [],
       "answer": "团结",
-      "explanation": "团结就是力量是本文主旨。"
+      "explanation": "团结就是力量是本文主旨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6dc44c9c88aefb5a1881652089a6bad577fccb44.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9485fac4e0ef68840fa5c2c12f6cb4a267bebc19.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "'牧童归去横牛背，短笛（ ）吹满地。'",
       "options": [],
       "answer": "无腔",
-      "explanation": "考查《牧童》原文填空。"
+      "explanation": "考查《牧童》原文填空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad360a3a9ef278cc2b596bf4c63c5c71aa6fbca4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f40fb1544ef03f58a46d15de01674cbe54ea6af.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "忙不过来"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "单元重点词汇练习。"
+      "explanation": "单元重点词汇练习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af30d1cef86eed42b1c3528afc4caf3b55f45b46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4441b17d0428e7a83ecce0fb82a1b292bbd5475.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/384c3427034af150d36e62df8178465a3c210876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc4e4a9ee565a2df426e5c5aa1c6c3a115e8ed0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/147d308102a38aeb85fd6a6076eeed0b01d0a5c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b578e1512e5a6b9976a150beb2b2905912b67df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60859d09729eb540954dd75eba040a40e9479984.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c61955f1c1e60b745855882173c527aebec56d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20ec56a22ff69d0b7956a5c4d055cbaabed49c85.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40d2d81a848c718612aab6428f126a02e6ccc45b.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "肯吃苦"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "细化对课文内容的理解。"
+      "explanation": "细化对课文内容的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bca2ae4a799e288dcfcfe32b0f0271d9cd4676e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/0668b1d0f42af349e4543e4e96c154eb7c78de02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7fd12dbd48e0329e67a1e5bc95bc6ad77c9428.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a34811f757b55201a42dca0423dee8362cd6d82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dae11d0e74f48c7cdcd2f5243a851cc7f6fefd17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d03bcd1b3d269ccb8415a620eae7a97d58188ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a72da27bd1182f213e9cc7e20900b23c73e683e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd255910a9e123c443bfa7d74f772c38a853863d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/caad5f4c44c3ef596b7594bd940af827f5394707.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bfae4dbb2f1945ccda21a28add49b84ff9b50e9.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "过程"
       ],
       "answer": "九个月里,完成了,人类的,进化,过程",
-      "explanation": "根据《童年的发现》中对应科学知识的描述。"
+      "explanation": "根据《童年的发现》中对应科学知识的描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/074e9bc871550ad895506e47e8122fb36490b52a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01f8a34ec9abc951f2e31a834e3c1fb6994559ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0a03d40e60fb7f69eb3a90d2cc843d1c8ab6cf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76f457a78df12293f938f2c79d61a7a5be6700e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/732bb6f501792121fe57d80ced402ed79be46062.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/842cce91480ed68545f78e9d0a81d52b0314e68a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77884a765502d965c035a3f05b1241e9d0c0fc0f.mp3"
+      }
     }
   ],
   "knowledge": null

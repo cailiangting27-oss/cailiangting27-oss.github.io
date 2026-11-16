@@ -16,7 +16,11 @@
       "question": "舌头在口腔消化的过程中只起到搅拌食物的作用。",
       "options": [],
       "answer": "对",
-      "explanation": "舌头主要负责搅拌食物并将其输送到食道口，同时协助感受味道。"
+      "explanation": "舌头主要负责搅拌食物并将其输送到食道口，同时协助感受味道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23b3c800cc3a8f6459dbcb0cfe6223fb6cbfd939.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8ef0b286799d707e285b62d74a0f876b00c8d24.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "槽牙"
       ],
       "answer": "门齿",
-      "explanation": "门齿像菜刀负责切割，犬齿撕碎，臼齿磨碎。"
+      "explanation": "门齿像菜刀负责切割，犬齿撕碎，臼齿磨碎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c92979db3360d8d6ec5eb3b16fd9173d3b424835.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2f31f713d3a1463790a57f8d761a0508241126.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/114e0c7f2983ac2410164a0c42f4814f1458ff9b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7131e8b2a2f48c007bf058da214fc200d202d65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6d12d3ea2c0fa6230fba37a884a5132671186ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ee9f4d99daf7fd4c7233837ce42aad0ee9b1c86.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "维生素"
       ],
       "answer": "淀粉",
-      "explanation": "唾液淀粉酶能将淀粉转化为有甜味的麦芽糖。"
+      "explanation": "唾液淀粉酶能将淀粉转化为有甜味的麦芽糖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23ecf3e45038636b8d6ee23c6713cfdcbda19dd0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e54cf75a93c14820b9a4e801ed8519deb26bd351.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35a3b3cd712367674a251d164945073e33984e39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7e13999a9722bf3a9e49fe3b4369dc0de5f95d5.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "一个成年人的牙齿通常有（）颗左右。",
       "options": [],
       "answer": "32",
-      "explanation": "成年人牙齿数量通常在28到32颗之间。"
+      "explanation": "成年人牙齿数量通常在28到32颗之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/837a7e8777fc9cf6ed27d6cd0bbdfe6e4861610e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b30dbcc1cb77e1bbf5d5dc96ddd3602f93a9c82d.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "'tomorrow' 的意思是'昨天'。",
       "options": [],
       "answer": "错",
-      "explanation": "tomorrow 的意思是明天，yesterday 才是昨天。"
+      "explanation": "tomorrow 的意思是明天，yesterday 才是昨天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/34fe01e58a146b612f6a629995a2fd5831921948.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/885c8b3d0d7522134cecb1c1bcf206d930f95b32.mp3"
+      }
     }
   ],
   "knowledge": null

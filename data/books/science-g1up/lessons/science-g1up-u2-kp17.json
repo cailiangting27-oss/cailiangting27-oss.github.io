@@ -21,7 +21,17 @@
         "松树"
       ],
       "answer": "睡莲",
-      "explanation": "睡莲属于水生植物。"
+      "explanation": "睡莲属于水生植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00c3b2c6e38fd205df84dd3e50296865f48cef9c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/8575751134a5910c7d31a6335d8884db389a4617.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03dc9363283a8ed58efedebc37602fb1155a4247.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/353825cb8403e32783033c09df89b9c0f8c0c024.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4ff8e41091033b9ee2ee90f3ab510189251bc562.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a07c3fa5fe3762cd1cb3436bc48062aeca1f043.mp3"
+      }
     }
   ],
   "knowledge": null

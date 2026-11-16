@@ -21,7 +21,17 @@
         "暖和—寒冷"
       ],
       "answer": "忽然—突然",
-      "explanation": "忽然和突然都表示事情发生得快。"
+      "explanation": "忽然和突然都表示事情发生得快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4a3111f8fe989bd391bc14131d90932f1202274.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/60938c0a8e84b0d0b39acaa5ea9de05c421a08fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d8e93c24e57da515e6e06646e04314c205c5876.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd1c3eaf98fbc2e170f2c90972ddadd94948deb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/578633c00797bd99b55a359ce7519eafa5810490.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/680c4fc619939fb1038260a0d9e19d4b47c694b8.mp3"
+      }
     },
     {
       "id": 20,
@@ -41,7 +51,21 @@
         "精心选择"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考查对本单元重点动词意义的理解。"
+      "explanation": "考查对本单元重点动词意义的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b200b5e447382b1bb763b14816c8950ba81d2b1d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1375012f2db23b682acc0563b140a9e08b0600ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1b5eb96d39e3814c2c3744dcb9160bf35eb5973.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88598b908de90cc2b6b11747eea3f24a83f76183.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a144a24c3d1958eeb6a82c983df4d78f880474f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fed8d5b2f76d3ca1d07f4af7638a78757bf473d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a67f2c3cee45f8faba6d75fe394f046bdcea3147.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/412cb9e689483c09303d3220acd48ccb2e10df65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48156af6840f514940f46aecb20233b15fe94f0a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd41e2852a6753d9392e0b3aca1e3b25158f9e50.mp3"
+      }
     }
   ],
   "knowledge": null

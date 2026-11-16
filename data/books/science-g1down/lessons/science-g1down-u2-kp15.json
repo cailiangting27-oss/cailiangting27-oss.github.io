@@ -21,7 +21,17 @@
         "厚厚的冰块"
       ],
       "answer": "厚厚的冰块",
-      "explanation": "蜗牛喜欢阴暗潮湿的环境，冰块会冻伤蜗牛。"
+      "explanation": "蜗牛喜欢阴暗潮湿的环境，冰块会冻伤蜗牛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d62d1b9b28961286471b69d9198994e1974e41f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf2ef74197f92e16b99eddbea8c1d8ef42336ee9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2d30475ed54e6ab22a2d66917daa31562ca4a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b64804bd886c51e7dab0680f2f08cf871aa11c2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57c499703267f4b4d6a4d6ba71ebe587ddbc8993.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54a56fa32691d7f9b6356bccd5f7e53925116049.mp3"
+      }
     }
   ],
   "knowledge": null

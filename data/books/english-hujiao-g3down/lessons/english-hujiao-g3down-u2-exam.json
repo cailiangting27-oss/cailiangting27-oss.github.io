@@ -21,7 +21,17 @@
         "teacher"
       ],
       "answer": "father",
-      "explanation": "爸爸 father。"
+      "explanation": "爸爸 father。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f69691fe0acdcbb94052a65ed04a71acbf8f7115.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/32c8bbff09c356265a96fb8385cfa141c9d92f76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5afc8df8baab874c14a0f776641edd16d00591f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d67cca5aaed6ead2e1c1c6b6e1d20a3d14c9622f.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f487bd87b7ae79e27438c96a66564c9e596d5a12.mp3"
+      }
     },
     {
       "id": 6,
@@ -37,7 +47,16 @@
         "are"
       ],
       "answer": "has",
-      "explanation": "第三人称单数。"
+      "explanation": "第三人称单数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6a5d532bcf0e5562e575f4924c7b3fcbc80d16.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ]
+      }
     },
     {
       "id": 7,
@@ -48,7 +67,11 @@
       "question": "介绍家人可以说 This is my mother.",
       "options": [],
       "answer": "对",
-      "explanation": "介绍家人。"
+      "explanation": "介绍家人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f8ca3f391c90a80fc590ee4f7057dab9a37b829.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88cadc315e9cb5fdec452ffa5c5c1a298882254d.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +82,11 @@
       "question": "描述家人外貌要用合适的形容词。",
       "options": [],
       "answer": "对",
-      "explanation": "形容词描述。"
+      "explanation": "形容词描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dce223c61ac93a8743f1b8368e284f799c92bb24.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d395199e86d521ec9f16a9894f5f921379ac2e8.mp3"
+      }
     }
   ],
   "knowledge": null

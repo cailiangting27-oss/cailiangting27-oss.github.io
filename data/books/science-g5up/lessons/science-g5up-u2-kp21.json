@@ -21,7 +21,17 @@
         "裂谷"
       ],
       "answer": "高山",
-      "explanation": "板块挤压会导致岩层隆起形成山脉，如喜马拉雅山。"
+      "explanation": "板块挤压会导致岩层隆起形成山脉，如喜马拉雅山。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe13b78682bdc5f1fcc7b5d6c3c7f8e5308329fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17b7d656712ce926c0634bbd6b52232465f9e8ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/057e958b237f22179df8b04b448f212eba929b60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2795f7fe81515c37338bed89d5e1fba96932d28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7883ab4f7ce7b94333dabae1ace18d38efac1fed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/614333930e24f7d39e8af6777675bf1e80b9caaf.mp3"
+      }
     }
   ],
   "knowledge": null

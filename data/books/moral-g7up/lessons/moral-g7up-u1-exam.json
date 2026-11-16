@@ -32,7 +32,15 @@
         "一起隐瞒"
       ],
       "answer": "拒绝并劝其认错",
-      "explanation": "友谊不能没有原则。"
+      "explanation": "友谊不能没有原则。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/78/784019a70c078e81386e08c25db469216295285a.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 7,
@@ -48,7 +56,16 @@
         "只在意他人评价"
       ],
       "answer": "用发展的眼光看自己",
-      "explanation": "发展地看待自己。"
+      "explanation": "发展地看待自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/604977c609605c1ff89f58653313cfaa591a0083.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7ede2c9d47c991491e61e134e63f78c3eef96d01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fab819f648e4c9630998ee9282710158036c0a7d.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 8,

@@ -25,7 +25,21 @@
         "充分流露"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "词语与其释义的一一对应。"
+      "explanation": "词语与其释义的一一对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2d77bd9b7bec9d6afb34b022a977276c89b0af5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/181e0105241fcf0cd4cbfb98da822e5967fecd72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1687b94f521afea5ba54a11b4323f3c88c6fdeb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ac4c6ccdda30ac7228f176fbd88403074fa0774.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86214140bda4ab1ef66689f7dfb5c2b4c103a672.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/019fc617dc96a3648464c109722e6cd9d3f99b1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7729017d8830f133e4937cd8d66add1c162d438.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc769ef3b526440c997aa8904e88c09f6c20d945.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/5496e69e7a688b77b9a48753f07f386bf0a85996.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b83e096a7a4f60ac23be39282e8442fe00109e4d.mp3"
+      }
     }
   ],
   "knowledge": null

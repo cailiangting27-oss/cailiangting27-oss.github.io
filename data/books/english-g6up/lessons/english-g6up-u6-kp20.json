@@ -25,7 +25,21 @@
         "watch a movie"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "寒冷穿大衣，伤心看电影，健康多运动，生气深呼吸。"
+      "explanation": "寒冷穿大衣，伤心看电影，健康多运动，生气深呼吸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/169aec1812590a40497f90b8a96d04da0aab73ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc4c771eb0646c465a7cf38db59c894dc358e859.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b467b8da59508d0ce931131f74e5a3a8c1c87b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89ac16040d9e2a524e48841d9dd633b0ad4cfdeb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f135230e3e825c42aa6d8f957244ff88c1dd344b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1e3f89073e0b674f5113ccd8df57c45a6b699c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dd5c661eae9728688b0ccb3c3de1b94db33337e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/4763d130c8a58b0c62bea931d62aa1cebc35efef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/956aa5502f869ab21ce309ed7c4e731f00255e24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb8e76a5481d99c07b4260b3ec56ef0e6427f43d.mp3"
+      }
     }
   ],
   "knowledge": null

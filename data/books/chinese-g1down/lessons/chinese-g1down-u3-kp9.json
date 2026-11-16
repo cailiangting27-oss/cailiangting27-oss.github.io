@@ -21,7 +21,17 @@
         "走字底"
       ],
       "answer": "足字旁",
-      "explanation": "这些动作都与脚有关，所以是足字旁。"
+      "explanation": "这些动作都与脚有关，所以是足字旁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b9f7ee68eee3e08f3f87e8dc1129036e04ced01.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/3501ab6794218b90dabdd7e04b77698c0ff1cb17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9a639546494f06f4f8606b2cdce451f6cfe797.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28e52d09931310fa0fe48ce40e3c3279db0bf7c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/737f6a5583e47ed6a60ae64672a8422be4a03cc0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1aaecbb3bb51dae570e9250dfb5d47cbbab8c29d.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -23,7 +23,19 @@
         "在海难中"
       ],
       "answer": "在海难中,哈尔威船长,是,一位,真正的,英雄",
-      "explanation": "组合成合乎逻辑的叙述句。"
+      "explanation": "组合成合乎逻辑的叙述句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57e07e96f0352b80f04aed863a6e476cdc542dd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f1b4ef30b6d03559432bfe80e02f67cfcc68ffa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa12604ca675aeb7e8b00c026883f4182a2a03b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f796185e6034ffe16be559432fe97148b76f607.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d4aba4491d5b448553f5f420b1d59ba2b328b3c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21d5c65d23fcc8ab585a62dd104435d652b7e940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef6b311a4c200e73aac2d34f2960cf765b61d8ec.mp3"
+      }
     }
   ],
   "knowledge": null

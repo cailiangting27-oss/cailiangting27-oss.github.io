@@ -25,7 +25,21 @@
         "走"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "Stop-停下, Wait-等待, Go-走, Slow down-减速。"
+      "explanation": "Stop-停下, Wait-等待, Go-走, Slow down-减速。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dce776e0c95671c2296c2ab5fbb2a75f8ad691b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e253470c876ee6d5c720eb777aeb82d4c26e28f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34dbd5c4c8a64801891d960b57133767c3104fe7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e0b45f2a456e8db55f08d7b65e87593a3e9a140.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5601a411aad6d11ad1ce6ba397475a8858e8a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25d23b92b2259e974a52890a48276eccf2461232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9504c30feea1a458bc7d43169727350b775dd99e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03d3e15398c55dad5a879f334839e5ed76776be9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0851681d6802b6abfbee9e2ca1e7dfd1eead3b82.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a6af89f1193dae89ee1e9324feac28950c6cc1e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -37,7 +37,15 @@
         "go home"
       ],
       "answer": "go to bed",
-      "explanation": "go to bed 睡觉。"
+      "explanation": "go to bed 睡觉。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3de76ff621bd9808fd61f41152246f28aa0b26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed84094e15d7829de8ff9e5395929b610a09a68c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f2d515e5af85306ababa38cd3ed56008f949ac8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d912e4b4a5d0aa94ca44751dfef0a986ee0b16f.mp3"
+        ]
+      }
     },
     {
       "id": 4,

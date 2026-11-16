@@ -21,7 +21,17 @@
         "对手工劳动的辛苦"
       ],
       "answer": "对乡村生活的热爱",
-      "explanation": "‘独特、迷人’是作者对乡村生活极高的评价，体现了喜爱之情。"
+      "explanation": "‘独特、迷人’是作者对乡村生活极高的评价，体现了喜爱之情。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/21bfe3f008c8283164c5326eab2ca3e3fe19c781.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/42/424a96efb6e8a0d5d77838b96f91b1562f386996.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d69232e8b5a966cc22a5aa601a48b5745800fc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2639c82cbca068a3707d45fc682465b0d4181dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97913a16a2bbf38290ec562a6b4ed850fabb5c5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5006c1e7947def54e425e1ef649bbe1cd70b636b.mp3"
+      }
     },
     {
       "id": 18,
@@ -32,7 +42,11 @@
       "question": "《乡下人家》作者通过门前的（___）、屋后的竹等，展现了美丽的画卷。",
       "options": [],
       "answer": "瓜架",
-      "explanation": "课文开头描写了乡下人家门前的青红瓜架。"
+      "explanation": "课文开头描写了乡下人家门前的青红瓜架。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf1b8fb1e478333845fcc4851e468908407c56ab.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa549c63eefd2e8328cc62051fcac17e6aa60376.mp3"
+      }
     },
     {
       "id": 21,
@@ -52,7 +66,21 @@
         "童趣无限"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "根据课文主旨进行连线。"
+      "explanation": "根据课文主旨进行连线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f96699c59d7850de8cc571c7308b01e47b99de2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/16bde81402f8785ed0a905520b095e4659f8a5cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d08f93f72d4721f1d5d3f84c0b6a4fcc1e2b0c87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05045ae6acceb25992b6df189c195dd1b11e88c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25fde219f66efb188e42ba862d1b9a1865fe5204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7aa3f2c681fa1897415a635a0eea919c1686429b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e380dcc666ce850b25ce986838d3abcbe48bd862.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82c1ad87dc823b2a144bb1990ebf6558f3304433.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae6dab21ad7bfe4764f9e96af5d8cd207036e505.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00d813fac5be1e81be68e63d738e0febe53fbb78.mp3"
+      }
     },
     {
       "id": 23,
@@ -69,7 +97,18 @@
         "迷人的风景"
       ],
       "answer": "乡下人家,不管什么时候,都形成,一道,迷人的风景",
-      "explanation": "依据课文总结概括句的语序排列。"
+      "explanation": "依据课文总结概括句的语序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f55f1042507ed218c959cba97136e8a467073eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f6d0ca40b25d4af578fac8ccf3dfc080287efa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8eaeb6b43648deb5851552d82366c36150dc0b50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b0a21a9971118c1af9c04be27e880b0c71f4c78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc6a914769396967aba06fdedc9b176cc07902d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acea25f8ee7a326cf7c47cef3b5dd58190dd0949.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d2b753149a8c576a23fc841d415fbc0f4af06f1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -80,6 +119,16 @@
       "只能看到琐碎的景物，无法用一句话概括作者的主要观点",
       "分不清作者是在赞美乡村还是觉得乡村生活落后"
     ],
-    "tips": "先找每一段的‘主心骨’句子，再看全篇最后一段作者是怎么总结的。"
+    "tips": "先找每一段的‘主心骨’句子，再看全篇最后一段作者是怎么总结的。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b5/b5b04b3f7423b80a96ae5eec6ebaa42e7d65c868.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/38/3890fe4485becf22bd4a5aad78386ccca7702e79.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9d/9d91da2a6b89601ea650fd4b12adcefd2c9846f4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e0/e08ae31a33fe810ec8848f3ad3aa7c9a80a240a2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5d/5dc34cc2311cff136be539ad4940f57406f26750.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ec/ecba6d375eff168dd7ae5aa09574abe7f8c50259.mp3"
+      ]
+    }
   }
 }

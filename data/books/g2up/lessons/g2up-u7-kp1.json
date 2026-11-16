@@ -16,7 +16,11 @@
       "question": "钟面上有12个大格，每个大格里有5个小格。",
       "options": [],
       "answer": "对",
-      "explanation": "钟面分为12个大格，从1到12；每个大格平均分成5个小格，全钟共60个小格。✓"
+      "explanation": "钟面分为12个大格，从1到12；每个大格平均分成5个小格，全钟共60个小格。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc60269cce797fcdb243e3ae2f1b401db0cca115.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38f58bc5cac6627e2923bd6c5dd41b7f6aa04699.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "时针在4和5之间，分针指着6，这时是5时30分。",
       "options": [],
       "answer": "错",
-      "explanation": "时针在4和5之间说明刚过4时还没到5时，所以是4时30分，不是5时30分。✓"
+      "explanation": "时针在4和5之间说明刚过4时还没到5时，所以是4时30分，不是5时30分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23cc391ef0e9aabc081c0a0fc08d217d731ae150.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/89e9d458bb2c0c43916755c75d1d4a0e7f50d71e.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "9时15分"
       ],
       "answer": "9时45分",
-      "explanation": "分针指向9时，代表经过了 $9 \times 5 = 45$ 分。✓"
+      "explanation": "分针指向9时，代表经过了 $9 \times 5 = 45$ 分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55c887cdeaced6a2a00eb5aaa49375f974905c70.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8cfd45ab44471e7769f21b7cb27dd6ff0193cdad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e38d00106665833dbcda1a6d961e47ccb2a81d06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a72442747d94d33675f8705ccd98ede500e47dad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/8727e7e0236e21502fd16a0c62c092f4dc4ed874.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a3c500781747c7f35094a2bc90733c6a8cae0e7.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "60"
       ],
       "answer": "60",
-      "explanation": "时针走一个大格是1时，分针走1圈是1时，即60个小格。✓"
+      "explanation": "时针走一个大格是1时，分针走1圈是1时，即60个小格。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed8882a8778ac1cc5a52e93b28106e67dfc65e73.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ea189ee9d4b9de7fa0bb3bbb82500d05cac3a4b.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "7时零5分"
       ],
       "answer": "7时零5分",
-      "explanation": "在不满10分的情况下，读法上习惯加上“零”字。✓"
+      "explanation": "在不满10分的情况下，读法上习惯加上“零”字。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/eb91863b4d0cc997ce06769dbde20656b2c06b12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9ae13de06c47488878a0a4aecf02319fbe4881b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6fa7679d2a94ca42db72401f09b130e5f8e8dfc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc61ca16d45f8cd53b10281619f5f39064c35d50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e3c57b1dbf240c02d921aa8c03dfd69aa25b88b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96583029a0ab89537e9ba91cff4710e9b7d0582a.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "12:10"
       ],
       "answer": "10:00",
-      "explanation": "分针指着12是整时，时针指着几就是几时。✓"
+      "explanation": "分针指着12是整时，时针指着几就是几时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93391ffbd47605fc7ccf0d62467f439a482bf529.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c39ef999828eac3c2e52928a48637ac39370f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d427cd5f6ce7166030771618e763a33494765f1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3255a2bd932759a6e202affd608e0fbf2a1e3bf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/4774972b795d866f6c0c87dc28881348f23a8884.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ce69a835f30e40d63b80a3e5bc2b78b841c8e5e.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "时针在 6 和 7 之间，分针指着 8。这个时刻是几时几分？请写出分钟数：6 时 ___ 分。",
       "options": [],
       "answer": "40",
-      "explanation": "分针指着8，表示 $8 \times 5 = 40$ 分。✓"
+      "explanation": "分针指着8，表示 $8 \times 5 = 40$ 分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04db1f244e77ff060afb9cbce1687859933c4157.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b059a3355ff07b2d36b7ce707ab47e0353f8bb6e.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "5 \times 9 = ?",
       "options": [],
       "answer": "45",
-      "explanation": "五九四十五，对应分针指在数字9时的分数。✓"
+      "explanation": "五九四十五，对应分针指在数字9时的分数。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65776d415d4b5c2a06455c5902c535185c3109cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bb1497afde9a6b92a9214df2413e15d2dd634ca.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "将时针看错，如 4:55 误认为 5:55，因为时针很靠近5。",
       "分针指向“1”时读成1分，实际应该是5分。"
     ],
-    "tips": "“时针走过几，就是几时多；分针指几格，五五加起来”。"
+    "tips": "“时针走过几，就是几时多；分针指几格，五五加起来”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f4/f4cc200440120d57c35ed5f6a37b9f2575b62b95.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/39/39cd7afb7bc4584dedbef5a7e19ee7f5edd2f3b4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/35/35008b6c2a05f5c442c73bbbcf57fe72acc582ee.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ff/ff7ab1df92f42485484b3251627b193548c8b860.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/18/18bdd9ec3bfc6cc32fe07fa3375d398e95263e2d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/25/250ffeaf8afa6b063a3ebb2fd129a07bda110e6f.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "What is it"
       ],
       "answer": "Help yourself",
-      "explanation": "Help yourself(请自便)后接Thanks符合交际情景。"
+      "explanation": "Help yourself(请自便)后接Thanks符合交际情景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10e1732de6ded8fd1866769510a88ca72259869c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/440536496118fdf943d3beea34068132e8ca7638.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6374ccef4f6ab699993d1f67e2a06accca8593.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/873aacad1b220f23194e09a147cc454d593c7e4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/186ce1cada10fa890b3473bf66a0a664733451d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/867ad61dab2636f0948e098c073919fa8ee2337f.mp3"
+      }
     }
   ],
   "knowledge": null

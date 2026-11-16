@@ -21,7 +21,17 @@
         "成功脱险"
       ],
       "answer": "陷入险情,寻找出路,运用装备,成功脱险",
-      "explanation": "这是探险故事常见的逻辑顺序。"
+      "explanation": "这是探险故事常见的逻辑顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b350f0d6c5feb8ac3275de32273cdca879e63b74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a41e3f02c1c0ffe36412f17752bcfa383d1a73a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef7bcdac2289eee251febe5b74d6b87d3c633bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57eebed95849a0b8f7a07416e4b853eaa74268e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8982770d785bfe6aae39492abca2ed67c4d16e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32b089eb9f8152cbf9b43fcee731beb014a57a6c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "脱险情节过于玄幻或纯靠运气，缺乏思维含量",
       "装备在故事中不发挥作用，只是摆设"
     ],
-    "tips": "写作前列一个“环境-困难-对策”核对清单，确保情节有逻辑性。"
+    "tips": "写作前列一个“环境-困难-对策”核对清单，确保情节有逻辑性。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/92/92c4f0f84d065bb0aa89487515fc5af97f126def.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/be/bead1c3f5186e0db3a1c3e857e2139dd7a58da57.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f4/f480f6ff6f9886ee77a4247834edbe702db3509f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/11/1144815123ce3006edc60301a22945e6713d934f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/36/3656b3a1961ac2f4d8470133fef7f51abf300465.mp3",
+        "https://api.clthuanxie.cn/cc-audio/10/1071b2880d4db9f1f95cce6e84fdb34753411a3e.mp3"
+      ]
+    }
   }
 }

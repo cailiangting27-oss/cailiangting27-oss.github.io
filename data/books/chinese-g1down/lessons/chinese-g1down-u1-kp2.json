@@ -16,7 +16,11 @@
       "question": "介绍自己姓“胡”时，可以说“古月胡”。",
       "options": [],
       "answer": "对",
-      "explanation": "“胡”是由“古”和“月”组成的，这是常见的拆字介绍法。"
+      "explanation": "“胡”是由“古”和“月”组成的，这是常见的拆字介绍法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5362a7a00600f8190af069f84587867284c1d22.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69ff2041f91c27c19b24aeca6897c10370e46faf.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "村"
       ],
       "answer": "李",
-      "explanation": "儿歌中提到：木子李，口天吴。"
+      "explanation": "儿歌中提到：木子李，口天吴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e14b5119ded31a46bf0d498f1053ac762de0de0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/020ff479d2df7b0e8cc73de2df59c89fcb28d04c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd2c6d477a0d6e7a9a1dc7823be87627291f329.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d99b78761634976fb4cd9767a814b315477c26d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/4211adc5ccc6296e3ba94b6ba0d767d951258200.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fcbbe188018c34d3132ededb3f2f0c8cce479ed.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "叶"
       ],
       "answer": "吕",
-      "explanation": "两个“口”上下排在一起组成了“吕”字。"
+      "explanation": "两个“口”上下排在一起组成了“吕”字。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8d63994af4518312143f045de0bafd97b56b075.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3c708eba41ac63186be946d44d990b687942684.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b722ab4152c046f9d7a9b075028537bfe537d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d38533298bd32d3ca216f342d8313b6f87a96d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f0475e759afb69748c4fa574a3a5314cedfe45e.mp3"
+      }
     },
     {
       "id": 17,
@@ -59,7 +83,11 @@
       "question": "“弓长”合起来是姓氏（___）。",
       "options": [],
       "answer": "张",
-      "explanation": "“张”字由“弓”和“长”组成。"
+      "explanation": "“张”字由“弓”和“长”组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2166d908f0e1a8ca423b292c334f40be0eddf742.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5cdecf437711cbfeb6937c4e743bd3b2684afc51.mp3"
+      }
     },
     {
       "id": 20,
@@ -79,7 +107,21 @@
         "弓长"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "木子李，弓长张，古月胡，口天吴。"
+      "explanation": "木子李，弓长张，古月胡，口天吴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03f87224e627e053b46a99316aaa8c10fff697ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd2c6d477a0d6e7a9a1dc7823be87627291f329.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9273cc90ea1860fd7a6c628429f1d98edefea20c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91e3def7adccca7b26a90fc13a96454f4cfc93d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27bfa7e71a5645d2c049875224f474eb0dccd305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeb42174f9b9fcbab5173a65aea3a11afa711411.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1a7d643a396bd1f79050e8d44a88fd8d24180d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6f79ed99dc4f3ff135c99b444f6c57c7b8c7840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a96a0c715d43981d91a8fe52a8b64ccb3facada.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad7bac26cd840527391e2f8b0085d5646a7a00e8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -90,6 +132,16 @@
       "将“张”拆成“立”和“长”",
       "复姓（如上官、欧阳）误认为是两个人的姓"
     ],
-    "tips": "可以玩“你说我猜”游戏，家长说出拆字口诀，孩子快速说出对应的姓氏。"
+    "tips": "可以玩“你说我猜”游戏，家长说出拆字口诀，孩子快速说出对应的姓氏。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/36/36ac530a34507ce7fe044a614106a035676bcf89.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/17/17e9f362ffaccc109f1d0d501abaeaeec0e4e684.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/08/086999920458f7a395a97daf0c9ec648792e9e51.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5b/5ba57ac1f622434057db0138239232eb0aeb797f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/70/70e171a4758c9fe4d3e2fdc7412dbab4e3751654.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d6/d6ddbf593a250134717d971a612541750a1ad80a.mp3"
+      ]
+    }
   }
 }

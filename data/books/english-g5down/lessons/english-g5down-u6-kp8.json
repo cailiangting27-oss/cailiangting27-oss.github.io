@@ -21,7 +21,17 @@
         "No, they do."
       ],
       "answer": "Yes, they are.",
-      "explanation": "含有are的疑问句，肯定回答用Yes, 主语 + are."
+      "explanation": "含有are的疑问句，肯定回答用Yes, 主语 + are.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/856325e53a88799036d1473001b4ca087decb161.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78463fe881d35cfd0a30cf62378725807db84ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78916ebe805c38edffdd3d10033bd99d2b5d0130.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/282e453c56feaba36788f57ff91367bde8f3de95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3d3a0b8d357aac32ea7b914786589fe58846202.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf500033cd7822d57e58dcecb2f5179faab3583f.mp3"
+      }
     },
     {
       "id": 23,
@@ -37,7 +47,17 @@
         "together"
       ],
       "answer": "Are,they,playing,together",
-      "explanation": "疑问句。他们正在一起玩吗？"
+      "explanation": "疑问句。他们正在一起玩吗？",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6e3e9f5716299cdc266840b56c2f455f7a6278a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/270d2a86aa5f4be70520d43f93d1091eef28efa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1fdd46d8d229558fa889e1610ec4ca9adc25328.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5863973edc6707da45b52e49857fecbebe4ce969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9034ff9e2b8f00b47a44dfaf3c2a37176c101e2a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02f0885a04035cd3770bab405998b3107e829d59.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "回答时be动词和主语不一致，如：Are you...? Yes, I am. 错写成 Yes, I are.",
       "忘记将动词变成ing形式。"
     ],
-    "tips": "回答时注意‘人称对调’，问you答I/we，问he/she/they则原样回。"
+    "tips": "回答时注意‘人称对调’，问you答I/we，问he/she/they则原样回。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ea/ea39967e00cc95022ca0342d15dba68a430d56ab.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/24/24cf55e86fbedf55d00155eac76455aa11c8fb7c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d5/d560b3454584a519ccb4289261074d7bc794e44e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a9/a909c66882b4a2cf5198b7ad142be70df1d0b9f9.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5c/5c4d881b40bdad3d5fb6f03e18744be361f9aec0.mp3",
+        "https://api.clthuanxie.cn/cc-audio/09/09c75185bfa16f5ad9322c87e550e7d8ba625014.mp3"
+      ]
+    }
   }
 }

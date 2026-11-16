@@ -16,7 +16,11 @@
       "question": "介绍职业时可以说 'My mother is nurse.'。",
       "options": [],
       "answer": "错",
-      "explanation": "单数职业名词前通常需要冠词 a 或 an，应为 My mother is a nurse。"
+      "explanation": "单数职业名词前通常需要冠词 a 或 an，应为 My mother is a nurse。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/577e505a37cdd9dd13c0ecb1be0126d9682c0265.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de5e3f66136afb3a477b853b8cf96131004b3dd5.mp3"
+      }
     }
   ],
   "knowledge": null

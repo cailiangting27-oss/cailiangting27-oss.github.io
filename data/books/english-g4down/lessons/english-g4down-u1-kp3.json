@@ -16,7 +16,11 @@
       "question": "Do you have a library? 的否定回答是 'No, I don't.'",
       "options": [],
       "answer": "对",
-      "explanation": "Do you疑问句的否定回答使用don't。"
+      "explanation": "Do you疑问句的否定回答使用don't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49cb9760aa6be86dfc7011ce3e3324a07ef30462.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/8873d6b3b5df67645f2fd86c19f75d44ae2800b9.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "is it"
       ],
       "answer": "it is",
-      "explanation": "Is this疑问句的肯定回答用Yes, it is。"
+      "explanation": "Is this疑问句的肯定回答用Yes, it is。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f82a437e2528042c39afde562fbb3579abd0427b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/79d4a897f4ac92025c786232d40400655f6264c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/841565690879dab40f00ff14f77ad6d5e6ee4e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87fe39902c741c1c961cf07b2b8d438e9a07e157.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02b52b38de95a13e2d0d9033b3c42726d8d8ae34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d280b53dc883369c1b4a8f2ec136e3b299eeb12b.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "No, we do"
       ],
       "answer": "Yes, we do",
-      "explanation": "根据后一句'We have one'可知回答应是肯定的。"
+      "explanation": "根据后一句'We have one'可知回答应是肯定的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4f4b580bd89eea808ac507f6691460bad4a2adf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/816c52fd2bdd94a63cd0944823a6c0aa9384c103.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32abc9f55d7edba51038641e213261f7d90d0953.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a55730fde9ae4c6d273ecc6f6cd54d0eac5b1948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16434b57f949522f71ce0957f2de143940c04218.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4ddbc3fd6b63ea4e0c828168542e89421f2e92e5.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "Is that the art room? No, it ________.",
       "options": [],
       "answer": "isn't",
-      "explanation": "一般疑问句Is that...的否定回答是No, it isn't。"
+      "explanation": "一般疑问句Is that...的否定回答是No, it isn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37f1acb984be89a06f6a4d0d2ac402979eeb58cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/daec5bdbda247b86e70e0f14f955176490a5d170.mp3"
+      }
     }
   ],
   "knowledge": null

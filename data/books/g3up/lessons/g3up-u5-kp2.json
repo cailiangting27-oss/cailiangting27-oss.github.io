@@ -16,7 +16,11 @@
       "question": "求 12 是 3 的几倍，列式为 $12 \\div 3 = 4$。",
       "options": [],
       "answer": "对",
-      "explanation": "求一个数是另一个数的几倍用除法。$12 \\div 3 = 4$。验算：$3 \\times 4 = 12$。"
+      "explanation": "求一个数是另一个数的几倍用除法。$12 \\div 3 = 4$。验算：$3 \\times 4 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8dfb58c0c26f73273f1bf7b2e3ab6c5b6539218.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc0fd85963b0bdf169414b1f1d042c2330e4322d.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "75 倍"
       ],
       "answer": "3 倍",
-      "explanation": "$15 \\div 5 = 3$。验算：$5 \\times 3 = 15$。"
+      "explanation": "$15 \\div 5 = 3$。验算：$5 \\times 3 = 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f61173a6a2dae833ea626bc6e0237346609dc0ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/646d0ce33c072bd791d3eec0a102a05edced8ee7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/0645c98e3157f87bf89abca14965f8ddf90dae00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d3206f571fd106ac2c35f860bf32b593d2f3cdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c193bf1c8bc4388a68111c47bc0e63f59c6d6aed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/956d7d0f82377f0194c660950078445ee1ecb75d.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "144"
       ],
       "answer": "4",
-      "explanation": "$24 \\div 6 = 4$。注意倍数不带单位。"
+      "explanation": "$24 \\div 6 = 4$。注意倍数不带单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a2841aa2bdb219d53ddbee38ffdf0f06138c3b4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7320828c9153b2a9848d6bc45d3544236b22fc48.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84ff672038eea85c1715efb5cdfcc5be7fc4bc4a.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "6 朵"
       ],
       "answer": "8 朵",
-      "explanation": "黄花 2 朵，其 4 倍是 $2 \\times 4 = 8$ 朵。现在已有 8 朵，正好是 4 倍。"
+      "explanation": "黄花 2 朵，其 4 倍是 $2 \\times 4 = 8$ 朵。现在已有 8 朵，正好是 4 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2f1ff2d017571b6e7a8ed2961c8f55b9b0e7b77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/ccb7a30cc5b1ad0e95f105ababb65cb88e2dc7e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a56ca98f321c830008e1dc7164a97dd1424dc3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2e26372d578548c9654315d0d14b21ef9630284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a893995989f19986b67a193445ad96a381da3f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/815d93c25a54b9866373dd0975a92e7463b3e1ea.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "4 元"
       ],
       "answer": "8 元",
-      "explanation": "两人总和 $20 + 4 = 24$ 元，一人 12 元。$20 - 12 = 8$ 元。虽然是倍数单元，但此题考察份数意识。"
+      "explanation": "两人总和 $20 + 4 = 24$ 元，一人 12 元。$20 - 12 = 8$ 元。虽然是倍数单元，但此题考察份数意识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05c86070abb7dfa34bc5ced0b9f8f1889b7cf757.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/205c28306ea68259a7b15a70969dee6f282f2e41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81ecf6917c8c60a099742b2b92a6739ff8ccccc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a57540f9bfcd8674b779dc46ff2f156c4e369c99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/936ff3164b6b701129e14eee7fc42374ea5de5d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4501bc968332d70189be3e4adf50b9ebe0b4a994.mp3"
+      }
     },
     {
       "id": 16,
@@ -96,7 +140,17 @@
         "54 个"
       ],
       "answer": "2 个",
-      "explanation": "$18 \\div 9 = 2$ 个。原来 6 个，现在需要变成 2 个。"
+      "explanation": "$18 \\div 9 = 2$ 个。原来 6 个，现在需要变成 2 个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/7617087afdf5be07f56e313dc592baea8d169aff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/cafa72f1cbc614775a87f7e350953d0938788ae9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0a2fbd6571ec6738e2b213a8408bd4c95cef25c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e2a891c5152e5a78569ab3b57eefa96f64bc92f.mp3"
+      }
     },
     {
       "id": 17,
@@ -112,7 +166,17 @@
         "18"
       ],
       "answer": "5",
-      "explanation": "$15 \\div 3 = 5$。验算：$3 \\times 5 = 15$。"
+      "explanation": "$15 \\div 3 = 5$。验算：$3 \\times 5 = 15$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df538e1dbf73cc1a174077acf0d164d5ab641362.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7af84390d65ad4969689f17336f3a02c8fd71a62.mp3"
+      }
     },
     {
       "id": 21,
@@ -123,7 +187,11 @@
       "question": "停车场停了 32 辆小汽车，8 辆货车，小汽车的辆数是货车的 ___ 倍。",
       "options": [],
       "answer": "4",
-      "explanation": "求 32 是 8 的几倍。列式：$32 \\div 8 = 4$。验算：$8 \\times 4 = 32$。"
+      "explanation": "求 32 是 8 的几倍。列式：$32 \\div 8 = 4$。验算：$8 \\times 4 = 32$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27272c694494dce8d537bcf3f0bcda6295d84452.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/729d9b2b8a971832872916ab8833fdbc476e4e65.mp3"
+      }
     },
     {
       "id": 23,
@@ -134,7 +202,11 @@
       "question": "计算：$42 \\div 7 = ?$",
       "options": [],
       "answer": "6",
-      "explanation": "$42 \\div 7 = 6$。验算：$7 \\times 6 = 42$。"
+      "explanation": "$42 \\div 7 = 6$。验算：$7 \\times 6 = 42$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99f5fd74d50ed6acd116116dfffcc6d570fa8a94.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a816901f6c331f0292bba53cf4cc1490870e14d6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -145,6 +217,16 @@
       "计算出来的倍数写了单位（如：4个）",
       "分不清谁除以谁，错用较小数除以较大数"
     ],
-    "tips": "一定要用“大数除以小数”，且结果不写任何单位。"
+    "tips": "一定要用“大数除以小数”，且结果不写任何单位。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4e/4e55926b41e1997661342c3a04abdd44aea7bdd4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/be/be8741276e0fcaa77466c99fb1b9cbcba6da5a32.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bb/bb8d90fe4433458c10a13a8a6f0bdbcaca446b84.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e7/e7c9a062e2b3908c75a574e2938bf26d06104f3f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/58/5824077ab351712ed693d3ba513d1841491b7d09.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7d/7d4dd0ba4f9dec3a64e23fbb1b40c93e5bdfbd61.mp3"
+      ]
+    }
   }
 }

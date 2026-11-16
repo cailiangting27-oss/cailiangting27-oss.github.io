@@ -21,7 +21,17 @@
         "随意堆放"
       ],
       "answer": "均匀分布，重心居中",
-      "explanation": "均匀分布货物可以防止侧翻，保持重心稳定有利于航行。"
+      "explanation": "均匀分布货物可以防止侧翻，保持重心稳定有利于航行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/573b6759e0504cff2ca5bcac1c31790dafc3b5b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39be33a79e2bee9b20c504037877d1e9ace9301f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67802e969585edea248fee673468aff1c3e4e25a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49b9df767d155c7fff0bb2c23e6376a3de00eb3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b21560bdfe04003ec6454f883d448ec530903b8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01ba6a28acac078899d8844ace5057dcd658e864.mp3"
+      }
     }
   ],
   "knowledge": null

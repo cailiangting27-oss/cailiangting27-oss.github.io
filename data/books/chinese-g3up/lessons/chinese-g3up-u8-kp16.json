@@ -21,7 +21,17 @@
         "帮我看看这道题。"
       ],
       "answer": "打扰了，老师。请问您现在有空教我这道题吗？",
-      "explanation": "请教时要使用礼貌用语并征得对方同意。"
+      "explanation": "请教时要使用礼貌用语并征得对方同意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f1e1994be92e2aae12a7c427167851b9c4e4bdb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b89362fc3992e95925b559bdeb58bd426ac127c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddecb52e16bf7beb5871dc83abf02a4bb9305fd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ceb18cdf29e1e19f2a335da53b556de1212d72e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27bf9de134c59836e3bddb7b25396202a51189e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef359f731bd8b81d49a36c342add86fdf324c32f.mp3"
+      }
     }
   ],
   "knowledge": null

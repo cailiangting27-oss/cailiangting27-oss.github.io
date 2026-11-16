@@ -16,7 +16,11 @@
       "question": "在计算 $38 + 5$ 时，先算 $8 + 5 = 13$，再算 $30 + 13 = 43$。",
       "options": [],
       "answer": "对",
-      "explanation": "这是进位加法的拆分法：个位相加满十向十位进一。$8+5=13$，$30+13=43$。验算：$43-5=38$ ✓。"
+      "explanation": "这是进位加法的拆分法：个位相加满十向十位进一。$8+5=13$，$30+13=43$。验算：$43-5=38$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25cbf670acc0724f0e531d1d311d454b8a4f8974.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a55dc8b76c7c067b0c899374972bae8612f53d41.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "$76 - 8$ 的得数个位上是 2。",
       "options": [],
       "answer": "错",
-      "explanation": "个位不够减，$16 - 8 = 8$，个位应该是 8。$76 - 8 = 68$。验算：$68 + 8 = 76$ ✓。"
+      "explanation": "个位不够减，$16 - 8 = 8$，个位应该是 8。$76 - 8 = 68$。验算：$68 + 8 = 76$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e4c3206b3f3122cd9a9e4e5a5d06347e6c60884.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09cf2ee993c2ee1de71984a1e855542ec8d61dc7.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "$40 + 30$ 的结果比 $80 - 20$ 的结果大。",
       "options": [],
       "answer": "对",
-      "explanation": "$40 + 30 = 70$，$80 - 20 = 60$，$70 > 60$。结论正确。✓"
+      "explanation": "$40 + 30 = 70$，$80 - 20 = 60$，$70 > 60$。结论正确。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c4218caf82449462cb891d86a6e1a49ae662199.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8effec7fe87e78917a15a73c21bc69c1bf4d792c.mp3"
+      }
     },
     {
       "id": 7,
@@ -54,7 +66,17 @@
         "70"
       ],
       "answer": "88",
-      "explanation": "列式：$68 + 20 = 88$。验算：$88 - 20 = 68$ ✓。"
+      "explanation": "列式：$68 + 20 = 88$。验算：$88 - 20 = 68$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/72a18327dbc2225978912c4acef201312d8712cf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b37f6ddcefad7e8657837d3177f9ef2462f98acf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3e9c0b600c6c8f8600246c80345b73959238264.mp3"
+      }
     },
     {
       "id": 9,
@@ -70,7 +92,17 @@
         "10"
       ],
       "answer": "1",
-      "explanation": "最小的两位数是 10，最大的个位数是 9。$10 - 9 = 1$。"
+      "explanation": "最小的两位数是 10，最大的个位数是 9。$10 - 9 = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/216d1d413f132563b276e0a8ed131aff65f906d1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4debcc15bee4571a1977be9f7d5d8a9860109957.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "无法确定"
       ],
       "answer": "10 + 20",
-      "explanation": "含有小括号的算式，要先算小括号里面的。"
+      "explanation": "含有小括号的算式，要先算小括号里面的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b6fda08ebbbad43ae5bed97a4a3ef87f4c3d90c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1000c7bcef0bb5245d04b39e06282b48605ce978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d0e28270c1e7bef2a9249951797ee5527007c4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/126721c51b906c7390e7605b36930a21a21386c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f9b563561e109e9dd4db7ba22dfeeb12ce8cd7a.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "40 + 20"
       ],
       "answer": "40 + 20",
-      "explanation": "$96-50=46$，$30+19=49$，$25+25=50$，$40+20=60$。$60 > 50$。"
+      "explanation": "$96-50=46$，$30+19=49$，$25+25=50$，$40+20=60$。$60 > 50$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/daa6c8c1618c43613fbd2f9da340c245bf9e5cb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57e60d96509fb2d284bdc326291f0afbfdb9356d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/781fc087649d3ddeefeee9996cd7834d8f509b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e0335db15663f4189c5879fc9c8b0d91ff17c90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17b8e8ec076f796268b3f1dbc35134c2d5e154be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b026127ffac995cd764257d7b81e545cc6771e5.mp3"
+      }
     },
     {
       "id": 15,
@@ -118,7 +170,17 @@
         "30"
       ],
       "answer": "38",
-      "explanation": "3 个十是 30，8 个一是 8，合起来是 38。"
+      "explanation": "3 个十是 30，8 个一是 8，合起来是 38。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf182b3c9969b3aab14b7f019f00364041032da3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7d/7d7116e23efef7292cad5e6f033d9a962708228c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78711b316f155568fa52130c939bef7369a2368b.mp3"
+      }
     },
     {
       "id": 16,
@@ -134,7 +196,17 @@
         "100"
       ],
       "answer": "95",
-      "explanation": "规律是依次增加 10。$85 + 10 = 95$。"
+      "explanation": "规律是依次增加 10。$85 + 10 = 95$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18c64573ce781ff5d948d3c960a2703fe7d0644f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e63fd3e77796b102589b1ba1e4441c7982e4132.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77eae72c75181bef3a6f532cffa091eb7dec6154.mp3"
+      }
     },
     {
       "id": 19,
@@ -145,7 +217,11 @@
       "question": "78 里面有 ___ 个十和 8 个一。",
       "options": [],
       "answer": "7",
-      "explanation": "78 的十位数字是 7，表示 7 个十；个位数字是 8，表示 8 个一。"
+      "explanation": "78 的十位数字是 7，表示 7 个十；个位数字是 8，表示 8 个一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f84012d5fc760ccd35a947ad43eee34737a8db5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa01a67f8803d3f18fe5d10e70ed5e5906c3c0ca.mp3"
+      }
     },
     {
       "id": 20,
@@ -156,7 +232,11 @@
       "question": "一个两位数，个位上是 6，十位上是 4，这个数是 ___。",
       "options": [],
       "answer": "46",
-      "explanation": "十位是 4 表示 40，个位是 6 表示 6，合起来是 46。"
+      "explanation": "十位是 4 表示 40，个位是 6 表示 6，合起来是 46。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f905024b92f3bf46fc5d22ec0be44ec545a1cb33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98c98825c045c33c016699e4dfaa6bb6d48c7568.mp3"
+      }
     },
     {
       "id": 22,
@@ -167,7 +247,11 @@
       "question": "计算：$50 + 20 - 40 = ?$",
       "options": [],
       "answer": "30",
-      "explanation": "第一步：$50+20=70$；第二步：$70-40=30$。验算：$30+40=70, 70-20=50$ ✓。"
+      "explanation": "第一步：$50+20=70$；第二步：$70-40=30$。验算：$30+40=70, 70-20=50$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7419fb6805a4fcce8e02e0a9573e37ba969957a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa65b8cd1394d20ca62000baa2e2738dfe065db7.mp3"
+      }
     },
     {
       "id": 23,
@@ -178,7 +262,11 @@
       "question": "计算：$15 - 9 + 30 = ?$",
       "options": [],
       "answer": "36",
-      "explanation": "第一步：$15-9=6$；第二步：$6+30=36$。验算：$36-30=6, 6+9=15$ ✓。"
+      "explanation": "第一步：$15-9=6$；第二步：$6+30=36$。验算：$36-30=6, 6+9=15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4d4c070073bc96f84dfb0ddc95c85082365c14c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81aa4e99f448126517d991837e847068cdbe1d0e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -189,6 +277,16 @@
       "进位加法时忘记在十位上加 1",
       "退位减法时忘记在十位上减去借走的那 1 个十"
     ],
-    "tips": "计算进位退位时，可以在数字上面点个小圆点或写个小 1，帮助记忆。多练习凑十法和破十法。"
+    "tips": "计算进位退位时，可以在数字上面点个小圆点或写个小 1，帮助记忆。多练习凑十法和破十法。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d8/d8faeea8183db44aeb0f999bac7358463cae78f0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9f/9f570df9dbe2b4f44d1144f426ebac6ae4a7a76d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ad/adac7b4ccbcc6d8168c114679410b18ff92e5342.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2a/2a2391049122d7db9349e2ca84acd9768d2766bb.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/24/24437763355fa81b68fcdfe2d7d4ef8c80164543.mp3",
+        "https://api.clthuanxie.cn/cc-audio/2a/2afa3027ef3b86b8521b7dd6673ae8ce3f514148.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "斜面的坡度越小，向上提升重物时就越省力。",
       "options": [],
       "answer": "对",
-      "explanation": "斜面坡度越平缓越省力。"
+      "explanation": "斜面坡度越平缓越省力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/299eda1a023e126ce4c18f01dbffe3a1d9772acc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fdccff15833898d622a248e08e074db2b009b6fe.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "方向盘"
       ],
       "answer": "螺钉",
-      "explanation": "螺钉上的螺纹是变形的斜面。"
+      "explanation": "螺钉上的螺纹是变形的斜面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37edb6e8ae74818548e5efc5bf4811bfc265d6f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d558599b2e9a4466ccd88f68f16ea7117dc83518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/3707b8b1360703ac52a333875924ba8960de7544.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7b55d38ed1966d3ed8b0115e1172b2105580d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa6996b36e94eeea47ba24119cd391cf4704cd5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/215855c60467b90f27d4dee282dc91966dacab11.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "防止山坡塌方"
       ],
       "answer": "降低行驶坡度省力",
-      "explanation": "盘山公路是斜面的应用，增加距离来换取省力。"
+      "explanation": "盘山公路是斜面的应用，增加距离来换取省力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7312a8db4b6bf5c6b43f95829b90765cb2979f96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62b9a01bc334930cd5e156748322d72b36a8099e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57a0454d3f981c45c93b30be01218198a99d4262.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/722a38eec536f58fb8cf06be25a225d418560b0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a830240ee839a92ed93db7c3a9507decc3d1ba56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e42e9cf5d2c322bcf1a082dfd35b36c2bfc3d1c.mp3"
+      }
     }
   ],
   "knowledge": null

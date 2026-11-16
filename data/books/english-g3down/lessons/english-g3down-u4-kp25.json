@@ -23,7 +23,19 @@
         "?"
       ],
       "answer": "Is,it,under,the,desk,?",
-      "explanation": "一般疑问句Is打头，后接it和介词短语。"
+      "explanation": "一般疑问句Is打头，后接it和介词短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c5522ca8af86fc5069b737bb8892b3ea61002c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/079bc3b6a59d995ce86a46665da2718451aea120.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e7cfa080913f4dae18d802d041de7d664b10e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bbccdf2efb33b52e6c9d0a14dd70b2d415fbea6e.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40b5a77d5c4fae23088cacd0c773bce39e6ea4c4.mp3"
+      }
     }
   ],
   "knowledge": null

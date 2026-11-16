@@ -21,7 +21,17 @@
         "轻重"
       ],
       "answer": "颜色",
-      "explanation": "红、绿、黄描述的都是颜色分类标准。"
+      "explanation": "红、绿、黄描述的都是颜色分类标准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c34ddc67e9b8c2690ae497f9644964a8deb90722.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9d38399a9319a9a47d347fb413e64066b65f63.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9def5f596dc25d705b4b222bf3444bd8993d241.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "厚薄"
       ],
       "answer": "形状",
-      "explanation": "描述中强调了圆、方、尖，属于形状特征。"
+      "explanation": "描述中强调了圆、方、尖，属于形状特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/985ebd7e027d25c440820928b3260663ea62e439.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9d38399a9319a9a47d347fb413e64066b65f63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2899ac972c350ce213fbc03375fa78b9d7aea165.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2764ff3d8f7847bd72dee947d157db61006da53.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7b7fcf39545bf8eb7f59de24c8d6896be96de29.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "标准不统一导致分类混乱"
     ],
-    "tips": "先确定标准（如分类依据），再进行挑选。"
+    "tips": "先确定标准（如分类依据），再进行挑选。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/10/106cb6cb5c833b076bc6cae734f5d0c5807ad0f6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ab/abaa68fba3a16854bd3cb66057d7a6bf94a160fe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/dd/dd5f7c2ca9db6da2c0c26b9ae55a5a141dd13762.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2f/2f9c1f4503966cf93b4a725223ecc58f84fef970.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b4/b4b8481210277f7a3af7f8128087e73ec8202337.mp3"
+      ]
+    }
   }
 }

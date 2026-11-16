@@ -21,7 +21,17 @@
         "洛河"
       ],
       "answer": "黄河",
-      "explanation": "古诗中的“河”在没加特定前缀时多指黄河。"
+      "explanation": "古诗中的“河”在没加特定前缀时多指黄河。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7c8447b45a86348d57680ae9d0e387fd45f655d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b4b54cb756c6187836a28bd1bb938f938e3727ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/add249d15cf0100fdc6fb643d60d3385891e04ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/850467469fcd1cf7775873f975e26bd5ce8549cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/365edba7bc21d65b97695e49a235e49d1b13f4de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e233129947cc4ed727bda1098eca4a38de27060b.mp3"
+      }
     }
   ],
   "knowledge": null

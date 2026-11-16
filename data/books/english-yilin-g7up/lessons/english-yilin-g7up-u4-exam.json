@@ -37,7 +37,15 @@
         "some time"
       ],
       "answer": "sometimes",
-      "explanation": "sometimes 有时。"
+      "explanation": "sometimes 有时。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/297f31f02b99ab3fd2219c31def8a1392a5f35b7.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 7,

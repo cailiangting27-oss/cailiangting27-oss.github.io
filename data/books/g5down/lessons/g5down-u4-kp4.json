@@ -16,7 +16,11 @@
       "question": "分数的分子和分母同时乘或除以相同的数，分数的大小不变。",
       "options": [],
       "answer": "错",
-      "explanation": "根据分数的基本性质，必须是“相同的数（0除外）”。因为 0 不能做分母，也不能作为除数。"
+      "explanation": "根据分数的基本性质，必须是“相同的数（0除外）”。因为 0 不能做分母，也不能作为除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/978288e5d5acbcf5896a0e2320ce1e8ac68e5b01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c627e618296f59fa97671edfbbcf594494995622.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "乘 3"
       ],
       "answer": "乘 3",
-      "explanation": "分子从 2 变为 $2 + 4 = 6$，扩大了 3 倍。根据分数基本性质，分母也要扩大 3 倍，即 $3 \\times 3 = 9$（或加上 6）。选项中“乘 3”符合。"
+      "explanation": "分子从 2 变为 $2 + 4 = 6$，扩大了 3 倍。根据分数基本性质，分母也要扩大 3 倍，即 $3 \\times 3 = 9$（或加上 6）。选项中“乘 3”符合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58d5cdd4f845d2865184d54bcfaa38ea8a8a456d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd015c237599e9c986a77217ea67fcc2139edd25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23cbed3790c7639198e356a4b062098c6dcb0a24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ef04b4f2cf26c08e9eb426bdea2b514e4230040.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d539c618f242eff770d6bd7072f6d7289162a4b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f1f456ffeeaf052d69ee3ea576093124602f26f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "分子加（减）一个数，分母也跟着加（减）相同的数",
       "同时乘或除以的数中包含了 0"
     ],
-    "tips": "记忆口诀：同乘同除不带零，大小不变理最明。"
+    "tips": "记忆口诀：同乘同除不带零，大小不变理最明。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/24/244b5c74bae93abd2ca55b28c9fb7731cba30223.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8f/8f72eb11350c33295238aa09984ea81e21cf95d8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/60/60787ea0b791cdeea9d753fc375f351f96df80e2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5e/5e148e8af92ea5dad09dd73ccd9acd2f87a96638.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/22/229c95ddd2134cad2741ae84203c31fbdfff566c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/66/66e79d1d31841831581b5dc8f129be1f7beef3d6.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "'speak English' 的中文意思是'说英语'。",
       "options": [],
       "answer": "对",
-      "explanation": "speak 是‘说’，English 是‘英语’，故正确。"
+      "explanation": "speak 是‘说’，English 是‘英语’，故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b3ec5cec4133ca68114c68ef95c174cf906180e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a18ebf00d0e3a890cd837d32aad5bf8daec401e.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "'do kung fu' 的意思是‘练武术’。",
       "options": [],
       "answer": "对",
-      "explanation": "kung fu是武术，do kung fu是练武术。"
+      "explanation": "kung fu是武术，do kung fu是练武术。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae7fa8014aff807f6436e2c7be81713ef047a709.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a193ac96b835581b04c7fee6d998946e8e1ad7dd.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "to sing"
       ],
       "answer": "sing",
-      "explanation": "情态动词can后面必须跟动词原形。"
+      "explanation": "情态动词can后面必须跟动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5bf0ec34c3336fbe9ab3004c661b4e83f7609df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bef9c232cea3596339c111309709fa59839e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de77a66ed5bef31a8f668029633ba3101c9cb06e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b34554a5386162fde8158ddff35486e6eaa3ba6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87d8812c4f8add43281f1b24f2a3f300e9b1279b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76be3e7c9057373e60361004d152aaeefc53cfe9.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "dance"
       ],
       "answer": "clean",
-      "explanation": "clean the room是清理房间，语义逻辑正确。"
+      "explanation": "clean the room是清理房间，语义逻辑正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3adc0ff58733ea04107bf7a951842220c71308d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a1cec45eaf37b34e1b1d89130d7746fe4006346.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/516626bf8a5006ecce1803eeb6a747182000d4f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bef9c232cea3596339c111309709fa59839e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74b518ed5512d0ca1abf57120656a3191375da5e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bcade47f703c4327b499efd9003064ca5edf278.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "Can I help you?"
       ],
       "answer": "Can you help me?",
-      "explanation": "Can you help me? 是询问对方能否帮助自己。"
+      "explanation": "Can you help me? 是询问对方能否帮助自己。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d773524c72830266c78d6f56cc5d9d1c5b437e5c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8830d7dfcb04126c84651cbcbbb7e00bd0adecf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf135557fff24cb8bd58ba6650b8a40c2cef3b0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d77bd41782e14e05c5ab30434deea4b8840bceb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9e5aa3c53011f6abb462d305f27462d8fcec4fe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1151f74c2392375bde4b72839743dceb08b315b8.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "打扫房间"
       ],
       "answer": "画漫画",
-      "explanation": "draw是画，cartoons是漫画。"
+      "explanation": "draw是画，cartoons是漫画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea719d7ee993628a320511c83f58fcb0b8e86d77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/098b20ee1e73748725175cef915861034c792227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b2c7e902c5e41cedeb7bbd3109838e47f5f4a58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a347663c6b859e762a1934e40360fa03b7036c9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dda92a9cbd4d9a01315ae6c0e343a8d542dd5dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba54e216b44a8cb74670cb42c32d704af0d7e061.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "do some homework"
       ],
       "answer": "sing some English songs",
-      "explanation": "在英语派对上，最合适的活动是唱英文歌。"
+      "explanation": "在英语派对上，最合适的活动是唱英文歌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57a8cafc665d11592fb2d60395f31328e17a1118.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/20cb333835cd1bdf8b1773d76fb2f6cbaa007cd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09c6a4450aff5527f8f516f1213e00272591f9f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8088b08b98ebabd0c304bc68f6b8d768537639f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/953312de6d30f926955861be00a1e57fd244b661.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5a5956e40ab242712c0bec6778ffde351851308.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "I can swim and I can _____ (跳舞).",
       "options": [],
       "answer": "dance",
-      "explanation": "dance是跳舞的意思。"
+      "explanation": "dance是跳舞的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6e73c4b6b023b9e91fb4b23decbcd6cde386678.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6383e56ce425aa8e7c04e56170d67183115ddb8e.mp3"
+      }
     },
     {
       "id": 19,
@@ -129,7 +191,11 @@
       "question": "I can _____ (烹饪) for my mother.",
       "options": [],
       "answer": "cook",
-      "explanation": "cook是烹饪、做饭的意思。"
+      "explanation": "cook是烹饪、做饭的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/5487dd9f0a3def812bc395812402bbf905a5cc0d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5280fb99f947361dceadf263ba66504ad1557e8a.mp3"
+      }
     },
     {
       "id": 20,
@@ -149,7 +215,21 @@
         "练武术"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "cook-做饭, swim-游泳, do kung fu-练武术, draw cartoons-画漫画。"
+      "explanation": "cook-做饭, swim-游泳, do kung fu-练武术, draw cartoons-画漫画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdbd1f9be9bfe5bd49eeca0ee2320828710c32a7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3ba4d993e2dbcd87a6390a0cd67e6eab0b01a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b89f90f328fa7e7781c0a3e84545e96d946a0c4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e24aebee09f6bae7e4288d2488d577ca1156094.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7889080569641c59529a34f6f7d2230d95d6d682.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b66f447bfcb94e60dd5363485a63016d3ca7861f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b2c7e902c5e41cedeb7bbd3109838e47f5f4a58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da2ad6fb7f9cc9a754b8f5d168502b2b0cb1fd2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b743a8836fe8da7280f19b20249fe9dda7a4a303.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc101280b0c6128d7ffbdccbec5c630fdfda6abd.mp3"
+      }
     },
     {
       "id": 21,
@@ -169,7 +249,21 @@
         "弹琵琶"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "play the pipa-弹琵琶, play the piano-弹钢琴, speak English-说英语, clean the desk-打扫课桌。"
+      "explanation": "play the pipa-弹琵琶, play the piano-弹钢琴, speak English-说英语, clean the desk-打扫课桌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/426e1690669981c64c68bb02abefd5a21b641b50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1f9ca817f73ed1f4a1a468133c7e5c4e7cb4933.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7635635f874ecf5e8a1b452e9ea7ab72b095e40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38266c27f55b281874057b12b6f320b4cac1e450.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4ba128aafe23980e056a6c815cc14c20c497b06c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7df5ce33783994678233276e81f3b83a8cc61915.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eaa68996d97cca28d41b47ae8631e31d9dbf1c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fddcab4b10d6713882a6ab01adbb380777679c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/339f743908bbd34fcb88cb69ddc55b5939f2ecd5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f88b0c50ec128a337b88ae1d8bf65d71b5a5ad5c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -180,6 +274,16 @@
       "将'练武术'说成'play kung fu'（应使用do）",
       "词组拼写错误，如'pipa'拼写成'piapa'"
     ],
-    "tips": "可以通过肢体动作演示来记忆这些动词短语。"
+    "tips": "可以通过肢体动作演示来记忆这些动词短语。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c1/c1a2156017ef1d7fd1c90c1c639c46031f3f9218.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/50/5059fbd204786919be1513ebd92e3ca147796aa7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f0c563c22b37eadd1f40451e852409a1845ab618.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e5/e5efabc12dec2f71d3a6160e7df56ab17874a885.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/30/30ce75650af0680e58940be7638b730efb8a21d9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9b/9be527c2592dbd6a9cdc753c3fb5ddead955b12b.mp3"
+      ]
+    }
   }
 }

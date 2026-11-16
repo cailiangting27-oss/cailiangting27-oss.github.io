@@ -16,7 +16,11 @@
       "question": "分子比分母大的分数一定是假分数。",
       "options": [],
       "answer": "对",
-      "explanation": "假分数的定义是分子大于或等于分母的分数。"
+      "explanation": "假分数的定义是分子大于或等于分母的分数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/637a16028c762dd00212d8441965e473c456b7a1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14cd49483ec2987783473b6031c2adee327164f4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "最简分数的分子和分母没有公因数。",
       "options": [],
       "answer": "错",
-      "explanation": "任何自然数的分子和分母都有公因数 1。最简分数的公因数只有 1。"
+      "explanation": "任何自然数的分子和分母都有公因数 1。最简分数的公因数只有 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89323cf0164427cabf58ea34b5ffc2398c971bda.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0826ff90b2036a630d6131f5870ceb1bc4f693de.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "一个分数的分子扩大 2 倍，分母缩小 2 倍，分数的大小不变。",
       "options": [],
       "answer": "错",
-      "explanation": "根据分数的基本性质，分子分母应同时扩大或缩小相同倍数。此题操作会使分数扩大 4 倍。"
+      "explanation": "根据分数的基本性质，分子分母应同时扩大或缩小相同倍数。此题操作会使分数扩大 4 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6ae702455e2202e9964ee322492370eb949e934b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a8abb71e4abb4185089496fdb491a749398d47e.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个质数的最小公倍数就是它们的乘积。",
       "options": [],
       "answer": "对",
-      "explanation": "两个质数只有公因数 1，它们是互质数，互质数的最小公倍数是它们的积。"
+      "explanation": "两个质数只有公因数 1，它们是互质数，互质数的最小公倍数是它们的积。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c35cbcd204f4be9b812e82378ce033c05c97079.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/689f7ca07bec28ab52951b07822e8d5bdba92b7d.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "8/5 千克"
       ],
       "answer": "5/8 千克",
-      "explanation": "$5 \\div 8 = 5/8$（千克）。"
+      "explanation": "$5 \\div 8 = 5/8$（千克）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f4570439af502f0771f200d77f6ebf309308eef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad4c0ef375bfe91a98dcd96f42edbbaa44907e56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da24d79ae4266a9e141e109d7f129dee1917443c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a34d440769af1f72b3e370086b8acd5d3b082b74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/198e14580682355e07a8ce9f83989aec660291c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55fbf66d5ec9b4ae6b90e77bb5dfe27581de3204.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "n/5 是假分数则 $n \\ge 5$；n/6 是真分数则 $n < 6$。满足条件的整数 n 只有 5。"
+      "explanation": "n/5 是假分数则 $n \\ge 5$；n/6 是真分数则 $n < 6$。满足条件的整数 n 只有 5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/902fbb88f9d66f8ae494a56ff08306e09cfda8d2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8328cd9ab15e77b9b99b7fe5ed2f9141986e805a.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "15/25"
       ],
       "answer": "7/15",
-      "explanation": "13/39 可约分为 1/3；11/121 可约分为 1/11；15/25 可约分为 3/5；7/15 的公因数只有 1。"
+      "explanation": "13/39 可约分为 1/3；11/121 可约分为 1/11；15/25 可约分为 3/5；7/15 的公因数只有 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c33a245dbb9a3b25e2e2d02fe6de969b4eb66ae5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/39af2a2a73de75910e121d08c7dab15c0773fe56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bdbf49e8ab5a07d24fd442603cdf48bdd443173e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4ae310f3789e21a7eac221aaee5b0f6bb5405cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe3939b186bb9fa5b3f050979ea22bb213c563dc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/078abdc784d5fd23bfebf10e5f0ff3eaf53b8aa9.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "无法确定"
       ],
       "answer": "无法确定",
-      "explanation": "第一段是具体长度 3/10 米，第二段是分率。因为不知道绳子的全长是多少，所以无法比较。"
+      "explanation": "第一段是具体长度 3/10 米，第二段是分率。因为不知道绳子的全长是多少，所以无法比较。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e21597634f64c196e3aa653969424b4484efc2d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8ba910ce979f817175416a370fd7a8873a077f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ed9fea753a681b1a3f37af169f02cac15ae0a85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06834d21daba55d8bbd832f6ac32a99dd226e492.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/41/41cb5dec85964cde9b545917803e2072bb15fdff.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "1/2 块"
       ],
       "answer": "2/5 块",
-      "explanation": "$2 \\div 5 = 2/5$（块）。"
+      "explanation": "$2 \\div 5 = 2/5$（块）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7b612523011d55fbdf17d5c7f3230c407987658.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1e9b4d06918663a2eb2f4cb68aec5f9fa198d40a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d46b0ecccf17e69b36e07160bd3360785ad0d770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb347a0ce208d753df48aa9fbc31e2712ad0d091.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/391aa7f82fc5f25ec190a59610593921a5b96168.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/33f68cc4e391a739d3d9c2cb1bfa296e04be2a4a.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "无数个"
       ],
       "answer": "无数个",
-      "explanation": "虽然分母固定的分数有限，但分母可以无限扩大（如 100, 1000...），因此中间的分数有无数个。"
+      "explanation": "虽然分母固定的分数有限，但分母可以无限扩大（如 100, 1000...），因此中间的分数有无数个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73cca2c9ed5989574cc2954a3b51d9bb3c879be4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/262796743b908064dd5e9114782e25754d050a6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/1158984575a2b33873b072a3d41c43fdfcb46583.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "1/3"
       ],
       "answer": "3/8",
-      "explanation": "代入法：3/8 分子加 1 得 4/8=1/2；分子减 1 得 2/8=1/4。符合题意。"
+      "explanation": "代入法：3/8 分子加 1 得 4/8=1/2；分子减 1 得 2/8=1/4。符合题意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/2853dec1f591beed7386751448903409729df8e8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c0f3796a16b01c42cc2c64efcefd60959a6dd35f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2482a9eee1218efca6e49514096bde448a9e0a2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d9101cabf4eeec88ecdf1a5b476957ba9807d84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/803ab79310ab4c905d897e5b8b61272124906f8e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/291749891085564b231ba80be6db8c2e44d61ff3.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "5/6"
       ],
       "answer": "1",
-      "explanation": "分母是 6 的最简真分数有 1/6 和 5/6。$1/6 + 5/6 = 6/6 = 1$。"
+      "explanation": "分母是 6 的最简真分数有 1/6 和 5/6。$1/6 + 5/6 = 6/6 = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/42ef0c55515bd0c2d1cd28899282f5cd652404ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4133cbf6d21009d464007db8b3f98f682f95710a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2cc3f503db43a201ba730a0da7700c5bb43b3856.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小红 3 小时做了 12 个手工，平均做一个手工需要 ___ 分钟。",
       "options": [],
       "answer": "15",
-      "explanation": "3 小时 = 180 分钟。$180 \\div 12 = 15$（分钟）。验算：$15 \\times 12 = 180$ ✓。"
+      "explanation": "3 小时 = 180 分钟。$180 \\div 12 = 15$（分钟）。验算：$15 \\times 12 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c6d88aaeac66aa7b5a72be2de0cf19ab4e1935a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a7bf07e40ddedb1a31477eca32c56ac87e8e232.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "有一袋糖，无论分给 8 人还是分给 10 人，都正好剩 3 块。这袋糖至少有 ___ 块。",
       "options": [],
       "answer": "43",
-      "explanation": "求 8 和 10 的最小公倍数，再加上 3。8 和 10 的最小公倍数是 40。$40 + 3 = 43$。验算：$43 \\div 8=5...3$，$43 \\div 10=4...3$ ✓。"
+      "explanation": "求 8 和 10 的最小公倍数，再加上 3。8 和 10 的最小公倍数是 40。$40 + 3 = 43$。验算：$43 \\div 8=5...3$，$43 \\div 10=4...3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b2e38ed2f6fe8581736a16ff149d88b696314d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23e8dd561c3ebf92c04a3eb7c3fa51c54b075480.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算 12 和 15 的最小公倍数是多少？",
       "options": [],
       "answer": "60",
-      "explanation": "$12 = 2 \\times 2 \\times 3$, $15 = 3 \\times 5$。最小公倍数 = $2 \\times 2 \\times 3 \\times 5 = 60$。验算：$60 \\div 12 = 5$, $60 \\div 15 = 4$ ✓。"
+      "explanation": "$12 = 2 \\times 2 \\times 3$, $15 = 3 \\times 5$。最小公倍数 = $2 \\times 2 \\times 3 \\times 5 = 60$。验算：$60 \\div 12 = 5$, $60 \\div 15 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3cf2f26222d38950c9cac7ce938ab89815da2b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca347a638cef52218b2317b3bf1079523e5ca7c9.mp3"
+      }
     }
   ],
   "knowledge": null

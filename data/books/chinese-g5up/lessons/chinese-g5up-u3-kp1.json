@@ -16,7 +16,11 @@
       "question": "民间故事最初是通过口耳相传的方式在人民群众中流传的。",
       "options": [],
       "answer": "对",
-      "explanation": "民间故事是劳动人民创作并传播的口头文学。"
+      "explanation": "民间故事是劳动人民创作并传播的口头文学。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8176209c37a2244d3761bbf33184d402d048725.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35aed080475bb9b75f4879aa6b112b5d4ec8e59c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《牛郎织女》属于神话故事，不属于民间故事。",
       "options": [],
       "answer": "错",
-      "explanation": "《牛郎织女》是中国四大民间故事之一。"
+      "explanation": "《牛郎织女》是中国四大民间故事之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b62db77d19b42456011398331c144e0e2f3e66f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b62fadad282e8fa7835a8ebc8c785818bc69af8.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "民间故事往往表达了劳动人民追求美好生活的愿望。",
       "options": [],
       "answer": "对",
-      "explanation": "这是民间故事核心的思想内涵。"
+      "explanation": "这是民间故事核心的思想内涵。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d2a2f171da838ba73aa53e046b1feaf41953680.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b6d49371d25c897ad964a44f84b00221d69f32b.mp3"
+      }
     },
     {
       "id": 7,
@@ -54,7 +66,17 @@
         "牛郎给老牛刷身子"
       ],
       "answer": "老牛开口说话了",
-      "explanation": "动物说话是民间故事幻想色彩的体现。"
+      "explanation": "动物说话是民间故事幻想色彩的体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/653d96f44c2de94b3bb92295232f80b1d124c729.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c11d1bd25ccecf03e6396becba3291802e7b4942.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d57f3a6fc4da22aa26a2ac65884c50286aab3115.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eeb983b9ab34805a4212f53cc4acc7cacef3b3db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/466a37cfca68620689ac7202d53de57857fa1968.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/814d1a2df9a3277715d86abf6294bff05f176c34.mp3"
+      }
     },
     {
       "id": 13,
@@ -70,7 +92,17 @@
         "都发生在同一个朝代"
       ],
       "answer": "都含有神奇的力量或物品",
-      "explanation": "《牛郎织女》有老牛皮，《海力布》有宝石。"
+      "explanation": "《牛郎织女》有老牛皮，《海力布》有宝石。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed1d52bee30a4d3efe8c6df7f50844725538ccfc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca9c2c924bd267500c8600d7963746619bd80960.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3288f4ecef58eaad878e7babe247508b81fbef17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e9020abe403c253474436bfbdfb8a2f4c92288d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fed399bc7866a3a5b64c397bded2b6092e7b4e39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5cc6e2fec9de5ee5cc70f8a4e55b89a5b2c9bc4.mp3"
+      }
     },
     {
       "id": 15,
@@ -86,7 +118,17 @@
         "变异性"
       ],
       "answer": "变异性",
-      "explanation": "流传过程中人们会根据自己的想象增补，导致多版本。"
+      "explanation": "流传过程中人们会根据自己的想象增补，导致多版本。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20e087c7c3c41461604fefb111b3333952ac387c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/5020df9aa2bebd894e88c7b00ff25952aa0bb54a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba694666244fef64ca9d1112bbebf6de29af180c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b1203c0898dfa6228b5403f541779fdd3d97d5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25dd0d4c1a92b62cfb848c4e68d13edd1cd3786d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0281b37a70adb8c7db4e065ba9376da683ba2d30.mp3"
+      }
     },
     {
       "id": 17,
@@ -97,7 +139,11 @@
       "question": "《孟姜女哭长城》是我国四大民间故事之一，另外三个是《白蛇传》《牛郎织女》和《________》。",
       "options": [],
       "answer": "梁山伯与祝英台",
-      "explanation": "考察中国四大民间故事常识。"
+      "explanation": "考察中国四大民间故事常识。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8dd25205a97a7cc42c126d837427d8ad4466660.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9ccc2c33ff4faafbb70c614fd4bd63d0a443332d.mp3"
+      }
     },
     {
       "id": 20,
@@ -117,7 +163,21 @@
         "断桥相会"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "考察学生对经典民间故事核心内容的了解。"
+      "explanation": "考察学生对经典民间故事核心内容的了解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46462733638a02654f75c60b244bb0e758b6edac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4bf11a32727c0a06fa89403b73c1f1c9ba13fbc2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7d182eecb968750d45aa2e7328cfc041055a9a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7f72e85fb52749371b6998847d6feddac0a8cd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89c3db780496fbbe19e3e369be68fff13e12c909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/994a0b42832753e160e3197a761ed806fb5e8ba9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0602ec7b2c3b39c5f10d8df5e4b09555944559.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7bc116f2962580c903df5d16cd7534135abb70f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c83ca336bb00c9e33185ef7e2292dae6029d260a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c48b1a87da91faa5cc095d519c23e688def1acb5.mp3"
+      }
     },
     {
       "id": 23,
@@ -133,7 +193,17 @@
         "勇敢下凡"
       ],
       "answer": "天上寂寞,向往人间,渴望自由,勇敢下凡",
-      "explanation": "考察学生对《牛郎织女》一课人物心理脉络的理解。"
+      "explanation": "考察学生对《牛郎织女》一课人物心理脉络的理解。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/569ec849a2e35e8a27e9b9da15a80022c0170709.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a37c1c2aa101c8dfbc871bb2f567a9623627d8aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4635505f447a0a5f6e564cacfe52ff323e942441.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cca386879fcb08fffe79c2d4e629824a7d58435.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d176a90fa952883e98f32f3cf49e4ee3a019ba5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01de4bbebccee51f088e64cf323663c445d710a2.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -144,6 +214,16 @@
       "混淆民间故事与神话故事的概念（神话侧重解释自然，民间故事侧重社会生活）",
       "忽视民间故事在流传过程中的变异性，认为所有故事版本必须完全一样"
     ],
-    "tips": "可以通过总结不同故事的共有‘套路’（如报恩、历险、婚变）来快速识别民间故事的类别。"
+    "tips": "可以通过总结不同故事的共有‘套路’（如报恩、历险、婚变）来快速识别民间故事的类别。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/32/32c9fe66cc929281e2b56e9bc515f3428fafa35d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d0/d099bf49c08a727727847241f072d24a58a570ca.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e2/e2eabd904fb20732f64c5f4c852ac641b78309ec.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/e4/e456dd5c0667870b1712d94b6d0882d795640485.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fb/fb105e9aa4e84591c4a61d620fdf9666bca8681a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/56/56b3ecb8641a34f6e93f4e48c1f5dd611cf5ba74.mp3"
+      ]
+    }
   }
 }

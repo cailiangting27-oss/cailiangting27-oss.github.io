@@ -16,7 +16,11 @@
       "question": "一个非零数除以 $\\frac{1}{2}$，相当于把这个数扩大到原来的 2 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\div \\frac{1}{2}$ 等于 $\\times 2$，即扩大到 2 倍。"
+      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\div \\frac{1}{2}$ 等于 $\\times 2$，即扩大到 2 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d6fa759e14e47c19d6e5a618eb744e74d6a7431.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a38653551394021b2b5604f6cd85076aa50ada4.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "$a + \\frac{4}{3}$"
       ],
       "answer": "$a \\times \\frac{4}{3}$",
-      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\frac{3}{4}$ 的倒数是 $\\frac{4}{3}$。"
+      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\frac{3}{4}$ 的倒数是 $\\frac{4}{3}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3e28f8713104613ddb316ac1bd786bac7b3d948.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b611292f19aa2d813e493194bc93a5327a03aa92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec432ae21d69daf09675b22639a6ec3a6d6753f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23a607b05db76fd40966fee45621232f308cb2e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78d59ab9a85802eb4c59426698545c5824c260e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ea5a226c5f02e6cec6efa1d4640223c6640e2d8.mp3"
+      }
     },
     {
       "id": 8,
@@ -48,7 +62,17 @@
         "无法确定"
       ],
       "answer": "$a < b$",
-      "explanation": "原式可写为 $a \\times \\frac{5}{4} = b \\times \\frac{4}{5}$。因为 $\\frac{5}{4} > \\frac{4}{5}$，根据“乘大数者小”原则，$a < b$。"
+      "explanation": "原式可写为 $a \\times \\frac{5}{4} = b \\times \\frac{4}{5}$。因为 $\\frac{5}{4} > \\frac{4}{5}$，根据“乘大数者小”原则，$a < b$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac525e6ba0e39d82a1226757ec5ad2acb4ab3694.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25d8ed1fc54739081e1cc984b300a5b1bd0a984f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55f8abc0d69ac6ab491f6125f9550af6b25e22fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/397fd7b1f33bdbf6ee27a83d1bcee42d222cb331.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc3cae4d3b75bc99baee8dfdde4399b981798191.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "$12 \\div \\frac{12}{11}$"
       ],
       "answer": "$12 \\div \\frac{5}{6}$",
-      "explanation": "除以一个小于 1 的数（0 除外），商比被除数大。$\\frac{5}{6} < 1$。"
+      "explanation": "除以一个小于 1 的数（0 除外），商比被除数大。$\\frac{5}{6} < 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6ebdfb25a91f11592215c6457bbc9a223427169d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0e4989ecf3753763e520bebb17ac3079e54c350.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27a1e0b4bc52690bef5dfe007d360333704575b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2aa9a7e3a395af2d86188d408c03348177a35476.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abe6f84816705b7276192f49a28f81a4257caaf1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b73edf439c48f14bb3855ab23aca632a32f3405c.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "5"
       ],
       "answer": "$\\frac{1}{5}$",
-      "explanation": "$\\frac{4}{5} \\div 4 = \\frac{4}{5} \\times \\frac{1}{4} = \\frac{1}{5}$。"
+      "explanation": "$\\frac{4}{5} \\div 4 = \\frac{4}{5} \\times \\frac{1}{4} = \\frac{1}{5}$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e512331ebc3494d39af1efede588d44938fec62f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2cfd6fecc678c13886c4900727231c9743e3b4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d129a7b3c0bf9fbd0693afdd426a66d2a0a8c3ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78c8d54cafcc4e254411881a55427f0c54d7f44e.mp3"
+      }
     },
     {
       "id": 22,
@@ -91,7 +135,11 @@
       "question": "计算：$12 \\div \\frac{3}{4} = ?$",
       "options": [],
       "answer": "16",
-      "explanation": "$12 \\div \\frac{3}{4} = 12 \\times \\frac{4}{3} = 16$。验算：$16 \\times \\frac{3}{4} = 12$ ✓。"
+      "explanation": "$12 \\div \\frac{3}{4} = 12 \\times \\frac{4}{3} = 16$。验算：$16 \\times \\frac{3}{4} = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a11d05e2439b30506e6391824307dbb4d546c9cc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc4073e344a8fa051248d28b09fc975c9a903262.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,11 @@
       "question": "计算：$20 \\div \\frac{4}{5} = ?$",
       "options": [],
       "answer": "25",
-      "explanation": "$20 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$。验算：$25 \\times \\frac{4}{5} = 20$ ✓。"
+      "explanation": "$20 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$。验算：$25 \\times \\frac{4}{5} = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d2b7646af1a9c4ca5a1f1d3c3f86d7de44002b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/aff8931503d19f3fe4a8025c2c003a4943c6db4e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "把被除数也变成了倒数",
       "除号变乘号了，但除数忘记变倒数"
     ],
-    "tips": "先约分再计算可以有效减少出错率，特别是多步计算时。"
+    "tips": "先约分再计算可以有效减少出错率，特别是多步计算时。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/dc/dce3a4447d23c88d2c33d95368e1d7e7b0cf7e43.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ed/ed890812af6a086ffe859e2e629f6f9180376b19.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fe/fe354e638a6a21bb07d51b1fa091e55470ee35d2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f2/f2ebf5135c229221123d1a914d5e2f176e8e5f3e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1e/1e2944a5849e07275de3f3f12c1f36d2358d6221.mp3",
+        "https://api.clthuanxie.cn/cc-audio/a4/a4c1ccbe363ca8a662c15045b3d6ca5be2beffef.mp3"
+      ]
+    }
   }
 }

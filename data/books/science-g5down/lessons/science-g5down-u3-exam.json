@@ -16,7 +16,11 @@
       "question": "全球气候变暖会导致海平面上升，淹没地势较低的沿海城市。",
       "options": [],
       "answer": "对",
-      "explanation": "气候变暖导致冰川融化和海水热膨胀，致使海平面上升。"
+      "explanation": "气候变暖导致冰川融化和海水热膨胀，致使海平面上升。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a91dd05737b83115de344163666f4f6fee54d41.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29ccb7e261ec501061937fff87c96e7b31c41d29.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "水体富营养化会导致鱼类大量死亡。",
       "options": [],
       "answer": "对",
-      "explanation": "富营养化使藻类爆发呼吸消耗氧气，鱼类因缺氧死亡。"
+      "explanation": "富营养化使藻类爆发呼吸消耗氧气，鱼类因缺氧死亡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fb4734c38840d0f7fdfe0efaa6e523d8f68fc11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74bd47fcc96348550c1cdcb68a173b5b8dc78827.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "科学技术是解决环境问题的唯一手段。",
       "options": [],
       "answer": "错",
-      "explanation": "环境问题还需要政策、法律和公民行动共同解决。"
+      "explanation": "环境问题还需要政策、法律和公民行动共同解决。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82a7fe112ff5b76fa9113d21a82711abcb131891.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/959c2c3b02b554113aad9ef154becc7e20290451.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "我国是一个人均水资源非常丰富的国家。",
       "options": [],
       "answer": "错",
-      "explanation": "虽然中国水资源总量不少，但人均占有量远低于世界平均水平。"
+      "explanation": "虽然中国水资源总量不少，但人均占有量远低于世界平均水平。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b6db5da64793cadc35ce823e2d19cb2a4e656bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0778ca72ee330eb94a93c4b49d7186a8526c219.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "氧气"
       ],
       "answer": "二氧化硫",
-      "explanation": "二氧化硫进入大气层形成硫酸雾，随降雨落下形成酸雨。"
+      "explanation": "二氧化硫进入大气层形成硫酸雾，随降雨落下形成酸雨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58a804493d105635be0c235f6aba1b27a67749a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5bfbbe8160137bf051d3812951fb0720192679c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f44ad6065ba7e610cd2ed33aace54bbd7446a42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acda33b218538d948d5586a913971e916a1c8611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74f2ea55960daef6212e49f18bb2b9ffc64cc24a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d24d7ce45d97d73e1e88ee317b61ae2bca18edb3.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "周边公路的修建进度"
       ],
       "answer": "湖中鱼类的产量和生存",
-      "explanation": "渔民的生计与湖泊生态直接相关。"
+      "explanation": "渔民的生计与湖泊生态直接相关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8afd99a5868265743b0f473ecdb0d84d09072b94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb3536f3e1488cf959baa2ee1d4fd5f38c4a6cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e6230992d9179227e138e1eaa94916610442f17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fcadc3813d75b4b7d3ca6a92accfe2f08f718ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fe16de74b946e97a407822b4c07c348cc16af73.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1a979151dd4ca72ec6951c224537bdf0a56f41f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "地形复杂难以取水"
       ],
       "answer": "水污染导致水不能直接使用",
-      "explanation": "水质性缺水指虽有水体但因污染严重无法满足需求。"
+      "explanation": "水质性缺水指虽有水体但因污染严重无法满足需求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e430a685f1e6de4f230e4ebabbbcd2a21347962.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e201cfc2e035e6e316e9cb31e6b2cc830778ee9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9db872aebbc2cf89603beaf89a224a8a9ff23b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a653095f5073fdae17260cea2d3f4d4d992fd97f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69711a3471011bb1a21cc1493a4473b59d3bc7b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e5a1fb54535edbef54ddc2009e2cc981d7c5a85.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "森林光合作用产生了热能"
       ],
       "answer": "大气吸收并截留了更多地表的长波辐射",
-      "explanation": "温室气体允许太阳短波辐射通过，但吸收地表长波辐射并返还地球。"
+      "explanation": "温室气体允许太阳短波辐射通过，但吸收地表长波辐射并返还地球。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a6cba9d9a48d8bd8ee2ba44c6322464158efc181.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/28232046b59da31c23b6707e47dfb7206ea72709.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99273a84c315ec50e4015a5bbf07867046495c71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fddf83ee05e058b626052e4d78c715d5be8db3f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d361546822d6b7102753617afd6b6e47bed0cfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd1cb387548eec88171d41b579bf5dc6b384c68b.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "人工降雨"
       ],
       "answer": "喷灌和滴灌",
-      "explanation": "管道输水和末端节水技术（喷滴灌）是现代节水农业核心。"
+      "explanation": "管道输水和末端节水技术（喷滴灌）是现代节水农业核心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/264aec9056b6a670785a4cd36529d4229b41e225.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e988dac28fdbfda75e3e3865002f1baa166f43e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f007292172db77b03e4965f0b5aa9d7a514a1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/bea5db972f648e2fa178f1f935bc04683e6f8bcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5478100fd79e2f65a7ee225e48bbaae7b7165b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c1e5ea529e39e83218705722fb4a8132b06a4d4.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "电磁污染"
       ],
       "answer": "噪声污染",
-      "explanation": "高频和高分贝声音属于物理环境污染。"
+      "explanation": "高频和高分贝声音属于物理环境污染。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95d27c9a833992d0d085a1d5e4288bd75bda5924.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/06f8f8eb43f4bbc4ed6dc5af764d811bc6ecf837.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a590f91b208342efc4d6027c0d55aa42d11774d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84e6eb444c798cf71eb1c0690591e8fb6df5fe1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c168a0fa47e2364cfebb3183d6778f5d85610b8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69b8b756df439823cfabf741912a3756d3dfda4a.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "让家里变整洁"
       ],
       "answer": "减少对自然的污染",
-      "explanation": "生态环保的出发点是维护自然环境稳定。"
+      "explanation": "生态环保的出发点是维护自然环境稳定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66bc1bfd284cbd59ce2086a170c37c9582a81c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d6ba05a0cd69dd088abdef34d7a1c85b76c0e4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41c2be39cd02f4a56af39aaf945f5bc32ff97868.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/156438a45122afac20d052c71bcf77e620c2ad56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0ffc00f68b6f20bf15ec0cccc6a56ff1976b1ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/2731829832ffea1b718cbe6b1dd89a82c4fea820.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "能在任何地方发电"
       ],
       "answer": "清洁且二氧化碳零排放",
-      "explanation": "可再生能源最大的优势在于相比化石能源不产生温室气体。"
+      "explanation": "可再生能源最大的优势在于相比化石能源不产生温室气体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b8a5d9fdf8731ba5c16df1b46f2665d02cbe780.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/939cd68d1cb9f7f33dc2944f4ca65d9800752b6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4e1e336cce78e233aeefc49f38b0db874e679e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bd03c0cb1f2f5c29acb17307a1b67552813242a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4a10e2ac95549db0936d657a61d3d6bdd284c16.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8e35eba6b9600c88ad97984745274f60d3c15a4.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "目前人类社会利用的主要能源依然是化石能源，其在全球能源消耗中占比超过（___）%。",
       "options": [],
       "answer": "80",
-      "explanation": "化石能（煤油气）目前仍占全球能源利用的绝大份额。"
+      "explanation": "化石能（煤油气）目前仍占全球能源利用的绝大份额。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40cec8c2568127a964770d2f986de516faae320e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/1552d186c98544955eedcd2dad3b3216c8585130.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "在极地冰川中，固态淡水约占全球淡水总量的（___）%。",
       "options": [],
       "answer": "70",
-      "explanation": "冰川是最大的淡水库，约占70%左右。"
+      "explanation": "冰川是最大的淡水库，约占70%左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fce0a1129e93960dd4856d24fd43c846f45934a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b8bc84458f051b5efe05c91fc62043d2b7865d1.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "回收利用1吨废纸，可以挽救至少17棵大树，这属于回收（___）能源。",
       "options": [],
       "answer": "再生",
-      "explanation": "纸张回收属于再生资源的循环利用。"
+      "explanation": "纸张回收属于再生资源的循环利用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35a8b06e1a0ddd0beb9e69e6328a7e59257b1ed2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd00b110b779ec5a8788a10a13661418e885c7c3.mp3"
+      }
     }
   ],
   "knowledge": null

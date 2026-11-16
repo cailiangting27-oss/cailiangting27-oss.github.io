@@ -16,7 +16,11 @@
       "question": "___ did you go with? My friend.",
       "options": [],
       "answer": "who",
-      "explanation": "询问人使用who。"
+      "explanation": "询问人使用who。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab7255bb7d75ec38358c8cdd5adba9c4d539f846.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/68/6853a0305bd5fa4f4df9ed4c555875a0ab2cf766.mp3"
+      }
     }
   ],
   "knowledge": null

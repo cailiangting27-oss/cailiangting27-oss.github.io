@@ -21,7 +21,17 @@
         "感到很不好意思"
       ],
       "answer": "难以应付或处理",
-      "explanation": "此处指事情处理起来比较棘手。"
+      "explanation": "此处指事情处理起来比较棘手。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/4967e15954ab639815d99e26f1eb377c98b9c155.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/210d113d86f79b7e66d7c63ed33f22e0dc8f5059.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7736f285d4257e3e3db44aeda07a8484bb368285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28ebaf3355d658c513957a292f749b4da6827d58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf3a9251c00411ac2eee1299f627ceb9c8eff590.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/308ed08cba87c64c89ebc50c7df0a5407c11ff62.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "挽回 诺延"
       ],
       "answer": "汛期 协调",
-      "explanation": "A中婉应为宛（宛转常作宛转），C中急应为集，D中延应为言。"
+      "explanation": "A中婉应为宛（宛转常作宛转），C中急应为集，D中延应为言。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62c58d980fd6568a0974aa2e97b178240e34ee77.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/5878ca95a95374d93df86f3d1ab0b4ea70c135b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5db0d8457727a6f7ce565912aeb2ee92f9e841bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7f81f0ad00355bc8a670b30a7709a9ac9ac928e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43b0d09c019af187c4985fdbcfec71bd122b8c93.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef9559f45c6b43d3d50339dad38e32f6ed26aeea.mp3"
+      }
     }
   ],
   "knowledge": null

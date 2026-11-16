@@ -25,7 +25,21 @@
         "周而复"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "根据教材常识配对作品与作者。"
+      "explanation": "根据教材常识配对作品与作者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b8fe15eddae5da0e4585b7daaff13605d2d601f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2a4ee03da26860b687945e8521a4451d3d2397df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b072b0d07d807f8453757071146c290122e66cdb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf2ea0e2ffc0cdc4ca01f4a4530079eea8cfeb7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f227995a72b831f4ebf82e166ef9fc081148b5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a1a78dbfb3bf960a23d33f3dd48db339fa52d76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b3ea7fdc8f89f15807972b9aeb7ff8d93b35226.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb0132bd00a7dab1e94f3afb8ac9b58a6d8e0323.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d61d7d65fd298f3c263682908d5820886c6b7cbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f30fd06cc815615216d81a87941581729face6f2.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "含有脂肪、蛋白质、糖类的食物才是营养均衡的，维生素不重要。",
       "options": [],
       "answer": "错",
-      "explanation": "维生素和矿物质也是人体必需的六大营养素，对调节身体机能至关重要。"
+      "explanation": "维生素和矿物质也是人体必需的六大营养素，对调节身体机能至关重要。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/241c0a4d875f05d4f9afc34a307e7bfdbb12eb6e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1d74aa59a9086a866f6597f82d7d0c66174b472.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "水"
       ],
       "answer": "脂肪",
-      "explanation": "脂肪能在纸上留下半透明的油迹。"
+      "explanation": "脂肪能在纸上留下半透明的油迹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/773a70eef71917c27492325661757cb2d2236220.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09b9d736da2881f3ca4f628e63df9a43e5e65b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/994c810068960d503127b1bc566500dc6f97ab86.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "矿物质"
       ],
       "answer": "蛋白质",
-      "explanation": "蛋白质是生命的基础，是肌肉、皮肤等的主要成分。"
+      "explanation": "蛋白质是生命的基础，是肌肉、皮肤等的主要成分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/3050bd8eca1498b17a035607820ca4f9aba6d362.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09b9d736da2881f3ca4f628e63df9a43e5e65b75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/6758d4904f872f30a3943371d09c9fbb7d042027.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0c99a29bff23eb72cf3ec0115319ab8569af655.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "肥肉里含有丰富的（），能在纸上留下油痕。",
       "options": [],
       "answer": "脂肪",
-      "explanation": "脂肪是肥肉的主要成分。"
+      "explanation": "脂肪是肥肉的主要成分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/1374de1f0aaedd85519a373855955483cd8ea305.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a7ce97439da7304b3645dc1c29413914de401be.mp3"
+      }
     }
   ],
   "knowledge": null

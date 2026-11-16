@@ -21,7 +21,17 @@
         "惊蛰"
       ],
       "answer": "国庆",
-      "explanation": "国庆是公历节日，非传统农耕二十四节气。"
+      "explanation": "国庆是公历节日，非传统农耕二十四节气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6b421b565078872eb6934b3ce0d6f857461e259.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/853b670127bad699138b38c0e2a786557a8fcfa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a76b22c4a7a5412a96ba9f14156869ba5a8c737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce6a5c172486cb1be480251fff79ab9177d471bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e641ed6191bc50429005f1bb6e2894fd2223a503.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0acd67d2b6f701d6571fd988c198f83e1b577a0d.mp3"
+      }
     }
   ],
   "knowledge": null

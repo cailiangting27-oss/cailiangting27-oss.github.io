@@ -21,7 +21,17 @@
         "are"
       ],
       "answer": "does",
-      "explanation": "Sarah是第三人称单数，助动词用does。"
+      "explanation": "Sarah是第三人称单数，助动词用does。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf330e376973788402ba3f0aed67deca78f4993f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0d521a5dc37493901c869e3f3753ee3ac06b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/62d3f395347b98e0382a26c466970bdd28dd6c6b.mp3"
+      }
     },
     {
       "id": 8,
@@ -37,7 +47,17 @@
         "shall"
       ],
       "answer": "should",
-      "explanation": "提出建议常用情态动词should（应该）。"
+      "explanation": "提出建议常用情态动词should（应该）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3ec20b0746bfdaa223c20cd682b5b8813dc04e3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/37d41699bdee4fcb969ca499eb0f8b82c60d59cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9219a0599eae1d9601883f894b4fbe60870586.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c6dc9bc9f77b486a13b3f63ffb2ffd1cb3fef4db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c98329dcc466b82091cb5003c6863b3c4a76248b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93a815959b991145155fec744e108369c7a92b5a.mp3"
+      }
     }
   ],
   "knowledge": null

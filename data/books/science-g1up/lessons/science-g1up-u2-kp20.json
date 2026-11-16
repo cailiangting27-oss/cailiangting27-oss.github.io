@@ -21,7 +21,17 @@
         "果实"
       ],
       "answer": "果实",
-      "explanation": "苹果是植物通过受粉发育形成的果实。"
+      "explanation": "苹果是植物通过受粉发育形成的果实。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4b37de59cae516c3526fb41fd1ed802636fd0b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/204efde944c5ba077d8666533fa22f5857ed0f6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922d22dd3f7a23b05726e1ce20d5f7f0cf98a087.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6bf3d820dd27e422647eb06b3f42355b22162770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37c63540a2b64ad2e7a69c4d9b63be994e818744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a891024bfdf8f5914f2214788e7affe510a9c702.mp3"
+      }
     },
     {
       "id": 21,
@@ -32,7 +42,11 @@
       "question": "植物进行光合作用获取能量的主要器官是（___）。",
       "options": [],
       "answer": "叶",
-      "explanation": "叶片是植物呼吸和制造养分的场所。"
+      "explanation": "叶片是植物呼吸和制造养分的场所。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7e9f0485242cfa316e0676d82b5a172039db892.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/933654bafba3ecbfa137c47ee45f52a34cafa953.mp3"
+      }
     }
   ],
   "knowledge": null

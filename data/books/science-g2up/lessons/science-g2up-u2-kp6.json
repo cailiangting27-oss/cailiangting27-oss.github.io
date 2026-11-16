@@ -21,7 +21,17 @@
         "塑料瓶太占地儿"
       ],
       "answer": "节约资源保护环境",
-      "explanation": "回收利用可以减少原材料的消耗及环境污染。"
+      "explanation": "回收利用可以减少原材料的消耗及环境污染。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3236b25201e854a56975da0323eeb98f07f2055e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3f67706c59177439ae4f66351ed45e289bded17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/697355c6853fd5b23dfbfdb0d6d21348b50fc117.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6de6d883e73200d8a9e8ed33d591c7e9c161f151.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1106bb00244d2ad93b92148f232462d5ebea48e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fde9d26f4cd92ed006f2317d942869e2b3272c0.mp3"
+      }
     },
     {
       "id": 23,
@@ -32,7 +42,11 @@
       "question": "为了保护环境，我们应该把废旧垃圾放进（ ）箱里。",
       "options": [],
       "answer": "回收",
-      "explanation": "可回收物应放入指定的回收设施中。"
+      "explanation": "可回收物应放入指定的回收设施中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f719e01bde84abd0f510fb7a450bc47b353992e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b550501dabc1b5caa755cb8068acc4e0597a8c58.mp3"
+      }
     }
   ],
   "knowledge": null

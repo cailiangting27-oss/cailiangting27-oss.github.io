@@ -16,7 +16,11 @@
       "question": "询问别人来自哪里可以用 'Where are you from?'",
       "options": [],
       "answer": "对",
-      "explanation": "这是询问国籍或来源地的标准句型。"
+      "explanation": "这是询问国籍或来源地的标准句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/0685172ae5f9b1acd6e5611f392cee949852b7c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37626a51a65a7f910b3d643e35bb2bc18b231b1e.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "at"
       ],
       "answer": "from",
-      "explanation": "be from 表示来自某地。"
+      "explanation": "be from 表示来自某地。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bb0dce31450860f0e6074bf16f2c56c834a7da7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b1e95cfd9775191a7224d0a218ae79187e80c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/7534d1ee9170526a31967f0e743f057cf1d3a773.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "My name is John."
       ],
       "answer": "I'm from China.",
-      "explanation": "回答来源地问句时，常用 I'm from + 地点。"
+      "explanation": "回答来源地问句时，常用 I'm from + 地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64da9bfa50db2dc67a6c4c5415c168ca791c9ac4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/8057407aa2454acaec7cd81d64fb6ff7360bb0aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e77a326033696c0e779ffbca1161437cf23fed2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/615d8b31d9fc8d190ef574a8a985c44ed2e7a89e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/4754ec41e7d054328958afa53c27d6814ef93992.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f167c4a27ba1beaa3921e38248ba73b291a4301.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "friend."
       ],
       "answer": "friends",
-      "explanation": "two 后面接名词复数 friends。"
+      "explanation": "two 后面接名词复数 friends。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1641b2092f24370ffa08edb93d8928b6f3290e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e69867ca7d5a7b0ab60a2a61e7b791c106f7bf64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d9209c4598bfbc38b3c096081bee3a09697e939.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0c40a15679255af8f7674d774c9074aa2cb23ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f6d9d6bc56fc34fccad927f6f7fabf81195400e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/32d9f540142177432d76bc63c92b588e03a4b29b.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +109,11 @@
       "question": "I'm ___ China. (我来自中国。)",
       "options": [],
       "answer": "from",
-      "explanation": "来自用介词 from。"
+      "explanation": "来自用介词 from。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfe0c1169e2e6ae9c6bd98705d0762bd3c5cae63.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3306e0dcff2a733ad2fb087ee4e0192b78af8e68.mp3"
+      }
     },
     {
       "id": 17,
@@ -86,7 +124,11 @@
       "question": "Where ___ you from?",
       "options": [],
       "answer": "are",
-      "explanation": "you 作为主语时 be 动词用 are。"
+      "explanation": "you 作为主语时 be 动词用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b39bd1956fb0259715b2ba42d859c48c6081c00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71257b3146ad23969c218c0f12dbe518372519ee.mp3"
+      }
     },
     {
       "id": 22,
@@ -102,7 +144,17 @@
         "China"
       ],
       "answer": "I,am,from,China",
-      "explanation": "陈述句结构：主语 + am + from + 来源地。"
+      "explanation": "陈述句结构：主语 + am + from + 来源地。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbcaf867e3d1fcd3cc93b57a2673256674031e84.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/0b/0b1e95cfd9775191a7224d0a218ae79187e80c1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2eaf2aa1512d6596e0a5bae633537c6b8e779a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3eae958bd7f9dd078ec6a3527f824ebf9861d95c.mp3"
+      }
     },
     {
       "id": 23,
@@ -118,7 +170,17 @@
         "to"
       ],
       "answer": "Welcome,back,to,school",
-      "explanation": "固定短语 welcome back to school。"
+      "explanation": "固定短语 welcome back to school。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d2e650ac7a1715e4b62cca03ebb8081b07b9d879.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca4f9dcf204e2037bfe5884867bead98bd9cbaf8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61bb8d29b5be7db307cb29005bff087ebe300454.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc10856a6587134bfa997eb38b3563685925ac74.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "漏掉 be 动词，说成 I from China。",
       "from 后面加了 a，如 I'm from a China。"
     ],
-    "tips": "注意 China/USA/Canada 等国家名首字母要大写。"
+    "tips": "注意 China/USA/Canada 等国家名首字母要大写。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/70/70a6b2bbb1959f7335454317754d71116541f21c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/34/3457acf93a87658cec15134736d90cd625709684.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/07/07679a16500ceae414388750a4426631b26051c6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9c/9ca20c019580955de60ad56988392743fd4cff6d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0c/0cd38e277d384b8f2995e2223310342d918b1c28.mp3",
+        "https://api.clthuanxie.cn/cc-audio/74/74a07ca1b0bd191346ad6a73dc4a7ce1660a0861.mp3"
+      ]
+    }
   }
 }

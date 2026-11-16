@@ -16,7 +16,11 @@
       "question": "空气看不见，所以它不属于地球家园的一部分。",
       "options": [],
       "answer": "错",
-      "explanation": "空气是地球家园非常重要的非生物部分。"
+      "explanation": "空气是地球家园非常重要的非生物部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b664505ed6534be10a8aa13e048cb39ef7815ae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6056992b45d8b66e3b26059ced86948707d4dbf.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "太阳在空中的位置是会变化的，我们的影子也会随之变化。",
       "options": [],
       "answer": "对",
-      "explanation": "影子的长度和方向随太阳高度和方位的变化而改变。"
+      "explanation": "影子的长度和方向随太阳高度和方位的变化而改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d60eb39dda7f02ad0ecd08ed459f3d699413d33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78df6f05790970e91e19f67088194d42540e74be.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "不同的季节里，我们的穿着是一样的。",
       "options": [],
       "answer": "错",
-      "explanation": "我们要根据季节变化调节着装，保暖或防暑。"
+      "explanation": "我们要根据季节变化调节着装，保暖或防暑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de849ac02b8f1386dc13616fb19c1bf1fe2c49ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bb8a680614919e6761e49937dedc22d0f3686e9.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "我们虽然看到的月亮形状不同，但月球本身不发光。",
       "options": [],
       "answer": "对",
-      "explanation": "月球反射的是太阳的光。"
+      "explanation": "月球反射的是太阳的光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60cbea854c120668c9eca6ac086bba4eab81f78b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f6c4e8f5fc0881cb3fdd94529cf4d64d83a76a38.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "小猫"
       ],
       "answer": "岩石",
-      "explanation": "岩石没有生命，属于非生物。"
+      "explanation": "岩石没有生命，属于非生物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/046cdd61fb7f271057006e5e3813a06e58ab9bab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23cb8dbe3fcca305e87a76e5a2b6b230e5737923.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30dbe6736fe4c7658ed3d2dc32569e92d0796b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a81c5d73781e208b65326573f0c2ed334f470e9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e5be3b89ae2fa683df4bc780d51dd27bb6b65a7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b53fcffa45e7047736892e4c9adb24c4e574770f.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "右边是太阳"
       ],
       "answer": "正在落下的太阳",
-      "explanation": "日落在西方，面向落日即面向西方。"
+      "explanation": "日落在西方，面向落日即面向西方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fc9f564533f0017ccbaa3c0bd8dff73e5e8be72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95d5ab5c4e6c70e473b315f43a67e031f6ffd470.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b983b2e5840e6c4eaeb626870fd6f719efe55e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/5014290673bd9c20febee80756929ce8b8ce367b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/622b900e33efb259db316c8621742f0adfcdf354.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a123b5d67238d768b06489d899d44a33499c2d4.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "小狗换厚毛"
       ],
       "answer": "松鼠储存松果",
-      "explanation": "松鼠在秋季储存粮食以备冬月食用。"
+      "explanation": "松鼠在秋季储存粮食以备冬月食用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0aea634fec661dc49f8de4956aeb8066a4c1125d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8eb724e7f97aa8b21806cf32db253821342719a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8e6cd3ecf5d97d27bfc4235a71c5982976b67a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3c3845f0fb49e847a0091b8f977a5bae22020b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b79da03ab1a79699f84a31e76a83ba38c985258e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d5a9a606890621405c793dfcff9cd34f4234208.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "捉鸟当宠物"
       ],
       "answer": "垃圾分类回收",
-      "explanation": "垃圾分类有助于资源利用和环境保护。"
+      "explanation": "垃圾分类有助于资源利用和环境保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/0684e1d638f6516a3e0b85595f460a23ac9619da.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/93/9301e6334dbd1f8d41a872e3a3ef72be5f8b352c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73395a5ac5bbf89f6d50491ebcfd58d2f0b4ab1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2932cfda466bc7a4553896baca68f7cf79c3b0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b2f84bdb632553ff3bcae69d16c1d0abf967eb4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb638d82dc74630bce3aa4d761e07d536e4fc5a0.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "北方"
       ],
       "answer": "北方",
-      "explanation": "面东背西，左北右南。"
+      "explanation": "面东背西，左北右南。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f183a9e094b488edc2978f118c359ef792e76cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5efd206af0f13008ec70a797f512dd11b587d192.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96a32270925b0d5e53c765433344691fec2e5ffa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c23287b82bee0728a0c06fb3b0223951d6082db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49c1d08379d195a9785223cf293dfd11699b7054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cd9cfd0e409cd382a56c2760b22db6880c73dbf7.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "凉拖鞋"
       ],
       "answer": "厚棉袄",
-      "explanation": "下雪天气温低，需防寒保暖。"
+      "explanation": "下雪天气温低，需防寒保暖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a35bc65a0902ec27a2c15a6bc33ef02a786007e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2faae3dd68daf0c6a846cdf90aa589bc7580d15e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ea9aedcc85b62649cbb437fd4d68da2b48dc9de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d74341ccb76053a941485ea2612c0619cca9a70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67c1b813c829db008c23a9b7c48504feede19b24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/050a259d6125c551ec11b86425e37a25c075aeea.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "天气会变凉爽"
       ],
       "answer": "生命将无法生存",
-      "explanation": "水是生命之源，没有水生命就会枯萎。"
+      "explanation": "水是生命之源，没有水生命就会枯萎。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1ee62e954858021e4552ae01d25a96ca9c6cf1b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c92fdf5a64fe16bd41241f8d0fa632c3319057e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59ef6f705fbcb707a4ff920b6359320a7da3feb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/071e0dfbd8bacdfd91de50b2fa13716740553cac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967111447af3bca148cb3bec873192c0a3fcfabb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03d9b7b02bcebeb86f0041d9bddc5e56e7957613.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "冬季"
       ],
       "answer": "春季",
-      "explanation": "一年之计在于春，春季是播种的季节。"
+      "explanation": "一年之计在于春，春季是播种的季节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14e8934fb1919113dfe6e5a1df2e66fb7da6369c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/7722a3b52f0642a9856188a1e3557ca6237af7c2.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "月相变化一个周期（农历一个月）大约有（___）天。",
       "options": [],
       "answer": "30",
-      "explanation": "农历月平均约为29.5天，整数约为30天。"
+      "explanation": "农历月平均约为29.5天，整数约为30天。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78c6ec4d6e12d504ee6fd2c7034ace70b7a69f5a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05efb6546a3974b3f9bf21111d3a86ba62c0518f.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "每天太阳升起、落下，我们的方位一共有（___）个基本方向。",
       "options": [],
       "answer": "4",
-      "explanation": "即东、南、西、北。"
+      "explanation": "即东、南、西、北。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e133eba68db35a84987286e63cc8584ab7a7d608.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1ccfe8047e59e121c556b5c80cd5463dd8f88db5.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "冬天天气寒冷，北方会降下白色的（___）。",
       "options": [],
       "answer": "雪",
-      "explanation": "降雪是冬天的典型天气现象。"
+      "explanation": "降雪是冬天的典型天气现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/9229fc34785b9649e8c895651b86f8cac28fc88a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/8215ebdcf1ba15afe4054b248142d9baabb97bd8.mp3"
+      }
     }
   ],
   "knowledge": null

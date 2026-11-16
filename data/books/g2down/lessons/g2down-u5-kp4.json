@@ -16,7 +16,11 @@
       "question": "小明有 20 元，买 3 本 5 元的练习本，还剩 5 元。",
       "options": [],
       "answer": "对",
-      "explanation": "列式：$20 - 3 \times 5 = 20 - 15 = 5$（元）。验算：$15 + 5 = 20$ ✓。"
+      "explanation": "列式：$20 - 3 \times 5 = 20 - 15 = 5$（元）。验算：$15 + 5 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/113debee76f4fee993ccc1d2801bf694267619de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/6348157c1307aa1d9dee7f77b608598a0c5d6d6d.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "30 棵"
       ],
       "answer": "34 棵",
-      "explanation": "$3 \times 8 + 10 = 24 + 10 = 34$（棵）。"
+      "explanation": "$3 \times 8 + 10 = 24 + 10 = 34$（棵）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cb59992bd42253066573d2d911d4ccfd4444fda.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61bcb3a1ad753f5dab3534f8fe9309ac4e3e8907.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1821973f1fe03a587e9eaab76bff2560c62c8ed6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6524bed92f2e71bcaf9a1d7842a557b173401185.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e26bea2e03919bb2c211a822a75c4027669b547.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/716fca2f80039dc95a3b712e825a07817c4892aa.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "15 元"
       ],
       "answer": "16 元",
-      "explanation": "$10 + 3 \times 2 = 10 + 6 = 16$（元）。"
+      "explanation": "$10 + 3 \times 2 = 10 + 6 = 16$（元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdeccddbaf9736159ed4749850745fe7f4f82b82.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/205c28306ea68259a7b15a70969dee6f282f2e41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0899e409e3520afce09254ff73f9907eeaf7f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c4b8ac63ebb077ac7f1e5c7f2ad1bf50cdabbfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd4d0d29da718260003de4990f80514ac35255d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7648c3ed86463d64b52e7f9ea3b2f84a7a075d88.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "变少了",
-      "explanation": "开走 10 辆，进来 8 辆，$10 > 8$，相当于净少 2 辆，所以变少了。"
+      "explanation": "开走 10 辆，进来 8 辆，$10 > 8$，相当于净少 2 辆，所以变少了。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66b9c6bcbadad2c9e004f9cd95b60d5bbd35aec0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff745e9d5e9a9bd80a245727a92bed0ad66998d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf28f52c661b037a9241c67b4a6d91e62ea60287.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38927656afca0a05f278b7269ff48c1fd52fa2e7.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "二年级一班有 22 名男同学，20 名女同学。每 6 人一组，全班可以分成 ___ 组。",
       "options": [],
       "answer": "7",
-      "explanation": "列式：$(22 + 20) \times 6 = 42 \times 6 = 7$（组）。验算：$7 \times 6 = 42$ ✓。"
+      "explanation": "列式：$(22 + 20) \times 6 = 42 \times 6 = 7$（组）。验算：$7 \times 6 = 42$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/025ea56e6d2806ced5090115f6bb859543c0435b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fcaec84ad4cbe4ddc1148fd3861dab3e7ff5f3f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "分步算式写对，但合并综合算式时忘记加必要的括号。",
       "逻辑混乱，不知道第一步应该先求什么。"
     ],
-    "tips": "先写分步，再合综合；合完检查，顺序对错。"
+    "tips": "先写分步，再合综合；合完检查，顺序对错。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a077a208983b415df800f924ca702023689bca30.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9c/9c61f44a24f56b5a3ff50594ac5be3fc81065b5f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f3/f345affda9ac00402d275dbaf85e1a7729e14cba.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b3/b35c3cf8100a8289e5d25edbe488001c26aba286.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9e/9e1b65e06a02b0516e38aa23bb75ca342c5a260c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b4/b47e15997fff4646dfe49e435664fbe745107a66.mp3"
+      ]
+    }
   }
 }

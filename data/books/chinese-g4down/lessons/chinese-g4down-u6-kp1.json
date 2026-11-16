@@ -16,7 +16,11 @@
       "question": "给长文章列小标题时，每个小标题的字数必须完全一样才行。",
       "options": [],
       "answer": "错",
-      "explanation": "小标题字数尽量工整即可，不强制要求完全一样，核心在于概括内容。"
+      "explanation": "小标题字数尽量工整即可，不强制要求完全一样，核心在于概括内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1d4d2991334e64af651a1508340366fa8152b2cc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/cae4b946dfa12c7354e93008ada49860f9d59a19.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "勇斗鬼子兵"
       ],
       "answer": "游泳本领高",
-      "explanation": "第一部分主要描写雨来在芦花村戏水的情景，突出了他水性好。"
+      "explanation": "第一部分主要描写雨来在芦花村戏水的情景，突出了他水性好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cc9545a57f8c3ea88932e8251936a3e9a9db41c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/845a76957b0bc831cc638d4297875ac3c53c6a0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d7762e110bdb3a7ad65d637df9907c63e96f820.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7819f61764d0bc7b336272c79f32ba9ad6d0dde8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1130ed28cd5dfcabb32a2d49734872d729779b7b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78950baf2ecaec2f630167ccdfc9cfd3473d512c.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "青铜的心事"
       ],
       "answer": "雪中枯等",
-      "explanation": "这段文字主要写青铜在雪天里为了卖鞋长时间坚持，体现了坚韧。"
+      "explanation": "这段文字主要写青铜在雪天里为了卖鞋长时间坚持，体现了坚韧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9d165e3a13785541a82a56887692ec044a74920.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/744aec47aeb7b17e9d0c05b47b1d2fdab9937e55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77680237759c0d39dfd14c05dee42b5d6bb37573.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d21ac834788f12bf0d41dc554e028b072faa8a6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f14b6d01020b90bc33d230735b992314d3cfb0eb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/632e8418d02c2cdc73e1ea3dcf233759e0783afe.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "在《小英雄雨来》中，由于雨来在鬼子的毒打下坚贞不屈，人们都夸他是（___）。",
       "options": [],
       "answer": "小英雄",
-      "explanation": "雨来的勇敢品质使他赢得了“小英雄”的美称。"
+      "explanation": "雨来的勇敢品质使他赢得了“小英雄”的美称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30f706b2c477e634ff9fc01447a53434491968f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ea578f8df5b19e51962a3dceb1f3e3089f4d213.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "小标题起得太长，像一句话句意总结",
       "标题概括不全，只说了细枝末节"
     ],
-    "tips": "可以尝试用文中出现的具有代表性的物件、动作或关键情节作为标题。"
+    "tips": "可以尝试用文中出现的具有代表性的物件、动作或关键情节作为标题。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d7/d7a839fb713a5d9f0f38219e52445bd99592f0e6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0b/0be5db72527c24314ce30f21cd568f98fc1558b5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4f/4f1399676fa88afcd1c0d10861e81977df9d5afa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/47/473546e98063f07568b02460a566a1d4e1a432e4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f8/f8abac9cb0bdd00bd7d25474d8867f86503b6a2a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6f/6f3142659a36c4cba2627dd59b6af678866d3169.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "餐具"
       ],
       "answer": "餐具",
-      "explanation": "科学考察需要记录和观察工具，餐具与观察实验无关。"
+      "explanation": "科学考察需要记录和观察工具，餐具与观察实验无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa50d946e9481b3d060a4868d26b650bd2e046b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/16a83953bfafec1ec6cbee0afeed81b9ab4f3215.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd52d6c26eac71f33ec9eb77d62a49ef4dcf74b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0398d9d8b83d41a2e316fa8fe7b055e8cee70d72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc3d51e4ab448aa57baea237a37b6a4ed20e5d52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/57d05650dd561d4b95501c24ebe8f122defb88e5.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "什么都不做"
       ],
       "answer": "吃完饭把碗收到厨房",
-      "explanation": "主动分担家务。"
+      "explanation": "主动分担家务。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/deb8a948beec797e80afaea4f614cedaa38fd056.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/9789b1bb3ba089fbbcf4071092b2b9e6da60d255.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d6454f2ba24d718ae2906fa74e10f307a929d43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d38abf32402eaddacdb027fa4e9db3160af23bd2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a813170c89668ac16f38c5d24a16ea1fd4f77744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c61cd14a3fc57254319653391c7555b556d317e3.mp3"
+      }
     },
     {
       "id": 3,
@@ -32,7 +42,11 @@
       "question": "家务活需要全家人共同分担。",
       "options": [],
       "answer": "对",
-      "explanation": "家务要分担。"
+      "explanation": "家务要分担。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4b15b7f34f3754e7c86b81a5b3150534e520afc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1ca3c4619d52fd0db5e3084961bce7760949f949.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "认为家务只是父母的事。"
     ],
-    "tips": "从小事做起分担家务。"
+    "tips": "从小事做起分担家务。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/78/78a132bbaf2a4ce4747157bacc1d6d08e98dad51.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ec/ec3fa299d75abf6cbdc269d0a3828b04364b5524.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/84/84d513c32fce215c7c2a4837cfe17d9a679a162f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/73/73a13bf6a127482cf253a216bb8418cf463df6ce.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/22/2221aa373f5514016dcbb1770527bf915b7c7c4b.mp3"
+      ]
+    }
   }
 }

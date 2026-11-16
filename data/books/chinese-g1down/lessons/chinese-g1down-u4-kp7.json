@@ -21,7 +21,17 @@
         "xìn"
       ],
       "answer": "xīng",
-      "explanation": "兴奋（xīng fèn）表示振奋。高兴时读作第四声。"
+      "explanation": "兴奋（xīng fèn）表示振奋。高兴时读作第四声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a91d0147843c7a4ac64242af7ff0fe53c5fb7a76.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54184d2a6fd680112b4c620e1e1342e57f2b6952.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab434fc3c169708ac9068f1f56b0506b109f3f29.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/88e1e3b5e231ca3ea01a927d9ac39eb42d2095cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47c96f297c9baf429d9a8bba5db177e27ba54eb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6063571e3d41da728fa3cd8e8b672d202ebb17f5.mp3"
+      }
     }
   ],
   "knowledge": null

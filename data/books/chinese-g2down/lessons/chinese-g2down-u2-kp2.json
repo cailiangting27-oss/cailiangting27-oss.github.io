@@ -16,7 +16,11 @@
       "question": "“千人糕”就是一千个人一起做出来的糕点。",
       "options": [],
       "answer": "错",
-      "explanation": "千人糕指经过很多人的劳动才做成的糕点，非字面一千人。"
+      "explanation": "千人糕指经过很多人的劳动才做成的糕点，非字面一千人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd7d92ff7b579ec98e4251247e1552a18a480d2c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bea159b9056e015cc586584511b8cc5dfa4dd9f9.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "天上掉下来的"
       ],
       "answer": "大米磨出来的",
-      "explanation": "大米经过加工磨成米粉。"
+      "explanation": "大米经过加工磨成米粉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfd5f9f659dd4f1c33fb97d551f448f9e4e5cae5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30c93fe417a30c8948c269b2eb8ff56263484c14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02c85d4430d848430eddfa6112efaa56b030f0cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e62242b5cee2129dec3f67bc8c739d3aa7616be2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5bb39958eccfdd8fb9aba5d97281586410efa1d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3771227cd58787b65078a00fa004ad9262792375.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "要多吃糕点"
       ],
       "answer": "成果来之不易",
-      "explanation": "通过理解千人糕的制作，明白劳动创造价值。"
+      "explanation": "通过理解千人糕的制作，明白劳动创造价值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a795b46e0ae44f412ad75818e86e8a33512227c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/402faed7b8386bc0df988afaf226b6bb862e1ec2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e92b55ccf40d4975347840bfefe6b6be6ad03ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61d54d71044afcb6e39cbda367ea544d6133ae3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2b48e26de1072fa6b090c8f6bb86f2cc388ff34.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42a4f2694a6e734371cac5cc40e299298758f50a.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "去电影院看戏"
       ],
       "answer": "去电影院看戏",
-      "explanation": "看戏与面包制作流程无关。"
+      "explanation": "看戏与面包制作流程无关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad527e2f7d20021ddc08a24eaa74b9e633c91737.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a9/a9fffbbf27b67b53dd3f2a90a641181fd6b107a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1af65cf557b21492bebc4b2d5d35144fd6e0a365.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9ab2a71b98410be8a7024b0f6c7468372d70e19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e96a879e32af7dba7434b1bdbd3f4e23b961dcc6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/833a8e6be4523e06e9aacda1c144c700bd9dc92e.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "做千人糕需要大米、糖和（）。",
       "options": [],
       "answer": "劳动",
-      "explanation": "文末点名糕点包含了许多人的劳动。"
+      "explanation": "文末点名糕点包含了许多人的劳动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2fe82eadf202b1b694640a588617af2b14ae29d8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e99316869cefe50af13542b61b93e1d3893357d3.mp3"
+      }
     },
     {
       "id": 19,
@@ -95,7 +133,21 @@
         "磨粉"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "锄头锄草，磨盘磨粉，鱼网捕鱼，剪刀裁衣。"
+      "explanation": "锄头锄草，磨盘磨粉，鱼网捕鱼，剪刀裁衣。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24a753cfaf25a8c1b3b03ebba676079d4e095129.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1c/1cde9e8ac14e9c5b4887881e5505b4e5be08e7d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ccc8ab3ef0a0e1eed8da9184ab3d4bf02c82b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef34e1426816966d6dd7c22dced30f4b4a51d7ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9db829fc07cfee57ada6d615ad440fa0c9c93456.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ccb64f1f2ef81ab38ce5686bd736edcaabe8aef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1e2acfde8e2f04dbdfda15806539bca91afa06b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd0f6d96af5520d9c580d2b4f8319267763dc702.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/764e96272fca9a73f969deb912ecd93037a6a412.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/446b0bd890dc0599492ee3622f1fffe1b92206b0.mp3"
+      }
     },
     {
       "id": 23,
@@ -111,7 +163,17 @@
         "这块糕"
       ],
       "answer": "做成,这块糕,真的很,不容易",
-      "explanation": "出自文中的感叹，强调劳动辛苦。"
+      "explanation": "出自文中的感叹，强调劳动辛苦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/336f45ed06cf2161d700e8ef9f739ec0a956b0c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/aca13ca9d28f9574a3ea66ca05f2a77991870f4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da3fe229c69e0cd99c847e1bbccf9659071a4937.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5a67a329fb0eaad714e4aa19944e579a5e2bd0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d30b006b7b91bea2d8e83ba17e90d87d3ec344f0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b83f9aee97afe996823ead2bc7c3a6dfef8db32.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -122,6 +184,16 @@
       "误认为千人糕是由一千人做的特殊糕点",
       "不理解糖、包装纸等配套环节也是生产的一部分"
     ],
-    "tips": "可以用“倒推法”，从盘中的食物回想超市、工厂、农田的场景。"
+    "tips": "可以用“倒推法”，从盘中的食物回想超市、工厂、农田的场景。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c8/c83eefb3c375f81c6bdd963e6956c97a4b7bf081.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/66/6672d832782a2c7ae49a731cb0af1bafc5ebfb9c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8d/8d0e957c85402ee07ee397e9650699d302446025.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b4/b44f64c1ce36f928c96b68ca476a7f0e431af344.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8c/8c0c439ed6ab156335825cbafd64799e97f16d2d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9c/9c150b694b155bd03dafe8379ed607f62579c3bf.mp3"
+      ]
+    }
   }
 }

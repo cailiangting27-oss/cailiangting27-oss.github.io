@@ -23,7 +23,19 @@
         "火焰"
       ],
       "answer": "红通通的,火烧云,像,一团,燃烧的,火焰",
-      "explanation": "主语是火烧云，喻体是火焰。"
+      "explanation": "主语是火烧云，喻体是火焰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b035de4147cda03b6354f88ab0e6b74fef7366a6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/47/472872c4d54dda684316f825a0091b19c9aedc98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5393e338df0f0cd491db59af432a01f31810b84f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70f79c0eb18dee388fcd653c10fa2f52c46361f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b0fc7e2634f02fb87cf55788f8d401ea19bcb779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86967ebb4eb5476bf23ea0f9b36af29d0984bf14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7b2da254fe1b93159421fd8fe03a184cdb41fa1.mp3"
+      }
     }
   ],
   "knowledge": null

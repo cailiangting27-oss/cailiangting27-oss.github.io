@@ -16,7 +16,11 @@
       "question": "在单词 'fish' 和 'sheep' 中，'sh' 的发音是相同的。",
       "options": [],
       "answer": "对",
-      "explanation": "sh在这两个单词中都发/ʃ/。"
+      "explanation": "sh在这两个单词中都发/ʃ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9fb321b5f3516d3d2625adf30c53b986ca79fe4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d32834ace62168354d87dbcffc79337031b109e.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "lunch"
       ],
       "answer": "school",
-      "explanation": "school中的ch发/k/，其他三个发/tʃ/。"
+      "explanation": "school中的ch发/k/，其他三个发/tʃ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a05351c5743d6df010f32efb32b53976d9fae189.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/ce/cef7e59218e3a7e18aaf7faa4a23bcd964323a66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/655f83be7512e5b5b3ba4c9976c043ece4b3ce51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094530549b5e204650f83c6e549adcfbeeead3de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7306a2e1b12ce3c7eb626f7497640efbf369152a.mp3"
+      }
     }
   ],
   "knowledge": null

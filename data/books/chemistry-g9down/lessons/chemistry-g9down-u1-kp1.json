@@ -21,7 +21,15 @@
         "金"
       ],
       "answer": "铁",
-      "explanation": "铁在氢之前。"
+      "explanation": "铁在氢之前。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/75/75f5e3ba76317eb36e509c367468ac416d08629b.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b5/b59df8c44a275e9a91bb76203330bf1e311fc56e.mp3"
+        ]
+      }
     },
     {
       "id": 2,

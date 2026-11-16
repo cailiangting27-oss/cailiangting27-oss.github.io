@@ -16,7 +16,11 @@
       "question": "奥斯特实验证明了导线只要靠近指南针，指南针就会发生偏转，不需要通电。",
       "options": [],
       "answer": "错",
-      "explanation": "奥斯特实验的核心是通电导线产生磁场使磁针偏转，不通电则无此现象。"
+      "explanation": "奥斯特实验的核心是通电导线产生磁场使磁针偏转，不通电则无此现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f617b6b23f1c00578f323d46150956d3eb12008.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74e369d2c564d00ecb346029eae5922931e11843.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "远离指南针"
       ],
       "answer": "平行指南针",
-      "explanation": "平行放置时，电流产生的磁场方向与磁针指向垂直，偏转最明显。"
+      "explanation": "平行放置时，电流产生的磁场方向与磁针指向垂直，偏转最明显。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bec767f10245a9bcdfd446f3d88d6939ea04cb2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/18/1840f45435494269295a26ccaa675ea17f63146e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a97064b99e7628f852e1e43f5ccb125872104dd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19932d1c8db6ba72002c230f6f5aeaa0a720aa02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/271a12e05959be926b3b81e73416065bde70a971.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dc091cb2cc2160e944308c8956d96802d4f6095.mp3"
+      }
     }
   ],
   "knowledge": null

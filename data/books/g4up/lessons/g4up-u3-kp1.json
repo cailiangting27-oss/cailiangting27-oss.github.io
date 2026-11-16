@@ -16,7 +16,11 @@
       "question": "直线可以向两端无限延伸，没有端点，所以直线无法测量长度。",
       "options": [],
       "answer": "对",
-      "explanation": "直线的特征是向两端无限延伸，没有端点，不可测量长度。"
+      "explanation": "直线的特征是向两端无限延伸，没有端点，不可测量长度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/581d79b1c4bfec3f9b4a224da06970e466323c2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab5caa928b3edd415979592763276b8c491ecdb6.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "把线段的一端无限延长，就得到了一条射线。",
       "options": [],
       "answer": "对",
-      "explanation": "射线只有一个端点，可以向一端无限延伸，由线段一端延长得到。"
+      "explanation": "射线只有一个端点，可以向一端无限延伸，由线段一端延长得到。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3547c7575fced013cca4bbb9ac144ad24c477e15.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/2527b486dd6fe76f3315653f025a9b62264e5398.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "曲线"
       ],
       "answer": "射线",
-      "explanation": "手电筒是端点，光向一个方向无限延伸，属于射线。"
+      "explanation": "手电筒是端点，光向一个方向无限延伸，属于射线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a76c7239589a9c9240b8c68e7f71509ebb3a58bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61c11e759d474abb20e55fe2547593ed29a66652.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98644666da25cf401fd0319463ac0cef2b0e11a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c284ed78618fd69574b6035c1afa323b61acc43.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1be701476d93ef0190932b66df7d03c331a22a4.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "线段"
       ],
       "answer": "线段",
-      "explanation": "根据数学公理，两点之间线段最短。"
+      "explanation": "根据数学公理，两点之间线段最短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65e9ed543c052bc0564efe410f2084cf9c63a657.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c284ed78618fd69574b6035c1afa323b61acc43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d4e9d0e7f3a325e2d7c04031191663e305b16bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98644666da25cf401fd0319463ac0cef2b0e11a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/61c11e759d474abb20e55fe2547593ed29a66652.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9414e2fdc0c466b041f5d25402c942f8d1672489.mp3"
+      }
     },
     {
       "id": 19,
@@ -70,7 +98,11 @@
       "question": "线段有 ___ 条端点。",
       "options": [],
       "answer": "2",
-      "explanation": "线段有两个端点。验算：直线0个，射线1个，线段2个 ✓。"
+      "explanation": "线段有两个端点。验算：直线0个，射线1个，线段2个 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dfaab9dd8e2ced47d30694d4dece36a707a4b05.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fbf4fce43cea739b07b0e2267f7d8f036ab9e1b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -81,6 +113,16 @@
       "误认为射线比直线短（两者都无限长，无法比较）",
       "在测量长度时将直线和射线代入（只有线段可测）"
     ],
-    "tips": "记法：线段“有头有尾”，射线“有头无尾”，直线“无头无尾”。"
+    "tips": "记法：线段“有头有尾”，射线“有头无尾”，直线“无头无尾”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9e/9e4b992a8c7bec7b9a59ccf26c78e034526124b8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/87/87878d3f3ac47d78ab13c2446735419894561dcc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4e/4e3da0c61db90ae14136c0097cf11edd7f83a9db.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/01/01adf312d969db7b3f71fca558c80abb1c67db19.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a6/a60d3b9a58454838ca587de1af833ed090aa549c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b5/b5a9f99591d804d479ed2921d82fbafd514f7b6e.mp3"
+      ]
+    }
   }
 }

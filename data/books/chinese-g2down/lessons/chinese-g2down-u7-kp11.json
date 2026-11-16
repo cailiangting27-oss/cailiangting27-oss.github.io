@@ -22,7 +22,18 @@
         "像"
       ],
       "answer": "大象,耳朵,像,两把,大扇子",
-      "explanation": "按照主语+谓语+宾语的结构排列比喻句。"
+      "explanation": "按照主语+谓语+宾语的结构排列比喻句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9200c357499ef310ab0426166b986fd94a97a13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8a198bd05d20eb071dbf6ac18ce6b88a90e6f78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/275431124168bbfe366db22e957c0e77ae1619de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/3156d99058284df99edecad89a038cd5bdad9894.mp3"
+      }
     },
     {
       "id": 23,
@@ -39,7 +50,18 @@
         "老想卖掉"
       ],
       "answer": "这一天,青蛙,老想卖掉,住在,烂泥塘里",
-      "explanation": "时间状语放在开头，注意句子通顺。"
+      "explanation": "时间状语放在开头，注意句子通顺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9200c357499ef310ab0426166b986fd94a97a13.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76cdb81bb9cc61afc7a841fade3106bea234f3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d8c4e9a60a1c3b8ca5dff1374b8a135c97f8b04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd400b0442ecc8f8db50769e561d75b62258c715.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/046c75b88da660794a3183dc391eddbf91e2ec08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f3367107b8f1c63ecb7b4ae87a3fc5d12e6cbbc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a22c43b7237621317a336df2d9bbf870f3e0e21.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "“为中华之崛起而读书”体现了周恩来宏大的抱负和爱国情怀。",
       "options": [],
       "answer": "对",
-      "explanation": "反映了少年周恩来深刻理解国家命运。"
+      "explanation": "反映了少年周恩来深刻理解国家命运。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f602d1658c0a64e2db9b3ddce271cd35efbf8383.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22d2fe1cdb9b8e7ccf303e03e092bbd6609f3bc4.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "梅兰芳在日本人的逼迫下，虽然忍受贫困，但从未动摇过演戏的念头。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是从未动摇过“拒演”的念头。"
+      "explanation": "应该是从未动摇过“拒演”的念头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33226328fbfd9ebdb6b4ff513d69f11a54e4dca3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db8e97a8668c9ba43dc6f64d6363e8ce1a0f7cfa.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "《凉州词》中的“醉卧沙场君莫笑”流露出对战争的极度恐惧。",
       "options": [],
       "answer": "错",
-      "explanation": "该句表现的是将士们视死如归的豪情和豁达。"
+      "explanation": "该句表现的是将士们视死如归的豪情和豁达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/28/28c77823a97fed488f5a7e6cfa3b776a4008fb74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36b8b84df50505ea53cd784d98a8048bce49d8f4.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "当时的中国租界是受中国政府法律管辖的区域。",
       "options": [],
       "answer": "错",
-      "explanation": "租界是列强强占的，中国法律在那儿不起作用。"
+      "explanation": "租界是列强强占的，中国法律在那儿不起作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/058c3a261757f049e26c2b6027c9ab5c3851071f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac5859e38c97a107c013bfa2f3fd1bbe056d5101.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "对奖赏的渴望"
       ],
       "answer": "对生死的淡然与报国心",
-      "explanation": "体现了边塞诗悲壮激昂的特点。"
+      "explanation": "体现了边塞诗悲壮激昂的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0241e38cbca5dd77b1ac5bdf242cc6fdabdd5421.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d8cb57e4182f6b62886c0d563acb7031e627ecc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b62fc9eb1c84b17e04e4cfd8c775208264b61e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f537d105c4c5ba8c9173d6eeb7a11aedfbb54ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8267954b750dd08d2da41342ca2d8e25f74b5f65.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa9ccc373f7a953f903b867a25d07ce62f3573fb.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "为了练习新的戏曲表演方式"
       ],
       "answer": "为了以生病为由拒给日寇表演",
-      "explanation": "这是艺术家为了民族大义做出的自我牺牲。"
+      "explanation": "这是艺术家为了民族大义做出的自我牺牲。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c88254c983c0b0c1d1e609a5fe35bc47321e1600.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1dd60d638ffff4e03d65aaf3884927e21b09397e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93db80b0071e213203263828bce74c57a9a33436.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1f4bb72d1f82cebf5cb587600fc5c0918331d87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d878edda52d2d02f4eb0650b74a5cd1b2914aa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/2731998a2feb3c730486b7c8d707e0df1300b2ce.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "考虑"
       ],
       "answer": "回头看",
-      "explanation": "顾盼指左看右看，回头看。"
+      "explanation": "顾盼指左看右看，回头看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d5305102bbca924170ce33939abb57fe7c6ed30.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22fe373112ac75baacaa1f0863a0533516e9f6e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c715a89489efa2daad478c40a60248cbb049defd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e44ddb6f20149f83c263add71528bc51e505f5e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40a28e6a568bf624fd23294e711df09ead0fa2de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e0f53627f6c7d623b9c43953484852c526e88af.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "反问"
       ],
       "answer": "借代",
-      "explanation": "以“琵琶”乐声借代奏乐的人或一种气氛。"
+      "explanation": "以“琵琶”乐声借代奏乐的人或一种气氛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4ca16985720a3e447092ca4b7f1b54fe435e7f0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/5611b1a2a36d75c1ad4ae40599e9c44a12bd0eec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0fcdb82034d86cc024bffe13df930a6d7ebfbc89.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "为了光耀门楣"
       ],
       "answer": "与众不同，心系国家",
-      "explanation": "在他人为功名利禄读书时，他却为民族复兴。"
+      "explanation": "在他人为功名利禄读书时，他却为民族复兴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d43315d7af23067a00f48b651109a65b4bb446e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe9a8c8e737944e8368312aa3e2dd0baad63cf5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49ce4e8160a2d7431869a8695b4fb2e9c5389729.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82b090a184b6f2659e769c7596c110f15d5fc65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9dee97948a28b0fa27fc40dfbe3677f63161cae3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f4efb02c0a3bca93c869e8d3b136cbbbdbd87d8.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "李广很会打仗"
       ],
       "answer": "对名将的怀念及对国家统一的期盼",
-      "explanation": "表达了对当下缺乏良将、边事未平的叹息。"
+      "explanation": "表达了对当下缺乏良将、边事未平的叹息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/649b4496a08e70583ef1cac41ef058bb8b058782.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f20fc63c1c3c3d025c00e6f2cfd1a557550ace34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c95e7b74939eb522364a948c1e6a0685b1ee858.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5be05bba08df21315c74311c804b0ee5eb4bf3cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62e30e480db1db01e6357d0fe3d2809e8534d0f2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a785404c3948f780d50c0a5d9e8ae7f30084c76.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《夏日绝句》中，“至今思项羽”的原因是因为他“不肯过（   ）”。",
       "options": [],
       "answer": "江东",
-      "explanation": "江东指长江以东，项羽兵败至此不愿渡江。"
+      "explanation": "江东指长江以东，项羽兵败至此不愿渡江。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e187333569b02eedd854da285f1d167e4a5b3b95.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/764ad6fb3d590f174b02f7e616ff73bc17bde9a0.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "梅兰芳被迫避居香港。为了不给日本人演戏，他（   ）了。 ",
       "options": [],
       "answer": "蓄须",
-      "explanation": "蓄须是他作为艺术家最明显的拒演标志。"
+      "explanation": "蓄须是他作为艺术家最明显的拒演标志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b167c71a3d4dadd43b59206e8dad237775d747cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e43cbe1824282f2b2b06d4ab148fa12559066cdd.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "李广将军"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "胡马-敌骑；飞将-李广；人杰-英勇的人；鬼雄-鬼中英雄。"
+      "explanation": "胡马-敌骑；飞将-李广；人杰-英勇的人；鬼雄-鬼中英雄。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/8095a30529638956543a439dc511f4b43cae978f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70fea4f5b4f4cc46c9c3bdd0947a6c6ccc67d8e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/498820474e4b69f432c31377d3433dc422785909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69a3118f810c8458252e7416e1012bdcac0eadb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48f2f5d4718661bfbe9d180fac52256b69cf0c13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8823c0ea489dd44d99132a950144697e65e86798.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdfa04fe7e425e2b7bdf9c27a432ee0453d4fad0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cb14e68cdf07da7fefc3c601affc01d3bcf495a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a0138b830a56ebc8d22646ef56f467b7fe14181.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6dc0bbcc609ed586c4fa97668251549e8d62049.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "提手旁"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "崛起-山；振-提手；塞-土部；拒-扌。"
+      "explanation": "崛起-山；振-提手；塞-土部；拒-扌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b33cf39454519f6ab3fbfe2bedc69edf5ee2330.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4adb089e503d49e1f012da29940eab0f4a54b626.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f82f11bbd9ecd00d275afe367c3a0f1d6b098d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af6be04a86430883a17725fe5f08147cd77164a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/55f23f1bc0de25fe8020c9ad282ee3f5f8ca4912.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1780266694af7077c076ad204ceef14097b9efbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d7741330bb7eafe481edc44ed3eb76304c60f05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a0e5d5d0bad2ee6bceb7cc5c269e1efa49c7491.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28e52d09931310fa0fe48ce40e3c3279db0bf7c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/044736d4d56d58b9f3524c85c5073f8c6ef2315e.mp3"
+      }
     },
     {
       "id": 22,
@@ -225,7 +337,19 @@
         "紧密相连"
       ],
       "answer": "每个人的,命运,应该,与,国家,紧密相连",
-      "explanation": "训练学生构建宏大的家国叙事语境。"
+      "explanation": "训练学生构建宏大的家国叙事语境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a0c1e2c29ee33158648e1e3a44ce53efcd126b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b027a40d202941614b4b7991cb9f2518228ead45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2478f6fe38a6d76f3b4eb1c536d39f391cd4e6da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85ce02d264036298a33f57ed3556bd3eb5adb90c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d879c54ee1d5d0cb83043e40b64403cf547fef72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e182e21dfd19301067c11426dd47b59540d06961.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efe9f4cb123bedc91bcaf6b40508c41937fcc62a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8e4da980fbb3ba85aa0db23c1d4c9659552dacf.mp3"
+      }
     }
   ],
   "knowledge": null

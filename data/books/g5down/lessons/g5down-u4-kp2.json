@@ -21,7 +21,17 @@
         "b 大于 a"
       ],
       "answer": "b 不等于 0",
-      "explanation": "在除法算式中，除数不能为 0；在分数中，分母不能为 0。"
+      "explanation": "在除法算式中，除数不能为 0；在分数中，分母不能为 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26fc889c542e770286ed50830f353d647944e219.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81297772ef274c5f625a1284b2f025f8c2cd7ecd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e860ea9b27488301d379326bc7b5f45fa15296e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b60e07ed7714736bd6d2e6280a6c64224399342.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98e0155f43d4a5e0b196abe9356ac202309610f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/643de0be554ba4e0d5b56dc1d208c0a7fdc1dcc1.mp3"
+      }
     },
     {
       "id": 13,
@@ -37,7 +47,17 @@
         "300/1"
       ],
       "answer": "75",
-      "explanation": "$300 \\div 4 = 75$（米）。验算：$75 \\times 4 = 300$ ✓。"
+      "explanation": "$300 \\div 4 = 75$（米）。验算：$75 \\times 4 = 300$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dda7922e0a10d791f56784fa48431e76bee1a6e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e20dedcec2b3fb785ede09a192727259bb9bf844.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d49ef078b276224209e21c2408a312be70bb9dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb0e79e9ce4b702747efd12b96ce113c1c3a2276.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9ca64e9afe51cb973ef5e50dc70291f591826e7b.mp3"
+      }
     },
     {
       "id": 19,
@@ -48,7 +68,11 @@
       "question": "45 分钟等于 ___ 小时。（用最简分数表示时，分子是多少？）",
       "options": [],
       "answer": "3",
-      "explanation": "45 分钟 = $45/60$ 小时。约分：$45/60 = (45 \\div 15) / (60 \\div 15) = 3/4$。分子是 3。"
+      "explanation": "45 分钟 = $45/60$ 小时。约分：$45/60 = (45 \\div 15) / (60 \\div 15) = 3/4$。分子是 3。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12699d203bacdb00ed0e9a20d461414d4cd32f6f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b383282a8203255d75ade999825e4ead1d701f4.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "颠倒被除数和除数的位置，例如 2 除以 5 写成 5/2",
       "忘记除数（分母）不能为 0"
     ],
-    "tips": "求“每份是多少”带单位，求“占全长的几分之几”不带单位。"
+    "tips": "求“每份是多少”带单位，求“占全长的几分之几”不带单位。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/16/162d598d18be7358d44ea64043fce4d82758b4ec.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/58/5892fc5369b005b6e16707098d74f75839e4bde9.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d0/d0a2ccd8814af80debb089f2c22564dc3a49edc7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0d/0d1d6ed3d0c3766ecf8ed22db61e6c74d8317d7c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/06/06a6af739096188fa3e75f00b04ffc8144df6a0a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/f8/f88ce929d0238eae28ed56d2dcfc8ae4f6d28901.mp3"
+      ]
+    }
   }
 }

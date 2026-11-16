@@ -21,7 +21,17 @@
         "雨很大"
       ],
       "answer": "乌云很低很厚",
-      "explanation": "压形象地写出了乌云的沉重感和低压感。"
+      "explanation": "压形象地写出了乌云的沉重感和低压感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddc0071e08d6537fccfddf527a0f8bbc3d316f51.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57d628afb87838b26e99cf77f7c0ae3601fee0af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7ddacc1deda6e18a80cd0078f62ce856fd0bc495.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d2b500195f59f77a4ece2f0a72440d9eb68cf1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91c1a587e4ee6a3f2621e78434d0c4149c902269.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b957abcc460252d6f654874c3586282217d442e9.mp3"
+      }
     }
   ],
   "knowledge": null

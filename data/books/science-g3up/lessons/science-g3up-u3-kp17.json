@@ -21,7 +21,17 @@
         "百叶箱"
       ],
       "answer": "风速仪",
-      "explanation": "风速仪是测量风速的专用仪器。"
+      "explanation": "风速仪是测量风速的专用仪器。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fde19beedf7fb27b16da405fa7d7b7d64ef2dc7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/389dfeacafdf6635684f535897c35f90393cea8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d7ac043653cbfcec32b110cca4e8028803c4b8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/296a14e81dc2f04e227b90a84650a3b56cb05158.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6bcbecb3620b77bf3ca9fac648d70b3e433795d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/bef9eeb122e497fda161d69b447c09253065eb7e.mp3"
+      }
     }
   ],
   "knowledge": null

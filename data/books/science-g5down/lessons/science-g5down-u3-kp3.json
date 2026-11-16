@@ -21,7 +21,17 @@
         "滴灌"
       ],
       "answer": "滴灌",
-      "explanation": "滴灌通过管道将水直接滴在作物根部，水分蒸发和渗漏最少。"
+      "explanation": "滴灌通过管道将水直接滴在作物根部，水分蒸发和渗漏最少。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39e1fdf76270000122c622122104329d3acd3560.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f007292172db77b03e4965f0b5aa9d7a514a1c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45d09e4d829963ab733a9d7d5e65d28f424fa23a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1b5365199dd36c1ed8e7679156934863f825b03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/57302a79d3dc3315449e248b271b9017d19e58e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75f9f58625b79158c0227c4880d2650506e11844.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "淋浴擦肥皂时暂时关闭喷头"
       ],
       "answer": "刷牙时不关水龙头",
-      "explanation": "刷牙不关水龙头会造成大量无意义的水浪费。"
+      "explanation": "刷牙不关水龙头会造成大量无意义的水浪费。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/456fb4704c74c0c53b6ac74fa2765ae80d734747.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/327cc71c1a989a6dcf576e4c43f0fabfa1b107ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa2e145fc64f638d197b00bee6d74e68515f199.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/9910d39a9cbbfba17097df6d1d52a840510c4a16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0202a699784bfa43a257cece717ddc33713c60d9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/587795f3f4e8c15f25aec0bbbfdf1b8e008919d3.mp3"
+      }
     },
     {
       "id": 22,
@@ -48,7 +68,11 @@
       "question": "为了节约水资源，将管道铺设在植物根部进行精准供水的技术叫（___）。",
       "options": [],
       "answer": "滴灌",
-      "explanation": "滴灌是现代农业最先进的精准节水灌溉技术之一。"
+      "explanation": "滴灌是现代农业最先进的精准节水灌溉技术之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25dae1e32a5cc8c1cce89f1156880963808d5b9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8fdc4c9993810f343085888712e0ec7028f9aa4f.mp3"
+      }
     }
   ],
   "knowledge": null

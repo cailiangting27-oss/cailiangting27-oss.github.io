@@ -21,7 +21,17 @@
         "系统"
       ],
       "answer": "系好鞋带",
-      "explanation": "在“系绳子”、“系鞋带”中读jì，在“关系”、“联系”中读xì。"
+      "explanation": "在“系绳子”、“系鞋带”中读jì，在“关系”、“联系”中读xì。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/144a9620df0eaf76fbab48544a590ae1f9950c28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/daf4f2dc0e5939d475f6da2cd4ffc444b0040190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dd6926e26c7a2a4c1deb82bee763e4e316d8fbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc9c840a4cfcee2ec7cabf4367a7dd29c8f99d5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1f6dff782621b434d4c4cf9fdae5c07cf2c0c6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/628fc3a7d12a6305ee20de8308dd4a9e0756145d.mp3"
+      }
     }
   ],
   "knowledge": null

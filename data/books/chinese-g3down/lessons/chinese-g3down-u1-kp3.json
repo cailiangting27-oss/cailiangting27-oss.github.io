@@ -16,7 +16,11 @@
       "question": "制作植物记录卡时，只能记录植物的样子，不能记录我的感受。",
       "options": [],
       "answer": "错",
-      "explanation": "记录卡不仅要记植物特征，也可以简要记录观察者的独特感受或发现。"
+      "explanation": "记录卡不仅要记植物特征，也可以简要记录观察者的独特感受或发现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/9382ba23bad1d4dbd5207221b4745fbed32f928b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/001547ccd701273b7317a117380b2d5a27eadda9.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "触觉"
       ],
       "answer": "触觉",
-      "explanation": "质感通常需要通过手摸（触觉）来感知。"
+      "explanation": "质感通常需要通过手摸（触觉）来感知。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/925c6370d933a5de0092c77a55b09e70fd4ec827.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/907b1b217e7e1c2cd4348454965360063e1e12b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1ac797ccabb099442ac4fe8f75c54ea290a7d53.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "听觉"
       ],
       "answer": "视觉",
-      "explanation": "颜色通过眼睛观察，属于视觉。"
+      "explanation": "颜色通过眼睛观察，属于视觉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08a13e242008feb6f59c8d6ac2d40666ab0f243e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e81cc46a275412cb548c5ca8e09616fa67760d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7be14944b14ca4b0917a0598c5b07bde22245913.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48da0b369cc31fc0fa456e22de9f7188e6724356.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96ef0de77b4da540ab58e7eb7e8e505cfa53915f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86bc3ad0e2461d388fd8b3cb782983eb54b89ef2.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "分类别"
       ],
       "answer": "打比方",
-      "explanation": "将荷叶比作大圆盘，生动形象地写出了荷叶圆而大的特点。"
+      "explanation": "将荷叶比作大圆盘，生动形象地写出了荷叶圆而大的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f499f2d656eea5af91de14794cb5e73cb4ce983.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c53a0e123a05cea187c233b0829222aaf727aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af2f709edb1699008b0015294973c1db7af52339.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/241d9edaf6a343a8009472eac44e6904a1ad4e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c60628da601881e2a05ad57267f0422234c844f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5fe395bd73f62f2fb3f4e1d8511613aee1cad34.mp3"
+      }
     },
     {
       "id": 21,
@@ -84,7 +118,21 @@
         "名字的来历"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "不同感官对应不同的观察特征。"
+      "explanation": "不同感官对应不同的观察特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbc514e1a91acfe8a12f38a64a34e6b0cfe53bd4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b67fdb2f3f85edb0e8db6b90b56b654e9fe089a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5537e953b1a3e93bb8bcd79f60454838337d0853.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e1f9f9044cebf940d8969eeb71bbed4128234a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0091bbe87222b81e624ec9c771005cf3e3174a3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5631994b91bdb29ed297cd6de74ed36ee455ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7a019e3518b43e85864e3911408e2776e3f85d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a61df8c5d24b6cbfea4be2dc17c6c0db6f8a912a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22a96062c015d1fd263ee3a0c41529937fb741a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/451ba9e7b50a9aac5f18108952329f6934616f93.mp3"
+      }
     },
     {
       "id": 23,
@@ -102,7 +150,19 @@
         "大圆盘"
       ],
       "answer": "荷叶,挨挨挤挤的,像,一个个,碧绿的,大圆盘",
-      "explanation": "出自《荷花》，训练比喻句的结构顺序。"
+      "explanation": "出自《荷花》，训练比喻句的结构顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfc894aff670fc8921f90dee7c3eefff19285955.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62defda1b02ed5d5a46b71f7751cb0214fc96887.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c898becae57b6b353231f978f4e68fb343205e02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab8062d057ea577a85444a42f33edae6a5ba0390.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c88c63df62dcca9e4cbcd7c00fa0161ceddef7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/3251e40e82a8adb5b4e543f6ca66ef4511d7c621.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48f5a8d64303018b610e220eb4ff7c5f4899307e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +173,16 @@
       "记录内容过于单一，只写“很美”“红色”，没有细节描写",
       "混淆观察到的事实和主观的想象，不知道记录卡应以事实为主"
     ],
-    "tips": "带上一个小本子实地看一朵花，分别记录它“看起来像什么”、“摸起来像什么”。"
+    "tips": "带上一个小本子实地看一朵花，分别记录它“看起来像什么”、“摸起来像什么”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4d/4d82e9eebc462aa69ad4a01fea9025d92b063a5c.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fc/fca776ad10e068143a475e55f84ac229e1508daa.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ee/ee698fee478bab7febde6c853fd3f1777eb53623.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/48/48c174329b2319f143a50f395a50d99fce524573.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9f/9f3029bd9fb78f4962c0853bde97319a2b91c469.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e7/e799e6d0ecc19fc6bfd498184f7adfbf40459ef7.mp3"
+      ]
+    }
   }
 }

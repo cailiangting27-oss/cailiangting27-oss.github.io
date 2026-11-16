@@ -21,7 +21,17 @@
         "烈日当空"
       ],
       "answer": "风平浪静",
-      "explanation": "课文开头交代“这一天风平浪静”，为水手们逗猴子提供了环境背景。"
+      "explanation": "课文开头交代“这一天风平浪静”，为水手们逗猴子提供了环境背景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffb2ef1848ab3b1f9d96b4540b1606d47dc64021.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae3cc9e5c88e2cf7c9f184a027cfa32a35e2e4a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e28ca2c778dc7e803a74fd39af577e63d168cf4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78678b4416d8ed73b7533cd5a216d287c0aac196.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7d2bd671dd6d3b32038f441e1e0e2f4e005d69b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77e085131e53829e2a19816e43cf3c8293adb2ce.mp3"
+      }
     }
   ],
   "knowledge": null

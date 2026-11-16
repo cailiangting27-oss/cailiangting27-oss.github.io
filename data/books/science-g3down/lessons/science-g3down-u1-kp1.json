@@ -16,7 +16,11 @@
       "question": "当我们坐在行驶的汽车里，看到路边的树木在向后退，是以路边的建筑为参照物的。",
       "options": [],
       "answer": "错",
-      "explanation": "看到树木向后退是以汽车或自己为参照物的；以路边建筑为参照物，树木是静止的。"
+      "explanation": "看到树木向后退是以汽车或自己为参照物的；以路边建筑为参照物，树木是静止的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d172656e4c4514f38d7e44f502d3b547bc8a632.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1971ad1d2a9ab13c7c11503fb3f184d23d69167.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "月亮"
       ],
       "answer": "地球",
-      "explanation": "描述天体运行通常是以观察者所在的地球作为参照物。"
+      "explanation": "描述天体运行通常是以观察者所在的地球作为参照物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5c9bc7d1e6324ca16977e4ee523934da60c92bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a04d7faed1e87cb0d1c083519a2804dc534b2278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc54e65af5fff38f4158a948f59a060d913d8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ca110cfd47b2a7129cf2f5808f7b5ea3d8b8d64.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "天空"
       ],
       "answer": "诗人乘坐的船",
-      "explanation": "山相对于船的位置发生了变化，所以船是参照物。"
+      "explanation": "山相对于船的位置发生了变化，所以船是参照物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a9a2eb4df663364fbbdc13ffb0357578b7dc2e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2accd7b5ceea57a4f27d0b5e1e74556c85d297c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e248e5603d3e908214e506d4c5fa3700b2ef7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c08e0a7dc92e3551666ff4ed499788788356b06c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b125e5a8da05a9008f4285ac9cb49ad6beaaf716.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8e7804ece100788ca049c8b8ddf6112e691529e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "认为参照物必须是静止的",
       "选择自己做参照物时忘记自己也在动"
     ],
-    "tips": "通常选择地面或地面上固定的物体作为参照物。"
+    "tips": "通常选择地面或地面上固定的物体作为参照物。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f2/f2d15da38d6871c42af6522fa30751bb52295c4f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1d5a895861060569c2880c8f8650d8bb5afe5fe6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ce/cec8a2f34e29bb342dcb12d314e41ef82513d3f6.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bb/bb740203853b284c66d8a4ffe13191060ff3964d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8f/8f7616b14807bc08094a5cbc31f10c76739c4f3e.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6c/6ca6893cd00aaf28927cc341e2785145d365e88b.mp3"
+      ]
+    }
   }
 }

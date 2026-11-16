@@ -16,7 +16,11 @@
       "question": "西北方向和东南方向是相对的。",
       "options": [],
       "answer": "对",
-      "explanation": "西对东，北对南。所以西北对应的反方向是东南。验算：正确 ✓。"
+      "explanation": "西对东，北对南。所以西北对应的反方向是东南。验算：正确 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc2e71f75095afb9749f60845a5edebd209c97de.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fb351899e70cd47df85d50f8a602dcb945baa73.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "指南针的红色指针指向北，那么另一端指向南。",
       "options": [],
       "answer": "对",
-      "explanation": "指南针指示南北轴线。验算：北对南，结论成立 ✓。"
+      "explanation": "指南针指示南北轴线。验算：北对南，结论成立 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53145321b121924b4d230b26b48380f1a4708206.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/958a8dae52efc81ab836d0a514a9a4a55f4e5c3b.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "东北方向"
       ],
       "answer": "西南方向",
-      "explanation": "位置的相对性：东北对西南。验算：东对西，北对南 ✓。"
+      "explanation": "位置的相对性：东北对西南。验算：东对西，北对南 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/491c78b1929a178704ac4fbc3df0eefb85ce53ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8afd0bf23d02698a30b18ceb1915ee8e41d2a178.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01b04432d2eb3dece09be8655760a52938ae9150.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/3670d19dcf9fcdf370cb100f38388c8bf910e13f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9383e89c1159a48242d33be610c4d93dac8c543.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74a17e5a371c8bf3819934645991a8ad9e1f260f.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +77,17 @@
         "北"
       ],
       "answer": "南",
-      "explanation": "南面阳光充沛，温度高，雪化得快。验算：南面采光好 ✓。"
+      "explanation": "南面阳光充沛，温度高，雪化得快。验算：南面采光好 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/68d4d7aebfcaf37c5494e21cea9851f6879a756a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/52/520b46a5cd1955b06e2267c2342689e695902045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6ac67fb746abeb4904729e0ade2f5a1044c5d39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f64b5a67e10ae90de39c333f681912fadf38643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48c14622317306d23dc6acf3f82877461a378334.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5305f2c9d59c8a9a390a3dfee94dd905133106fd.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +103,17 @@
         "西南方向"
       ],
       "answer": "东北方向",
-      "explanation": "题目已经明确给出了方向描述，即为东北。验算：逻辑一致 ✓。"
+      "explanation": "题目已经明确给出了方向描述，即为东北。验算：逻辑一致 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d5ba4a83a8634e5d07e6352634f9d1e0967b90d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cc/cc9908a862b401909fc677edacc5165be4b23e33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f76d9a8d8d3577848b7a487a96cf58d6295d9710.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9383e89c1159a48242d33be610c4d93dac8c543.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/3670d19dcf9fcdf370cb100f38388c8bf910e13f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c9c1914190f68fab89e658318fda15f6fbcf13f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "将东南、西北的相对关系搞错，例如认为东北的对面是东南。",
       "在描述方向时，将两个词反着写，如写成“北东”或“南西”（规范习惯应为东北、西南）。"
     ],
-    "tips": "可以想象一块表，12点是北，1点半的位置就是东北，3点是东。"
+    "tips": "可以想象一块表，12点是北，1点半的位置就是东北，3点是东。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/57/57defe928891df3fd1722f8545446bb7884732ea.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/47/479f2d1ee1b04963956323c8a2bdf472bc4a8c9a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/de/dea27e94da535c16e7ea4f44b5bff4064fc36bcc.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4e/4ee59277b02d334edb4868b6026ff441b8adcc31.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/60/60a2bfee71c029ce8073f19add17999b12dc19ab.mp3",
+        "https://api.clthuanxie.cn/cc-audio/91/9160124b1edb7f304b971684da7ad8199144342e.mp3"
+      ]
+    }
   }
 }

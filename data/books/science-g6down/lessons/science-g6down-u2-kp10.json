@@ -16,7 +16,11 @@
       "question": "化石只能在沉积岩中找到，在火山岩中不可能存在化石。",
       "options": [],
       "answer": "对",
-      "explanation": "由于岩浆的高温，化石通常保存在沉积岩中。"
+      "explanation": "由于岩浆的高温，化石通常保存在沉积岩中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dc4633ad6723901fd850b5a353da8816305e920.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/abeb2f525d66d8b86865a40004b3bc14f3ae65ab.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "瞬时情绪"
       ],
       "answer": "运动方式",
-      "explanation": "骨骼化石的结构可以反映其四肢发育和运动方式。"
+      "explanation": "骨骼化石的结构可以反映其四肢发育和运动方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32d92544743749f47fe16c250240ce231affdda8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6b/6bc5c97c150ff7159da7430976de5a59d23c5df1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/553647d92a4b3db55686ad74056fad2a39f7a38d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f059222cc8374bb338d9e5fce0577e9158d1b14b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/acda671abb30e9b6b8b89e73b5030f3070635c6a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dde4ff83bb7c43bd777a72f7ef69c9138779f776.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "凤仙花"
       ],
       "answer": "银杏",
-      "explanation": "银杏出现在几亿年前，形态至今变化不大，被称为活化石。"
+      "explanation": "银杏出现在几亿年前，形态至今变化不大，被称为活化石。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf28488a0ab4ff441f14e5197938d18fcc2eb4a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a0b8f20b29ef597086bb10b4cf69afcb9753ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b7a014a30860ac75ba2cfe53e2dd4fe932d1cc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/620a448551b6b86c2929a033a00739baf1b46305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03dc9363283a8ed58efedebc37602fb1155a4247.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/655bdc1d90457fa816891240833317437d06befb.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "是由恐龙演化而来"
       ],
       "answer": "具有耐寒的身体结构",
-      "explanation": "猛犸象披满长毛，是典型的寒带动物。"
+      "explanation": "猛犸象披满长毛，是典型的寒带动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24356619d42265f010dfb2d87a0bd07b50987412.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9e331a522c68723eaf7e817387462482e39e7c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bb4cc985c62e30a8a2296cb28967a1edea87ad2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb3e232696a136f1d91c0ebeaeb22005ea542cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4714ffc48eb5b1bce407faeae80c376155cc57.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/497d716f83eb6d1f55fc6254c94434302fbf6746.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "（ ）是存留在岩石中的古生物遗体、遗物或遗迹。",
       "options": [],
       "answer": "化石",
-      "explanation": "化石是研究生物进化的重要依据。"
+      "explanation": "化石是研究生物进化的重要依据。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a268a50c8e9588421489ae209ec94e17820ac143.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b25f47ffb374b57ed4de31333f9a4effcd60d87.mp3"
+      }
     }
   ],
   "knowledge": null

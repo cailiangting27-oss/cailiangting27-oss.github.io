@@ -16,7 +16,11 @@
       "question": "在同一个圆内，所有的直径都相等。",
       "options": [],
       "answer": "对",
-      "explanation": "根据圆的定义，在同圆或等圆中，所有的半径、直径分别相等。验算：圆规画圆时半径固定，直径为2倍半径，必然相等。"
+      "explanation": "根据圆的定义，在同圆或等圆中，所有的半径、直径分别相等。验算：圆规画圆时半径固定，直径为2倍半径，必然相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8e8cf26a63df0a6871dbbf653d7cb02e9dee510.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fbd63585c15ef25b050eff2ab931c671c75ec41.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "圆有无数条对称轴。",
       "options": [],
       "answer": "对",
-      "explanation": "圆是轴对称图形，每一条经过圆心的直线都是它的对称轴，这样的直线有无数条。"
+      "explanation": "圆是轴对称图形，每一条经过圆心的直线都是它的对称轴，这样的直线有无数条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/7232b055607ecbd6f363401b0abf2d047b7b53ff.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47ac8a7cccde79a719a3c07a984cea33fe67168f.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "圆心"
       ],
       "answer": "圆心",
-      "explanation": "在画圆时，针尖固定的位置即圆心决定位置，半径决定大小。"
+      "explanation": "在画圆时，针尖固定的位置即圆心决定位置，半径决定大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b1/b139f16bdf9c167773adfb492128172f63400be5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b29ee13085ed3138e1a04902fb82cbe79493cc25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/306fecb9d8e7afe2b508a6dd99b1b122f841ef64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189fa98f456f72816d08cc853f1c967d2d419fe1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/021c5aeadcc488d00cce601508e3ab94dd7904b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc90b8c2e46dd69c090f9685519eeff8b99fab6b.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "12"
       ],
       "answer": "6",
-      "explanation": "直径 $d = 2r = 2 \\times 3 = 6$厘米。"
+      "explanation": "直径 $d = 2r = 2 \\times 3 = 6$厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aaedcee768f59d2b0f485a976d76686a57bbae96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e9254f0475ac84f6e877a42a59648edd7a745f8.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "圆"
       ],
       "answer": "圆",
-      "explanation": "长方形2条，正方形4条，等边三角形3条，圆有无数条。"
+      "explanation": "长方形2条，正方形4条，等边三角形3条，圆有无数条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edd2c1427b65c27ebcbe2d9cc3b328f5ac845a31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/952bbe1b76197ffef23b9bf81ded249667308ef1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53a7fce4f970f44daf537f7f030be234b0fecb7c.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "如果一个圆的直径是20厘米，它的半径是 ___ 厘米。",
       "options": [],
       "answer": "10",
-      "explanation": "$20 \\div 2 = 10$。验算：$10 \\times 2 = 20$ ✓。"
+      "explanation": "$20 \\div 2 = 10$。验算：$10 \\times 2 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa489189e8296dd1f20692d52990ab611dec20b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43caa88ecd05d09b815a5fc00e5e277f03b8bae7.mp3"
+      }
     },
     {
       "id": 22,
@@ -97,7 +139,11 @@
       "question": "已知 $r = 5$，则 $2 \\times 3.14 \\times r = ?$",
       "options": [],
       "answer": "31",
-      "explanation": "$2 \\times 3.14 \\times 5 = 31.4$，取整为31。"
+      "explanation": "$2 \\times 3.14 \\times 5 = 31.4$，取整为31。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bc41590a36c235024f9874e2b75c9d89547d9a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf0e3ab829da9defd71106672d0b5fbf6aa1b535.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "误认为圆上任意两点间的线段就是直径，忽视了必须经过圆心这个前提。",
       "混淆圆心和半径的作用，记不清哪个决定位置，哪个决定大小。"
     ],
-    "tips": "折纸法：把圆对折再对折，交点就是圆心；用圆规画圆时，针尖位置不能移动。"
+    "tips": "折纸法：把圆对折再对折，交点就是圆心；用圆规画圆时，针尖位置不能移动。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5b/5b86fba5b40f362947273663e29c2c21d21b14d9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/28/2855acb3d2ccce5a1969dab90b72dd316bb23b7a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e0/e014fa4ea4e4bf16b7265c18f6e4d9c4f9031f49.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/10/1037897f355e890f7cd253142dcf771818874687.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9b/9bad2b38a9aab7bc337b1fb465ffcc82a805008a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e2/e245410cdf68d94ac72a7fdec01ac1919da6b254.mp3"
+      ]
+    }
   }
 }

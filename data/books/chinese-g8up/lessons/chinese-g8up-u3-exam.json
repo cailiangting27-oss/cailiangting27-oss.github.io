@@ -37,7 +37,15 @@
         "比喻论证"
       ],
       "answer": "对比论证",
-      "explanation": "正反对照是对比论证。"
+      "explanation": "正反对照是对比论证。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d2dcd8f7879d409d33cc8fdce28cd256f0c730e.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/1d/1de1f3a68a70515674bc74f3d75cad3f23c380f5.mp3"
+        ]
+      }
     },
     {
       "id": 7,

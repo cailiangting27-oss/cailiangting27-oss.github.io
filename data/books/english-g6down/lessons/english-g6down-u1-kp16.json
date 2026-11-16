@@ -21,7 +21,17 @@
         "tall"
       ],
       "answer": "size",
-      "explanation": "What size是固定短语，询问鞋子的号码。"
+      "explanation": "What size是固定短语，询问鞋子的号码。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a5496f2a982510c67b58299e82e2b048fcc05865.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e85183c21f800c0290d27f5c832b77e70a59045.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89368e1d68015693ab48ee189d0632cb5d6edfb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5a23cc73e118879d2efb2c175fefc17ed8fcaea.mp3"
+      }
     }
   ],
   "knowledge": null

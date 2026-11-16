@@ -16,7 +16,11 @@
       "question": "小明的体重是30克。",
       "options": [],
       "answer": "错",
-      "explanation": "一名二年级学生的体重大约是30千克。30克太轻了，大约只有3个10克物体的重量。"
+      "explanation": "一名二年级学生的体重大约是30千克。30克太轻了，大约只有3个10克物体的重量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a5ecd56eb618f9a6d3d72e06096d0d25f46ea1d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f2cad5b3b5d0517e2cf43a96f2eb18bb7d485d0.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "100克"
       ],
       "answer": "10千克",
-      "explanation": "日常生活中一袋普通大米通常为5千克或10千克。"
+      "explanation": "日常生活中一袋普通大米通常为5千克或10千克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e035b9fbedf6654bcd033d40a1843afa82ed7ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/497ac65c5d01e652dd9e3919cbf81312667f48f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80383a5c2cc6b48c3b134765edaecaf312d04022.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/824eea976dbcd16aac1bead84ce9b0b309bcaa4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79626bd392678357cc44dfb425e4f87527d27067.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0a235fecd6ff8a620377ef1b16125566986e758.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "电子台秤"
       ],
       "answer": "体重计",
-      "explanation": "体重计的量程适合人类体重，其他秤要么量程太小，要么不方便站立。"
+      "explanation": "体重计的量程适合人类体重，其他秤要么量程太小，要么不方便站立。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd3104a48e225c1abe00eeb4ce5058b3d135e68e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d558599b2e9a4466ccd88f68f16ea7117dc83518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0b64016308fc0a943655108709c39af7c39f78b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/410878d142d693d2a73ae5a4d60f686e7d04c961.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f83b9e1cf2e24303a7b7b6490616532ce119e223.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4715161f5c50bae736f51fbe2ee65111cb99f8bb.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "10"
       ],
       "answer": "2",
-      "explanation": "$1000 \bdiv 500 = 2$。验算：$500 + 500 = 1000$（克）。"
+      "explanation": "$1000 \bdiv 500 = 2$。验算：$500 + 500 = 1000$（克）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dc01a7652b4fdf9dc87dbd7783932aa36bbf2f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1a983745abc1d4d84af252643abd5e76ad28d5b.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "爷爷买回 4 千克苹果，妈妈买回 5 千克苹果，一共买回 ___ 千克。",
       "options": [],
       "answer": "9",
-      "explanation": "列式：$4 + 5 = 9$。单位一致，直接相加。验算：$9 - 5 = 4$✓。"
+      "explanation": "列式：$4 + 5 = 9$。单位一致，直接相加。验算：$9 - 5 = 4$✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/2712ea96eb31723890be14c1e6a5a71626ccd19b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/0547c4e0781a18213febcd8545f9e8fa2c1fbf69.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "读秤盘面读数错误，将指针位置看错",
       "认为千克只用于食物，不知体重也用千克"
     ],
-    "tips": "找找家里的5升油或5千克米，亲手提一提，感受“重”的程度。"
+    "tips": "找找家里的5升油或5千克米，亲手提一提，感受“重”的程度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e0/e0f234fb07af015568a7b0a3290ad81cb39d8852.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ab/ab61ba83d8b23afbdbb352fe3e42e6452a184354.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/59/594aaf6bf22a14185adc510ab9cba2a5a8ba5d89.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/64/64d6cbf750df5c2beb552140a5c10628936ca24c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/07/07645399e3bc8d5f5c01b44ca3ba3ae436168994.mp3",
+        "https://api.clthuanxie.cn/cc-audio/73/7326bacd94f3b78b93b11c4ed18a2b4c91dec487.mp3"
+      ]
+    }
   }
 }

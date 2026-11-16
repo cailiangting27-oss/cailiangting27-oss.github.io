@@ -16,7 +16,11 @@
       "question": "优秀的提问者只会在读完课文后才开始提问。",
       "options": [],
       "answer": "错",
-      "explanation": "阅读中、阅读后都可以提问，甚至看到题目时就可以开始思考。"
+      "explanation": "阅读中、阅读后都可以提问，甚至看到题目时就可以开始思考。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91045c408cacf8f6fc8c4d89b5bc24e21f53f6b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b33b35dfc9ba1e2c4cab0f2110fe1ae8ae63fe3e.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "豌豆花一共有几片花瓣？"
       ],
       "answer": "豌豆种子要在什么环境下才能发芽开花？",
-      "explanation": "该问题探讨的是动植物生长的客观条件，属于联系现实生活的科学常识提问。"
+      "explanation": "该问题探讨的是动植物生长的客观条件，属于联系现实生活的科学常识提问。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41e6fe7473e13bc9ab6c3cf865df0609b6c48695.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b1220456b9eb41f8687627d4a834793780427ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13f94ce8dc737041d9706e4c0a002ded407e857d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/252c930d14389ad9e4fdf2e092fdf876f0f378be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49b1e9e28e6c55af588fb90f81cddc1d518724ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/69df0eb3e95c83fe3d1a3639bb3a81f9fab03535.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "夸张"
       ],
       "answer": "排比",
-      "explanation": "四个“没有……”构成了结构相同、意义相关的排比句。"
+      "explanation": "四个“没有……”构成了结构相同、意义相关的排比句。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/324c2b4c9ee10160e0f381f85c5d745df9c333b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c419825611c8bec6685817d2caf4cefbfd3e5ba0.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "提问清单可以从内容、写法和（    ）三个角度来整理。",
       "options": [],
       "answer": "联系生活",
-      "explanation": "本单元明确提出的三个提问维度：内容、写法、联系生活。"
+      "explanation": "本单元明确提出的三个提问维度：内容、写法、联系生活。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc50fb8159e687044484381bbcf90a64436e4527.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f41a909a8ab9faf8820dcbd930475c7123ab0015.mp3"
+      }
     },
     {
       "id": 21,
@@ -79,7 +107,21 @@
         "科学常识"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "根据提问的切入点判断问题所属类别。"
+      "explanation": "根据提问的切入点判断问题所属类别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4a3f15a6361220078da780d022fbe65797281af.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f81b4106bdc24c2b824f2db5cc26cc02f051d40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8485421918a6be74d3e8fffe351bb0caacc25a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/1023b4b5844070a2dcaff5479f06fa1d2c15b3ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e18f94a66a39f75b63cae17fbfabcf2f343ca194.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/199095e19ea4fa20468686ac4e99b26911f44ae3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1554cddc344b0b955fcf980c2d1a5191c01439e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99f9d1b4ffc55ff4d587784b246d64747c3d9d2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6350ef4297e8f1e8b0d7f5d5bb7749d4ed9b20cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbba6c2fd3f88de36cc18957ccd3ec53cd847de9.mp3"
+      }
     },
     {
       "id": 23,
@@ -96,7 +138,18 @@
         "思考"
       ],
       "answer": "好问题,能够,引发,深入的,思考",
-      "explanation": "名词+助动词+动词+形容词+名词。"
+      "explanation": "名词+助动词+动词+形容词+名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cfc2480f01fbab8bf9f3660dd4e40334c74ad116.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/457c0eb7d30644c3a58f13b8181a5b02642b90a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e058d15ec3fc12a0be242b673c0b699d8cc98693.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1df88b3764bb4befe4c887640d01f4e79579c48b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/163f70c1a200daf5006b97f7d8226c22cd4eb98b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6c1499244b781e1a617bbe0f967561c5548a6b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa0a196cb6f10ff74dd78b544a6d99dee1f06444.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -107,6 +160,16 @@
       "只针对自己不认识的字词提问，忽略了对情节和写法的思考",
       "问题杂乱无章，无法区分哪些是关键问题"
     ],
-    "tips": "读课文时可以在旁边画个问号，先把脑子里冒出的所有念头记下来，再归类。"
+    "tips": "读课文时可以在旁边画个问号，先把脑子里冒出的所有念头记下来，再归类。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fa/fa57014a60ca22cf7c0d6dc105ac1286055c57b9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/29/290aee5a3976159e2319674bed4028b811bc3e35.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c3/c3cc71b43738d85bba02d27ef16ec8813308d655.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/53/53303fca4cd4858e0a615d283d9a379e0e83be12.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/09/099eade10a2b117315ec0d068b8a921b4a0b6e25.mp3",
+        "https://api.clthuanxie.cn/cc-audio/fe/fef331f7214b4e271f690f0c3357755aa980694c.mp3"
+      ]
+    }
   }
 }

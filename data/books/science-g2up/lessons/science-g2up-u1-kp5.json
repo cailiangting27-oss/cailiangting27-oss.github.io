@@ -16,7 +16,11 @@
       "question": "大雨天气也会对人类的出行产生影响。",
       "options": [],
       "answer": "对",
-      "explanation": "天气与人类生活密切相关，恶劣天气会带来不便。"
+      "explanation": "天气与人类生活密切相关，恶劣天气会带来不便。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be2da1db77beb0d9e739b954b3167618a0c052f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/4862ede7cfbc9f8d5ae972470d88df8fdb09a007.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "阴天"
       ],
       "answer": "阴天",
-      "explanation": "阴天的特征是云层厚且密，挡住了阳光。"
+      "explanation": "阴天的特征是云层厚且密，挡住了阳光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee657d42cc07626cee9bd374cfc35ec9147915de.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/5656dc6e7521f9c72681404886da76c6c4c6e6bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e6275c4b5937c4bcfd8c54f94b656d508ecdb00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51ea8f26e9e9912754f066e95950766da28d2dd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/bae5555301b1e15c59b8fd75a6c7d57c342a21e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/3404d8c3052f68adcab9fa049b56f155388a4366.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "晴天"
       ],
       "answer": "晴天",
-      "explanation": "晴天阳光充足，气温适宜，利于水分蒸发。"
+      "explanation": "晴天阳光充足，气温适宜，利于水分蒸发。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1d9d2d15e084a946db21574dd00c87b22b78caa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/079d9746cf187e5dcb703311deaaa28352d68a72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33650a129e92b7774ef2aac96b3ed38d3493768a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0b2b86513eb580be3c612c0c9ad903ef252b06b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5656dc6e7521f9c72681404886da76c6c4c6e6bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7cddde603cce14a683ec19b2b64780ff340fec71.mp3"
+      }
     }
   ],
   "knowledge": null

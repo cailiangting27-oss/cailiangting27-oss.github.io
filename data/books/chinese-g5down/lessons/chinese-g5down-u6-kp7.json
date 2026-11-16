@@ -21,7 +21,17 @@
         "赠送"
       ],
       "answer": "称赞",
-      "explanation": "在《自相矛盾》中，那个人夸赞他的盾，誉即称赞。"
+      "explanation": "在《自相矛盾》中，那个人夸赞他的盾，誉即称赞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0ee2473c61f668c308d36bd8555563af3ef01f1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/dc/dc04a5799df2cc95f347445c79e8897903a9714f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f6feabfdbcce305a6216ed1e3029c108be2bb98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ed44eb121fa67288dead3aab0301a0974618028.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/662dc863d6fd7b2996872dc227a9345ae122d7de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8bc92adcc858c93de878d8accf009140164a654a.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "坚决"
       ],
       "answer": "坚固",
-      "explanation": "指盾牌非常结实。"
+      "explanation": "指盾牌非常结实。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/234de9e042444551a83634f2426cc6ff5ac61b47.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d152669fc17e5bdbb055a4770bfa1c343e121c64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c2c09a2ec19f2223ef62d6e14f64a7b846efb63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c15d279877ff9fefc1382b05e994a8c5b69ce5c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13da3358c0d8f887f2a941c9b10a9851a8ee5535.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a74eb81f530476720a4a482952d7421587e80a2d.mp3"
+      }
     }
   ],
   "knowledge": null

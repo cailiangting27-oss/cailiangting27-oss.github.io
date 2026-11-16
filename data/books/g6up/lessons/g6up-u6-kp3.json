@@ -16,7 +16,11 @@
       "question": "在存款利息计算中，本金越多，利息一定越多。",
       "options": [],
       "answer": "错",
-      "explanation": "利息取决于本金、利率和时间三个因素。如果时间很短或利率极低，本金多利息也不一定多。"
+      "explanation": "利息取决于本金、利率和时间三个因素。如果时间很短或利率极低，本金多利息也不一定多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f4421870dadf4254d557eaaa1a71deea5ea9f1b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/3718bcc00d6e01f940e901d3cdfab576122300db.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "八五折"
       ],
       "answer": "八折",
-      "explanation": "支付 $100-20=80$，现价除以原价即折扣：$80 \\div 100 = 80\\%$，即八折。"
+      "explanation": "支付 $100-20=80$，现价除以原价即折扣：$80 \\div 100 = 80\\%$，即八折。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dab1f68dbcac91dbd9833dcb94d452f5acecd43.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/dabe74c7708cee838deb491a4c4539887b5a3b9a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f8d6c2c197b5b7435a24e7df32e7a2f3b038538.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2a356cba35708d51197560ad13915042f1f70cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea96470fda321bda953f7375d22eaa8c6de6373b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/666debba185f707baf326d0cd6d355be6166bc34.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "11000元"
       ],
       "answer": "1000元",
-      "explanation": "$10000 \\times 10\\% = 1000$ 元。"
+      "explanation": "$10000 \\times 10\\% = 1000$ 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d32ed42adc29ca8026d4e05aa98c510770faff2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1357a6c46413952162ad7ff83cab7b8f7fbf1dfa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49c4777553fd91fc23b325e3609d0100a0e0cc3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a2091fa164af704fce9fc3bb69fcea01936b25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab0b7c9a9a99a37397f382a6f52c0d93f3776542.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03cd2a6821a16626b57ef57ac46639284bcecd4d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "计算利息时漏掉‘存期’，或者存期单位不是年（如月）而未做转化。",
       "计算折扣时，将‘打八折’误认为是减去了 80%，实际上是卖原价的 80%。"
     ],
-    "tips": "折扣越低越便宜，五折即半价；利息计算一定要看清存储时间。"
+    "tips": "折扣越低越便宜，五折即半价；利息计算一定要看清存储时间。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/30/301f5616e99d486e865118b888739c475d7c1e27.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4e/4e3e052848250cb6400dea8d85a6241e81507ae7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b5/b5bae5ce9b570224fc8ac282fd58e626239774f8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/35/3596f3bad4c2bc5d3c61e41a233a8c6b607a121f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/2f/2f42e136a93819a9e2d04777036770cc78f6b5f5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/20/2044e455d36c0488bc4acba259c6757f83b4dc4a.mp3"
+      ]
+    }
   }
 }

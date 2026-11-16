@@ -21,7 +21,17 @@
         "You"
       ],
       "answer": "She",
-      "explanation": "题干指定为'她'，故选 She。"
+      "explanation": "题干指定为'她'，故选 She。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c94dc2c3007fe223f2bf4ea0968048babe68600.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/905cb326c779f0123e079bf8ccb223176a3cf32d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f12ebd9fc850363bc74a9da18e1b9fbe0720b3a.mp3"
+      }
     }
   ],
   "knowledge": null

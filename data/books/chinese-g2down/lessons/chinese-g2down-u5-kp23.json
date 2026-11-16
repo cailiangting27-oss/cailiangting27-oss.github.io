@@ -25,7 +25,21 @@
         "注视"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "常规器官功能配对。"
+      "explanation": "常规器官功能配对。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba6ebbd4f17af57b4430d79548814a0daaa16d48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ecb8e0ae28c3e57b70a36d98680b6e9de2b017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/1239c3ff5e84fbd92e1ee886512444c12ae4d32a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05b6b4a475f5850bad889136935d1959b5d119eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f5cd08f726d4c99b108c3da953b1f48cf638f6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c362f054fbd8df7545b198fb79a0d1601e9ce15c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a25e2662147e172ca27016863e0527f2ffd6944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c43952fd9cbab5ac957dbf503ce8fe710fe5d5b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a94b675923e5797b600e929df7c06dbe64c117b.mp3"
+      }
     }
   ],
   "knowledge": null

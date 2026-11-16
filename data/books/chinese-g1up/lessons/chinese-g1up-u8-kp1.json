@@ -16,7 +16,11 @@
       "question": "“林”和“明”这两个字都是左右结构。",
       "options": [],
       "answer": "对",
-      "explanation": "“林”由两个木组成，“明”由日和月组成，均为左右并列关系。"
+      "explanation": "“林”由两个木组成，“明”由日和月组成，均为左右并列关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/15/15a7f451c462eb32d3ca113f87e79bc61b4ca63f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98956fd8bcc4b7fb9d975022793a69d0b8c4fe08.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“爸”和“空”这两个字都是上下结构的字。",
       "options": [],
       "answer": "对",
-      "explanation": "“爸”是父字头，“空”是穴宝盖，均为上下层级关系。"
+      "explanation": "“爸”是父字头，“空”是穴宝盖，均为上下层级关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d6757e2d72acd5a161aae20ef22168a8f712bb0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64fd86398631f8626b068b47d29b913af608a8fa.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "和、如"
       ],
       "answer": "妈、地",
-      "explanation": "“妈、地”在书写时左边部分比例较小，右边占位较宽。B为全包围，C为上下结构。"
+      "explanation": "“妈、地”在书写时左边部分比例较小，右边占位较宽。B为全包围，C为上下结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/801c1c192729a6c346add54451c8194616f91eec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab3ee114353b12189296898e1fcfd054b2f9680f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b5438ee3c2f442bd29384afddb74baaebb36840.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3fa532dad0cbc7c86e2de91c178fe36080b04eb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbd703c860492b10b0471e88ad104035f98c1cbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f60c25644b3ee423db6d0fc8affea5606065a58.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "左右结构"
       ],
       "answer": "全包围结构",
-      "explanation": "“国”字中大“口”将里面的内容完全围住，是全包围结构。"
+      "explanation": "“国”字中大“口”将里面的内容完全围住，是全包围结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d784426322c8a22687776d0a5d4fc6cb8a9be22e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf6868b53126e92e528117ee8d76b2742108f496.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3ccade397ae69d5b80265c109d2874055e916116.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1a37e75c8c0fd27f772a71e19a47a33d9bb70a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89069ea3ff8938d21828516b7ff8335a3e7f1a26.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b1e0c4edc9dead6e09f70e09709263b93ead727.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "将“尖、尘”误认为左右结构",
       "全包围结构的字（如“国”）封口时间掌握不对"
     ],
-    "tips": "书写时，掌握“左窄右宽”或“上小下大”的比例原则，有助于把字写美观。"
+    "tips": "书写时，掌握“左窄右宽”或“上小下大”的比例原则，有助于把字写美观。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c9/c90387408cb75621d39ca5df70f3ced063c6c18f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/8e/8e74828398b1b22d3bd871ed8fe9cc698acb8384.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a3/a353f336bd97a245e575dbc0aed036c42b727d8f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/56/56d82bcf6514b73c298d38c649fb448eddcc4e5a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3f/3f298b013dc020805452c37f901733c0344e7ac9.mp3",
+        "https://api.clthuanxie.cn/cc-audio/10/10355db2c07bd0cb30911d167e47b5912cf423a9.mp3"
+      ]
+    }
   }
 }

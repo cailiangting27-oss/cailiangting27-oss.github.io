@@ -21,7 +21,17 @@
         "保鲜膜"
       ],
       "answer": "厚木板",
-      "explanation": "厚木板是不透明物体，光无法穿过。"
+      "explanation": "厚木板是不透明物体，光无法穿过。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/776e478549315385f51a7a11f28460ffab0e3738.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a367d28272d646f490e98db64427a317e4e12bcf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83224706f860b4d906ec57075a2e244f2a618e96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3000f9dff22392b10164da3574b4d6c4c4f72e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47b86ba3b394f79988725a92b63c008da9ab2169.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11728014554924121c2a55fe1ac19b4142eb3864.mp3"
+      }
     },
     {
       "id": 22,
@@ -32,7 +42,11 @@
       "question": "空气、水和玻璃等透明物质通常被称为光的（___）。",
       "options": [],
       "answer": "介质",
-      "explanation": "物理学中，光波传播时所经过的物质环境称为介质。"
+      "explanation": "物理学中，光波传播时所经过的物质环境称为介质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41f1938fb9650dff3177564701b2042e10bc2941.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc0d5bb4f2e8de8b86c32e67866148f3302a6313.mp3"
+      }
     }
   ],
   "knowledge": null

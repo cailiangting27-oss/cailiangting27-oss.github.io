@@ -21,7 +21,15 @@
         "astranaut"
       ],
       "answer": "astronaut",
-      "explanation": "astronaut 宇航员。"
+      "explanation": "astronaut 宇航员。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30f83b95350925c0c53cae9f6e3900e0d6cbe77b.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 2,

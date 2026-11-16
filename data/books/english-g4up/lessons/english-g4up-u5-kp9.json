@@ -21,7 +21,17 @@
         "I'm"
       ],
       "answer": "I'd like",
-      "explanation": "回答What would you like?常用I'd like...表示我想吃/要..."
+      "explanation": "回答What would you like?常用I'd like...表示我想吃/要...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee774c6be246735b9c135bbc45d8c73fcd8096d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2acfb6cf24e98e042ca1249ab7739336e974ed4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aab1cd802fd459b5c7118cf77870b15ca35f90f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46498c44efba3ae0f9c033d521f8c64769e17ecf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/451018fdb3a04692e14fcd998aa365ce51a41be6.mp3"
+      }
     }
   ],
   "knowledge": null

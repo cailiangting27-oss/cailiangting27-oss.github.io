@@ -21,7 +21,15 @@
         "韩非"
       ],
       "answer": "孔子",
-      "explanation": "孔子主张仁。"
+      "explanation": "孔子主张仁。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a4306bb1cf77a1d56e6caa00e6840a0bb643088.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 3,

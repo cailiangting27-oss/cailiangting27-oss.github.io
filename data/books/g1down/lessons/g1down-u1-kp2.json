@@ -16,7 +16,11 @@
       "question": "用两个完全一样的三角形一定可以拼成一个圆。",
       "options": [],
       "answer": "错",
-      "explanation": "三角形是有尖角的，圆是曲面图形。三角形拼不出圆。验算：尝试各种拼法发现只能拼成四边形。"
+      "explanation": "三角形是有尖角的，圆是曲面图形。三角形拼不出圆。验算：尝试各种拼法发现只能拼成四边形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1e7174720f41d0540c5f3aabf70dcfc03c6f186.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2b/2b8e9ea5b2ceb4254d66b1f8dedbc10794c6919d.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "不能确定"
       ],
       "answer": "圆",
-      "explanation": "直线折叠无法产生曲线，所以折不出圆。"
+      "explanation": "直线折叠无法产生曲线，所以折不出圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/1148fea543fb5ae8ea7f5c7b5f4ced343d6a56ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6132bff1dd9ca168d880e62b1b9323dd8fead4e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19a6fc52845a3b40e01cbcc946d06707c2f298d6.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "圆"
       ],
       "answer": "长方形",
-      "explanation": "两个正方形并排合并，一边变长，另一边不变，形成长方形。"
+      "explanation": "两个正方形并排合并，一边变长，另一边不变，形成长方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/90480ef401cdda42a61a0902cd7bbf5758f657d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1edc3564eb02d0d511bf7ac38f84578b80f2661.mp3"
+      }
     },
     {
       "id": 11,
@@ -64,7 +88,17 @@
         "8个"
       ],
       "answer": "4个",
-      "explanation": "只有 2x2 排列才能得到四边相等的图形。验算：$2 \times 2 = 4$。"
+      "explanation": "只有 2x2 排列才能得到四边相等的图形。验算：$2 \times 2 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1859e5ec40f48d964feb50376c75ede2c175b8df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b786b394801010408888cd770426904e820550e.mp3"
+      }
     },
     {
       "id": 15,
@@ -80,7 +114,17 @@
         "以上都有可能"
       ],
       "answer": "以上都有可能",
-      "explanation": "取决于切法：切过两个对角剩3个；切过一个顶点剩4个；不经过顶点剩5个。"
+      "explanation": "取决于切法：切过两个对角剩3个；切过一个顶点剩4个；不经过顶点剩5个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c168f0b9150d3b1f1b7a040d004e03fbaec7d600.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06d7300c2e8548d4b641078d68f6d1bade83280d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b98026d88a714c62271763d899678a53a52f5b0.mp3"
+      }
     },
     {
       "id": 17,
@@ -96,7 +140,17 @@
         "三角形"
       ],
       "answer": "长方形",
-      "explanation": "横着拼或竖着拼都能拼成长方形（特殊情况可拼正方形，但一定能拼成长方形）。"
+      "explanation": "横着拼或竖着拼都能拼成长方形（特殊情况可拼正方形，但一定能拼成长方形）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd802402a030ef0b6add80971c76d6f084fbd0b1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/0028ad8903ab51b365f9cadd06d6db4694aba311.mp3"
+      }
     },
     {
       "id": 20,
@@ -107,7 +161,11 @@
       "question": "用两个完全一样的三角形，最少可以拼成一个 ___ 边形。",
       "options": [],
       "answer": "3",
-      "explanation": "两个直角三角形背靠背拼可以拼成一个大三角形（三边形）。验算：两个直角三角形拼合并斜边即为大三角形。"
+      "explanation": "两个直角三角形背靠背拼可以拼成一个大三角形（三边形）。验算：两个直角三角形拼合并斜边即为大三角形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f49afd562647f1c262551544d2ece9367d907dc8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/eeded844e43ef943ebc321257cc564dd8f396a8d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -118,6 +176,16 @@
       "认为任意两个三角形都能拼成正方形。",
       "忽略了对折方式的不同可能产生不同的图形（长方形对折可得长方形或三角形）。"
     ],
-    "tips": "亲自动手剪一剪、拼一拼，观察边与边重合的过程，能快速建立空间感。"
+    "tips": "亲自动手剪一剪、拼一拼，观察边与边重合的过程，能快速建立空间感。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ea/eaa1cfae2622e84c36d5e5a879f6d231701f8433.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/11/11cb6b269396cbbb18f02be53bf98cfaef3483dc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d1/d15ef5f1ce7fc320fa36590a0691fa00013a3fa0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c3/c3cc274332aedf5034ac9d40510ba94319103416.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/59/59ae5e33095d2ba980cba8a6cb73af14d5cf6e9d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0c/0c5ac12aadcdda0eabf264e3ff9e353343d78c1f.mp3"
+      ]
+    }
   }
 }

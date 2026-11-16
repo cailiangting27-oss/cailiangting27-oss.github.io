@@ -16,7 +16,11 @@
       "question": "BMI指数只与体重有关，与身高无关。",
       "options": [],
       "answer": "错",
-      "explanation": "BMI的计算公式是重量(kg)除以身高(m)的平方。"
+      "explanation": "BMI的计算公式是重量(kg)除以身高(m)的平方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d66d19568bfdc300407cd2e45bd724c8d8a46cf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4718a94438dad1959e631e22b9e12853c8a1875a.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "30"
       ],
       "answer": "20",
-      "explanation": "45除以(1.5x1.5)=45/2.25=20。"
+      "explanation": "45除以(1.5x1.5)=45/2.25=20。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa5ae8befb19f1de10286513b08910b772048c0b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6e1126cedebf23e1463aee73f9df08783640400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fd2c61bce1122ca77b90c054cba5507e5f95b44.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "以上都是"
       ],
       "answer": "以上都是",
-      "explanation": "体质健康监测是综合性的评价。"
+      "explanation": "体质健康监测是综合性的评价。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbd7ae870c32c44f59d1433194f9b7d1bcae2984.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/06e205d0090116e7a6395196e3a08f59683e91c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a3e056e26de80ac76b0915abf9b0f7783aa3a57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c4334a20ba3014ddc48c58b4d86cdc93dc46846.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fd3aadacd34e9d21223c3c470fb3eefd691c2e9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36b2a29364016d1ecc28c9057402259798e4722e.mp3"
+      }
     }
   ],
   "knowledge": null

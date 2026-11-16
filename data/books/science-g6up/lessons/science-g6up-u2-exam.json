@@ -16,7 +16,11 @@
       "question": "只要地球在不停地转动，就一定会产生昼夜交替现象。",
       "options": [],
       "answer": "错",
-      "explanation": "必须有光源（太阳）且地球是不透明的，在其转动时才会产生昼夜交替。"
+      "explanation": "必须有光源（太阳）且地球是不透明的，在其转动时才会产生昼夜交替。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e0800c94efeef7571e259067c9bc9a6baef9087.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fab54a2102ed7b1492549d20d8ee666ae3cd01af.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "地球公转的轨道是一个标准的圆形。",
       "options": [],
       "answer": "错",
-      "explanation": "地球公转的轨道是一个椭圆。"
+      "explanation": "地球公转的轨道是一个椭圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c132c9b8ef21a81e8e5e292fc2ab1938fd5f95e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a74458996057b613284bf3f879153b5abbed68de.mp3"
+      }
     },
     {
       "id": 3,
@@ -38,7 +46,11 @@
       "question": "地壳主要由岩石组成。",
       "options": [],
       "answer": "对",
-      "explanation": "地壳是地球表面的坚硬外壳，主要由各种岩石组成。"
+      "explanation": "地壳是地球表面的坚硬外壳，主要由各种岩石组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b8d5fa508383e285a02cc4f095636edbd9fa56e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a31bd423b6b93cde9096654ab5121a71dcb17ca.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "伽利略发明了望远镜，为日心说提供了观测证据。",
       "options": [],
       "answer": "对",
-      "explanation": "伽利略利用望远镜发现了金星位相改变和木星卫星，支持了日心说。"
+      "explanation": "伽利略利用望远镜发现了金星位相改变和木星卫星，支持了日心说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7e8384312c54b6cd33b9a16f8fe56c5025deeea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/392510a74baf8b3d47238ab29e98af24e3f0a4c1.mp3"
+      }
     },
     {
       "id": 6,
@@ -65,7 +81,17 @@
         "一成陆地九成海洋"
       ],
       "answer": "三成陆地七成海洋",
-      "explanation": "地球表面约29%是陆地，约71%是海洋。"
+      "explanation": "地球表面约29%是陆地，约71%是海洋。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77192f371285e8f1c7889caf7927f82d218179e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/0572cf32c69e7c9088984a0919edfa6d81adc00d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/7038851fce46919cfca492cc879fad3984376bce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79ad2b6fd7b9a4daf54e7e22d2636799e2a248eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd436ebde5938c6b56780fe7c1231df109595bb2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53927f938433baf291803d868cf0b63cc41c7d11.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "地球是宇宙的中心"
       ],
       "answer": "地球是一个球体",
-      "explanation": "托勒密和哥白尼都认为天体（地球或太阳）是球形的。"
+      "explanation": "托勒密和哥白尼都认为天体（地球或太阳）是球形的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e403e76bfecee994ac412f2b93e441461c6da38e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03590b5787b6fa40584833ac157c97aa2e7856b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c4bad563750e633cf6ebb127f80b5c710212055.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c84470c4a0d2dcb51bd683f46aea281b2f99187.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d4b5d354ad684f40b81de0c67536576aed84c4d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca48ca32ef4162f030767edccd1c881e45355e73.mp3"
+      }
     },
     {
       "id": 9,
@@ -97,7 +133,17 @@
         "向东"
       ],
       "answer": "逆时针",
-      "explanation": "在北半球观察，由于地球自西向东逆时针旋转，星空看起来是绕北极星逆时针旋转。"
+      "explanation": "在北半球观察，由于地球自西向东逆时针旋转，星空看起来是绕北极星逆时针旋转。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82fcd934ac2f25bc5cca4b2f92a78d28ed27ee5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d9a8b753590565194391031826d9aad49a6789cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a75f8418880641e676f2514ead9348bbdfbdc16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/778d5ddfdc8a1816897ce3ee679bdfe67aa0b631.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d88d59a8617ac293eca87e8bc74e310181b91cd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11e951388b63177da293ff817d22ed395f968ee3.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "月球绕地球转动"
       ],
       "answer": "地轴倾斜且公转",
-      "explanation": "地轴倾斜且公转导致阳光直射点在南北回归线间移动，从而产生四季。"
+      "explanation": "地轴倾斜且公转导致阳光直射点在南北回归线间移动，从而产生四季。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3af73987698599c8013f28bfcf2b7e74e9fca52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c6c30ceaaf46c8c26af285e3ac281ae2dc62ce7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af998e6a8ce609d53d379a5d05c898c1bc4a02f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7783152ed09919cf088b8bd191ab984fe4b45bba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d0aa9aabbe9947a8584489f81d0aac6d7fc9444.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b71f253f93a397dcee4beacee4b3011181f6af9.mp3"
+      }
     },
     {
       "id": 12,
@@ -129,7 +185,17 @@
         "极光现象"
       ],
       "answer": "傅科摆的偏移",
-      "explanation": "傅科摆是证明地球自转的最直观、最科学的实验之一。"
+      "explanation": "傅科摆是证明地球自转的最直观、最科学的实验之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd13dbaceb46ee4ca5f17038f1f234b5e01a3128.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c04b477102947370ac6cedcd7f9c4218e3efee9f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b5f9220510de8c466ecc779670ad8eb0012528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b75bc9816c246ce9a2ec78c6f8eef85528c41eb8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/948df7db7101ab226335b08347f9932aedfb7a78.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c135059115a000a02c8f17d7af136fad3f970abf.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "无法确定"
       ],
       "answer": "极夜",
-      "explanation": "南北半球季节和光照情况相反，当南极极昼（冬至左右）时，北极极夜。"
+      "explanation": "南北半球季节和光照情况相反，当南极极昼（冬至左右）时，北极极夜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10f51b24bfc70a11f3f22514b21bedbff97d3957.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/679ead686b3b4dbdfc85987f45428472306cdbf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bb871635078881b219e2254821cca7031c19e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca631c5e8c04bcbfa67bf300a5a1c598453abfdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b96f068e2efc7bd41999a2feb8cb1942d8cb15e.mp3"
+      }
     },
     {
       "id": 15,
@@ -161,7 +237,17 @@
         "红色"
       ],
       "answer": "蓝色",
-      "explanation": "地图和地理模型中，习惯上用蓝色代表海洋和水。"
+      "explanation": "地图和地理模型中，习惯上用蓝色代表海洋和水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3ce315196ab287b13d63f97144e74f18bf491b27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/88/88ec321a8bcde69a4460c9aac5dda1122116abb7.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "古玛雅人"
       ],
       "answer": "古中国人",
-      "explanation": "中国古代天文学发达，通过长期观测影子长度制定了二十四节气。"
+      "explanation": "中国古代天文学发达，通过长期观测影子长度制定了二十四节气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bd94ccb00da83d69cfe4d06a3d8f07d101e462e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/403a5b27a0285c13f60201f030fd25290d9f6a72.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/6522e2dc314001da0eae70672d94c3f46652532f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fe5b49a042d32314559e1646687e885e446a2b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c51ecaf58b4d1ccbd93c55e4218cb0f2a6c98954.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d82c00062ea6f82515566a5b3ea9bb5b8d135a9.mp3"
+      }
     },
     {
       "id": 18,
@@ -193,7 +289,17 @@
         "大暑"
       ],
       "answer": "春分",
-      "explanation": "春分和秋分，阳光直射赤道，全球各地昼夜平分。"
+      "explanation": "春分和秋分，阳光直射赤道，全球各地昼夜平分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/334b81112108620759ff7d1b71ffd8aac16b736e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/853b670127bad699138b38c0e2a786557a8fcfa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d12251b52ec4e47480d2164c1145b16b8c4463f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f19a64fb3b281ea57ad47078150f7081d4e69425.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d520654d78f820a4e47455c87e2f0dc28ccfe85d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23241b97173760586edaadfc19ace4cd621a6111.mp3"
+      }
     },
     {
       "id": 20,
@@ -204,7 +310,11 @@
       "question": "地球在公转过程中，始终倾斜着身子，地轴的上端始终指向（    ）附近。",
       "options": [],
       "answer": "北极星",
-      "explanation": "北极星的位置相对固定，是因为地轴基本指向它。"
+      "explanation": "北极星的位置相对固定，是因为地轴基本指向它。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/757d1626e3a1a5a5ac2bc7e68cdc5a8a41184b62.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d451ee359ba4d26ed643dc099d5bde743cac7e75.mp3"
+      }
     },
     {
       "id": 21,
@@ -215,7 +325,11 @@
       "question": "由地球自转产生的现象叫（    ）交替。",
       "options": [],
       "answer": "昼夜",
-      "explanation": "这里的术语应填写昼夜。"
+      "explanation": "这里的术语应填写昼夜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/1622a38dd7f0a18750ceb5405c21c0da48e74d95.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bd03fff26d546755dfabfa3c772603f43298f48.mp3"
+      }
     }
   ],
   "knowledge": null

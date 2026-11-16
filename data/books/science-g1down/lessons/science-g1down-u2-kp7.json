@@ -16,7 +16,11 @@
       "question": "玩具狗也能像真狗一样长大、生小宝宝。",
       "options": [],
       "answer": "错",
-      "explanation": "玩具狗是非生物，不具备生物的生长和繁殖特征。"
+      "explanation": "玩具狗是非生物，不具备生物的生长和繁殖特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24efa393d1f0b8780674f952e77f9878b97c7ec2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/11a6b9966c6cdb9237a00b36c313d5962beebabb.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "人也是动物，因为我们也需要空气、水和食物。",
       "options": [],
       "answer": "对",
-      "explanation": "人属于生物中的动物类，具有动物的基本生存需求。"
+      "explanation": "人属于生物中的动物类，具有动物的基本生存需求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6b775402fffd16fc1a0909b98c015b1e32ed01bc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db41ff472181c33cd850d92cdc13e7c26656b797.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "玩具狗有四个轮子"
       ],
       "answer": "真狗有生命，会呼吸",
-      "explanation": "生命特征是生物与非生物的本质区别。"
+      "explanation": "生命特征是生物与非生物的本质区别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c37e6c3989e6bf5e4595e4715dea923422138d61.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57ead99f285aba88dbda656d50f46b650d247533.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6abc8945ff0a0821321f3a3042a0dbc6ef906971.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40b15436bac29de1e3e2b4d0961d6a9aef47912a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc18778ed9213238cb820b7b569275418b303bd5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b8abdf3b03ff77d4c816ae1f8fa0ae482d8e7e3.mp3"
+      }
     }
   ],
   "knowledge": null

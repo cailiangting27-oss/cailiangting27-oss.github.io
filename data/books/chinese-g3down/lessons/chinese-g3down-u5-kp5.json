@@ -21,7 +21,17 @@
         "晃悠"
       ],
       "answer": "悠然自得",
-      "explanation": "悠闲和悠然自得都表示从容、闲适。"
+      "explanation": "悠闲和悠然自得都表示从容、闲适。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/059685f9e871082e7d16a8c03b01067ab1f370e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e397733c02b33ddaa734e8a8a26e7ba5cc6743ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d11d2d0e43467f1b1ae962c7de9fec05cd3950dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/5198fc669ded121a3385973c7c20551743537125.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/018b8da2c29c89a98404b035c0fe1ad4517ef436.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6514902bab6a7fd31b01da33a13f857f582f3e3d.mp3"
+      }
     }
   ],
   "knowledge": null

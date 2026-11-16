@@ -21,7 +21,17 @@
         "noise"
       ],
       "answer": "quiet",
-      "explanation": "Keep + 形容词表示保持某种状态，keep quiet表示保持安静。"
+      "explanation": "Keep + 形容词表示保持某种状态，keep quiet表示保持安静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/479e0dad33125f4d4078b9fabc465603310c3f1f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c60db3ad3011231b7eb2647f9ac9bc651f99c9e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2716ecc2f4dedd74b565053d1c8f223b118d364.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9424ac79de34c97c74261622b533d185ca13968a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1210b5f2925f5d62e3c338dfa0c38628fa7037f.mp3"
+      }
     }
   ],
   "knowledge": null

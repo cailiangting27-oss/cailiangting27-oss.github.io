@@ -21,7 +21,17 @@
         "王昌龄"
       ],
       "answer": "杜甫",
-      "explanation": "杜甫忧国忧民，被称为“诗圣”。"
+      "explanation": "杜甫忧国忧民，被称为“诗圣”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bff57e6e538352acb48eab1d84c5d07644565a1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d95a84bc9dd0b36592d3807df205d7e76d038a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4cb64ec86fde898f32abbbfe2fc4faf0e3a26d3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77a9873cb9275a2078c1ef90cf5fa70728c22aa4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64aa9b75481f5b2c70d7334ca8dca8d14acada1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e193ad77fd2c0383608d8137808fd838fe695335.mp3"
+      }
     }
   ],
   "knowledge": null

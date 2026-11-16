@@ -21,7 +21,17 @@
         "冬季"
       ],
       "answer": "春季",
-      "explanation": "春季气温回升，植物进入萌芽生长期。"
+      "explanation": "春季气温回升，植物进入萌芽生长期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc08ecad579038a1d8e34d45af1e9249b784396e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/58ecc8701f828a8ac2b0fc808b26deb82184f420.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76e4fbe256a1f0436a0285673fabf201c883b69d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce4e99b183666037f705e87c1edf68ff1d0eb0a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c63d5b7467120e6eac8e0f70fdaed148515db792.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/677d496d963b21fe0d8c51dc76e72fdd9d797b7d.mp3"
+      }
     }
   ],
   "knowledge": null

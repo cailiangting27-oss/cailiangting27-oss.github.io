@@ -16,7 +16,11 @@
       "question": "口算 $23 + 45$ 时，可以先算 $20 + 40 = 60$，再算 $3 + 5 = 8$，最后算 $60 + 8 = 68$。",
       "options": [],
       "answer": "对",
-      "explanation": "$23 + 45 = 68$。拆分法：十位 $20 + 40 = 60$，个位 $3 + 5 = 8$，合计 68。验算正确。"
+      "explanation": "$23 + 45 = 68$。拆分法：十位 $20 + 40 = 60$，个位 $3 + 5 = 8$，合计 68。验算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee5dbc743c0a45ca17ed95b1eed68c3f80608bca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d6612094c8b54ba3f7022604000c3743955c6cf.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "计算 $54 - 28$ 时，个位不够减，向十位退 1 当 10，结果个位应该是 6。",
       "options": [],
       "answer": "对",
-      "explanation": "$14 - 8 = 6$。$54 - 28 = 26$。验算：$26 + 28 = 54$。"
+      "explanation": "$14 - 8 = 6$。$54 - 28 = 26$。验算：$26 + 28 = 54$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85b63ff9631a2576d367f5f5116119054b346e7c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7818165d25d26db781d7ba9668e5259e59f2688.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "11"
       ],
       "answer": "59",
-      "explanation": "$35 + 24 = 59$。验算：$59 - 24 = 35$。"
+      "explanation": "$35 + 24 = 59$。验算：$59 - 24 = 35$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b28812c6e8bc555c4ef462cacb90e4a66b923c6c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5a/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7eb6c689c037217079766fdb77c3bac3e51cb4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/384aa0bb7e21897c8d1cc9bf88d3b559c620911e.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "34"
       ],
       "answer": "44",
-      "explanation": "$80 - 36 = 44$。验算：$44 + 36 = 80$。"
+      "explanation": "$80 - 36 = 44$。验算：$44 + 36 = 80$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/733077af60a8cda167161ddaf4b6673e2e8fd03d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98fbc42faedc02492397cb5962ea3a3ffc0a9243.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2ef495a1152561572949784c16bf23abb28057.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/563351342ed7b540a0acf0a55a7c001ed8ef6519.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "52 + 32"
       ],
       "answer": "38 + 41",
-      "explanation": "A: $38+41=79$; B: $29+42=71$; C: $45+25=70$; D: $52+32=84$。79 最接近 80。"
+      "explanation": "A: $38+41=79$; B: $29+42=71$; C: $45+25=70$; D: $52+32=84$。79 最接近 80。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2bacdaed9b71c98591e2ce45d15feedad95f246d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d965f2ac1f62b816273cd20df18ffaa267415e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/174374e379816f5c9360c46ad325dd17b490a4a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad21295508c14fd97fb9624fba39dbfe40d29dbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9160abb21b0c342be2dee41f3e4f810a561a588d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e01f7f1c5ca7d28dbfa7548f79b7d51d05f510ed.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "31"
       ],
       "answer": "29",
-      "explanation": "$56 - 27 = 29$。验算：$29 + 27 = 56$。"
+      "explanation": "$56 - 27 = 29$。验算：$29 + 27 = 56$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c14f416583a76e613020ade681c2b9cd162fcebb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7719a1c782a1ba91c031a682a0a2f8658209adbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d7116e23efef7292cad5e6f033d9a962708228c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/632667547e7cd3e0466547863e1207a8c0c0c549.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05623999a01638fc3206a19aa2b9d8f2e4b6a2b4.mp3"
+      }
     },
     {
       "id": 16,
@@ -107,7 +155,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "$58 - 26 = 32$，所以 $32$ 的个位是 2。方框代表 32 的个位点。"
+      "explanation": "$58 - 26 = 32$，所以 $32$ 的个位是 2。方框代表 32 的个位点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/474a607a118da265ebe693b4a0b816de3dcfb5ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14fd3f665ea2e0b27f1c0dd17ef46282d1be62ff.mp3"
+      }
     },
     {
       "id": 17,
@@ -123,7 +181,17 @@
         "95"
       ],
       "answer": "84",
-      "explanation": "因为 $45 + 30 = 75$，$45 + 39 = 84$。和的范围在 75 到 84 之间。"
+      "explanation": "因为 $45 + 30 = 75$，$45 + 39 = 84$。和的范围在 75 到 84 之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f4805f6ad66e632083ae700318c405ed0885722.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c097638f92de80ba8d6c696b26e6e601a5f61eb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e63fd3e77796b102589b1ba1e4441c7982e4132.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9fb6f6fa97c707757b82c9adea79424ea1de5b2.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +202,11 @@
       "question": "操场上有 28 个男生在打球，19 个女生在跳绳。操场上一共有 ___ 人。",
       "options": [],
       "answer": "47",
-      "explanation": "$28 + 19 = 47$。验算：$47 - 19 = 28$。"
+      "explanation": "$28 + 19 = 47$。验算：$47 - 19 = 28$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fa71ed388156f84472f32460085d288a1cd300f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad1113e7dd29eababdc6f33955064239e2de6578.mp3"
+      }
     },
     {
       "id": 22,
@@ -145,7 +217,11 @@
       "question": "口算题：$72 - 38 = ?$",
       "options": [],
       "answer": "34",
-      "explanation": "$72 - 38 = 34$。验算：$34 + 38 = 72$。"
+      "explanation": "$72 - 38 = 34$。验算：$34 + 38 = 72$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70b6ca8492acf2fae2a52f6d5129fd7e89e1233a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f266d9343d13bfb0bffd33d45b73cc2b79799cd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -156,6 +232,16 @@
       "进位加法时忘了加进上来的1",
       "退位减法中，被减数的十位忘了减去退掉的1"
     ],
-    "tips": "拆分法是口算的灵魂，多练习心里拨算珠的感觉。"
+    "tips": "拆分法是口算的灵魂，多练习心里拨算珠的感觉。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ec/ecc4647ee71f7522e738cb83aef8c17d626a4aad.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5f/5fbb602b9b584bcefcb923391fa8df8c6df435d6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/67/67ee52fcee95b07f487830ca51fcf55bc4037705.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ea/eadd57096d687f8ff62ac89dec7c310db7462d39.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/19/194e4ab5bcec4d0854aa547e99df86361a5716da.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5d/5da9c65a64adcc299e20a65348b772aca6dfe371.mp3"
+      ]
+    }
   }
 }

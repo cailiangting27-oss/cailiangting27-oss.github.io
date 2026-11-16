@@ -21,7 +21,17 @@
         "回忆古埃及的传说"
       ],
       "answer": "交代具体的结构与数据",
-      "explanation": "非连续性文本（说明性）侧重于科学准确的事实介绍。"
+      "explanation": "非连续性文本（说明性）侧重于科学准确的事实介绍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c15f85cf5a37a59a557144c457a4b195f2529a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61a816543b52cea32fd59353bee386b871eab15a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6671b58b234175ee77c5e8dc4ddc032ea6ce9a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f785919e140ac8ecacb26ef16530be8b2388b7c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e36bce237961a7d4a255f91bdd884b12ce2eebd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38215525ee6cb2c692308c11ec8f12f744b219a1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "混淆散文美化后的描述与说明文真实的数据。",
       "在说明文阅读中忽略非连续性文本（如地图、表格）的信息。"
     ],
-    "tips": "通过对比表格法，分别列出两篇课文介绍金字塔的不同角度，能快速理解文体差异。"
+    "tips": "通过对比表格法，分别列出两篇课文介绍金字塔的不同角度，能快速理解文体差异。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a2/a21935ecd3533c2fad83d0b71cbde4925d5ee7e6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/49/49eaf4fbe80c5f88f766d66f17a459105130f018.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8d/8d1f287e6fdd9371eb91fb482ca2f4b940b38162.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2c/2c2ac50467727f0b3eb94148e77bdbd4d08a9408.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ac/ac6fcca261952cef0873cdb8a7f186b72cf560a3.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c9/c95acc78538c7e21f98cfb7a96bd21345ea4552f.mp3"
+      ]
+    }
   }
 }

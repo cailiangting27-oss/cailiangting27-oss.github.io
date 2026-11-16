@@ -22,7 +22,18 @@
         "船帆"
       ],
       "answer": "风娃娃,向,船帆,使劲,吹气",
-      "explanation": "根据《风娃娃》中助人为乐的情节进行语序重组。"
+      "explanation": "根据《风娃娃》中助人为乐的情节进行语序重组。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/81f8e13f8f7f1ba58c588194e564381b4beb6568.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8afcbe92e1cd4fa102c064f92f17cec3637b31c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e673cc1c191b5e40b5077120e99fa453d2b64a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dbcceb7f0060a797fccced6f80df681bc6ee5ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de903b6467e011a132341b9182cd4ab33622ed6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7784e92886dd37d765c35c06a638c4795cbd61e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12244348a9265acad191df7ad48dd1057f02d7d6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -25,7 +25,21 @@
         "有风的"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "windy-有风的, cloudy-多云的, sunny-晴朗的, snowy-下雪的。"
+      "explanation": "windy-有风的, cloudy-多云的, sunny-晴朗的, snowy-下雪的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41cae610637c3d41c93b282619298478571a5ec4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a53260b3d6e1d0d9d9fdd4b842577fa263c195e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2b8c9ae981a5e5133ab6549c5e9edd6baffb0a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8282fab66f087aaee7f55ce77654bea9849b4c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e2fd0d0e9b308727384e40d28c35f9f8285c7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b272ad39f8fbbd79825de4f367574be781964ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/5629a031e085e2f575ae7b8a9e848c63673db507.mp3"
+      }
     }
   ],
   "knowledge": null

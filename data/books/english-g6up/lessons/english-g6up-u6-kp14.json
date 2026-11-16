@@ -21,7 +21,17 @@
         "afraid"
       ],
       "answer": "happy",
-      "explanation": "sad（伤心）的反义词是happy（开心）。"
+      "explanation": "sad（伤心）的反义词是happy（开心）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d83740d2470fd4ed5e228ee74e5fdbd2944e72b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/3978d009748ef54ad6ef7bf851bd55491b1fe6bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/246d1dc75b91059dea22a553a94eb54fd3e7472d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3dc3889b6f5348962783987cdc04f9776866ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae3870908b4ef07d5c46d3b284f43fc0354d694.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59f192180269d0d3cbd902be08e4a419ad1a3f48.mp3"
+      }
     }
   ],
   "knowledge": null

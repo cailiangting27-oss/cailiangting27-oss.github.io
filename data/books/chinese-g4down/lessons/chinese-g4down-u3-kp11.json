@@ -21,7 +21,17 @@
         "现代诗也可以表达对家乡和母亲的怀念。"
       ],
       "answer": "现代诗一定要像古诗一样对仗工整。",
-      "explanation": "现代诗形式自由，不强制要求工整对仗。"
+      "explanation": "现代诗形式自由，不强制要求工整对仗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/795183504bc2020852b8a63c1d25b7f7b1055bee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/384f18efb6bab44303a0d9f9cd3f05fef0873f93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1334a727a99c16fb159925d4e7e5ffbf1cdf4926.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12735642f7c75c4f5bfede9f688f51210aeece03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4db36f880e727f90480b7f5fa45781f1674069d2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6098996558976f685868a87b52b3b6c2d9fbd478.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +42,11 @@
       "question": "冰心的《繁星》是作者在印度诗人（___）的《飞鸟集》启发下创作的。",
       "options": [],
       "answer": "泰戈尔",
-      "explanation": "文学史常识点。"
+      "explanation": "文学史常识点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0785c1a2bcede086833aaaf2bc8d6de37fb3b357.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f69781d47363847c09bd774cc2b434c77664cca3.mp3"
+      }
     }
   ],
   "knowledge": null

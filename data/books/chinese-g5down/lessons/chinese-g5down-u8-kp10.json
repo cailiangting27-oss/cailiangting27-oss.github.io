@@ -25,7 +25,21 @@
         "《童年的发现》"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "文学常识考查。"
+      "explanation": "文学常识考查。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75f7bec179886f235acd662bff8e303afc66bbab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbfbc4f637f23f9832075dfb48d65195cfad926b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/480f0be0877594b1592205e9ad909afd3df3a4cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebec3e4627da18509b785cee16f792915e7406fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e5e1140ddce24ed40c48c0dc26f9d5910a0f8b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3b17ed34489e18c1acaa2334408b4b52cb29c10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbc9a9bfce0667ba3bbe3bf716baf7e506362fa3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7d6856b5b224c5a5bbcce22c2454d19f6015a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b129c0e7dbae191f9112b22ce15a6eb79e023c12.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de36a80cc2a243dd8538e2e77577b0f2b8cb009e.mp3"
+      }
     }
   ],
   "knowledge": null

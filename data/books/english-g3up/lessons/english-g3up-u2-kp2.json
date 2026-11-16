@@ -16,7 +16,11 @@
       "question": "'red' 的中文意思是红色。",
       "options": [],
       "answer": "对",
-      "explanation": "red代表红色。"
+      "explanation": "red代表红色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6815ec9cf68c9be4bd388257bcbaa5eb4e015d18.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b450db6f2ce8aacaba2e51f5995f2a2994a18092.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'blue' 的中文意思是绿色。",
       "options": [],
       "answer": "错",
-      "explanation": "blue是蓝色，绿色是green。"
+      "explanation": "blue是蓝色，绿色是green。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bba2a348295603584aa853e91cd3245772aef2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f99b55a22f66c8915b4d42d3d60bc52323aae0c0.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "black"
       ],
       "answer": "yellow",
-      "explanation": "香蕉成熟后是黄色的。"
+      "explanation": "香蕉成熟后是黄色的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fdc06c24e9fe9beac9ad8bb2a0f6e9b75232549.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96de5543d183d7de52ac5fa21c46fc811f673f89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/466bc8cef3e71de796ec483e212724a2c2044c68.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04237e3f62bf9043997e1f6fcf978637bebb1f39.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "orange"
       ],
       "answer": "blue",
-      "explanation": "天空通常被描述为蓝色。"
+      "explanation": "天空通常被描述为蓝色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c75334e8ba81c42bebb458eae1be1cf80f306ce9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f863c5d80ee37be5816c306d5fe04caa3fbfd773.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "brown"
       ],
       "answer": "green",
-      "explanation": "草地通常是绿色的。"
+      "explanation": "草地通常是绿色的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d6478fc6a7ab3deebd141ae664939e8674b8b52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9166eeff1e5056d4b9be3fc9a74f67e3149ef467.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cecf7053be75e5fa57b3e21a650a79174bf2a4ae.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "brown and yellow"
       ],
       "answer": "black and white",
-      "explanation": "描述熊猫或斑马常用的颜色词。"
+      "explanation": "描述熊猫或斑马常用的颜色词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76cb0ab15a3b4c85e33f5aa4751a1923704b51fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/2953a7d642b6692527a2622d447abba0673c5b83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/584c6d1191ddf0d03604b8c7ccf4b48d2b61ffa0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b840bf086174d61176c9695430659fe63ea46e53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cbaa43d8249f29b3d2ec394721209a7152b1263.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a70dac0f76d859325452286a4a0517ab074bb541.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "black"
       ],
       "answer": "green",
-      "explanation": "黄色加蓝色调色得绿色。"
+      "explanation": "黄色加蓝色调色得绿色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bc82ec22f133986adb3c39bd6fca7db76b583f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef0ebbb77298e1fbd81f756a4efc35b977c93dae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/466bc8cef3e71de796ec483e212724a2c2044c68.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36ab7974bb5468ca46d06b139a8800fc01da9637.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "Show me ________. (出示蓝色给看看)",
       "options": [],
       "answer": "blue",
-      "explanation": "蓝色的英文是blue。"
+      "explanation": "蓝色的英文是blue。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/0242e0488651e633f64c6b6c912aa826ecf06aac.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f232b26e6b77d8cd7f9cf2cc689e00553d2fd912.mp3"
+      }
     },
     {
       "id": 17,
@@ -129,7 +191,11 @@
       "question": "I have an ________ crayon. (我有一支橙色的蜡笔)",
       "options": [],
       "answer": "orange",
-      "explanation": "橙色的英文词汇是orange。"
+      "explanation": "橙色的英文词汇是orange。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36760ee7ac33f12dd0e3169bb249697e9e14a7db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/656d943933cc9f7d6ef516415fed879a858dbc0d.mp3"
+      }
     },
     {
       "id": 20,
@@ -149,7 +215,21 @@
         "绿色"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "red-红色, green-绿色, yellow-黄色, white-白色。"
+      "explanation": "red-红色, green-绿色, yellow-黄色, white-白色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b68f13a9c630cd0d18cca580c526356a6b43d54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/96de5543d183d7de52ac5fa21c46fc811f673f89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/528cef87d0bfb947548ab94679d1e5765f19089a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d80ae1cf92167425c756ae25dfb91b8305986d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/50625b75959e6bc3b1ba4004bae9e67d01ad3340.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "分子和分母都是合数的分数，一定不是最简分数。",
       "options": [],
       "answer": "错",
-      "explanation": "例如 8/9，分子 8 是合数，分母 9 也是合数，但它们的公因数只有 1，所以 8/9 是最简分数。"
+      "explanation": "例如 8/9，分子 8 是合数，分母 9 也是合数，但它们的公因数只有 1，所以 8/9 是最简分数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93aa665d31cdc35abfccad879da41751c77d94f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c2fc0a6e2c6f3b7705c080c70e08645500f232b.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "72"
       ],
       "answer": "12",
-      "explanation": "24的因数有1,2,3,4,6,8,12,24；36的因数有1,2,3,4,6,9,12,18,36。最大公因数是12。"
+      "explanation": "24的因数有1,2,3,4,6,8,12,24；36的因数有1,2,3,4,6,9,12,18,36。最大公因数是12。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac9cf3dfba12fd43b063f3e376972abe9bea75b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c097638f92de80ba8d6c696b26e6e601a5f61eb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/183e0fe1f9681692e65207010279127e588636ad.mp3"
+      }
     },
     {
       "id": 20,
@@ -43,7 +57,11 @@
       "question": "一个最简真分数，分子和分母的积是 15，这个分数的分子是 ___ 。（只填较小的那个可能）",
       "options": [],
       "answer": "1",
-      "explanation": "积为 15 的两数有 (1,15) 和 (3,5)。真分数可能是 1/15 或 3/5。题目要求填较小的可能，1 和 3 中 1 较小。验算：$1 \\times 15 = 15$ ✓。"
+      "explanation": "积为 15 的两数有 (1,15) 和 (3,5)。真分数可能是 1/15 或 3/5。题目要求填较小的可能，1 和 3 中 1 较小。验算：$1 \\times 15 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c88da21234979af8884a82b5fba43226ba3349db.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/beb6be18e95a6eed9130dd5ab880b144b19a5eae.mp3"
+      }
     },
     {
       "id": 22,
@@ -54,7 +72,11 @@
       "question": "求 18 和 30 的最大公因数是多少？",
       "options": [],
       "answer": "6",
-      "explanation": "18 的因数：1,2,3,6,9,18；30 的因数：1,2,3,5,6,10,15,30。共有因数中最大的是 6。验算：$18 \\div 6=3$, $30 \\div 6=5$，3和5互质 ✓。"
+      "explanation": "18 的因数：1,2,3,6,9,18；30 的因数：1,2,3,5,6,10,15,30。共有因数中最大的是 6。验算：$18 \\div 6=3$, $30 \\div 6=5$，3和5互质 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e699817f121930436594ee90cdb72dd8bd0f8b5b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/78/78407ac9457981efffc1030d39013fc97bbb8a83.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -65,6 +87,16 @@
       "约分没约到最简分数就停止了",
       "找两个数最大公因数时漏掉最大的，只找了小的公因数"
     ],
-    "tips": "互质数的特征要记牢，如两个连续自然数（0除外）必定互质。"
+    "tips": "互质数的特征要记牢，如两个连续自然数（0除外）必定互质。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2a/2afe1eb66c9acc673e5290a97291e60aee260e16.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/51/51be10c7b1a24e49a2d66fb2db28c364f75a4a8d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/82a233c59db7fda9c98229c482d03719af65ad5f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d8/d8f6ebf2b94fa96258aa9af4ebb7a458876d24d3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7c/7c6912a30951b209dbe0c419fb32d831f1e1835f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/25/2510b02baef7156797545bedac3f3cdc73eb2fb5.mp3"
+      ]
+    }
   }
 }

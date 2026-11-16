@@ -16,7 +16,11 @@
       "question": "单词 'box' 中字母 'o' 的发音与 'dog' 相同。",
       "options": [],
       "answer": "对",
-      "explanation": "它们都发闭音节的短元音/ɒ/。"
+      "explanation": "它们都发闭音节的短元音/ɒ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01a400ca25a7ac4b9a5df8245302d826517f728a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98641884c526b122ddf3f4f3d6eaf06e61190629.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "blue"
       ],
       "answer": "blue",
-      "explanation": "duck, fun, under中的u发短音/ʌ/，blue发/u:/。"
+      "explanation": "duck, fun, under中的u发短音/ʌ/，blue发/u:/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef803016a6cae135a80a2b3269d72317e3ed4822.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c84c50d5a767a23bda0ea5ca348fed54c6db9aab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dad64cc6f975d048a78e4283720db3e86293ca8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8de4fa613f8c48a960c572e5f00550b9c9cfec3f.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "she"
       ],
       "answer": "she",
-      "explanation": "she中的e发长音/i:/，其他三个发短音/e/。"
+      "explanation": "she中的e发长音/i:/，其他三个发短音/e/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6a9c6b028b256aa4b260c6fbe7c7ab2c0a1dede.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92005ecf3788faea8346a7919fba0232188561ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a841af7b2f732799f0457318848625089a63a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/530ae32d9066aeb49b44c0b9e96263e99bb29621.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "The ___ is on the box. (小狗)",
       "options": [],
       "answer": "dog",
-      "explanation": "dog符合中o发短音的规律。"
+      "explanation": "dog符合中o发短音的规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c939c7f7295594aebc43e427863b9c3905602b74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29dc26cbd72effd252c436c6c68e849dd69aab38.mp3"
+      }
     }
   ],
   "knowledge": null

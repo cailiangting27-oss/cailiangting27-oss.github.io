@@ -16,7 +16,11 @@
       "question": "单价一定，总价和数量成正比例。",
       "options": [],
       "answer": "对",
-      "explanation": "总价 / 数量 = 单价（一定），比值一定，成正比例。"
+      "explanation": "总价 / 数量 = 单价（一定），比值一定，成正比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41b118a764cde73c43351b5769852237d6f22e6d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f02f4fc240b5705d42f13e20f85cebab9179a88f.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在比例中，两个内项的积与两个外项的积的差是 0。",
       "options": [],
       "answer": "对",
-      "explanation": "因为内项积等于外项积，所以它们的差一定是 0。"
+      "explanation": "因为内项积等于外项积，所以它们的差一定是 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c2f454880701b9b32ede47a70d103e342708c64.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/869f8c5a5af287a5a27a1c8ff6003c28cc2377d0.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "将一个长方形按 $1:3$ 缩小后，对应的长和宽的比保持不变。",
       "options": [],
       "answer": "对",
-      "explanation": "图形的长和宽同时缩小相同的倍数，其比例关系不变。"
+      "explanation": "图形的长和宽同时缩小相同的倍数，其比例关系不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/739bd9b4f892fdd20e2d845ba4d38b02e2794e96.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a5331d6e7e6d1fbee95c89bfde7cb534e27b577.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "路程一定，已走的路程和剩下的路程成反比例。",
       "options": [],
       "answer": "错",
-      "explanation": "已走距离 + 剩下距离 = 总路程（一定）。是和一定，不是乘积一定，不成比例。"
+      "explanation": "已走距离 + 剩下距离 = 总路程（一定）。是和一定，不是乘积一定，不成比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0bdcec62edd9d43558cb0381018fa506184ca70b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f5ba526b632ca51369b454c967015dbc203e6d6.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "路程一定，速度和时间"
       ],
       "answer": "路程一定，速度和时间",
-      "explanation": "速度 $\times$ 时间 = 路程（一定），乘积一定成反比例。"
+      "explanation": "速度 $\times$ 时间 = 路程（一定），乘积一定成反比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f19ba0e5005ce59b25217760d218b53b23c9dbc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbf585397e1c832afa2ac40d2dff9d30601dad3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43a3ee57f020d885dbede3e48d3675877f81449d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/852381a98314ca2246c61fdae82cd4ed9ed16cc0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d2310fd13d59210d7083000d5d4eeb40ef83b5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/523e06cc9ac5300bcbd6a7af1928c8a7f0d9e47a.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "5 厘米"
       ],
       "answer": "0.5 毫米",
-      "explanation": "实际距离 = 图上距离 / 比例尺 = $10 / 200 = 0.05$ 厘米 = 0.5 毫米。"
+      "explanation": "实际距离 = 图上距离 / 比例尺 = $10 / 200 = 0.05$ 厘米 = 0.5 毫米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f29b7e0c5709e1c4a0f39997ca45a92c82aa0a57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/85/851ce72548a3b9386ec6e6254200d6b10ee517b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a89dfd0799328c6ec8d8a0b48bbf07f87d13001c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63491a5b0c07266f911bf34c6a2cfbcb5397aaca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c16c4802b92de722d30caebe9d96e69a54d855a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e937fd8ca2c1945ddc09ff312f8b37a3e36469c.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "144"
       ],
       "answer": "108",
-      "explanation": "面积与砖块数成正比。$10:36 = 30:x$，$x = 36 \times 3 = 108$。"
+      "explanation": "面积与砖块数成正比。$10:36 = 30:x$，$x = 36 \times 3 = 108$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e20999b79555ccddcf28f9bc041eb9a33bab58cc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c097638f92de80ba8d6c696b26e6e601a5f61eb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17503a6b2326f09fbc4e3a7c03874c7333002038.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7320828c9153b2a9848d6bc45d3544236b22fc48.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2ee44d521e94075c8ecc5e20559dfc1397620856.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "无法确定"
       ],
       "answer": "正比例",
-      "explanation": "$y / x = 8$（一定），比值一定成正比例。"
+      "explanation": "$y / x = 8$（一定），比值一定成正比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fad12790339c4673bf66f341b3cc4600a3a751e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902f36fcbb5b74ae09c57d8ce60c588efebc6d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967bff830f41b434e6dd2aecb1a10a35939b0190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1718749ae1b0f1efac6bf509d5b23b96b55d52f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44ee76b3ea3b29f2dbc56b425fd54b6d2c1500ff.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "1.5"
       ],
       "answer": "6",
-      "explanation": "$1x = 3 \times 2 = 6$。"
+      "explanation": "$1x = 3 \times 2 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/635868ab1fced8e2d6aeed4a27b3b6c1ce9b8242.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8f289ebe6d4db1b4a1038b8931ec8c2b5399fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed77b47b4290c55e4422f8e3b3313a42b150c639.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "$2.6$"
       ],
       "answer": "$2.6$",
-      "explanation": "可能的情况：$2:3=4:x(x=6)$，$2:4=3:x(x=6)$，$3:2=4:x(x=2.66)$，$4:2=3:x(x=1.5)$。2.6 无法使乘积相等。"
+      "explanation": "可能的情况：$2:3=4:x(x=6)$，$2:4=3:x(x=6)$，$3:2=4:x(x=2.66)$，$4:2=3:x(x=1.5)$。2.6 无法使乘积相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96451b39fc253b35df921d8c244251c1553746ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8f289ebe6d4db1b4a1038b8931ec8c2b5399fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5658cf5e70e17f42f112bb68f2fa35f03ad66015.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81d79309d2c122646e570e9715e623ae83b96b3f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "圆的面积和半径"
       ],
       "answer": "正方形的边长和周长",
-      "explanation": "周长/边长=4（一定），面积/边长=边长（不一定）。"
+      "explanation": "周长/边长=4（一定），面积/边长=边长（不一定）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6f1728b0c980639bb077754476982b68810f6501.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/57/57b0db54f1ea0fa466b731bda163807f17596ddc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcdfd8fa4a5aa513e5c3ff9f28ba5126776031d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c4fd0a0343c0623cdf6fa9143ccf60754da026c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d514ffb381b412025b447662c3c3d73ec35f284.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c526a143ef9d9f8176e6b7358842981cccef7260.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "10"
       ],
       "answer": "30",
-      "explanation": "工效一定，$150:3 = 1500:x$，$x = 30$。"
+      "explanation": "工效一定，$150:3 = 1500:x$，$x = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8aa8c59617cb5f84db470c4d87304b418c22cae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e8e5e91a680ca4f92f95a35d641b5c93fc2ecfba.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "在比例尺是 $1:4000000$ 的地图上，图上 1 厘米代表实际 ___ 千米。",
       "options": [],
       "answer": "40",
-      "explanation": "4000000 厘米 = 40000 米 = 40 千米。验算：$40 \times 100000 = 4000000$ ✓。"
+      "explanation": "4000000 厘米 = 40000 米 = 40 千米。验算：$40 \times 100000 = 4000000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb68cdb7360eb6a0f185311007fc0be365c6fc8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e2fae20796b95849a6a743cac27f4716bb41201.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "小红 2 小时走了 8 千米。照这样计算，走 20 千米需要 ___ 小时。",
       "options": [],
       "answer": "5",
-      "explanation": "速度一定。$8:2 = 20:x$，$8x = 40$，$x=5$。验算：时速 $8 \times 2 = 4$ 千米，$20 \times 4 = 5$ 小时 ✓。"
+      "explanation": "速度一定。$8:2 = 20:x$，$8x = 40$，$x=5$。验算：时速 $8 \times 2 = 4$ 千米，$20 \times 4 = 5$ 小时 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e18142d0c5ae10503e789fe5f978660e4124002.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8c5f77b28302610a35663220d3ea9ca4a7c69ef.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "解比例：$x : 20 = 3 : 5$",
       "options": [],
       "answer": "12",
-      "explanation": "$5x = 20 \times 3 = 60$，$x = 12$。验算：$12:20 = 0.6$，$3:5 = 0.6$ ✓。"
+      "explanation": "$5x = 20 \times 3 = 60$，$x = 12$。验算：$12:20 = 0.6$，$3:5 = 0.6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/9421d2b779d4e47b1f7feee8efdff46f345b2ce9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be573750ee5c47f9c030d6daf78e16c74faad13a.mp3"
+      }
     }
   ],
   "knowledge": null

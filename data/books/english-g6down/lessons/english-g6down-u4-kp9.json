@@ -21,7 +21,17 @@
         "were"
       ],
       "answer": "was",
-      "explanation": "library是单数，ten years ago表示过去，用was。"
+      "explanation": "library是单数，ten years ago表示过去，用was。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2ce11fcc51de88abcdb0947ff0e26c11898c2965.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3de521d3619155e9228f83cc5f773bfcbfc52749.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a315dee0bd22f45265f67268f091869cca3cbf4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d4eef831eafab52470701c3c1fb27318d4d7bc5.mp3"
+      }
     }
   ],
   "knowledge": null

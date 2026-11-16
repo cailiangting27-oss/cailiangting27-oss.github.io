@@ -21,7 +21,15 @@
         "不连接"
       ],
       "answer": "并联",
-      "explanation": "用电器并联。"
+      "explanation": "用电器并联。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/96/96c647044ffb09c0d38900ecd40ef97c32375a38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3abd2af5cddaa822acae8fa0464857247e02300e.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

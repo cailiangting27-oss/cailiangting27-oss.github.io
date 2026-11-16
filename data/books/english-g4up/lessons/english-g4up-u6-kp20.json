@@ -25,7 +25,21 @@
         "护工"
       ],
       "answer": "A-2,B-4,C-3,D-1",
-      "explanation": "doctor医生，nurse护士/护工，farmer农民，driver司机。"
+      "explanation": "doctor医生，nurse护士/护工，farmer农民，driver司机。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3ef92fdcb453c6356d4bb9ef9a6239709919c2e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0160076c9f42a157f0a8f0dcc68e02ff69045b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/285f9a003f671c2486a3f87ea1ad5e37699ebc38.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43cf2e256880b0d32c67f85d1dffdb404cb144b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdda0c46f953c1a45bdc520849be1e4edf4e228c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfb3f1622118900b02510ed91a5e2de81af74596.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/552caeb5bd540dc59cae5b73aa6b2a55a2c6f3b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/231bf85a0359975107d6acdaad0f7922982d855d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13bdd14a90aaa3c3e885033419d467c86c61c6ae.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/56/562b980071b31e8abfaf6c37dd47f28682a14d14.mp3"
+      }
     }
   ],
   "knowledge": null

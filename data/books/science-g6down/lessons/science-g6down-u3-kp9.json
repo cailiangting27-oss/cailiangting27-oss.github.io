@@ -16,7 +16,11 @@
       "question": "太阳系八颗行星中，离太阳越近的行星公转周期越短。",
       "options": [],
       "answer": "对",
-      "explanation": "根据开普勒定律，距离太阳越近，轨道半径越小，公转速度越快周期越短。"
+      "explanation": "根据开普勒定律，距离太阳越近，轨道半径越小，公转速度越快周期越短。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c67bfec52304c976d5434845e954450b2164ae2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f414e643e3f0f91ccac5e9d272bd9bc127f5b7c8.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "土星"
       ],
       "answer": "木星",
-      "explanation": "木星是太阳系中体积最大的行星，属于巨行星。"
+      "explanation": "木星是太阳系中体积最大的行星，属于巨行星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d71af4479c927442da43357919626c8d5a14a5c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a04d7faed1e87cb0d1c083519a2804dc534b2278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79d91579056cebc02b3008c3baec11d7aa42688e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b534a49b20beacee9ff5ec0bb17dd81d6cdc9a61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e688913da7cb10308024e2e7a9f9ef37b83b2d4c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8a830a067d9bc5f611c010dac768135baa229ce.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "第五位"
       ],
       "answer": "第四位",
-      "explanation": "离太阳从近到远依次是：水星、金星、地球、火星。"
+      "explanation": "离太阳从近到远依次是：水星、金星、地球、火星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b842683895004e448f7ce6e0de23176bf0fc11b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4f/4f53ae20677ed941fa2cd7fd0d8923780b11e1e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc51271067bcd449c27ac2487a5d27c3247cf8ee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1045f4cd42b5c463a703511b48f2cffb2340c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2d1acb23d2215200a9f4249ae5433bc69a387df.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0cb3e19b42c717cce8d8626ed772862ab1fd494.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "水星和金星"
       ],
       "answer": "火星和木星",
-      "explanation": "小行星带位于类地行星与巨行星的分界处，即火木之间。"
+      "explanation": "小行星带位于类地行星与巨行星的分界处，即火木之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/eadb0cfe1318a600a208cf12c9c55fd822bdd730.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74ed39f5adf2d790826f75aa1c7ddb44e0c5c0cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0b1c2b728e4a8a9d332d77aa2347b350d1a9880.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d49d4cfc75e10a06f08e61d43724467cbf14d534.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/4698517282cc0d0d3fd43bc7a1e1172a39b34042.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/acbfcf70c6429180bbf55943cc33279e080c946f.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "目前我们已知的太阳系中，行星的数量是（___）颗。",
       "options": [],
       "answer": "8",
-      "explanation": "冥王星降级后，太阳系公认有八颗行星。"
+      "explanation": "冥王星降级后，太阳系公认有八颗行星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46adfe5fcf4b1f0b97eee6ad4f1efdfdbfe319c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a045cdf9e30d074510100dfcd2eed781dc12d2c.mp3"
+      }
     }
   ],
   "knowledge": null

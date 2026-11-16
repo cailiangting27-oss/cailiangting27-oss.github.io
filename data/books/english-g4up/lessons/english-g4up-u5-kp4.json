@@ -16,7 +16,11 @@
       "question": "'soup' 的中文意思是 '面条'。",
       "options": [],
       "answer": "错",
-      "explanation": "soup的中文意思是汤。面条是noodles。"
+      "explanation": "soup的中文意思是汤。面条是noodles。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/df/df46eac6eddab9b5acedd2bdc1203c7620078b74.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2171c63f82ac4eaf020c3bc04a922176aa88830e.mp3"
+      }
     }
   ],
   "knowledge": null

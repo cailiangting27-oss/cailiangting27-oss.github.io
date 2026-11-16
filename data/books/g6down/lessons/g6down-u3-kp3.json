@@ -16,7 +16,11 @@
       "question": "两个圆柱的侧面积相等，它们的体积也一定相等。",
       "options": [],
       "answer": "错",
-      "explanation": "侧面积由底面周长和高决定，体积由底面积和高决定。侧面积相等不能推导出底面积乘以高也相等。"
+      "explanation": "侧面积由底面周长和高决定，体积由底面积和高决定。侧面积相等不能推导出底面积乘以高也相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0ad8ae002b7728adf10026526facce8afeb57c8d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a7c1d9593854d90590376fa91b1a54ee5c0c042.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "16"
       ],
       "answer": "2",
-      "explanation": "增加的是两个以直径和高为边的长方形面。$16 \times \frac{1}{2} = 8$是一面面积。直径是4，$8 \times \frac{1}{4} = 2$。验算：$2 \times 4 \times 2 = 16$。"
+      "explanation": "增加的是两个以直径和高为边的长方形面。$16 \times \frac{1}{2} = 8$是一面面积。直径是4，$8 \times \frac{1}{4} = 2$。验算：$2 \times 4 \times 2 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c1/c1745e40d61ca81595a4cbbe034bf7b5e4cf98d5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7775f609de6f62410e7b3ef720018b955611190.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "4"
       ],
       "answer": "3",
-      "explanation": "$V \times \frac{1}{S} = 30 \times \frac{1}{10} = 3$。验算：$10 \times 3 = 30$。"
+      "explanation": "$V \times \frac{1}{S} = 30 \times \frac{1}{10} = 3$。验算：$10 \times 3 = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/672e02529354a24dc0a91b5669d2b68cba9d7e21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a591377c5a1a07c7221652548f894bc989b6d180.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "2:1"
       ],
       "answer": "4:1",
-      "explanation": "体积$V=Sh$。$V_1=V_2$，则 $S_1 \times 1 = S_2 \times 4$，$S_1:S_2=4:1$。"
+      "explanation": "体积$V=Sh$。$V_1=V_2$，则 $S_1 \times 1 = S_2 \times 4$，$S_1:S_2=4:1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/333a6d6726c703ea1efd883f5d0716a49b23e1ca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce70a5ff3cfa300e8b7cfa56cbbbbf384ddde33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c1a736bf30ab724568a0877a2c0ebf66fe147de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9adeea088e0d8fbc89986452daacd1fb0309557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5cce4a20661ad69574740bf8d5adc320971754.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4c4e19dd4483665a9e4f60ea1bed4c1e3ce2a7b.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "一个圆柱的底面积是20平方厘米，高是5厘米，体积是 ___ 立方厘米。",
       "options": [],
       "answer": "100",
-      "explanation": "$20 \times 5 = 100$。验算：$100 \times \frac{1}{5} = 20$。"
+      "explanation": "$20 \times 5 = 100$。验算：$100 \times \frac{1}{5} = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/1471818884140e763a33ceb5cc071cbb280518e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/132318f4b8cab92166599f2bb7c1369f5aacd8c2.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "计算底面积为50，高为4的圆柱体积：$50 \times 4 = ?$",
       "options": [],
       "answer": "200",
-      "explanation": "$50 \times 4 = 200$。验算：$200 \times \frac{1}{4} = 50$。"
+      "explanation": "$50 \times 4 = 200$。验算：$200 \times \frac{1}{4} = 50$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/6545cfcb620947848d6d2667034d2f20c7fc3090.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/73971a5c9a2bb529c9a3565fec87d9840b1a589b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "已知直径求体积时忘记除以2先求半径。",
       "体积单位和面积单位混淆。"
     ],
-    "tips": "理解“转化”思想：形状变了，体积没变。"
+    "tips": "理解“转化”思想：形状变了，体积没变。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/db/db9b75f07911bc80118d5535dad4412248ac72e2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/6b/6ba32f23ae5db98df47a8bbd0bf1a00973ee9a93.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/54/54604dcbe5bec6d037fa03649ce19e1191340565.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d1/d16a3b2ca77d6a4ddc60df2e9cd929649857ebcc.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/63/63c4950d371002b0c50d33cd2d612cf5c011144a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/64/646d0585f5386db50e3b99ae8a2c25d2a3869abf.mp3"
+      ]
+    }
   }
 }

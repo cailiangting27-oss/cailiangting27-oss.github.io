@@ -16,7 +16,11 @@
       "question": "“过了一会儿”这个词语表示的时间间隔通常是非常长的。",
       "options": [],
       "answer": "错",
-      "explanation": "“过了一会儿”表示时间过去得并不久，属于较短的时间间隔。"
+      "explanation": "“过了一会儿”表示时间过去得并不久，属于较短的时间间隔。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/16ad9d203748e96f5be69c81b512cc07e2e3316f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b876a1a4ae932c90621c75c5b67242a5824ba5f.mp3"
+      }
     },
     {
       "id": 15,
@@ -32,7 +36,17 @@
         "去年"
       ],
       "answer": "过了一会儿",
-      "explanation": "“过了一会儿”是表示时间流逝的过渡词，适合描述一天内的连续动作。"
+      "explanation": "“过了一会儿”是表示时间流逝的过渡词，适合描述一天内的连续动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/4093c7da9fc67e806d73af17580c94068b175f3b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59c4fcb09e276fac1191534b05678f6f4ba7f7b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5f3ef8080711a611b36dfd5a67ffe93cf9b0eef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9d8be9b3aa15df281873e67a41d92e90ff97a7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fd586b4aaaa5e68e878c07b0ddc8fef3572be45.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f5dc4b8565f78d55481a519086ffa77558c630d1.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "表示天快黑了的时间词语是（____）。",
       "options": [],
       "answer": "傍晚",
-      "explanation": "“傍晚”指临近晚上的时候，符合语义。"
+      "explanation": "“傍晚”指临近晚上的时候，符合语义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f283f51a39bf7798dc370c0778b520e472cdc474.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24b51d9d00a47df387dd05fcaff9a12425dc34d7.mp3"
+      }
     },
     {
       "id": 22,
@@ -60,7 +78,18 @@
         "在草地上"
       ],
       "answer": "早上,四只小虫子,在草地上,发现,一个鸡蛋壳",
-      "explanation": "句子的时间语通常放在句首，接着是主语、地点、动作、对象。"
+      "explanation": "句子的时间语通常放在句首，接着是主语、地点、动作、对象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9cf6228dd2bad98b49d37365ad27d9de291b1c94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/56ef86682d4d84b72fc6e1c3f44d64d317ed071e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/172fb7196ffcff0d3fa4d966985164fc20773e9e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/523e40a074ebe85d057abe949df1164df69883d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2747a0a389602f1cc197e04b21676a9c949731f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ed6db3a65b3a77886eb2af478921d45692692d7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e2b4077c0d3a1f0212b3f43b49573106ebb957e0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -71,6 +100,16 @@
       "时间词乱序，如先写下午再写早上",
       "缺乏过渡词，导致句子与句子之间断裂严重"
     ],
-    "tips": "可以先画一个“时间轴”，在轴上标出关键点，再把动作填进去。"
+    "tips": "可以先画一个“时间轴”，在轴上标出关键点，再把动作填进去。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/36/36a08d1042fd82e4d945c0f8b5e5bf1231fc7d07.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d0/d087f9c88a35faf1aa7573c8c4f452edba4a48cc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d73aa9909897688be6daa2be460034872365ac3b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/2e/2e31b2b7ca2294a2ae36c81d700c670aa54ea3b6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d9/d92f0c71a1c9c25881182da542ffc10a532422b2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/76/76fb05e597ddde816113fe6c0b56fc022a98a141.mp3"
+      ]
+    }
   }
 }

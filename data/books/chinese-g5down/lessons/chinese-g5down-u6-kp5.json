@@ -16,7 +16,11 @@
       "question": "《跳水》一文中，船长命令孩子跳水是为了惩罚他。",
       "options": [],
       "answer": "错",
-      "explanation": "船长命令孩子跳水是为了在危急关头救孩子的命。"
+      "explanation": "船长命令孩子跳水是为了在危急关头救孩子的命。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/904907e59be6b62c1fb9c131bda7f18295500fdc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d90f80f46b551c8600bce017ef15f10a4cb1bd71.mp3"
+      }
     },
     {
       "id": 18,
@@ -27,7 +31,11 @@
       "question": "《跳水》的作者是俄国著名作家列夫·（___）。",
       "options": [],
       "answer": "托尔斯泰",
-      "explanation": "《跳水》的作者是列夫·托尔斯泰。"
+      "explanation": "《跳水》的作者是列夫·托尔斯泰。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/9121c4e221d27bb462f309d748ea3510d41b79f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/596957848debade52d5fe7a3db77fb787bcaf211.mp3"
+      }
     }
   ],
   "knowledge": null

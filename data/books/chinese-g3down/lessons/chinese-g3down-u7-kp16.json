@@ -25,7 +25,21 @@
         "存放起来"
       ],
       "answer": "A-2,B-3,C-1,D-4",
-      "explanation": "奇妙-稀奇神妙；窃窃私语-小声说话；蕴藏-未显露；储藏-存放。"
+      "explanation": "奇妙-稀奇神妙；窃窃私语-小声说话；蕴藏-未显露；储藏-存放。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64d52cb0b98930f13c46dd98fa48c30771fd567e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ebfcf52cd1bc74ebfe9447da5633f6fd1363b50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1baea81192524addc680ff572554970c27488a1e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4e41e5e092560d618efb3e2f3a0cf7977f36a31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9df47fb89aacf861e5c8e4766faf733f6c024993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4ca32a4e51b9c2245b50ff53a8e94122086ceb15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5f0d74ec068ee096a92b48d0db4893ae78a1a30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce92e963a6c7757dd47e93363b86bd21e621bfb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/062dbdb05791afaa578bb1edb4606e35b6e5a518.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdca38b30143306a5d1a93aaa8b15f0fc201ce1e.mp3"
+      }
     }
   ],
   "knowledge": null

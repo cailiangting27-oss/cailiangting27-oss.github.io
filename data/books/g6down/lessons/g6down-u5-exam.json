@@ -16,7 +16,11 @@
       "question": "从一副扑克牌（54张）中，至少摸出55张牌才能保证有两张点数相同。",
       "options": [],
       "answer": "错",
-      "explanation": "总共只有54张牌，不可能摸出55张。"
+      "explanation": "总共只有54张牌，不可能摸出55张。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c298ef6a8619a40ddae0a8463a58cf67cadf93b9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e312e0157244e99d224e6053b329df2f66754ab.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在任意的3个整数中，必有2个数的和是偶数。",
       "options": [],
       "answer": "对",
-      "explanation": "整数只有奇数和偶数两种。3个数中必有两个同为奇或同为偶。同性相加得偶数。"
+      "explanation": "整数只有奇数和偶数两种。3个数中必有两个同为奇或同为偶。同性相加得偶数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94aa3496dce8107df50917f639f8c1bbca7620d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f49a0a83fe2d75f443d8553ee96a4f25b6bed3f.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "要把13只小兔放进4个笼子，总有一个笼子至少有4只小兔。",
       "options": [],
       "answer": "对",
-      "explanation": "$13 \u0000 4 = 3$......$1$，$3 + 1 = 4$。"
+      "explanation": "$13 \u0000 4 = 3$......$1$，$3 + 1 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9a0d6d08ebda6ae6ae1308345177c020c6e1de0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b0324edd91404a67f04372de06a8ca3e5265a1b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "红蓝球混合，至少摸3个才能保证摸出2个颜色相同的球。",
       "options": [],
       "answer": "对",
-      "explanation": "2种颜色。$2 + 1 = 3$。"
+      "explanation": "2种颜色。$2 + 1 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/3309433ddc36370fe8322c8b9b803f9e5553718a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f74cf9a2d07b22c2a984536738573079de30c69b.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "12"
       ],
       "answer": "9",
-      "explanation": "设每个颜色有2人，共 $4 \u0007 2 = 8$ 人。第9人必使某一颜色达到3人。"
+      "explanation": "设每个颜色有2人，共 $4 \u0007 2 = 8$ 人。第9人必使某一颜色达到3人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/5018552471d4ded04d5d934fbf5ac590172b81f2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb0aa78875c7a96479243313fcdf7c58bae4bb7c.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "$23 \u0000 5 = 4$......$3$，$4 + 1 = 5$。"
+      "explanation": "$23 \u0000 5 = 4$......$3$，$4 + 1 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c1503b15c79de51392b1836e47b4f6cc4de2362.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/7486e02b0c09dbd8e8c308741e9aa76ffd495f44.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "5"
       ],
       "answer": "3",
-      "explanation": "$10 \u0000 4 = 2$......$2$，$2 + 1 = 3$。"
+      "explanation": "$10 \u0000 4 = 2$......$2$，$2 + 1 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/011de1275cac5ea58d008ec5c958d4c04ca141b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/408049da06bf2b24bab1a00ac336241de679e551.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "属相有12个。$15 \u0000 12 = 1$......$3$，$1 + 1 = 2$。"
+      "explanation": "属相有12个。$15 \u0000 12 = 1$......$3$，$1 + 1 = 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9f9a2e63ccd0b391cd8270bb252147dd04ff5e46.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0876891cfebba68de8236f4e71dca4504dcdf156.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "12"
       ],
       "answer": "10",
-      "explanation": "每个抽屉先放3本共9本。多放1本即满足至少有4个。 $3 \u0007 (4-1) + 1 = 10$。"
+      "explanation": "每个抽屉先放3本共9本。多放1本即满足至少有4个。 $3 \u0007 (4-1) + 1 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e164d21e8802e6ec770c42e60d1c19ee21583e38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13c57e5e37189151f064f28ec4eb7f62676802fa.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "11"
       ],
       "answer": "6",
-      "explanation": "$11 \u0000 2 = 5$......$1$，$5 + 1 = 6$。"
+      "explanation": "$11 \u0000 2 = 5$......$1$，$5 + 1 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d313d82025d5859a39dca25fa410c781e7795bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/27/27c074f47dda1aba65cd15d92958f0b7404d41b5.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "6"
       ],
       "answer": "4",
-      "explanation": "$10 \u0000 3 = 3$......$1$，$3 + 1 = 4$。"
+      "explanation": "$10 \u0000 3 = 3$......$1$，$3 + 1 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbce64fa898dede1af5667f6bed2c3c6265f5fc8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/292d29047f099758fda2e6f0e6a9538b710d7ec1.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "15"
       ],
       "answer": "3",
-      "explanation": "2种颜色为2个抽屉。$2 + 1 = 3$。"
+      "explanation": "2种颜色为2个抽屉。$2 + 1 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a212a2dde5ebdfab44f65b52508b5b997601a31d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04385b67b04d8ded65cfa212a5852eee89ab877e.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "把 25 粒围棋子放入 4 个格子里，总有一个格子里至少有 ___ 粒棋子。",
       "options": [],
       "answer": "7",
-      "explanation": "$25 \u0000 4 = 6$......$1$。$6 + 1 = 7$。验算：$6 \u0007 4 + 1 = 25$。"
+      "explanation": "$25 \u0000 4 = 6$......$1$。$6 + 1 = 7$。验算：$6 \u0007 4 + 1 = 25$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac064e1e7dc349351c7bd809f95d7d737e3ba792.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/077087db23f19957251cffc38449c3a1eb0e89b3.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "把 100 块糖分给 12 个小朋友，总有一个小朋友至少分到 ___ 块糖。",
       "options": [],
       "answer": "9",
-      "explanation": "$100 \u0000 12 = 8$......$4$。$8 + 1 = 9$。验算：$8 \u0007 12 + 4 = 100$。"
+      "explanation": "$100 \u0000 12 = 8$......$4$。$8 + 1 = 9$。验算：$8 \u0007 12 + 4 = 100$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f9c53fa6243bf5e516044744ef649c4ecd5a29d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6520dd28f94bc44bcb3598cf82b0722ffb58101.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$13 \u0000 4 = ? $ 得到的余数。",
       "options": [],
       "answer": "1",
-      "explanation": "$13 \u0000 4 = 3$......$1$。验算：$3 \u0007 4 + 1 = 13$。"
+      "explanation": "$13 \u0000 4 = 3$......$1$。验算：$3 \u0007 4 + 1 = 13$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7bd6f1fac8d62af0a00a1526b0608df8e99dc52.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96d6b1455301b83f557dd8d6ef3ce2371a8cbea8.mp3"
+      }
     }
   ],
   "knowledge": null

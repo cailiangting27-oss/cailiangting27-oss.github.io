@@ -21,7 +21,17 @@
         "listen"
       ],
       "answer": "see",
-      "explanation": "see a film 是固定搭配，表示看电影。"
+      "explanation": "see a film 是固定搭配，表示看电影。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85817f595c8f0b4f465b1f699effed06d67404a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d637fc604995b51a048db0058a7c210e57a38cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7afddb68260a60f86c02a021efba7f216c2e7cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2147a9e5f9e89b70810c82ff8e12817130d6ca10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f9d1b12a6cb1e828604b58a359e25ae40fbf328.mp3"
+      }
     }
   ],
   "knowledge": null

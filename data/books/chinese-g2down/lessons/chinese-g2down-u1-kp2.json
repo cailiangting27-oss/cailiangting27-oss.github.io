@@ -16,7 +16,11 @@
       "question": "“春姑娘在桃花瓣上跳舞”是一句比喻句。",
       "options": [],
       "answer": "错",
-      "explanation": "这句话把春当做人来写，属于拟人手法，不是比喻。"
+      "explanation": "这句话把春当做人来写，属于拟人手法，不是比喻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/683f77d2991c0819a1e624a7729a2b2c309c1180.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22f93aba6913b34f21741b41f227cacfdbcde307.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "燕子"
       ],
       "answer": "春风",
-      "explanation": "诗句中用“似”连接，将春风比作剪刀。"
+      "explanation": "诗句中用“似”连接，将春风比作剪刀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a87dcbad2e11f90b36566fd309a7551e6bf1ecb5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5fb6b652c2ed9343f0e666a6a87efbd785cd6ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b39f6b1c044542bab13d05d843fd8496fb76b55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0878f35b88f62e38d69e09cdff207aec9351bb4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a6196e7629e76799b11f5b2d4cef690db54a764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26323da8a1aeccb1ec94468f4b0caf6a6d84a1f3.mp3"
+      }
     },
     {
       "id": 22,
@@ -49,7 +63,18 @@
         "草原"
       ],
       "answer": "大地,像,一块,绿色的,草原",
-      "explanation": "按照“主体+比喻词+数量+特征+喻体”的顺序排列。"
+      "explanation": "按照“主体+比喻词+数量+特征+喻体”的顺序排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f60f731561e648ad1864b9f782b06a7b282e7f7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/656b916e94fefb57b30080ccc1be1ceaad198698.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/344bc5902c13619b979849cf861e533972bca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e3efd85427d0bf416d2635140109ba14a97b98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d57189c1f7a2e771cbec6c725b5c2bc7dbafd21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/4034444592524f554aa2384653aa127a46834f17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/306ce8fc2b178076c7bf58098f748792efece11f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -60,6 +85,16 @@
       "混淆比喻句和拟人句，将拟人句当成比喻句。",
       "在运用比喻时，喻体选择不恰当，如将春天比作寒风。"
     ],
-    "tips": "寻找句子中是否有“像、好比、如同”这些标志性词语来快速识别比喻句。"
+    "tips": "寻找句子中是否有“像、好比、如同”这些标志性词语来快速识别比喻句。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/48/48de5935ef8a0c2b481c6ac43a19c78be918adb0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/40/408c17ed6f0289aec55a33169a6357f535d70641.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/12/12bc52fdb5dfd65a025907e0067cb7c22473344b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b5/b52aa533c6b1cfdfb34e08a61a8be3cfb848d808.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/27/275ba2c77b1f95ceb878d3c9c737e0d497304e48.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c5/c5329f6183be4ce97962f8db955fe10584d52e56.mp3"
+      ]
+    }
   }
 }

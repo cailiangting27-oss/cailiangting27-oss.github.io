@@ -21,7 +21,17 @@
         "环境描写"
       ],
       "answer": "细节和动作描写",
-      "explanation": "通过具体的时长和姿态，刻画了猫抓老鼠的耐心。"
+      "explanation": "通过具体的时长和姿态，刻画了猫抓老鼠的耐心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/8743a2204f98c79694d7e3fcadf72132ac667fdc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/435fff592203fffed176e42d8a37eeac32493404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5430a5f415446a7be87dbb838daa879330a769d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8d9683681dad026da33c97e6cff8617132bd972.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90402fdbca9742f5224a4a5719d16edf6a4c4ad.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/5475f61a3c89f95354db24d0ee5d5937a53dc8bf.mp3"
+      }
     }
   ],
   "knowledge": null

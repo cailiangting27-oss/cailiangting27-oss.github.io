@@ -16,7 +16,11 @@
       "question": "“亮晶晶”可以用来形容夜晚的星星。",
       "options": [],
       "answer": "对",
-      "explanation": "“亮晶晶”形容物体明亮闪烁。"
+      "explanation": "“亮晶晶”形容物体明亮闪烁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32452a730333d2e6cd3ac02951654e04acfdfcaf.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8300fe2b757f08f7d7d6b11f6a2543fb3bb248ea.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "借用他人的纸笔，用完了可以直接放回去，不用打招呼。",
       "options": [],
       "answer": "错",
-      "explanation": "归还时应打招呼并表示感谢。"
+      "explanation": "归还时应打招呼并表示感谢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd8ee58a77065350b9d1ae349d8ec5febbc6cb38.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be81473a092305e624d6d900a26c7a7d9e289a80.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“胖乎乎”常用来形容小宝宝的小手。",
       "options": [],
       "answer": "对",
-      "explanation": "这是课文中出现过的词语搭配。"
+      "explanation": "这是课文中出现过的词语搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a281fc0057f6fce32ba64c769e1c3377d892f68.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c724daadc978864edc32914734f5da9622bfa6dd.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "查“厨”这个字，音序是“C”。",
       "options": [],
       "answer": "对",
-      "explanation": "“厨”的音节是chu，首字母是大写C。"
+      "explanation": "“厨”的音节是chu，首字母是大写C。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/42/421d1b6232cacee9b3af6576e959c441daaeb703.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5e8d16027a0ae8388a1d6822cc7da53642d6c42.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "球是我的！"
       ],
       "answer": "老师，对不起，请帮我把球拿一下好吗？",
-      "explanation": "既道歉又使用了礼貌请求词汇。"
+      "explanation": "既道歉又使用了礼貌请求词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/391222047026b55ac60e31794a4f7540b942e381.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae9b5d31eafcf0abf1efdab286f87a671abd643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fd313945360ff6cda49a62ab493607cb326efbd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8561b4f31785d1fe76ba34d1807c9302b6a969c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4513ec10f720761c2cf12029c995ac30b7f66bda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49d5f29ea1250f883653c923a4904e57959b9bdb.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "字数多少"
       ],
       "answer": "音节表顺序",
-      "explanation": "查字典时，找完音序找音节。"
+      "explanation": "查字典时，找完音序找音节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5da328e235a4a05792f08cc3ef73afd7e59b2d7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d5e4bd65508656c2a1be41a2e5e6bcbe487aaef8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a98ab599e7ff3908c84a779b4887769a84ef2e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fc08a12b2650bb43d1d5823fcca5c2be877e13a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e359fa4a337f2c681ee2f8b0f652397f7b7f13f8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01066cc8057646e0014fb3946b8be028dd878acb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "把树和喜鹊当作人来写，说他们有邻居。"
+      "explanation": "把树和喜鹊当作人来写，说他们有邻居。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3c76294caab1f3d79c7648248f5d931f1cc0c48.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0fe0853ebb0f6aa0fd44cb032c6607842cc9c18a.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "跳"
       ],
       "answer": "哭",
-      "explanation": "根据《小公鸡和小鸭子》课文原文填空。"
+      "explanation": "根据《小公鸡和小鸭子》课文原文填空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e57181769f91726ea9b9a17531b250ea6ecca98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f0/f0f1f867ec9cbb59b672a0122b89d6c687227d90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15160b8ab8f9662d18e02725361d14f3142aad87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/793f8679d7b028e411c3f1d4103483165674971e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/8449cf0cf425dfca043999a69a353762eb3dd089.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d6ba36529ec0baf4a0b3fc8a16883403e42e0b5.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "zī"
       ],
       "answer": "zhǐ",
-      "explanation": "在“只有、只要”中读第三声。"
+      "explanation": "在“只有、只要”中读第三声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a624a12a1db054499f356cd68f2d09ee0fcc817c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1ab935fa313bc280e6453263672933eb15248f20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fc208f2949b640c572675a2a2847f5706fa3d0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac6a0b8f6b5eba44c44a80be8af79bf5fb669760.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/563ab64c05f0a18fe64fc7915c3410d9c3c74def.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adb5df60592a104841ca5768e7fcb39e5bd724a5.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,11 @@
         "……"
       ],
       "answer": "？",
-      "explanation": "这是一个疑问句，表达疑问语气。"
+      "explanation": "这是一个疑问句，表达疑问语气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/101e41c56800047132c6c06d03c9090688de94e7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d97a288edadc454af06b2b9e7aed3ede3da08d2b.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +226,11 @@
       "question": "不及汪伦送我（___）。",
       "options": [],
       "answer": "情",
-      "explanation": "考查《赠汪伦》最后一句的记忆。"
+      "explanation": "考查《赠汪伦》最后一句的记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f8b0896b7e7f6b6084c86aaa38c20c5c680d024.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ce69c94e02e31845809fe92b4affb869d183089.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +241,11 @@
       "question": "“河、江、海”这三个字的偏旁都是（___）。",
       "options": [],
       "answer": "三点水",
-      "explanation": "它们都与水有关。"
+      "explanation": "它们都与水有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0fcab17abd50947abf8c6fc5703355ea342d5fb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/370e79c7afc84d9d934e6618e350d09589f443f0.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +265,21 @@
         "长高"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "根据课文内容，小鸭游泳，公鸡捉虫，树长高，喜鹊叫。"
+      "explanation": "根据课文内容，小鸭游泳，公鸡捉虫，树长高，喜鹊叫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/0193afae0823618bc633a9e39dc824df3792095c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90e4e1e6f19cb29e85c0fee64061e7612958cb8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a47e4e7e0cced5e4a50de359659debc7aa3a9a3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78039feab96ef49f783b9abae505641e869a9bb1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f2fa095c2f01347b1c153335c321c4f468bcd70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c2d385513fef46112518fb44256719028bafe10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b66f447bfcb94e60dd5363485a63016d3ca7861f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/511ffe1c08795a28cb008dff3bae96c88913e5ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/222e27f985688c169a3159444b775546f3220d35.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/804547f3a3dd64c1d5ab2f3fd2f136bcb77df194.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +299,21 @@
         "H"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "说(S)，讲(J)，玩(W)，很(H)。"
+      "explanation": "说(S)，讲(J)，玩(W)，很(H)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3908808f8a7806c6f0e5615e8cc619abab4a4593.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/be3058692f120beec6c06756864764d1691e624e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/860fe2bcd431febcdf3f0721dab8f315739c4a91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0ae305f3b3f444cb2ff8b9839ceb1c1f6f4a264.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74a04cc4bf3ac133a6abd449c12c878eb50b0f69.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58668e7669fd564d99db5d581fcdb6a5618440b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2415cb7f63df0c9de23362326ad3c37a9adfc96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02aa629c8b16cd17a44f3a0efec2feed43937642.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cf184f4c67ad58283ecb19349720b0cae756829.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/12db2e5a75e902a910ff82ddb07a36e6341b2bbd.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +329,17 @@
         "都"
       ],
       "answer": "我们,都,是,好伙伴",
-      "explanation": "基本的句式结构练习。"
+      "explanation": "基本的句式结构练习。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b281a1941102f2cee0b832f8c4f574c818c5c91.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a297e0c48d33c3fadfa7e6c2fcf393eb3f2b706.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d51dd8d130ce462e444239d77070d038fb8e920a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c390f19f4107b53613793adf5341917f23b8a16b.mp3"
+      }
     }
   ],
   "knowledge": null

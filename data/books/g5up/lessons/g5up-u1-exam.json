@@ -16,7 +16,11 @@
       "question": "计算小数乘法，首先要把小数点对齐才能计算。",
       "options": [],
       "answer": "错",
-      "explanation": "小数乘法对齐的是末尾，不是小数点。小数加减法才需要对齐小数点。"
+      "explanation": "小数乘法对齐的是末尾，不是小数点。小数加减法才需要对齐小数点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffd24893db589a4e9c863c905d78cc636088283d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6db7e51d3474290aa03d6895f0545a573a149bd1.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$0.37 \times 5$ 的积有两位小数。",
       "options": [],
       "answer": "对",
-      "explanation": "$37 \times 5 = 185$，原数有两位小数，积即为 $1.85$。"
+      "explanation": "$37 \times 5 = 185$，原数有两位小数，积即为 $1.85$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9ad2818d50755227c9e924d21b0589bb722fc625.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/574d3e480395a77b57e66ea3ddcdfe240b062d8c.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "精确到十分位，也就是保留两位小数。",
       "options": [],
       "answer": "错",
-      "explanation": "十分位是小数点后第一位，保留一位小数。"
+      "explanation": "十分位是小数点后第一位，保留一位小数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/489dd1e399422b8b39407e074a3932cb05daaf2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/211e3d13ff5e18b8e887b5f6a680130dd37e0204.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "如果每千克苹果 $6.9$ 元，买 $2.1$ 千克，带 $14$ 元钱一定够用。",
       "options": [],
       "answer": "错",
-      "explanation": "利用估算，$6.9 \times 2.1$ 近似为 $7 \times 2 = 14$，但因为 $6.9$ 接近 $7$，$2.1$ 大于 $2$，实际积为 $14.49$。带 $14$ 元不够。"
+      "explanation": "利用估算，$6.9 \times 2.1$ 近似为 $7 \times 2 = 14$，但因为 $6.9$ 接近 $7$，$2.1$ 大于 $2$，实际积为 $14.49$。带 $14$ 元不够。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d472af846f711c119b221f75baf2008f4d60c3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b11b23f8c49f0cbfb098ebbde23eb4aefa13156.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "48"
       ],
       "answer": "0.48",
-      "explanation": "一个因数乘 $10$，另一个除以 $10$，积的总大小不变。"
+      "explanation": "一个因数乘 $10$，另一个除以 $10$，积的总大小不变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bfead3948d4dc9aebc57875bb34d17560e45dbca.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2607f6b788649e033ce30e1a047bf49c1f5fe91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/deee9cc3e8de71de7a0f5afa8dac2b944a2baf3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc0d5950400d4df7183f1f23d44ed27def3095df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f9cb410395a976d22338c552a23b49d3873124f.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "0.744"
       ],
       "answer": "0.7",
-      "explanation": "$1.24 \times 0.6 = 0.744$，保留一位小数看百分位，$4 < 5$，舍去。结果是 $0.7$。"
+      "explanation": "$1.24 \times 0.6 = 0.744$，保留一位小数看百分位，$4 < 5$，舍去。结果是 $0.7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dd586305deb34dbca420213ed13f240a67a45b8b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/7177575ab52680f3b082634dbeb8d2896016e7e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48026248575be074288e0b8334c8383a52f12906.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a534e76482ade9d9fe4bff3035a7f31f2f363d77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/931573028799ec9e310ec1fcb9ac0b6492460f83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/930c042fd0c4ecb8f3208a54d263466108778186.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "无法确定"
       ],
       "answer": "大于0且小于1",
-      "explanation": "一个数乘小于 1 的数，积比原数小。"
+      "explanation": "一个数乘小于 1 的数，积比原数小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b47f5d859a21a745e042f24a5f9d62e0a4c2054.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f38a9a4918017151736e2c750ece4b30343bc30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d896932118501923ecd4a1969bbb0b7ef3be763a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b36ff9e01af60e7971e6100ecf05e49bc791802.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d452f85bcf64782835e40c34f8163c3cf596d23.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "15"
       ],
       "answer": "11",
-      "explanation": "$1$ 小时 $5$ 元。超出时间：$2.5 - 1 = 1.5$ 小时。包含 $1.5 \times 0.5 = 3$ 个半小时。超出费：$3 \times 2 = 6$ 元。总：$5 + 6 = 11$ 元。"
+      "explanation": "$1$ 小时 $5$ 元。超出时间：$2.5 - 1 = 1.5$ 小时。包含 $1.5 \times 0.5 = 3$ 个半小时。超出费：$3 \times 2 = 6$ 元。总：$5 + 6 = 11$ 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04a4e3d6a7cc70cc432aa457f8b4bad666f69139.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/664a165f342c07e074cb1c9e4614afbac2fd89eb.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "没有小数"
       ],
       "answer": "3位",
-      "explanation": "$5 \times 8 = 40$，因数共 $4$ 位小数，积为 $0.0040$，末尾 $0$ 去掉后是 $0.004$，共 $3$ 位。"
+      "explanation": "$5 \times 8 = 40$，因数共 $4$ 位小数，积为 $0.0040$，末尾 $0$ 去掉后是 $0.004$，共 $3$ 位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fec4ea8bfcb9be7eac764d911a483749500ecb62.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f7f683619a12a08a5236078745fe12e4436ed6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/619c88c2d59725ab7bb696991ca4f17f6ebf3179.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27af9ca8d92a42366b9c7eadde389bbf04d00c4d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69457274ed074b1df30a5db40dc9e4e34eaa1fc0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/13/13701ca8de4e5f59ca18831905c75837e111dde0.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "直接死算"
       ],
       "answer": "(0.25×4)×(8×1.25)",
-      "explanation": "把 $32$ 拆成 $4 \times 8$，分别与 $0.25$ 和 $1.25$ 结合。"
+      "explanation": "把 $32$ 拆成 $4 \times 8$，分别与 $0.25$ 和 $1.25$ 结合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8132b1ee46c67ea57981cd9443edda4b5e7b8f0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1d/1d2486c7738a76ec81d3266ad677f8b21f8620eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a62ffaf066b4645a0647946a8e792f5b5442f43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af609014e9ae5e2bee26a598a4f4fd138cb9830b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d27769b4e5ff7e5b0594fd519e2d57920a493590.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae4467e36585fe725d21bae6f0b73701307c111e.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "1.5元"
       ],
       "answer": "2.5元",
-      "explanation": "$3 \times 2.5 = 7.5$ 元。$10 - 7.5 = 2.5$ 元。"
+      "explanation": "$3 \times 2.5 = 7.5$ 元。$10 - 7.5 = 2.5$ 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de9441ab2cbf8bcf988e284a76aa7604f9f5e0b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e2c1592c5882fcfcefd00a75a5e4482419021090.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c78ce283b8fb61deac2a81cba1661f783606322.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44ca4452a2ff0dda956023794c577f8878f951fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec221ab7fc60a453dbf335b67c8d2b31f449da71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/230f89c208f19594662bcdd42e04f92e0229329a.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "不变"
       ],
       "answer": "扩大10倍",
-      "explanation": "除以 $10$ 再乘 $100$，相当于净乘 $10$。"
+      "explanation": "除以 $10$ 再乘 $100$，相当于净乘 $10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a6f9ba6c95189fb054715322378b90e65860a5b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2e83da2a94e7751e0a27a416704a70a3d890753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/62143cf3c144de4acf3106040fab4ebbfa00017d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2dbf594cd99863ec964d4bdf0a61a4adee6d4779.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9c3326640789403dc4b649420d8f4dc0c3414e59.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个水杯 $9$ 元 $5$ 角，买 $10$ 个这样的水杯共需 ___ 元。",
       "options": [],
       "answer": "95",
-      "explanation": "$9$ 元 $5$ 角 $= 9.5$ 元。$9.5 \times 10 = 95$。验算：$95 \times 10 = 9.5$ ✓。"
+      "explanation": "$9$ 元 $5$ 角 $= 9.5$ 元。$9.5 \times 10 = 95$。验算：$95 \times 10 = 9.5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1dbbad095126d4575bd7a9d518126703970a58c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25b8fd75e713f63afcd69c3f6574174ddd822aa4.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一千克西瓜 $1.5$ 元，一个小西瓜重 $4$ 千克，这个西瓜 ___ 元。",
       "options": [],
       "answer": "6",
-      "explanation": "$1.5 \times 4 = 6$。验算：$6 \times 4 = 1.5$ ✓。"
+      "explanation": "$1.5 \times 4 = 6$。验算：$6 \times 4 = 1.5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c3fbd6565957f2b5db55078d78a0caa564bca9a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6679386e0de2b07f5af4481d90b8e12c550a23f9.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$0.8 \times 1.25 = ?$",
       "options": [],
       "answer": "1",
-      "explanation": "$8 \times 125 = 1000$，因数共 $1+2=3$ 位小数，积为 $1.000$，即 $1$。验算：$1 \times 0.8 = 1.25$ ✓。"
+      "explanation": "$8 \times 125 = 1000$，因数共 $1+2=3$ 位小数，积为 $1.000$，即 $1$。验算：$1 \times 0.8 = 1.25$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af7eab74e9714a7095685e023e639f852e922017.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/22806b5c5a8993de30b54ffa313f2a1f7dcade2f.mp3"
+      }
     }
   ],
   "knowledge": null

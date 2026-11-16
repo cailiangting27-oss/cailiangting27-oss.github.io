@@ -21,7 +21,17 @@
         "Turn V left V at the V light."
       ],
       "answer": "First, V go to the bookstore.",
-      "explanation": "句子开头的连接词（如First）后通常有自然停顿。"
+      "explanation": "句子开头的连接词（如First）后通常有自然停顿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8ac27eaa9d1e9bc0c0b62a8c644fcb2e06b50c5e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5bcf3b9659561ca592ee1bf9a15dbd2805c5a09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d4a827afb91db28381e79f87bf2893f7a5dba8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00d6ecbd080f39fe0109b09f6681474b6e350392.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22e4172d9f3185d514fdd9940e8e61f5db5f6ade.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f17f9d89453ec554937fe058e598db641c3d6e1.mp3"
+      }
     }
   ],
   "knowledge": null

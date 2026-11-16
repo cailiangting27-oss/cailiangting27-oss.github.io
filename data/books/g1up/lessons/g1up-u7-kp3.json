@@ -16,7 +16,11 @@
       "question": "小明每天先吃午饭，再吃早饭。",
       "options": [],
       "answer": "错",
-      "explanation": "一日三餐的顺序是早餐、午餐、晚餐。验算：逻辑不符。"
+      "explanation": "一日三餐的顺序是早餐、午餐、晚餐。验算：逻辑不符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f46c93b4495650ef6aaa97a6dd4e1cb93fcf32c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/706d873119c3d5b7ea85075158c617c7e619e85c.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "睡觉做长梦"
       ],
       "answer": "在学校听课",
-      "explanation": "只有“听课”符合上午及日间的作息逻辑。"
+      "explanation": "只有“听课”符合上午及日间的作息逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/448871a67dbc1861f97e467e0141772593236ba2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a6b0f3c726afbc15722caa638deab2e51d19df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8dcab5dd53f08af7f970f618367cdf8abed94074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0375688c256f01227b7085085e77abc8d47dda31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05d6be2d58eea2472f9e27a56d655eb9cd4230fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c61dd8a98c1723226ac44697437e622bc7455a04.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "9小时"
       ],
       "answer": "2小时",
-      "explanation": "从9时到10时是1小时，从10时到11时又1小时，共2小时。$11 - 9 = 2$。"
+      "explanation": "从9时到10时是1小时，从10时到11时又1小时，共2小时。$11 - 9 = 2$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/051aa4684a8fb451bd6d8047c7c03e871ddb7081.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3a9a579a96e2f16125e80b37c5c01d1e08d29e2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b37255ca3a909065158b53752e72b181035144aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bdfc4953bb68957a392d33f5c46037c815c5a79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d56cdba90f57138b031362f338f189d098de99fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f3a7c3b0bb834b2ed19d275b30d364d26dd276c.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "小明",
-      "explanation": "数字越小，时间越早（同一时段内）。1比2早。"
+      "explanation": "数字越小，时间越早（同一时段内）。1比2早。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c225669390d1963efe9f2a3935a5d659f51002b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca6738e54b83abef20aca22a2507003bf266193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5da487fb362c20e185cf0cec5449e2b69497c168.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b692e7d227777609b2e4a04a7d08b76874aac22b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e3d1099c1908bfa631586b3162926032f549be0.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "小明7时起床，小华比他晚1小时起床，小华是 ___ 时起床的。",
       "options": [],
       "answer": "8",
-      "explanation": "晚1小时用加法。列式：$7 + 1 = 8$。验算：$8 - 1 = 7$ ✓。"
+      "explanation": "晚1小时用加法。列式：$7 + 1 = 8$。验算：$8 - 1 = 7$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1eff5f615bc10f99ce7d6e64040e361ac22871fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85f9c93b232b6051958a220737830bd2c0b34604.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "认为数字大的时刻一定比数字小的时刻晚（忽略上午和下午的区别）",
       "不理解“过1小时”和“1小时前”的加减逻辑"
     ],
-    "tips": "把一天的活动像讲故事一样排排队，就知道谁先谁后啦！"
+    "tips": "把一天的活动像讲故事一样排排队，就知道谁先谁后啦！",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/4d/4d245657ac93e08b8e11b3fd8998dc2277bfa31d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b7/b7ff9dd563f207bbdf050d342b5fd76dd9598e03.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/af/afba7c09ce59d962b61d8f801bd448d7240b3454.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/11/11f57c745f80e08036084cd2b29c079760353758.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/03/03028cfa136b36aeb0a7db759c524b0c46540057.mp3",
+        "https://api.clthuanxie.cn/cc-audio/de/dec5547ccc5c6545ea3724a91ae20b4e594e1eaf.mp3"
+      ]
+    }
   }
 }

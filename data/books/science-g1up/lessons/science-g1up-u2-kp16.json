@@ -21,7 +21,17 @@
         "用嘴巴尝尝"
       ],
       "answer": "用手扇动气味",
-      "explanation": "扇闻法是保护感官并安全感知气味的科学方法。"
+      "explanation": "扇闻法是保护感官并安全感知气味的科学方法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5ff73350528f7b0bc859781d241dc10bc0bc8862.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf109b653c82031f2aed6363c77363958bf1790e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4586508d27a99d1c0e1bacd7a2de56fb1881b5e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/886f7e4acf41afd0b3f74f29dd014dab62fd6675.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/349c9fe59b2efa475b27280c857ec97ee61a1c5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/504b0244616ae7dfbc3016e2b49baccbcba4a0ba.mp3"
+      }
     }
   ],
   "knowledge": null

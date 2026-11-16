@@ -21,7 +21,17 @@
         "借代"
       ],
       "answer": "借代",
-      "explanation": "用“红领巾”代指穿戴红领巾的学生们。"
+      "explanation": "用“红领巾”代指穿戴红领巾的学生们。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/29afeddb6457ca2dbf0358d920253bec5dcd7c89.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/5611b1a2a36d75c1ad4ae40599e9c44a12bd0eec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/7777dd4c4ad515ccf48d574786d86807c21ef4ac.mp3"
+      }
     }
   ],
   "knowledge": null

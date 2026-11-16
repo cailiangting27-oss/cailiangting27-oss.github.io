@@ -16,7 +16,11 @@
       "question": "“呈”字的读音是 chéng，它的部首是“口”。",
       "options": [],
       "answer": "对",
-      "explanation": "“呈”是后鼻音，部首是口字头。"
+      "explanation": "“呈”是后鼻音，部首是口字头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e83e3d8fcbf2760a732c3499a0051c6b116072a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/be26cd1958d75b32eac2eed5f33a58711a56e6cc.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“普通”的“普”字上面是“并”字的一半。",
       "options": [],
       "answer": "错",
-      "explanation": "“普”字上半部分是“并”字，但下面是“日”，中间不要漏写。"
+      "explanation": "“普”字上半部分是“并”字，但下面是“日”，中间不要漏写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35ffd2d340e9b0559543142015b21d68cd759c47.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1bfab888e1bb09cd88b38aac2940752a84a3245.mp3"
+      }
     }
   ],
   "knowledge": null

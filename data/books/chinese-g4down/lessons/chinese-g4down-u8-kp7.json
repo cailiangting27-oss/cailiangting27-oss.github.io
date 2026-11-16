@@ -16,7 +16,11 @@
       "question": "巨人见到孩子们在花园里玩，感到非常开心并邀请他们一起喝茶。",
       "options": [],
       "answer": "错",
-      "explanation": "故事开头巨人生气地赶走了孩子，并筑起了围墙。"
+      "explanation": "故事开头巨人生气地赶走了孩子，并筑起了围墙。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7221f5e6dc0d9b8f4881f111b037df6a79da9d7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6635b32c1126fabea981c0df8fa9eaefdcb05aa4.mp3"
+      }
     }
   ],
   "knowledge": null

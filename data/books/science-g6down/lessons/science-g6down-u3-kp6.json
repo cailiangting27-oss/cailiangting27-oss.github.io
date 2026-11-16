@@ -16,7 +16,11 @@
       "question": "星座在天空中的位置是固定不变的。",
       "options": [],
       "answer": "错",
-      "explanation": "由于地球的自转和公转，星座在天空中的位置会随时间发生变化。"
+      "explanation": "由于地球的自转和公转，星座在天空中的位置会随时间发生变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d806099b0b2816af5360bced650f82ad696d1d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b1d9f84a96cf9d0d498996c81c83ed515851944.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "狮子座"
       ],
       "answer": "大熊座",
-      "explanation": "北斗七星属于大熊座，通过北斗七星勺口两颗星延长5倍可找到北极星。"
+      "explanation": "北斗七星属于大熊座，通过北斗七星勺口两颗星延长5倍可找到北极星。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84f5b8badb9e4488252b86217de3fdb6c2515de4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91154085494c72d7bd891b243b446982ca9155df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d6ad819250a937fb52627002ed034ad059b4285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9170029b2980d1e447c5d4daab23f98680296d52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dcaa5dee80ad5b14869b9983dcd582dd7065434.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d84028c4bac5856d2941bf73eb58ccf8c834095a.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "都在垂线上"
       ],
       "answer": "不在同一个平面",
-      "explanation": "星座是远近不同的恒星在地球视角上的投影，它们在空间中位置不同。"
+      "explanation": "星座是远近不同的恒星在地球视角上的投影，它们在空间中位置不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba279c58462dc77a92fbbdfb418b83878654fc90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/947ef5897b5263bf1cdd28545b4f31bcbea58e5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e9a5aba98524c26777f2d938344f8577ba47de7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c6d25799d804fdb9691e63dcf4e6aec6b8c9df8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec5cd0bfecfba8914ae12633d797f27e0306f277.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fa86532447b5f923982ccbc8e2c750560701e32.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +88,17 @@
         "参宿四"
       ],
       "answer": "参宿四",
-      "explanation": "夏季大三角由织女星、牛郎星和天津四组成；参宿四属于冬季猎户座。"
+      "explanation": "夏季大三角由织女星、牛郎星和天津四组成；参宿四属于冬季猎户座。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61fcb93e5a5b88daafcf54a890a2f42a14bd53fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e16274be5a1fa5ca196a277d91de1f0e46faef87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b761a9ff0801cfd34fe80fd26c5460c3e6562df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12fac20cc9d5e2c98905a4fc96d50dce23195eb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cc8bdb65132ebfe61957e8c5f1c02b64ae445e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b8/b8adc8d463affd6e366928eef55706fbb0abbb5c.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "全天共被划分为（___）个星座。",
       "options": [],
       "answer": "88",
-      "explanation": "国际天文学联合会将全天划分为88个正式星座。"
+      "explanation": "国际天文学联合会将全天划分为88个正式星座。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a801e6d1caf59dee5cdd294d72a72c035ca93e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b9bf5f65705cd07f48e999be12caf7f54484b66.mp3"
+      }
     }
   ],
   "knowledge": null

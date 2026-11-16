@@ -21,7 +21,17 @@
         "船的速度"
       ],
       "answer": "任务需求和标准",
-      "explanation": "工程设计的第一步是明确任务目标（如承重多少、行驶多远）。"
+      "explanation": "工程设计的第一步是明确任务目标（如承重多少、行驶多远）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56b5149e7d441d5f652a157e0f27452bcdad8e07.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/84/847f6ed6127ba269cefed7b774a5bf664778170e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1f73a5009161054343aff186d3116167376522c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6b1f917a1b010abaf4883fe63383194079fee84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4898887c1407f685a079b6101b0085acadc3963.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58ed346b0715e9965fda489defc5e6024059d35e.mp3"
+      }
     }
   ],
   "knowledge": null

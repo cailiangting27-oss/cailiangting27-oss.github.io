@@ -16,7 +16,11 @@
       "question": "“饮水不忘挖井人”这句话中的“挖井人”是指毛主席。",
       "options": [],
       "answer": "对",
-      "explanation": "课文讲述了毛主席带领战士和乡亲们挖井的故事，乡亲们为了纪念毛主席立了石碑。"
+      "explanation": "课文讲述了毛主席带领战士和乡亲们挖井的故事，乡亲们为了纪念毛主席立了石碑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/33/33a3eba35a3f2bb9de190e518e2b0dd9d13975ee.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/989694b2dca51d335cc39f197d1684bf2646f509.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "吃水不忘挖井人，时刻想念毛主席"
       ],
       "answer": "吃水不忘挖井人，时刻想念毛主席",
-      "explanation": "这是课文中明确出现的石碑内容，表达了对毛主席的感激。"
+      "explanation": "这是课文中明确出现的石碑内容，表达了对毛主席的感激。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdd0c4c634483c2b7fb79ca39be54af07a1d6dc0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/214afb78213d826dba0fa986b93e891e93d78df4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb53417235fc2a2435892e9afda6bf837955f09d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f31ac68f36aedd8f843385b6eb225fd3abfc277.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d222aa19e6b93579eb068f42a57c60f77535d06.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/229b1537f84bef452ae2060a11a6e91da1ef0bbb.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "广州"
       ],
       "answer": "瑞金",
-      "explanation": "课文第一自然段交代了地点在江西瑞金的沙洲坝。"
+      "explanation": "课文第一自然段交代了地点在江西瑞金的沙洲坝。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41ec1113b8a39bf198c538936088a84d4c147ab6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62c418daad3e8c8985fda19c78a3bf6f818a94a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/685e151824a03f3fbe0d45361380807f621c59e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99f1e46974c65e07664e0df1fd6267b3236789b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d03d2f65a5ab57980517c9579251f710a4e4c18a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f8aa1f2c8da678f848cfb7c7fd2630556f3b63e.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "乡亲们力气大"
       ],
       "answer": "毛主席关心群众生活",
-      "explanation": "由于沙洲坝没有水，毛主席亲自带人挖井，体现了对人民生活的关怀。"
+      "explanation": "由于沙洲坝没有水，毛主席亲自带人挖井，体现了对人民生活的关怀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1f383a668129e25218ab4c76e6f216cf9665739.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac2b3837820d65dedc72512eba5b8a4a3f571c64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea9f778ec25ae041ffab58f5a78f979f22be51d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47f4934b189962891c76537c79e8f0739150a992.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f977a4d1b9185c08b620a7a92471ff2f94dd1d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9ff4c40888bd2b54fa4a3bea26a4280b6355fa97.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "“吃水不忘挖井人”中，“忘”的反义词是（___）。",
       "options": [],
       "answer": "记",
-      "explanation": "忘记和记住是一对反义词。"
+      "explanation": "忘记和记住是一对反义词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3943e90caea0f47741e322753a868ca3d3b6920.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b7616d99655064d64b7d113539fd9f3e3605322.mp3"
+      }
     },
     {
       "id": 21,
@@ -95,7 +133,21 @@
         "一起参加挖井"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "毛主席带领挖井，乡亲们立碑，战士们共同参与，路人观看。"
+      "explanation": "毛主席带领挖井，乡亲们立碑，战士们共同参与，路人观看。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/314ae3e0a77525ad6ed7bfe33b425732b5abc8dd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c74db71411b2f5a68edf97e76cfe8d55817158.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5742cbef4674094c0ed53abc862965131f449175.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce742c5d526b433f9fcb32efb7950e150f91f9e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b7d9eaef2d9c367a4c5ffc216e2687fc347bf25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70b755436914078b1e82ff1b62ac4257c4e53675.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/886288bf5b4d7594364939a8073177a3946ab5b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f140e8e0ee1eadb945d390fb21f6e27a276d39bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e34e70f5151e4c9cc0f5eac489743862a8f66324.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ead37ef6f00fb07e77bfc0901ef34757a5dc043.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "将“吃水不忘挖井人”中的“挖井人”泛指为所有工人",
       "混淆毛主席挖井的具体地点（瑞金沙洲坝）"
     ],
-    "tips": "可以通过背诵石碑上的那句话来强化对主题的记忆。"
+    "tips": "可以通过背诵石碑上的那句话来强化对主题的记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/db/db170491b0e661b829baea52791306728b246b94.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/40/404a630019f3cbfff92eedbd769f948b75ca424e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d7fd2c7932e54675aee6cd8592d4b29e18b47128.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/00/00378b191a8e8e0aeb89370e1bd9fce841f24abc.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/80/80ee2267f1c5a735e536703ce4495a6975272dca.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8b/8b4589d9996b5dbfb50aae27636abc2d907f0f0d.mp3"
+      ]
+    }
   }
 }

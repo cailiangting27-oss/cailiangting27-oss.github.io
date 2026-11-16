@@ -21,7 +21,15 @@
         "sang"
       ],
       "answer": "is sung",
-      "explanation": "主语 song 是承受者。"
+      "explanation": "主语 song 是承受者。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b34554a5386162fde8158ddff35486e6eaa3ba6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bef9c232cea3596339c111309709fa59839e79.mp3",
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

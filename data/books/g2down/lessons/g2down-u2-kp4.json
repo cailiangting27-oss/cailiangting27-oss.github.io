@@ -16,7 +16,11 @@
       "question": "计算 $8 \\div 2$ 和 $8 \\div 4$ 时，用的是同一句乘法口诀。",
       "options": [],
       "answer": "对",
-      "explanation": "$8 \\div 2 = 4$ 想：二四得八；$8 \\div 4 = 2$ 想：二四得八。口诀相同。验算正确。"
+      "explanation": "$8 \\div 2 = 4$ 想：二四得八；$8 \\div 4 = 2$ 想：二四得八。口诀相同。验算正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4ac734cbac6c876fd629c0cc66ee4cea4af2b767.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/106278377fad2e5980a4e87f6a59a2063ccdff9c.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "20"
       ],
       "answer": "5",
-      "explanation": "想：四（五）二十，所以商是5。验算：$5 \\times 4 = 20$。"
+      "explanation": "想：四（五）二十，所以商是5。验算：$5 \\times 4 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6e6f69f10a74b3634b9d9d90186ff30100a4b2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b61feb785fb9a7153a6bff9d011359d814c5faca.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "$18 - 6 = 12$"
       ],
       "answer": "$18 \\div 6 = 3$",
-      "explanation": "三六十八对应的除法算式有 $18 \\div 3 = 6$ 和 $18 \\div 6 = 3$。选项中符合的是B。"
+      "explanation": "三六十八对应的除法算式有 $18 \\div 3 = 6$ 和 $18 \\div 6 = 3$。选项中符合的是B。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/899cb16a70cc1d2baa44a7c34b857dad27f52f0b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5ab4e746dd8fd409417de5432de45ba72c70769.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/5541ddb2f8dfad258de8d5198af306ca6ec49e4a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d835f5e1fff3d9ab7a0f23cf9900d26d8e8b17ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11b32a37eb40e3baa854238afbc7fa7c0d83ce6c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f51cb7413d8e7fcbeda5c45592cb0219bc2032d.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "$8 \\div 4$"
       ],
       "answer": "$10 \\div 2$",
-      "explanation": "A=2, B=5, C=3, D=2。5最大，故选B。"
+      "explanation": "A=2, B=5, C=3, D=2。5最大，故选B。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1c4ee46c4af2360870ce8261e4c883d145b7c50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/00/00788517b478d71c442b9ecf5e48a8657590aa4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5e371ce7820543695f9c72e15e08d6e76c30b16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13218dc61b170f5d9f798cd224ff2190922d2edb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/614a65cbcdb8aa1d9fa7ab3432ba8fa798799c63.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bdb2df38f560019be62301908c950c3d6a945e9.mp3"
+      }
     },
     {
       "id": 16,
@@ -80,7 +114,17 @@
         "3和9"
       ],
       "answer": "4和8",
-      "explanation": "一样多时每棵树有 $12 \\div 2 = 6$ 只。第一棵树给了2只后剩6只，原来是 $6 + 2 = 8$ 只；第二棵树收了2只后变6只，原来是 $6 - 2 = 4$ 只。"
+      "explanation": "一样多时每棵树有 $12 \\div 2 = 6$ 只。第一棵树给了2只后剩6只，原来是 $6 + 2 = 8$ 只；第二棵树收了2只后变6只，原来是 $6 - 2 = 4$ 只。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef7fe87efe2d06390cb62307bdee13f02ad664f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54f6162182d24b9432e426e7a0901a6f514f0824.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429f5600a6d45d27b232fc3923048d80b6fdbfa8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb80bdfd1573b43eb55cb37b2c822ab0d37c36fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e9a474115e9515ecf0d1280b46f4d7e2a560cf9.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +140,17 @@
         "21"
       ],
       "answer": "6",
-      "explanation": "列式：$18 \\div 3 = 6$。想：三（六）十八。验算：$6 \\times 3 = 18$。"
+      "explanation": "列式：$18 \\div 3 = 6$。想：三（六）十八。验算：$6 \\times 3 = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/485040ea965f92ab92e4ff0294deb7cd22725a94.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a082ad5e174b129bf1d6eabdfb914b01219947a.mp3"
+      }
     },
     {
       "id": 20,
@@ -107,7 +161,11 @@
       "question": "教室里有12张课桌，每2张课桌拼成一个小组，一共可以拼成 ___ 个小组。",
       "options": [],
       "answer": "6",
-      "explanation": "列式：$12 \\div 2 = 6$。想：二（六）十二。验算：$6 \\times 2 = 12$ ✓。"
+      "explanation": "列式：$12 \\div 2 = 6$。想：二（六）十二。验算：$6 \\times 2 = 12$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b93161546e977b44db58cad321b22b7c29507191.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b438aa6d181100c5b08ce4e811d1b01e526e7d6b.mp3"
+      }
     },
     {
       "id": 21,
@@ -118,7 +176,11 @@
       "question": "一根绳子长16米，对折再对折，每段绳子长 ___ 米。",
       "options": [],
       "answer": "4",
-      "explanation": "对折一次是分成2段，对折两次是分成4段（$2 \\times 2 = 4$）。列式：$16 \\div 4 = 4$（米）。验算：$4 \\times 4 = 16$ ✓。"
+      "explanation": "对折一次是分成2段，对折两次是分成4段（$2 \\times 2 = 4$）。列式：$16 \\div 4 = 4$（米）。验算：$4 \\times 4 = 16$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4dfb92f011a5ca04f876d37e5568f81a1441334a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6e11298c118ccd9931332ddc69905a75e73b156.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "$24 \\div 6 = ?$",
       "options": [],
       "answer": "4",
-      "explanation": "想：四六二十四。计算得4。验算：$4 \\times 6 = 24$ ✓。"
+      "explanation": "想：四六二十四。计算得4。验算：$4 \\times 6 = 24$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6da4b23d561b1a1cb8f99f506d385589406a53e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45b4a4509962b0c2c2e74e04b98928d9293504ef.mp3"
+      }
     },
     {
       "id": 23,
@@ -140,7 +206,11 @@
       "question": "$30 \\div 6 = ?$",
       "options": [],
       "answer": "5",
-      "explanation": "想：五六三十。计算得5。验算：$5 \\times 6 = 30$ ✓。"
+      "explanation": "想：五六三十。计算得5。验算：$5 \\times 6 = 30$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf625ab128e650523d9fc2a61abf46d5bec0dfc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbda9b4a7e542d9dfad8fb28394548a5e8b2c924.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -151,6 +221,16 @@
       "口诀记错或背得不熟导致看错行。",
       "不知道该看哪个数来对口诀，比如 $15 \\div 5$ 却去背三的口诀。"
     ],
-    "tips": "‘看除数，想口诀’是法宝。除数是几，就背几的口诀，非常快速高效。"
+    "tips": "‘看除数，想口诀’是法宝。除数是几，就背几的口诀，非常快速高效。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5d/5d27578c8d0129a512648b65d3dc9f156645a19f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f4/f4a005cd6a3cde3a396444f7de068792cf26d3c4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/03/03215c6169acccc1ad2e60b4ef98e296bb12f187.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/00/00faa7bfe46f744aa61ea41285b87e4cdc911f50.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7c/7c49d70baafbe0cad936b550792af4b40f009146.mp3",
+        "https://api.clthuanxie.cn/cc-audio/47/47171c132b90e317c3217bcd303720a8c0c00fce.mp3"
+      ]
+    }
   }
 }

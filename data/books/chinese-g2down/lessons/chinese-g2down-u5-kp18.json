@@ -21,7 +21,17 @@
         "杨桃就是五角星"
       ],
       "answer": "杨桃很像五角星",
-      "explanation": "反问句表示肯定的强调。"
+      "explanation": "反问句表示肯定的强调。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e081d7e999ee310535099f779964da8772142295.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a5/a57519d7157c1e37dcadc5d0a0c6e84b296b0d47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e0fee874df0fd3234e819c36598e568aad3abb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd687900cfaa531d0f23c8238b168c9786467352.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/1611cfc319b80513904f80ecb2a981134f2d2a02.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/832e27196cd7dcd2838e71b3a838493776f95606.mp3"
+      }
     }
   ],
   "knowledge": null

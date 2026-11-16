@@ -21,7 +21,17 @@
         "拿出铅笔"
       ],
       "answer": "把书打开",
-      "explanation": "open意为打开。"
+      "explanation": "open意为打开。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6ac4460fcd08991ffcd825bf89e29b13d517766.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/778ae34a2fd2b2fa057adb9a6e512134aceb700d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c3582ca2cba2ebad69f3a8fbd373e0c6b8d85ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/110634a9be8957f9108545bd058f944fae4598b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd9649fdc0e4da57e915703e545366610d6983ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4ec5e17bfac3ad2f8087929a17a56ad6e1e677e9.mp3"
+      }
     }
   ],
   "knowledge": null

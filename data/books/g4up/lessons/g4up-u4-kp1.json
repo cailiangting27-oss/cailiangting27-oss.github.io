@@ -16,7 +16,11 @@
       "question": "三位数乘两位数的积一定是五位数。",
       "options": [],
       "answer": "错",
-      "explanation": "最小的三位数 100 乘最小的两位数 10，$100 \\times 10 = 1000$（四位数）；最大的三位数 999 乘最大的两位数 99，$999 \\times 99 = 98901$（五位数）。所以可能是四位数也可能是五位数。"
+      "explanation": "最小的三位数 100 乘最小的两位数 10，$100 \\times 10 = 1000$（四位数）；最大的三位数 999 乘最大的两位数 99，$999 \\times 99 = 98901$（五位数）。所以可能是四位数也可能是五位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/59/59f4d80c24469512b3c3f2c33a145c8234193bfb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00eaaad572b357b4d4b45955e6fac59f67369c91.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "两个因数的末尾一共有两个 0，积的末尾一定只有两个 0。",
       "options": [],
       "answer": "错",
-      "explanation": "例如：$250 \\times 40 = 10000$，因数末尾共有两个 0，但积的末尾有四个 0。原因是因数非零部分的乘积末尾也可能产生 0。"
+      "explanation": "例如：$250 \\times 40 = 10000$，因数末尾共有两个 0，但积的末尾有四个 0。原因是因数非零部分的乘积末尾也可能产生 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/10c7a448f2cc072b81691874acf463bccad41f04.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed736cb14a7e2a44d486ec887d16e97fda2f3915.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "102000"
       ],
       "answer": "10200",
-      "explanation": "52 中的“5”在十位上，表示 5 个十。$204 \\times 50 = 10200$。"
+      "explanation": "52 中的“5”在十位上，表示 5 个十。$204 \\times 50 = 10200$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba5012f343c7f89794b6a3b8b24edf251cbaaaa8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d1270b059e6137ec41ef691abd46e1c01a3a0f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1da010868461fede8567720c77db0cee034e2a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8306ae139ac98f432932286151dc0ec55580eca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b08788258a2330c70db1ec12b92f439c97ba947.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f201abf8aff64b151485c391dca7e6ed05d4b87e.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "5 个"
       ],
       "answer": "3 个",
-      "explanation": "$45 \\times 6 = 270$，再在后面添两个 0，结果是 27000，共 3 个 0。"
+      "explanation": "$45 \\times 6 = 270$，再在后面添两个 0，结果是 27000，共 3 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e21fd6108f8b15ea7bb3b8e146263134df3a6b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d38cb1c1373efdabb0293b4848faf6b1e5db5f0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d18c930a9938a623f4738035a41cd554bf50ded6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d8cffad43853f860a53927d5b0f8bcb47524b65.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecf89bc743356b900102fecc2600c514d691b889.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/200b3ffaa7759245609e8b6768f1a41dc1bff86d.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "8000"
       ],
       "answer": "6000",
-      "explanation": "$298 \\approx 300$，$21 \\approx 20$，$300 \\times 20 = 6000$。"
+      "explanation": "$298 \\approx 300$，$21 \\approx 20$，$300 \\times 20 = 6000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a4e6f36a732e3c0daef201b85f75fa0536b49540.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b2d81c80b94799aeef126f990f48cdb5505bbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8237d8959e03355010bb85cc3dc46a46fb31110.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31d9ddeaa80bc88c1f3117b9724726ebcc7fc72d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2de49ac0fce223dbdd31d2b8b3b3710582ef1535.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d25febbfc0eca6d50b68ccfdac791ee85f8397d.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "没有 0"
       ],
       "answer": "有 4 个 0",
-      "explanation": "$125 \\times 8 = 1000$，再补一个 0 是 10000，共 4 个 0。"
+      "explanation": "$125 \\times 8 = 1000$，再补一个 0 是 10000，共 4 个 0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9968f78b6420a4e747a444f2a2f72ed63d282c5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74b27684ed09ee774b2698a05db006c2cdde1e71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a69933bcf343b8b319f4bec56344f9477132a16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0f3b6d0051500e7f1704ca41efab2b3a1d02cf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e45f483260cb6a048b7d982018fc0c9372b84937.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae566d7c6a31b0967da3768fd3ffd3f6ceebe36a.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "480 \\times 4"
       ],
       "answer": "480 \\times 4",
-      "explanation": "$480 \\times 40 = 19200$。D 选项只有 1920，少乘了 10。"
+      "explanation": "$480 \\times 40 = 19200$。D 选项只有 1920，少乘了 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5cad27e0fc3364a6426ef40d7ebf8df2c41f8a74.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/20/2022c1d6e93cb38cd88de847e9fd0ca017750095.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b905d6a81e5105760726958ca868c31b8131587.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/096246df89a503b8d1ea4716da3f715f79cbabe9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/eccbef0ef019e4d537d2668a5b85079a42dbeda1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4f6ee15bc2870ee997ce484bbc658be6c00e539.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "一列火车每小时行 145 千米，12 小时行了 ___ 千米。",
       "options": [],
       "answer": "1740",
-      "explanation": "列式：$145 \\times 12$。计算：$145 \\times 10 = 1450$，$145 \\times 2 = 290$，$1450 + 290 = 1740$。验算：$1740 \\div 12 = 145$ ✓。"
+      "explanation": "列式：$145 \\times 12$。计算：$145 \\times 10 = 1450$，$145 \\times 2 = 290$，$1450 + 290 = 1740$。验算：$1740 \\div 12 = 145$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1ca6297b2e4ae1069f9eabee4a4964e31eb511d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37a1ea68ca85e77445a363a15a8d1e7e0c8d1c72.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "$308 \\times 15 = ?$",
       "options": [],
       "answer": "4620",
-      "explanation": "$308 \\times 15 = 308 \\times 10 + 308 \\times 5 = 3080 + 1540 = 4620$。验算：$4620 \\div 15 = 308$ ✓。"
+      "explanation": "$308 \\times 15 = 308 \\times 10 + 308 \\times 5 = 3080 + 1540 = 4620$。验算：$4620 \\div 15 = 308$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc05a526b197bcaca369f6bb8c1503c916a7b1a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a163826b9ecc9aefc31a08520a0a0a5daf329c7.mp3"
+      }
     },
     {
       "id": 23,
@@ -140,7 +206,11 @@
       "question": "$240 \\times 30 = ?$",
       "options": [],
       "answer": "7200",
-      "explanation": "$24 \\times 3 = 72$，在末尾添 2 个 0 得到 7200。验算：$7200 \\div 30 = 240$ ✓。"
+      "explanation": "$24 \\times 3 = 72$，在末尾添 2 个 0 得到 7200。验算：$7200 \\div 30 = 240$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/462f5b435fd0e479aa3685755ca79a255776556f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/3422d7f99e18e384ea58c3070fdf5c010aace7ee.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -151,6 +221,16 @@
       "因数中间有0时，计算忘记乘这个0及处理进位。",
       "因数末尾有0时，由于竖式对齐习惯导致最后漏补0的个数。"
     ],
-    "tips": "竖式计算时注意数位对齐，进位数字要写小，并及时相加，避免遗漏。"
+    "tips": "竖式计算时注意数位对齐，进位数字要写小，并及时相加，避免遗漏。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b4/b47bb95b39be6eda33160c45960967b10ced4f11.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9b/9b178ebd07cfcffcc8855dfd6e6a1fb146040880.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/32/32662089f865efd209a1906e84a030f02bf1c3de.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c8/c8b0919cabef620156117ff3e1077fd7402fe0d7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bd/bdd5341c3842fb979e24039ff64e574beded265b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6e/6ef4a158cdc0ccf0ad3de1b5cffffe01dee3dbf8.mp3"
+      ]
+    }
   }
 }

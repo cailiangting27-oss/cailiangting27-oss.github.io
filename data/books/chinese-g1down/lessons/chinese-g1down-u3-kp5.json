@@ -21,7 +21,17 @@
         "难过"
       ],
       "answer": "飞快",
-      "explanation": "课文中描写小鸭子去救小公鸡时用的是“飞快地”。"
+      "explanation": "课文中描写小鸭子去救小公鸡时用的是“飞快地”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0ffb093b08da7b60a8dcddf3f60b079466b4c8c4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59b82e8bf5238525ab5132bc6bbd564f1af7db37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5b9d25415965b511afdd6a4c6e81490ce8df2eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6ee6e775bbe8140d773698b703e256cccd81c58e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d048ef4858fd9f71c6785b1b52f22c82a403b10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/4536045ec729ad40754dea3ac5d2b0ca91de0a4a.mp3"
+      }
     }
   ],
   "knowledge": null

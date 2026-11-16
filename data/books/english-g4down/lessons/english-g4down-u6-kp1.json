@@ -16,7 +16,11 @@
       "question": "询问一件衣服的价格可以用 How much is it?",
       "options": [],
       "answer": "对",
-      "explanation": "询问单数物品或不可数物品价格使用 How much is it/this...?"
+      "explanation": "询问单数物品或不可数物品价格使用 How much is it/this...?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bcbfe388dac61a9210e98057019cf058747c2e4a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04a1d11083502b691a7871012839de7abf421407.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "How much are these shoes? 这里的 are 不能换成 is。",
       "options": [],
       "answer": "对",
-      "explanation": "shoes (鞋子) 是复数名词，谓语动词必须使用 are。"
+      "explanation": "shoes (鞋子) 是复数名词，谓语动词必须使用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc1346a1bb8143a3feb3b9a77618b9ff3787cd8b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3bb5eef41cd88626e292216b748c4678944c0e1.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "sunglasses (太阳镜) 属于成双成对出现的复数形式，be动词选 are。"
+      "explanation": "sunglasses (太阳镜) 属于成双成对出现的复数形式，be动词选 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07971004b6c0a02620481a349e8e5e21ec621612.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b1bc1eb8de89643c50722910f99001c232865.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8dab9144150172e52290521c4206d75e8767934.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "tall"
       ],
       "answer": "much",
-      "explanation": "How much 是固定词组，用来询问价格。"
+      "explanation": "How much 是固定词组，用来询问价格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f316c99761c5104b989d1764b847b15f1706c6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/8710f52a797515c36ce8f7979fca3b8b09e43884.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "No, it isn't."
       ],
       "answer": "Yes. Can I try these on?",
-      "explanation": "服务员询问是否需要帮助，回答想试穿是符合购物语境的。"
+      "explanation": "服务员询问是否需要帮助，回答想试穿是符合购物语境的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9e5aa3c53011f6abb462d305f27462d8fcec4fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e01003148eb816968a4ded9a8c692b67cdf15ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66981d849dd75073e959b108aa67d1f1f3b4d121.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4ca1af68d6e3cd676b93844c6e15d4c6f91a4409.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60d0d251d5d0ab020d3e081c2cfe8b6526716e6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f615561fb48347a269abdb2e3a4519bd380a3df.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "It is"
       ],
       "answer": "They're",
-      "explanation": "问句是 are they，答句对应使用 They are (They're)。"
+      "explanation": "问句是 are they，答句对应使用 They are (They're)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbfdf1c6fb16ab500b71212e3cf7728efdf7d71f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f0fdd044874efda2aa1f7d7efd3a0b02aed9694.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/140a21ddd0c5a59f85fe1451906a6836707b97c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46498c44efba3ae0f9c033d521f8c64769e17ecf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dd5d5b49f19e1af8608ede7c4aa585a51f279cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36d44dfe337c3238e9d9c0895336346a71ecc2df.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "Is this your hat?"
       ],
       "answer": "How much is this hat?",
-      "explanation": "在商店购物最核心的询问是问价。"
+      "explanation": "在商店购物最核心的询问是问价。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/405e627af523819c484d22733a2050b58948242c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/438858f92e9915a41dd69b1f6607b04753d4b770.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eed7f4bbbfb6bc10c7a22eb2ee20258ac5524f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ae37737d8733583baf5c44a38ae8b921f0c1794.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2ce524713248b2c8303e395cf5acf78df7e0c08c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18dc23e12fce8150e5a19f22b5a28089cefff24e.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "___ much is this shirt?",
       "options": [],
       "answer": "how",
-      "explanation": "询问价格固定搭配 How much。"
+      "explanation": "询问价格固定搭配 How much。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0a8e6f51448a6bdcdd70cf0cc654882c7b0922f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99b86cb50a02aab4bf56000e1f04fd9020f752e3.mp3"
+      }
     },
     {
       "id": 17,
@@ -129,7 +191,11 @@
       "question": "How much ___ those pants?",
       "options": [],
       "answer": "are",
-      "explanation": "pants 是复数，使用 are。"
+      "explanation": "pants 是复数，使用 are。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9acb122611839ca8346a8f60346c1242cf168541.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3fc7beccacef94595d19edb9fdb0d220d7f82f5.mp3"
+      }
     },
     {
       "id": 21,
@@ -149,7 +215,21 @@
         "多少钱"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "just right-正合适；try on-试穿；how much-多少钱；too big-太大。"
+      "explanation": "just right-正合适；try on-试穿；how much-多少钱；too big-太大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a187ac4ea542f8f62756937e0c9e4f3100409e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8f4e445f745df339e644d801037e7049d0815cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b3afa35342d2a2bad0969565d6003b699ebd142.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4df45ef0ae870049c37579cc49579574e8c1a780.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b40ce56c05f9df66bc12a4592447e6f29260df3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c382d3946f5da56cae9f68e6ccdfd10b5683b36d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/787040b45d823413443faeb06043080e96eaa9d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3af238d2db9630f01c1801cece920d30a52f17c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15ad165fa4529e7a8d8251a5866a0d50d600e8af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a324953ec9f61d0162669b600cacf71e460cd5b.mp3"
+      }
     },
     {
       "id": 23,
@@ -166,7 +246,18 @@
         "scarf"
       ],
       "answer": "How,much,is,this,scarf",
-      "explanation": "特殊疑问句语序：How much + is + 名词短语。"
+      "explanation": "特殊疑问句语序：How much + is + 名词短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e71f9e8e68cd98fcf076a12c9d7e41012b7e7f5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c2/c2543fff3bfa6f144c2f06a7de6cd10c0b650cae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c81abc87bdc5538df96766fcae6d44438449d0a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a384cff1a3694293a7291c7777ee9515cb2750aa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e2/e233033f3579f5d6f7bba50c10b61f3fe07aad6c.mp3"
+      }
     }
   ],
   "knowledge": null

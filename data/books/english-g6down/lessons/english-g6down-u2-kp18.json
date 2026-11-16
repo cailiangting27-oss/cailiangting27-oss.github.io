@@ -21,7 +21,17 @@
         "all day"
       ],
       "answer": "all day",
-      "explanation": "stay at home all day是整天待在家。"
+      "explanation": "stay at home all day是整天待在家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/4866dac62e0fd41048312e348273975d455036bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43eef9a62abb8b1e1654f8a890aae054abffa82b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb352a4ffbb7f470ae6e8ed68a79a8694e95a10a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c6a3898ffe4778856000fa9ee59317f26516b43.mp3"
+      }
     }
   ],
   "knowledge": null

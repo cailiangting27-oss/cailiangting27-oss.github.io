@@ -21,7 +21,17 @@
         "无法比较"
       ],
       "answer": "小红",
-      "explanation": "5 > 3，小红多。"
+      "explanation": "5 > 3，小红多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a464496fe7566a469a0a4c6603c39ed68f53a32b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca6738e54b83abef20aca22a2507003bf266193.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60e4c9204129665c6085af440182d17fc7a1ae45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf7f3168c5543eb4468a91b392be0e7ca5e658a0.mp3"
+      }
     },
     {
       "id": 2,
@@ -37,7 +47,17 @@
         "无法比较"
       ],
       "answer": "同样多",
-      "explanation": "对完即相等。"
+      "explanation": "对完即相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d0584869cd94044e04f765e32d0bdc2a34b1627.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a723c26d9c818732379b3a3bda3b2edaf8f7646.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cf6b51c3b9f396f28ac17e094d8bface3969e33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c808ac993a7a728800eebd303b5184d8d596fd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/aca7880256febb92c1650c6c72f722ad2f8aff7e.mp3"
+      }
     },
     {
       "id": 4,
@@ -48,7 +68,11 @@
       "question": "4 和 6 比，较大的数是几？",
       "options": [],
       "answer": "6",
-      "explanation": "6 > 4。"
+      "explanation": "6 > 4。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44afc831dba553e96dda93da22fc13162ff19a75.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d24e9a3d71de3600ec4abdbf8b6bc86359dfcdbc.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -58,6 +82,15 @@
     "common_mistakes": [
       "不一一对应就下结论。"
     ],
-    "tips": "对齐了再比。"
+    "tips": "对齐了再比。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d6/d6d07ca8dbb8835796f8ac589cffdf284fcb02c2.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/90/902f3d682648beddb935392124c6431f85c394ae.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/37/37788e6b7950fbd94fda0a492a81fa3b56fae7f9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/dd/dd2c5eb2eeafed43acb0434459387ea1defc2636.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6cd259b559b9c4814f93055dee01c892f76227d3.mp3"
+      ]
+    }
   }
 }

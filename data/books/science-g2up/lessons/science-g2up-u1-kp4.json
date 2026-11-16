@@ -16,7 +16,11 @@
       "question": "我们每天看到的月亮形状都是圆圆的。",
       "options": [],
       "answer": "错",
-      "explanation": "月相是不断变化的，只有在农历十五左右才是圆的。"
+      "explanation": "月相是不断变化的，只有在农历十五左右才是圆的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d7b629e4016303da3b4668d0247ee0344a0c5fd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd705c124bd15243229843e29a05f91edcbd8123.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "心形"
       ],
       "answer": "镰刀形",
-      "explanation": "月相变化过程中会出现类似镰刀或眉毛的形状。"
+      "explanation": "月相变化过程中会出现类似镰刀或眉毛的形状。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc1494631709f54cd5f97ea9e7731a22bf781526.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7f4cf5cb9cf989b2962bd4414af8f9d99805630.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35283f1a3ba542e4e51de29c5516f93c3d40cebc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d32afa00c0bb270a224339aeea500e05deea4784.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44d5cb57b172f535044eaeef11d6825aef9124d2.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "一年"
       ],
       "answer": "一个月",
-      "explanation": "月相的变化周期大约是一个农历月。"
+      "explanation": "月相的变化周期大约是一个农历月。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64012bb04dd4be1d3cc3c0a4aabe9d162e58da21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e9/e99c431b701e1d7319ab9ac2505b83e993cbdcb0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60ee11f0b8633a09896bca0b52cc51bc17b94ae0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebe3f78d36457faa58eb6fedba5adf060c587efc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3579ba66411ed6b8dcb198fcf6a256719a1d7d58.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4c157d25feeb672c1c3aa57c10a5ce63e1aba32.mp3"
+      }
     },
     {
       "id": 22,
@@ -59,7 +83,11 @@
       "question": "我们观察到的月球明亮部分的各种形状叫做（___）。",
       "options": [],
       "answer": "月相",
-      "explanation": "月相是地球上看到的月球被太阳照亮的部分。"
+      "explanation": "月相是地球上看到的月球被太阳照亮的部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d7/d7ad68c0df892a9adfd265652d7959c8045758f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a89f8d034939e074a79b4fd473bc1c9d1829dbc6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "海浪"
       ],
       "answer": "桅杆",
-      "explanation": "因为地球是球性的，进港的船先出桅杆，出港的船先匿船身。"
+      "explanation": "因为地球是球性的，进港的船先出桅杆，出港的船先匿船身。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7341acba64c6992f273bfb0b4276291df4781fd4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6607d06fc5fec75869b798f81cb7d14778c95d0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f52d433376b590b2843a6a0f8c3b235fd4447a55.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3b2d67011bab758fd0e906c77fe2ac2d121e45b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a5b66e63ea0b1624ec0c7a71a6d9df63cb9c0c1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3965bb436be1d202072aafe5e7c64afecce11ed.mp3"
+      }
     },
     {
       "id": 16,
@@ -37,7 +47,17 @@
         "方形"
       ],
       "answer": "圆弧形",
-      "explanation": "这是地球是球体的重要科学证据之一。"
+      "explanation": "这是地球是球体的重要科学证据之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/9932db1be9c4f2ac3c27af60ac6a09784ef906b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/10/1082f4e94497bc8d8bc48f578f2c114c94e8230f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41c9276952cc565e5dce4efdf62f83f8b85cad6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6446cb8e1ef110173249ac9c67551721cf190470.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f296d9bee5c3b458bf4842b06f5cedbb8b2f2c0d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93c8a763603150af9e96a8b1c60bac7136a8596e.mp3"
+      }
     }
   ],
   "knowledge": null

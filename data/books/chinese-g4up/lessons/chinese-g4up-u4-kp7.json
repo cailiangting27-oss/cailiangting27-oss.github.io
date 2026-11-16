@@ -21,7 +21,17 @@
         "喜怒无常"
       ],
       "answer": "坚毅顽强",
-      "explanation": "忍受酷刑而不低头体现了人物的坚毅品质。"
+      "explanation": "忍受酷刑而不低头体现了人物的坚毅品质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43dc4917e3ce66b569d23a2f0abfd2e9d20fcefe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6bd984a1f11861cd7f3ac85ed7a493ae9f4edd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/019a3ef90c558207c90cb733eb4c2601c304caef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63d09eac6b03aedcd558a8434607814398476c61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2f959146beed6faf2b09de10a96e01a30dbfc38.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43347dd90408bb076513f2b186c9570a1d9c105d.mp3"
+      }
     },
     {
       "id": 10,
@@ -37,7 +47,17 @@
         "淹没"
       ],
       "answer": "淹没",
-      "explanation": "文言文中溺指淹死在水里。"
+      "explanation": "文言文中溺指淹死在水里。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/7582ad46289d7ca05c272b7302a9f59eb6e7ac10.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03c658a95993110be7bdb603f32f391afc28efc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cf6f0da92e96ed125c5cec9f1d1f2015137f935.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef6f91f41585aa29876c07a1aec3663bd1d7b04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0864a46cdb517bc2101e1e750dd1b39a0ec29469.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f3e3c247caab4dd81ecad422fc394cc3dbc202d.mp3"
+      }
     },
     {
       "id": 13,
@@ -53,7 +73,17 @@
         "老师的故事"
       ],
       "answer": "古代人类对自然的理解",
-      "explanation": "神话是远古人民解析自然界现象的一种方式。"
+      "explanation": "神话是远古人民解析自然界现象的一种方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b48af4bd97c5f57c2946cb099b0c3d2ceae7b43b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b8cec4b477a61208631a20b9c709578d57163242.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79e92158f0e2274535b08523006d0e3192e2d895.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81a0400d4a7109da8053a4a6771deba24c1c0cb2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f55d49e543ac8594ebf4ba2882f1afe93023a126.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97ea99d7bd6e5d99a80f29b550c2e88753a0e9a1.mp3"
+      }
     },
     {
       "id": 18,
@@ -64,7 +94,11 @@
       "question": "《精卫填海》选自跨越山海的神话典籍《（___）》。",
       "options": [],
       "answer": "山海经",
-      "explanation": "《精卫填海》出自《山海经·北山经》。"
+      "explanation": "《精卫填海》出自《山海经·北山经》。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/311424b21f17cecf5be8720b60a8811168dd4794.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee77af2c34e11647da8419615f13808ea45aafe6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "欧阳询是唐代著名的书法家，他的楷书作品字形方整、笔力刚劲。",
       "options": [],
       "answer": "对",
-      "explanation": "欧阳询的楷书以结构严谨、方整、刚劲有力著称。"
+      "explanation": "欧阳询的楷书以结构严谨、方整、刚劲有力著称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/65fd78c8ce8c81c77b7da5beecf84f43a2c4a73b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c1d5d055dc0ece71e19a2578e845aa6a6749e36.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "欣赏书法作品时，我们只需要看字写得大不大，不需要关注间架结构。",
       "options": [],
       "answer": "错",
-      "explanation": "间架结构（汉字的布局）是赏析楷书美感的关键。"
+      "explanation": "间架结构（汉字的布局）是赏析楷书美感的关键。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa09c91fad4ba4779118c594a8fd9548f8360eca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/84c931055a9d1dff62a7a07cdace108577654ff9.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "《泰山刻石》"
       ],
       "answer": "《九成宫醴泉铭》",
-      "explanation": "《九成宫醴泉铭》是欧阳询楷书的巅峰之作。"
+      "explanation": "《九成宫醴泉铭》是欧阳询楷书的巅峰之作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a68e97500b1b679e315d6b4bf3acc198dec57959.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74215ea3408cbe3b0149a7baa346ebf9126569ba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ee7a97965c6c615a6bdc863caf2396a4fd1b1a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a3a3e703b1e2eb57ff1b735322ca8384d35e6e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba98483fa5b4ce16efc728e5d24262eae8ea984f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d10ebdec3c421d88b6f21d15b31f916986d4736f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "混淆楷书与草书、行书的结构特点",
       "认为书法美仅仅是‘写得快’"
     ],
-    "tips": "观察字贴中每个部件的比例和重心的稳定性。"
+    "tips": "观察字贴中每个部件的比例和重心的稳定性。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ef/efcab1f9873277459761837ddce705613e211e30.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1db09eb197192f86d9248644b8d0f4e1995486f1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b8/b8fec53d6f72fa3443830a16d9861f3b982ff6e5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a4/a4aad38c57f3232ef166fd5ee27dd32bbcf6b2aa.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8e/8e7aaab8f8656daae5052765b383706f4dd9138d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e9/e9cb9c4f45db4ee83f6388631c3c7add76d0a638.mp3"
+      ]
+    }
   }
 }

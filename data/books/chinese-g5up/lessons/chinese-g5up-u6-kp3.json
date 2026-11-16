@@ -16,7 +16,11 @@
       "question": "书信的署名应该写在信的右下角，在日期的上方。",
       "options": [],
       "answer": "对",
-      "explanation": "书信的落款包括署名和日期，通常分两行写在信的右下角，署名在前，日期在后。"
+      "explanation": "书信的落款包括署名和日期，通常分两行写在信的右下角，署名在前，日期在后。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/4737753166804b5f0c048d09393df08b9ff5182a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c76053801d4bff4b9e86b044ed919928d5618ba4.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "祝您身体健康（空两格写）"
       ],
       "answer": "此致 敬礼（此致空两格，敬礼另起一行顶格）",
-      "explanation": "符合书信规范，祝颂语的“此致”应空两格，“敬礼”需另起一行顶格。"
+      "explanation": "符合书信规范，祝颂语的“此致”应空两格，“敬礼”需另起一行顶格。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61e3424ee1b7b39a4dfef13f4ceea8747ec1b2fa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1cb9672291abb31d0918bdaff9d365a8211af2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e8757b34537ba379588c3a16882808a64c4ec6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23ced4f6a0ee45cc2fcc9459a0480d1084b8e09c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1556d5bcd7a887cbf185c42fc08000008c77792a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b2e21a69cb35f42bc65679227f14bc29a02f82c.mp3"
+      }
     },
     {
       "id": 16,
@@ -43,7 +57,11 @@
       "question": "写信的时候，第一行顶格写的是（___）。",
       "options": [],
       "answer": "称呼",
-      "explanation": "书信开头第一行顶格写对收信人的称呼。"
+      "explanation": "书信开头第一行顶格写对收信人的称呼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9df01014f9c954d7254179f378455166c3e6651.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c3665685b101c8041fa0deb625d040e401ab3e1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "称呼没有顶格写，或者忘记写日期。",
       "祝颂语的格式不规范，如将“敬礼”紧跟在“此致”后面。"
     ],
-    "tips": "记住口诀：头称谓，二问候，三正文，四祝颂，五署名，记日期。"
+    "tips": "记住口诀：头称谓，二问候，三正文，四祝颂，五署名，记日期。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1c/1c2789abbe33dc0475ae9c93c8189fec09292353.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ed/ede68f32e7988018dda61342f8c743ea854f68df.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6b/6ba8c89b95f22e91845d3aa413b5889ad7713b60.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/4c/4c9e69b101ff73047477abf5a55814fc8c588e9a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c1/c1457f340bb0b45e19ff96b8c5c2929d0d1fb505.mp3",
+        "https://api.clthuanxie.cn/cc-audio/7b/7bb5e14314bb53b47af7f63723f7aaac9d5e88d0.mp3"
+      ]
+    }
   }
 }

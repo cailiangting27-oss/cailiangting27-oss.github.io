@@ -16,7 +16,11 @@
       "question": "肺活量大的人，每次呼吸能够交换的气体量相对较多。",
       "options": [],
       "answer": "对",
-      "explanation": "肺活量是人体发育水平和健康状况的重要指标，大的肺活量意味着更强气体交换能力。"
+      "explanation": "肺活量是人体发育水平和健康状况的重要指标，大的肺活量意味着更强气体交换能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9e/9eaadc28c473234e11dd0ff43ef28ee565875f8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42014cc0cbac3bc1cb5b49e728cb1d160f8ec4ed.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "先变大后变小"
       ],
       "answer": "增大",
-      "explanation": "长期锻炼可增强呼吸肌力量，提升肺部的扩张能力。"
+      "explanation": "长期锻炼可增强呼吸肌力量，提升肺部的扩张能力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a02b18bd3868a267f288b2e3686637b978dd3e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fd/fd9a217782adf35c360decf3442ddd2f348f5592.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60f866f09c5b1aacbd7075a7aab116d97b4505fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/faa50f2d099f5938076ebc9adda1c35daee7e764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10d585ea76bbfd5d0d71573372eaf3a6770bec12.mp3"
+      }
     }
   ],
   "knowledge": null

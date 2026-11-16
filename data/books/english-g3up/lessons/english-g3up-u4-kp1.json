@@ -16,7 +16,11 @@
       "question": "单词 'panda' 的中文意思是 '大熊猫'。",
       "options": [],
       "answer": "对",
-      "explanation": "panda是本单元核心单词，意为大熊猫。"
+      "explanation": "panda是本单元核心单词，意为大熊猫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d65e06ae00d3779d4617be69ed266a459747b55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1ef04a40365eb12e9490e803d1b701dda30ab799.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "单词 'pig' 的中文意思是 '鸭子'。",
       "options": [],
       "answer": "错",
-      "explanation": "pig是猪，duck才是鸭子。"
+      "explanation": "pig是猪，duck才是鸭子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8cceedc2f29f193191bf9f783136e7a014d32a5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fd99c9f65f6429ab4a0abf3b957c17e8a12cf24.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "bird"
       ],
       "answer": "green",
-      "explanation": "green是颜色，其他三个是动物。"
+      "explanation": "green是颜色，其他三个是动物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c19d961cad0a3cf73ec629bf2a3c7923dfa3da2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab87d24bdc7452e55738deb5f868e1f16dea5ace.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e3d772a1888eadff26c7ada47fd7502d796e07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd92815bf6273acbaf834b9faed277c722068291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86d447deab30cded08f000f454af321212310ee5.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "cat"
       ],
       "answer": "elephant",
-      "explanation": "长鼻子是象的特征，且前面是an，接元音开头单词。"
+      "explanation": "长鼻子是象的特征，且前面是an，接元音开头单词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38b9309f553e77d50090fba0f589bafb92e0f4c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2cd4ba93087f27499adb46f6a91ddeb729b9966b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae9e4deba26021986ffd99636da6601f6393631.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5ece240085b9ad85b64896082e3761c54ef581de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d989e8d27dc9e0ec3389fc855f142c3d40f0c50.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f429dff89fa107700dcad77b1790961095b885a.mp3"
+      }
     },
     {
       "id": 10,
@@ -75,7 +103,17 @@
         "blue"
       ],
       "answer": "bird",
-      "explanation": "bird音近bear和bread，需注意词意辨析。"
+      "explanation": "bird音近bear和bread，需注意词意辨析。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca42f28a9ac76d180901ef054f96bc3ea612fd14.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09f5edeb4f5b2a4e4364f6b654682c6758a3fa16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd92815bf6273acbaf834b9faed277c722068291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff291d8175b1d624892cd459444104fbd7ce87f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38acbd5c9c00926ab022f549a98f3e67571bca70.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "Look at the panda."
       ],
       "answer": "I like pandas.",
-      "explanation": "like表示喜欢。"
+      "explanation": "like表示喜欢。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22f8be6c633885277781628733bf45a7c06a0b4e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41af7782562b4a1d249fc1f91cfd1bbdcf4c62a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a8a6665a3c7c00a6d1b00cc8b6bbfc9e68666de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91e68538d54de985ea651b887c2273e395c0ed12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca005161f3dceb7bb40dea23f9d577e53868ee14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/937a87fabd6dd5ecc1280d52487ab1d05c66fc28.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "这是一只狗。 It is a ___.",
       "options": [],
       "answer": "dog",
-      "explanation": "dog 意为狗。"
+      "explanation": "dog 意为狗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83911b03401531a012ed7aa19f56054c69112c13.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adf6d5de9f45bfe1afed9f9b4830084b3289efc5.mp3"
+      }
     },
     {
       "id": 19,
@@ -113,7 +165,11 @@
       "question": "鸭子发出的叫声通常被描述为 quack, quack. 它是 ___。",
       "options": [],
       "answer": "duck",
-      "explanation": "duck 意为鸭子。"
+      "explanation": "duck 意为鸭子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e03eb0c3ca76be1c54461d885542d102fc019af4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e0f6110c54ad51b6824943fe1fae32283b5c6c3.mp3"
+      }
     },
     {
       "id": 20,
@@ -133,7 +189,21 @@
         "猴子"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "monkey猴子, tiger老虎, panda熊猫, elephant大象。"
+      "explanation": "monkey猴子, tiger老虎, panda熊猫, elephant大象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1fbfc695727d6912ae537f69c805ef781535adc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab87d24bdc7452e55738deb5f868e1f16dea5ace.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46e3d772a1888eadff26c7ada47fd7502d796e07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f91a8ee646a277a2f1359709604b99c1b32d9f24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae9e4deba26021986ffd99636da6601f6393631.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae3bc43a98ed8cd499e08af06f7b9ba7429a36a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c36069cf907b9d6eca39cf78663345b209c429.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc6f87c51dad67a2bb1d5f2e90695968be968e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/165a48ed5d1e4577107f0983ba9e45f714c3bd3b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/44329dbd061edd45289e1b2e2303d859121c48ec.mp3"
+      }
     }
   ],
   "knowledge": null

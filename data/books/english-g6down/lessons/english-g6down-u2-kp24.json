@@ -25,7 +25,21 @@
         "washed"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "对应规则：wash-washed, study-studied, do-did, go-went。"
+      "explanation": "对应规则：wash-washed, study-studied, do-did, go-went。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dd625bae7ae68f7cceb64913b15be5e27661355.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/68/6814a21e90f4f5d5637f70c8e3e2568818d5570e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eadcd9bd2a09c75aef04954e6799e50278ee124a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ec558a60b5dda24597816c924776716018caf8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5dd92d18235068c22ce2d3bc8dcd5759539ac5cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4a1f13b85c7d408bc6ed04efd08c91dde455cf1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0739a9e099773f4e25f1409aad28d0e9505cec1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a803b1a0b3e957fcc6cf06cdbdba750a2ed381ff.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb7ff0cbffe1043e3cb063f69fd42c76f9528d16.mp3"
+      }
     }
   ],
   "knowledge": null

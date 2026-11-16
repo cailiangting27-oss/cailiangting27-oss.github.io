@@ -16,7 +16,11 @@
       "question": "池塘平均水深1.2米，小红身高1.3米，她下水后肯定不会淹着。",
       "options": [],
       "answer": "错",
-      "explanation": "平均深度不代表局部深度，有的地方可能深于1.3米。"
+      "explanation": "平均深度不代表局部深度，有的地方可能深于1.3米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebb8203cb614f0305ca3d3f1aeb506c28b4d278b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e6a9a4f30e13ebc628015a82e5dedca19ef2bd3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在复式条形统计图中，直条越高表示的数据越大。",
       "options": [],
       "answer": "对",
-      "explanation": "在纵向统计图中，高度正比于数值大小。"
+      "explanation": "在纵向统计图中，高度正比于数值大小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4ca9ff1cb9c27840b434356efe4c24d20666fec2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b56c24a942cb79618184fe657df80ee23fc3401a.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "复式条形统计图能同时表示出两组数据的多少，方便进行比较。",
       "options": [],
       "answer": "对",
-      "explanation": "这是复式条形统计图相比于单式统计图的核心优点。"
+      "explanation": "这是复式条形统计图相比于单式统计图的核心优点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/632c835771d7f258d2d4c11b741c9e88790c3ec9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/654a71440f6ad485575ff67b829aaa57be38aaa4.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "已知男生的平均体重是35kg，女生的平均体重是30kg，全班平均体重一定在30kg到35kg之间。",
       "options": [],
       "answer": "对",
-      "explanation": "总平均数必然位于各组成部分平均数的最大值与最小值之间。"
+      "explanation": "总平均数必然位于各组成部分平均数的最大值与最小值之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fea15cb79364af84ad0867f16d612f9918e06ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/902cfe9d66e273d172050878350e8e3bd0e7953f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "95"
       ],
       "answer": "90",
-      "explanation": "总分 $90 \\times 5 = 450$。前四次和 $85+92+88+95 = 360$。$450 - 360 = 90$。"
+      "explanation": "总分 $90 \\times 5 = 450$。前四次和 $85+92+88+95 = 360$。$450 - 360 = 90$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5ec4d78c1f00c73a0d0679656c02e7843274097.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b37f6ddcefad7e8657837d3177f9ef2462f98acf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e63fd3e77796b102589b1ba1e4441c7982e4132.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/7109d214ee3ffe3f77c7784dd29b0d215b8cf325.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "先降后升"
       ],
       "answer": "像山坡一样先升后降",
-      "explanation": "上升再下降形成的形状类似山峰的山坡图形。"
+      "explanation": "上升再下降形成的形状类似山峰的山坡图形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/55e5226d5f598f7918d51909272d34fc52aa3b9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b732276b57643fa28902585bed2109e452dbca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25974d80a6b103d3650da8311443b43c0654fd16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7f0078cf98fcbec16102704e7f8bb9dd713f9c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d440277119c9b8c3955b51dcc40d06aeb64a9fd2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c02de6fc5bafab0facb7cf7c64b1e7d0d1e98deb.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "身高总和-5"
       ],
       "answer": "身高总和÷5",
-      "explanation": "基础公式应用：平均数 = 总数 ÷ 份数。"
+      "explanation": "基础公式应用：平均数 = 总数 ÷ 份数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/eb/ebae4aecf78772a73cf4530dc29c98fffc129eb3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5b/5bd759289fa1b9a903a54f42401a21b2b63aa1c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b259049a36840884923b32fc2d85c889a4efb7bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6baf5f5486fbd12ea0fc9479d89bcf093d5d83cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0f241ef21ccee510425a8638f528d28bd639f772.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2c2a0726108f70a0f6c1fb06a52291509b84f62.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "单位名称"
       ],
       "answer": "数量",
-      "explanation": "纵向条形图中，高低代表数量的大小，故纵轴应标刻度及数量。"
+      "explanation": "纵向条形图中，高低代表数量的大小，故纵轴应标刻度及数量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/112c113fc8804284f5534a6eeac19a8878de9f54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/27/27300add3547ffb8cd3014a34d84ddf59889dbf6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ae893190360ea3db36361c337f4cb15c6e4b53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b43daba10d9cefd26de0b1bce716a9e2cb99eb17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e0225610e0bbd1ebc7a4404eda21a059f36af73.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e61bc40b284bd7bfa114b40c88a29a719707d7e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "关闭店铺"
       ],
       "answer": "减少库存",
-      "explanation": "根据淡旺季销售数据进行经营决策，冬季销量低应减少库存以防变质或占位。"
+      "explanation": "根据淡旺季销售数据进行经营决策，冬季销量低应减少库存以防变质或占位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/db41b6e0369a73c1aac9d9fc05107898383629dc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/21c931706ab04cde2e8655c22f5834950657f360.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35fc83d5acae98803ecf61309c16f377effb6360.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/710cf97ca398bb8671de20f794492b139563f57d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66e216b98ed199eefac489edfa90b8f4a9e9ca6a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a513a937b4e7cc20c786a1a37a339ffb20d9f9ef.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "绝对"
       ],
       "answer": "可能",
-      "explanation": "平均数不代表每个样本的值，只是整体水平，个体可能等于、大于或小于它。"
+      "explanation": "平均数不代表每个样本的值，只是整体水平，个体可能等于、大于或小于它。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/dac348e2eda4943f6ac11a29beb0b4f93ddcbebb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03219c11a1b02266b34abc036ff804061f3e356b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21ff2332d295172edae10115932be61f865a2e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abc12b66887e13d0bacc36ee1824cbddd9fbf759.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19645044223b481b8f486b5f302e5b2e9203b860.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbfd2ac5c3f018a94496c71fd8ca2a139dbd84f6.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "一定会游泳"
       ],
       "answer": "仍有危险",
-      "explanation": "平均水深不能排除深水区的存在。"
+      "explanation": "平均水深不能排除深水区的存在。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/3199ce48ba10866164abe0d2541952bf5f70b2c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2c/2c5d3bdf14ed9bfb3e705b9b1bcc7dfe40c1361e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad703081e0259fbba7194fed455f21910a5958df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5fbdf2fca632db41bc72ec61d23817976bc59e87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db17dfff4de378330e21b4e685ae7f24e8d7de5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e92bcb171810f26dcd1a809186a31ec85535562.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "0环"
       ],
       "answer": "9环",
-      "explanation": "根据之前的成绩波动趋势，推测其水平稳定在9环左右。"
+      "explanation": "根据之前的成绩波动趋势，推测其水平稳定在9环左右。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1447e382e04df9c54fcc0df8710a37a212269ff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/678ef3ce4d3d238ea3fa77d057cf03616b6b8b17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9221a4b55813269f7cd4ea33060a67dd3054a0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e7bd9e540abc50e1750ee77f325dbf3d3df576b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1794afb0f8d43c41b8f58efadf0b3ce0b829c3e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17e81ef19de4fe7ec7b3f86583d9a45735fd1c59.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "小明5分钟做了40道口算题，他平均每分钟做 ___ 道。",
       "options": [],
       "answer": "8",
-      "explanation": "$40 \\div 5 = 8$。验算：$8 \\times 5 = 40$ ✓。"
+      "explanation": "$40 \\div 5 = 8$。验算：$8 \\times 5 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/520d249724d70134d9d23b9ac859588054b69e9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3b2b091523ff65bbd4e92e5609c021343a1cf83.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "甲数是20，乙数和丙数都是26，这三个数的平均数是 ___ 。",
       "options": [],
       "answer": "24",
-      "explanation": "$(20 + 26 + 26) \\div 3 = 72 \\div 3 = 24$。验算：$24 \\times 3 = 72$ ✓。"
+      "explanation": "$(20 + 26 + 26) \\div 3 = 72 \\div 3 = 24$。验算：$24 \\times 3 = 72$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7d6f341848206b5f7dd42c712ff5096c1347f197.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f920e579dcf21dac9a2746b6e2d659e6c9ad96be.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$(35 + 45) \\div 2 = ?$",
       "options": [],
       "answer": "40",
-      "explanation": "$35 + 45 = 80$，$80 \\div 2 = 40$。验算：$40 \\times 2 = 80$ ✓。"
+      "explanation": "$35 + 45 = 80$，$80 \\div 2 = 40$。验算：$40 \\times 2 = 80$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7a/7a009f50d35b01c85b8a002e2f161f8ca6230cd3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00ef463fba3ad9eb9e0d642fb41a08ac7bbaca46.mp3"
+      }
     }
   ],
   "knowledge": null

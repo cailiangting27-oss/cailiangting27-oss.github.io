@@ -16,7 +16,11 @@
       "question": "数数时，应按照从左到右或从上到下的顺序，做到不重复、不遗漏。",
       "options": [],
       "answer": "对",
-      "explanation": "数数的基本方法是按顺序点数，这样能保证结果准确。验算：从1数到10，按顺序数不会出错。"
+      "explanation": "数数的基本方法是按顺序点数，这样能保证结果准确。验算：从1数到10，按顺序数不会出错。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ec54ecceac9bc8dfbffb746634973e006d7d96d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c147dbe635d8c92dd82a0233d7dade4864ee1b4.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "数字“0”代表一个也没有。",
       "options": [],
       "answer": "对",
-      "explanation": "0的含义之一就是表示没有物体。"
+      "explanation": "0的含义之一就是表示没有物体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ef/ef9b718c01131e2a9cc0ab57909ccd5cc753f69a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c0b9eb45e71e1a5ab9edd1a24d8c877fb30068bd.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "6个"
       ],
       "answer": "5个",
-      "explanation": "正常手掌有1个大拇指和4个手指，共计5个。数数：1，2，3，4，5。"
+      "explanation": "正常手掌有1个大拇指和4个手指，共计5个。数数：1，2，3，4，5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff1dafcdb979dd20ba1f320fbe337be6d46e132.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/ded98c741b01f293bb945b11cd7c67966a04c95d.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "8"
       ],
       "answer": "5",
-      "explanation": "按照数数顺序：1, 2, 3, 4, 5, 6... 6的前面是5。"
+      "explanation": "按照数数顺序：1, 2, 3, 4, 5, 6... 6的前面是5。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57e24b1b13e56a7e338cd1afdd7ff75f09a08e33.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0daab2775a2f1dcfeeeae865a34e2d5c47487a48.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "9"
       ],
       "answer": "9",
-      "explanation": "数数时，9在8的后面，所以 $9 > 8$。"
+      "explanation": "数数时，9在8的后面，所以 $9 > 8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9758fd3453f0ed58819f75d79cff27723e7caa8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bb7c3619d080bf154c57638f3aec91d85a9b051.mp3"
+      }
     },
     {
       "id": 11,
@@ -91,7 +129,17 @@
         "10块"
       ],
       "answer": "1块",
-      "explanation": "常规教室前方有一块主黑板。"
+      "explanation": "常规教室前方有一块主黑板。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/306cfd7e04683922813e27b8fe304c896478b871.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fea86106f4cb5adc0f5d0874b98251457d30e780.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb944a6705396919a4b1b2e3c953519ad669de44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb21a60baaee465fe85758a74bebff2616cecea7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73603946c2236671c9c3038a5ca254b588da8c3f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/6123ce070b26b8499dd0abd1158df608dfcbdca6.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +155,17 @@
         "7"
       ],
       "answer": "8",
-      "explanation": "倒着数：10, 9, 8, 7, 6, 5。第1个是10，第2个是9，第3个是8。"
+      "explanation": "倒着数：10, 9, 8, 7, 6, 5。第1个是10，第2个是9，第3个是8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a3424c329904009d8ba1fe5eaa355b4d3daaa93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee4a0f4e1e710fbf78a03cf17e9ee0e0f399471d.mp3"
+      }
     },
     {
       "id": 15,
@@ -123,7 +181,17 @@
         "6人"
       ],
       "answer": "6人",
-      "explanation": "三组人就是三个2。列式：$2 + 2 + 2 = 6$。验算：$2 \times 3 = 6$。"
+      "explanation": "三组人就是三个2。列式：$2 + 2 + 2 = 6$。验算：$2 \times 3 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3b1d7c5e714d0079adb3be6c8780dd9e0d08449.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8e/8e3ab962cdb975357882ef2d0ba99f5f4e27e7c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec1cd80f4634c2be1632516ea41057fc47762773.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/2429fe4dc5d214406332893708641d6b7a40d3af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2e4e032b9fd9333ad8f19656ead6241a65908e4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/869982795d61cc078b5641aec7b5da7a57da9602.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +202,11 @@
       "question": "小明家有爸爸、妈妈和他自己，小明家一共有 ___ 口人。",
       "options": [],
       "answer": "3",
-      "explanation": "数一数：1（爸爸），2（妈妈），3（小明）。总计3人。验算：$1 + 1 + 1 = 3$。"
+      "explanation": "数一数：1（爸爸），2（妈妈），3（小明）。总计3人。验算：$1 + 1 + 1 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c0179b3893b655005cc8b034681bfd3c5d68c56.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a292784a7a5c23605b91ec9e3038ad31461435c7.mp3"
+      }
     },
     {
       "id": 20,
@@ -145,7 +217,11 @@
       "question": "一只小鸡有 2 只脚，两只独立的小鸡一共有 ___ 只脚。",
       "options": [],
       "answer": "4",
-      "explanation": "每只鸡2只脚，两只就是 $2 + 2 = 4$（只）。验算：$2 \times 2 = 4$。"
+      "explanation": "每只鸡2只脚，两只就是 $2 + 2 = 4$（只）。验算：$2 \times 2 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba297b3f0d07fc05d25a021b85eb81193e0911c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bf739da9f0ca42dbc5e7916a38d806637b70b4b.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +232,11 @@
       "question": "计算：$3 + 4 = ?$",
       "options": [],
       "answer": "7",
-      "explanation": "$3 + 4 = 7$。验算：$7 - 4 = 3$。"
+      "explanation": "$3 + 4 = 7$。验算：$7 - 4 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/8861eb12022e80d861dfd92c7253e8d2d6d195f8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e02e411e31bf49859579a5e068e7bbca7f841aae.mp3"
+      }
     },
     {
       "id": 23,
@@ -167,7 +247,11 @@
       "question": "计算：$9 - 5 = ?$",
       "options": [],
       "answer": "4",
-      "explanation": "$9 - 5 = 4$。验算：$4 + 5 = 9$。"
+      "explanation": "$9 - 5 = 4$。验算：$4 + 5 = 9$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/732828e210c81909514f1e5d8196b33c75a4e780.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e4b5cd2d5d185395e07f70b7c9795e6bddce9a8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -178,6 +262,16 @@
       "跳数或重复数：手指点得快，嘴里数得慢，导致数错。",
       "字形混淆：容易把6和9看反，或者把7和手枪模型建立错误联系。"
     ],
-    "tips": "数数时可以做个小记号，数过一个划掉一个，这样就不会漏数或重复了。"
+    "tips": "数数时可以做个小记号，数过一个划掉一个，这样就不会漏数或重复了。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/05/05d7bc0dcc1dc8d34129a28b2ce8b69a4cf7175e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/01/011f3e52ecb90a3a899753396fa8cf797aeb7bf8.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cd/cd599e2838ce6e9431ea621390165cd5b3b471ab.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b9/b904efe522f21800d54472d9dc9af1043cc5ca25.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/76/763f1e47408e6bb362b6788ce42a91f2313bbd37.mp3",
+        "https://api.clthuanxie.cn/cc-audio/69/6932c0f90c3158563b3de9d6acea0f746c6b474a.mp3"
+      ]
+    }
   }
 }

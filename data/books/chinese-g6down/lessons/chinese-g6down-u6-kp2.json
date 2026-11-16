@@ -16,7 +16,11 @@
       "question": "活动策划书中，“分工明确”是确保活动顺利进行的关键。",
       "options": [],
       "answer": "对",
-      "explanation": "策划书需要明确每个人负责的任务，以保证活动有序各司其职。"
+      "explanation": "策划书需要明确每个人负责的任务，以保证活动有序各司其职。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9bd84612d92cad3dd25c60fdadca5a9c9e259d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa42a3af0e31ef61e89e012bbe19e73d52dbfa4c.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "班主任总结感言"
       ],
       "answer": "活动场地分配",
-      "explanation": "活动流程指的是节目的先后顺序，场地分配属于准备阶段的策划。"
+      "explanation": "活动流程指的是节目的先后顺序，场地分配属于准备阶段的策划。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/ae36222b8303df8bf8098a84da4b7c1ae12e87ad.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/adc84c481d2aa34b4eda01d720f206c248daef3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78145bf271478b957a41fbcd8bfb6c33ac8b4cfa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc2a7b3dd018253c1666e4930f93821f5c51694c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebeb2df7a0cae6a9e2ea8079c7541eb97d3949a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4a/4a45446aaecfe2f3d620b92e38f3ead6d41ae7d8.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "奖品的采购发票"
       ],
       "answer": "活动为什么要举办",
-      "explanation": "背景部分解释活动的缘由和目的。"
+      "explanation": "背景部分解释活动的缘由和目的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f36cf35fde837c19992ec760b90d10b2dfcf732c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/434ae596053ef97e01f3c29b3022a388e4b988f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be0ad7a6ee9c2fb04baa43e17212d76950127cf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a9ac9ca809bced3d8b5aaa1f5f793dafff6faa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31903f484bc7e06e72f3e372811ccb4ff5e767fe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e71565a43a2326a47ff9da532b629b6d4cce633d.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +83,11 @@
       "question": "一份完整的策划书，开头正中间应该写上（___）。",
       "options": [],
       "answer": "活动名称",
-      "explanation": "策划书的第一要素是醒目的标题，通常是活动的名称。"
+      "explanation": "策划书的第一要素是醒目的标题，通常是活动的名称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b7094035de2968e80be8890b030f9b090926b86f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/347ebc53b0bcb99dd69c271f91cfe8bf0861282b.mp3"
+      }
     },
     {
       "id": 23,
@@ -76,7 +104,18 @@
         "我们"
       ],
       "answer": "亲爱的读者,我们,诚恳地邀请,来参加,毕业典礼",
-      "explanation": "考查应用文邀请信的句式结构。"
+      "explanation": "考查应用文邀请信的句式结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83645b0d9dfea3298d3df4fd71d867be7a0ec5a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9d55acce1c2c3ea21f694f41a10d934f2186a59c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86e1aeaf91fd2d73b869ff79e6fb22658918fcd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50ad5ed0ac3f1c569975738fb94c1620787529f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69ff863344ad05e3bcb56022d9aca913b42036c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0805949359741ce14fe90402b25e2e023f449748.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10517f233d333aa150568dfaa24f548f2545e959.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -87,6 +126,16 @@
       "分工不具体，只说“大家一起干”，导致现场混乱。",
       "活动目的不明确，变成了纯粹的玩耍而无语文学科意义。"
     ],
-    "tips": "可以先用思维导图列出活动可能出现的意外，在策划书中增加一个“应急预案”会让方案更高级。"
+    "tips": "可以先用思维导图列出活动可能出现的意外，在策划书中增加一个“应急预案”会让方案更高级。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/95/954dbfd0825beda5fc744d9c5d35f3242bab4625.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/69/690fc71412e6ecda3bc402b33b5796bbc4dc0cfe.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/4b/4b54dc906ac90894d45281b25896efe8c123c8a5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/76/76a6bddb58e322fbd19ae9800fda5622a7e4346c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/44/448406bbade581469095188192bc9135a5aa5031.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e5/e591565e5248157ee99c10cdf249c8213831c49d.mp3"
+      ]
+    }
   }
 }

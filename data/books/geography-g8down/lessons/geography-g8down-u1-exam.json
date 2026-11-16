@@ -21,7 +21,15 @@
         "草地"
       ],
       "answer": "旱地",
-      "explanation": "北方以旱地为主。"
+      "explanation": "北方以旱地为主。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/a9/a95b5c09226f62a485667fb11ecf23e0a9d12032.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/e9/e9247fd0e9aa664ec9e4891c5161f8e125ac81c9.mp3"
+        ]
+      }
     },
     {
       "id": 6,

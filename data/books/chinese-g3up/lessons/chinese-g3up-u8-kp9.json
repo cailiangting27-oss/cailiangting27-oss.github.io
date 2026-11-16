@@ -21,7 +21,17 @@
         "全部正确"
       ],
       "answer": "全部正确",
-      "explanation": "这几组生字读音均符合教材规范。"
+      "explanation": "这几组生字读音均符合教材规范。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dc2bc0a375fee095319c34b2a1418464ec253c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cba274940f8268eb1b9d7d38cef0842da66d86ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/061c2c1faf4350c68282eddbc1c7cf3adf06a805.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac21dbb93cc291757de082ef645d1a8739b9c969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e2eb94e3b94e482ef8ad4335edafb3997bd0b2b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d759c58587b57ffb30d69f7a5975f33a03aaae27.mp3"
+      }
     }
   ],
   "knowledge": null

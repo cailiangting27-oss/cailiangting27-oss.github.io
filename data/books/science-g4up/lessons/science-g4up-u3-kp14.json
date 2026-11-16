@@ -21,7 +21,17 @@
         "滑滑板车"
       ],
       "answer": "喷气式飞机",
-      "explanation": "喷气式飞机通过向后高速喷气产生向前的反冲力。"
+      "explanation": "喷气式飞机通过向后高速喷气产生向前的反冲力。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e73d602a14b400541ff76a09d63bec68e1df879.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3f/3febe8cf8dc395e33e3eb8d1b323e502312d8522.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c843b88ae5fcb5cff0aba7b66ca9f149f790c91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e18a283e81e11f318f3bf62e22dc4ab82897cea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/434992edb52dc26cf98bee34cf6ffcd3d9f49526.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9be3997709c9f947faec1740f4fbd640254e2ee7.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "所有的自然数不是质数就是合数。",
       "options": [],
       "answer": "错",
-      "explanation": "数字 1 既不是质数也不是合数。0 也是自然数。因此说法错误。"
+      "explanation": "数字 1 既不是质数也不是合数。0 也是自然数。因此说法错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/901023d95171a97cd742541133e2e1657931b448.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c6969cd5233e4d5de8f8b1b5ee8e7b7dd2ab0ea.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "在比例里，两个外项的积减去两个内项的积，差是 0。",
       "options": [],
       "answer": "对",
-      "explanation": "根据比例的基本性质：$ad = bc$，所以 $ad - bc = 0$。"
+      "explanation": "根据比例的基本性质：$ad = bc$，所以 $ad - bc = 0$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44c354f087285695d485fdf33a686f01096f6cf6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efe52e3c376d8e02e3128a9d7064cfae10565cd7.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "0.0085"
       ],
       "answer": "85",
-      "explanation": "$0.85 \\times 100 = 85$。验算：$85 \\div 100 = 0.85$。"
+      "explanation": "$0.85 \\times 100 = 85$。验算：$85 \\div 100 = 0.85$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bca30de0d21f85757cfdb23a5f26705e079de622.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d1f15683c2b3e08fe96ef083dd1427b28321d1a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1352246e33277e9d3c9090a434fa72cfa6536ae2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/842066fdfe3fe1ad160fe790e41af09901100f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0aa2fd0cecb13edbe5f0dcf852d94988cbb6311.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c10e8660fd3ededdccf469b37e04fe41cb5923e6.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "倍数关系"
       ],
       "answer": "成正比例",
-      "explanation": "$x = 5y$，比值比值 $x/y = 5$（一定），符合正比例定义。"
+      "explanation": "$x = 5y$，比值比值 $x/y = 5$（一定），符合正比例定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/11/11946cb3e83652015cb8976d23f1fbd430b3b102.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94f59a6047fcf04848f2944a0d349ec3fa81135f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ef1348a61a58b5541322724f80a47300ef2028d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1718749ae1b0f1efac6bf509d5b23b96b55d52f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42b9d7a28b3ef2e45ebf3f56e80323512c6eb915.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c168855c4ba695045ed70592aa8168fe2f10bc5a.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "0.6"
       ],
       "answer": "66.7%",
-      "explanation": "$2/3 \\approx 0.666$，$66.7\\% = 0.667$。$0.667 > 0.666 > 0.66$。"
+      "explanation": "$2/3 \\approx 0.666$，$66.7\\% = 0.667$。$0.667 > 0.666 > 0.66$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2586dd37300853cb8fd271a782d461c2758fc17.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/67d4a8f3430670a52bcfde4b8a497b82ca63dac0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8792c02824141504af55abd0bbe54ed6f5e38fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b550f00131f78f83522d65383fe7bd29d36edba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbccebab4a05483ba1b7ce5c12688ac8f69ec024.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a33d7a9940bcb534849e6d52f816f9ae483d25ab.mp3"
+      }
     },
     {
       "id": 17,
@@ -91,7 +129,17 @@
         "125%"
       ],
       "answer": "25%",
-      "explanation": "$(10 - 8) \\div 8 = 2 \\div 8 = 0.25 = 25\\%$。"
+      "explanation": "$(10 - 8) \\div 8 = 2 \\div 8 = 0.25 = 25\\%$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e04b261e6805e6d9433831eb2b85d0b3f7c87c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea7ba4661af4f4447fe076b3c64f1e58f6f61fa6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e1164e36f85ec9e52c98e21dfb5546e9aac5cab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5366a7416787051ba2a7d670f802f331e490744f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af29745a8ca830d820d9c4fe126552e1aa99b822.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0cf874af0e5b2c020ba233b3d431d3f937a17fb4.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "15 和 20 的最小公倍数是 ___。",
       "options": [],
       "answer": "60",
-      "explanation": "$15 = 3 \\times 5$，$20 = 2 \\times 2 \\times 5$。最小公倍数 $= 3 \\times 2 \\times 2 \\times 5 = 60$。验算：$60 \\div 15 = 4$，$60 \\div 20 = 3$ ✓。"
+      "explanation": "$15 = 3 \\times 5$，$20 = 2 \\times 2 \\times 5$。最小公倍数 $= 3 \\times 2 \\times 2 \\times 5 = 60$。验算：$60 \\div 15 = 4$，$60 \\div 20 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbf01115f5c5ab4ce3c17cc9338bd7ccefbf2384.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00af72a037326c853f4eb0b844bb1174801152d4.mp3"
+      }
     },
     {
       "id": 21,
@@ -113,7 +165,11 @@
       "question": "一辆汽车 2 小时行驶了 120 千米。照这样计算，行驶 300 千米需要 ___ 小时。",
       "options": [],
       "answer": "5",
-      "explanation": "速度 $= 120 \\div 2 = 60$ 千米/时。时间 $= 300 \\div 60 = 5$ 小时。验算：$60 \\times 5 = 300$ ✓。"
+      "explanation": "速度 $= 120 \\div 2 = 60$ 千米/时。时间 $= 300 \\div 60 = 5$ 小时。验算：$60 \\times 5 = 300$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fefe682cac1b3f3370f34652c206422cf7642cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/af/affae8b225fe1d06d8c0536a11e47aee1c301bb8.mp3"
+      }
     },
     {
       "id": 22,
@@ -124,7 +180,11 @@
       "question": "计算：$125 \\times 8 = ?$",
       "options": [],
       "answer": "1000",
-      "explanation": "$125 \\times 8 = 1000$。验算：$1000 \\div 8 = 125$ ✓。"
+      "explanation": "$125 \\times 8 = 1000$。验算：$1000 \\div 8 = 125$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/92/929b7c76132380938dd89330f52e7bbc708fccb7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/393276b63ad6ee4a071fd6ef8d52cbc06a89e36c.mp3"
+      }
     },
     {
       "id": 23,
@@ -135,7 +195,11 @@
       "question": "计算：$480 \\div (12 + 4) = ?$",
       "options": [],
       "answer": "30",
-      "explanation": "$480 \\div 16 = 30$。验算：$30 \\times 16 = 480$ ✓。"
+      "explanation": "$480 \\div 16 = 30$。验算：$30 \\times 16 = 480$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8be3cf1bafe0bd8d2b183a3de684924beadee303.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/309428d400835c2a1c4b6f883d2e9cc3e1ebcdeb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -146,6 +210,16 @@
       "混淆质数、合数与奇数、偶数的定义（如认为2是合数）",
       "在运用乘法分配律时，括号外的因数漏乘括号内的第二个数"
     ],
-    "tips": "通过画知识数或思维导图，将分散的计算定律串联起来，记住“1既不是质数也不是合数”这个特殊点。"
+    "tips": "通过画知识数或思维导图，将分散的计算定律串联起来，记住“1既不是质数也不是合数”这个特殊点。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c3/c3f1395e3b251b702604decee1a303f528289e65.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f5/f54ea4f3e5679df6fbe8f20d3b6242eaddf27375.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/09/09239c0afc3c23516e28eb00749ac2f27c9e393c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b9/b9bdc9a1e2ff7b9823b36ed49566ed6759ac264e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/39/398e1cad5f6aea9fa63771d729c1be675655fb37.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4d/4d046fea628367fc5447ea62aacae2e8a1b9f943.mp3"
+      ]
+    }
   }
 }

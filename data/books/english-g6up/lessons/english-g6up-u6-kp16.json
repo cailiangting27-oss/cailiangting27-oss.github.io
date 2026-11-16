@@ -16,7 +16,11 @@
       "question": "I am so ______ because I got a new bike today. (开心)",
       "options": [],
       "answer": "happy",
-      "explanation": "开心的核心词汇是happy。"
+      "explanation": "开心的核心词汇是happy。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e68a0d0760921d29c1a021c32be579975375297.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/95/957038504d019db8a127f7ae8b6cdb2da15255d5.mp3"
+      }
     },
     {
       "id": 19,
@@ -27,7 +31,11 @@
       "question": "Mum is ______ with me because I broke the cup. (生气)",
       "options": [],
       "answer": "angry",
-      "explanation": "生气的单词是angry。"
+      "explanation": "生气的单词是angry。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b69f13cdcbb4ecc3be55d377053f8ec5a3fcad2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d7c4d56090de9286f8ea8171e4e535a3d810c7f4.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "green"
       ],
       "answer": "tall",
-      "explanation": "描述人物身高用tall，其他选项颜色或长度不合逻辑。"
+      "explanation": "描述人物身高用tall，其他选项颜色或长度不合逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0504f702f8b2fc62b006cc51ee7ff1c85095ae7f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09649207a9b5da671f7ce18b12a6f397247e5ee8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3027fa569ea15ca76d84db21c67e2d514c1a5a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a4ebec4490b48028f0a26f996375bc4b5954b370.mp3"
+      }
     }
   ],
   "knowledge": null

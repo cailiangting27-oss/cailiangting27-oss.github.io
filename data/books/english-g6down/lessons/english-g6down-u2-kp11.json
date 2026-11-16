@@ -21,7 +21,17 @@
         "lamp"
       ],
       "answer": "magazine",
-      "explanation": "read搭配书报杂志，magazine符合语境。"
+      "explanation": "read搭配书报杂志，magazine符合语境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bea33ff3dd5333a4a1ff6c48daeea62636731e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d27b62c597ec858f6e7b54e7e58525e6a95e6d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c26d6e2c55feff46194ffa42008709beff1d481.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/ad363a93848bc486036e6b57d00415cdd2fe1b97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc4edcce8a85405e660f240a208e8e03efd3298d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/509c1c7755850d034440ae827302a4f3de17053e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -25,7 +25,21 @@
         "爬山"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "A-写邮件, B-去远足, C-爬山, D-看电视"
+      "explanation": "A-写邮件, B-去远足, C-爬山, D-看电视",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1802fab4ab3628b335340eb397a19be1d602f99b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/be/bec63860d6186024a9e8c2ede17f839d5d10cd12.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/088081b4415390c9309d287c20b44096888efbdd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c0e9deef514a556e785985bb9ceeeb8af3a54b6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfbcfb1be04803250e8e6a30d4c54117f6800fd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/171f6c916574f231e2333698cc59654c5e12d918.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4f5f7a15fb997ba92289dce5160d4478fcf2f09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a347663c6b859e762a1934e40360fa03b7036c9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68a5e86c2f22ffe401201d7e77939bd18eae5842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/0260b8b10b5a7e24775d2f1f30aa416430c66e74.mp3"
+      }
     }
   ],
   "knowledge": null

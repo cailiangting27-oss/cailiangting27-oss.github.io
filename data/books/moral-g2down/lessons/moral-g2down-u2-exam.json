@@ -21,7 +21,17 @@
         "把水倒着玩"
       ],
       "answer": "用完水及时关紧龙头",
-      "explanation": "随手关水龙头。"
+      "explanation": "随手关水龙头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1ffb706ea1a0de0178bba166146c3fdf278e2a6e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b26e3252dfbbca24e123bb113b626705e078408.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1547db932099706b4cb5d7b1333413bef8f07522.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd555cb2d47978d7b05ecb3e50a0a4143e479b37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc21a294fa0d24296c76f15a3d0cc49ea75ffd6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/dbb2bbe71dea5c61f6843347c5d6ef50564710e5.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "垃圾分类投放可以保护环境。",
       "options": [],
       "answer": "对",
-      "explanation": "垃圾分类有利环保。"
+      "explanation": "垃圾分类有利环保。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c686a8b636d1407b9e2dad9ae693c9d89fcbf1a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfaef8f3d82287060967b247e37b941c15063b44.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "跳绳"
       ],
       "answer": "轻声慢步不吵闹",
-      "explanation": "楼道要保持安静整洁。"
+      "explanation": "楼道要保持安静整洁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc221b6dd498a612bb79e97c32e0ad62f68994b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/8167191a35754c1bfbef37cae69f58713cfbd07f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/759fc402d914ea197a74e6d0db058a1c256b2b93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea8f3d381c05e02c2494859472babc3c6de067d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c53f94cd996669a19f8484bfb9cb5b37c0ce2d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/23756abd007d889d9bdaad8a76607d46a0ff0ac0.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "社区里的公共设施要爱护。",
       "options": [],
       "answer": "对",
-      "explanation": "爱护公共设施。"
+      "explanation": "爱护公共设施。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43bfeed320fe06d8b57b04fb81e668891c6477cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dded3434890d95201d614b53723e5fb554268cfd.mp3"
+      }
     }
   ],
   "knowledge": null

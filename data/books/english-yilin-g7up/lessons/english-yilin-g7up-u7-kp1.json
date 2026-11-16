@@ -37,7 +37,15 @@
         "sheap"
       ],
       "answer": "cheap",
-      "explanation": "cheap 便宜。"
+      "explanation": "cheap 便宜。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fb8df41a16b4b1c2807a757c1ea2238e46cdcb96.mp3",
+          null,
+          null,
+          null
+        ]
+      }
     },
     {
       "id": 4,

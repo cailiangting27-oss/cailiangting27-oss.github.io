@@ -21,7 +21,17 @@
         "not"
       ],
       "answer": "often",
-      "explanation": "often是频度副词，表示经常。"
+      "explanation": "often是频度副词，表示经常。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1e/1e33ea3f6be483990ed1babd31ec11f1cf42d931.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/164a5c24f5df5918f285228443ab87209785293f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e74295bfc2ed0b52d40073e8ebad555100df1380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/557f255516719ea16f8f4a0aae1166054e2c9b43.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/061cb35fc9c9a926132f6e6c65ee3f3da5ce8cac.mp3"
+      }
     }
   ],
   "knowledge": null

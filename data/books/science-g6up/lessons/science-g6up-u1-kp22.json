@@ -21,7 +21,17 @@
         "亮白色"
       ],
       "answer": "亮白色",
-      "explanation": "亮白色的视野表示光线已经均匀进入通光孔和目镜。"
+      "explanation": "亮白色的视野表示光线已经均匀进入通光孔和目镜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b36adcddaeeed7daf5a8548444d8168be5c10406.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/55/5568c16f8aee3721bbe73dda5af5057d750a16d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/176228fd65dc0579823afbb0b4b502e59c76ce92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/9065da2088794b03717c12a8012302f0bc72df8a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/ce3073f476208fdb5b52302c172b4d4cffe51ec9.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "调节时物镜直接撞在玻片上",
       "移动玻片的方向与物像位置搞反"
     ],
-    "tips": "物像在哪个方向，玻片就往哪个方向移。"
+    "tips": "物像在哪个方向，玻片就往哪个方向移。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/46/46bfc3e7c0b97de42157df182538c480fa8330be.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/59/599be1b10608bd6b3693a98b24cffef7db02fd7c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ac/ac7898aa740b89073e4468018d2ba0035a5eed70.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/16/167fbf3ad0e77192600a9e7be6d2f147965963dc.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/45d6dd5c093e2c4a58fb685d782324cfbb7ed81b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/08/08a1f6dcce473e9f05bcbc7334451df3c0ca7ca4.mp3"
+      ]
+    }
   }
 }

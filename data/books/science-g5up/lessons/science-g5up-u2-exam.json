@@ -16,7 +16,11 @@
       "question": "长白山天池是由于风的长期吹蚀作用而形成的湖泊。",
       "options": [],
       "answer": "错",
-      "explanation": "长白山天池是火山喷发后形成的火山口湖。"
+      "explanation": "长白山天池是火山喷发后形成的火山口湖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3ff2afdd0ecffa9dcd3bb21b47d657bc8660eb1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a9f1f4482efcacfdb1ea5bf343a17d1b3ae081a.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "地球表面的形态自古以来就是这个样子，从来没有发生过变化。",
       "options": [],
       "answer": "错",
-      "explanation": "地表形态在不断变化，既有剧烈的也有缓慢的。"
+      "explanation": "地表形态在不断变化，既有剧烈的也有缓慢的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6a158934e3393b2e6e416009fd7a253807f11921.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc5f8411665c3e33273f8509688fd256c0442b34.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "地球中心的地核温度非常高，压力也非常大。",
       "options": [],
       "answer": "对",
-      "explanation": "地核厚度大，其内部处于极高温极高压状态。"
+      "explanation": "地核厚度大，其内部处于极高温极高压状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa9659f86c50a6b6eae78d78becf821c61e3c2b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f9791c5ccb26c5071fc34c6070584a7df39cb114.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "修筑梯田可以有效地减缓雨水对土地的侵蚀。",
       "options": [],
       "answer": "对",
-      "explanation": "梯田减缓了流水速度，使水分有更多时间下渗，减少水土流失。"
+      "explanation": "梯田减缓了流水速度，使水分有更多时间下渗，减少水土流失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d281cd2ceee86335d70147425f9d9776ee10f5df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3c12202bbf6f68fb364df55d911a3b674e10f39f.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "花岗岩"
       ],
       "answer": "沉积岩",
-      "explanation": "化石只能在沉积岩中保存，高温形成的岩浆岩会将其烧毁。"
+      "explanation": "化石只能在沉积岩中保存，高温形成的岩浆岩会将其烧毁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/5508bababd6924f2fd652a780215eadf7609d4eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f639636c901f178bb2af833f3b85f0a0100ecf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebecbf2e2275b7b85d11645123cab33828fe18e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d975383ea255d040e7356b2a01da6629bbe13fe9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bab753e75a1b5b4d08c2d4f6e3a642aa063b4ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f55c622e8c2351ccb2d6c6e4ac86e47030c9aab8.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "寻找坚固家具旁躲避"
       ],
       "answer": "寻找坚固家具旁躲避",
-      "explanation": "高层不宜乘电梯（易卡住）或跳楼，应就近寻找承重墙角或结实家具处躲避。"
+      "explanation": "高层不宜乘电梯（易卡住）或跳楼，应就近寻找承重墙角或结实家具处躲避。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e605b1735ae69d9fa447b03e18441f80cee4bc2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ea/ea675ff544a407421410512ef9b5e48c7e414927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb7fa9749332d50ff7d07c20dcb3a65a4e15919d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08318239123e81fb7be5f2811ff823279ab3ad34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/090a95de04a14a37375679d71dd8810c2c588ac6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac8fa30db694d5fed3659ebb56dc0d614aa798d2.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "火山碎屑"
       ],
       "answer": "褶皱山脉",
-      "explanation": "板块水平挤压导致岩层发生弯曲、隆起，形成褶皱山脉。"
+      "explanation": "板块水平挤压导致岩层发生弯曲、隆起，形成褶皱山脉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f35ef270e3ef5be60e7d2e134ffc87756939481.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f785eb75581f50334271c7e2bfabcb300a00c4f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/7883ab4f7ce7b94333dabae1ace18d38efac1fed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5ce3b7946aa52e076ad39616245bdc4e47602265.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23381a1d47b7aaa70989a93b2dd98b400849d054.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/adfbe18828f89f7a3da56fbf31a0da44b0b10c5b.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "下部的岩石更坚硬"
       ],
       "answer": "靠近地面的风沙侵蚀力更强",
-      "explanation": "含沙风流在近地面高度搬运的沙粒多、冲击力大，对基座磨蚀更快。"
+      "explanation": "含沙风流在近地面高度搬运的沙粒多、冲击力大，对基座磨蚀更快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/16/168a9b85ad0dd9bad2add987b9b96da11bead525.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/485b6dd2ba3c9852452a01d84605d2e71dfc7559.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be2d477fd811e83768d5c28675190ab7fee90219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df122f16b8e2b401288916b635c4747f11bee9c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f79fe9cbe0beadf8971f02a21f5441cffaaaa8f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b5a7e32062060ab09ee0db533c840fec7a144a5e.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "软流层"
       ],
       "answer": "地壳",
-      "explanation": "地壳是地球岩石圈的表层，是人类活动的家园。"
+      "explanation": "地壳是地球岩石圈的表层，是人类活动的家园。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d34948c1f3c9bd6dfaf0f626cb3a5a24b124dac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48ef1ca292c7c582ef831805e35983a8c1d18817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9cf0da42e3575ba4b26adeb5b915203ac8506927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0830127e0668e26b67ef6c93f81fd2362c2f017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7d691d9163975493c3bf08c74df4a67ed3963ab.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3eb11c9f43d648e62ed633a45172cbf1f00fe3e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "伽利略"
       ],
       "answer": "魏格纳",
-      "explanation": "德国科学家魏格纳根据非洲和南美洲海岸线吻合等证据提出了大陆漂移说。"
+      "explanation": "德国科学家魏格纳根据非洲和南美洲海岸线吻合等证据提出了大陆漂移说。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b8/b8a0310f93f533cda00782e9308934bbbb485522.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/dab1838043a4d69f83f91294fac12168781c66af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a91638f116531c373002ff11fe59b6846fdd403e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5960601053b5d9922658a0bad6b312595591974a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f04590db03c4dd3dc9bc799296a1e000abd833b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/7615f730fce7f8a1149383a59d6ef6b18f2eb646.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "砾岩"
       ],
       "answer": "变质岩",
-      "explanation": "原有岩石经过变质作用形成的岩石称为变质岩。"
+      "explanation": "原有岩石经过变质作用形成的岩石称为变质岩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/447bef2091ae76a4439897adc7e888947602a76f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/ebecbf2e2275b7b85d11645123cab33828fe18e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d975383ea255d040e7356b2a01da6629bbe13fe9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f639636c901f178bb2af833f3b85f0a0100ecf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3be2646091a18444b9c86f2061db5ab7897eed83.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d15c76f1f3ec37bd0aa2732d9635bd95d7ed7ab2.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "水域"
       ],
       "answer": "水域",
-      "explanation": "地图中蓝色代表海洋、湖泊等水体。"
+      "explanation": "地图中蓝色代表海洋、湖泊等水体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93cc4892c24e4b8211be0f3ef7c93f35117decee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/70/70f4c18c327660f1edaa85614f5441eb9ddc332e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/956e87d35398e8f0934dd68b6425987d2e79c5fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdbdaa98f806e3afdb70ecfc8ca296aba34839e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c032d144ed45aa98c78b501616485e76e61ba45.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3c45232b43053179d582f2686a1316c514ab5ad.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "目前地球上公认有（ ）大洲。",
       "options": [],
       "answer": "7",
-      "explanation": "分别是亚洲、欧洲、非洲、北美洲、南美洲、大洋洲、南极洲。"
+      "explanation": "分别是亚洲、欧洲、非洲、北美洲、南美洲、大洋洲、南极洲。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/255622569780551dae638b33470c4a478a35cfd7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86f0e148245527b20b7806b7c1dbb01b12cf6d6b.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "地球表面约有（ ）%的面积被海洋覆盖。",
       "options": [],
       "answer": "71",
-      "explanation": "地球表面大部分是水，约占71%。"
+      "explanation": "地球表面大部分是水，约占71%。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd6e4f0a6a1e0dea0be32cdbc9988a35b7b647d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08370e92aa66edc14f208f5547e4adbc41fd27bb.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "由于温度变化、水和生物的作用，使岩石发生破碎的现象叫（ ）。",
       "options": [],
       "answer": "风化",
-      "explanation": "风化是地表岩石在各种因素下物理碎裂或化学变化的过程。"
+      "explanation": "风化是地表岩石在各种因素下物理碎裂或化学变化的过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c8e83cbd2cac2078d8ca9e263c0522421288ff3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b057ac41985a25d7a7079c337126f51dea2ec79.mp3"
+      }
     }
   ],
   "knowledge": null

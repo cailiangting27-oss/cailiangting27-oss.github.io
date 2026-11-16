@@ -21,7 +21,17 @@
         "雨水"
       ],
       "answer": "海洋水",
-      "explanation": "海水占据了地球上总水量的绝大部分。"
+      "explanation": "海水占据了地球上总水量的绝大部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9ff615437309bb5bda01025267345b6187abf753.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de97f61d013c2cfc80a091e97b70ac8e80bdde3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4eda00f7132a529ebf22f3bc8a4752976b751ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e32cfbc8c02819b40686ab44cce2f1368e4772e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c638684ad413cd1602156c14d96965d32a5dc9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6f25ea06b4d618169af8cd5adb24dd7421f9934f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "细胞质"
       ],
       "answer": "细胞壁",
-      "explanation": "植物细胞具有细胞壁，而动物细胞（如红细胞）没有。"
+      "explanation": "植物细胞具有细胞壁，而动物细胞（如红细胞）没有。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9fa7e37216bd33010c82a555e9a4d6f21fe681b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/06/062d3debde2e7db09e68b6f45e451807e5b3efe4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/8114e470b4385866717828565abe2e1e4ab5ac63.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6f32a5e242951ae0d80819bcf6fd7c0161233d91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1dcf77cc9ca3084043c56ea4ffba5da33d015e67.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/40485eb7ec32d29637946f3b4ec14be687982b4e.mp3"
+      }
     }
   ],
   "knowledge": null

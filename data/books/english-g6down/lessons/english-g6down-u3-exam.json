@@ -16,7 +16,11 @@
       "question": "'beach' 的意思是大海。",
       "options": [],
       "answer": "错",
-      "explanation": "beach的意思是海滩，不是大海(sea)。"
+      "explanation": "beach的意思是海滩，不是大海(sea)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88a5ffadf4bd60ebdc80c8ed3f00db82620a5e7d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3cc177ac464bcf705a504db81cb4ee703651fd3.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'hurt' 的过去式还是 'hurt'。",
       "options": [],
       "answer": "对",
-      "explanation": "hurt是不规则动词，原形与过去式同形。"
+      "explanation": "hurt是不规则动词，原形与过去式同形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fef8733853211ea5b22ad74363921286792ef4b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/fa73cf0b1cda77921c418e12f7d087020c90fc41.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "回答 'How was your holiday?' 可以用 'It's good.'。",
       "options": [],
       "answer": "错",
-      "explanation": "问句是过去式was，答句应用It was good."
+      "explanation": "问句是过去式was，答句应用It was good.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/baac29823ef5cd00920336049c1970a3523efada.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/0783c6681b755073e44ccac4b5bdd384a4752b8f.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "'go cycling' 的意思是‘去骑自行车旅行’。",
       "options": [],
       "answer": "对",
-      "explanation": "正确表达。"
+      "explanation": "正确表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/672a251ce8ce084f2359b5b9602bb4acf3fd4594.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/38fe8b0e0d7b9d5a07f010bfe86df53da75147c4.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "mine"
       ],
       "answer": "my",
-      "explanation": "名词parents前使用形容词性物主代词my。"
+      "explanation": "名词parents前使用形容词性物主代词my。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cd9d8b1e7c7661a9a66b1e72a70857912239c80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77f7aa7e254ece3bc0d80f7d6df30987703ca9a9.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "你很好！"
       ],
       "answer": "听起来很棒！",
-      "explanation": "sound是听起来的意思。"
+      "explanation": "sound是听起来的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62f0f7766166f327e820483ce759bfd88152773a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f757b01cf8da54946080f4cab1375bb6c2ba0fc7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecb35dd6ae3d5a2a7fcc0d6080a51350134e8e6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bc276df1881f58a417402d17b284939d0cbf17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a028273bcdc4aa4f634bb28b7d159b25fd491c5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7a7c43db5c8944dac1ea2fe33ad8ce7f5338478f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "with"
       ],
       "answer": "in",
-      "explanation": "在酒店使用介词in。"
+      "explanation": "在酒店使用介词in。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4adaaa6018e23698f5dba7319d5947ad2b796e24.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/751259ef1d720dc461514b02c36097cfe3cea104.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "go; took"
       ],
       "answer": "went; took",
-      "explanation": "描述过去的一系列动作，全部使用过去式。"
+      "explanation": "描述过去的一系列动作，全部使用过去式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76acf1a080e3d76161bc3c3dc0c50453cc9fcb98.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c6b5ed5e1b0202495c7d3428bb1f7f81020c2d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a60dac44f1be6d5c7e4b4b60e6f8f41cc44192cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a10dd8d6aacb4b4d07fdc8f1e6ed930a03634127.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae28eda40978bcde238a5f43800a24d257800a74.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee6b817d0a5708aa62c99e091b2e258054a85710.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "coming"
       ],
       "answer": "came",
-      "explanation": "come是不规则动词，过去式为came。"
+      "explanation": "come是不规则动词，过去式为came。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e924fa66771b446baceb36e538536c2d2afc7279.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f7180bda77665f0468b16c813f3c636d8b80b7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74f5cacb17fe7f0b0b7babd0407fecac0c32008c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/6348bfd0c48ef56132e5460dac4934330fb9da83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e47e5c469fc82dc725b998fc796351d90c43b82b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f06ffb864ffa9315f1d37a3f25cfab959518293e.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "eating"
       ],
       "answer": "ate",
-      "explanation": "eat的唯一正确过去式是ate。"
+      "explanation": "eat的唯一正确过去式是ate。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de7aa5778503a0b7c5c18a76e51b7bd438f1e318.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8a/8adaeda59787b35138699b0a128b49210ed98140.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/189b7ea01f86694bbb0fd98bed73c059692d1656.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/716845cc31b39d291855cdce64e5450b258da84d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/301577ef5982bf18860c0a0555375d13bdb56974.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a30e2b428781908e6c368cd52d521f28e9222d0c.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "How did you go to Shanghai? By ___ (飞机).",
       "options": [],
       "answer": "plane",
-      "explanation": "机词填空。"
+      "explanation": "机词填空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24a366bd8a3e96d8712564ba520a3f01199d6f05.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cbe104c172a8a1e10c945efd9d79bf0358e2e98.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "Yesterday I ___ (ride) a mule.",
       "options": [],
       "answer": "rode",
-      "explanation": "ride过去式。"
+      "explanation": "ride过去式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03070c6888f991319fb97f336c0e630b57706b7c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a059dc99802c11f124135cbb24fe00e786b2e065.mp3"
+      }
     },
     {
       "id": 19,
@@ -178,7 +262,11 @@
       "question": "___ did you go? To the park.",
       "options": [],
       "answer": "where",
-      "explanation": "问地点。"
+      "explanation": "问地点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22cd2191c4c9cc36b865a30ebbf4bc803a60f05c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c88dcf21f0882bdcb47d71111c46f9e920b51148.mp3"
+      }
     },
     {
       "id": 20,
@@ -198,7 +286,21 @@
         "好吧"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "对应汉译英。"
+      "explanation": "对应汉译英。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0706db405f2b0006dadb69b920989200b4968450.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6f6b5c81e1a028e63d4162bbbcbf3f7a17cdf90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fd9d046ad8c4189d890777f5f136d0c971e319d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a31d9d71495cececb05bd6bbaab9ba9aaa8c56c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fea4063a6b411d536c6c8984e069246a60b3e33b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f252230de210a0d95106ad7ae509b0d420d3c781.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89cba4f91c6fff26abd3b437d3fe988d71d76e2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a898727031f0565255951ea55f5d82c6eeccb891.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c56bae695b91a7efce350afdbb1c4f0810110fb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc5070329e218046d1c1a0b010467f9416a1d351.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +317,18 @@
         "."
       ],
       "answer": "I,didn't,eat,fish,.",
-      "explanation": "否定句结构：主语+didn't+动词原形。"
+      "explanation": "否定句结构：主语+didn't+动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/3525c163b649e68e219daafd9237766c8d787e19.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d89455758ecc0f43a4a9ea5c37e24194722042f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ee7152262a2a70d86810f56c186e8714a4bd8a.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/22/220e48b6ff94bb7443b0768a33a4e686c6d5c8a8.mp3"
+      }
     }
   ],
   "knowledge": null

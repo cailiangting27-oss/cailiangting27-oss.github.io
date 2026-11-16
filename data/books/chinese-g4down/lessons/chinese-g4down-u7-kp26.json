@@ -22,7 +22,18 @@
         "滑旱冰"
       ],
       "answer": "性格开朗的我,喜欢,在广场上,尽情地,滑旱冰",
-      "explanation": "按“谁＋爱好＋干什么”的结构排列。"
+      "explanation": "按“谁＋爱好＋干什么”的结构排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/613ee077ec1ee9dc8f3cedf51f28baffcbaf9473.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/28/28aa475a79f26b22a04a41191bb05056c4c8e9a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66070c3be72295c6e6cf4ce5d66266af4ed4fe41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f04231581f3f24593f5100ff03386be7a18fbb22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5265ae434c26125232d2e5f2f5da34c79a65eaf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e7b9bbf4672cafa0dd2e239c9f752a0369123f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c7aa3468513f268d337e4937054387892b0b5710.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "'mine' 的意思是'我的'。",
       "options": [],
       "answer": "对",
-      "explanation": "mine是名词性物主代词，表示“我的（东西）”。"
+      "explanation": "mine是名词性物主代词，表示“我的（东西）”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/21/2104956909f6c38f8ea2297d7a780bcfa4ce3aea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7e270130d5a06ebdf93ac26d3df72bcae875ce67.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "'hers' 后面通常不需要再加名词。",
       "options": [],
       "answer": "对",
-      "explanation": "名词性物主代词相当于“形容词性物主代词+名词”，所以后面不再接名词。"
+      "explanation": "名词性物主代词相当于“形容词性物主代词+名词”，所以后面不再接名词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01e94af6fac25df66755539242a3a2099062320a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8ddaca69ac8c0b3a3288768894012f67568c444d.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "I"
       ],
       "answer": "mine",
-      "explanation": "句末没有名词，需用名词性物主代词mine。"
+      "explanation": "句末没有名词，需用名词性物主代词mine。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f1/f1a87fbf08f0e14ed0c5463f130c6a17fed96d63.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8caaea0841cfce801f683762774969d8af6bd8db.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "she"
       ],
       "answer": "yours",
-      "explanation": "此处指代你的书，用名词性物主代词yours。"
+      "explanation": "此处指代你的书，用名词性物主代词yours。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d40a10702aa1f989f3d6bf351c385d7c530528c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/922cce49ed1675a8618c22f7c8e384717f0e52b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8af56de68279cb6f5ed022f31af18b9fcdcc2e92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc73741b9473168444fab7e680b439ba69f41ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/eb10636f23e911ef88f3d81651bdb6c8e2d42d71.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "our; theirs"
       ],
       "answer": "ours; theirs",
-      "explanation": "前后两处都缺名词性物主代词。"
+      "explanation": "前后两处都缺名词性物主代词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/be11c243d7336e37cacc3bb315be7886e2999f73.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2f8accadc8df976b7dba38187fd76f807ff31147.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de69aa118e77813257299c7bad78c38fcc68fb41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11b905a59b4df41a07d4a93b46b8d396b6ef1d35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a588855bec9e78b182e5239f29c35cfded45b2db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/595cd8235b58f7306e14b6a08641f0f36e2cb4d2.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "me"
       ],
       "answer": "his",
-      "explanation": "his既是形容词性也是名词性物主代词。"
+      "explanation": "his既是形容词性也是名词性物主代词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/139c6662acf1fafe25a6b9e788a39cced3ff3cc1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b187a9ed471ef7465c5d78cc7b4b1846f07ac76d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/330317bbc57fe33d9b3505994863adb733da347d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc57ecb8db30d8c6f0586fb47fbceb24ea8eb563.mp3"
+      }
     },
     {
       "id": 17,
@@ -102,7 +150,11 @@
       "question": "I am Sarah. This bag is ___.",
       "options": [],
       "answer": "mine",
-      "explanation": "指我的书包且不接名词，用mine。"
+      "explanation": "指我的书包且不接名词，用mine。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f31b34ffc167f5a0b59a80c8cd90869b5262244a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97b2ffc1ad06e3ca02fd22c2e484f31e7437c62f.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +174,21 @@
         "我的"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "mine我的, yours你们的, ours我们的, theirs他们的。"
+      "explanation": "mine我的, yours你们的, ours我们的, theirs他们的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/89b8869bab60b2cb14aa44aba5e9610df3fd25cd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/8034c43d15bb7ef42e2cc24255217acfc5f4b2f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/922cce49ed1675a8618c22f7c8e384717f0e52b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48537f613ab85111413f2369616ae97481429bd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d16d74303205ee1884bba2395511c1f66af12d14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8b7273fe84cbdaa8008d2ee9b88793224f3c2f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/8031444708aecbb1cc6efd3c2beee903dbe27de6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8aebea23a9d73af590744a32c54abcdc83fc8b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a82c993d7388d58af303d721d5030d9fa476273e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bcc909484d980f521f56698d90740a66a511194.mp3"
+      }
     }
   ],
   "knowledge": null

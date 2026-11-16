@@ -16,7 +16,11 @@
       "question": "如果从前面和左面观察所看到的图形完全一样，那么这个几何体最少由2个小正方体组成。",
       "options": [],
       "answer": "对",
-      "explanation": "例如两个小正方体前后摆放，前面看是1个，左面看是2个；如果是一前一后错位或重叠，最少需要2个来维持立体感。✓"
+      "explanation": "例如两个小正方体前后摆放，前面看是1个，左面看是2个；如果是一前一后错位或重叠，最少需要2个来维持立体感。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a572488babf18f7f2bec711d1c7b8982a9b21948.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cbe22b11080329a1e2386b128a7cdda2b5f5bb64.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "6个"
       ],
       "answer": "3个",
-      "explanation": "当3个正方体横着摆成一排时，上面和前面看到的都是3个横排正方形。$1 \times 3 = 3$。"
+      "explanation": "当3个正方体横着摆成一排时，上面和前面看到的都是3个横排正方形。$1 \times 3 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/843b19ba9baefb7353344bf5b95f2c383f68cd64.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/239c30967d8730a63e421945c11fa9dd094ac9f7.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "8个"
       ],
       "answer": "4个",
-      "explanation": "一个底层为2x2的单层摆放，恰好满足三方观察结果。$2 \times 2 = 4$。✓"
+      "explanation": "一个底层为2x2的单层摆放，恰好满足三方观察结果。$2 \times 2 = 4$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/45/4500d960eb87fafe9a308d551eb1ea6d14d60227.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8d/8d64f3524aed1c85a6d6eb70b0174f90dfb45fba.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "6个"
       ],
       "answer": "3个",
-      "explanation": "前面3个，上面3个说明是一层且横向排开，且无纵向深度，故刚好3个。"
+      "explanation": "前面3个，上面3个说明是一层且横向排开，且无纵向深度，故刚好3个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/4674568824087f41470addbb0923a079d72254ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffa8b6b6fde3469aa0ae682cbe6d6da438d2df6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3704390da83fc5d2205b7a93146aa84235cf62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bc846220c5e7363a0f2742f929ecbc575e8cd43.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "16个"
       ],
       "answer": "8个",
-      "explanation": "这是一个$2 \times 2 \times 2$的大正方体结构。$2 \times 2 \times 2 = 8$。验算：$8 \times 1 = 8$ ✓。"
+      "explanation": "这是一个$2 \times 2 \times 2$的大正方体结构。$2 \times 2 \times 2 = 8$。验算：$8 \times 1 = 8$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e77249768b1f1250c9f6c9bbd99126b6a2b7c2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/610f9f69ea88f8b1cd7211afa3cdf12e483c514a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/95/9556931c8d4c93652be6343c2a9573bb00df6528.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eab83a50ca54147d0b59b201e87c10142e605c15.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/148f69a3c991ae92b18dd167998c2d7e6a457e2c.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "一个立体图形从上面看是 3 个小正方形并排，从前面看也是 3 个小正方形并排，搭这个立体图形最少需要 ___ 个小正方体。",
       "options": [],
       "answer": "3",
-      "explanation": "满足该视图最简单的连排结构。算式：$1 \times 3 = 3$。验算：3个横排，前视图3，顶视图3 ✓。"
+      "explanation": "满足该视图最简单的连排结构。算式：$1 \times 3 = 3$。验算：3个横排，前视图3，顶视图3 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d36d4436bde32729959297f9810341d219130fe8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a71755ced9f5a24a51bcf7002391bf5ab328d87a.mp3"
+      }
     },
     {
       "id": 21,
@@ -102,7 +150,11 @@
       "question": "用小正方体搭成的几何体，从上面看是 4 个正方形组成的田字形，从前面看是 2 个正方形横排，从侧面看也是 2 个正方形横排。一共用了 ___ 个小正方体。",
       "options": [],
       "answer": "4",
-      "explanation": "上面是田字形（4个），前面和侧面只有一层高度（2个横排），说明这就是一层 2x2 的结构。总数：$2 \times 2 = 4$。✓"
+      "explanation": "上面是田字形（4个），前面和侧面只有一层高度（2个横排），说明这就是一层 2x2 的结构。总数：$2 \times 2 = 4$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a1d424fb110228f976fa0fcf5d7d32117ea4c80.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a8055df2cca449d837f2dc3010a4b6076647a9c.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "已知一个立体图形由两层组成，底层有 6 个小正方体，上层有 2 个小正方体。这个几何体一共有多少个小正方体？ $6 + 2 = ?$",
       "options": [],
       "answer": "8",
-      "explanation": "$6 + 2 = 8$。一共有 8 个。验算：$8 - 2 = 6$ ✓。"
+      "explanation": "$6 + 2 = 8$。一共有 8 个。验算：$8 - 2 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/448a190b5872b8b47e360ce7995430f320d84076.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82c77616475241f79b5b130e62bafd93450afd62.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "计算小正方体个数时，漏掉被高层遮挡在后面的底层正方体。",
       "在确定最少需要几个正方体时，没有充分利用共用块。"
     ],
-    "tips": "层层剥开法：先摆出底面，再根据其他视图往上面加盖块，保证满足所有视角。"
+    "tips": "层层剥开法：先摆出底面，再根据其他视图往上面加盖块，保证满足所有视角。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9b/9b06cdfd7067cdb6b7b1b70b3d390473bec14666.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/17/17f8049dd43cbf5d48ef40a01565480b9ecc6382.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/90/90da22b5c7a34b32fcc4198d5edfa65080c635c9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5e/5e46284c343beec76d735ef3d5f0d5feff925754.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c1/c1bd1098d277451f6e657aac31803a914ea82b09.mp3",
+        "https://api.clthuanxie.cn/cc-audio/4b/4bfdbb496591a2c9bf79fac88b8a69cb12bf0790.mp3"
+      ]
+    }
   }
 }

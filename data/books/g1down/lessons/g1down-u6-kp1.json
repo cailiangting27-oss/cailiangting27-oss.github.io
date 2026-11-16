@@ -16,7 +16,11 @@
       "question": "$40 + 20$ 的结果是 60。",
       "options": [],
       "answer": "对",
-      "explanation": "$4 + 2 = 6$，所以 $40 + 20 = 60$。验算：$60 - 20 = 40$ ✓。"
+      "explanation": "$4 + 2 = 6$，所以 $40 + 20 = 60$。验算：$60 - 20 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/325688eb2eef8caa010870f90248d1dd1f7ba11a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47d5db3c45c41bafb1574a6323dddf8b96ced942.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "计算 $35 - 2$ 时，应该先算 $30 - 2$。",
       "options": [],
       "answer": "错",
-      "explanation": "计算 $35 - 2$ 时，应该先算个位上的 $5 - 2 = 3$，再加上 30 得到 33。"
+      "explanation": "计算 $35 - 2$ 时，应该先算个位上的 $5 - 2 = 3$，再加上 30 得到 33。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/058d2ac0b2b754d1e8c6b1fbe55623a0a51d554f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5e43dfe5655f060d8d9440a1d79b3c012f6bb03.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "90"
       ],
       "answer": "80",
-      "explanation": "5 个十加 3 个十等于 8 个十，即 80。"
+      "explanation": "5 个十加 3 个十等于 8 个十，即 80。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c7a965de610532af23db6c2a41de43fc4e633a9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77958bd1c8b217cb9982f8ab8a9005c413738b34.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "60"
       ],
       "answer": "50",
-      "explanation": "$70 - 20 = 50$。"
+      "explanation": "$70 - 20 = 50$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a248e1dd9719f3898cb15456bb34473630ed3289.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/642a8e3a243d790ca12a1c2875b581118367df65.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "80"
       ],
       "answer": "70",
-      "explanation": "$30 + 40 = 70$（个）。"
+      "explanation": "$30 + 40 = 70$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87eecdc82aa5623cbdd104c1dfe6ad270b84e45c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/3663c41addff0f0b680e3a9ac9360128b1955a9f.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,11 @@
         "+"
       ],
       "answer": "<",
-      "explanation": "$48 < 75$。"
+      "explanation": "$48 < 75$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9651a3a0805502f3af73354a2a177f60bbf58bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5a/5a3e91afdbc9878c83eb17b36388125e86ce5b4a.mp3"
+      }
     },
     {
       "id": 14,
@@ -107,7 +149,11 @@
         "-"
       ],
       "answer": ">",
-      "explanation": "$82 > 37$。"
+      "explanation": "$82 > 37$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/233147ccfc97ad4c7f886d63acf808a413fc7887.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b14dbba4b1ac88cb8a596f97c74958621f2f690c.mp3"
+      }
     },
     {
       "id": 17,
@@ -123,7 +169,17 @@
         "50"
       ],
       "answer": "38",
-      "explanation": "$6 + 2 = 8$，$8 + 30 = 38$。"
+      "explanation": "$6 + 2 = 8$，$8 + 30 = 38$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/873f5e357fba20d16f9b88b9777ef133ee0f0d6a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6ab75c7834ca16ace15994954e3889604d3dc013.mp3"
+      }
     },
     {
       "id": 19,
@@ -134,7 +190,11 @@
       "question": "小军有 20 元钱，买一个本子用了 3 元，他还剩 ___ 元。",
       "options": [],
       "answer": "17",
-      "explanation": "$20 - 3 = 17$（元）。验算：$17 + 3 = 20$ ✓。"
+      "explanation": "$20 - 3 = 17$（元）。验算：$17 + 3 = 20$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4da5f9e2d8eb324e1fb8f94a352dd0b11e47967d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/963922bfd38347b531784546a720c500321aeac7.mp3"
+      }
     },
     {
       "id": 21,
@@ -145,7 +205,11 @@
       "question": "仓库里有 90 袋大米，运走了 50 袋，还剩 ___ 袋。",
       "options": [],
       "answer": "40",
-      "explanation": "$90 - 50 = 40$（袋）。验算：$40 + 50 = 90$ ✓。"
+      "explanation": "$90 - 50 = 40$（袋）。验算：$40 + 50 = 90$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57a28d5e0504847d3652f3cc789c109236113f56.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9e06a183509a8ad978025b21d2f01dd357c1ff7.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +220,11 @@
       "question": "$40 + 30 + 9 = ?$",
       "options": [],
       "answer": "79",
-      "explanation": "先算 $40 + 30 = 70$，再算 $70 + 9 = 79$。验算：$79 - 9 - 30 = 40$ ✓。"
+      "explanation": "先算 $40 + 30 = 70$，再算 $70 + 9 = 79$。验算：$79 - 9 - 30 = 40$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec22f4cb1c8ce989acd18f25c453457629f9e27b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72c46971c87ee099d0d07dbbbfded77998a478f8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -167,6 +235,16 @@
       "数位混淆：如把 $34+2$ 算成 $54$（错把 2 加到了十位上）。",
       "计算结果漏写 0：如 $50-20$ 算出 3。"
     ],
-    "tips": "记住‘个加个，十加十’。看到整十数，就想成几个十。"
+    "tips": "记住‘个加个，十加十’。看到整十数，就想成几个十。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/21/219d25362d7673b8e2ba3dc0ed625844456b0473.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/40/403ab53a5a19b2382af8fa5c805a86fe001ec15d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9f/9f409f0cea3040094ca31a8c2c56adb628631e2c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/ab78acbc4de66dd9a5f925b0ebbaec36dff5e6fe.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d5/d5a924cbe851dfc1b47d58b047c88a66772d5461.mp3",
+        "https://api.clthuanxie.cn/cc-audio/cf/cf9ef29d3137def91d86426261864c88d67221a8.mp3"
+      ]
+    }
   }
 }

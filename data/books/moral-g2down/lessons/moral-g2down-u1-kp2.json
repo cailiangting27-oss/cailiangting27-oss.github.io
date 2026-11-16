@@ -21,7 +21,17 @@
         "替同学考试"
       ],
       "answer": "整理自己的书包",
-      "explanation": "自己的事自己做。"
+      "explanation": "自己的事自己做。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea560df81c8c10739ff261bff2a3c1398013227b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c52af03f6d142e1f5b50b3fc7e5cc355349a733.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/fff3f76b475766abcd4c9fb3c3de892b0d0d1833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d53f2c59c58fa00d67194dff2d0423689b029c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/ef4735d558d24ffb7ffc4b4eac7aa5890147e513.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94c48108d8bf4c9e416eba219a5b8e55979e89ce.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "自己的事情尽量自己做。",
       "options": [],
       "answer": "对",
-      "explanation": "自理自立。"
+      "explanation": "自理自立。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62e80033faf31505c6b51672d5ea140ba3d1fe3a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8c7e72708a6ee97576a871551f8865558e37fda6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "事事依赖父母。"
     ],
-    "tips": "越独立越能干。"
+    "tips": "越独立越能干。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/52/52ec02d691d6682d070348e3089c514b7769f6d8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a5/a5bde22140a7143aa228fe2a582cd4d7c098f81c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d5/d5690935f5c297f6a33c3eb4e7824790e83e431e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/72/729ccac8fd2cc77513bf440ceb0f827a11edd2d6.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/c6/c6a125da9494b1b202a147955cf313976a1c76b8.mp3"
+      ]
+    }
   }
 }

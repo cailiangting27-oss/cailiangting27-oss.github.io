@@ -21,7 +21,17 @@
         "维生素"
       ],
       "answer": "淀粉",
-      "explanation": "淀粉遇碘酒变蓝是基本的化学反应特征。"
+      "explanation": "淀粉遇碘酒变蓝是基本的化学反应特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9f/9faaa298a0a1f85982491a74b962c4ccdb9236c8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf373f67b87eb78666175fe76ff8d2493dd4e6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2eef1156d91965b6ce82a491fb6b800a4a566af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e54cf75a93c14820b9a4e801ed8519deb26bd351.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35a3b3cd712367674a251d164945073e33984e39.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d2f0ca19630f7ffc0ccd5c8cdb983be4d27e50b.mp3"
+      }
     }
   ],
   "knowledge": null

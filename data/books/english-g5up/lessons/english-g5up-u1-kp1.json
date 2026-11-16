@@ -16,7 +16,11 @@
       "question": "'funny' 的意思是'有趣的；滑稽的'。",
       "options": [],
       "answer": "对",
-      "explanation": "funny 是形容词，意为有趣的，滑稽的。"
+      "explanation": "funny 是形容词，意为有趣的，滑稽的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ca/ca6a78205a9c8a2a32ebed6566abaa98454bb633.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e4529d2d38ade6b8dd652b23fbf5d86c290d4e43.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'strict' 的意思是'温和的'。",
       "options": [],
       "answer": "错",
-      "explanation": "strict 的意思是严格的，温和的是 kind。"
+      "explanation": "strict 的意思是严格的，温和的是 kind。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f30fc067d90ae220f759bbd607b08053fcba2b3e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8671d20fdd2b70c4c2a9f7d8787e7178d6636b4e.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "'hard-working' 的对应词是 'lazy'。",
       "options": [],
       "answer": "对",
-      "explanation": "hard-working 是努力的，其反义词是 lazy（懒惰的）。"
+      "explanation": "hard-working 是努力的，其反义词是 lazy（懒惰的）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe62e9e2a988067a1a638f6314a6a6ebfbe76be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/bab3796e6b84365d9a7ae90fb5f2e48ff880852c.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "old"
       ],
       "answer": "polite",
-      "explanation": "对老师说你好体现了有礼貌，故选 polite。"
+      "explanation": "对老师说你好体现了有礼貌，故选 polite。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6ab36ac23b690f8806a1891b6f33da8da03f38ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/16f5756897c9440fe789145ca9db7cdb714a0d5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41eaab877ca3a0e3aa14f5a4b7981f590e3c2bd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df399330d331a0c6a2f8e1056a9eeb66ea904027.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f2cac96cf541dcf02b691b00b0fa695ca521bee.mp3"
+      }
     },
     {
       "id": 9,
@@ -70,7 +92,17 @@
         "funny"
       ],
       "answer": "clever",
-      "explanation": "能解数学难题说明聪明，选 clever。"
+      "explanation": "能解数学难题说明聪明，选 clever。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c03034f731d2523bcb987c490594eb7ccba10e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ef25ae00f40c8471ee44b720036abcc25e96cee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a31a61e94f3799a9385dab9966c4c22c9f5790c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf48095db4e17be217019df7119028e9e8365847.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dcb011150a410a1e8f5c0390d48ba8a8fd0254ee.mp3"
+      }
     },
     {
       "id": 11,
@@ -86,7 +118,17 @@
         "polite"
       ],
       "answer": "quiet",
-      "explanation": "不爱说话对应 quiet。"
+      "explanation": "不爱说话对应 quiet。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/149a0d1af931e845805cfb185f1d7df35fef313b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b7392910ae3d09b2fd30e166502a8c323c2f5c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ef25ae00f40c8471ee44b720036abcc25e96cee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16f5756897c9440fe789145ca9db7cdb714a0d5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e5bcd02ad7bbee1eb7069924f3b0bdbf28c44d7.mp3"
+      }
     },
     {
       "id": 13,
@@ -102,7 +144,17 @@
         "old"
       ],
       "answer": "old",
-      "explanation": "not young 的反义词是 old。"
+      "explanation": "not young 的反义词是 old。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4bbd64480f59cbb16aa191d06dbd6eb7a8f99d90.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a31a61e94f3799a9385dab9966c4c22c9f5790c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf48095db4e17be217019df7119028e9e8365847.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ef25ae00f40c8471ee44b720036abcc25e96cee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/2994b9b31e2d8440d6859daf0b16f1167d44c5b0.mp3"
+      }
     },
     {
       "id": 16,
@@ -113,7 +165,11 @@
       "question": "Oliver is a helpful student. He is very _____-working.",
       "options": [],
       "answer": "hard",
-      "explanation": "hard-working 是固定词汇，意为勤奋的。"
+      "explanation": "hard-working 是固定词汇，意为勤奋的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8b1bbcc72596f897f420467927fa7934c3e97e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/643207265a29b1fa18377ce6c2cc51731bd4e2f9.mp3"
+      }
     },
     {
       "id": 19,
@@ -124,7 +180,11 @@
       "question": "Our head teacher is very ______. She never gets angry.",
       "options": [],
       "answer": "kind",
-      "explanation": "不生气说明很亲切温柔，填 kind。"
+      "explanation": "不生气说明很亲切温柔，填 kind。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a097b270e85d93bfbabd93e6801bb0ef08528621.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/eda5a501901a2921d598e8ba4b149ba57ba8e2e1.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "有礼貌的"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "polite-有礼貌, clever-聪明, strict-严厉, quiet-安静。"
+      "explanation": "polite-有礼貌, clever-聪明, strict-严厉, quiet-安静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e400f44eb96894f1f96f1ac9ed6d736e0823fb36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/16/16f5756897c9440fe789145ca9db7cdb714a0d5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a31a61e94f3799a9385dab9966c4c22c9f5790c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41eaab877ca3a0e3aa14f5a4b7981f590e3c2bd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58bdb05d89f53f180c996b8f36a0691909770cca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0894311d2e4caf5d1796df142ed3c39a9022b27a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f88242698e13e1b19a2459d8d5551f8a16f21074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a1f0fb2909bff1046502ff2c748abe1d4a40e9d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/ebefdfcd1522fe0f2646a2e1b7d052998a6f233f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0f32c35722c51db28eace91e7324191f5bfc7e51.mp3"
+      }
     },
     {
       "id": 21,
@@ -164,7 +238,21 @@
         "亲切的"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "词义一一对应：old-老的, kind-亲切的, funny-滑稽的, thin-瘦的。"
+      "explanation": "词义一一对应：old-老的, kind-亲切的, funny-滑稽的, thin-瘦的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53c3377b28739746c53b962199b8a9d5df0a7e54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c0/c00dbbc9dadfbe1e232e93a729dd4752fade0abf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ef25ae00f40c8471ee44b720036abcc25e96cee.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf48095db4e17be217019df7119028e9e8365847.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6ca0fa2674cdc58af08c183fdf771041a9fedc14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8baacc3e56af03f7297c573f7b12b80aeec8669.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99404fb5065d76dccde3bbc67fc2d605b51b5051.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d6dc08ba1a20c345947101d4b9fa97cf1121a02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06ea300000a0e69697856de2d6c670552eeab258.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad20c117beb25a9bbb14c26e152713dbf9823c51.mp3"
+      }
     }
   ],
   "knowledge": null

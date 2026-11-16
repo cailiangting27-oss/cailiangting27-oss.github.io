@@ -16,7 +16,11 @@
       "question": "“三衢道中”的“道中”是指在去三衢山的路上。",
       "options": [],
       "answer": "对",
-      "explanation": "“道中”即路途中。"
+      "explanation": "“道中”即路途中。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5fd079e674997759873f1e2bf3f153165299041f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac79e40a3259d22d16b9266d7f0b03849a25691d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "《燕子》文中提到的“五线谱”是指天上的电线。",
       "options": [],
       "answer": "对",
-      "explanation": "作者运用比喻，将电线比作五线谱，燕子比作音符。"
+      "explanation": "作者运用比喻，将电线比作五线谱，燕子比作音符。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc4baafe1fe90f1772c517f1a220716aaede6ad6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f7c0d91cb46fad453665e07eeb80009e9a0f70e.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "“芦芽”指的是芦苇刚长出来的嫩芽。",
       "options": [],
       "answer": "对",
-      "explanation": "“芦芽”是芦苇初发的嫩芽。"
+      "explanation": "“芦芽”是芦苇初发的嫩芽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5fcbfbb9cb548d88f9710d463686b4ca2c3c19b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f964e17e4d1f1b01751a6f794447db9074f6261c.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "记录卡中记录“昆虫的习性”是植物记录卡的核心内容。",
       "options": [],
       "answer": "错",
-      "explanation": "植物记录卡核心应是植物的形态、颜色等，昆虫属于次要关联内容。"
+      "explanation": "植物记录卡核心应是植物的形态、颜色等，昆虫属于次要关联内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24176eb33b0d2f38e8aa826da5d13a827b8101ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/263a62f90a906eef7bcb98974d6c742deb6aafd3.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "动作"
       ],
       "answer": "背景",
-      "explanation": "通过天空、春天的景象衬托燕子的飞行。"
+      "explanation": "通过天空、春天的景象衬托燕子的飞行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6d1ee5a523ccccf2d36df97fd66bb9c86245e863.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab9ff81dac9b1eb8ac290529ff20724df44557d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b13d33a52865faaa847dae41e89930b55157dbf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b12f1daaeca8d8fd0ae33b483ca13093272dd23.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9d9827827e1cd5727fbd2ce65c9c5723ba38579.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/013b986806829626970c7d5e99f258b77ba1cc8b.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "写出了燕子飞得很慢"
       ],
       "answer": "写出了燕子飞行的姿态轻快",
-      "explanation": "“横掠”指燕子飞得低而快，轻轻贴过水面。"
+      "explanation": "“横掠”指燕子飞得低而快，轻轻贴过水面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff5c27372defadb21051dc6b532b31a74c2bda50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/7581aad48c09c4664f7f834f035007b6506ec5df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d4187dab51cf97182e53239f5cfeef8c3924c47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78cc5050c6f6be088c49ceb22f0fe8da9de9ee5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c925b9aab4a12ae5e4e1ea748b429a3b46de2fc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5db65ce330d5f1aa90128d784d402039d9088356.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "茂密的绿树"
       ],
       "answer": "湍急的瀑布",
-      "explanation": "诗中未提及瀑布，只提到了山行景色。"
+      "explanation": "诗中未提及瀑布，只提到了山行景色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/011a23a6ecca0f729d09d2b23e0557835e039c09.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b8d1bbcd9876fb036b4039aa1fe71b186d229909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd86e2b2a65d1f7636cf28eedb1dab262e10b129.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28bfad33631386a00d03bbba61820bd5700be954.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e65947d895ff4f3bf4d4f4134cf44116d4cd8c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35392783be61b367ccf5480115fddcdbf7dd3920.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "不好，沾字太简单"
       ],
       "answer": "不好，沾字更轻盈且生动",
-      "explanation": "“沾”字极其传神地写出了燕子在水面上划过的轻捷。"
+      "explanation": "“沾”字极其传神地写出了燕子在水面上划过的轻捷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/573d97add0bb766b8cbfa984321b291b67a6a8fc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b5/b5d6c0813a9746da89e9fde6d75abd4d9fcbfd0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddbb31a29c54ef08fa9962d870096460fd208493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/4508d96b75522ed107fe0ed5aa7f92e42ae67f66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b0/b055808f1b4b9b2051e2c658481fa9ece5ce39fa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d0af545d3e74693bd1248cd0ffb4871e0a30be1.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "描写燕子飞累了"
       ],
       "answer": "赞美春天的生机与和谐",
-      "explanation": "借自然美景表达对春天的由衷赞美。"
+      "explanation": "借自然美景表达对春天的由衷赞美。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/403f956860d843a2e769d1a3100865f4318668bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9eb99f9a63d80ffde4c1e0a6cc5304e803bb17f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f662a87aa8cde040394681c78d6fd0f400c9d66d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b6126091c0774df4517c3c408d3c1877b7d9ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/7212788998dd4a071c4897cd86ca290f3434b2bd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f7/f7a394a82d69e1586d3200d32bfa3792af7ed5f4.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "电线杆上的痕迹"
       ],
       "answer": "燕子如斜风细雨般飞掠湖面",
-      "explanation": "动景（横掠湖面）最能表现生机勃勃的趣味。"
+      "explanation": "动景（横掠湖面）最能表现生机勃勃的趣味。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/347e0b6d0a11008080ec276c3fef3752ff792c68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e13692b17ed52be7aee8c6dac40809ae74f3a579.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65506f0220aa2832242a7ae609047dfd0fd08f31.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32c571499c3da742563f6ef7daaf3fb2cc33fabf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edd90b96a9783cbfb534fafba771a3d943f45920.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10d5958f646b160d0401c6c6a28842d6b9ebb515.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "《三衢道中》中，“（___）”字代表诗人划船而行。",
       "options": [],
       "answer": "泛",
-      "explanation": "“小溪泛尽却山行”。"
+      "explanation": "“小溪泛尽却山行”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6aaa436525ccf797617e2947cd4c2685c3b7efb8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a11c9a7d0b760f145b730b85b69fb8e1d46f3abf.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "燕子剪刀似的尾巴，是由翅膀和（___）凑成的。",
       "options": [],
       "answer": "羽毛",
-      "explanation": "根据外形描写填空。"
+      "explanation": "根据外形描写填空。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/0717dbdf06caa4c8c4a12eb7d29fb331a9ebecc6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/74c44d53f3129ea4af248cf98c642e4348812f68.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "休憩"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "本题考查燕子外形、动作、静止不同状态的词语对应。"
+      "explanation": "本题考查燕子外形、动作、静止不同状态的词语对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb40b96e688a992e5ffaf3501ee14ae5ebf0b228.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a7febb7ca181c35e51992ed264ca5c805c85cb3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d86da731d0aebde753ac962d3bda2ee8f36acadc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/150c4e5fec0f9febcf2612e3ae946c325ce514c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/015922fec186d22fb1c8aeb7d77fb911f3ffdbc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82a5582879c2ddbeea9726ecee0ca16c03c29ed2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3ec6d0ba4a91832b27c930f74e59478137427cec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9d9827827e1cd5727fbd2ce65c9c5723ba38579.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a216050dd0db9298b4b36a6621a8b0482f442c8d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85b5d637d31e3b0cf32b9b1d08ec0864f94025d5.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "三两枝"
       ],
       "answer": "A-1,B-2,C-3,D-4",
-      "explanation": "从文章及诗句中提取关键特征。"
+      "explanation": "从文章及诗句中提取关键特征。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5e9ef28fa983bfad6a37a0a8dc8d5c6d50941f80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/89/8957b4e45d21c4ba92db67c8d1743253fb289e0b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84746c6e5fe3c98697adfe1a1e0712b0e662221e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae1d3b994fedce67dd1b2c45291109f955802b99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d39fceb870eb6825ffbef1748eb4fd0e6ca578c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f5/f5e13e0c32a800a1b44e15c7435776d829771b15.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f413d72c0b1851a8f01151d3448586514447dad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7720f8ea0aba7de47ac932a47e89cb84e5284526.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2155dfa859bca096f4ffc8f5def5bfe9c105cf7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3946b7e915e13fad2f01adfe8a23abbe1f0aaef1.mp3"
+      }
     },
     {
       "id": 22,
@@ -224,7 +336,18 @@
         "大地"
       ],
       "answer": "春风,在,微微地,吹拂着,大地",
-      "explanation": "基础的主谓宾句式排列。"
+      "explanation": "基础的主谓宾句式排列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77685690283fba5f2da69c8f2d4af8718557fa7f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0878f35b88f62e38d69e09cdff207aec9351bb4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10adf9f0b53419c024bbbc87bdea83c1b7b527f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/686b703f41f3d5f33b3f36dc2444e59469326078.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fc64bf5a573f63bd2339ece076d81d528da8841.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/656b916e94fefb57b30080ccc1be1ceaad198698.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31c2b1831d0996e86e5482a4a55b31ecac963442.mp3"
+      }
     }
   ],
   "knowledge": null

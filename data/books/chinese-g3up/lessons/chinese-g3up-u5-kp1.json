@@ -21,7 +21,17 @@
         "觅食习惯"
       ],
       "answer": "静态外形",
-      "explanation": "通过颜色描写展示翠鸟静止时的样子。"
+      "explanation": "通过颜色描写展示翠鸟静止时的样子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0f98eff5258ecd19d825c4e192bd82d51ce8c21.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/048b5742b4be22f5dcb0dee98672ee9a83cdeaf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da1de4e050b3d816e6e3a0ed5d82977abbba7dd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c8bcb3c1cddb68de92f04ff7887154a5653a504.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b900d0db7932bc36d9528dffa37277c9516b239.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/9040145208fc40c33b058d5a73c9fe3ded2073fd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "只写外貌不写动作，导致描写呆板",
       "动作描写不具体，仅用“很快”概括而没有描写细节"
     ],
-    "tips": "可以先给观察对象画一张“速写”，记下特点，再用录像机般的眼光观察它的连续动作。"
+    "tips": "可以先给观察对象画一张“速写”，记下特点，再用录像机般的眼光观察它的连续动作。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e4/e498a87b635aec9acc6c1169e56dc925a0561212.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d9/d9920ef09f9bce0c91154832c3a573ab41958740.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9e/9ec242041aba4d08b924ce0cbefc00c56b0944e4.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5e/5e527f6836d76ad7d683fbb6a92011ea06a7cf40.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3e/3e1a57fa6dcd4733546ff2dc73afea5deb8d81c6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/76/76ffc68dd4d7ab07464fd499f64fb3a7f727375e.mp3"
+      ]
+    }
   }
 }

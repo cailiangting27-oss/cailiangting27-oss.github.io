@@ -16,7 +16,11 @@
       "question": "'take a deep breath' 的意思是'深呼吸'。",
       "options": [],
       "answer": "对",
-      "explanation": "take a deep breath是深呼吸，常用于缓解情绪。"
+      "explanation": "take a deep breath是深呼吸，常用于缓解情绪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afc64e1f92a92c932f149a085e3108b200a65f15.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d2/d297b2182eb87e99783f507123b03654a8e7c40e.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "当别人生病时，我们可以建议说：'You should see a doctor.'",
       "options": [],
       "answer": "对",
-      "explanation": "see a doctor意为看医生，是合理的健康建议。"
+      "explanation": "see a doctor意为看医生，是合理的健康建议。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/993bce7e6add50f16ccb3d90928b5a1cd275e770.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b19f04177bc9beb4eab2be0d5f91a0d7d455c27.mp3"
+      }
     }
   ],
   "knowledge": null

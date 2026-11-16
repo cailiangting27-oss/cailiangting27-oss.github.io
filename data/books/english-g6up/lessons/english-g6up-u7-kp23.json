@@ -25,7 +25,21 @@
         "飞行员"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "coach-教练, pilot-飞行员, factory worker-工厂工人, writer-作家。"
+      "explanation": "coach-教练, pilot-飞行员, factory worker-工厂工人, writer-作家。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0cf4908a7739d8a6b631a894df056c06643dfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c63c8ec7f6e2308874076f269e863af55d2cc22e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/eec7121ebf641c6e938d95dca3f1fa2a86010126.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4db243b9339ff349c8bd4bac24000c80eb60a05a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe28f10d2c6dab4e315f2659adaa6a4f16b5e4b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a9d94ba2aa444b03f1da0db28b02d89e7f1c575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/baf52ac2235a3bb187c3232993e622da49808750.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab56b347d4a6362fcb91f1969402716113f7d25b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/58e7a1cbbe9791c3cc335d31b9860918d6536c6b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/4456522272162332346e294223ed2cb9e07b56bc.mp3"
+      }
     }
   ],
   "knowledge": null

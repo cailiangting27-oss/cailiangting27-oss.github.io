@@ -16,7 +16,11 @@
       "question": "现在气象员只依靠超级计算机就能发布准确的天气预报，不需要人工参与。",
       "options": [],
       "answer": "错",
-      "explanation": "天气预报需要经过人工集体会商后才会发布。"
+      "explanation": "天气预报需要经过人工集体会商后才会发布。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3d74af99219b0678482fd549fc0cbf908ff6f6b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/63/63d1bee3c28b27b12a4578e21131565e8bf2d2a0.mp3"
+      }
     }
   ],
   "knowledge": null

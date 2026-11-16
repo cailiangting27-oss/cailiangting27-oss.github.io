@@ -25,7 +25,21 @@
         "狼"
       ],
       "answer": "A-2,B-3,C-4,D-1",
-      "explanation": "龙飞凤舞，鸡鸣狗盗，狼吞虎咽，老马识途（此处为老马气横秋由于题库受限，改为匹配结构：老马-气横秋虽不完全是成语但这四项满足配对）。"
+      "explanation": "龙飞凤舞，鸡鸣狗盗，狼吞虎咽，老马识途（此处为老马气横秋由于题库受限，改为匹配结构：老马-气横秋虽不完全是成语但这四项满足配对）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf1bfbf7f38dfac7f509990ff08dcc95db72fab3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e18acdef2f8d7df34726e7c1829068f4444513ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9416c8eda11f1b7aac5429d308d17afc2941e869.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69987d6f594b907d225f41183db9be6b3fc3c9f9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a90d97eddfa2a66daffc1759b7cd46752b6b606.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a3cbce7619689947f3384def0fdea4b4ade6b587.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/075e4194fa8f2a317026ec6a0f614f295a4b45a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51093a2d5833ecc0e47ba254e6a44877e2dc20b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84d60844b7071d622e12c0c83abe5abc85c746a3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9e2f4d11f84b6d8fd08f5764ff4fac2c09f70af.mp3"
+      }
     }
   ],
   "knowledge": null

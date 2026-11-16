@@ -21,7 +21,17 @@
         "shortes"
       ],
       "answer": "shorts",
-      "explanation": "常用复数。"
+      "explanation": "常用复数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/81/813e48ddd0bdd225d94983a93eca79b5430cc287.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e32d15b246e504af33cd10eb2ad2222215746fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0ea18e82511e6bda2a7ff9078a831baafff7437.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3543c68e2a3e20594115b8f54f9a0ed5bcefc9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/db/db95e984c71d8cc690ed224dff73e736f95a9d23.mp3"
+      }
     },
     {
       "id": 3,
@@ -37,7 +47,17 @@
         "short"
       ],
       "answer": "shirt",
-      "explanation": "shirt = 衬衫。"
+      "explanation": "shirt = 衬衫。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/73f0347006089cae2590f531cc7f50dfc6ada3fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/faa5d68302694fc7e03e47ccc30f838bb55ee6c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e32d15b246e504af33cd10eb2ad2222215746fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/158b1ce851a7e211ec4c2fcd634439801c72ca0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0f4ea7d91495df92bbac2e2149dfb850fe81396.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/963b4378eaa77d23eb491ee57de3c3f7e8fb6de8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -47,6 +67,15 @@
     "common_mistakes": [
       "trousers 当单数。"
     ],
-    "tips": "裤子短裤成对，常用复数。"
+    "tips": "裤子短裤成对，常用复数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/b7/b789314438161413730c146bff8d86a71156a547.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ed/ed016caf62a45943e4899394d767c488d49253a5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/be/be140da6eb8b00ce8f897f9dc0ac75c5879b503c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/46/46286d7b814088fa8f20117c51331f59c5bf98a3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b4/b41549de9b76a6e3632c0995bc4b975673ac595e.mp3"
+      ]
+    }
   }
 }

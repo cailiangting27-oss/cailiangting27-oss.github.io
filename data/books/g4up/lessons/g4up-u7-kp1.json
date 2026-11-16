@@ -16,7 +16,11 @@
       "question": "条形统计图是用直条的长短来表示数量的多。直条越长，表示的数目越大。",
       "options": [],
       "answer": "对",
-      "explanation": "条形统计图的特点就是用直条的高度（或长度）反映数值大小，直条越长数值越大。验算：概念符合统计图定义。"
+      "explanation": "条形统计图的特点就是用直条的高度（或长度）反映数值大小，直条越长数值越大。验算：概念符合统计图定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69efa066f2429161cbcd317f7ba2be700deb903d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d031867d736324a1fc80d187664c66642030d3be.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "绘制条形统计图时，每个直条的宽度可以不一样，只要高度准确就行。",
       "options": [],
       "answer": "错",
-      "explanation": "条形统计图中直条的宽度必须一致，以保证视觉表达的公平性和美观。验算：统计图规范要求等宽。"
+      "explanation": "条形统计图中直条的宽度必须一致，以保证视觉表达的公平性和美观。验算：统计图规范要求等宽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a6/a687b1583f4b7fd78f2054fd357e8239f2424be7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1214f0793d1ad7e6ba8883a93f610bf47b91992.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "直条的间距"
       ],
       "answer": "直条的高度",
-      "explanation": "条形统计图通过直条的高度（纵轴数值）来表示具体的数量多少。验算：定义检查确认。"
+      "explanation": "条形统计图通过直条的高度（纵轴数值）来表示具体的数量多少。验算：定义检查确认。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/982cf3c81b82c5dbacbad6e033c126052789a869.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/21/213459c49084978dc7f39e821319f27de7392503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/80d12e534269c15a02a83a1bbffd0bc58532049d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a72ae78f309ce74300d5f79078b18bc5aa3a9ce8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/40c89c7d3b9f94c7efada2cfabe5867897f30f60.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/488566c6362ad5d8cae236ddfe9753a438cddfb2.mp3"
+      }
     },
     {
       "id": 13,
@@ -59,7 +77,17 @@
         "任意位置"
       ],
       "answer": "最底端",
-      "explanation": "统计图的刻度从 0 开始自下而上增加。验算：绘图规范。"
+      "explanation": "统计图的刻度从 0 开始自下而上增加。验算：绘图规范。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26582ace2ab79df8eb277114532001dd8512025e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6f/6f8805fae573e2152905ac4bc3d55e3371bfd3ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3af342d7f06b16ddc1fdee3a783e7a0542843d6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/910253ea0c16efe6db83ffabca75e5101f422c7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f422c17cbdb35714cfa51665d0067a73e8a0fd8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f78b744527155bdd1463155402216e3e5c26d3b.mp3"
+      }
     },
     {
       "id": 16,
@@ -75,7 +103,17 @@
         "单位名称"
       ],
       "answer": "横轴",
-      "explanation": "在常见的纵向条形统计图中，横轴通常用于标注类别名称。验算：结构组成。"
+      "explanation": "在常见的纵向条形统计图中，横轴通常用于标注类别名称。验算：结构组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/962d886d3b175ba910e04b7f5a26626f3017e163.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/7540b4d180285f2885b22304e27a95410f8ecd4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/379fc8e343a760aa3ac88da6786cbd48c57477b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93b7342afb4319e564ecbe2a8ec5bf59d36c1745.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e0225610e0bbd1ebc7a4404eda21a059f36af73.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d3de1cb28c1d6ef59c1fd8f1e52cc93b0a77285.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "直条的宽度不一致或项目之间的间隔不相等。",
       "忘记在纵轴的顶端注明单位名称。"
     ],
-    "tips": "绘图前一定要先写上统计图的名字，画完直条后记得在直条上方写出精准的数值。"
+    "tips": "绘图前一定要先写上统计图的名字，画完直条后记得在直条上方写出精准的数值。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0d/0dfa671e730aad199656a40a226d3b10b964f85a.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/24/2435251a4b405bdddafd552f13949c89778d8703.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/12/122b8e20b15e579b37cb270f1453999e4f9593ad.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/09/0961c981db602064ffaf9e17c7dc156c8155d4de.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6c/6cc9ed6b49c9978b59c95a700ae0168dc9ca3315.mp3",
+        "https://api.clthuanxie.cn/cc-audio/52/521028d3a5e51c99bbe59e6d507244e16da84b19.mp3"
+      ]
+    }
   }
 }

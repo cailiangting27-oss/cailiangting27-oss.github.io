@@ -16,7 +16,11 @@
       "question": "长方体有 6 个面，而且每个面都是长方形。",
       "options": [],
       "answer": "错",
-      "explanation": "长方体有6个面，但有的长方体其中两个相对的面可能是正方形。"
+      "explanation": "长方体有6个面，但有的长方体其中两个相对的面可能是正方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/503bd54344cada533294b0d8f4a2b1df0bf165cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb4fde8103c911e120549ced876e53e8311916be.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "钟面上，短针是时针，长针是分针。",
       "options": [],
       "answer": "对",
-      "explanation": "这是认识钟表的基本常识：短的是时针，长的是分针。"
+      "explanation": "这是认识钟表的基本常识：短的是时针，长的是分针。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/704fc0f78265e9724cfa337a068c0d3578903959.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6cc80b3c4c54c4e18f44f7f0f2258dfd11d47b4.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "6时"
       ],
       "answer": "9时",
-      "explanation": "分针指向12是整时，时针指向几就是几时。"
+      "explanation": "分针指向12是整时，时针指向几就是几时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/411b5717e6d40ffb4a7e605d57df6450ea661f68.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b44cb6bd592908665f043b9b6231647fb1df6f33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8cfd45ab44471e7769f21b7cb27dd6ff0193cdad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/120cadb2fd0b81fb244f618055cae64d4f722305.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aeddc98579a6125c189ce09c73036fa9a700b009.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "球"
       ],
       "answer": "球",
-      "explanation": "球表面是曲面，且往各个方向都能滚动。"
+      "explanation": "球表面是曲面，且往各个方向都能滚动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e646631e4c6b34f59396eeded904baf1d6307003.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3da5aa4b783dad84f2d1223df9ae3c0a0b569e2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94710fee4ec6ec8609b376e9eee60849d2a4d5de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2af96b8678be155abae6632f7dd29e92b461bdf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/581dc4d49fedef2e0dc2ee3e4c7a2bb4889ebb59.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "1时"
       ],
       "answer": "10时",
-      "explanation": "要求现在时间，用后来的时间减去经过的时间：$11 - 1 = 10$。"
+      "explanation": "要求现在时间，用后来的时间减去经过的时间：$11 - 1 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a376f74eeb0f137e2668bf631c7aaaa67fc9f4f5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f27d6d638c1864c6596162a331b3ef267d947f68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64eb739a36712bc607d428c226bff1d7eabb563e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39f6196f68187177f7529046b52e530880b07bc3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "长短针看反：将 3:00（时针指3分针指12）认成 12:15（误把分针当时针）",
       "图形特征混淆：认为圆柱在任何方向都能滚动"
     ],
-    "tips": "区分图形看平滑面，区分时间先看分针再看时针。"
+    "tips": "区分图形看平滑面，区分时间先看分针再看时针。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/80/8073f5e072e85983573358f69acdfcda8eaadcfc.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/db/dbdc55749237cddf770bda4a19892e22e81c217a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6e/6efc3e054efb8851203d3a798d52b37781ff90a0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/875d12d02c1d29424fbc0282aafeb1efa66f3dea.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/bc/bc1daf4d00a4fa307e8101f3485552c1a93d1c3a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/dc/dcddf5a09242feb5b596c4e9cf749356cfdd856e.mp3"
+      ]
+    }
   }
 }

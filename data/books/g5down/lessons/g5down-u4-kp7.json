@@ -21,7 +21,17 @@
         "45/10"
       ],
       "answer": "9/20",
-      "explanation": "$0.45 = 45/100$。分子分母同时除以最大公因数 5，$45 \\div 5 = 9$，$100 \\div 5 = 20$，得 9/20。"
+      "explanation": "$0.45 = 45/100$。分子分母同时除以最大公因数 5，$45 \\div 5 = 9$，$100 \\div 5 = 20$，得 9/20。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/55/5529ce968e0c25302b4878fdf74cf63522a7e4ab.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/389ab0736ce9dbfa98d1a5cacf96170b124e0ae5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48e336f420bd6da953752be39549af3453b449d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3eb4d53b2e5b4753a0a8cd1bb1ffe5ce8a8969.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79a4fdbc027617c5a7655a7842ab3797566c996f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/1093b80049890f70630aa399dfc9d61cfe94ac59.mp3"
+      }
     },
     {
       "id": 18,
@@ -37,7 +47,17 @@
         "0.75"
       ],
       "answer": "4/5",
-      "explanation": "统一化成小数：0.6；$2/3 \\approx 0.667$；$4/5 = 0.8$；0.75。0.8 最大。"
+      "explanation": "统一化成小数：0.6；$2/3 \\approx 0.667$；$4/5 = 0.8$；0.75。0.8 最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/548a23c66f96ec57cb81a259f47a6c3369ae4cfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fb/fbccebab4a05483ba1b7ce5c12688ac8f69ec024.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8792c02824141504af55abd0bbe54ed6f5e38fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b298eb3053d177170d500844cf73e7b7c4c8c06e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cf1aeac0372e10da230a32e74c9b6e68dca7342.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/770e257eac4ecb21cc7cb13a553177b4fd93aa0a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -48,6 +68,16 @@
       "分数化小数时分子分母位置颠倒",
       "小数化分数后没有约分成最简分数"
     ],
-    "tips": "熟记常用分数如 1/2=0.5, 1/4=0.25, 1/8=0.125 等可以提高计算速度。"
+    "tips": "熟记常用分数如 1/2=0.5, 1/4=0.25, 1/8=0.125 等可以提高计算速度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/23/2379ef9e7a1d539fa534e5a1a8520f44ed1a0244.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4f29c265d3b1c56315dacbdca6d47e6c6a70855d.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/52/522a91b3d6de4f314642ffaa8575c103ed453197.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/44/44197c8f641a75ac7c3fa7caf5187647dfbb28c0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9c243dddefa61a95cb53b742c6c1f90e2642c2f5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5a/5ae49b20dbb78fab9ffa2280a84c27ecd39390ac.mp3"
+      ]
+    }
   }
 }

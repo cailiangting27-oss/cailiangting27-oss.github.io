@@ -21,7 +21,15 @@
         "sunny"
       ],
       "answer": "windy",
-      "explanation": "windy 有风的。"
+      "explanation": "windy 有风的。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5a53260b3d6e1d0d9d9fdd4b842577fa263c195e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "How are you today?"
       ],
       "answer": "What's the weather like today?",
-      "explanation": "固定句型。"
+      "explanation": "固定句型。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/f2/f24d135c348d6a82968d3f06d5e26e6177b95cd8.mp3"
+        ]
+      }
     },
     {
       "id": 7,

@@ -16,7 +16,11 @@
       "question": "晚上 10 时用 24 时计时法表示是 22 时。",
       "options": [],
       "answer": "对",
-      "explanation": "普通计时法转 24 时计时法，下午及以后的时间加 12：$10 + 12 = 22$。故正确。"
+      "explanation": "普通计时法转 24 时计时法，下午及以后的时间加 12：$10 + 12 = 22$。故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a381dcded48d2ed6da124255b3156cdbc466fefb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/102041fc888a0e26cf358940759990c3665a8f42.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "18时"
       ],
       "answer": "15时",
-      "explanation": "下午时刻加 12：$3 + 12 = 15$。答案为 15 时。"
+      "explanation": "下午时刻加 12：$3 + 12 = 15$。答案为 15 时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d16ab407442d67947a33f5f8fe978a75d9fb682f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b44cb6bd592908665f043b9b6231647fb1df6f33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b79cff29b483c5f6e6ac3fd4fee9494a7eae5c4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d9d57f9b1080d1ea7e1947930ac9f960c4add1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1bd6b652454180e7537dbeae6b420a47d91a546f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b228f3d2963a176af4a9f49b14c2ed11cb3c213b.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "凌晨 2 时"
       ],
       "answer": "下午 8 时",
-      "explanation": "24时计时法减 12：$20 - 12 = 8$，因为大于 12，所以是下午 8 时（或晚上 8 时）。"
+      "explanation": "24时计时法减 12：$20 - 12 = 8$，因为大于 12，所以是下午 8 时（或晚上 8 时）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e6fe8259e490cf868f7ef82671e3b49279c2eb5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95777edfce94c3f25098435bec214e10e5582904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba95f3e2047facb1d3b41c7a3be37c072586decc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50f1d89cd1bd281af5d7be7c815c0eb24d8ec54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/280ec44f84c0d6982296937d04acbae0ecec6961.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/7227963459989cc0263423433cbff0bad513a0cb.mp3"
+      }
     },
     {
       "id": 12,
@@ -64,7 +88,17 @@
         "晚上 14 时 30 分"
       ],
       "answer": "下午 2 时 30 分",
-      "explanation": "$14 - 12 = 2$，所以是下午 2 时 30 分。"
+      "explanation": "$14 - 12 = 2$，所以是下午 2 时 30 分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc96b89077bb29697326b1b952bbda01eff7321f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50b94fb4c7865ee2021dafcd71739252bb750130.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5ced97a26220f5d26df60552ced0ec9fe46832a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/42f5012f0c2398f5405d8fe9fbfa56ab0c1a0dda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b90b106336774e02f55faf42879cc11a3ada289b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03329a3faa893ebb85d8c4797ed9ac99dbf49b1f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "转换成24时计时法后仍然写上“下午”二字",
       "午后时间转换忘记加12或减12"
     ],
-    "tips": "转换时，看到“下午”或“晚上”就给小时数加12；反之，若小时数大于12，减去12并加上“下午”或“晚上”。"
+    "tips": "转换时，看到“下午”或“晚上”就给小时数加12；反之，若小时数大于12，减去12并加上“下午”或“晚上”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/15/15073334ad95b728942b284fdce0aaa15fedc570.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/13/13c9bcec0c7ccd4bc9c0a69026cb6b34b1ab4d44.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6a/6a7f3e44f28d6f6416f1e98fe9242929ebaf70d9.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/31/31fd77c05f08230f10f1188f65d8160f019f7b36.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/7a/7a98876c94a778c1ab301cd96c9f97421c4f8045.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bf/bfad62d701146679dffb589a7ce58ce5ffd0a7e4.mp3"
+      ]
+    }
   }
 }

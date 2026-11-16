@@ -21,7 +21,17 @@
         "长长的气球"
       ],
       "answer": "长长的气球",
-      "explanation": "气球通常说“大大的”或“圆圆的”，描述形状。长长一般形容绳子或道路。"
+      "explanation": "气球通常说“大大的”或“圆圆的”，描述形状。长长一般形容绳子或道路。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7dfb9e3c4d2e6a43551c4254f3427f8df56f19e5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98faa22526b790247cef4066098c8fbe8f6e8f2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8929ecdd2c1acc13d2427294c7a17c01aca17a61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c7fc7183badb7e5ed8e63afa6faaf3fc3ff04fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d881ab0c67a6b4e25865dd2c40c756f824e40f99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bff78b98f62d33bf0e5b564d4bf5c94f263383e6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "Juice 的中文意思是“果汁”。",
       "options": [],
       "answer": "对",
-      "explanation": "Juice 意为果汁，属于本单元核心词汇。"
+      "explanation": "Juice 意为果汁，属于本单元核心词汇。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/220d82c6295a8c59b3664bc1b0c471e2b0540eb3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c57a37b851ea8c68c8f9a1c321f7392a50f67b52.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "Egg 的中文意思是“鱼”。",
       "options": [],
       "answer": "错",
-      "explanation": "Egg 的中文意思是“鸡蛋”，鱼是 fish。"
+      "explanation": "Egg 的中文意思是“鸡蛋”，鱼是 fish。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a3/a3e1d2e1e9ac8e9af5e37dd292b202ddeaab1b2e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8aea202b3589ac2534c1c3673a0bfeebd93d80b6.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "red"
       ],
       "answer": "brown",
-      "explanation": "面包通常被描述为棕色/褐色。"
+      "explanation": "面包通常被描述为棕色/褐色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/4397006696d7c62dfba752fd8053ceec9e9fe970.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9166eeff1e5056d4b9be3fc9a74f67e3149ef467.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc74f4f071a5a33f00ab88a6d6385b5e6638b86c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78988010b890ce6f4d2136481f392787ec6d6106.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e80e78c4b98d9635bda657c0b144942c919e78b.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "milk"
       ],
       "answer": "bread",
-      "explanation": "hungry 意为饥饿，四个选项中只有 bread 是固体食物。"
+      "explanation": "hungry 意为饥饿，四个选项中只有 bread 是固体食物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d876eeb2a98ac699d09271c51a80a443bac8fd99.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ef879175424a11fbc65e95737df3df8822b8a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6ff291d8175b1d624892cd459444104fbd7ce87f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3a2c82540e1cdcf8a18fb95b1b361b7ca76944f.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "Cool!"
       ],
       "answer": "Have some juice.",
-      "explanation": "Have some... 是请别人吃/喝东西的常用句型。"
+      "explanation": "Have some... 是请别人吃/喝东西的常用句型。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e3899ac03f95d94c532832685cff13fbb783d8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f216409a4da74783f5fd404bcea4b8a87e5709fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ae57763adbee1622aa0f3fc464114ad5852f7cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ed47cae37721647bf0a8500ecfc900a028f584e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33754244c02265dc24dfec91d64a48410ec24831.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/7941bb71efb1539fb72c3a72a9cfcfa04e331746.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "egg"
       ],
       "answer": "egg",
-      "explanation": "前三个是液体饮料，egg 是固体食物。"
+      "explanation": "前三个是液体饮料，egg 是固体食物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b9bc20c1955c030be4c38815b2b3c3eb52066877.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf5dbf0ec57dff5da56d86c45b3bdd11849a065a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07ef879175424a11fbc65e95737df3df8822b8a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d5a45920a15adea049c8f22d569ff209625a43b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6024f12494d3a99d8bda9b7a55f7d140f328a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/5024ffd21553408bb7b87ee63ee744bb869307cd.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "Drink some ______. (喝些水吧。)",
       "options": [],
       "answer": "water",
-      "explanation": "中文提示为水，对应单词 water。"
+      "explanation": "中文提示为水，对应单词 water。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2e7291fda1109dcfe0747a96d595e6ad00e8391c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/50/508610b26777618566db0ea9a9a6498821e36aa8.mp3"
+      }
     },
     {
       "id": 18,
@@ -113,7 +165,11 @@
       "question": "Eat some ______. (吃些面包。)",
       "options": [],
       "answer": "bread",
-      "explanation": "中文提示为面包，对应单词 bread。"
+      "explanation": "中文提示为面包，对应单词 bread。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1bb2e0548b5c8fd587294e271a16574dda0b984.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6ceb40d1c1aef990ab354c2e24055626637a40a6.mp3"
+      }
     },
     {
       "id": 19,
@@ -124,7 +180,11 @@
       "question": "I like ______. (我喜欢喝牛奶。)",
       "options": [],
       "answer": "milk",
-      "explanation": "根据题干逻辑填入牛奶对应的单词。"
+      "explanation": "根据题干逻辑填入牛奶对应的单词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b105b1e0238b528f23330787bbcd3115a609f48.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/816b65b20fb8d6345692c13b749c86f2f108d109.mp3"
+      }
     },
     {
       "id": 20,
@@ -144,7 +204,21 @@
         "鸡蛋"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "cake-蛋糕, egg-鸡蛋, fish-鱼, rice-米饭。"
+      "explanation": "cake-蛋糕, egg-鸡蛋, fish-鱼, rice-米饭。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbc81324eced55db985db5865631ad52769a91b9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5ddc2ae17d5b13b4e5b3215177685116565f5058.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6024f12494d3a99d8bda9b7a55f7d140f328a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64875fcccaac069fcb3e0e201e7d5b9166641608.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6939278d66e34fcfb23131504217025e78249a8b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92468fdf7c343269f7f3e4bd81e5d22a0e19980f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b0e3a35bfb593a8d664fc3924b5753f11348e80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/9418e34854620a7a3452746bf40c17320894c292.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5216482077f532e769994436134288cfe0d90739.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c594371998fa19aa9944d6bf9748418d1e5438f9.mp3"
+      }
     }
   ],
   "knowledge": null

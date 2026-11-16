@@ -16,7 +16,11 @@
       "question": "把磁铁放入水中，它就不能再吸引大头针了。",
       "options": [],
       "answer": "错",
-      "explanation": "磁铁在水中仍然具有磁性，可以穿过水吸引铁制品。"
+      "explanation": "磁铁在水中仍然具有磁性，可以穿过水吸引铁制品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e93642ed6799d1eddae2fd28d2a05141094c70e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b7e365f5557085876924d27900215ef1aecd1da4.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "砖头"
       ],
       "answer": "很薄的纸",
-      "explanation": "磁铁可以隔着非磁性薄物体吸铁，当物体过厚或隔着强磁性物体时效果会减弱或消失。"
+      "explanation": "磁铁可以隔着非磁性薄物体吸铁，当物体过厚或隔着强磁性物体时效果会减弱或消失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/057bc6a5c9da0ff8e7b668351570cebc3ac65984.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/3000f9dff22392b10164da3574b4d6c4c4f72e62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c8575f5f9417b84662f882237a73a462fc31df87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3ccadb9f081ebbc9c962d580688f746ef07f8e3b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82f7931da0b82bdeb3f689fe8130655d07e1ec6f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e1ae0c06d7ea3132b4d7bb3029c2f44ecd2669f6.mp3"
+      }
     },
     {
       "id": 22,
@@ -43,7 +57,11 @@
       "question": "磁铁能吸引铁的性质，我们科学上称之为（    ）。",
       "options": [],
       "answer": "磁性",
-      "explanation": "磁铁能吸引铁、镍、钴等物质的性质叫磁性。"
+      "explanation": "磁铁能吸引铁、镍、钴等物质的性质叫磁性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18285ca03d82b326b4161036384a6dc6d8071e9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/89/894caa30cdc40f4139021d8727ad6cae36af9535.mp3"
+      }
     }
   ],
   "knowledge": null

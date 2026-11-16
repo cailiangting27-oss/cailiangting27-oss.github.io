@@ -16,7 +16,11 @@
       "question": "在扇形统计图中，整个圆表示总量 100%。",
       "options": [],
       "answer": "对",
-      "explanation": "扇形统计图用圆表示总量。验算：总量等于各部分百分比之和，即 100%。"
+      "explanation": "扇形统计图用圆表示总量。验算：总量等于各部分百分比之和，即 100%。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79ea5141c7df81c6a679bc533ec8486252537e4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/90d7d9b7ef6b439f3978188d1d994be5617fdb0c.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "扇形统计图可以清楚地表示出各部分数量占总数量的百分比。",
       "options": [],
       "answer": "对",
-      "explanation": "这是扇形统计图的核心意义。验算：定义符合概念。"
+      "explanation": "这是扇形统计图的核心意义。验算：定义符合概念。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f0f0e424e6d1be8f74863c3ad6567a5131ce210.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d91da085daa7445c57cbaccba4153b3649e5533.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "在同一个圆内，代表占比 25% 的扇形面积是占比 50% 扇形面积的一半。",
       "options": [],
       "answer": "对",
-      "explanation": "面积比等于比例比。$25 \\div 50 = 0.5$。"
+      "explanation": "面积比等于比例比。$25 \\div 50 = 0.5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/5325b2fd639173df2c640bcd073af812487385f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/728364bfe6aefa31c96c7e0774bd1a1b19423947.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "圆"
       ],
       "answer": "圆",
-      "explanation": "扇形统计图的基本构成是圆代表 1。"
+      "explanation": "扇形统计图的基本构成是圆代表 1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce182eae94372a0fd26f3de9acedeb774d7e8c1a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0a876c1b3fea7c91849e53fa731aed3478de8f84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3ffbf62afeb1f32cc65758ca3daf20433038e8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13e746cde9f1d04d946b7a9524f964f839ba09d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeb04a06782bb8b1c74b36ca8fcb9414ef90c9e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/743fbc459750edcb90e2f9b7bccad7076427e2b6.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "100%"
       ],
       "answer": "25%",
-      "explanation": "整个圆是 360 度，$90 \\div 360 = 0.25 = 25\\%$。"
+      "explanation": "整个圆是 360 度，$90 \\div 360 = 0.25 = 25\\%$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32b172dd62ff931dc50dfe4a5b147e4cbb8382a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e1164e36f85ec9e52c98e21dfb5546e9aac5cab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b46da6ec370309b911815fe6408207ff6503e6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b77a111bfdc31cd6f8e97fc4a429cdd806c49381.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fae31ecec0fc6f77b09e2dad840d052ca7f87f0d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c67e152c390361411e962cecc6623a71bec3fb1b.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "200%"
       ],
       "answer": "100%",
-      "explanation": "总量为 1，即 100%。"
+      "explanation": "总量为 1，即 100%。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d1688ddc140b925e9d58bac344fbf6c1ed01938.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b4/b46da6ec370309b911815fe6408207ff6503e6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/5366a7416787051ba2a7d670f802f331e490744f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fae31ecec0fc6f77b09e2dad840d052ca7f87f0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2274df6e341ccc6922bc585e48d7fe719f2ca845.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/677b793593b813d886516d2b1eaf183a59499fb1.mp3"
+      }
     },
     {
       "id": 12,
@@ -102,7 +144,17 @@
         "数值的大小"
       ],
       "answer": "占总量的比例",
-      "explanation": "扇形面积随占比改变。"
+      "explanation": "扇形面积随占比改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14cfda526c36f87e38f0e8c6ed88daf6d921dd80.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fa/fa406440c683e840504282be0fe2e954fb0d1ded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e709311b120c9eb46f816fcfedf523d0404ee6f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd8e4fcb49528042e0b9764756ff4f177b8bbe85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1907ebe4f9bc79d86da52bda10f20724bc61215.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/23/2349798ec1b29efdb29af9b3e111a47b59006438.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +170,17 @@
         "100%"
       ],
       "answer": "50%",
-      "explanation": "半圆是一半，即 50%。"
+      "explanation": "半圆是一半，即 50%。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/23e833d13575116792d4c3262f1848c9313c7053.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5e/5e1164e36f85ec9e52c98e21dfb5546e9aac5cab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b46da6ec370309b911815fe6408207ff6503e6b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b77a111bfdc31cd6f8e97fc4a429cdd806c49381.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fae31ecec0fc6f77b09e2dad840d052ca7f87f0d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67a7d4b7b942c09a6923eb5d563688edf670f34d.mp3"
+      }
     },
     {
       "id": 19,
@@ -129,7 +191,11 @@
       "question": "一个班级有 50 人，其中女生占 40%，则女生有 ___ 人。",
       "options": [],
       "answer": "20",
-      "explanation": "$50 \\times 40\\% = 20$。验算：$20 \\div 50 = 0.4$ ✓。"
+      "explanation": "$50 \\times 40\\% = 20$。验算：$20 \\div 50 = 0.4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/decd3946a61ecce996e01b8d546ab19cbee80e8c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/8464a78a9d1a4e1f8d3c6e6d0fbe1f7ccaf11659.mp3"
+      }
     },
     {
       "id": 21,
@@ -140,7 +206,11 @@
       "question": "在一个调查中，喜欢红色的人数占 60%，喜欢蓝色的人数占 25%，剩下的人喜欢绿色。喜欢绿色的占百分之 ___（填数字）。",
       "options": [],
       "answer": "15",
-      "explanation": "$100 - 60 - 25 = 15$。验算：$60 + 25 + 15 = 100$ ✓。"
+      "explanation": "$100 - 60 - 25 = 15$。验算：$60 + 25 + 15 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/adcece54a9e2ec94d919bb80467f9cd4600ed480.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/195eae913f843a25645a47e8fabe73729bae7f50.mp3"
+      }
     },
     {
       "id": 22,
@@ -151,7 +221,11 @@
       "question": "$400 \\times 25\\% = ?$",
       "options": [],
       "answer": "100",
-      "explanation": "$400 \\times 0.25 = 100$。验算：$100 \\div 0.25 = 400$ ✓。"
+      "explanation": "$400 \\times 0.25 = 100$。验算：$100 \\div 0.25 = 400$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/05d6a210ec2a5f2956667ab38e04e9cc901139df.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/008d4e16e06e6dbcf450bac423d194c26f78385c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -162,6 +236,16 @@
       "误以为扇形统计图能直接看出数量的增减变化趋势（那是折线统计图的功能）。",
       "计算各部分百分比之和时不等于1（由于四舍五入或漏算其余部分）。"
     ],
-    "tips": "观察扇形统计图时，先看总量是多少，再看最大的扇形是谁，这能帮你迅速抓住主要数据。"
+    "tips": "观察扇形统计图时，先看总量是多少，再看最大的扇形是谁，这能帮你迅速抓住主要数据。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a09bb3c39f13d60c93349a6d0da4ac21d30b9d30.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/49/49a0d83810e31eaffb3b558a175f5b1d0843c997.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f4/f46ff2cef187ea26bd98cb8eefb75cc802fd7dda.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/46/46e4c7d6ff9dd906b2d7c575755e3c1bdc20c613.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/df/df41aa40ca873a07a4f52f764aacc585c524dc5d.mp3",
+        "https://api.clthuanxie.cn/cc-audio/64/64c150240a56fe20ac54a5385dfabe19459cebc3.mp3"
+      ]
+    }
   }
 }

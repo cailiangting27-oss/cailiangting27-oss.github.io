@@ -21,7 +21,16 @@
         "are"
       ],
       "answer": "has",
-      "explanation": "第三人称单数用 has。"
+      "explanation": "第三人称单数用 has。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6a5d532bcf0e5562e575f4924c7b3fcbc80d16.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ff/ff87cea4a48b77342a2dbef29133a128abc52679.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6f39fbf678d4c03ca72f7d0c7b4f56fb09eb765.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f9e5802bbabc71f9275fccf122f5a52b8599f12.mp3"
+        ]
+      }
     },
     {
       "id": 4,
@@ -32,7 +41,10 @@
       "question": "形容词作表语时放在 be 动词之后。",
       "options": [],
       "answer": "对",
-      "explanation": "表语位置。"
+      "explanation": "表语位置。",
+      "audio": {
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef0c7f150a31ca1eb29545142f8f887d616378fa.mp3"
+      }
     }
   ],
   "knowledge": {

@@ -21,7 +21,17 @@
         "老爷爷"
       ],
       "answer": "大自然的导航事物",
-      "explanation": "文中介绍的是太阳、北极星等大自然的事物。"
+      "explanation": "文中介绍的是太阳、北极星等大自然的事物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/53d405be83e65c8dc60d10cad6f6103a05db4907.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74e116ce14355832f486f879c9a1a16ae1d61524.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50da04d30ee7c5ed5a3009cd5208c00cbbac4e86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74c7b14bdb3fde7efb766967766b155ae0a24937.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b02acb1796e977e813dfedcc72951805654856b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1e/1e21b60dd88dce81dddb99901dcd1d43d959e7c5.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在想象的世界里，所有的规则都必须和现实生活一模一样。",
       "options": [],
       "answer": "错",
-      "explanation": "想象的世界可以打破现实规则，进行反转或重构。"
+      "explanation": "想象的世界可以打破现实规则，进行反转或重构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b9/b937086646fab836e2e78dd4a8f42315e48e6173.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fcb51ea43b0a333533931daf552a659f9af39fb.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "物价的上涨"
       ],
       "answer": "谁的个子最高",
-      "explanation": "贴近学生对身体部位特征的直观想象。"
+      "explanation": "贴近学生对身体部位特征的直观想象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd13c258fa471501e1f3e605760eb0ba153ae551.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8cd41e0ffd9469b32530782b122f4057354b9b27.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/993f0d66aca84b3171cea2a82ed710b643d0cd0d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de630b22a0e4d280b21ca717941f0b9cb0ac2704.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/584396d1f2b35b063d65840552c55441c12aec1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15ec2de623411b4254075779a86f7963caf51639.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "枯叶"
       ],
       "answer": "彩虹桥",
-      "explanation": "符合“事物相加产生美感效果”的想象逻辑。"
+      "explanation": "符合“事物相加产生美感效果”的想象逻辑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/56fcd697d2f11fc144280f9f5371ed48606b9a7b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de4ad1941b656093d59aaa2624c78303df36b369.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f186d7ba0c2c924d98077d9957ada1fb8cfa02e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b63e0335e27fe9def6d6f483a42328cdb8680bf4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f9549522b2ea4e2038bb946d2e78ddde22ff0ebb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03bda476d5bf51a325dd14bcaa3a5d459aee4430.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "想象逻辑前后矛盾，没有统一的世界观设置",
       "过度天马行空而失去了事物本身的特征连接"
     ],
-    "tips": "可以试着从“如果……会怎样”的问题开始练习，把平常看来理所当然的事反过来想。"
+    "tips": "可以试着从“如果……会怎样”的问题开始练习，把平常看来理所当然的事反过来想。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/10/10a0109e9aa845f9101ef52837ee29e4f46faba3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/51/519cad292b1ed7c8f99ab8271822fb6ff00a1d6f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0c/0cb47beda59cc7156247f2f5a4242a5c2838eb0f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/c7/c74fc684d20182a5a68016e8d107a97d16235866.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/51/51f33b5cda416b2d0e9c4a109cbbe472dd371fe4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/61/61807380d484e5f6a1bf0591c2778738543fceaa.mp3"
+      ]
+    }
   }
 }

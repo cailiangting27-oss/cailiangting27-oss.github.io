@@ -16,7 +16,11 @@
       "question": "分针走1圈是60分，也就是1时。",
       "options": [],
       "answer": "对",
-      "explanation": "分针走1小格是1分，1圈是60小格即60分。分针走一圈，时针正好走一加格，即1时。✓"
+      "explanation": "分针走1小格是1分，1圈是60小格即60分。分针走一圈，时针正好走一加格，即1时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e63915d1b2235ca98f5531978cbf92c6cb955d01.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/749e526e1c4ea9d01a0d7e91282f259a240b84a0.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "半小时就是30分。",
       "options": [],
       "answer": "对",
-      "explanation": "1时=60分，60的一半是30，所以半小时是30分。✓"
+      "explanation": "1时=60分，60的一半是30，所以半小时是30分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f7ddb1f72f8a8bac4689c05c881ba8fa681d4b8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9b148f60c7ac4fc50df43b07de576917939ab4e.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "20分"
       ],
       "answer": "15分",
-      "explanation": "分针每走一个数字（大格）是5分。从3走到6走了 $6 - 3 = 3$ 个大格。$3 \times 5 = 15$（分）。✓"
+      "explanation": "分针每走一个数字（大格）是5分。从3走到6走了 $6 - 3 = 3$ 个大格。$3 \times 5 = 15$（分）。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2c36d93b6234644b85242d451cf66ff80e3367d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95d239833664e0f4fce7556579d8999bfc4dfea9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54252b9056a1cad0328f5f3d8226c1acfae03fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0847709906d5485d0bb5b30019da771173afbbe0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c564d9792146b5076fa02107d08a98892ee1024.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/101d825e1c99bf7cad3e911fd0fe27534423421b.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "米"
       ],
       "answer": "分",
-      "explanation": "结合生活经验，学校一节课是40分钟，40小时太长了。✓"
+      "explanation": "结合生活经验，学校一节课是40分钟，40小时太长了。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/05/058c63d2a6eda17c09e21b462642873583aacf01.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a34801ad9c1073d622f2b790e2e0631a49dc15eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d7416e2e22207b2c85fa5f0fd248730d22518cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/62/622f3c5acb0e3c96620f795bdd08896e2a5d9490.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9beaf0deb2a59fd258d5c688a029d095c5b462b5.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "100分"
       ],
       "answer": "40分",
-      "explanation": "1时=60分。$60 - 20 = 40$（分）。验算：$40 + 20 = 60$ 分。✓"
+      "explanation": "1时=60分。$60 - 20 = 40$（分）。验算：$40 + 20 = 60$ 分。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad6bd51a74d5e05c71221a0971f5c43f526cf9e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b9/b91da4801b2193daf992183bfa073d413d513487.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50737b67f1cc41c8a4a53c92b75c406ec4e3cfad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ecbac3a77b2a59446dee4df36624c801b8da3a10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a44f76bdba74d4a64c0f199443639a9d58725a8b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cefebd8c4d34ec5d3c2fae72ac1f6fbabd55815.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "30分"
       ],
       "answer": "15分",
-      "explanation": "1小时的四分之一是15分，生活习惯称15分为“一刻”。✓"
+      "explanation": "1小时的四分之一是15分，生活习惯称15分为“一刻”。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c34222ee9513245671b0c8816bf3ff814f656e57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ab330605bc0714b2b663eca71d3555e588f9282.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54252b9056a1cad0328f5f3d8226c1acfae03fe2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c564d9792146b5076fa02107d08a98892ee1024.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0847709906d5485d0bb5b30019da771173afbbe0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0bd1f86091f6865d84614afe08cbc624112ba8f.mp3"
+      }
     },
     {
       "id": 18,
@@ -107,7 +155,17 @@
         "24时"
       ],
       "answer": "12时",
-      "explanation": "钟面有12个数字，时针走1圈经过了12小时。✓"
+      "explanation": "钟面有12个数字，时针走1圈经过了12小时。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/3950664a3c2342444df19f539be76d7cc8846d9d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/58/5862af513110021d624608e9b8b9473fdf782769.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86b2de54925486ca8fbe495763e1883dff643b85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09f9a0059cc4ec3eec78193b3023609c41a4348b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/32d98dc00b29e1f1af54e7b0a3a3db7596231b54.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d49c60aad9f44923e717a2cae7349c562deb4ad.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "2时 = ___ 分",
       "options": [],
       "answer": "120",
-      "explanation": "因为 1时=60分。列式：$60 \times 2 = 120$（分）。验算：$120 \times 60 = 2$。✓"
+      "explanation": "因为 1时=60分。列式：$60 \times 2 = 120$（分）。验算：$120 \times 60 = 2$。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69039fb806cda13788142b65251ceeb30376cb9d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9cb9713949135a18092c79d2d65506f0d4aad02a.mp3"
+      }
     },
     {
       "id": 22,
@@ -129,7 +191,11 @@
       "question": "60 + 60 = ?",
       "options": [],
       "answer": "120",
-      "explanation": "$60 + 60 = 120$。对应2小时的分钟数。✓"
+      "explanation": "$60 + 60 = 120$。对应2小时的分钟数。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22909a6e3d02e0e295418481551a07d0c5b3ebd1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c187bec3b62751ffc825d8a9d81cfcbd80000c16.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -140,6 +206,16 @@
       "受长度单位影响，误认为 1时 = 100分。",
       "计算 1时 = 60分时，容易在加减法中进率出错。"
     ],
-    "tips": "可以用“分分秒秒聚成时”来记忆，记住60是一个完整的圈。"
+    "tips": "可以用“分分秒秒聚成时”来记忆，记住60是一个完整的圈。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/bc/bc0d7be498443f21b1bcf173f294aed1223d8201.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1d/1d522076cd92467166e7309d1f0231075053adb0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b2/b208685379ae901eacdbf01d4c670910fad94c80.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0f/0f3dde5b84da29aac4e6bc9203c040b19f27282b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a2/a2ce62af787f004cb2cbff9d86160e420ccb2dc4.mp3",
+        "https://api.clthuanxie.cn/cc-audio/49/49a832dec645bc7df8546db26395a95315f86f68.mp3"
+      ]
+    }
   }
 }

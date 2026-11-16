@@ -16,7 +16,11 @@
       "question": "二氧化碳的大量排放是导致温室效应的主要原因。",
       "options": [],
       "answer": "对",
-      "explanation": "二氧化碳是主要的温室气体，过量排放会导致全球变暖。"
+      "explanation": "二氧化碳是主要的温室气体，过量排放会导致全球变暖。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/30/30969be496daa4f20e2302e73b44240c8b0d3f22.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a0de50548c64f9a2a79a79127c206033b17d718.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "随地焚烧塑料袋"
       ],
       "answer": "随地焚烧塑料袋",
-      "explanation": "焚烧塑料产生有毒气体污染空气，不符合环保要求。"
+      "explanation": "焚烧塑料产生有毒气体污染空气，不符合环保要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24686bb4d8a7338539cd92eb590b011305872cd7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12508a2f7b977b7205e1c9b18c33524e60b76498.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df5e2d22254a9722f2c7420b9893ed0de7a79f05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd9ce0e5e8b9d41e23478ca10e4565c2f00edf5f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3477b761c4a8b1c0668350fc9fdd3fb3cc0e1ab5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df15f42b04d21d7a3146000abc2e19a8187abc67.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "水能"
       ],
       "answer": "煤炭",
-      "explanation": "煤炭属于传统化石能源，燃烧产生污染。其余为清洁能源。"
+      "explanation": "煤炭属于传统化石能源，燃烧产生污染。其余为清洁能源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3cb71a920a4fd424f190b18026388d49e61a800c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/35678d505f99409fedf402a12f83426ecdbd3e58.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4513be4f2a23d1de8bac50a4f3bdd94193591c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a4e4ea687f372366e711ecf94a46671bdf5dd6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbc1fcd2c8a67c1f6bc6dced62640a0f2b72f140.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46dff661f5e8f532fbacdd7963526a4a9ce40aff.mp3"
+      }
     },
     {
       "id": 20,
@@ -59,7 +83,11 @@
       "question": "我国力争在2030年前实现碳达峰，在（___）年前实现碳中和。",
       "options": [],
       "answer": "2060",
-      "explanation": "这是我国向世界做出的关于应对气候变化的庄严承诺。"
+      "explanation": "这是我国向世界做出的关于应对气候变化的庄严承诺。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d934ab0afb3fda408ba3fe1324cd2419eca956bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ef5be1988b84e9efda794f11aa8ea829aee569a.mp3"
+      }
     }
   ],
   "knowledge": null

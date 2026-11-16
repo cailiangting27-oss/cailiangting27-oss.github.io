@@ -16,7 +16,11 @@
       "question": "计算小数加、减法时，要把相同数位对齐。",
       "options": [],
       "answer": "对",
-      "explanation": "计算小数加减法，要把小数点对齐，本质就是相同数项对齐。验算：概念题无计算。"
+      "explanation": "计算小数加减法，要把小数点对齐，本质就是相同数项对齐。验算：概念题无计算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/721c4cee8e6e22cdff27c499c12d7c57b5a69298.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3df4d63d748c80faef9e0df57e2c74535d1cc2d.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "$0.6 + 0.4 = 1$",
       "options": [],
       "answer": "对",
-      "explanation": "$0.6 + 0.4 = 1.0$，按照小数的性质可以化简为 1。验算：$1 - 0.4 = 0.6$ ✓。"
+      "explanation": "$0.6 + 0.4 = 1.0$，按照小数的性质可以化简为 1。验算：$1 - 0.4 = 0.6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3e73f6cd2f628c3fdd05e9d1182b828703c64c9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53a4860e05e63c8297ba3c4de6ee42c41405f080.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "如果被减数增加 0.3，减数不变，那么差也增加 0.3。",
       "options": [],
       "answer": "对",
-      "explanation": "差 = 被减数 - 减数，被减数+0.3，差必然+0.3。验算：$1.5-1.0=0.5$，$(1.5+0.3)-1.0=0.8$，$0.8-0.5=0.3$ ✓。"
+      "explanation": "差 = 被减数 - 减数，被减数+0.3，差必然+0.3。验算：$1.5-1.0=0.5$，$(1.5+0.3)-1.0=0.8$，$0.8-0.5=0.3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b2bdbf1aa64d4da5fe6ae8cbf16fc559cc4022b7.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f0/f0ff0b9dc328de0f737051e6e45de83c22a55124.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "4.10"
       ],
       "answer": "4.28",
-      "explanation": "小数点对齐，百分位 $8+0=8$，十分位 $0+2=2$，整数部分 $3+1=4$，得 4.28。验算：$4.28 - 1.2 = 3.08$ ✓。"
+      "explanation": "小数点对齐，百分位 $8+0=8$，十分位 $0+2=2$，整数部分 $3+1=4$，得 4.28。验算：$4.28 - 1.2 = 3.08$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/3842b003c83ca76acc51820e3d3e9714ae57660f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6d/6d1f31f2c363a2d6203d51be0772d8367215324b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/782650dad14a47661ff5170fb27c2a5610214cf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47ffd93865bc60f6431831db2605565dffbb7509.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b44a2c2e9575e638d2722e4a2df06d8f007bbc9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dc/dc4366fd04e6f7f68923605241db99df0bc15c92.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "四位小数"
       ],
       "answer": "三位小数",
-      "explanation": "三位小数减两位小数，末位千分位保持不变（减0），差仍是三位小数。验算：$0.123 - 0.11 = 0.013$ ✓。"
+      "explanation": "三位小数减两位小数，末位千分位保持不变（减0），差仍是三位小数。验算：$0.123 - 0.11 = 0.013$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abbf400556f6d26f35502152ef2244d6f4ecc848.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61ea29d62b6f4ad22e5e4f041a8ec5264cae8e21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f52b225c7617f1e65f3c1388a5a38803bc3fbf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2eaf2b65f5d08af4117e446fa267cb471654626.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/423254dfc6f7e00cb7fef772a51207b329500fb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1a280a874c398b254ea98d76f95672f74db9564.mp3"
+      }
     },
     {
       "id": 8,
@@ -86,7 +118,11 @@
         "≈"
       ],
       "answer": ">",
-      "explanation": "10 的整数部分是 10，9.99 的整数部分是 9，10 > 9。验算：$10 - 9.99 = 0.01 > 0$ ✓。"
+      "explanation": "10 的整数部分是 10，9.99 的整数部分是 9，10 > 9。验算：$10 - 9.99 = 0.01 > 0$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/09bea979367b978bcdc7c4434ac7ccb23c35d0be.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/51e57b009b43558fb54414957796763561e00cb3.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +138,17 @@
         "1.7 米"
       ],
       "answer": "0.7 米",
-      "explanation": "第三段 $= 2 - 0.5 - 0.8 = 0.7$（米）。验算：$0.7 + 0.5 + 0.8 = 2$ ✓。"
+      "explanation": "第三段 $= 2 - 0.5 - 0.8 = 0.7$（米）。验算：$0.7 + 0.5 + 0.8 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f2/f2038ce4c8d58f96e4e0e38a058070edc831c17b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/de/de2f02d023d9e815a81684aa95c2fecacbb64721.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a99348e902d0d3f495df5ca0276a48573e040dea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e97f35874060bf3a327f75ab20047b227d9c31f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4cb4b501a066280debf578a6ae2c67d13855a9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c713fcaffb2d1524a10f8ac25778767e31593a3.mp3"
+      }
     },
     {
       "id": 12,
@@ -118,7 +164,17 @@
         "4.6"
       ],
       "answer": "4.4",
-      "explanation": "$10 - 5.6 = 4.4$。验算：$4.4 + 5.6 = 10.0$ ✓。"
+      "explanation": "$10 - 5.6 = 4.4$。验算：$4.4 + 5.6 = 10.0$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/747e5ee5438b4f7e1249def9bb704a529cc4e72a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/83/83883f9a9f04a04af0c790df93d414e14826cfb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e764b34bb9cf18ff85fc0a77c2cd10063248c10.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7aeac7cadded0458cdb30d967c7417ee46c505cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31918ec11813e2a958c673c0624094b8c07c76a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2ba77eb603a1008148ab75894fe7e5f6238aae3.mp3"
+      }
     },
     {
       "id": 13,
@@ -134,7 +190,17 @@
         "2.05 米"
       ],
       "answer": "1.95 米",
-      "explanation": "$1.45 + 0.5 = 1.95$（米）。验算：$1.95 - 0.5 = 1.45$ ✓。"
+      "explanation": "$1.45 + 0.5 = 1.95$（米）。验算：$1.95 - 0.5 = 1.45$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b8f3d28d1366faf7a4cbfd49a70bae8bb28d28e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4a49939e2090c1a428cce6dc190bd2584fffaa7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a415f160a8e7dda0183dc104cf4ee2a6862a3b36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e35df8fcaca4a4c28f64cce639b73241b2af7a8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/504fac60e91ff41fe55601fb08d2c0542c0712b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/0834d2bceac6aa95b3e8743b378a795b12203fe5.mp3"
+      }
     },
     {
       "id": 14,
@@ -150,7 +216,17 @@
         "5.4"
       ],
       "answer": "0.04",
-      "explanation": "原数是 $0.54$，$0.54 - 0.5 = 0.04$。验算：$0.04 + 0.5 = 0.54$ ✓。"
+      "explanation": "原数是 $0.54$，$0.54 - 0.5 = 0.04$。验算：$0.04 + 0.5 = 0.54$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b73798402e5000cdf245a00fd941e207ddb2e67d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/015b8dcbc023be1734f726ca9af614fbb5b87611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd83b0fb0ccee7235c6d06f29879a3df99887bb6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94001fceb861b5156473bdcea32d7cee18f1c6f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e764b34bb9cf18ff85fc0a77c2cd10063248c10.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7baaf404c27599517a5f14b546b326bb6104bfce.mp3"
+      }
     },
     {
       "id": 17,
@@ -166,7 +242,17 @@
         "0.909"
       ],
       "answer": "0.909",
-      "explanation": "比较整数部分：1 > 0；比较百分位：0.99 与 0.909，9 > 0，故 0.909 最小。验算：$0.909 < 0.99 < 1.01 < 1.1$ ✓。"
+      "explanation": "比较整数部分：1 > 0；比较百分位：0.99 与 0.909，9 > 0，故 0.909 最小。验算：$0.909 < 0.99 < 1.01 < 1.1$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c24c4daafcbea9278aea0857e23dcdd25ce4bb4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da414426cd871fc845e4c92941c81541bd1871c8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/715cf4cc66c307fa0a5e37e6f02176e1e11b1554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/4491f8b5ecc09d9de308ea37e6a23ad2dd66c256.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d9b4dd1b481ec4f1a5dc0da0dcbbf5d29631034.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f559b3adcdc7c43d59a168dc3b44a4893be6baa0.mp3"
+      }
     },
     {
       "id": 18,
@@ -182,7 +268,17 @@
         "计数单位大"
       ],
       "answer": "相等",
-      "explanation": "小数部分最大的计数单位是十分之一，即 0.1。验算：无。"
+      "explanation": "小数部分最大的计数单位是十分之一，即 0.1。验算：无。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9025de48d78e67a7bb7ce3c09f79755c64a1509a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6a69fd718415d2c27a3b49df05e5741b095f05cd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9be1b942e59db653edd2be0b831c6086465ae378.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1ee62a687fdd790402fc67177c50a2f43e561b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47867720113489e060d3ff5a1ab6c59341fa450c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d46aef7964861c65250727457f89e437691e7be.mp3"
+      }
     },
     {
       "id": 19,
@@ -193,7 +289,11 @@
       "question": "已知一个加数是 12.54，和是 20.54，另一个加数是 ___。",
       "options": [],
       "answer": "8",
-      "explanation": "另一个加数 $= 20.54 - 12.54 = 8$。因为后台只接受整数及题干要求，答案为 8。验算：$8 + 12.54 = 20.54$ ✓。"
+      "explanation": "另一个加数 $= 20.54 - 12.54 = 8$。因为后台只接受整数及题干要求，答案为 8。验算：$8 + 12.54 = 20.54$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06bcd43850081929b668558d0155a120289ba6dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/32/3216896bf4d9fc2648f360ac52ccfac31fdb9ffc.mp3"
+      }
     },
     {
       "id": 20,
@@ -204,7 +304,11 @@
       "question": "小明身高 1 米 4 分米，写成小数是 1.4 米。小明比 1 米 5 厘米的弟弟高 ___ 厘米。（注：1米5厘米=1.05米）",
       "options": [],
       "answer": "35",
-      "explanation": "1.4 米 = 140 厘米，1.05 米 = 105 厘米。$140 - 105 = 35$ 厘米。验算：$105 + 35 = 140$ ✓。"
+      "explanation": "1.4 米 = 140 厘米，1.05 米 = 105 厘米。$140 - 105 = 35$ 厘米。验算：$105 + 35 = 140$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12ec237c4c80cb3b43f06f597786a010bdca9664.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b6/b6e2fc40cc141c09ba53c3106261774793cc563a.mp3"
+      }
     },
     {
       "id": 22,
@@ -215,7 +319,11 @@
       "question": "计算：$18.5 - 6.5 = ?$",
       "options": [],
       "answer": "12",
-      "explanation": "$18.5 - 6.5 = 12.0 = 12$。验算：$12 + 6.5 = 18.5$ ✓。"
+      "explanation": "$18.5 - 6.5 = 12.0 = 12$。验算：$12 + 6.5 = 18.5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9f85464c51e47803ad9988685f82ce89d2356f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f01bca44859d8864e449665eee21dda149c0750.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -226,6 +334,16 @@
       "数位对齐错误：将小数的末尾对齐而非小数点对齐。",
       "漏点小数点：计算完成后忘记在和或差中点上小数点。"
     ],
-    "tips": "竖式计算时，如果被减数的小数位数比减数少，可以在被减数的末尾补0后再减。"
+    "tips": "竖式计算时，如果被减数的小数位数比减数少，可以在被减数的末尾补0后再减。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a0/a02e09eee662d1f3fa6706e5aa7368708de574b6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/af/afce1953845e496cb9995a8e86487c8556644ab5.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6d/6dc464859755502b07a31c9ecafe53f5f85602fa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/cf/cf51ea36da8f74b3a049cf6d19c19688d012682e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/58/58f628c14db5071e9d1e482f2ea1510cd9d4097f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/61/616c1b1517e4d72570aa0e5b2c94cc0c0d70967b.mp3"
+      ]
+    }
   }
 }

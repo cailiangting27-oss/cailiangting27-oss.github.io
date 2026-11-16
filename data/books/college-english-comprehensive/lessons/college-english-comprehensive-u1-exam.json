@@ -21,7 +21,15 @@
         "who"
       ],
       "answer": "why",
-      "explanation": "先行词 reason 用 why。"
+      "explanation": "先行词 reason 用 why。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/a1/a110e6b9a361653a042e3f5dfbac4c6105693789.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7adf77905f540249517ca164255899e9ad1e2ac.mp3"
+        ]
+      }
     },
     {
       "id": 6,

@@ -21,7 +21,17 @@
         "表示声音延长"
       ],
       "answer": "感情强烈且略显急促",
-      "explanation": "此处感叹号表现了西蒙在临终前虚弱而又强撑的状态。"
+      "explanation": "此处感叹号表现了西蒙在临终前虚弱而又强撑的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/41760b865540d0fba4808b11f0ca011e84a9d6a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1543cd7ae4f575c16b2cbd6546d89adb0ae18b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36bc36f9e2499f672260fb4bbf012b4cff5bf981.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/ddc7d405b8c00caebd2e21889762a5d379fae107.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b16829f0fae9231e9c97959c51f20349f9a74c5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c6/c6f534100e4180a3b390726c59860223a93f2242.mp3"
+      }
     }
   ],
   "knowledge": null

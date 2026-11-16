@@ -21,7 +21,17 @@
         "城市繁华的情景"
       ],
       "answer": "牧童归来的悠闲景象",
-      "explanation": "这是本单元诗词中关于童趣、自然的描写。"
+      "explanation": "这是本单元诗词中关于童趣、自然的描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2e84acb99844bd34aa7bdeed196dcaa679bcda2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/82/824db7dd070969cc7c6ddc40ed2c21546369ed9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/87/87afdd264ce83b790180ce3c44d8bbc0b0c740dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73d361ca35f63a6d78ad6d09b65e7fde112562ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b1f4c8da22ec25b29cdf9371ada0f14aec6f54c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61b4af6b55389805da82df73f2bcbe3d11c525e4.mp3"
+      }
     }
   ],
   "knowledge": null

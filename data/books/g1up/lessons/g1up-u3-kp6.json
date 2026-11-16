@@ -16,7 +16,11 @@
       "question": "一个数加上0，还得这个数。",
       "options": [],
       "answer": "对",
-      "explanation": "0表示什么都没有，任何数加上0，大小都不变。例如 $3 + 0 = 3$。"
+      "explanation": "0表示什么都没有，任何数加上0，大小都不变。例如 $3 + 0 = 3$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bbed8cd4a14b7a2622bc8ae3eef2bebdb167bc10.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/26/26ee664c012753c5cedde028a28197bc0c85b940.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "5"
       ],
       "answer": "4",
-      "explanation": "任何数减去0，结果还是原来的数。$4 - 0 = 4$。"
+      "explanation": "任何数减去0，结果还是原来的数。$4 - 0 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a77f955036317fddf8504c038d46ae79a3da96e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4ee1e43b41c989352d8ead16bc145e17ce0878b.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "3条"
       ],
       "answer": "0条",
-      "explanation": "全部捞出了，表示什么都没有了，用0表示。"
+      "explanation": "全部捞出了，表示什么都没有了，用0表示。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cb55854b232779c779ee0b86051432716b5d0fd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78bb8f007b4b05d4d5c8cbdd6d8248238bf8629c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/84/84515c2960535731435bb9028fe4a6fa9649307f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/388d28adb2a18ee4e38762dc7e06093afc56d0b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a2326d50330192fc31626a4d14f780e165ea727.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b3438aec6ee6f9b7d0babbe1067aa010043318a.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "$0 + 5 = ?$",
       "options": [],
       "answer": "5",
-      "explanation": "0加上任何数等于那个数本身，$0 + 5 = 5$。验算：$5 - 0 = 5$ ✓。"
+      "explanation": "0加上任何数等于那个数本身，$0 + 5 = 5$。验算：$5 - 0 = 5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39504efefd26c7e0af9bcccb2040b9774813cde3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4fa756024ccb78263728fc6122b469b7734f80d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "认为 0+5=0（把0当成了没有，认为加了也不占位）。",
       "混淆 5-0 和 5-5，结果都写成0。"
     ],
-    "tips": "把0想象成“空气”，你抱着5个苹果，加了空气还是5个；吃光了5个苹果，手里就剩空气了。"
+    "tips": "把0想象成“空气”，你抱着5个苹果，加了空气还是5个；吃光了5个苹果，手里就剩空气了。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/f1/f1bca7841f4f95f9e13773177e0902b8b97aec7e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/13/1380153bdb835fbfa9df7d9735c2f776d1237f16.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/12/125184b552ff192d47ce0a242439a15dc1b1c7d5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fb/fbf6e8d422dced131c01294f3bfb72a915bfea8b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/54/542dbb38e5cb5670d3e12b88e7ba862bd34ca1a7.mp3",
+        "https://api.clthuanxie.cn/cc-audio/b3/b376a00a31307fb66d6c129d7571e2017fc9beb6.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "热血沸腾"
       ],
       "answer": "聚精会神",
-      "explanation": "聚精会神指集中精神，专心致志。"
+      "explanation": "聚精会神指集中精神，专心致志。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd3974f565f69be4e437d054917bcc2573686a99.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/762627b9b474fcfaa0c4ab4633a14367488e017d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/08446e8f2c1c58f34ea81c12521593e6ed0f22f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31a9f81ca121528b205b6cc3c4310e344cfe7285.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aea0d85044a52dc56a07d5d407baa732baa8ad99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/20596ccc2985ed805de7eb75cc7932ba31c1581a.mp3"
+      }
     }
   ],
   "knowledge": null

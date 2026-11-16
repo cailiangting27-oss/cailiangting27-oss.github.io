@@ -16,7 +16,11 @@
       "question": "小蝌蚪先长出两条前腿，后长出两条后腿。",
       "options": [],
       "answer": "错",
-      "explanation": "小蝌蚪是先长出两条后腿，再长出两条前腿。"
+      "explanation": "小蝌蚪是先长出两条后腿，再长出两条前腿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9472f880a8e87cff106dec6f252eda49575e7be.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/ba83b4cb20e27ec2cfbe4e341ab36dcd668ff829.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "水流冲走"
       ],
       "answer": "动物皮毛挂住",
-      "explanation": "苍耳身上有刺，会挂在狗或兔子的皮毛上随处旅行。"
+      "explanation": "苍耳身上有刺，会挂在狗或兔子的皮毛上随处旅行。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/742c37a79b88998239a9390d92beba6c4a1f972b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e46222abd08fade89e1a059e9ff19f29287a167e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/592ed6c7e14778097a493bbdc9bf7fb8f59ade3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0047a1b78b41147aa04bf3cecb4f351fd91d1436.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23745708c8d258157c371879373475e68ecbda0f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21dcb2899bb6f4b711be1f3785cff3276adc1602.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "大长腿"
       ],
       "answer": "降落伞",
-      "explanation": "蒲公英的种子带着毛茸茸的绒毛，像一个个降落伞。"
+      "explanation": "蒲公英的种子带着毛茸茸的绒毛，像一个个降落伞。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c2c1314929fb57694bad2c885f5d219f5175f20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/51e52ef5f8174a368beba7b2dada07fe0f465678.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/187dc57771fc29489742092301f4905685ba4c5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e0aa5c90870983abdb094590474da1e00bedccf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aecf69f6e8d1b56da9c3591de7481135dd8889f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3ceb3803239193a3b9949ee59d6b35bfdfa4abdc.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "小蝌蚪的妈妈是（___）。",
       "options": [],
       "answer": "青蛙",
-      "explanation": "这是本单元《小蝌蚪找妈妈》的核心科普点。"
+      "explanation": "这是本单元《小蝌蚪找妈妈》的核心科普点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c52951f6850a35faed314030d6225b68a64a30c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/24cb701cf37b8e5e59cf93174566ebc9fdab57dd.mp3"
+      }
     },
     {
       "id": 19,
@@ -79,7 +107,21 @@
         "动物带"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "蒲公英靠风，苍耳靠动物皮毛，豌豆靠太阳晒裂，椰子靠水漂流。"
+      "explanation": "蒲公英靠风，苍耳靠动物皮毛，豌豆靠太阳晒裂，椰子靠水漂流。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8db7e09080ee9f7809c643df4e77264f091ecc54.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a62cc1a28e2535297ba88994e7ffb68f87c73e45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbea911460159f5e763778d3d6371ef6400465f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d646c5527d491e9e551c841f66ff764ae177e400.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/82998991039a280ad57d5b15193ae6de7014bb5b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/23f3118ad9d31902133ae17adc98882c7cb58118.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/169c79404b8cf3450153aa80a67841f3f98e5a14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a9d3b8cd7b1f1eee5b97e931ac91e833c47a417.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/663904dfc58666badc859e3910d4565a8b6d4726.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/381a6c1bc08252a42e73f488d65c74db847afb08.mp3"
+      }
     },
     {
       "id": 23,
@@ -96,7 +138,18 @@
         "告别妈妈"
       ],
       "answer": "孩子们,就,纷纷地,告别妈妈,出发",
-      "explanation": "这是课文中描写蒲公英种子离开母体的生动表达。"
+      "explanation": "这是课文中描写蒲公英种子离开母体的生动表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e29fdea975c2211cd681571614ebedfd3f06552d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a1eff3c6d6dfc631fda6bae8ac5b1e6db743e3a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9893f15e9cf32dd23290fabb3c483fa38344c9a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/986b2ca2dfb8a15ae6f0831bc5466f0ddf0d75c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc4858af41b5ce3e08aa3667b434c710ce49a9a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec1dc017be3d266e6f67673c67257d5bfa6a9d9f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e5fcd05dc5330b5c80235c689c61ed419ddfe5c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -107,6 +160,16 @@
       "混淆小蝌蚪长腿的先后顺序（常误认为先长前腿）",
       "分不清苍耳和豌豆的具体传播介质"
     ],
-    "tips": "可以用“后前尾”三字经记忆青蛙长腿过程，通过观察实物苍耳的粘附性来理解动物传播。"
+    "tips": "可以用“后前尾”三字经记忆青蛙长腿过程，通过观察实物苍耳的粘附性来理解动物传播。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/67/67309d182af42a1f31bef427057d57e7784a5890.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d3/d3cd1b1131a16b3356c52de581db622943bbf71f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/7f/7f9b9f6b7592857d9589257bfb7428b801386f7d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/80/804afe18f3925f9de0790a7db577ab87e95d2b27.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ca/ca64f5138a4683aff37bbf97e254371683db85e2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/8b/8b1ffab0db336bf92a714c0d7e45c69169f7885c.mp3"
+      ]
+    }
   }
 }

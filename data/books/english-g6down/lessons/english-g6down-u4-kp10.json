@@ -21,7 +21,17 @@
         "liking"
       ],
       "answer": "like",
-      "explanation": "didn't 后面接动词原形。"
+      "explanation": "didn't 后面接动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4a/4a51af53700587cac7fe587a093a1866dd1a07be.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae6684e9c52dea0419a43e54c8b7d02305e43ef2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4eb7d7fea3c62a8db7078eb05a68993b456c503.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aecba335e84ca9e3a2b7990230dcf248e6826e42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee82a6fe83bdfcc2cf5037f9a812f1239f1829da.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/64/64e5606991f38f52f8d38f03f958517c06f39719.mp3"
+      }
     }
   ],
   "knowledge": null

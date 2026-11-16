@@ -21,7 +21,17 @@
         "末期、毫末"
       ],
       "answer": "怒吼、澎湃",
-      "explanation": "推测应为“测”，预防应为“防”。"
+      "explanation": "推测应为“测”，预防应为“防”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b97349d73d0829ee3ca877adcc8f1679d0114d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/aef18e972f9a67b647a81a5f1402cc38711af78e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9196f711470bd891e5bc80030bf84e26f7a5f96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7ca684228b87428acfd76e44c9464ac893b2e5a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c11bd25cab3a092c13ab12c37f12ce5cfe7582b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1b7ece212cd4706193faee48d9a36dacac7b33a6.mp3"
+      }
     },
     {
       "id": 7,
@@ -37,7 +47,17 @@
         "洗涤"
       ],
       "answer": "擦拭",
-      "explanation": "拂拭指轻轻擦去尘土，与擦拭意思相近。"
+      "explanation": "拂拭指轻轻擦去尘土，与擦拭意思相近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1cfa774dfb7278649c4ce5cd0d35b189d1c0af3d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e29f35c49faaca671e6de083bff6f25906bca88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f98c37eacb65c6473f816ef912744ff7b5dbda62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/468dee51df54787171406473c9a5c45e9ee0d7b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/561a750ce03e2920688df3b20e226aefde628b55.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e03f0fb23673b236c7db239f541339b22d3a946e.mp3"
+      }
     }
   ],
   "knowledge": null

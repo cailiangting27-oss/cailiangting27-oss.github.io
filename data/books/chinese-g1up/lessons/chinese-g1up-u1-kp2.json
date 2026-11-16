@@ -16,7 +16,11 @@
       "question": "读书的时候，要把书拿稳，眼睛离书本远一点。",
       "options": [],
       "answer": "对",
-      "explanation": "保护视力需要保持正确的读书姿势。"
+      "explanation": "保护视力需要保持正确的读书姿势。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38e763a0e7e53079b3486f9e8819c25dd0fe5b9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c092d2bfd283b17e000002cc72f0c4e134f1816.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "写字时，我们要坐在座位上，身体要坐正。",
       "options": [],
       "answer": "对",
-      "explanation": "正确的坐姿是写好字的基础。"
+      "explanation": "正确的坐姿是写好字的基础。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bf/bf6fca43f827f1f54a633a35fa46fcd7f8b6a00f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e011248bb8b49da2c03c933451e6d2901f9973f2.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "贴着桌子"
       ],
       "answer": "一拳",
-      "explanation": "“一拳、一尺、一寸”是基本的写字姿势规范。"
+      "explanation": "“一拳、一尺、一寸”是基本的写字姿势规范。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fa28dda5353a00d6f67ae16ec232fe3c6aedaa2b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a300ae1bedf57cf42e6896e67321fdc2573d2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3fd90ff0bfe35a28ab9b127808c601e15f61756.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094e172ea47a085877b0c44d1f6148490d6c4daf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3481deb5fe2c1db32c120dc0aa8e02485bcacdbe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b9348c2f35fcc5ef00c2af3cac3a0a0ba57214ab.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "动脑筋想"
       ],
       "answer": "随便乱动",
-      "explanation": "听故事要保持专注和安静。"
+      "explanation": "听故事要保持专注和安静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0ea4cbd56d660460a427e225117a1abc99635694.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c36132de374474ff6e988f295a4b5e923290dd0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/dbe61204486f486d6318bef160777d902c71dc1d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00ec625986748d49dc03d781b5248ad89218a7a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/733908eacbf0c661157ababf052fc9d659004d5f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39b8a6e23aed8a269714a16edc16bad0d0b30d05.mp3"
+      }
     },
     {
       "id": 14,
@@ -75,7 +103,17 @@
         "放在膝盖上"
       ],
       "answer": "斜立起来",
-      "explanation": "书本斜立有利于视线垂直，保护眼睛。"
+      "explanation": "书本斜立有利于视线垂直，保护眼睛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85b615794f2c92d940febd5565afcc0fe9dc1fe1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/41/41b36939fb805bb7e330fb7854668e1145dbb272.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d5c2ff769d05e86d21cee556b38d72f9ea72611.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3df44f7da21e8a59e982e784f2ddb6c6fbaf6ac2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0ffb82a636d9f42ab78f69da987ecadc11d26c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc2db0fa17238e311eee5fa2a4a69f3a8c535986.mp3"
+      }
     },
     {
       "id": 18,
@@ -86,7 +124,11 @@
       "question": "读书、写字都要注意保护我们的什么？",
       "options": [],
       "answer": "眼睛",
-      "explanation": "用眼卫生是语文素养的重要组成部分。"
+      "explanation": "用眼卫生是语文素养的重要组成部分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e57bc8fce602c9706b978763c3d783f5e124695.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a16f003f565082dc79ea1a9c48e93aa81e84128b.mp3"
+      }
     },
     {
       "id": 20,
@@ -106,7 +148,21 @@
         "一拳"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "考察“一尺、一拳、一寸”及“脚放平”的规范要求。"
+      "explanation": "考察“一尺、一拳、一寸”及“脚放平”的规范要求。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44dda8720b181d850e54bde1ec4317a008b8ec6c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/809403e36cdc6e8ecd6a70c2e1dd6a44cc8b088a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5834fbc80a4db58514c1e3d582f05c43adf4b80a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b41be60222da4502572d8afae7fd8a1a282bf15c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8ca960a58cfb085dbc180b83c2671125ce192dfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a300ae1bedf57cf42e6896e67321fdc2573d2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8cc3743cf6b1497625803f8b8b830421fbfc9ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/094e172ea47a085877b0c44d1f6148490d6c4daf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3fd90ff0bfe35a28ab9b127808c601e15f61756.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/090fa5eabcd74f1b2f79503ba03902b8ddfc3644.mp3"
+      }
     },
     {
       "id": 21,
@@ -126,7 +182,21 @@
         "用眼"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "明确各项语文活动主要使用的感官器官。"
+      "explanation": "明确各项语文活动主要使用的感官器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e90432a1aac577b4f133b1c9f02565fa78ea8de2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d22e32be81e5e6a9140feeb9ed1c40191cce9407.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28a606d7bde5c2371412ff8925ba8b50bd951546.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b70d439bb09cb5e2237aa36f2dd24521f7e912d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b101205d7f6a0007296204cd0cc6038cfc2ccae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ab1cb9b1517bfc7260628f731e62a8e07469a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c10dbdb394230f42350bd3751a135302502208f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19941f8048fa3857fc122394b6affacea3ef3d97.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/166bdd4d3506f0ef1cf504c146ff74425e50647f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a7124c5dd85726f1dc39828c7c8823e348bb6e5b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -137,6 +207,16 @@
       "写字时胸部贴着桌沿",
       "读书时趴在桌上"
     ],
-    "tips": "可以配合口诀“头正、身直、臂开、足安”来记忆和检查自己的姿势。"
+    "tips": "可以配合口诀“头正、身直、臂开、足安”来记忆和检查自己的姿势。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/39/399f90869c3198b623e2093daafeee4e40e761e1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b1/b19eae524795c1910d681e8d445492b1c0fa39cb.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5d/5dca433552a46861fe30fb8f6f108ad7a707cd7b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/878e6a72e6eef5a3d3d6a60343b8bda05544363c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/42/42e0fe1d3139e75835a3bd609dcb863a84f898df.mp3",
+        "https://api.clthuanxie.cn/cc-audio/22/22eeee67ce26e5342a6ae7678bab4500d5844599.mp3"
+      ]
+    }
   }
 }

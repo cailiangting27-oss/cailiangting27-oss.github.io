@@ -21,7 +21,17 @@
         "Good afternoon"
       ],
       "answer": "Good night",
-      "explanation": "Good night 是睡前道别。"
+      "explanation": "Good night 是睡前道别。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/baac366787e5afb9f61a63bff5dc7d10061134a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f7689264bc63373cb9727382a2241632bc1c3d4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7402851cf8a6ff358ea98d3ba184a59bfd07ea41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13fd0a3ec7c352d01eba2942e5d9134834589b71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9e18f4016bb1e7b18415f798012bd14ec949836e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "把 Good night 当晚上好。"
     ],
-    "tips": "Good night = 晚安（道别）。"
+    "tips": "Good night = 晚安（道别）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d0/d0fa383e797845cafc9c408b01f4456ab4a4cfb3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/df/df7adc3f63b2ec416f72de538ab2dec5c26a4484.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a3/a39f4981948fae2bab17eabf8be4acca15e224c1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f1/f1c7e4f6ff64c41bdd9f7553927f3e536fb85137.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/88/88a302070d33f31479ecff0a9c29112032dad34e.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,15 @@
         "无法判断"
       ],
       "answer": "必然事件",
-      "explanation": "一定发生。"
+      "explanation": "一定发生。",
+      "audio": {
+        "options": [
+          null,
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +45,15 @@
         "0"
       ],
       "answer": "$\\frac12$",
-      "explanation": "等可能，2 种结果。"
+      "explanation": "等可能，2 种结果。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ]
+      }
     },
     {
       "id": 5,

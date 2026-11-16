@@ -16,7 +16,11 @@
       "question": "写日记的第一行应该先写日记的正文。",
       "options": [],
       "answer": "错",
-      "explanation": "日记的第一行应该写日期、星期和天气。"
+      "explanation": "日记的第一行应该写日期、星期和天气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0fb35835c3c9f69cb13edec7985eae44f677cc26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b54417e37e734a1032c73f8a64e97cbdb07a08d0.mp3"
+      }
     },
     {
       "id": 18,
@@ -27,7 +31,11 @@
       "question": "在日记的首行中，除了日期和星期，还需要记录：",
       "options": [],
       "answer": "天气",
-      "explanation": "日记格式规范是日期、星期和天气。"
+      "explanation": "日记格式规范是日期、星期和天气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f9f1e308bc500c6b1d2eb0eca9a17d7df192921.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21073015e8259beef4b7e5b8eb7f0e86ec7bfb26.mp3"
+      }
     },
     {
       "id": 23,
@@ -44,7 +52,18 @@
         "柿子"
       ],
       "answer": "我,在果园里,发现了,成熟的,柿子",
-      "explanation": "日记常由‘我’发起观察动作。"
+      "explanation": "日记常由‘我’发起观察动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b2cb31bfa8ca21dcc37dad358aa3fde3952831e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/736532f66baeb279b293656ef44e678c84ad4a0c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc4db6b538444b5c8454629a3f01f8e98ef31186.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d6b01943fb10a50b92ab56d408308ed8dc2028f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c633649003e08fa514e1219df5ad633edd5ea94.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/16/16d01975566015061a9ad0309f9481fa694c4c8c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -55,6 +74,16 @@
       "第一行漏写星期或天气",
       "正文内容过于记‘流水账’，缺乏重点观察"
     ],
-    "tips": "每天观察一样植物的细微变化并记录，是写好生活日记的秘诀。"
+    "tips": "每天观察一样植物的细微变化并记录，是写好生活日记的秘诀。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/2b/2b2f2478c7c675f43c232ea545d48a824edc8972.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/01/017628ebaf70cd7bfdf5ecd400e943beac2c5078.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/90/90967bff965d9e7e1366389e607fe98fc9fd025c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f1/f1200b95542eaf17f09225d0512cf64a645682c7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/b0/b0027019ab5d3c1ea05b56b28e228bd6b7e7ca11.mp3",
+        "https://api.clthuanxie.cn/cc-audio/77/777db7ee12a6e51af4c3bdfdf3f599a8fdefe8e8.mp3"
+      ]
+    }
   }
 }

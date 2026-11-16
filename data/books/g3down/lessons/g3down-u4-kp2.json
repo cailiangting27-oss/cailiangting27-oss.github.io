@@ -16,7 +16,11 @@
       "question": "两位数乘两位数，积一定是三位数。",
       "options": [],
       "answer": "错",
-      "explanation": "最小的两位数乘积 $10 \times 10 = 100$ 是三位数，最大的两位数乘积 $99 \times 99 = 9801$ 是四位数。所以积可能是三位数或四位数。"
+      "explanation": "最小的两位数乘积 $10 \times 10 = 100$ 是三位数，最大的两位数乘积 $99 \times 99 = 9801$ 是四位数。所以积可能是三位数或四位数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/79fc7c8b8fe6eb252545259bf375aec6468b05cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b92f684c44f68ff3e5e4c86edbf3629031d9a84c.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "一个乘数的末尾有一个 0，另一个乘数的末尾没有 0，积的末尾至少有一个 0。",
       "options": [],
       "answer": "对",
-      "explanation": "根据乘法的基本性质，乘数末尾的 0 会落到积的末尾，如 $10 \times 2 = 20$。"
+      "explanation": "根据乘法的基本性质，乘数末尾的 0 会落到积的末尾，如 $10 \times 2 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e00e3534aec5ca260e1ab2446ed5c3d03577a15.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72961632a3e0f1b0af415960890b4bfbd12811b4.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "2300"
       ],
       "answer": "230",
-      "explanation": "十位上的 1 表示 1 个十，即 $23 \times 10 = 230$。"
+      "explanation": "十位上的 1 表示 1 个十，即 $23 \times 10 = 230$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84cdf3f27bb007a8f1f2ca29495b1c4e21ac7a93.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d435a6cdd786300dff204ee7c2ef942d3e9034e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2815f6b98b7a1fc00fc6bbb6d86583c410d86af7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe2ef495a1152561572949784c16bf23abb28057.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c93ce1d07259934298ea47da504510529a423a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/666ee80c631b19bc3655ce01cab473cca19772a4.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "19 \times 49"
       ],
       "answer": "30 \times 41",
-      "explanation": "$21 \times 59 \times \text{≈} 1200$；$30 \times 41 = 1230$；$38 \times 32 \times \text{≈} 1200$；$30 \times 41$ 最接近。"
+      "explanation": "$21 \times 59 \times \text{≈} 1200$；$30 \times 41 = 1230$；$38 \times 32 \times \text{≈} 1200$；$30 \times 41$ 最接近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aed2131620eb0d313f735db0509aa2fbb85daf26.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/942d128beb9ece61918f0af42249919d43aca99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c540cbf04a27974f4dfb38e3e8869b869530219.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c327c0de6419ba8a29e7ff4b322fba94bc44a5c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a58e2d800e42469efe0ce7176e14ba4aaa70217.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/decdab5c678280b9c68be50688050dffb6558235.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "1200"
       ],
       "answer": "800",
-      "explanation": "$42 \times \text{≈} 40$，$21 \times \text{≈} 20$，$40 \times 20 = 800$。"
+      "explanation": "$42 \times \text{≈} 40$，$21 \times \text{≈} 20$，$40 \times 20 = 800$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b331ba4c574101bc57f63e440c278bdc51cd1145.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73ee4958bdb5a056029ebd39b8abbaa3dbc0f333.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/45d22bdbc92812789f34e15f139045042a4d4500.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "350"
       ],
       "answer": "400",
-      "explanation": "$25 \times 16 = 25 \times 4 \times 4 = 100 \times 4 = 400$。"
+      "explanation": "$25 \times 16 = 25 \times 4 \times 4 = 100 \times 4 = 400$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4b/4b9a8cb3ec2db6519c9ed4bb8e8a503f2828a0af.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/ab7f7b955330dc8dcd7f8ae3d9689ffa32bf10d5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e26973e6ee8ab9cd8cb3f207d1b90f00d2669eff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba30fd97b4127db56e9f4d3d9c030d71646fd2e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89a1c105a4720482e52ae423839ed97c693201ca.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d869e1acd594504d6df340231eff994f15e6ee62.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "一本练习本 12 元，买 24 本需要 ___ 元。",
       "options": [],
       "answer": "288",
-      "explanation": "$12 \times 24 = 288$。验算：$12 \times 20 = 240$，$12 \times 4 = 48$，$240 + 48 = 288$ ✓。"
+      "explanation": "$12 \times 24 = 288$。验算：$12 \times 20 = 240$，$12 \times 4 = 48$，$240 + 48 = 288$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88a4e84722f8a766403941127f8c80d7ec27de94.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/84/841f564678a5dc7c9c749a334c45b5bdcc6c3728.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "$34 \times 12 = ?$",
       "options": [],
       "answer": "408",
-      "explanation": "$34 \times 2 = 68$，$34 \times 10 = 340$，$68 + 340 = 408$。验算：$408 \times \text{÷} 12 = 34$ ✓。"
+      "explanation": "$34 \times 2 = 68$，$34 \times 10 = 340$，$68 + 340 = 408$。验算：$408 \times \text{÷} 12 = 34$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5499dd36fb1a458bd8d4e137b352be9988ebb55.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54fa516bebbe9aa1a6f5396e39ded3bf4ea8d712.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "用十位数乘时积的末位与个位对齐",
       "进位加法漏算"
     ],
-    "tips": "相同数位要对齐，从个位起依次乘。十位乘积写十位，最后相加是总积。"
+    "tips": "相同数位要对齐，从个位起依次乘。十位乘积写十位，最后相加是总积。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/37/37b07bf56e4b33996e1372c230a469c0c1ded07f.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/0d/0d1e92e13287f1b221a2824ed5192f856e57a78b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d8/d828f5ec68a05bcef4c0df99f9e5bb14240dba8b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/26/26c01629ffff15292969eb39c621968ecfc56efb.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/e8/e88bb75fe191c3139fc4b5d6a0495671037a1282.mp3",
+        "https://api.clthuanxie.cn/cc-audio/66/666dce4741e86c7435c245ce499820d27914b253.mp3"
+      ]
+    }
   }
 }

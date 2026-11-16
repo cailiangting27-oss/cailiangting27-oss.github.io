@@ -21,7 +21,17 @@
         "一望无际"
       ],
       "answer": "万紫千红",
-      "explanation": "万紫千红形容百花齐放，色彩艳丽，多指春天的景象。"
+      "explanation": "万紫千红形容百花齐放，色彩艳丽，多指春天的景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/87/87ab5c9d30be356d645d31a0525b0c838829a0f8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/6155c486a6d71e60d784eae30bbd684bf0ebe479.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ac51a733c46b9776519caa44fdfe6fd41d22570.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8fdee12837cb268381eef6c3d9a38c4000623fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e727e1aa92d4bdce9c6748d51e683392607e0e8a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f143f328ab0b51aab6bcd4206c9209fd07d34452.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "冷冰冰"
       ],
       "answer": "慢慢地",
-      "explanation": "徐徐代表缓慢的样子。"
+      "explanation": "徐徐代表缓慢的样子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb727df989ce78e883996fc8d95949d3d7041ee6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0e/0eadbc842982bf63ca8053cfca642aeedff6b691.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20345bc53496f0d79a89f783a4fe87fa401fbdf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f36ceae777b2db040acd9159f23c8de789d77123.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/79406fcd4173c0bb8e2ba262af2840329ed7bcbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f8/f8e6c558a88bbcf69c44271b792485fb661d27ab.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +68,11 @@
       "question": "“寻找”的近义词是（ ）。",
       "options": [],
       "answer": "找寻",
-      "explanation": "两个字互换位置，意思相近。"
+      "explanation": "两个字互换位置，意思相近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3416fab13fc8a7250686fa67a57a18cbf125953.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3f722cb7f2ca25110769a95d66ff290e1be1323.mp3"
+      }
     },
     {
       "id": 21,
@@ -68,7 +92,21 @@
         "家门"
       ],
       "answer": "A-3,B-4,C-2,D-1",
-      "explanation": "这是课文《找春天》里的标准动宾搭配。"
+      "explanation": "这是课文《找春天》里的标准动宾搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76078fbb4e848f4305b7712bacb83fecb1ef4af3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/0461625921178943f078dfc0e1e669547d138a00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6baf786deea141b329e5dc900dfb7dffd7179741.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77781073bf4dcca9f55a05293bc1e1cb8f406c70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/0024d4cb2200cc45d931a0c998d3950735dcdc2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4da124334b9e58addacf51d4e10cf624143215a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf9f1865efc70d900e2ce429870723e79528b02c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4eb39d1acbcd2c4049cf8472e6841c20c7007e6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d356c64e7ddaa995acce062b89a9d4106590c05.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/61/61b50d6db41bc7da63e620b3c2939c7bcd5e121e.mp3"
+      }
     }
   ],
   "knowledge": null

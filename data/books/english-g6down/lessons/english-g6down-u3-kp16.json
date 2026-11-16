@@ -21,7 +21,17 @@
         "at"
       ],
       "answer": "on",
-      "explanation": "步行用固定搭配on foot。"
+      "explanation": "步行用固定搭配on foot。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/203ca2710e90aa0dae5dcf498ec81a303547b030.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/408158643ed564c72fa0921826f8294d71ccbf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/111afa3742bc95c73790d080c95c64136ce774c2.mp3"
+      }
     }
   ],
   "knowledge": null

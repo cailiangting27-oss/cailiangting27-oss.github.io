@@ -21,7 +21,17 @@
         "looked"
       ],
       "answer": "looked",
-      "explanation": "描述过去发生的事情，系动词look使用过去式looked。"
+      "explanation": "描述过去发生的事情，系动词look使用过去式looked。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/2329f0f2b209d8b70a49ad5adf5093dab5fe3bdc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e0/e09315fa02d775f3e707a7af455093a1c240583b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/449d83a43fb8f44703b6233399d95013a4f778c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/dac3990e1a41fe7053d5bcb15792547525cccde5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd31334d1aa966c45547a2b98c41fd0fedf2ddce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ec0577d8fc510df65e8ecc2ae6dc5845f3c57dd.mp3"
+      }
     }
   ],
   "knowledge": null

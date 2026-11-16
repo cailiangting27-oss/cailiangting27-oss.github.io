@@ -16,7 +16,11 @@
       "question": "沙洲坝的井水很脏，所以大家都不喝。",
       "options": [],
       "answer": "错",
-      "explanation": "原本是没水喝，挖好井后水很清凉，大家非常爱护。"
+      "explanation": "原本是没水喝，挖好井后水很清凉，大家非常爱护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5004e6e83b2677e50c3ad0ee9b960957019000b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e02d8f1ad7eebab68c1cecfeb2cc6a07bb2c9dc9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "说“一头飞机”是完全错误的写法。",
       "options": [],
       "answer": "对",
-      "explanation": "“头”通常用于形容大牲畜如猪牛。“飞机”用量词“架”。"
+      "explanation": "“头”通常用于形容大牲畜如猪牛。“飞机”用量词“架”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a262ee8bbd66d9f93ebd307766204fa5223b9126.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42badd661966d25ace72e80ca89fd14c7c1129af.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "朗读带感叹号的句子时，语调通常略微上扬并加强语气。",
       "options": [],
       "answer": "对",
-      "explanation": "感叹句表达强烈情感，朗读时音量和力度应增大。"
+      "explanation": "感叹句表达强烈情感，朗读时音量和力度应增大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5b65ce4b368039b5056f866400a98b6b6478f25a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/426587cdc8c441e801ef9b903a21baab7637e5e2.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "“饮水思源”和“吃水不忘挖井人”的意思很接近。",
       "options": [],
       "answer": "对",
-      "explanation": "两个词都表达了不忘记恩人、懂得报恩的道理。"
+      "explanation": "两个词都表达了不忘记恩人、懂得报恩的道理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c5/c5cb8cf67926917d5c143bb237242efcbcff259d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8169598b44e6fb0bf5746ed2042ece132e6a5d08.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "没书读"
       ],
       "answer": "没水喝",
-      "explanation": "文中提到乡亲们吃水要到很远的地方去挑。"
+      "explanation": "文中提到乡亲们吃水要到很远的地方去挑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d9ad8986e62c4c094f38b353f9999cc9572b4acf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b161c204d9219d253cd755b072b4abc5a789019.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/112c8f3249a80deede60f861915f0f6550d11b87.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91909fa31adc97e50a5f6c89409bb367dd69e9d1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1112c3859b4ffc959617656f78d6c4a477c970f7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4df980a0c75dd0791a119632e9146f9cae33c67e.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "很大"
       ],
       "answer": "很远",
-      "explanation": "遥远表示路程非常远。"
+      "explanation": "遥远表示路程非常远。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/38/38274a5b50edd18de7bce326b71b1a4463a3e240.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17b06114d4ac5ad41bc070bd9ba67cdefe1dbb71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c446ad43fd757b4824da5d36cb4adf1257424bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/1193be69ee395e12955ec1c64db0580252bfde00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0fd2e184348543f2d7b0816323c333b42f261de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aaeb164da48318ec09a4e2fc21d814ad5d650c4e.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "一架书"
       ],
       "answer": "一架书",
-      "explanation": "书通常说一册或一本，“一架”一般指书架或者飞机。"
+      "explanation": "书通常说一册或一本，“一架”一般指书架或者飞机。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b56bff2c318f4d56de249e8fdff572111043957a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8b302ac9a250ee097328515fae98bd6a97375ff4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a382c45a5b1c30d27d72fbfd77e466b7588d0e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/35c4c7c1d5169a45aa16aec77a6cac903a04e4c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0749b4013c248e9e103ad2a956cf6c416511937.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/342550b0976f9593596aa3eaf3fc065c5044144c.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "4次"
       ],
       "answer": "2次",
-      "explanation": "课文中开头和结尾各反复出现了一次，强调了强烈的愿望。"
+      "explanation": "课文中开头和结尾各反复出现了一次，强调了强烈的愿望。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a219aec2a1abfa3676106d8c77e466fcf7464dae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/638ca9f4a3e5d18375f683935b0ae66656b6bb89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b2403d758dcfc4de01b741fd051d7dac5046986b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b98078d02642d459a9e10d78e43ee171a5b50897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cc92751a780372b567bdea634f59b9f74a9e094.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/40/405b672d1b709d8aee2f202144acbc1fa55eae55.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "因为天空很蓝"
       ],
       "answer": "因为春天百花齐放、五彩缤纷",
-      "explanation": "多彩的色彩最能代表春天万物生长、繁花盛开的景象。"
+      "explanation": "多彩的色彩最能代表春天万物生长、繁花盛开的景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85f450463d0434814efa1fd336466223e962e799.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abcc11f7e65c87018ff9352ddbd394d28e8dfbe1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e825d599c04f734f60a9f99e3ca78ab8d826d89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bf2f7ae5a13f0aeae85bdc4bfcc679fd87ac0510.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/98388cae122a271284c5d475ec388b2d412aadf9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f64006708bfc8286a6c2056df5e8b640e1754ad8.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "小声嘀咕"
       ],
       "answer": "平稳、有力",
-      "explanation": "形容庄严整齐的场面需要有力的语调来表现神圣感。"
+      "explanation": "形容庄严整齐的场面需要有力的语调来表现神圣感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06a515033dfcfb7812b9b1c5f21ada919d3b8903.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23105458282c7080af9bfc3543ed1ed566696074.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c9d47e2bc248dbf99b1641e1dcef7311aa4f7f06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7c3e35bf2447608d36d7aea9bfb72e42b190273a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b3ad24f1521885cf8f409efc09c2c3dcf0c82b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9de5d34b0870e476909568bad2e1982df4aaf7a.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "天空中飞过一（___）大雁。",
       "options": [],
       "answer": "只",
-      "explanation": "单只飞禽用“只”作为量词。"
+      "explanation": "单只飞禽用“只”作为量词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3a51138207a3af07615d565e44a8402a2bcfd5e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a492a0f5135ffc92f7225ec06a5fc8c2c5bc3a15.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "冬天，（___）的太阳冻僵了我们的手和脸。",
       "options": [],
       "answer": "寒冷",
-      "explanation": "通过对比描写冬天的寒冷从而引出对温暖太阳的向往。"
+      "explanation": "通过对比描写冬天的寒冷从而引出对温暖太阳的向往。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/244d6eb3e1a240d9e38903e80e77784697ee3072.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c18bd21dc554732e76fe40ec34de69cde39f1aec.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "字"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "挖井、刻字、吃水、立碑是课文常见动宾搭配。"
+      "explanation": "挖井、刻字、吃水、立碑是课文常见动宾搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa390ac9c81927af80abc9d32eb9ac9cc666f879.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36bc9a7ef5be716d7312da263f0e541b69f40ac8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3b/3b99b57025c2089fbe8a95b3a52272cefc745e02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a10d4d5a63e66defe4c65fdb35ff27652902c2f8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8fd8f4a6306bb5c78ca38aae0808ef370f6eb85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/9689e457ef031544c1b26c2adbd2288f51e731eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d29c993e4306aad5eea23662864881921075878d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/582c50066c2c6602d3c7b838a3f525aabe9d4895.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a1576bebcacfac670516e6b788267dd735f00362.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "仪式"
       ],
       "answer": "A-1,B-4,C-2,D-3",
-      "explanation": "雄伟的天安门、美丽的景色、宽阔的广场、庄严的仪式。"
+      "explanation": "雄伟的天安门、美丽的景色、宽阔的广场、庄严的仪式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0afe8b821bd23bbf66af9bdb418140de679c0433.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef4bb4a7aa4646faa2a60f5790dd77310f38915.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89ba3e112a610310ffadac667066738a8c14c088.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d359ae2e01b26ef5470951df1191c8c3ccccf59.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9ae0b4b4848980b77b07c5303d8857d602fead26.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aadc3b351973add58cecda9c373b9834dd463e0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a8776899a4b48b4f50847700f75c61da040b37d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/653a435221824f03983cf9b4b0884c3bff633e68.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c28d53d7a6785df70ef374b2998a02efd945ac4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3a6067c16b6a4d1608ba2a5919c8dbdcd44521ac.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "毛主席"
       ],
       "answer": "乡亲们,时刻,想念,毛主席",
-      "explanation": "出自石碑上的原话，注意主谓宾结构。"
+      "explanation": "出自石碑上的原话，注意主谓宾结构。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5db192ddba067b3f276f517b2b0429955bbfcbbc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/60/6044c7911be18c0a33f4bbb32ea572dcb010fcfc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5742cbef4674094c0ed53abc862965131f449175.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d79cf3e29d1314cfd8bc0bec501e5a88898dc657.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1c74db71411b2f5a68edf97e76cfe8d55817158.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/18e40f2815eeb830a627f2ce3209bc132588d0ed.mp3"
+      }
     }
   ],
   "knowledge": null

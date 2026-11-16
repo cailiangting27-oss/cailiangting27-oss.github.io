@@ -16,7 +16,11 @@
       "question": "物体表面的大小就是它们的面积。",
       "options": [],
       "answer": "对",
-      "explanation": "根据面积的定义，物体的表面或封闭图形的大小就是面积。故正确。"
+      "explanation": "根据面积的定义，物体的表面或封闭图形的大小就是面积。故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c75c6362b88dfafa3022e600d94339d2d9fece92.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25f818099036ea06021315d7bce047cb2e5c2e07.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "测量地面的面积宜用平方米作单位。",
       "options": [],
       "answer": "对",
-      "explanation": "较大的物体表面面积，如地面、操场，通常使用平方米。故正确。"
+      "explanation": "较大的物体表面面积，如地面、操场，通常使用平方米。故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d59d6cd7283a92f645aae67ce9659091e348a612.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f35363ce8c4a08e1607851714dd494dd23837601.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "周长相等的两个正方形，面积也一定相等。",
       "options": [],
       "answer": "对",
-      "explanation": "周长相等意味着边长相等，边长相等则面积必相等。故正确。"
+      "explanation": "周长相等意味着边长相等，边长相等则面积必相等。故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1dd2a291a778776b914020ee475468b675ad915.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35d35e37ba2c14638248eb3b745aa0003828dab6.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "长方形的面积总比周长数值大。",
       "options": [],
       "answer": "错",
-      "explanation": "面积和周长是两个不同的物理量，无法进行大小比较（单位不同）。故错误。"
+      "explanation": "面积和周长是两个不同的物理量，无法进行大小比较（单位不同）。故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6c1fdf5d8d21c8502e31dade8a3d7734478512d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60adaad6a733685cc15ba170972cdc548b3fe3b1.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "12 倍"
       ],
       "answer": "9 倍",
-      "explanation": "面积由两个边长相乘得到，$3 \\times 3 = 9$ 倍。"
+      "explanation": "面积由两个边长相乘得到，$3 \\times 3 = 9$ 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/705e5511335af4bece241ed153fe6cff72c6e03f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/646d0ce33c072bd791d3eec0a102a05edced8ee7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/911142c2519c2bf7b8d666e845909c68595ea381.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9bf67b7b8dfce89c2d71b36c955dfd31a55ed33f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d90b3007a22afd97ca5a1adcedbbd2907e409d52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31c17fa5f70eb0a6fa92928c0cfa4038512d4188.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "一样大"
       ],
       "answer": "3 平方米",
-      "explanation": "统一单位：3 平方米 = 300 平方分米 = 30000 平方厘米，$30000 > 3000 > 300$。"
+      "explanation": "统一单位：3 平方米 = 300 平方分米 = 30000 平方厘米，$30000 > 3000 > 300$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35e5e91f2467995af7d1dfdfef40b6bdd3b82f4f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c16fff89d481d2195c27193b9050d650ef3734b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2541def99423091f4c0c9aa7123f517dc7ed0f33.mp3",
+          "https://api.clthuanxie.cn/cc-audio/37/37049800e68a0f5b72d6fd6938edc1ef20e9d305.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bdaec43a61c31a5b5fd968f1983df067de52144f.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "13"
       ],
       "answer": "12",
-      "explanation": "12 个 1 平方厘米的图形合起来，总面积就是 $12 \\times 1 = 12$。"
+      "explanation": "12 个 1 平方厘米的图形合起来，总面积就是 $12 \\times 1 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c7d4e986e4c68b94425f8596cbcaa1a37633f37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d134bc072212ace2df385dae143139da74ec0ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f5d9cf75d38f2405a6bf8704034ed3febab8c34.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "20 平方厘米"
       ],
       "answer": "16 平方厘米",
-      "explanation": "最大正方形的边长等于长方形的宽，即 4 厘米。面积为 $4 \\times 4 = 16$。"
+      "explanation": "最大正方形的边长等于长方形的宽，即 4 厘米。面积为 $4 \\times 4 = 16$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/49fa4ce024ab0c28a09bab3027f4463bc265a529.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73ac063aa683454e114a1100e8bf66fac3492159.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/397189f7661be8e1cc0eff835cf3077a28ff3006.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d015f4b121879e12057dbaaf40338db7425068d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/716d5ccc41b5dbd61e8dc8f573e32cf807e30661.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/96e31a621e08656a9d7d9061913da5cb8543f1e2.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "20 厘米"
       ],
       "answer": "16 厘米",
-      "explanation": "拼成长方形的长为 $2 \\times 3 = 6$ 厘米，宽为 2 厘米。周长为 $(6+2) \\times 2 = 16$ 厘米。"
+      "explanation": "拼成长方形的长为 $2 \\times 3 = 6$ 厘米，宽为 2 厘米。周长为 $(6+2) \\times 2 = 16$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d79e0086b4250012ac25fdfc693e503a5565e6b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59b001b26fecad09722af6775e624cbf443cbe78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0250a3d96930adfc309c42a13e6817613aee5bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1391a10bf23ff599036f27fdca198bead3fa19c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/184daa7f3870ba9f5ad7d8e3408534e52f3818a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7b5b340a5b5d07347d10841526ae6184c7cd2095.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "米"
       ],
       "answer": "平方米",
-      "explanation": "房屋面积属于较大的平面，常用平方米。"
+      "explanation": "房屋面积属于较大的平面，常用平方米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37ccd9c477fbf2c6f0e1a868a9952779e1316605.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba30e71d5f7b6bdcc8fca5c2589f778fb7a95fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee7f305751a577297d8cdb81ffadd887317f0f22.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/943ca55fdc1ab55389cfc326eb7c9d71052751d7.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "640"
       ],
       "answer": "6400",
-      "explanation": "$80 \\times 80 = 6400$。"
+      "explanation": "$80 \\times 80 = 6400$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5a00cb621b45200e5ee5b3f4fcbcff29a266c6a2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/02/02fcd6800ced3388e7f0c1a14e6913a2fcf58f3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c774d8e1e30b273143a93836f845a4d3f44a60f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fdec83a2662ffe53af456402cbaeafa380b15b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a52b27e785768645815cc7cb4f28d4278538de42.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/346f85db812b85db13e7b2814097f7a8a58070fb.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "32 平方厘米"
       ],
       "answer": "8 平方厘米",
-      "explanation": "总面积：$4 \\times 4 = 16$ 平方厘米。平分成两个，则为 $16 \\div 2 = 8$ 平方厘米。"
+      "explanation": "总面积：$4 \\times 4 = 16$ 平方厘米。平分成两个，则为 $16 \\div 2 = 8$ 平方厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/981d218b5ab1005c74af28cd418d5a86912a6daa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/39/397189f7661be8e1cc0eff835cf3077a28ff3006.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/404c7b2516c46b939ddc10c709b616add7174056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12c8d00c74dd27f4cd2aa232afe75ec360c27578.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30166f75d673b3bfc4aaf9d56c3715fde8b613d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd21dad2c895d5e51f9bfc10fb330351c90a44ad.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "30000 平方厘米等于 ___ 平方米。",
       "options": [],
       "answer": "3",
-      "explanation": "1 平方米 = 10000 平方厘米，$30000 \\div 10000 = 3$。验算：$3 \\times 10000 = 30000$ ✓。"
+      "explanation": "1 平方米 = 10000 平方厘米，$30000 \\div 10000 = 3$。验算：$3 \\times 10000 = 30000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8cdb5089e885cd58aa65296b0b78535fe18ec0a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d6ca52db49c4d52d605f0cb84a39d8d31fd46c00.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "一个长方形的宽是 4 分米，它的面积是 32 平方分米，长是 ___ 分米。",
       "options": [],
       "answer": "8",
-      "explanation": "长 $=$ 面积 $\\div$ 宽，$32 \\div 4 = 8$。验算：$8 \\times 4 = 32$ ✓。"
+      "explanation": "长 $=$ 面积 $\\div$ 宽，$32 \\div 4 = 8$。验算：$8 \\times 4 = 32$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c18cdcbc2f408da93bd23031603f4515f4fc335.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f46d47eddb52db626b4331e25976e349149ef889.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算正方形面积：边长 15 厘米。$15 \\times 15 = ?$",
       "options": [],
       "answer": "225",
-      "explanation": "$15 \\times 15 = 225$。验算：$225 \\div 15 = 15$ ✓。"
+      "explanation": "$15 \\times 15 = 225$。验算：$225 \\div 15 = 15$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/91369167d7c82d80eef11ba59973070702ad4eb2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/05/05fa5c14fbaa2691812599285f6745ae90293996.mp3"
+      }
     }
   ],
   "knowledge": null

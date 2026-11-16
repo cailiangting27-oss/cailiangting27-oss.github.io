@@ -16,7 +16,11 @@
       "question": "“草、芽、花”这三个字都带有草字头，它们的意思通常和植物有关。",
       "options": [],
       "answer": "对",
-      "explanation": "草字头的字大多与花草植物及其生长状态有关。"
+      "explanation": "草字头的字大多与花草植物及其生长状态有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6c0472f2166128cf8692c7de4b01b26e7f2dac82.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a8bd0fdb53a489289f2a27dc944ac03efcc31a2.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“打、拍、拔”这些字都有提手旁，所以它们的意思常与手的动作有关。",
       "options": [],
       "answer": "对",
-      "explanation": "提手旁代表手部动作，这符合汉字形旁表义的规律。"
+      "explanation": "提手旁代表手部动作，这符合汉字形旁表义的规律。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e7db3bddf0bb9c4346f1e8130f676fc68f16e26.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/653c105d2f237dfce04fcefa6b062bddcf448f45.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "说、语、清"
       ],
       "answer": "江、河、湖",
-      "explanation": "江、河、湖三字均为三点水旁。B项“地”是土字旁，C项“妈”是女字旁，D项“清”是三点水。"
+      "explanation": "江、河、湖三字均为三点水旁。B项“地”是土字旁，C项“妈”是女字旁，D项“清”是三点水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3cfe10d40b003700c0b72c011e1828c03eecff7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/07788285643d3881a8b7f01cf3908a9b22185c13.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2bc9647549d03e02c002bf9f3dd8e6f919106ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b510cab8c71de454ef248ce67bc3fa1909408bab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81cd22bb2a0cba611ef996e3e30214fb7d6ea21c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e478d5afff206edc0dd71fdac2b76ecb4c2f37a0.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "树木"
       ],
       "answer": "脚的动作",
-      "explanation": "足字旁代表动作与脚相关。跑、蹦、跳都需要用到脚。"
+      "explanation": "足字旁代表动作与脚相关。跑、蹦、跳都需要用到脚。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/2953862ac353ab716411aa3abfb38ee6caec0e25.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7a/7a25e2662147e172ca27016863e0527f2ffd6944.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/828f127a45569e3f2e697dca4dd8a5c6c1f29414.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f3a75d548dc29a0c4f8a4a4ec99519f3586ca29a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e8255abcae12ed1e3255999bf4f1177f71888db.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b0927c2a1b2b1e76d55fbe4e5ac021ae292fcb7.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "水"
       ],
       "answer": "人",
-      "explanation": "单人旁代表字义与人类的身份、动作或特征有关。"
+      "explanation": "单人旁代表字义与人类的身份、动作或特征有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c01be3c356ce7a9ea21fcae9ad2724c78405a23e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/4912771a4216d897b1f3c71bb0e4994e86410815.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6055fe4b903c404afd700cc2079db661f7bd3a49.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/300ee58e24cfd4c81b7d7ec54f38ddcd4823e99c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee51e2fc13f0d54d3257ec212a9a0d6ce0cfaa68.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "“海、洋、江”的偏旁是（）。",
       "options": [],
       "answer": "三点水",
-      "explanation": "这三个字左边都是三点水，通常与水有关。"
+      "explanation": "这三个字左边都是三点水，通常与水有关。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a25012379ded7b7cb3ed3ad48221c1672180a75a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e315b00121e036ca2c1671eeb22a661a73c5f095.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "混淆三点水（氵）和两点水（冫）",
       "分辨不清提手旁（扌）和木字旁（木）的动作特征"
     ],
-    "tips": "看到不认识的字，观察左边偏旁，往往能猜出这个字大概讲的是什么内容。"
+    "tips": "看到不认识的字，观察左边偏旁，往往能猜出这个字大概讲的是什么内容。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/85/85b1da0ccf0ab16dccd6ea54d5d8268c471e8c51.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/42/426c4aab748af76301d319517cea08a432e96782.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/94/94900b00799899e93999f5c8e50a5b72de47b063.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a5/a50dc7deb92bb948d945d6e4d1958fc10966d064.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/73/737fbd1c3e8982bf04e6a918b2251482a1620236.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c8/c887e7e2182cfce93374b88d772557d13dc69713.mp3"
+      ]
+    }
   }
 }

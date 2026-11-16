@@ -21,7 +21,17 @@
         "好看"
       ],
       "answer": "增大接触面粗糙程度来增大摩擦",
-      "explanation": "增加接触面的粗糙程度可以增大摩擦力，防止打滑。"
+      "explanation": "增加接触面的粗糙程度可以增大摩擦力，防止打滑。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67fc3450fc758bd6d5ffe5ae7406c07f9d4df89b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9dce08438a95772ff5f5e6774465beb515a9cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb06de2ded4e3ef7029658567205f8b261a7a9aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/566b69763c358e31835967e57e16508304ea1844.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5c/5c201766491c86e36a19e1fa7f8850b569749f71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7e/7ed497eb8aca4975bdf9a70f141e337121f1f9db.mp3"
+      }
     }
   ],
   "knowledge": null

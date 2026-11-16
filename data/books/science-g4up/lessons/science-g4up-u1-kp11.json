@@ -21,7 +21,17 @@
         "音色"
       ],
       "answer": "音量",
-      "explanation": "声音的大小强弱在科学上称为音量（或响度）。"
+      "explanation": "声音的大小强弱在科学上称为音量（或响度）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/935cb711ceed3e0b4875f659a86659d6bb705968.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bda11a3c2d4f6c96dfd9c1bcc40a78175e747b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/5810d483d5150e46e0439c07c99255df78ee245f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1aa999a5963f5c6e43494caa3f9941db04ad9cde.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c4/c4301894a290bd434c5b8e12f861428770481d4e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bda19dca7e56ab7ca6f42546aecee8bd9fac7a4.mp3"
+      }
     }
   ],
   "knowledge": null

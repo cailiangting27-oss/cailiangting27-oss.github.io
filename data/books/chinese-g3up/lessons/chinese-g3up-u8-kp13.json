@@ -21,7 +21,17 @@
         "他想早点结束工作"
       ],
       "answer": "拯救生命是医生的天职，必须坚守",
-      "explanation": "白求恩把手术台比作阵地，体现了他对工作的极度负责。"
+      "explanation": "白求恩把手术台比作阵地，体现了他对工作的极度负责。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e595080633ec11a1ad50fb890bcff2084742ceee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4b972663816c85e991a6d65e650bd84452f3814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd839031757da11f2fca8828b685629c2c141acd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81902d3b653534f1511956e410cfa831f97f6114.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0dfa1efca803be42087861fa4321af9d1249077.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf668d8f8184d83b45ab3f041e28aedfd4a59ef3.mp3"
+      }
     }
   ],
   "knowledge": null

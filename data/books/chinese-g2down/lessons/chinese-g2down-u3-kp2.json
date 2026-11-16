@@ -16,7 +16,11 @@
       "question": "重阳节是在农历九月初九，有登高看菊的习俗。",
       "options": [],
       "answer": "对",
-      "explanation": "《传统节日》文中明确交代了重阳节的时间和登高习俗。"
+      "explanation": "《传统节日》文中明确交代了重阳节的时间和登高习俗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c6a580035d572b56c32905820ed97c744364d8f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e628d3f7d790073b1ca73bdfec3f44195f38101.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "中秋节"
       ],
       "answer": "端午节",
-      "explanation": "赛龙舟、吃粽子是端午节的传统习俗。"
+      "explanation": "赛龙舟、吃粽子是端午节的传统习俗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/72/7240b5dc5658cf3962f4390dea4b2065a66d825f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33960ae6d5992dd7ce9d0f0d39319e32222ab4b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e73175416972573eadb56721e5fb245e30da3e84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e754b8ef226bc18c7e26a25e56e2ce2f2b634648.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92ba816fbb211b114ca22c2c0b7df224be0a055a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/9334b0230713ffe76b777b3658430342daf169a4.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "转风车"
       ],
       "answer": "吃月饼",
-      "explanation": "吃月饼、赏月是中秋节的标志性活动。"
+      "explanation": "吃月饼、赏月是中秋节的标志性活动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/106a661faf381f955ce97fcb5cc7aae5e0319e24.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cb/cb97635e6623a138390cbc5390cd0c9d8a8daadd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf757a57db985710fd507ff28d3b8b3c7e5c9232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0e9460435f4b567412771500540d9c572ff9962.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/201e6218e0711a63e14780d803372339a27069b6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7ad3effded9d240f05f80fd3c42a31db3c392b97.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "按喜欢的程度"
       ],
       "answer": "按农历时间的先后",
-      "explanation": "课文从正月初一春节一直讲到腊月二十三。依据的是农历时间轴。"
+      "explanation": "课文从正月初一春节一直讲到腊月二十三。依据的是农历时间轴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bb/bb7c872a405c95cfa953f7421d6d466c4fda445c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/3239f182ee83367f2aa7eddca4c9ce3cf7d767f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/111f9ebbbb89c91b2d3ed6fee71e8471a0efd8e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/cefbc6d3918130e6dbe36350d1201ebee7bb05ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c5fe6b4d5c05279191fef2f7bfd8becb6ba89f1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b08e183af1a85ef0c6ac7575d083bf33bf41be0.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "元宵节主要的习俗是看花灯和（___）。",
       "options": [],
       "answer": "吃汤圆",
-      "explanation": "元宵节习俗包括看花灯、吃汤圆（或元宵）。"
+      "explanation": "元宵节习俗包括看花灯、吃汤圆（或元宵）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c3/c3f190254d67976425afcf360d51ea01c3aaeab6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1d0947a0dd29393e8cbb77c3b36ea2b355de0161.mp3"
+      }
     },
     {
       "id": 19,
@@ -95,7 +133,21 @@
         "农历五月初五"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "春节-初一；端午-五月初五；中秋-八月十五；七夕-七月初七。"
+      "explanation": "春节-初一；端午-五月初五；中秋-八月十五；七夕-七月初七。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fa/fad7016bc13936277583b056de452e9e9a042d4f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/33/33960ae6d5992dd7ce9d0f0d39319e32222ab4b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e754b8ef226bc18c7e26a25e56e2ce2f2b634648.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92ba816fbb211b114ca22c2c0b7df224be0a055a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd3502f506e74931c62e2649d0b959ab68f412cf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/046320caa5943ef191eec724b869dd276e0f5a30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4c/4c9242eaaf519b7bf371bda1ac43916327ca4a14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/21eeec221022efe815058d04ec9590bd2b9ca0e9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b783a60275112b2b751e12cfbce1cbf68b9f107.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/554a6737f6747ca5756e8ba044c3b1cdf56cfe7d.mp3"
+      }
     },
     {
       "id": 23,
@@ -111,7 +163,17 @@
         "看社火"
       ],
       "answer": "春节到,看社火,大街小巷,好热闹",
-      "explanation": "原文出自《传统节日》第一节。"
+      "explanation": "原文出自《传统节日》第一节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a7/a7bfcbad480008d6caec8fb9ab9e98288f38437e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/80/80c11c2fb562ce0013ae2c67809c47eb18eb6d96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a47f925a8695ba97454cf64d0b7c03f058bdbd5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/93/93996bf425b6395e462acc939f2ca76a1fca5834.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a96aadbc0e04786de965377ddd2e783f8e4fd3d4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/24/246453ab06b14dda2c08577dbc7a909f66620041.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -122,6 +184,16 @@
       "混淆中秋节（八月）和重阳节（九月）的先后次序",
       "将元宵节写成阳历的一月一日"
     ],
-    "tips": "画一条时间轴，把节日像挂灯笼一样挂在轴上，再配上简单的插图。"
+    "tips": "画一条时间轴，把节日像挂灯笼一样挂在轴上，再配上简单的插图。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/fb/fb316fe8803743ca3ba6529487870f38619029c1.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b5/b50bcffaf0c6c134f93000a8caa4e812ccf206ce.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/821ac21741717c12f6cbc1226c305a905718f35f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/56/5646390887ca5faaa1004ed76316e5d9b6c66585.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fa/faf62b019d937de3c438639fecf0c9bbc28e9e53.mp3",
+        "https://api.clthuanxie.cn/cc-audio/33/33ebeff1b8ddbddf833f4478223a5dd7cf8a5074.mp3"
+      ]
+    }
   }
 }

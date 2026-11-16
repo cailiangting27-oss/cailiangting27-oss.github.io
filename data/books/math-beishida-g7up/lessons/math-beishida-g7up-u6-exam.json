@@ -21,7 +21,15 @@
         "复式统计表"
       ],
       "answer": "扇形统计图",
-      "explanation": "占比看扇形。"
+      "explanation": "占比看扇形。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15e2062fbd306ba0decc8d020d0a766eb1c8d3dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c5193171a80eabb70473438ca91a38c92ae2866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2482f2ba5ef02cca86563793970ff87ae7200c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d7dec6508c129ea5772d2c23ad241bff555c2f1.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "雷达图"
       ],
       "answer": "条形统计图",
-      "explanation": "数量多少看条形。"
+      "explanation": "数量多少看条形。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c5193171a80eabb70473438ca91a38c92ae2866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e2062fbd306ba0decc8d020d0a766eb1c8d3dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2482f2ba5ef02cca86563793970ff87ae7200c9.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 7,

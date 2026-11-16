@@ -16,7 +16,11 @@
       "question": "单词 'under' 中字母 'u' 的发音和 'duck' 相同。",
       "options": [],
       "answer": "对",
-      "explanation": "在闭音节单词中，字母u通常发短音/ʌ/。"
+      "explanation": "在闭音节单词中，字母u通常发短音/ʌ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5338b87d7f160c022cb7d2b6f48100c4c735ee3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d642105b4a8b07895f97ab4c4e6952e752a1313.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "computer, cup"
       ],
       "answer": "duck, run",
-      "explanation": "duck和run中的u都发/ʌ/音。"
+      "explanation": "duck和run中的u都发/ʌ/音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2b715a98708b23be77423fc90aa5b0a658e277a8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d9/d9c249d56c940accc4a43e834a24b6c42545660c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a654a14a93c2b667a5c1f6122d52527c57036927.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/088baa9b1ea2ad0d1dfb8283ae6b50510551c001.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c34b77d5e4ff2b84b95b203f1b0c674e2e125e6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c32ec6e84f1d642b5f13a9d18358e2bdb544c18.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "将fun读成/fɑːn/或/fʊn/",
       "不区分开音节中的/ju:/音"
     ],
-    "tips": "记顺口溜：鸭子duck跑得快run，在那under太阳下fun。"
+    "tips": "记顺口溜：鸭子duck跑得快run，在那under太阳下fun。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a3/a3c5add398f902f8a5a32989a94f138138e7c6f0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/86/869c6fd4f3ea2c34f31b2ff83ea6b0b151ae9979.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cf/cfd17e9691929e1492ddcc69e00044c75375d1a8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6e/6e860fd6ce69ffae696f42e56c51efefa3988e48.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/97/977a1282711741dca3a2a22cb72b6b4b26c02054.mp3",
+        "https://api.clthuanxie.cn/cc-audio/c3/c34397732821ba9e56d0fe9feceee23f0a642dc9.mp3"
+      ]
+    }
   }
 }

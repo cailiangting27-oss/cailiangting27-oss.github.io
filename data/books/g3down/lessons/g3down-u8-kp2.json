@@ -16,7 +16,11 @@
       "question": "3个人每两人通一次电话，一共要通3次电话。",
       "options": [],
       "answer": "对",
-      "explanation": "设三人为A、B、C。通话组合为：(A,B)、(A,C)、(B,C)，共3次。不需要考虑顺序，故正确。"
+      "explanation": "设三人为A、B、C。通话组合为：(A,B)、(A,C)、(B,C)，共3次。不需要考虑顺序，故正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/249f2b3d014d1cabc7529d3fcac48f28e8af119e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/eb/ebf4cc18be23659b99f240138b721814fd52f561.mp3"
+      }
     },
     {
       "id": 3,
@@ -27,7 +31,11 @@
       "question": "有4件上衣和3条裤子，每次穿1件上衣搭配1条裤子，共有7种穿法。",
       "options": [],
       "answer": "错",
-      "explanation": "根据乘法原理，搭配种类为 $4 \\times 3 = 12$ 种。题干将其误算为加法 $4 + 3 = 7$，故错误。"
+      "explanation": "根据乘法原理，搭配种类为 $4 \\times 3 = 12$ 种。题干将其误算为加法 $4 + 3 = 7$，故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/8487be13a3c73dca45032704a0ddde35f9875cea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/674674efd94c1ebc05fbb4308cb7e45ac5d8ac9b.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "12种"
       ],
       "answer": "6种",
-      "explanation": "小红从3本里选1本有3种情况，小华从剩下2本里选1本有2种情况。$3 \\times 2 = 6$ 种。"
+      "explanation": "小红从3本里选1本有3种情况，小华从剩下2本里选1本有2种情况。$3 \\times 2 = 6$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f44feae84b9aaca94141ae823feb632032d8f63a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc31b90665e8e9d759c085ae028046234d54e88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2ae3531611cb74cc60ee3c065f89ad2ca017c49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d69cba62f4301917651a9843312373f7760431b3.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "9种"
       ],
       "answer": "6种",
-      "explanation": "饮品2种，主食3种，搭配方式为 $2 \\times 3 = 6$ 种。"
+      "explanation": "饮品2种，主食3种，搭配方式为 $2 \\times 3 = 6$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fc5690c08bd625b4d7b5046cc5ec7c5716626b06.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/23390487c36468d673aab2159527e79a55e3b6df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e63f535ac37186d45127decf031df406a4bb3c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc31b90665e8e9d759c085ae028046234d54e88.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d9955447355bf30c0b8bf60c8bdf0cee1d643ea.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "2种"
       ],
       "answer": "3种",
-      "explanation": "组合问题：(红,黄), (红,蓝), (黄,蓝)，共3种。"
+      "explanation": "组合问题：(红,黄), (红,蓝), (黄,蓝)，共3种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d286032d6fc449695743e4489c07317b4daf33fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc31b90665e8e9d759c085ae028046234d54e88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f234f8450f96f820528bfa5ab0183d775805687.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a5afea39e536ab96dbe83a052d48fbec8e9c9b0.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "12种"
       ],
       "answer": "6种",
-      "explanation": "这实际上是排列问题。$3 \\times 2 \\times 1 = 6$ 种。"
+      "explanation": "这实际上是排列问题。$3 \\times 2 \\times 1 = 6$ 种。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb908a1dabfdcf768eb0976ce30909b3dcba43ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2fa0e46438e2b5efdc63445e7e0855afc293e66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/429eaa19ec994d8de12961641d271e247071e959.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0cc31b90665e8e9d759c085ae028046234d54e88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2ae3531611cb74cc60ee3c065f89ad2ca017c49.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f12323afc3904498e4160229d3c941e78c973981.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "小林有3件短袖和2条短裤。他一共有 ___ 种不同的穿法。",
       "options": [],
       "answer": "6",
-      "explanation": "$3 \\times 2 = 6$ 种。验算：$2+2+2=6$ ✓。"
+      "explanation": "$3 \\times 2 = 6$ 种。验算：$2+2+2=6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/db/dbabd9f9f247ce1547a42c145369c19be7a01d35.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/293e309ebe5c44a8195513744c7c699d950c6a52.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "将组合问题误认为排列问题，例如握手时认为A和B握、B和A握是2次。",
       "分不清何时用加法何时用乘法（搭配用乘，选一用加）。"
     ],
-    "tips": "连线法是万能药！把两类事物排开，从左边第一个开始依此连接右边所有项，数清线条总数。"
+    "tips": "连线法是万能药！把两类事物排开，从左边第一个开始依此连接右边所有项，数清线条总数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/89/89cc747acc2dc35674159ee267ed5c3f3ba3a4d0.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/a0/a087cd5ccdbfed761565d3760ec22b2f858bc914.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/83/8303f51c09301150b0762f53426c167624d1d2a5.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/97/9754105a381f3c564e01fa367bb3bdf7eb676d3f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/79/790cee1012d25f1d099089ccfba268162eda10bd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/43/43a7808482b437b06fa93d7e2894b25825819ed0.mp3"
+      ]
+    }
   }
 }

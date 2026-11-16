@@ -21,7 +21,17 @@
         "牛的"
       ],
       "answer": "救命啊,我在,牛的,肚子里",
-      "explanation": "模拟红头遇险时的紧急呼救。"
+      "explanation": "模拟红头遇险时的紧急呼救。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8fbe5b3fe50f7bfe408d278f6e81f4eff9288dd4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/63/637be7d114fc09a0ca97e73d7052f16d9399c3be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5c190b6e309e7df0568497531bb1fa4e2f4c414.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ced530631c7185fd548e406b0c78a9e46c20dec3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56d4cfe3e11eb4c3db1e188b470d59bf422d95f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/117c0793435db17189eeb4c8fe09242e57ee8caa.mp3"
+      }
     }
   ],
   "knowledge": null

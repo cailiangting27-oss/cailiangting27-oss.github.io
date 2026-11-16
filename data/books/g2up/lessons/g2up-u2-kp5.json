@@ -16,7 +16,11 @@
       "question": "比 25 多 18 的数是 33。",
       "options": [],
       "answer": "错",
-      "explanation": "应该是 $25 + 18 = 43$。题干中 33 是计算错误。故判断为错。"
+      "explanation": "应该是 $25 + 18 = 43$。题干中 33 是计算错误。故判断为错。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/6324a5a36db08513f0a53140f24923c837f5e5d0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d397450f1fe5eac1d39ed75858680d22c9cefd0.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "53"
       ],
       "answer": "43",
-      "explanation": "求比一个数多几用加法：$28 + 15 = 43$。"
+      "explanation": "求比一个数多几用加法：$28 + 15 = 43$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8a665e155b5934b14d9f02cb4e3fa29b8f48e8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6692ea5df920cad691c20319a6fffd7a4a766b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/0286dd552c9bea9a69ecb3759e7b94777635514b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c5b76da3e608d34edb07244cd9b875ee86906328.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/030249c04452621bab62315260749fc18005e0b4.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "27"
       ],
       "answer": "39",
-      "explanation": "男生：$22 - 5 = 17$人；全班：$22 + 17 = 39$人。"
+      "explanation": "男生：$22 - 5 = 17$人；全班：$22 + 17 = 39$人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/dda0dc36373f0e3c0603e2aa808af5a3eb8fcfde.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e01e17467891f7c933dbaa00e1459d23db3fe4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bc33ea4e26e5e1af1408321416956113a4658763.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8b/8b2065de29e064a4a88fc84bd7c39c949210ef25.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "63"
       ],
       "answer": "17",
-      "explanation": "$80 - 25 - 38 = 17$。验算：$17 + 38 + 25 = 80$。"
+      "explanation": "$80 - 25 - 38 = 17$。验算：$17 + 38 + 25 = 80$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f34ab622ccd0bfbc1529d14a03e43de7ef2be5e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8effee409c625e1a2d8f5033631840e6ce1dcb64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92cfceb39d57d914ed8b14d0e37643de0797ae56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a17554a0d2b15a664c0e73900184544f19e70227.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/73/7329b8b417fbf9cb3b3acf8316a9a322d21390a3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "不理解题意，盲目根据“多”就加，“少”就减（有时题目是倒着问的）",
       "找错比较的标准量"
     ],
-    "tips": "可以画简单的线段图辅助分析：长的线段表示多，短的线段表示少。"
+    "tips": "可以画简单的线段图辅助分析：长的线段表示多，短的线段表示少。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ca/ca911e4f80c5c826a9fdd184a3b9823983e79527.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ef/efdfcd9f111a35c83d79da7d0deacb3cec5fd5dc.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d7a5a26c0ca85baca7147b0e7a7d9f063fc7ea57.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/0f/0fdb7cd3cc910bccfb2862607e132ec77e00b06b.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d2/d2feb487327f912518add9f004486b3e625660f1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9e/9e6e41669b4e4aa04bfed05461897572df2842cf.mp3"
+      ]
+    }
   }
 }

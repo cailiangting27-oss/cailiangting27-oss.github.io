@@ -16,7 +16,11 @@
       "question": "冒号在文稿纸上书写时，通常占据一个格子的左下角。",
       "options": [],
       "answer": "对",
-      "explanation": "标点符号在硬笔书写中需规范，冒号占一格且靠左下方。"
+      "explanation": "标点符号在硬笔书写中需规范，冒号占一格且靠左下方。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a86ffc6a2111341a29bfb8c1f299e1aa6ca6bfa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb2318b68f0054f86a8b30bb510a255c0e4fc23e.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "它立刻警告：泥干了，快加点水。"
       ],
       "answer": "它立刻警告：泥干了，快加点水。",
-      "explanation": "冒号在此处用于引出提示语的内容。"
+      "explanation": "冒号在此处用于引出提示语的内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46f442006a3e50fb1a398d7f991902a2d451559b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a2/a22cc14a5b7fac1737d8d1a0b36301d5d841e8b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5272e7a59a8db56c4fe15b3109be04b870acb04b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13b87f21aef967ca74cb576186b4001cf53cab3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2e/2e3b13c84980a2878766416b5c4c3f3360f1ff87.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/1018a34cf27a32b9b839bf7d4b65c15e1d9e7981.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "在该用句号或逗号的地方错误运用冒号",
       "文稿纸书写时冒号写在右侧或格子中间"
     ],
-    "tips": "记住“先总后分”时，中间往往需要一个冒号来连接。"
+    "tips": "记住“先总后分”时，中间往往需要一个冒号来连接。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ea/ea997fd6490b0cd8e43fa4b70d091d48b55864a9.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7a/7af363cb655c94117cb70122ff1b6bf95b77fca3.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/83/8350911c00510e12f3b05fd1127e4ace4f7ea5dd.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/36/36d36f1394f34f70080993e7782a043e56aa7d0d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9c/9c7565b16abf88105e4b7cd086e370a4a0f5602f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5f/5f9ea159afa54333148ca1bfd5bac6b559c6040c.mp3"
+      ]
+    }
   }
 }

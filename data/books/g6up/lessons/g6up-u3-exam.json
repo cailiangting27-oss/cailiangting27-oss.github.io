@@ -16,7 +16,11 @@
       "question": "所有的自然数都有倒数。",
       "options": [],
       "answer": "错",
-      "explanation": "自然数 0 没有倒数，因为它不能作除数。"
+      "explanation": "自然数 0 没有倒数，因为它不能作除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff46e41f69f4e90b6ebf15f523db5214591c62cd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2f0b02e435c91ead0cf0850f55d550385610670.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "除以一个数等于乘这个数的倒数。",
       "options": [],
       "answer": "错",
-      "explanation": "必须是不为零的数，因为 0 没有倒数且不能作除数。"
+      "explanation": "必须是不为零的数，因为 0 没有倒数且不能作除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/355feeb08a865d097d32299908171b8802a0c0dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2172d64010822794bbaf79ca04f40b5a3dcb7306.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "甲车行完全程要 4 小时，乙车要 5 小时。甲的速度比乙快 $\\frac{1}{4}$。",
       "options": [],
       "answer": "对",
-      "explanation": "甲速 $1/4$，乙速 $1/5$。$(1/4 - 1/5) \\div 1/5 = 1/20 \\div 1/5 = 1/4$。"
+      "explanation": "甲速 $1/4$，乙速 $1/5$。$(1/4 - 1/5) \\div 1/5 = 1/20 \\div 1/5 = 1/4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5f2961abb44898fa6cc71f4dd5ba5852db1839a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac803d677c93aa780d163293fac2643e5ded55e7.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "两个真分数相除，商一定大于被除数。",
       "options": [],
       "answer": "对",
-      "explanation": "真分数小于 1，除以一个小于 1 的非零数，商必然大于被除数。"
+      "explanation": "真分数小于 1，除以一个小于 1 的非零数，商必然大于被除数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/049519ed8649908af3a4257bd004f3bd04fc5e41.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de04b67bb09f7e38d6b556958f4c33fd65d0a828.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "$a \\times \\frac{1}{3}$"
       ],
       "answer": "$a \\div \\frac{2}{3}$",
-      "explanation": "$a \\div \\frac{2}{3} = a \\times \\frac{3}{2} = 1.5a$。其他选项分别为 $0.66a, 0.66a, 0.33a$。"
+      "explanation": "$a \\div \\frac{2}{3} = a \\times \\frac{3}{2} = 1.5a$。其他选项分别为 $0.66a, 0.66a, 0.33a$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7b458fdce6cb8acdbe02fdad21af05977d47818f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d51200518ff02464aa80fa93f45ec8af568b41a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a1efcf4f1b975017085b649077db8bfa4d96c50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd5695b9c222635b1205f470be46f8ef934f9ed2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a9b1eab432dfdd801b159f7a428341a84c0df6e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d871ca9694cd46a9c97a707aa8e1013aad649d2.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "任意数"
       ],
       "answer": "1",
-      "explanation": "只有除以 1 等于乘以 1。或者算式变形为 $1/a = a \\Rightarrow a^2 = 1 \\Rightarrow a = 1$。"
+      "explanation": "只有除以 1 等于乘以 1。或者算式变形为 $1/a = a \\Rightarrow a^2 = 1 \\Rightarrow a = 1$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c79deccfe1750ddfbb44e19c8167fc304b105b0d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e418cb8fb0c830e7ad6eb1e2c03056fd51d8c45e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d28d8b6f91031f73b7cffae2ced7039b651df5c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b050203c42c2ea506b55899a5bd52647470ace67.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "无法确定"
       ],
       "answer": "5:4",
-      "explanation": "速度是时间的倒数。比为 $\\frac{1}{12} : \\frac{1}{15} = 15 : 12 = 5:4$。"
+      "explanation": "速度是时间的倒数。比为 $\\frac{1}{12} : \\frac{1}{15} = 15 : 12 = 5:4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cfc26e2fd98f5e9bf1d4186ac62d2d41eb959cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b83f7a6de73429132fa925f5cb30529863c45245.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48b21da1bc90630efb9f7bf155cb674f535d02ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db5b326a531a9e807b7d90e3ef2996963aa01cb5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49a1563d5ee3f5ca35bd6a4c7a4cf196769376b0.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "100"
       ],
       "answer": "10",
-      "explanation": "$0.1 = 1/10$，其倒数是 10。"
+      "explanation": "$0.1 = 1/10$，其倒数是 10。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab9934d69d12307ff9419a77031a60b7aac76ae5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/180505679cfe0cca79bae51fdda0296b7cd9c493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/0906d398259a550ce6757f7f19681260c53d60aa.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "4 吨"
       ],
       "answer": "$\\frac{1}{4}$ 吨",
-      "explanation": "$\\frac{3}{4} \\div 3 = \\frac{1}{4}$（吨）。"
+      "explanation": "$\\frac{3}{4} \\div 3 = \\frac{1}{4}$（吨）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6d/6de68324743f03bd65a05a477dec04a3ba88c4b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aa774377c1807fbd462a12a110e369bbe81cc566.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94a8e8b5fba6a1f09363017a2df4408f64b1b162.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5614d027a7bb304c6796a9151f1bc6efa74a8fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5513a33d5e04b8aad8f31e4dc3eaef268c0d98b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71e31eab7baecb6dbded4d8210e21a74211210fd.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "30"
       ],
       "answer": "40",
-      "explanation": "10 千克占全桶的 $1 - 1/4 - 1/2 = 1/4$。$10 \\div 1/4 = 40$。验算：$40-10-10=20$。"
+      "explanation": "10 千克占全桶的 $1 - 1/4 - 1/2 = 1/4$。$10 \\div 1/4 = 40$。验算：$40-10-10=20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f2da8e005445464d43fbf696b625c0c00dbb1a0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5f995f0e6aeaa389566d96cdb43d2b4a0f9ede1.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "6"
       ],
       "answer": "4",
-      "explanation": "$\\frac{2}{3} \\div \\frac{1}{6} = \\frac{2}{3} \\times 6 = 4$。"
+      "explanation": "$\\frac{2}{3} \\div \\frac{1}{6} = \\frac{2}{3} \\times 6 = 4$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dd/ddf317a0fc6c8fb2cc7ea9a3e1e3ceeb25ba32aa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d76b13c33ab780e74d51a55725105bfeeca5d055.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "20"
       ],
       "answer": "30",
-      "explanation": "$60 \\times \\frac{2}{3} \\times \\frac{3}{4} = 40 \\times \\frac{3}{4} = 30$。"
+      "explanation": "$60 \\times \\frac{2}{3} \\times \\frac{3}{4} = 40 \\times \\frac{3}{4} = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cb/cb4d4e5f92288ce1cb10495e15d91ed530340a38.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb644351560d8296fe6da332236b1f8d61b2828a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03b7faccab3df6059555bd74fb5c6bebcf4c1bdc.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "某校有学生 450 人，其中女生占 $\\frac{4}{9}$，男生有 ___ 人。",
       "options": [],
       "answer": "250",
-      "explanation": "男生占 $1 - 4/9 = 5/9$。$450 \\times \\frac{5}{9} = 250$。验算：$250 + (450 \\times 4/9) = 250 + 200 = 450$ ✓。"
+      "explanation": "男生占 $1 - 4/9 = 5/9$。$450 \\times \\frac{5}{9} = 250$。验算：$250 + (450 \\times 4/9) = 250 + 200 = 450$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0cf5a4d150f1c12b0113d144a6157ce4dd5c5dc.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55bd9c189080e99c624bfa72efea790f7f7d0e0b.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "$\\frac{5}{3}$ 的倒数与 15 的积是 ___ 。",
       "options": [],
       "answer": "9",
-      "explanation": "$\\frac{3}{5} \\times 15 = 9$。验算：$9 \\div 15 = 3/5$ ✓。"
+      "explanation": "$\\frac{3}{5} \\times 15 = 9$。验算：$9 \\div 15 = 3/5$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/82/82aec799d31ea0073a25e3ec47b7f01ee0244088.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39fd5c13ab6be67cb107bbf5c70cd9174e4e3c55.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算：$9 \\div \\frac{3}{7} = ?$",
       "options": [],
       "answer": "21",
-      "explanation": "$9 \\div \\frac{3}{7} = 9 \\times \\frac{7}{3} = 3 \\times 7 = 21$。验算：$21 \\times \\frac{3}{7} = 9$ ✓。"
+      "explanation": "$9 \\div \\frac{3}{7} = 9 \\times \\frac{7}{3} = 3 \\times 7 = 21$。验算：$21 \\times \\frac{3}{7} = 9$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f33dd070029f3dc335f7c517c8549485cf4abfd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2f00fb4bc0c1deb142dfd44fc2b45b1027dcf52e.mp3"
+      }
     }
   ],
   "knowledge": null

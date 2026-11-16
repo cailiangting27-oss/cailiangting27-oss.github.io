@@ -16,7 +16,11 @@
       "question": "随着科技的发展，人类制作的计时工具精度越来越高。",
       "options": [],
       "answer": "对",
-      "explanation": "从日晷、水钟到摆钟再到石英钟，计时精度随科技进步不断提升。"
+      "explanation": "从日晷、水钟到摆钟再到石英钟，计时精度随科技进步不断提升。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d371ad55d0cf9dff328ed013b0adeb7c2735f06.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8ea120c6fe5869c73891e82ca61cfeb54ac0a02b.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "发条键"
       ],
       "answer": "齿轮组和摆",
-      "explanation": "摆控制频率，齿轮组带动指针，这是机械钟的关键原理。"
+      "explanation": "摆控制频率，齿轮组带动指针，这是机械钟的关键原理。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8f426c3f74bfe4f3fefdad412c9655bec4f88c4b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/776360ec7c4d344d843dcfb7797036c03e14db09.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/ab8e5c7aba5b074cbc0145e0b482b5117d201039.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/7936e277007915460f881db34288e9cffcad9236.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df2eb2f0226c733fb5ca411b081651370839bada.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d920e68bbc77d61f30c1ce4f4c4ec86c7ad8ac55.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "认为机械钟比石英钟更准。",
       "忽略了人类对微小时间单位（如毫秒、微秒）的需求。"
     ],
-    "tips": "精度提升的本质是计时发生器振动频率的不断提高。"
+    "tips": "精度提升的本质是计时发生器振动频率的不断提高。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/66/667a36f1a48673415dea5b7e195852617347d3b3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7f/7fda800f96d621448bc40c38e38b4fd42350748f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6a/6a3546a9a8c39775bfc4808b5828b16ffa51e9c8.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ee/eecb3be706606fe9a90f870641f5207f3cbd4209.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5c/5c785c3f0641a9f5ebb6bb39439fc4eb45713293.mp3",
+        "https://api.clthuanxie.cn/cc-audio/57/57885f36f8f3b7eb2fd7f3094e2b6fefca9b4f23.mp3"
+      ]
+    }
   }
 }

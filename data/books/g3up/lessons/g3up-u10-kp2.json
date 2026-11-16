@@ -16,7 +16,11 @@
       "question": "周长相等的两个正方形，它们的边长也一定相等。",
       "options": [],
       "answer": "对",
-      "explanation": "因为正方形的周长 $C = 4a$，周长相等则 $4a$ 相等，所以边长 $a$ 一定相等。验算：若周长都为 12 厘米，边长都是 $12 \\div 4 = 3$ 厘米。"
+      "explanation": "因为正方形的周长 $C = 4a$，周长相等则 $4a$ 相等，所以边长 $a$ 一定相等。验算：若周长都为 12 厘米，边长都是 $12 \\div 4 = 3$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab1d186c96ec94e9333e90cfe225ab4198225a57.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7d/7d740239eac3d54397ed61ef0d6116c2869eaa82.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "1 吨棉花比 1000 千克铁轻。",
       "options": [],
       "answer": "错",
-      "explanation": "1 吨 = 1000 千克，所以 1 吨棉花和 1000 千克铁一样重。"
+      "explanation": "1 吨 = 1000 千克，所以 1 吨棉花和 1000 千克铁一样重。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b55d71ace50f25f509e5fc5d650c33b74dcff091.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/988ce7ad7daed16472c79751d03b39dc273801a3.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "800 米"
       ],
       "answer": "200 米",
-      "explanation": "2 圈是 $400 \\times 2 = 800$ 米。1 千米 = 1000 米。$1000 - 800 = 200$ 米。验算：$800 + 200 = 1000$ ✓。"
+      "explanation": "2 圈是 $400 \\times 2 = 800$ 米。1 千米 = 1000 米。$1000 - 800 = 200$ 米。验算：$800 + 200 = 1000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6b4ce5d83aabac555f18e3f22e6f9e80116819d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e0c7d398e8af16c6ec0860e25b3aeae9227a6bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be62a1fe4f78354fe649c5ad6b6c72c4412ce4bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f28b599331e1804b99258ae4f995fa052ca21b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d6d056f51ba72495a0b10e52d13bfd188a85bcf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b14d89590eb162610e556306d26efbcf28c70246.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "16 厘米"
       ],
       "answer": "24 厘米",
-      "explanation": "剪下最大的正方形，边长必须等于长方形的宽，即 6 厘米。周长屏 $6 \\times 4 = 24$ 厘米。验算：正方形在长方形内，边长不能超过短边。"
+      "explanation": "剪下最大的正方形，边长必须等于长方形的宽，即 6 厘米。周长屏 $6 \\times 4 = 24$ 厘米。验算：正方形在长方形内，边长不能超过短边。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8ddaf32372107a50c1ac8487cc366b5357ed381.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f45022c9897fd40d9495b2ee9d5e95c318492a04.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cdbe4f413cc76432bddd5a4e625a44f7721be76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/1391a10bf23ff599036f27fdca198bead3fa19c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b001b26fecad09722af6775e624cbf443cbe78.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bb0f7f810a18723da37306ae0eb82221bd1fc2b5.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "12 厘米"
       ],
       "answer": "18 厘米",
-      "explanation": "拼成后的长方形长为 $3+3=6$ 厘米，宽为 3 厘米。周长为 $(6+3) \\times 2 = 18$ 厘米。"
+      "explanation": "拼成后的长方形长为 $3+3=6$ 厘米，宽为 3 厘米。周长为 $(6+3) \\times 2 = 18$ 厘米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/50/500edcdf1ff2af75f07abd9eb74d076bea2fb56a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1391a10bf23ff599036f27fdca198bead3fa19c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcb33d341d7a36807c70389ab90b5d6368f4ee71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1911d3aae82e9b1b0d0454b95c2d6b9db67649f6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a0250a3d96930adfc309c42a13e6817613aee5bf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d91bb411154bdf42027a7dcc16a9d70060d12408.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "无法确定"
       ],
       "answer": "小明高",
-      "explanation": "14 分米 = 140 厘米。$140 > 135$，所以小明高。"
+      "explanation": "14 分米 = 140 厘米。$140 > 135$，所以小明高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c9301a7b3d0c271bafab7b824a90ce1fedafc37.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4a/4ac4c1e58eaf20a4d7c06d4b9d0a4675d4787e7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e339ecb6ecf173a3e88cf1a2399535f1f4b65833.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da185e0387de8d73d3d51256a651e3efc6410782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29204b1f0b7b9400a1060b11fc25fdd6afb4887f.mp3"
+      }
     },
     {
       "id": 19,
@@ -102,7 +150,11 @@
       "question": "5 吨 - 2000 千克 = ___ 千克。",
       "options": [],
       "answer": "3000",
-      "explanation": "5 吨 = 5000 千克。$5000 - 2000 = 3000$（千克）。验算：$3000 + 2000 = 5000$ 千克 = 5 吨 ✓。"
+      "explanation": "5 吨 = 5000 千克。$5000 - 2000 = 3000$（千克）。验算：$3000 + 2000 = 5000$ 千克 = 5 吨 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6b87bb8345964a7043ef83b27c9089099a1283d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/94b198ea3b60b5e52e88d794dbec7df459198e43.mp3"
+      }
     }
   ],
   "knowledge": null

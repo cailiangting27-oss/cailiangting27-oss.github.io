@@ -16,7 +16,11 @@
       "question": "当你要和同学道别时，你应该说：'Hello!'",
       "options": [],
       "answer": "错",
-      "explanation": "道别应说Goodbye或Bye，Hello是见面时的问候。"
+      "explanation": "道别应说Goodbye或Bye，Hello是见面时的问候。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27f31360bc174407a57968e9af766dbf08614db6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0ba91bb5a564c0f8da51691e6f76c755c9bc9532.mp3"
+      }
     }
   ],
   "knowledge": null

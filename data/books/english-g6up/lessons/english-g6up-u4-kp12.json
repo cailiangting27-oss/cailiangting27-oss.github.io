@@ -21,7 +21,17 @@
         "he isn't"
       ],
       "answer": "he doesn't",
-      "explanation": "Does 开头的一般疑问句，否定回答用 No, 主语 + doesn't。"
+      "explanation": "Does 开头的一般疑问句，否定回答用 No, 主语 + doesn't。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2aeffe772ae31f5c910e877fc4de97a01d489c0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6a/6acd67af087fd24ea69a1cc6948fad9b958164a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/766d6bac288c8b5cdc99c83783e12189276b9585.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba28121b77832808b6013eb9fff0b0acdd772f70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e61af736aa222b5907a0d19577c2cd849a6c17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9dc051bce731fcae09e6d0697c982f97b74a709f.mp3"
+      }
     }
   ],
   "knowledge": null

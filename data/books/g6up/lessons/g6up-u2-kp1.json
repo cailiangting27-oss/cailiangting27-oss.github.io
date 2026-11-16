@@ -16,7 +16,11 @@
       "question": "在描述位置时，‘北偏东 30 度’和‘东偏北 30 度’表达的是同一个方向。",
       "options": [],
       "answer": "错",
-      "explanation": "北偏东 30 度是以正北为起始边向东旋转 30 度，其与正东方向的夹角是 60 度；而东偏北 30 度是以正东为起始边向北旋转 30 度。两者不重合。"
+      "explanation": "北偏东 30 度是以正北为起始边向东旋转 30 度，其与正东方向的夹角是 60 度；而东偏北 30 度是以正东为起始边向北旋转 30 度。两者不重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f721051485b741c8bb1e0164ccbb252d699c5b3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/80/80a7a26a1d91abc3d8280140452e12e0c4793393.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "确定一个物体的位置，只需知道它相对于观测点的方向即可。",
       "options": [],
       "answer": "错",
-      "explanation": "确定位置需要两个要素：方向和距离，缺一不可。"
+      "explanation": "确定位置需要两个要素：方向和距离，缺一不可。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ff86d816ff7efab6f962eb06a7a8cf2fa41bffa4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d52fc3f25f6d72bd4b6b311fadfd72ad34f07dff.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "西偏北 60 度"
       ],
       "answer": "东偏北 60 度",
-      "explanation": "直角为 90 度。北偏东 30 度即 $90 - 30 = 60$ 度，即东偏北 60 度。"
+      "explanation": "直角为 90 度。北偏东 30 度即 $90 - 30 = 60$ 度，即东偏北 60 度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8e02c4e2fc285dfd9372cb125cfd6fa499f73703.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1e/1e8c09358693183381ff1d94c869b78632855c52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f3/f36d2edc54a48ba9be824cf303cdd450769a65eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/413d59e66675a6828338510b92c91a5bd486bf24.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0439ec2ba93bfd0f493043164deae51441da4160.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac3149690699cb0427eed9a2fb0775e4d5035e7b.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "放大镜和直尺"
       ],
       "answer": "量角器和直尺",
-      "explanation": "量角器用于确定 40 度角的方向，直尺用于根据比例尺确定 500 米的图上距离。"
+      "explanation": "量角器用于确定 40 度角的方向，直尺用于根据比例尺确定 500 米的图上距离。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f96ded66cf072a974ac8279f715b6ca6096989bf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/229ce182cf00d10d4e4f6507e6efcbf1eb7aecd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/becc5f7e0f2b0b7411cebab358162cc1fc680217.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb2b35d5077ee57b85cb639f9c60276cec8e2c19.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b8b24c7a7bdbe682685357382399be4d2b5e438d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29caa2d19e9df2937dec008f3aaf67f3283cab76.mp3"
+      }
     },
     {
       "id": 8,
@@ -75,7 +103,17 @@
         "南偏西 70 度"
       ],
       "answer": "南偏东 70 度",
-      "explanation": "东偏南 20 度与南偏东的角度互余。$90 - 20 = 70$ 度，所以是南偏东 70 度。"
+      "explanation": "东偏南 20 度与南偏东的角度互余。$90 - 20 = 70$ 度，所以是南偏东 70 度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/978b43f71c5bc8d2a12af4a6d6431656a8cbb4ef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0befa55d35f77741d0fe1c1a9e2c03317f882d48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/afecc8f35f6d2dc4a7a6681ebc9ae20e9bc60c6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e4e25a1831d66ef1905e55ccc0ebc5dba97454b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c1167386df2057fc939edad611e114679e6100f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/18/187d1688fb5b1a448e7a1c090af785fe886091e5.mp3"
+      }
     },
     {
       "id": 10,
@@ -91,7 +129,17 @@
         "指南针"
       ],
       "answer": "比例尺",
-      "explanation": "比例尺是表示图上距离比实际距离缩小的程度。"
+      "explanation": "比例尺是表示图上距离比实际距离缩小的程度。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da300631adefa7e143f295a50ac5077f13d00736.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c9ae0309b0c8ece3c0ef047c44763841a72374a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee8eb283b9afdb9f37c44bc5452c23d0c344bf22.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2504abdf1e8f20d27c8d2f20471e06dd783666be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/5295beb1f9fc4ac78b6a55b9ef9544d9e1c85729.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a36150be019e2955343029e4399095716a6eac5.mp3"
+      }
     },
     {
       "id": 13,
@@ -107,7 +155,17 @@
         "40 "
       ],
       "answer": "4 ",
-      "explanation": "$400 \\div 100 = 4$（厘米）。"
+      "explanation": "$400 \\div 100 = 4$（厘米）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b52de1b481bd285c00632572d5029b549525708f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3c/3cf7e949c5f706857c808d27cf14e3b162153703.mp3"
+      }
     },
     {
       "id": 15,
@@ -123,7 +181,17 @@
         "左东右西"
       ],
       "answer": "上北下南",
-      "explanation": "地图上的标准方向通常是上北、下南、左西、右东。"
+      "explanation": "地图上的标准方向通常是上北、下南、左西、右东。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/087afc8c9ee267af710058f4e24e181153229b7a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15a3aecda3c8bc27e183dd15b71a7b9b2b29bda6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26d61656ad42a94d2f144edd16e57bd63c481597.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ca0103f7aa64e378b9ff2d266b09b829d8ffd6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3af55ff486d63e16e90635c6e76dc87f5c2298a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d9/d9a649261ec3409f7ee8e6f55824111b1cde958c.mp3"
+      }
     },
     {
       "id": 16,
@@ -139,7 +207,17 @@
         "西北方向"
       ],
       "answer": "东北方向",
-      "explanation": "北偏东 45 度所在的射线恰好平分北和东的夹角，即东北方向。"
+      "explanation": "北偏东 45 度所在的射线恰好平分北和东的夹角，即东北方向。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea64a7a79843aee73b97c3ea5f342ff80a2082a3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1bf4cc6699b93c079d851b9781a92ea864712948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16123627737d95cfdd483533424111258ae162d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9383e89c1159a48242d33be610c4d93dac8c543.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01b04432d2eb3dece09be8655760a52938ae9150.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c6a2fb5b51ee34af9dcfd9d11829a2e0fc281f2.mp3"
+      }
     },
     {
       "id": 19,
@@ -150,7 +228,11 @@
       "question": "在一张地图上，用 2 厘米表示实际距离 10 千米。那么 1 厘米表示 ___ 千米。",
       "options": [],
       "answer": "5",
-      "explanation": "列式：$10 \\div 2 = 5$（千米）。验算：$5 \\times 2 = 10$ ✓。"
+      "explanation": "列式：$10 \\div 2 = 5$（千米）。验算：$5 \\times 2 = 10$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08ed1e3c64e450f0c9662694885b1fbdb72fc45a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/571a4e2727b268019c863a45541a37e69e3e3e70.mp3"
+      }
     },
     {
       "id": 23,
@@ -161,7 +243,11 @@
       "question": "计算：$180 - 60 = ?$",
       "options": [],
       "answer": "120",
-      "explanation": "$180 - 60 = 120$。这个计算常用于补角计算。验算：$120 + 60 = 180$ ✓。"
+      "explanation": "$180 - 60 = 120$。这个计算常用于补角计算。验算：$120 + 60 = 180$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74e5597b2ac3b9ac302b511675b8258ad7acdf47.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/45/456cdf44053e75f27cce9f7ba8de25ae89568067.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -172,6 +258,16 @@
       "混淆起始边：例如将‘北偏东 30 度’画成‘东偏北 30 度’。",
       "忽略比例尺：在图上标注位置时直接标注实际公里数而不是转换后的厘米数。"
     ],
-    "tips": "量角时，把量角器的中心对准观测点，0刻度线对准起始方向（如正北或正东）。"
+    "tips": "量角时，把量角器的中心对准观测点，0刻度线对准起始方向（如正北或正东）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/0c/0cd6d4e6653cbda1b86797190ecf483615bb11a8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4d/4d0489832d94231a2f4c22fbe44386be8e2df9de.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/8d/8dd65dc1ae960852aeb2972455abdf47058d3575.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b7/b7a13713dcfaaea92d6a070abda489e36e359531.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ea/ea1497e1e5bc87e8da4207503df122909f57284a.mp3",
+        "https://api.clthuanxie.cn/cc-audio/77/77bd730449eaf5abfb56fdf7a3a8b51b3b41cccd.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,15 @@
         "An hour ago"
       ],
       "answer": "Every day",
-      "explanation": "问频率答频率。"
+      "explanation": "问频率答频率。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3b2eb5131055ad07ac1d08de2f11f900286a51b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da24830f1f7072d55862afb6969c1a4c433ac056.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76c1ed9309018a53265a83e23e319de89ce1bcf2.mp3",
+          null
+        ]
+      }
     },
     {
       "id": 4,

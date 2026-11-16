@@ -16,7 +16,11 @@
       "question": "整时时针指着几就是几时。",
       "options": [],
       "answer": "对",
-      "explanation": "分针指 12。"
+      "explanation": "分针指 12。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51596425e016a2b2145d700586c9436cc4846888.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/aeec99bacb0dada0e5086d893c65f9f088172025.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -26,6 +30,15 @@
     "common_mistakes": [
       "先读分针再读时针。"
     ],
-    "tips": "先看时针定几时。"
+    "tips": "先看时针定几时。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d1/d103aa08720f4ef4112daef2a5c01cf60ece8b08.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ab/ab49bcea19c0e8d0669498e5d4650492bd220062.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/27/27092c757dff43d4a62f5f8554f4e49b5f452f6d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a0/a076baf59eff5aef5bdf27a23929a73bea609a0e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/59/59445e7d13a7f81209bd72c58b7a8914f40a3ea4.mp3"
+      ]
+    }
   }
 }

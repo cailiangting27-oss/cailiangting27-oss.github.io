@@ -21,7 +21,17 @@
         "雌花"
       ],
       "answer": "完全花",
-      "explanation": "四部分俱全的花被称为完全花。"
+      "explanation": "四部分俱全的花被称为完全花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9a/9af16dab64e5ce6d4e0f04450d271bb6c112d987.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/97/97342121cfd0be64754bd908b94ca154191bb6de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7f48c055ee5620cb57dff753cb38331dc233421.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/050e4c4d1a748bbe919d800297511e5086daeb74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/838ebe6ce8d55b178ef57a0bad20db6f7701c379.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99cf3d916c19ee8f0b04e55cc247c084ed021e6a.mp3"
+      }
     }
   ],
   "knowledge": null

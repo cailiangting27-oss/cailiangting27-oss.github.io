@@ -16,7 +16,11 @@
       "question": "升国旗的时候，我们应该立正，行注目礼。",
       "options": [],
       "answer": "对",
-      "explanation": "升国旗是庄严的仪式，小学生应当肃立致敬。"
+      "explanation": "升国旗是庄严的仪式，小学生应当肃立致敬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8f/8ff077a002290f131d7886490d876f6d1088cc6a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fcf1423b3c08ff6a2a73b57c840cabeb77bab17.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "我们都是中国人，我们的祖国是妈妈。",
       "options": [],
       "answer": "对",
-      "explanation": "建立对祖国的热爱是入学教育的第一课。"
+      "explanation": "建立对祖国的热爱是入学教育的第一课。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cf4092fb5abbbf02fca7cf38faf7b0c1a7f96ca.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fa653deb2b0dbb7a25cea721cfaf648ea911b69.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "小鸟向我叫"
       ],
       "answer": "天天不迟到",
-      "explanation": "根据歌词内容，下一句是表达不迟到的决心。"
+      "explanation": "根据歌词内容，下一句是表达不迟到的决心。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62bcf972203872cd24fcb1f14b5026a3ec2b125c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/13/1308ddc0cf0a7eaba1db43a3ee270f7e491cce7a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dfb179d624f91b1b13a70bafe97cc5b33b6dc70.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2029142864438f9638c175df11657949c8765ddb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc32850e819d4d7203ac2ec0a6ba6c064cae56d8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8c/8cd1b06f27a15fed2150e03033da9148ed8b05f5.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "蓝天"
       ],
       "answer": "花儿",
-      "explanation": "《上学歌》原文为“太阳当空照，花儿对我笑”。"
+      "explanation": "《上学歌》原文为“太阳当空照，花儿对我笑”。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecb8a9ed5400a68a07c6c77071a87b731d0e989f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90ec779ad29ded51dac7f31aea77beaeb9be1a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/315a1bd4002c00f123e2673b1b4639fdb6ef84c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa1161b170abbe9af1616dd3175f6002782e22ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db22c53423b76807475ef137b10664865e43bd58.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/876aeba9402aa06190881aa24e45e579f2457b2d.mp3"
+      }
     },
     {
       "id": 9,
@@ -75,7 +103,17 @@
         "蓝色"
       ],
       "answer": "红色",
-      "explanation": "五星红旗底色为红色。"
+      "explanation": "五星红旗底色为红色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc800b888cda2737559b1f5a2db1a6fc3ebdaac1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/176228fd65dc0579823afbb0b4b502e59c76ce92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b5/b56cd23aac8b46138d0a52f388a45e9ae1c3d72f.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "一只"
       ],
       "answer": "一名",
-      "explanation": "“名”是形容人的常用量词，带有尊敬和正式感。"
+      "explanation": "“名”是形容人的常用量词，带有尊敬和正式感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/77213fcae15b25f732e6f3c3610e4854969cc0ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/df/df8c6712960a3844530161a3597e18be310d0ad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8e3ae229f05643b9e5564410de4d290ae42fca4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/7385a5faf995485523756128d1031daf5c88bf20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd16ce3b122653cc4e3b03096169c3cd2354dbb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/de0e230d6af4571fdbf08f1d7a839db55c1df35e.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "我们的祖国叫什么名字？",
       "options": [],
       "answer": "中国",
-      "explanation": "学生应明确自己是中国人，祖国是中国。"
+      "explanation": "学生应明确自己是中国人，祖国是中国。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e422622e15ef799efa9b38803fce9240bd2b5982.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07120880284baffc8a2a48766d92be2ee01f002e.mp3"
+      }
     },
     {
       "id": 22,
@@ -118,7 +170,17 @@
         "孩子"
       ],
       "answer": "我,是,中国,孩子",
-      "explanation": "建立简单的身份表述句式。"
+      "explanation": "建立简单的身份表述句式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/786d434bead5151f449c53a3fc40f2dac59f6218.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/30/30160a21b92a049fc2befcdb70039ed5099df41f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34f201bc507e33caaef736de328bf041234d1138.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc9c0b8ca1e40d1b41e1548e82876a2ecb2eae57.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bdf9cfbec59ec8b9c670e4c0cf0d3df808ce40c.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -129,6 +191,16 @@
       "国名书写或发音不准确",
       "混淆国旗底色和星的颜色"
     ],
-    "tips": "通过观察国旗图片和学唱《上学歌》来辅助身份认同的内化。"
+    "tips": "通过观察国旗图片和学唱《上学歌》来辅助身份认同的内化。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3b/3bcf1b2a1addc7e2aaee5a702d3b6ad3d665e277.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b8/b84fa148802e9484ce220640c858bdab2ecac139.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/335043228c162a6de3d20e3cff905d98b0b99474.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/9a/9a9948ec66fa33cba5e5a7bdb8ce132d7faed33d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/40/407767f1aac6a8dc5853627235ba8410bae88036.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9b/9b4cccddce8b6dd5b0761a4b5495995ce40ca7c4.mp3"
+      ]
+    }
   }
 }

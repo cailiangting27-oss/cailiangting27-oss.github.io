@@ -23,7 +23,12 @@
         "type": "math",
         "ans": 10
       },
-      "knowledge_point": "从 11 减一减"
+      "knowledge_point": "从 11 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3b3954ea1b8b2bb6f14e8ae2c99f52c41e15ed0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fb52a24480466e0b856f7f23e775dc5641bbc87.mp3"
+      }
     },
     {
       "id": 111,
@@ -41,7 +46,12 @@
         "type": "math",
         "ans": 9
       },
-      "knowledge_point": "从 11 减一减"
+      "knowledge_point": "从 11 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/93/93018ef735c19630e43afcd9eab8317d57994524.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/93/93ceb8fcbf5645600aae8ef2dd033570fe5e5574.mp3"
+      }
     },
     {
       "id": 112,
@@ -59,7 +69,12 @@
         "type": "math",
         "ans": 8
       },
-      "knowledge_point": "从 11 减一减"
+      "knowledge_point": "从 11 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/10/105c0ffee478470d06d353b1e73b88acac62feea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5ceff8d6221be8a156b55151f460611d0642ffc.mp3"
+      }
     },
     {
       "id": 113,
@@ -77,7 +92,12 @@
         "type": "math",
         "ans": 7
       },
-      "knowledge_point": "从 11 减一减"
+      "knowledge_point": "从 11 减一减",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e8981fefe0728507e1304db30ee62b22d59021a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98ddfe74440d8931b563858fbd1082168abceba0.mp3"
+      }
     }
   ],
   "knowledge": null

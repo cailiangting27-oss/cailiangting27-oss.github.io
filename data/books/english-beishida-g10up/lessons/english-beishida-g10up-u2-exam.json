@@ -37,7 +37,15 @@
         "not"
       ],
       "answer": "doesn't",
-      "explanation": "第三人称单数否定。"
+      "explanation": "第三人称单数否定。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b0/b0d1d894a4aed77f598aa155982ad66f45cd947f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/3090d78152a3e621d5e445916ba15d50c674da30.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee2ebf5133051bf39cd49d499acea403e44a4978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/55/557f255516719ea16f8f4a0aae1166054e2c9b43.mp3"
+        ]
+      }
     },
     {
       "id": 7,

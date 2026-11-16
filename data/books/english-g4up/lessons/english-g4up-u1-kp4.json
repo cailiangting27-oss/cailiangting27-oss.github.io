@@ -16,7 +16,11 @@
       "question": "单词 'face' 中字母 'a' 的发音与 'cat' 中的相同。",
       "options": [],
       "answer": "错",
-      "explanation": "face是开音节发/eɪ/，cat是闭音节发/æ/。"
+      "explanation": "face是开音节发/eɪ/，cat是闭音节发/æ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/35/35b73ad43bd65deeb1df9e956a608d835cb9c6c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39643902de6e8562218f0d310f94a756919c8420.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "cat; cake"
       ],
       "answer": "make; face",
-      "explanation": "make和face都是开音节结构，字母a发/eɪ/。"
+      "explanation": "make和face都是开音节结构，字母a发/eɪ/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1c/1c0ac33e9016172c709676fadd97f09201af80bb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad2642a0d992e204aa1df40374e55358852e4cff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34307956ed79b7e234d1c229be8c131a8d32fdcc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ffdc904335b4157c204b49bf100ce24f576cbc2a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f163a523fd48f68abd0d096c736053a6451f6d0c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a4/a47aafd5f6408d013686b538f9340e62b9242874.mp3"
+      }
     }
   ],
   "knowledge": null

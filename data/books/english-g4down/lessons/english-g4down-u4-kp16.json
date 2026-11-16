@@ -25,7 +25,21 @@
         "土豆"
       ],
       "answer": "A-4,B-1,C-3,D-2",
-      "explanation": "potato-土豆, goat-山羊, hen-母鸡, onion-洋葱。"
+      "explanation": "potato-土豆, goat-山羊, hen-母鸡, onion-洋葱。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c0cf4908a7739d8a6b631a894df056c06643dfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3e2e95f5ad970eadfa7e17eaf73da97024aa5359.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/162d15a0c695fc8cf15dc1993a627e676194f59e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d811086176db6c0937801307297ba5c0a9296324.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6ac8c09b23dfda5c22b9075292cb6e505c4b8fbf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02e0e45ea6727f168ce9621237aeda182d3d345b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/25c1afe5619f8aeabafd04ddb562a4edb6c2bd3a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/26/26cf1c4b476aa14bf31f37f68d33e137fd90e3ca.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d416eb3848895d74d9536aa62830991d3813091b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c79b9a5361dc712337add80c8df30030354c201.mp3"
+      }
     }
   ],
   "knowledge": null

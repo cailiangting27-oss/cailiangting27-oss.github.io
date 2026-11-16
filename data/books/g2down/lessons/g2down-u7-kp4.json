@@ -16,7 +16,11 @@
       "question": "898 的近似数是 900。",
       "options": [],
       "answer": "对",
-      "explanation": "898 距离 900 只有 2，距离 800 有 98，所以最接近 900。"
+      "explanation": "898 距离 900 只有 2，距离 800 有 98，所以最接近 900。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e88c1517b82625d432da53512a876258bcbb924.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d07179378f7f07c7266c7195059c484d96c3404b.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "701"
       ],
       "answer": "598",
-      "explanation": "598与600差2，697差97，508差92，701差101。差值最小的最接近。"
+      "explanation": "598与600差2，697差97，508差92，701差101。差值最小的最接近。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06edd6406be472182d42c2ec60d4bb3defc1e757.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91eb375e8e71d9ce2f7cde8b0a757f66c94c998a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff5ae4a7485c5c734d9e9cd8a8d875bf5ebddf60.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/07a85bd180d31c968e6dc5989ac4de434918dd41.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/9170981d59d0f8d3f003ef0f289394ded6a00696.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfe2885f2f4215e353038965bfa912c30cbd45ce.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "2000"
       ],
       "answer": "4000",
-      "explanation": "2100看作2000，1800看作2000，2000+2000=4000元。"
+      "explanation": "2100看作2000，1800看作2000，2000+2000=4000元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d8ab6c94334111f827117667a7d3218589eef3b5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/75/7507d41ecbd162a0d6dfdaaa9988a91184351735.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e0b2d81c80b94799aeef126f990f48cdb5505bbc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8237d8959e03355010bb85cc3dc46a46fb31110.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4ac914c09d7c097fe1f4f96b897e625b6922069.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/281d2a9224f055260c0e409ee5f3b9d628f75f68.mp3"
+      }
     }
   ],
   "knowledge": null

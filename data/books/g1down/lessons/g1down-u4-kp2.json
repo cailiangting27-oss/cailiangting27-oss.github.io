@@ -16,7 +16,11 @@
       "question": "从右边起，第一位是个位，第二位是十位，第三位是百位。",
       "options": [],
       "answer": "对",
-      "explanation": "数位顺序表规定：右起第一位是个位，第二位是十位，第三位是百位。 ✓。"
+      "explanation": "数位顺序表规定：右起第一位是个位，第二位是十位，第三位是百位。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8eea4c06c7e1e8001caa16ceb11f8900895508a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/312742888677b11e28153b48be1c3825f6886d10.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "读数和写数都从高位起。",
       "options": [],
       "answer": "对",
-      "explanation": "这是读数与写数的基本规则：从最高位开始读或写。 ✓。"
+      "explanation": "这是读数与写数的基本规则：从最高位开始读或写。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/bea0f13025a8a8e3a156ede685838788070f77bb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ba/baf65d4d161e6ce65d8c54ddd4c9e9a0ee255386.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "6"
       ],
       "answer": "6个十",
-      "explanation": "左边的6在十位上，表示6个十；右边的6在个位上，表示6个一。 ✓。"
+      "explanation": "左边的6在十位上，表示6个十；右边的6在个位上，表示6个一。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5abf63bf4cc3ba6b6903bdd128530aedbfdb9a2f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf61c45eeda28aea963ebfd5014824dcd98a0196.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09b99a31f2a6c8f371604416f2eac4f47ffb685f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b64a436dff24e88d38dbbdb06edf87b422bcf75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3d/3d192f27fd440a600ef66b1b7901463dd123646e.mp3"
+      }
     },
     {
       "id": 16,
@@ -59,7 +77,17 @@
         "74"
       ],
       "answer": "74",
-      "explanation": "要组成最大数，十位选最大的数字7，个位选剩下的数字中较大的4。结果是74。 ✓。"
+      "explanation": "要组成最大数，十位选最大的数字7，个位选剩下的数字中较大的4。结果是74。 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c7689ac3fea7a3ca3df0dc563aed50bcd8089013.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/827bfc458708f0b442009c9c9836f7e4b65557fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f1362ea41d1bc65be321c0a378a20159f9a26d0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99c526d499cf975827229f1390e3d87f540b8205.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "写数时把“三十”写成“3”，漏掉0。",
       "读数时加上单位，如把35读作“3个十5个一”。"
     ],
-    "tips": "画一个数位表：左边是百位，中间是十位，右边是个位，把数字填进去就不会错。"
+    "tips": "画一个数位表：左边是百位，中间是十位，右边是个位，把数字填进去就不会错。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e1/e197803e1c56ceaa44a16cdfe3fd58563632776e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d7/d7f1dde94d08e7806859abe1168018b6518db150.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/bc/bc3f4df826180cb7d2770ed248ec575d71b8412a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8d/8db0481e2eb537dc74bd461992c029d0238834e7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/73/73c4dbe37f0c0a82532c0b78434998bce8b07a56.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ed/ed598a0fbeb40c001cb31e140eae6e9a1efb386a.mp3"
+      ]
+    }
   }
 }

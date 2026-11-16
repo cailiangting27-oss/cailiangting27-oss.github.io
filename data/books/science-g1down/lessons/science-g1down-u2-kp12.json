@@ -21,7 +21,17 @@
         "长在口的两侧"
       ],
       "answer": "长在长触角的顶端",
-      "explanation": "蜗牛有两对触角，眼睛位于较长的那一对触角的顶端。"
+      "explanation": "蜗牛有两对触角，眼睛位于较长的那一对触角的顶端。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab9f53ebab27a4e40c3d146fda01024a65539f28.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b0d4f15bb3b1ca16b6a6e355fb670ac96d1e5fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d73852f9dad4e97d102a44da048a4c5fc22171ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0c9f359eb538ce15747f53dd56c834a9cdb20122.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/108887533ddee4919a2399631b001217fd8eda4a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/48f813a18cb4b7c1c3b854f35a75b1bbbebd4f20.mp3"
+      }
     }
   ],
   "knowledge": null

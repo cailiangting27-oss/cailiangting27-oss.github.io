@@ -25,7 +25,21 @@
         "小刀"
       ],
       "answer": "A-3,B-1,C-2,D-4",
-      "explanation": "spoon-勺子，bowl-碗，fork-叉子，knife-小刀。"
+      "explanation": "spoon-勺子，bowl-碗，fork-叉子，knife-小刀。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36ffa5dc02935a0341909c4e5a424e76150ebcf5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f5/f557e92965db8298e8e3b0ddeb9224fc4af963ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a07eca0993872febdb68d0bbeb05d6f53780c62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f673f2a8e0aacb6d0fa4504233f4f284e4a1b4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e32618ee300d43fe570b8bd0113e53c73dc5be4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/435622d3a4845a5cc7f05775c57ab2ff78891d82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/244371193d549c0751418d9e0be71003b4169517.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed224c6e847cfee64d8b0d854ce3bf00ffbddd92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e78f3b921dfc1b8446f8c7a4ada06b647504f01.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4b0088eb4b38da9feb817e22f75aae14fe5c9fb.mp3"
+      }
     }
   ],
   "knowledge": null

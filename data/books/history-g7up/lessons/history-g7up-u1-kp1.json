@@ -37,7 +37,15 @@
         "玉米"
       ],
       "answer": "粟",
-      "explanation": "北方半坡种粟。"
+      "explanation": "北方半坡种粟。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d71a077cd4e64b2ffdb11affdebcfb351efaf7c.mp3",
+          null,
+          null,
+          "https://api.clthuanxie.cn/cc-audio/85/8531dc2f3fb0510d992ab5a4be4898cda5322d17.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

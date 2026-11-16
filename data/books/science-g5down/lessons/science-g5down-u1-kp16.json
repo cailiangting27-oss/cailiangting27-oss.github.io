@@ -21,7 +21,17 @@
         "适应气候和食物变化"
       ],
       "answer": "适应气候和食物变化",
-      "explanation": "迁徙是动物因季节更替而产生的适应环境的行为。"
+      "explanation": "迁徙是动物因季节更替而产生的适应环境的行为。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4c473bab481f0c941d0507e24e41dbe7eedbf0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4ec348b69b59512e8b44c527633a0dc7d6e4ccf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97a5fc69b7ebe920f261d5e71337dabac6f87173.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31ce321009bd4c087085b43c4eba7465ffce4bfe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10a7acb1eaa7c3fde22a692a1089d6d02d9a53ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/65b49d40199bcbcf35e0f70c7dad0cd2950cbd48.mp3"
+      }
     },
     {
       "id": 13,
@@ -37,7 +47,17 @@
         "换羽"
       ],
       "answer": "冬眠",
-      "explanation": "冬眠是变温动物适应严寒和食物匮乏的行为。"
+      "explanation": "冬眠是变温动物适应严寒和食物匮乏的行为。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/31/31b9fa2b4330c761bb33227f12a91f06eddf69c7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/617b8477b010a9ad7cdf22f63be524640974b7d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45b039965b5d039ef31f0639a7c3919d9cfeb4fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65e14ee1811686584039cbc03ef2de423ee3ee89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4badea7602b297e39aaef719750eedc47823f4a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/3941357aa38e3e94f987fa2524ca30c0b75e3dc7.mp3"
+      }
     }
   ],
   "knowledge": null

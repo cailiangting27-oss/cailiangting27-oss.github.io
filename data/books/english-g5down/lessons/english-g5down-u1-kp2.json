@@ -16,7 +16,11 @@
       "question": "'sometimes' 放在句中，意思是‘总是’。",
       "options": [],
       "answer": "错",
-      "explanation": "sometimes 是‘有时’，总是是 always。"
+      "explanation": "sometimes 是‘有时’，总是是 always。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e2/e2d8b406355d6bef52abb9f3b78dfd36aca558e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79f4c47fca079184afe44a65f20d72841d900869.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "can"
       ],
       "answer": "usually",
-      "explanation": "问经常做的事情，通常用频度副词usually。"
+      "explanation": "问经常做的事情，通常用频度副词usually。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/1929807e8464ac719b753e1d2990b57fc4b1cbff.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/66c2fa4e9e56695791a43a16b1e7e46e2db759e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1863835675e3970e15e5c22411ef60824eb55591.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/164a5c24f5df5918f285228443ab87209785293f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7e9219a0599eae1d9601883f894b4fbe60870586.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bc4a9e11cf32f7f4a2c4c298d0ab5bfc37d4dbd9.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "is"
       ],
       "answer": "sometimes",
-      "explanation": "句意表达频度，需要频度副词。"
+      "explanation": "句意表达频度，需要频度副词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78c84f267d63e37aa4ea534d8b92aeb4687c5996.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/297f31f02b99ab3fd2219c31def8a1392a5f35b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e74295bfc2ed0b52d40073e8ebad555100df1380.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc19318dd13128ce14344d066510a982269c241b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b47f363e2b430c0647f14deea3eced9b0ef300ce.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e97d72ff0513cf9ad2e4ea4c52c11b2df3943353.mp3"
+      }
     },
     {
       "id": 21,
@@ -68,7 +92,21 @@
         "通常"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "always-总是, usually-通常, often-经常, sometimes-有时。"
+      "explanation": "always-总是, usually-通常, often-经常, sometimes-有时。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6ee1f179fd8e93ff0be7d4e72466e8ecf19386a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/66/6656018ac96d0295d887ff2893ba9af66ae16af2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66c2fa4e9e56695791a43a16b1e7e46e2db759e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b77993c34761277d83fe0a20a64053aee43fd20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/297f31f02b99ab3fd2219c31def8a1392a5f35b7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8947a57389baa3051dab033285d12dc8dba57ed0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/11/11089071d89fe03e9b91389f2848eb23954b5a4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13a9a332bed4a688125c4556d31ac63dbe89cb92.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3455e23b6e0e320aa3a8870bddd57682f41419.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/00df23ca47841a8a4f6ca2f4ee79daa84002b508.mp3"
+      }
     }
   ],
   "knowledge": null

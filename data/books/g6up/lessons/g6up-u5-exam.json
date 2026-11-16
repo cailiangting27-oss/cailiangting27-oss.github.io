@@ -16,7 +16,11 @@
       "question": "圆心确定圆的位置，半径确定圆的大小。",
       "options": [],
       "answer": "对",
-      "explanation": "这是圆的基本性质：圆心定位，半径定法。"
+      "explanation": "这是圆的基本性质：圆心定位，半径定法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/08/08ebb67e35ae272b07034f3fc8c72a2efeffcabb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da434d4fcf7cfbe52395cdcbd8870bd4a4e09085.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "直径是圆内最长的线段。",
       "options": [],
       "answer": "对",
-      "explanation": "经过圆心的线段是直径，它是圆内所有线段中最长的。"
+      "explanation": "经过圆心的线段是直径，它是圆内所有线段中最长的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3beb5fa176a451e3638d574a428c30d13aaa7a57.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/38/3832e8e74fba0aa49323bb42b035daa2144bdd92.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "两个圆的周长相等，它们的面积也一定相等。",
       "options": [],
       "answer": "对",
-      "explanation": "周长相等则半径相等，半径相等则面积相等。"
+      "explanation": "周长相等则半径相等，半径相等则面积相等。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7e416aaa3116d774b80b351f1c624f4e63d21ec8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/080c5a9cef011801023222af32ce5c64d176307f.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "顶点在圆心的角叫做圆心角。",
       "options": [],
       "answer": "对",
-      "explanation": "圆心角的理论定义即顶点在圆心，两条边是圆的半径。"
+      "explanation": "圆心角的理论定义即顶点在圆心，两条边是圆的半径。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6e/6e4071ae3cf164824cd75aa77c9f4e5921207784.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/672448d0689d2ff4d3a0110f5f88783003b35832.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "16"
       ],
       "answer": "4",
-      "explanation": "正方形内最大圆的直径等于正方形的边长。"
+      "explanation": "正方形内最大圆的直径等于正方形的边长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/6906f2d41e8e84a180c197ebad3fd7bc54d74469.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/666036203d6a6119813a5e8a817a9eedfdce1196.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "无数"
       ],
       "answer": "1",
-      "explanation": "半圆只有一条对称轴，即通过圆心且垂直于直径的直线。"
+      "explanation": "半圆只有一条对称轴，即通过圆心且垂直于直径的直线。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ed314cefd0a08cec1657057095b43bf27e098bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48188eacb684c2af03eabb4154382b0a68555384.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1d/1def0172c8ece5e2c34371b94affbc024a83c079.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "面积"
       ],
       "answer": "周长",
-      "explanation": "轮子转动一周的长度等于它的圆周长。"
+      "explanation": "轮子转动一周的长度等于它的圆周长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/04/04b5d8d8fee7a49bcd2b32ca545f1a1993de05df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b29ee13085ed3138e1a04902fb82cbe79493cc25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/306fecb9d8e7afe2b508a6dd99b1b122f841ef64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b59c17de9616105dc654d143e4a1fe148829620.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac2c28db876969f993be7bdd89b4344caeb92a46.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb57e33f9fe99f79fce080ca0f00162085a08ba0.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "20"
       ],
       "answer": "62.8",
-      "explanation": "分针走1小时是一圈，$C = 2 \\times 3.14 \\times 10 = 62.8$。"
+      "explanation": "分针走1小时是一圈，$C = 2 \\times 3.14 \\times 10 = 62.8$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/46/46183b1698c948975f56ddd4430f51981b91baf2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bc/bc9da136f7e48b20aa4e464ca4975cd649fe64a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3ca909d6be7d7ada221a7cfb2756ac55dbb90d95.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e21fce62b88ee824118ee6f3d791d78a748f9a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/942711558f88bae36bb5a4ea46f1dbdbc1e2b9e1.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "无法比较"
       ],
       "answer": "无法比较",
-      "explanation": "圆没有底和高的概念，通常与正方形比较。此题考查概念界定。"
+      "explanation": "圆没有底和高的概念，通常与正方形比较。此题考查概念界定。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/439ca6f423adfaa842aa83524abb490aedb0492e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/781175e97e7045c67fa77cad4e6e4cdaf83b06ec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4143cae180b58bea02e94ca47f33f6956878e2a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/675a00524d97b11f1ee117086dc39659b5253aec.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c9/c96360e88c4c90074089addb4c0da88a43496842.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd358b3887697dea83a099fee73413be03b1e9df.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "25.12"
       ],
       "answer": "12.56",
-      "explanation": "$r = 12.56 \\div 6.28 = 2$，$S = 3.14 \\times 2^2 = 12.56$。"
+      "explanation": "$r = 12.56 \\div 6.28 = 2$，$S = 3.14 \\times 2^2 = 12.56$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/90/9016739a64eb4b1cd4a97e50811735619f4c5898.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/59226be5c1c97af91d1647c0ebbc1e74df37b150.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a6c8c7a133f1731357eb05c0a0172ee02f8518a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/983b34771fb7185d04c9603559c9e46f4b70496d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0845d02ff0057f4c35e15e2c7547745e80b35ef3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9b22a41a752e78d702acbfede5a947720bd9116f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "切线"
       ],
       "answer": "直径",
-      "explanation": "直径通过圆心，是圆内最长的线段。"
+      "explanation": "直径通过圆心，是圆内最长的线段。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d23648f84f23790ff5b7bbbd8f89a73c1ca47b5d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b29ee13085ed3138e1a04902fb82cbe79493cc25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/306fecb9d8e7afe2b508a6dd99b1b122f841ef64.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72ce03437c1358cbd941abf376df7f678e5fd67e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/dfd63d7001cabbff257ff553ed844bb66a09c6af.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e8/e82ae285eb4408e04759024565f5f8b50c95cfb7.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "4"
       ],
       "answer": "12.56",
-      "explanation": "$C = 3.14 \\times 8 = 25.12$，半圈为 $12.56$。"
+      "explanation": "$C = 3.14 \\times 8 = 25.12$，半圈为 $12.56$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d04c6621f9f5f0faf6fdc3f7a11310d2dd901097.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/08/0845d02ff0057f4c35e15e2c7547745e80b35ef3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59226be5c1c97af91d1647c0ebbc1e74df37b150.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c1ebd6c81f08d71c6dd19a307f53661559b6ffb3.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一个圆的直径是5厘米，周长是 ___ 厘米。（结果取整）",
       "options": [],
       "answer": "16",
-      "explanation": "$3.14 \\times 5 = 15.7$，取整为16。验算：$16 \\div 5 \\approx 3.2$ 符合π范围。"
+      "explanation": "$3.14 \\times 5 = 15.7$，取整为16。验算：$16 \\div 5 \\approx 3.2$ 符合π范围。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f4a517e143f9de68d54eba60c3a255d2da50885.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/5491d6015de71c588f003173eeb03e0bddb26c57.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "半径是2米的圆，它的面积是 ___ 平方米。（结果取整）",
       "options": [],
       "answer": "13",
-      "explanation": "$3.14 \\times 2 \\times 2 = 12.56$, 取整为13。"
+      "explanation": "$3.14 \\times 2 \\times 2 = 12.56$, 取整为13。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b473942fd342cd4c2dc4f8719af741049f39934a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/02bb8913ae3194e41b1f5147ed615af26871fd2f.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "计算半径：$d = 100, r = d \\div 2 = ?$",
       "options": [],
       "answer": "50",
-      "explanation": "$100 \\div 2 = 50$。验算：$50 \\times 2 = 100$ ✓。"
+      "explanation": "$100 \\div 2 = 50$。验算：$50 \\times 2 = 100$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/990449fe0fdd3f886b63b6c4f817db3bb21d0a54.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6c/6c41897aedb6359d72a95dd712b475a0ec825b7c.mp3"
+      }
     }
   ],
   "knowledge": null

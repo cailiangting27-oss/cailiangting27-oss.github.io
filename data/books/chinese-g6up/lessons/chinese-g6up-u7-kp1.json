@@ -16,7 +16,11 @@
       "question": "《伯牙鼓琴》中的“鼓”字是“鼓动”的意思。",
       "options": [],
       "answer": "错",
-      "explanation": "这里的“鼓”是弹奏的意思。"
+      "explanation": "这里的“鼓”是弹奏的意思。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f936acfa10317bd082d3031e1c6659b5ab174217.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4d07a2d13ffbf3f7b5715f158f240fa1b44f86cb.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "志向"
       ],
       "answer": "心里想到",
-      "explanation": "志在即心里想到，这里指伯牙弹奏时的心境。"
+      "explanation": "志在即心里想到，这里指伯牙弹奏时的心境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6d9e6b3a990a06c468c10c3ff5d3269f048cb31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c9/c972167108afd1ad42a0b38dad58bbfd102d47fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/47583380b420afec4c4a823656c86e633d4b42fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2ca3acf289cbe4e93a763fdd33cd3bb3a82dda5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/ea5e5323b9b09bb0b436d06ac05ad19ef11c016e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b3b0cc44407129aab58b1a26b3896d089524014.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "他找到了新知音"
       ],
       "answer": "钟子期去世了",
-      "explanation": "因子期死，伯牙谓世再无知音，乃破琴绝弦。"
+      "explanation": "因子期死，伯牙谓世再无知音，乃破琴绝弦。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e987cd5e348ec02444bf82bb894988f2ab1cab9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8c/8c6361a02ce89b9fc69762ca4670063b38cba7c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d9f845c32e94eb93d0b30adc16c64fcbf3c9af4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c30a97efa62a1a42e6fd89db3d3cce720891d8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b905c8d0a45b7528e5d10768affa8cebae5bed78.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7c/7ca2f5eee401c9108ae084b861668b0698cde031.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "充足"
       ],
       "answer": "值得",
-      "explanation": "“足”在文言文中常用作“值得”之意。"
+      "explanation": "“足”在文言文中常用作“值得”之意。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/63/63b3293eb09838facd38c10bf88ec67ee56b47d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e4564baab7b9bceb26052710e08853bf8fdd0ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514ef76f62517512927f78a448abe44c2e7657d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c875605bfdeefed247e87e397f7ab1c6ce8a5d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb8cb07eec1c89b046d4f2b9e5eca6eb20b94da2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b3ef5b15119ddaeb4ca6dd0fc8dce450c215e9b.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +109,11 @@
       "question": "伯牙和（___）的故事被传为知音的佳话。",
       "options": [],
       "answer": "钟子期",
-      "explanation": "伯牙鼓琴，钟子期听之，两人是知音。"
+      "explanation": "伯牙鼓琴，钟子期听之，两人是知音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f7/f7f6f9207374b00fe85f8479efee828edf0bb7d9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36d2ed788a89eb468cd1e19501ec857529889120.mp3"
+      }
     },
     {
       "id": 19,
@@ -95,7 +133,21 @@
         "认为世上没有知音"
       ],
       "answer": "A-3,B-2,C-1,D-4",
-      "explanation": "巍巍（高大），汤汤（浩荡），复（再），足者（值得交往的人，指知音）。"
+      "explanation": "巍巍（高大），汤汤（浩荡），复（再），足者（值得交往的人，指知音）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/602590ae14a5b118b6fb9fb08233f77e15837b50.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/672ef6a9daf6bbc19cea051f77124459a3c385bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7bef40bee2d8b5db3e08eded45f7efeae3c0bd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6d6499be2cd9790730db4855bb6a8410b2fca7f7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d2d4bc4db6b8e5ded343a517a2836efb202b28c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/36f3dce9107a6cc27b15e352058bd361ae72354f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/449ff365f04f0e7729f21f37b5ee2011e8491a16.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5ce6ae4fdcabb51f34b2ed9d0ead5beb82bda8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e97dc7f77486f42057d13c49744fedaed8699b4f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6ed3fed04a228867abe94636e39b8c718e29ef2b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "将‘鼓琴’理解为敲鼓",
       "‘善哉’理解为心地善良"
     ],
-    "tips": "结合‘高山、流水’的意向通过文后注释进行对比记忆。"
+    "tips": "结合‘高山、流水’的意向通过文后注释进行对比记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/55/5536ae26921205a307d050c532da3262c33b1235.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/24/24df25ee3b86af9e916d645e01102616f0ba7d22.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fa/fa18956257f7004f66cb4577e73ce7546e55c11c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/50/50c37a0b0067af5fa48bbfaafb12db9848dcca6d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fc/fcdf4145fcffb13762f1fd22ff68b56f1894b3eb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/21/21a5d6e59e5000836818a922c6c8617983374ec8.mp3"
+      ]
+    }
   }
 }

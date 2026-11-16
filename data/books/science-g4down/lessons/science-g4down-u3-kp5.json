@@ -16,7 +16,11 @@
       "question": "岩石和土壤是地球上非常重要的资源，我们可以随意开采。",
       "options": [],
       "answer": "错",
-      "explanation": "岩石和土壤是地球上的宝贵资源，形成需要漫长的时间，不可随意损耗和浪费。"
+      "explanation": "岩石和土壤是地球上的宝贵资源，形成需要漫长的时间，不可随意损耗和浪费。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee69fca9b0a70c5de9f8a52a71286c05b5834f02.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8977c6b4ede4bad8106435b04b52fb33654332e.mp3"
+      }
     },
     {
       "id": 11,
@@ -32,7 +36,17 @@
         "皮鞋"
       ],
       "answer": "铅笔芯",
-      "explanation": "铅笔芯的主要成分是石墨，石墨属于矿物资源。"
+      "explanation": "铅笔芯的主要成分是石墨，石墨属于矿物资源。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2c9bbebf1cf235cf3e57c6545f11abce97f66e6f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/223abcba3282b17986e8336f971b985c3f17c198.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49440c44ee63f615e015169a1e96f882ca2fb3c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b908f4f8db7c65cc60b4f058b88d08fc7ccf03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de3bef8a5fa90c3d57d6e00891bd8cff8cd63da9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ca/ca18e14b87a2626a63e548a408d5773e7f89f887.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "磨损"
       ],
       "answer": "风化",
-      "explanation": "自然界中岩石受冷热雨水空气影响变碎的过程称为风化。"
+      "explanation": "自然界中岩石受冷热雨水空气影响变碎的过程称为风化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/966d503117b030921cd2a9614a829460bf57410c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0a/0ad06a3d1b6d5c6977f2f7ee9dd1dca7388aed17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/92636ac91942871721d6de8aca0e876f50d765e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/792868068e4b43c926e1a44f6e04bb3de4bee8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7df861c273a02629fb3fe59d1a56923879d5dcd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ef1299b2ee18c0164f11d832bcd2b79a4f63284.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "加快开采以满足需求"
       ],
       "answer": "加快开采以满足需求",
-      "explanation": "矿产资源属于不可再生资源，应有节制地开采并注重保护。"
+      "explanation": "矿产资源属于不可再生资源，应有节制地开采并注重保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ba/ba869b3f8f7b4302a01e02db3d64f60a11ca9d29.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/01/01c68808d4e61e54abd54dd428813f4196cb8536.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/821120f38a0a7ac9fdb2c1a9f122d1d82c87137a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b63c234523ae8d9a644bb5219aef6567862286ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3c0b65df26c66a0eea4f0bca6ff11bfe6cb2c497.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/60a2424b9e4ac0bc8cc634d5f6ffc017b4602ad0.mp3"
+      }
     }
   ],
   "knowledge": null

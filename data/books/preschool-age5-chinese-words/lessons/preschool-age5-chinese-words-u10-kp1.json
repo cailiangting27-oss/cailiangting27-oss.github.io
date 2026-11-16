@@ -23,7 +23,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 10"
+      "knowledge_point": "认字小课 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/1d/1d5639f716b643b7204f04b0c3ef9ab222ee75ba.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5ccce16197a331b844b79ca001a9c3b0da424105.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ea/ea75ce0ca6253f7d108c75325dee85178ce8df0e.mp3"
+      }
     },
     {
       "id": 47,
@@ -41,7 +46,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 10"
+      "knowledge_point": "认字小课 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/49/49ddb069d5b8358521ebc0dc49d8a6b22de8b231.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5ba0dee7fa2dda8d5a23f70ddb09a6ffddc07351.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b3ee252536dca268a33b3fe4a4098d4fba66fcc6.mp3"
+      }
     },
     {
       "id": 48,
@@ -59,7 +69,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 10"
+      "knowledge_point": "认字小课 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/4f/4f88740b348014a4eef0d2132f6cc2fced6f5b3d.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f1052647a34f046842e5c9bc08b293c1b8722d6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37d440998c4b6f36732ad6b7deb5fed4e440ea5d.mp3"
+      }
     },
     {
       "id": 49,
@@ -77,7 +92,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 10"
+      "knowledge_point": "认字小课 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/8f/8f07f53d63e166c78821aba2e482990e6674bb17.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/45/45bbdf4632d9179c6e24df71381eff24617a4e4c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0c447e638b304f9187ef121068e83f22bd3af51.mp3"
+      }
     },
     {
       "id": 50,
@@ -95,7 +115,12 @@
         "word": true,
         "type": "word"
       },
-      "knowledge_point": "认字小课 10"
+      "knowledge_point": "认字小课 10",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/3d/3d72c724e03b360484cd7a9000f14544b50a0957.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4fd1ed1c200e3dd6e2a00d43237080e61dfbc5f1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2eff31fc2af35cca48f54cb26311b176a47ac3f0.mp3"
+      }
     }
   ],
   "knowledge": null

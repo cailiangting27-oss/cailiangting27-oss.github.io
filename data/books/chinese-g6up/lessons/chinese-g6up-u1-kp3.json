@@ -16,7 +16,11 @@
       "question": "“我是亲友之间交往的礼品，我是婚礼上的冠冕，我是生者赠与死者的最后的祭献。”这句话运用了排比的修辞方法。",
       "options": [],
       "answer": "对",
-      "explanation": "句中出现了三个结构相同（我是...）、语气一致的短句排列在一起，符合排比的定义。"
+      "explanation": "句中出现了三个结构相同（我是...）、语气一致的短句排列在一起，符合排比的定义。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/89/894810da7915299d7f872772f711405b7c07dc9e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97f86f523ff271a09f84825416af11831dae5ce9.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在并列关系的分句之间，如果没有逗号，则不能使用分号。",
       "options": [],
       "answer": "错",
-      "explanation": "分号用于层级在逗号之上的并列关系，若并列分句内部已经用了逗号，则分句间必须用分号；若没用逗号，一般用逗号，但有时为了强调关联也可用分号。"
+      "explanation": "分号用于层级在逗号之上的并列关系，若并列分句内部已经用了逗号，则分句间必须用分号；若没用逗号，一般用逗号，但有时为了强调关联也可用分号。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9daab7e90bf0e3adab451baede36e94bc8a33252.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/def8e0cde02132e6fb13ab51c7d96c67e4afb043.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "羞涩（shè） 豆腐（fu）"
       ],
       "answer": "渲染（xuàn） 迂回（yū）",
-      "explanation": "B项参差应读cēn cī；C项拘束应读shù；D项羞涩应读sè。"
+      "explanation": "B项参差应读cēn cī；C项拘束应读shù；D项羞涩应读sè。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e45be699d58c421c6c8b9253735a4195aec738ae.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/34/34193d3348d67c4a3cff5ce23ebadf4e1edbf200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dc/dc016a169b149dfef3307204f16a03bfc6dcde79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/217661741809e1245c60175c73317c86de4d0073.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c965ae594dd170587d5310151b52d819817aebc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09fbcb5d2718524a3b71a82df3d6eba1e6430550.mp3"
+      }
     },
     {
       "id": 7,
@@ -59,7 +77,17 @@
         "夸张"
       ],
       "answer": "比喻",
-      "explanation": "把“盛开的花”比作“张满了的帆”，中间有本体、喻词和喻体。"
+      "explanation": "把“盛开的花”比作“张满了的帆”，中间有本体、喻词和喻体。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cde71eed361bfa911c6068029939312b33f733d6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7f8dfb238d25f44ef3232c5855d606ffac7a6f34.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "我们要努力学习；天天向上。"
       ],
       "answer": "燕子去了，有再来的时候；杨柳枯了，有再青的时候。",
-      "explanation": "A项是典型的两个并列分句，使用分号正确。其余选项分句间没有并列关系或结构不完整。"
+      "explanation": "A项是典型的两个并列分句，使用分号正确。其余选项分句间没有并列关系或结构不完整。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/be/beb659c6dc0d4750a93315fde842637ada72ab12.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/eb/ebabc68072b7d73050c44cb19c77590fcad542f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ae186e39629b9657211be35e69d4f969a0bbaf5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01fbdbd3d064295993a9029abaea926eb01cf7b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2fe2d5854eb49ed8e32982df57be17a88c36b585.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/448d09cb8c38a3603e5108672d94e8ee8c9a5f72.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "在那儿可以骑马"
       ],
       "answer": "草原景色美得超乎想象",
-      "explanation": "惊叹于草原的千里碧透、翠色欲流，这种极致的自然美让人震撼。"
+      "explanation": "惊叹于草原的千里碧透、翠色欲流，这种极致的自然美让人震撼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b58e047b36e2d1924f296874aee9d003729fecea.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/9544d64c4b23f7b3cda54797553faa41f254d7cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4f9611fb3b2b060eea72f96764e2d6d128b16a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8968b7606667a2c481ed3564353dc20f5866dad8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/99b359d55f51c80e5f2ca294302e6bbc1a110f14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39d7653a410dd9196da27ffd4884affa5aed3473.mp3"
+      }
     },
     {
       "id": 16,
@@ -102,7 +150,11 @@
       "question": "根据课文内容，“那些小丘的线条是那么柔美，就像只用绿色（___），不用墨线勾勒的中国画那样。”",
       "options": [],
       "answer": "渲染",
-      "explanation": "考查课文核心动词，“渲染”一词写出了草原色彩流动的特点。"
+      "explanation": "考查课文核心动词，“渲染”一词写出了草原色彩流动的特点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6bf4eef795528fbd6515788d906ebd3a3790a5c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe159b2dba9018e2e85b4bde00e6f0b5a8fdd016.mp3"
+      }
     },
     {
       "id": 20,
@@ -122,7 +174,21 @@
         "yū huí"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "考查生字读音。勾勒(gōu lè)，迂回(yū huí)，宅院(zhái yuàn)，参差(cēn cī)。"
+      "explanation": "考查生字读音。勾勒(gōu lè)，迂回(yū huí)，宅院(zhái yuàn)，参差(cēn cī)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b7/b75b3c539092050b3ba9dec6760426e7961cfecf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/40/40c14cc3f8ef4510aaf290ecc9b0dc386a4a79a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de6b3be26b9e52218f51e2ecd8165dee96fce5a9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/85f222e7cc20266e8a1156c2231f4f87c74a33f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ef6ba1fba8b34dfc940d3ee10db545d6490fdd7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b7be22bd2b90df7d168edc7653a4dfb98b85f34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a0/a034934c8452136ab8b8c84a2635630daf143ee2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d6/d65e1e553d342c13d2788daf053127dca939e365.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/835109bbb2073606a8b729c10349b657bbabe9e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9a771e6237666c86d7b3c5f86e36c2236564dcb.mp3"
+      }
     },
     {
       "id": 22,
@@ -139,7 +205,18 @@
         "而"
       ],
       "answer": "到处,翠色欲流,而,轻轻流入,云际",
-      "explanation": "出自《草原》名句，描写绿色的流动感。"
+      "explanation": "出自《草原》名句，描写绿色的流动感。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/01d5f4d9abbc2364594a426d767b431575f0a2bc.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fed21b5085583bcd3c06287db30d7bc133372539.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/2299d79851971b1dfbaa3b74b773842bf12d82c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac68ae67aabf94ef144de784926249c97fac0f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b981539a8d892d5c3a47476b11d37e2f94b09cc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fca82746e870f8935604f126534805d673ba513d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72f4951936546309a959723ea61f9c7392d4f952.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -150,6 +227,16 @@
       "在只有两项并列时也强行说是排比",
       "在分句内部没有逗号的情况下乱用分号"
     ],
-    "tips": "如果几个句子开头长得差不多，就是在排比；如果一个长句子分了好几段在讲不同的道理，分句间就用多用分号。"
+    "tips": "如果几个句子开头长得差不多，就是在排比；如果一个长句子分了好几段在讲不同的道理，分句间就用多用分号。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/49/498032419fc1feaf0386c7cf9f56caa963811757.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/c1/c19529e3150e4dea91622c889f1a2388c7c12793.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/60/60ac782b16f6a47a8673290002c72eb22123809a.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6c/6cbf3ceb5e07103be918ea5d786333d089f3c90f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/11/11b4e2615bc47925c3fe784c327300087b572142.mp3",
+        "https://api.clthuanxie.cn/cc-audio/6f/6f5e8552d7fd596409f2a69920dabee2674002b9.mp3"
+      ]
+    }
   }
 }

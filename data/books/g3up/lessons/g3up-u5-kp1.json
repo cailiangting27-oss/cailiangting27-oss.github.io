@@ -16,7 +16,11 @@
       "question": "求一个数是另一个数的几倍，答案后面要带单位“倍”。",
       "options": [],
       "answer": "错",
-      "explanation": "倍不是单位名称，它是表示两个数量之间的关系，所以计算结果后面不写单位。验算：如 $10 \\div 5 = 2$，结果直接写 2 即可。"
+      "explanation": "倍不是单位名称，它是表示两个数量之间的关系，所以计算结果后面不写单位。验算：如 $10 \\div 5 = 2$，结果直接写 2 即可。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c79a98f0ab9b7152f164266d6a2165cf67caca53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/825685ed2d0860f9a030516a490f15fe0becfc36.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "8 里面有 2 个 4，可以说成 8 是 4 的 2 倍。",
       "options": [],
       "answer": "对",
-      "explanation": "8 可以分成两个 4，$8 \\div 4 = 2$，即 8 是 4 的 2 倍。"
+      "explanation": "8 可以分成两个 4，$8 \\div 4 = 2$，即 8 是 4 的 2 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/01/016186607f2325513984f042aaf6e9376f420cd0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/faff51ac7523669f571cd351c53ddfba1591c92f.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "12 倍"
       ],
       "answer": "3 倍",
-      "explanation": "求 6 是 2 的几倍，列式：$6 \\div 2 = 3$。验算：$2 \\times 3 = 6$。"
+      "explanation": "求 6 是 2 的几倍，列式：$6 \\div 2 = 3$。验算：$2 \\times 3 = 6$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f0/f0c4f5de046f9913562769e5ecad3524f8a73ef9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/03dc424f34a7039762ed44d391c987266c001be6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/646d0ce33c072bd791d3eec0a102a05edced8ee7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e4/e4ee8efbc7ce4ef675cf84988d36ae22cbb879c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d90b3007a22afd97ca5a1adcedbbd2907e409d52.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/346e985708ba8a9137c54410093b9198119166e8.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "$21 \\div 3$"
       ],
       "answer": "$3 \\times 7$",
-      "explanation": "求一个数的几倍是多少，用乘法计算。"
+      "explanation": "求一个数的几倍是多少，用乘法计算。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2a/2a4c45150b6cff7ebd016001cbf945a768509169.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/53023e6ff5bfbd94e6a062c303a994b2e4e86909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f101ddbb62cad358085a9f7b4a0d9641dd4bafdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/433d717a96fe3113949961ff1fdbf92bab48cd4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d1fafad1b42ab31575056a5ba5081f0c87354bc.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/449874cd9cee73c2f8182ffdd9337abce5934cbe.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "12 份"
       ],
       "answer": "3 份",
-      "explanation": "$6 \\div 2 = 3$（份）。"
+      "explanation": "$6 \\div 2 = 3$（份）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2338ce8a9e215a163d3eaa9e95b31291baebcfe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ae/ae7c7d47a27a0d6f752b0f6d807862f8939b5882.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2571d04e115f318f5b6a798dd6528c8e3dd663b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/21/2136c624b87831288e128c54a8d5d3adb36b65d3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6ff09d68c475d92d8d360dd693103f7181725c0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/83a33538b6b7db9fb8699214e73fca231017edc9.mp3"
+      }
     },
     {
       "id": 19,
@@ -86,7 +124,11 @@
       "question": "有 10 根小棒，每 2 根摆一个五角星，可以摆 ___ 个五角星。",
       "options": [],
       "answer": "5",
-      "explanation": "求 10 里面有几个 2。$10 \\div 2 = 5$。验算：$5 \\times 2 = 10$。"
+      "explanation": "求 10 里面有几个 2。$10 \\div 2 = 5$。验算：$5 \\times 2 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/9849c8bfacb28bebe42b6436aff5d10f9e88db09.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b9/b976827664c5cf02a567997525f8167cd148f3a6.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -97,6 +139,16 @@
       "写结果时习惯性加上“倍”字作为单位，如“答：是 3 倍”写成“3 倍个”",
       "图中没有对齐就数个数，没有看清哪一个是标准的一份"
     ],
-    "tips": "学习时多动手圈一圈。比如 6 里面有几个 2？每 2 个圈一个圈，圈了 3 次，就是 3 倍。"
+    "tips": "学习时多动手圈一圈。比如 6 里面有几个 2？每 2 个圈一个圈，圈了 3 次，就是 3 倍。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/40/40906cdba9ee5579c7e33182ac6bd8ba3777f817.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b1/b1bbec361091e654e7c8ae189fe32633aaf1f577.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/6c/6c0f85d2910ca4555f6077afea49f29890f8f027.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/34/34a32e8873811b8ed09efb90d63cd32ffada4df0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/ba/bad129fc465038532ce2707e904da36282e3efd5.mp3",
+        "https://api.clthuanxie.cn/cc-audio/0d/0def3846c3019cfa65cfd5ac97670eebfa6ad858.mp3"
+      ]
+    }
   }
 }

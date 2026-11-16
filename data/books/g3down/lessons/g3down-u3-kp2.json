@@ -16,7 +16,11 @@
       "question": "合并统计表时，只要把数据抄写下来就行，不需要核对总数。",
       "options": [],
       "answer": "错",
-      "explanation": "合并数据后，必须通过计算总数来核对填写的准确性。✓"
+      "explanation": "合并数据后，必须通过计算总数来核对填写的准确性。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d94520f17566644fb9efb5b8f0573f55d890342.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e636f68eeb30e2765b7a791e1f86d7142e761b2a.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "不确定"
       ],
       "answer": "小于",
-      "explanation": "复式统计表会共用某些表头和项目名称，通常格数会减少。✓"
+      "explanation": "复式统计表会共用某些表头和项目名称，通常格数会减少。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03fcb83e1790042e273309c9116601fa598c2f04.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e2e25fc2d26a83bec26966707646561f8139c82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd0f3091158a7877b3292d925f901da30929ad67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b445321cbdd126dea29675fb58b4aec09fa6fc62.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa253a83a8428de46699c638f37c817c175b2db5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d85287d201fe93a1632447f80d5755bf652e851e.mp3"
+      }
     },
     {
       "id": 19,
@@ -43,7 +57,11 @@
       "question": "第一组5人，第二组6人，第三组5人，这三个小组一共有 ___ 人。",
       "options": [],
       "answer": "16",
-      "explanation": "列式：$5 + 6 + 5 = 16$。验算：$16 - 5 - 6 = 5$。答：16。✓"
+      "explanation": "列式：$5 + 6 + 5 = 16$。验算：$16 - 5 - 6 = 5$。答：16。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce0ad7b598d72c5b91d2c1b9d5bc5f1efc7e721d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/9469bacb1f1429b9c751a9d63b0a44e8c17a7372.mp3"
+      }
     },
     {
       "id": 22,
@@ -54,7 +72,11 @@
       "question": "计算复式表横向合计数：$12 + 8 + 10 = ?$",
       "options": [],
       "answer": "30",
-      "explanation": "$12 + 8 + 10 = 20 + 10 = 30$。验算：$30 - 10 - 8 = 12$。答：30。✓"
+      "explanation": "$12 + 8 + 10 = 20 + 10 = 30$。验算：$30 - 10 - 8 = 12$。答：30。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ee/ee87258a10d859660fae4dde8ddc3d5c199563ea.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/47aab42429fb48fad27f246092ed33964f780986.mp3"
+      }
     },
     {
       "id": 23,
@@ -65,7 +87,11 @@
       "question": "计算复式表纵向合计数：$24 + 36 = ?$",
       "options": [],
       "answer": "60",
-      "explanation": "$24 + 36 = 60$。验算：$60 - 36 = 24$。答：60。✓"
+      "explanation": "$24 + 36 = 60$。验算：$60 - 36 = 24$。答：60。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/3206d24f2b266d591e3ea85f7bd99686361138f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35640c28e20ffbc935619c0d50c70957bcc1569e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -76,6 +102,16 @@
       "将数据填错行或列",
       "在计算合计项时出现口算偏差"
     ],
-    "tips": "填完后一定要横着加一遍、竖着加一遍，看看最后的总计是否吻合。"
+    "tips": "填完后一定要横着加一遍、竖着加一遍，看看最后的总计是否吻合。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cc/cce1f2aca9b3995c97a83c4cefe02023d3dc1dfe.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/65/6522cd9adc45ebcd7ce34070a96b25af9f95e3c2.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/b6/b6c77f73e950cf36c90bf9d2324ba1159906f5a1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/b9/b94fbc75a247f4fedae4cfe27bafc7b9ab3eded4.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a5/a5fef920ffa9a7d6696a9d44eac437db602ceec1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/e1/e16c0ef29b74f9c9bfe6a1e7e797ea5f214492ac.mp3"
+      ]
+    }
   }
 }

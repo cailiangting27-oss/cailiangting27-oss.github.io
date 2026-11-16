@@ -16,7 +16,11 @@
       "question": "复述故事就是把故事内容一字不差地背诵出来。",
       "options": [],
       "answer": "错",
-      "explanation": "复述是用自己的话把故事的主要情节讲出来，而不是僵硬地背诵原文。"
+      "explanation": "复述是用自己的话把故事的主要情节讲出来，而不是僵硬地背诵原文。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/76f23559e32e5ba5c8527b391824c4b2bedadf54.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbc32cb90a60849f6db9e4b49cf1aa0740baa9e1.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "天气的变化"
       ],
       "answer": "时间的先后",
-      "explanation": "文中有明确的时间线索：第一天、第二天、第三天、又过了一年，按此顺序复述效果最好。"
+      "explanation": "文中有明确的时间线索：第一天、第二天、第三天、又过了一年，按此顺序复述效果最好。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cbdb1cab2b1b7f1096b4c899550af9ddd688945.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a95e9a32a6122e9775151a825d19774993b6835.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33d22e7a3fbd61da6fb8322efd75d097c58c30f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6a/6a404e5258d291c7180a04919111e320820d3725.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/714de140d29901ce0c8fd167731c97fe780e76a0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3e/3e0991f39e9108e6e1344d1d38116e8c4a04b0fd.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "把复述等同于背诵，导致中途忘词卡壳",
       "只讲精彩片段，忽略了故事基本的因果逻辑"
     ],
-    "tips": "可以先在草稿纸上画简单的火柴人连线图，边看图边讲故事效果最好。"
+    "tips": "可以先在草稿纸上画简单的火柴人连线图，边看图边讲故事效果最好。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ff/ff9cf955e49e8ca2a6eef21409c9e68203dc356b.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1b/1bb04c9acd628843818f0fd304989b39f777ee15.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/54/5494df6b249027b38dcf8da2695712473bbc35a0.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/6b/6b340997b4cdfc4a2906f9942867f929952a7c0f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6a/6a204f4d53c3c32d6fad6878a69ae660698409eb.mp3",
+        "https://api.clthuanxie.cn/cc-audio/44/444691bc5b77eb3fccbeb4517fa57c2bd54300be.mp3"
+      ]
+    }
   }
 }

@@ -16,7 +16,11 @@
       "question": "小明有 15 本课外书，小刚有 8 本，小刚比小明少 7 本。",
       "options": [],
       "answer": "对",
-      "explanation": "求两数相差多少用减法。$15 - 8 = 7$（本）。验算：$8 + 7 = 15$，结论正确。"
+      "explanation": "求两数相差多少用减法。$15 - 8 = 7$（本）。验算：$8 + 7 = 15$，结论正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5a/5ae2af5e93f6c53a1f58989547b00373867b7965.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c4fed82d9f5ab1ea09be9d829887ffdc92c95ab.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "草地上有 12 只兔子，跑走了 4 只，还剩下 9 只。",
       "options": [],
       "answer": "错",
-      "explanation": "$12 - 4 = 8$（只），而不是 9 只。验算：$8 + 4 = 12$。"
+      "explanation": "$12 - 4 = 8$（只），而不是 9 只。验算：$8 + 4 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4530a4a21d54b9c72970a12fdf4be3e27b2742b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a1/a16c2eae0ec2cc334348b9d56c66fc9a21369b31.mp3"
+      }
     },
     {
       "id": 10,
@@ -43,7 +51,17 @@
         "7"
       ],
       "answer": "5",
-      "explanation": "$12 - 7 = 5$（朵）。验算：$5 + 7 = 12$。"
+      "explanation": "$12 - 7 = 5$（朵）。验算：$5 + 7 = 12$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8b5d1f7d231768bed7a8bd3367b48d8fec2b9c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/870a5500006ad5b39846588d406f8d98aea6e244.mp3"
+      }
     },
     {
       "id": 12,
@@ -59,7 +77,17 @@
         "11"
       ],
       "answer": "9",
-      "explanation": "飞走的数量 = 总共的 - 剩下的。$14 - 5 = 9$（只）。"
+      "explanation": "飞走的数量 = 总共的 - 剩下的。$14 - 5 = 9$（只）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce54e7511a9db5bf066c1387bf923ed2243f9d8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2d63b4d1375e1a67f5e6cd757595d9e800a6a1a0.mp3"
+      }
     },
     {
       "id": 15,
@@ -75,7 +103,17 @@
         "4"
       ],
       "answer": "1",
-      "explanation": "先算女生人数：$13 - 7 = 6$（个）。再比多少：$7 - 6 = 1$（个）。"
+      "explanation": "先算女生人数：$13 - 7 = 6$（个）。再比多少：$7 - 6 = 1$（个）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d7b19aa75105b20029cfa2c004bd76f7413d59f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/59/59328048f728da0415d50dbee1ee14adecf91024.mp3"
+      }
     },
     {
       "id": 18,
@@ -91,7 +129,17 @@
         "无法判断"
       ],
       "answer": "多",
-      "explanation": "剩下：$15 - 6 = 9$（本）。借走 6 本，$9 > 6$，所以剩下的多。"
+      "explanation": "剩下：$15 - 6 = 9$（本）。借走 6 本，$9 > 6$，所以剩下的多。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27adec95259300dd0b633dff89cad2a997465faa.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/451b1366afa68d537b072c922072340325dde575.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa495b65bd804cee37c42a6d429a819bb8f81254.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6adf5389031b61c88f7598ebb9bb962337392eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e134087436d9cd0fbc7b56e2c4e0dae302ff37a8.mp3"
+      }
     },
     {
       "id": 20,
@@ -102,7 +150,11 @@
       "question": "排队做操，小红前面有 5 人，后面有 7 人，这一排一共有 ___ 人。",
       "options": [],
       "answer": "13",
-      "explanation": "总人数 = 前面的人数 + 后面的人数 + 小红本人。$5 + 7 + 1 = 13$（人）。"
+      "explanation": "总人数 = 前面的人数 + 后面的人数 + 小红本人。$5 + 7 + 1 = 13$（人）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/edc1fe15a52c7d44af779bd9fad14649321275d4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d578f73d5e21f4913747d8e8ce022cc1d85ad571.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "看到题目中有“多”字就误用加法，不理解“大数减小数等于相差数”。",
       "在有干扰信息的应用题中，误将无关的数字参与计算。"
     ],
-    "tips": "读题时圈出关键词和数字。如果是求“还要做多少”或“还剩多少”，通常用减法；如果是问“比谁多/少”，一律用大数减小数。"
+    "tips": "读题时圈出关键词和数字。如果是求“还要做多少”或“还剩多少”，通常用减法；如果是问“比谁多/少”，一律用大数减小数。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/8f/8f047cfa3b89f61876822e858aae331f95e60913.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ee/ee12dac2e4fa3bc77978fa62ee199c51f6ddddb4.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/0a/0a0c86873cb4e045b24347410bf4748bc7427d4c.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/8e/8e5663402bd2444ba8903ea1c6f625c1e6ed428f.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/aa/aaa2d0c36c41e97c95202b45ed21ab9bab0d6654.mp3",
+        "https://api.clthuanxie.cn/cc-audio/88/8843bc24aec8feeecdeeff0573a5823424047320.mp3"
+      ]
+    }
   }
 }

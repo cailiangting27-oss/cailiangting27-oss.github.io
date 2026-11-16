@@ -16,7 +16,11 @@
       "question": "Please pass me ___ (一个) fork.",
       "options": [],
       "answer": "a",
-      "explanation": "fork是辅音音素开头，用不定冠词a。"
+      "explanation": "fork是辅音音素开头，用不定冠词a。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75c8e99472982d2b078f80e835e1002f5a63c1b6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5307dc3148c7079a7e3fa28298b2f42342942238.mp3"
+      }
     }
   ],
   "knowledge": null

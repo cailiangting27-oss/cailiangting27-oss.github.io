@@ -21,7 +21,17 @@
         "Yes, it is."
       ],
       "answer": "It's on the bed.",
-      "explanation": "询问地点用Where，回答应指向方位。"
+      "explanation": "询问地点用Where，回答应指向方位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3d/3d53faae5bbdce8387b511f1e13ced6f1e3784d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9a/9a865873630717dcfaf40cdca3aaa0931f6fb36d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f787270baf7afe251bc8c8361025700a246020c6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2a298ff1341242d94cf07058102d3b049c4348d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2bcab336fd27b6026ef309464dbe98f0143d1cb.mp3"
+      }
     }
   ],
   "knowledge": null

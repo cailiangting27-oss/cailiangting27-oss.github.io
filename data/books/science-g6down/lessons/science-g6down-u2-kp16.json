@@ -21,7 +21,17 @@
         "全部密密麻麻写上去"
       ],
       "answer": "用编号或图例表示",
-      "explanation": "图例法能使分布图清晰、直观地传达信息。"
+      "explanation": "图例法能使分布图清晰、直观地传达信息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5d202069392946367a957423b7272d875ca3472.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e3/e3b4c000f8416de8ddc07e7c9b9fee619458cc84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e93559db51bd6477786d5f20a7080228cdc3a08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8b784608595806b3604b4d383c19331fe44538b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab2a5c5e0cc8285f7b98f1f5e6221606e7693e3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e4/e47c459d659c97094d9db8b2d495143c4cb0847a.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -22,7 +22,18 @@
         "钢板"
       ],
       "answer": "刘伯承,是一块,会说话的,意志的,钢板",
-      "explanation": "出自《军神》，形容刘伯承意志极其坚强。"
+      "explanation": "出自《军神》，形容刘伯承意志极其坚强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f6/f6d718922d9b7c40e54682941960bcb5e9d7f791.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64867cbdf0c1eafc626f72c45d092ba746706bc8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f7/f7abe5b03a839b9a402a253501d80efaaacd0b5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50ac691969e1f53a5283799819ffb99277c79718.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe7bb889fc5afac5947010b0c7e8f0a173deb906.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/865b43950944dfd0f41b4c41f468ebc6deeafaa9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad8a6b58560e6c1f6989b3a86d04e754bee7c04a.mp3"
+      }
     }
   ],
   "knowledge": null

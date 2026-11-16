@@ -21,7 +21,15 @@
         "who"
       ],
       "answer": "where",
-      "explanation": "先行词表地点用 where。"
+      "explanation": "先行词表地点用 where。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/46/46148cc3b4d2b3ac8073f14b0cba7f25ffff54bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30603fa9e0f620c305cd627ab0ff138a960c48bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7adf77905f540249517ca164255899e9ad1e2ac.mp3"
+        ]
+      }
     },
     {
       "id": 6,
@@ -37,7 +45,15 @@
         "what"
       ],
       "answer": "who",
-      "explanation": "指人用 who。"
+      "explanation": "指人用 who。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b7/b7adf77905f540249517ca164255899e9ad1e2ac.mp3",
+          null,
+          "https://api.clthuanxie.cn/cc-audio/89/89b8d783289b9811667b7a21cdb99cba222325bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a110e6b9a361653a042e3f5dfbac4c6105693789.mp3"
+        ]
+      }
     },
     {
       "id": 7,

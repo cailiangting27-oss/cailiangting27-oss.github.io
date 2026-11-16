@@ -16,7 +16,11 @@
       "question": "植物的根只有固定植株的作用，不能吸收水分。",
       "options": [],
       "answer": "错",
-      "explanation": "根既能固定植物，也能吸收土壤中的水分和矿物质。"
+      "explanation": "根既能固定植物，也能吸收土壤中的水分和矿物质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f3/f3222dd1faf67ab9678fb6c0582d0139d8f63734.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/124821e82c2209d9600c072beb6dee363d56dff0.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "玉米"
       ],
       "answer": "凤仙花",
-      "explanation": "凤仙花具有主根和侧根之分，属于直根系；葱、水稻、玉米属于须根系。"
+      "explanation": "凤仙花具有主根和侧根之分，属于直根系；葱、水稻、玉米属于须根系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6db9348e0545349472515ee26ee91b64285810a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e2/e263aa25e3b67a049a1da0fdbd588a688ebaf4c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03dc9363283a8ed58efedebc37602fb1155a4247.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d71a077cd4e64b2ffdb11affdebcfb351efaf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/8531dc2f3fb0510d992ab5a4be4898cda5322d17.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/31e96bbb3f691be8d986a1ba1b982249b5764ee4.mp3"
+      }
     }
   ],
   "knowledge": null

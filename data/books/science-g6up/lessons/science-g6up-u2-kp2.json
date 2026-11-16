@@ -21,7 +21,17 @@
         "地球绕着太阳转，同时自转"
       ],
       "answer": "地球不动，月球自转",
-      "explanation": "月球自转不会导致地球上产生昼夜交替现象。"
+      "explanation": "月球自转不会导致地球上产生昼夜交替现象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0a/0a039f89a57ddf766733f14df937449dab822722.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2d/2d401fbb28b5714ce29940763e6bd6260b911937.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a996e5eb8fcf1713bb660d6b1ceca41389b95d20.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1904706bb4a47fdf40687219bdc97f9581f6f885.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3367ce07775ac6d62d87f75686a76a53d6d9e26.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9dc96201bb31994d85170c0bcf2d5d8eff165abe.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "12个月"
       ],
       "answer": "24小时",
-      "explanation": "地球自转一周大约24小时，即一个昼夜交替周期。"
+      "explanation": "地球自转一周大约24小时，即一个昼夜交替周期。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0f/0f8d5f4dfb0c17389917dd9987e3acf1d2ec1e0f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/293a341e88e1497d7da5094da178d4d54da16c96.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45a2727884cc0ea48aa4e33b3b229383ad4d52c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ea/eaf48931a7b34dedbd3e4aa3b5dfcbb3f1a13404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1c862b54e77a006a98835bed2bf551a944b2bfed.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efdb2ddaf0d80bc230dc82592c22b041ae02c1e1.mp3"
+      }
     }
   ],
   "knowledge": null

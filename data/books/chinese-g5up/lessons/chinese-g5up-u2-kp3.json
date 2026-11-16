@@ -16,7 +16,11 @@
       "question": "缩写课文时，要把所有的细节描写都保留下来。",
       "options": [],
       "answer": "错",
-      "explanation": "缩写通常需要删减次要的细节描写，保留核心内容。"
+      "explanation": "缩写通常需要删减次要的细节描写，保留核心内容。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/964dd835c8b6b2d245d6551fd523b32a68337d3f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/34/344de20b3dece0e871f1cfaa49c5c683cf589154.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "地道战的重要作用"
       ],
       "answer": "个别士兵的对话",
-      "explanation": "大规模的描写和概括性作用需要保留，具体对话可删去。"
+      "explanation": "大规模的描写和概括性作用需要保留，具体对话可删去。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b3/b3bce454356c655dae1bcc7d4a7b2282c7e06cda.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3a/3aa9d78f6b5b232123bcd1bce777dd800c301976.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c6c7eff04c651f10f6a76452192c79e9aa2f68a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b1fa00d80d18e912772081bd6205db9616b82c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581a0f93eef839967727ac6516502775bc95bd9c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/da/da99e8fe3b8b485aa6c1261030eb6a7b250cdbf1.mp3"
+      }
     },
     {
       "id": 18,
@@ -43,7 +57,11 @@
       "question": "缩写后的内容要保持（___）的原意不能改变。",
       "options": [],
       "answer": "文章",
-      "explanation": "缩写不能违背原文主旨。"
+      "explanation": "缩写不能违背原文主旨。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3fb0fff849ba1afcbf0f19e400522e6898b725ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0a2d2e94531e860cdacce594b73ee8b70c4d37c9.mp3"
+      }
     },
     {
       "id": 23,
@@ -60,7 +78,18 @@
         "核心"
       ],
       "answer": "摘录,核心,内容,缩减,改写",
-      "explanation": "缩写的逻辑步骤：先定核心再精简。"
+      "explanation": "缩写的逻辑步骤：先定核心再精简。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9bad60467c59e69501d7245a35552a53619f3eac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ad/ad00ed3870572b07db3e3793f7947cef324dd4c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/046a3be95c080584b1bb17fce3697028934cef01.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3e/3e0b21d389aa2a08ddd5840112fa4861269685fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/163aec9194a17383a22445f6651c80f86dcce879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10d95f2cd27f267932ec6cc02f8afdb5fa3b6b59.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/250265d26166ddde14adf40cdbd543d9738f9332.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -71,6 +100,16 @@
       "缩写后文章成了毫无关联的碎句堆砌",
       "过度删减导致故事情节不完整，逻辑断裂"
     ],
-    "tips": "先在原文中划出核心动词和名词，连接成句，再检查人称和时态是否统一。"
+    "tips": "先在原文中划出核心动词和名词，连接成句，再检查人称和时态是否统一。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/90/903ca069c60767b623fa908e414237c4e50bd6cd.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/17/1711fa100108fbcb7b93d475c9dc17961d4ee5ba.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/30/30a42160532362fda83763e71ccc11f8c8050a96.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/fc/fcf51d850536eebb864c58354aa656ff997476e0.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/69/69f4db1a261dd1cf373c667276f53c32437a6d46.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d9/d9274f14f4337530938cdad9889408e024f2efcb.mp3"
+      ]
+    }
   }
 }

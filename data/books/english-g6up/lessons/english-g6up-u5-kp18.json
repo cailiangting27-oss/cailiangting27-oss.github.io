@@ -21,7 +21,17 @@
         "dancer"
       ],
       "answer": "scientist",
-      "explanation": "喜欢科学(science)对应的理想职业是科学家(scientist)。"
+      "explanation": "喜欢科学(science)对应的理想职业是科学家(scientist)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6b/6bc8191dab24667ee2cde5001e6abe711fd62341.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8f/8f7cde31037682fc0427d033eacc1e4004dc7a82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/dd/dd3fb353b512fe99f95471024daee0959a22905d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/792b0f4d4d0fc8d108cbb54973221f3a6d65282d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6b4f3a5d5ff51dc79fe4efcb32c37b4e805819c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b283c920c5b3ef4e29dfb6082e3e14f44a7d0302.mp3"
+      }
     }
   ],
   "knowledge": null

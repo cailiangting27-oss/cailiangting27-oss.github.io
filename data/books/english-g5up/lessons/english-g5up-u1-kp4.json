@@ -16,7 +16,11 @@
       "question": "单词 'baby' 和 'happy' 中字母 y 的发音是相同的。",
       "options": [],
       "answer": "对",
-      "explanation": "在这些单词中，末尾的 y 都发 /i/ 的音。"
+      "explanation": "在这些单词中，末尾的 y 都发 /i/ 的音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d41a76cf01b9059dcc6b1fd5306038f0750288f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac09b6fdd65b762bd3acd0f518c1b5e067876eca.mp3"
+      }
     },
     {
       "id": 14,
@@ -32,7 +36,17 @@
         "sky"
       ],
       "answer": "candy",
-      "explanation": "sunny 和 candy 的 y 都发 /i/，其余三个发 /ai/。"
+      "explanation": "sunny 和 candy 的 y 都发 /i/，其余三个发 /ai/。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0a96e61aea9d9b395dd4a5c4e2c16c63909f73a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3e/3ece1471f44f63177cbc35ba0b904e0c096b6783.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/41a682cadfe3d717067972796ef7451d08172fc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/615923d86676636fc71d02a42c09350eb61e9948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/5737ef08a3ec16a337ac79a1d719fb91acba20a4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7f/7fc7fd170354383c319f80504b9e93d61e4f483f.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "从前面观察一个由3个小正方体横着排成一排组成的几何体，看到的形状是一个长方形，由3个小正方形组成。",
       "options": [],
       "answer": "对",
-      "explanation": "3个小正方体横着排，前面看过去就是3个正方形并排，组成一排长方形。✓"
+      "explanation": "3个小正方体横着排，前面看过去就是3个正方形并排，组成一排长方形。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b42bc8d7eb97eeb5f22e848dbf8d72ae08a202e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7af2fd2e0b6c71ea9b5509e000bf5fe94bac0ced.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "观察一个不透明的立体图形，我们一次最多可以看到它的5个面。",
       "options": [],
       "answer": "错",
-      "explanation": "观察立体图形时，一次最多只能看到它的3个面（前面、上面、侧面）。"
+      "explanation": "观察立体图形时，一次最多只能看到它的3个面（前面、上面、侧面）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d142314f2c248795077e4f3aabcd03667e8ec0af.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fedbdccb900add79e6001d93dbcd3b6648caba0c.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "在观察物体时，观察者的位置发生变化，看到的形状可能会发生变化。",
       "options": [],
       "answer": "对",
-      "explanation": "站在不同角度（前、侧、后等）观察同一个物体，其投影面可能不同。"
+      "explanation": "站在不同角度（前、侧、后等）观察同一个物体，其投影面可能不同。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/83/83a560a78e494261c73fd1fefb5e2b12de731a97.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a25e182fcd559380f4c48d7c861dfa154fb13598.mp3"
+      }
     },
     {
       "id": 6,
@@ -54,7 +66,17 @@
         "无法判断"
       ],
       "answer": "4个小正方体横着摆成一排",
-      "explanation": "看到横向4个正方形，说明是水平并列排放的。"
+      "explanation": "看到横向4个正方形，说明是水平并列排放的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d243dfaf721df70c78527e3f1971d834e6c52d57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/ba784be34651efec615a65a540e630c1a9ad87f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/98/9895d5ac282c5e371a096c6f0ee8542358c76267.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/438fa632fdac0b1eb27d1b96d0e8d20f10f02043.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecce2332cfa79694c30e5997ab645d11adcc3303.mp3"
+      }
     },
     {
       "id": 7,
@@ -70,7 +92,17 @@
         "4个"
       ],
       "answer": "1个",
-      "explanation": "从上面看到1个正方形，最简单的情况就是只有1个小正方体。✓"
+      "explanation": "从上面看到1个正方形，最简单的情况就是只有1个小正方体。✓",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/84/84bc2b694314e9a7f0ceaa0c294a80d22205e6c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b3e7104bf7fb4052f3df01e7db9c39edf5a81e4.mp3"
+      }
     },
     {
       "id": 8,
@@ -86,7 +118,17 @@
         "4个"
       ],
       "answer": "2个",
-      "explanation": "两个竖着排的正方形代表该几何体在左侧视角的高度为2个单位。"
+      "explanation": "两个竖着排的正方形代表该几何体在左侧视角的高度为2个单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/19/193dac554ce49102a19929a59f7e8d893e67dbfb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/71/71395d6e5bac49b83c2cb14f56ab1a4ac23b7808.mp3",
+          "https://api.clthuanxie.cn/cc-audio/df/df6125300823711d7502ea7501c0ee660855c7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1ffe4166e57e63bb4469906335e6cbb7c2e222d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758a56d5716f4d8e1d861502cfcd16dbc25804fd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/907227191acedf42c92181b5d2fc90211dc2c8fc.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "圆锥体"
       ],
       "answer": "正方体",
-      "explanation": "正方体从任何面观察都是正方形，不可能看到圆。"
+      "explanation": "正方体从任何面观察都是正方形，不可能看到圆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8a/8a524aafc1e6272dd4c88ebcf8efd1d2bdb5b6f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec27c5c015533b5d3d3444cf416367a67ec81687.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce1747cc3ddec8a0014a055dab14fe1c92fff644.mp3",
+          "https://api.clthuanxie.cn/cc-audio/71/71bcd1b0df5e659799a3eb6876e18e5d1e2b8b90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bc/bcfb953ed86bb9184740d56178110c69131f1d4c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4b2293549a6c45894a70b6506159c0c13a42878.mp3"
+      }
     },
     {
       "id": 14,
@@ -118,7 +170,17 @@
         "无法看清"
       ],
       "answer": "1个正方形",
-      "explanation": "竖着叠加时，从正上方垂直投影，只能看到最顶层的那个面，即1个正方形。"
+      "explanation": "竖着叠加时，从正上方垂直投影，只能看到最顶层的那个面，即1个正方形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/563ec86bebb560172cfdf698c57f5feccf97e170.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1f/1f14826c6d6df5ace82a5fa5249e7144fbb81618.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e942ae0588c17a7c6d0ef22efaf6787a65ca5a3d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/542dcb393efb1d349a4caa253b0b6b27cda5cbda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31fac9ffea2429286f4b3d0346e94663e3bb1364.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9adaa8456bfe9e1766744ea2e12119d43376238.mp3"
+      }
     },
     {
       "id": 18,
@@ -134,7 +196,17 @@
         "4层"
       ],
       "answer": "2层",
-      "explanation": "左面看到2个正方形（竖着排），说明这组物体垂直方向有两层。"
+      "explanation": "左面看到2个正方形（竖着排），说明这组物体垂直方向有两层。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fd63ce8dfd7c75725ba0aa05f826166b12dba700.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3ef8165d6ed47c2f634389b05923dd0fd2251d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/462ea094571a06454e289f2d5c9aa68b0870517e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2c/2c5c79f9f64207b9d20744c6cef89baca4d76889.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b624fc46741c835c0181fba29215447cb76317d5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd1968f7b389df0ebb48510c91d500cb66dd90b4.mp3"
+      }
     },
     {
       "id": 19,
@@ -145,7 +217,11 @@
       "question": "一个小正方体有 6 个面。如果有 2 个这样的小正方体紧贴着并排放在桌面上，露在外面的面共有 ___ 个。",
       "options": [],
       "answer": "9",
-      "explanation": "总面数 $6 \times 2 = 12$个。重合面2个，贴地面2个。$12 - 2 - 2 = 8$？不对，重新算：每个正方体五个面暴露（如独立），合并后重叠2面，底部2面。计算：$(6-1) \times 2 - 1 = 9$个。验算：上面2个，前后面4个，左右侧面2个，共$2+4+2=8$，由于紧贴桌面，底面不露。修正：每个5面露，合并减去贴合的2面，$5+5-1 = 9$？不对。侧并排：上面2，前2，后2，左1，右1 = 8个。等等，题目写桌面上。计算：$(6-1) \times 2 - 2 = 8$。答：8。不，重新验算：一共 12 面，底面 2 面不露，中间重合 2 面不露。$12 - 2 - 2 = 8$。输入 8。知识点确认：8。"
+      "explanation": "总面数 $6 \times 2 = 12$个。重合面2个，贴地面2个。$12 - 2 - 2 = 8$？不对，重新算：每个正方体五个面暴露（如独立），合并后重叠2面，底部2面。计算：$(6-1) \times 2 - 1 = 9$个。验算：上面2个，前后面4个，左右侧面2个，共$2+4+2=8$，由于紧贴桌面，底面不露。修正：每个5面露，合并减去贴合的2面，$5+5-1 = 9$？不对。侧并排：上面2，前2，后2，左1，右1 = 8个。等等，题目写桌面上。计算：$(6-1) \times 2 - 2 = 8$。答：8。不，重新验算：一共 12 面，底面 2 面不露，中间重合 2 面不露。$12 - 2 - 2 = 8$。输入 8。知识点确认：8。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/65/659eb2799b53d239aa7320ff77a1ee6c2b6b0852.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/58ea993cecd500187f6004aac47d49e9f42f2eea.mp3"
+      }
     },
     {
       "id": 22,
@@ -156,7 +232,11 @@
       "question": "一个正方体有 6 个面。4 个独立的正方体一共有多少个面？ $6 \times 4 = ?$",
       "options": [],
       "answer": "24",
-      "explanation": "根据乘法计算：$6 \times 4 = 24$。验算：$24 \times 6 = 4$ ✓。"
+      "explanation": "根据乘法计算：$6 \times 4 = 24$。验算：$24 \times 6 = 4$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/aa/aa581f89f60620eb732b5055d6038e1bd3a9c2eb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49d7ba83bbdc0342e4a58a946c7069d7e7089444.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -167,6 +247,16 @@
       "将“左视图”和“右视图”混淆，没有严格按照观察视角记录。",
       "忽略被遮挡的部分，在画平面图时多画或漏画小正方形。"
     ],
-    "tips": "观察时可以闭上一只眼睛，把立体物体想象成贴在墙上的平面影画。"
+    "tips": "观察时可以闭上一只眼睛，把立体物体想象成贴在墙上的平面影画。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/9a/9aebfd12dce4ee19282d90f64fb6984a78c5dad8.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/06/06f5af3615b7d9daf21f08d935a3dd7b38bf2773.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ef/ef0127d16d6afb6a4abe4f75c2131f153d8a4f5d.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/38/38cf37971c5a299831f5b9999789ee345a1f532c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/fb/fb29ed8928d773a3a74578bbc5509f71c7faed28.mp3",
+        "https://api.clthuanxie.cn/cc-audio/36/364c7f7d6c4d3478c4fb897b50750f2f055b3d21.mp3"
+      ]
+    }
   }
 }

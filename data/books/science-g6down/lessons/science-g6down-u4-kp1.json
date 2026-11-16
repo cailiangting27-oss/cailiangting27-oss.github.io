@@ -16,7 +16,11 @@
       "question": "蜡烛熔化过程中没有新物质生成。",
       "options": [],
       "answer": "对",
-      "explanation": "蜡烛熔化只是由固态变为液态，状态改变，没有新物质产生，属于物理变化。"
+      "explanation": "蜡烛熔化只是由固态变为液态，状态改变，没有新物质产生，属于物理变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8bee96fdd9740fe451c36d2200129350bf9cb3a8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c4/c4f4339850df585ba17052c1cdaf692a7ef20195.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "铁锅生锈后，生锈的部分依然是铁。",
       "options": [],
       "answer": "错",
-      "explanation": "铁锈是一种不同于铁的新物质，具有不同的物理和化学性质。"
+      "explanation": "铁锈是一种不同于铁的新物质，具有不同的物理和化学性质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7dc5a3da0098a3e59de4ec9e0808b983e7d3e2bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/6613a2b9de1e9d4735b69ef812b65f8d364202ad.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "铁钉生锈"
       ],
       "answer": "剪碎纸片",
-      "explanation": "剪碎纸片只改变了纸的大小和形状，没有产生新物质。"
+      "explanation": "剪碎纸片只改变了纸的大小和形状，没有产生新物质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/66/66c6581a5cc49591bee187d454cd3eb1dd1fca55.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db8f409f3b545a2c0bc0bae49cb1cc87a46980df.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0ce56608b3bf95aab47e11f95d3ed65ed4f86a8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73d913569ec7019e069471a6dc714fcaea670644.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/ed5cdbbc521808604ffae9a6be7ed53265e79bc0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/8581da70464635efcff3c578a9fab389f29305de.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +77,17 @@
         "是否由快变慢"
       ],
       "answer": "是否产生新物质",
-      "explanation": "化学变化的本质特征是有新物质生成。"
+      "explanation": "化学变化的本质特征是有新物质生成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/67054c720efc752ba7e66e57be7b19425715c658.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a4/a461fc189272feb62c4ff68fcd37d74c78de5b25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d069c5398faaf8eda971e4897a3fd03e737a3c8d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/35/3547f51231eb6316906ba83c8bb868e6e352cc83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16d2f87a29d5d1b9f9a2a9abf32b79dc57606878.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/97/97e367e68c02fbb88ea148e7ca3e4609fd476175.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +103,17 @@
         "铁锈能导电"
       ],
       "answer": "水和空气共同作用",
-      "explanation": "铁在有水和空气（氧气）的环境下最容易生锈。"
+      "explanation": "铁在有水和空气（氧气）的环境下最容易生锈。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc588d4ed83f5dd167b3931fee5cab8bba5f9026.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/29/295d997d8e020f542ff010fe718747d44de12b37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e8c6736506ded439c1a1825936b9ccca7959ee1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/1938d31f90d42844f5ed96e1e26e5eedf6a6f4b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7f692e4acd11b77d93ca4f54a39a9f470644d70.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17ebfd6b7993d2b3f3771446501f833967919692.mp3"
+      }
     },
     {
       "id": 21,
@@ -86,7 +124,11 @@
       "question": "物质发生化学变化时，往往伴随着（___）的产生。",
       "options": [],
       "answer": "新物质",
-      "explanation": "化学变化的唯一判据就是有无新物质生成。"
+      "explanation": "化学变化的唯一判据就是有无新物质生成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02dafa5bf8b29d14567c8ddd5190206674de73b1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5f887ad9d79cdb11fc0feb838677a65bd943e086.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "在一个有余数的除法算式中，剩下的不够再分的部分就是余数。",
       "options": [],
       "answer": "对",
-      "explanation": "根据有余数除法的定义，平均分后剩下的不够再分的部分叫余数。这句话表述正确。"
+      "explanation": "根据有余数除法的定义，平均分后剩下的不够再分的部分叫余数。这句话表述正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/96/96f6a50a94ea6f2c08d9dcd3b509c5ec77277b0e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0715a4d426ce89dea98ab751928474be6b066e0.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "余下的量"
       ],
       "answer": "余下的量",
-      "explanation": "在 $15 \\div 4 = 3 \\dots 3$ 中，前一个3是商，后一个3是余数，余数表示平均分后余下的量。"
+      "explanation": "在 $15 \\div 4 = 3 \\dots 3$ 中，前一个3是商，后一个3是余数，余数表示平均分后余下的量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/546562f00ce95a6272c81e9452c4684f6117edb0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64a88cb15432083ef508312b36b8d7e700a3a643.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d32af6b3a47361ebc2f16968832aa32059a4d737.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/367ff5ddd2cca0736997a163c354e278831c35fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aec98776e0df542575b64a5c634edb21550bfbfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/29/29dede2cb0698dc3194f3aa9c72e8f8379c7e4c1.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "4盘还剩1个"
       ],
       "answer": "3盘还剩2个",
-      "explanation": "$17 \\div 5 = 3 \\dots 2$。验算：$3 \\times 5 + 2 = 17$。所以是3盘剩2个。"
+      "explanation": "$17 \\div 5 = 3 \\dots 2$。验算：$3 \\times 5 + 2 = 17$。所以是3盘剩2个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e66a5fd508afca5de72059fa47204764cae6fe8d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4930e8ce81ec7a37600a8928e2a5dc5b9eeeb9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0678953830a2b42a0d73ff8de3f743c8d9940bc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/ccd6b5e82e4af8b9b37198b0dbfb0d0f09b1ca44.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3cc095de6ff021302a8fffcf015736afa00993d7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0ab1d146f27d53503e22380da6837146274dda18.mp3"
+      }
     },
     {
       "id": 19,
@@ -59,7 +83,11 @@
       "question": "把14颗糖平均分给4个小朋友，每个小朋友分到3颗，还剩 ___ 颗。",
       "options": [],
       "answer": "2",
-      "explanation": "列式：$14 \\div 4 = 3$（颗）……2（颗）。验算：$4 \\times 3 + 2 = 14$。剩下2颗。"
+      "explanation": "列式：$14 \\div 4 = 3$（颗）……2（颗）。验算：$4 \\times 3 + 2 = 14$。剩下2颗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/785b2cf8505bfa862b4d7cbb21fbfd16301fafc9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98e81248f29c79d43026bf850fa970e808695f55.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "将余数直接写在商的后面而漏掉省略号",
       "混淆余数和商的含义"
     ],
-    "tips": "记住“分掉的部分”和“剩下的部分”之和必须等于“总数”。"
+    "tips": "记住“分掉的部分”和“剩下的部分”之和必须等于“总数”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/99/99785eb589ba7463a138ab12dc0b6d011bcc6589.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/9a/9a00d31ab7b3070996e5f7b2816f536033f0b4ad.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/fb/fbaefd3822dc06e7207ef776f80d84f348a72b12.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/27/272e9e805c0f1a518eb14f395afcc25dd200a4d5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/53/537a0e0abe0214ae74d32221a4b5ad255380092c.mp3",
+        "https://api.clthuanxie.cn/cc-audio/27/2766b93bf176006001d6102c9e4587a8aba1a899.mp3"
+      ]
+    }
   }
 }

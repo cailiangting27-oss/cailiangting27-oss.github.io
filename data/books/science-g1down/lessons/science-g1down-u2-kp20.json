@@ -21,7 +21,17 @@
         "饼干"
       ],
       "answer": "菜叶",
-      "explanation": "蜗牛属于植食性动物，喜食嫩叶。"
+      "explanation": "蜗牛属于植食性动物，喜食嫩叶。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99751f79aaee5481e696f485ab27c1b5754ef91c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c6/c608bccf47141c32b406380aa0ca8edd14559bdf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0ccacb04a6e53254a1476655f8495ded054209f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a1caa44b89740371be54e37b06cd58052c8a3ff8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd3f702e1bb8c719f25e371c99216086dd339e80.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2d/2db9149ce81d622cb6a2bf976e441358f81ff7be.mp3"
+      }
     }
   ],
   "knowledge": null

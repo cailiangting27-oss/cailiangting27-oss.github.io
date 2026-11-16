@@ -16,7 +16,11 @@
       "question": "'carrots' 的中文意思是'胡萝卜'。",
       "options": [],
       "answer": "对",
-      "explanation": "carrot是胡萝卜，复数形式直接加s。"
+      "explanation": "carrot是胡萝卜，复数形式直接加s。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0e2fc4d4f94e14437cb641bd1f5e18d47bc36e8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6217dc758c115e134c04d6497d5cdda20eb734ea.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'tomato' 的复数形式是 'tomatos'。",
       "options": [],
       "answer": "错",
-      "explanation": "tomato以o结尾，变复数需加es，应为tomatoes。"
+      "explanation": "tomato以o结尾，变复数需加es，应为tomatoes。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c27a96d4e99bcfad3da29260f992024dbd178d3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/36/36288affafdeb3917abe303b5e15d116ab52109d.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "'sheep' 的复数形式和单数形式是一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "sheep是单复数同形词。"
+      "explanation": "sheep是单复数同形词。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/544880332db67b786a559cdcc6c41c1f3d7dbe81.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e5b39d4987146c5a06e3ab06af87ecd16991c730.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -25,7 +25,21 @@
         "太阳"
       ],
       "answer": "A-4,B-1,C-2,D-3",
-      "explanation": "金色的太阳，绿色的叶子，雪白的浪花，圆圆的月亮。"
+      "explanation": "金色的太阳，绿色的叶子，雪白的浪花，圆圆的月亮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36374789daa0a7b8cea1140e784d4d154f7b5b05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9d/9dc7594298247e23783e8c9dacc16aeffb108f6b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d57189c1f7a2e771cbec6c725b5c2bc7dbafd21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d828c1ffb2e03be3b7ebcecc02478707f67742d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2b60a05df13c8f09f8147ce56d4a76bf1b9c8177.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/9797f151c711e9c454adc6e197fed58543bb6fa2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f71cb7f9fb0e6d444f4cbb968b0b72ab18ee296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/00/009a158db5d2f7c58b619f9d6918bea3fd63134a.mp3"
+      }
     }
   ],
   "knowledge": null

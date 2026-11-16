@@ -21,7 +21,16 @@
         "winter"
       ],
       "answer": "spring",
-      "explanation": "spring 春。"
+      "explanation": "spring 春。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62feee0f46921eb8d0d5c2e86a081b945bfcafce.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/24/248902131a732628aef6e2872827db10df7c07bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/6420ed4d831b436d1e92d25605d18297296374e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91fb64276c08bb21aded26660f7d81ba92ceea7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ef41af4175fe164bf14a260fdf226218961c106.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +46,15 @@
         "windy"
       ],
       "answer": "sunny",
-      "explanation": "sunny 晴朗的。"
+      "explanation": "sunny 晴朗的。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b892f067921d231448e8f0a591107de8b2ad3202.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3"
+        ]
+      }
     },
     {
       "id": 4,
@@ -48,7 +65,10 @@
       "question": "winter 的意思是「冬天」。",
       "options": [],
       "answer": "对",
-      "explanation": "winter 冬。"
+      "explanation": "winter 冬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99782f664dd4357ec9e8bcaa18c4d56ac9fc170e.mp3"
+      }
     }
   ],
   "knowledge": {

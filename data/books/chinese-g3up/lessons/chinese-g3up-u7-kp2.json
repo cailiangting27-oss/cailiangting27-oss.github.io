@@ -16,7 +16,11 @@
       "question": "“他跑得像兔子一样快”属于“状态+得+补充说明”的句式。",
       "options": [],
       "answer": "对",
-      "explanation": "这里的“像兔子一样快”补充说明了跑的状态。"
+      "explanation": "这里的“像兔子一样快”补充说明了跑的状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ec3a93fedb5b3729f8aaceb740ca607e1d4d24c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/81d4cdc907cd4d983ab868e1a63b276c7e86d937.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "“得”字前面的部分通常表示动作或状态，“得”字后面的部分进行补充。",
       "options": [],
       "answer": "对",
-      "explanation": "这是“得”字短语的典型结构用法。"
+      "explanation": "这是“得”字短语的典型结构用法。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/10/105e20a3e7f1501c08547a95c508285066490e81.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/aa/aa3b331fb31c33ad92bca9818625bf2d7f0b15fc.mp3"
+      }
     },
     {
       "id": 9,
@@ -43,7 +51,17 @@
         "两本教科书"
       ],
       "answer": "非常生动",
-      "explanation": "此处需要一个补充说明“讲得怎么样”的形容色彩词组。"
+      "explanation": "此处需要一个补充说明“讲得怎么样”的形容色彩词组。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c43572a4577498358b3ff1ca138c5c7f24e9f88d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ca/cac21ba44ab14a5fc0222a464338ddda557702f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/2847b003b2641784b9f8bb08db00ce99a65a8a3e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17a74f53c36de0878c62a2a1b77956498254c5e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be40876c1d730d844e49f896f6fdcb9c85d7862b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/96/966d0d5865ed3ddf94ed785f39eb12199036300f.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -54,6 +72,16 @@
       "错把“得”写成“的”或“地”",
       "补充说明的内容缺失，如只写“跑得很快”而不会用“跑得比闪电还快”"
     ],
-    "tips": "可以总结一套常用组合，如“急得团团转”、“笑得合不拢嘴”、“累得筋疲力尽”。"
+    "tips": "可以总结一套常用组合，如“急得团团转”、“笑得合不拢嘴”、“累得筋疲力尽”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/18/1877303a83938e44819aa622ee0ba1e8b49ce23d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/81/81a982f21214682b15da6143cb6f84220b7f40b1.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/1f/1fb102238fcce492080fdb235982cfd2fccc9ed2.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ab/ab108a46c2b56628d27d3b68b86ce387f0ee64e8.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/8b/8b5e034b07ad72690ba2bfd82c9b1a82bf98bfe1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/10/10b0ea665155837e99331f85e4951a42dc6d7eb1.mp3"
+      ]
+    }
   }
 }

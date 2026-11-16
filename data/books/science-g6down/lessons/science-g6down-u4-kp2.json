@@ -16,7 +16,11 @@
       "question": "化学变化一定伴随发光发热现象。",
       "options": [],
       "answer": "错",
-      "explanation": "有些化学变化不发光发热，如铁生锈；有些物理变化发光发热，如电灯发光。"
+      "explanation": "有些化学变化不发光发热，如铁生锈；有些物理变化发光发热，如电灯发光。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e4aa19f97b27e417d7aa6bd07c564c89eb7d7ff0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cf336a9fd3f875d2de1d4222f0175ec89033c45b.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "蓝色"
       ],
       "answer": "蓝色",
-      "explanation": "淀粉遇到碘酒会发生化学变化，产生蓝色的新物质。"
+      "explanation": "淀粉遇到碘酒会发生化学变化，产生蓝色的新物质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71d1c189935476039d4609996642b662ed380bfd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ab/ab4e18641a15cf47e8751dc49593fbd8a3462453.mp3"
+      }
     },
     {
       "id": 9,
@@ -48,7 +62,17 @@
         "空气"
       ],
       "answer": "二氧化碳",
-      "explanation": "小苏打与白醋反应生成的二氧化碳不支持燃烧。"
+      "explanation": "小苏打与白醋反应生成的二氧化碳不支持燃烧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2e/2eac981f0a5f2ede7b1878c8aac7b76719d4ba02.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/74/74f2ea55960daef6212e49f18bb2b9ffc64cc24a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72fc1a3521c54af543b5929758b8204e584943d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d5/d5bfbbe8160137bf051d3812951fb0720192679c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b49b46e939314b4f229daa9b7e7db2babe50595c.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "体积变大"
       ],
       "answer": "发光发热",
-      "explanation": "蜡烛燃烧是典型的化学变化，伴随剧烈的发光发热。"
+      "explanation": "蜡烛燃烧是典型的化学变化，伴随剧烈的发光发热。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cc/cc7da3fcd32c8d558ce3c076061d9b373d315009.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ba/bab333f52fc390268d79840fdc06a3cd64ea100a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20dba4e40e08995c0e8aff2704517991eef23518.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/245dcbe8d6a379a665411eb603bc1d0d0e8e3e4b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/61/6117b9025fbb6e251c9c2c502be50708a2e0c80d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/51/514ddd566f6fb8c1e0c630e2c4ff9af8d13e7e58.mp3"
+      }
     },
     {
       "id": 14,
@@ -80,7 +114,17 @@
         "蓝色晶体"
       ],
       "answer": "红色物质",
-      "explanation": "铁置换出硫酸铜中的铜，在铁钉表面附着红色铜单质。"
+      "explanation": "铁置换出硫酸铜中的铜，在铁钉表面附着红色铜单质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b59df9ab5dac6090a6c8d3d935bde4c21fa31b36.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/88ba09a5666bccf03a0145b549d57b24a01ff51f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2a/2ad6e0d3fa840af1b4f452e74559c82c8263a2e4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/69e5da9b0024645451a9073c3cc47483f9e032a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/649ad005a00941f047978ed00c577107213b4f04.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d0/d07e6e4e547038a4ce15b23d3624d9c047916507.mp3"
+      }
     },
     {
       "id": 18,
@@ -96,7 +140,17 @@
         "黄色"
       ],
       "answer": "红色",
-      "explanation": "紫甘蓝汁作为酸碱指示剂，遇到酸性的白醋会变红色。"
+      "explanation": "紫甘蓝汁作为酸碱指示剂，遇到酸性的白醋会变红色。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a89b7b07a62604e39cf5fe4321644e1ab28e410e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/43/43f2550e7e3dd30ac8d3f8a3c0a0d069a1b1c65b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e68d49452c0d96fbea295c1177f2202bbc06810.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81dd83dcbee5fb139236f5cb6599809e745469ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c33860af15c45134f79e576f0af18f61c0351f5d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b58cb615e78f1ec0358a0c3a90c076658669cbd.mp3"
+      }
     },
     {
       "id": 19,
@@ -107,7 +161,11 @@
       "question": "在实验室中，通常将（___）个大气压下的标准环境作为实验基准。",
       "options": [],
       "answer": "1",
-      "explanation": "标准大气压通常定义为1个。"
+      "explanation": "标准大气压通常定义为1个。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffd599b84703aff4654b1432ff3db14d42cfd735.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49d424118bfba3d72adb19c03518b9f324a7e718.mp3"
+      }
     },
     {
       "id": 23,
@@ -118,7 +176,11 @@
       "question": "小苏打和白醋反应后的液体，其主要成分是（___）。",
       "options": [],
       "answer": "醋酸钠",
-      "explanation": "小苏打与白醋（醋酸）反应生成醋酸钠、水和二氧化碳。"
+      "explanation": "小苏打与白醋（醋酸）反应生成醋酸钠、水和二氧化碳。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a25203a5c6f3a276c3be62a13821fa1e7d39d7e3.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d1/d1c65cf16a73ef6cfc73ea7ad576b4d0a4c94523.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "studied"
       ],
       "answer": "studying",
-      "explanation": "like doing sth. 是表达爱好的固定搭配。"
+      "explanation": "like doing sth. 是表达爱好的固定搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/188b0531470337fc098b9d94b2628392039617fb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a5/a513ed5bdc99c03bee68ff17a48ff07a2029f822.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/74314b82bff34cadec242f6fb839f53369b4609d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0739a9e099773f4e25f1409aad28d0e9505cec1a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b42a7380d39a6ed69a2bee94e2ff9db0895f7bda.mp3"
+      }
     },
     {
       "id": 12,
@@ -37,7 +47,17 @@
         "is sing"
       ],
       "answer": "singing",
-      "explanation": "表达爱好使用 like doing。"
+      "explanation": "表达爱好使用 like doing。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d5/d52e11fe41da6bcf0c3255f15a84e9e2235cf1a4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f9bef9c232cea3596339c111309709fa59839e79.mp3",
+          "https://api.clthuanxie.cn/cc-audio/de/de77a66ed5bef31a8f668029633ba3101c9cb06e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b34554a5386162fde8158ddff35486e6eaa3ba6e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/97/97284d0548400f93b0aab127889bed2fc1684784.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bc/bcd2fd52713f2ab3cc000c9bd9b9c370954c04f9.mp3"
+      }
     },
     {
       "id": 14,
@@ -53,7 +73,17 @@
         "playing football"
       ],
       "answer": "collecting stamps",
-      "explanation": "collecting stamps 意思是集邮。"
+      "explanation": "collecting stamps 意思是集邮。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/20/20ea6eee645b9870f178ff92250463ae396ad3b0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/155f6d85425c28ddb1684c4ccfc92e91d6a50f91.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1ae006373b24782d9e72be75158d90261cf33626.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/249df891b297ff0793ed0f98c9362dbe057b05bf.mp3",
+          "https://api.clthuanxie.cn/cc-audio/25/2568f206a111b634d9d196d240a526064863a81e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5bb870f85a06dd1fcc4c474ce27f220030594128.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +94,11 @@
       "question": "He likes playing ________ (足球).",
       "options": [],
       "answer": "football",
-      "explanation": "踢足球的英文是 play football。"
+      "explanation": "踢足球的英文是 play football。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/530238ee5ee824bbde71c4d5676a774048ff1d33.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0daa6cc866f81d53071a5f04d3cfd409a91d7140.mp3"
+      }
     },
     {
       "id": 18,
@@ -75,7 +109,11 @@
       "question": "I like swimming and ________ (远足).",
       "options": [],
       "answer": "hiking",
-      "explanation": "远足是 hike，在 like 后用 hiking。"
+      "explanation": "远足是 hike，在 like 后用 hiking。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a9/a9fb259bd3e42cf95138ba45defd5cd947383c5b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/17/17d62932c0109da1aa803f30d7db5951f7e49b7c.mp3"
+      }
     }
   ],
   "knowledge": null

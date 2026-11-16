@@ -21,7 +21,17 @@
         "害怕的"
       ],
       "answer": "分享的快乐",
-      "explanation": "邀请小动物居住体现了善意和快乐的情绪。"
+      "explanation": "邀请小动物居住体现了善意和快乐的情绪。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cf/cf9add11f8b734e350072d351db6112761943f4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a1/a131463cf33963ea7424fe70b5eaa65304d28872.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e93c9f9cd1bd97b6776fc1045886a0306a10633.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e01d217d3fa67dd878172588b44a7e8db6450b3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3785ae9328a0af5f5ba6f976d3e50900dd4a0c4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/49a902f03d17162e1a38e4d2873f82789ae8a17f.mp3"
+      }
     },
     {
       "id": 14,
@@ -37,7 +47,17 @@
         "吓跑怪兽"
       ],
       "answer": "钓鱼",
-      "explanation": "考查对课外/教材拓展阅读情节的记忆。"
+      "explanation": "考查对课外/教材拓展阅读情节的记忆。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/172a7ce38e7cb8b3b2b12a4de5b6dda60456065b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/81/812483019772b4e6e3fafa401a871360919fc84e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8c/8c53f94cd996669a19f8484bfb9cb5b37c0ce2d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dd368c6a5269768f34b613f347775bd569599f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/514a43755b46592e06bba44597e03be99dd36ae0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c3/c318987c49a84da3acf7134cb64fc27e50b56bbc.mp3"
+      }
     }
   ],
   "knowledge": null

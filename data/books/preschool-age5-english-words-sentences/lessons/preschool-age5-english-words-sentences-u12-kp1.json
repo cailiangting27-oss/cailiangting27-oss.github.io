@@ -22,7 +22,12 @@
         "say": "It is red",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 12"
+      "knowledge_point": "英语跟读 12",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/e3/e3d2c410df259821011452c0d5e2a80e0a7d1da2.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/f4/f41585438ba01b2caecacad3a2d7fca2d30e9faa.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/70/70e7d92a59438ae3f5999c11e0abad2c6a7e7969.mp3"
+      }
     },
     {
       "id": 46,
@@ -39,7 +44,12 @@
         "say": "I love my family",
         "type": "en"
       },
-      "knowledge_point": "英语跟读 12"
+      "knowledge_point": "英语跟读 12",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/ab/ab43a8c34743390ec7024cd8ecb5cd64e1cc0d63.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/6c/6cabd0bde10bcd2ea75fbc1271afb2b708a040e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/798bafa62762a2360fa729766e165f6d26f61eeb.mp3"
+      }
     }
   ],
   "knowledge": null

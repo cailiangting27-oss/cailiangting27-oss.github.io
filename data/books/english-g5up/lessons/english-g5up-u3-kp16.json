@@ -21,7 +21,17 @@
         "delicious"
       ],
       "answer": "salty",
-      "explanation": "因为太salty（咸了），所以需要喝水。"
+      "explanation": "因为太salty（咸了），所以需要喝水。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0c8e8cac7218560f19bbdea4e1b79977b1fff120.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/457774c6f0228627cad243f9b8d5ae6f27e1fac6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/31c31e4d9247bebdf28b7592c06c194459a6e31c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67a4c84cb83788005285d9c9e6f6d6c046b4c39e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ab9d1883a9724bf883dcc196d7ed1e8f5d2fb63.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b2/b2dac962af9df7e3014bbbdb5a0ecdfdf648a10a.mp3"
+      }
     }
   ],
   "knowledge": null

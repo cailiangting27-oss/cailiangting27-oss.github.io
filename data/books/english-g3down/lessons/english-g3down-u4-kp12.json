@@ -21,7 +21,17 @@
         "No, I don't."
       ],
       "answer": "Yes, it is.",
-      "explanation": "Is it...? 的肯定回答是Yes, it is."
+      "explanation": "Is it...? 的肯定回答是Yes, it is.",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/29/29a60b346b9877f4befba3a5b5c3b526641a3b2a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7b/7b21e803e8648c3e7b5a6d82fb020225b6e515be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daf2cb4fb6da513d9de72203586f8c71e916f39.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03e859ecae227afaea3924d5b3d2fcca983d706b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/284da0cb3a948422cae9aa2005de405f53017333.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d3cdb379bd55b16fe422c51ad6645864ec821498.mp3"
+      }
     }
   ],
   "knowledge": null

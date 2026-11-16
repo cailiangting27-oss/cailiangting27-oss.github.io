@@ -16,7 +16,11 @@
       "question": "0除以任何不是0的数都得0。",
       "options": [],
       "answer": "对",
-      "explanation": "$0$ 除以任何非 $0$ 数都代表把 $0$ 个物品平均分，结果依然是 $0$。"
+      "explanation": "$0$ 除以任何非 $0$ 数都代表把 $0$ 个物品平均分，结果依然是 $0$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/56/569840853db89dbda5d12ccddb7875eccb118a3a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6e/6e9ec99b556403167f7a84d1c409d31187c0f927.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "一个数和0相乘，仍得这个数。",
       "options": [],
       "answer": "错",
-      "explanation": "任何数和 $0$ 相乘都得 $0$。"
+      "explanation": "任何数和 $0$ 相乘都得 $0$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61616e86c61d35a1bf2553ece82e242902e4e5f9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ce/cef0387e4c9abe640545cb9454ef38e686e52f74.mp3"
+      }
     },
     {
       "id": 11,
@@ -43,7 +51,17 @@
         "$\triangle$ 和 $\bigcirc$ 中至少有一个是 0"
       ],
       "answer": "$\triangle$ 和 $\bigcirc$ 中至少有一个是 0",
-      "explanation": "两个数相乘得0，说明其中必有一个因数为0。"
+      "explanation": "两个数相乘得0，说明其中必有一个因数为0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c3a6867a638e626c04f499efbbce09ce835df40.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6e/6e3899b9662b8efd57a7e1897fda017c45131904.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a184bdefdd01940d89ae47d257d3c1d77f8100e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/12b3ac1c8d6c79d6031434717de6faa27552cc80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f6bc011f630857a57aa4e96bd0eb53a2903bbd3.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/159a7f88cdeea945d7add1725fd7cb9ccaf55170.mp3"
+      }
     },
     {
       "id": 15,
@@ -59,7 +77,17 @@
         "8"
       ],
       "answer": "7",
-      "explanation": "被除数 = $42 \times 4 = 168$。正确商为 $168 \times 24 = 7$。"
+      "explanation": "被除数 = $42 \times 4 = 168$。正确商为 $168 \times 24 = 7$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/51/51d74336290521a180bdb38003c1d5b6b816f536.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e6954e7fc3388598aa534319de5d4b50e8787034.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +103,17 @@
         "60"
       ],
       "answer": "0",
-      "explanation": "乘法中只要有一个因数是0，积就是0。"
+      "explanation": "乘法中只要有一个因数是0，积就是0。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/32/32caefc0c7556d8687ee44d4a2ddb1a2d39d3dbb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/64/64e095fe763fc62418378753f9402623bea9e227.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7b52009b64fd0a2a49e6d8a939753077792b0554.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/21de2e190400e59a65b6d36cbc9ba374b7c597ea.mp3"
+      }
     },
     {
       "id": 20,
@@ -86,7 +124,11 @@
       "question": "一个数除以 15，商是 6 且没有余数，这个数是 ___。",
       "options": [],
       "answer": "90",
-      "explanation": "被除数 = 商 $\times$ 除数。列式：$6 \times 15 = 90$。验算：$90 \times 15 = 6$ ✓。"
+      "explanation": "被除数 = 商 $\times$ 除数。列式：$6 \times 15 = 90$。验算：$90 \times 15 = 6$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d65608c0d957f85c6fb44e760068b02d21677eed.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/60/6044ceba3bde03993a09c2ed55eadf92954a9d9f.mp3"
+      }
     },
     {
       "id": 22,
@@ -97,7 +139,11 @@
       "question": "计算：$125 \times 8 = ?$",
       "options": [],
       "answer": "1000",
-      "explanation": "$125 \times 8 = 1000$。验算：$1000 \times 8 = 125$ ✓。"
+      "explanation": "$125 \times 8 = 1000$。验算：$1000 \times 8 = 125$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ff/ffcefe996b47f8cdc63ea1f6d9c731a5ed18afba.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/90/909c87f1938ddf1fd19455fa6863b3ce5172739e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -108,6 +154,16 @@
       "在有余数的除法中，忘记余数必须比除数小",
       "错误地认为 0 \times 5 = 0 没有意义（实际上是除数不能为0）"
     ],
-    "tips": "牢记“0乘以任何数都得0”和“0除以任何非0数都得0”。"
+    "tips": "牢记“0乘以任何数都得0”和“0除以任何非0数都得0”。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/a2/a21a3a273fc399711bb626afa8ee8002cdb6bdd7.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/52/5260568a11427945d7ba8581c7e8b5474d901c1f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/82/8277f651e2de16021eb0bf4c6228fc4dfdb79543.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/aa/aa6613352bbfb5e700788f15bf97fef0ea06cbdb.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/3b/3b6fb9586fe8133bfdfbaf2384b7394b827f1f25.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ac/ac25a1f00747fdfaa7457ec97352de2ae67d6eb3.mp3"
+      ]
+    }
   }
 }

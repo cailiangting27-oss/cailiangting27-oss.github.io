@@ -16,7 +16,11 @@
       "question": "“见风就长”在《肥皂泡》中形容肥皂泡飞得很快。",
       "options": [],
       "answer": "错",
-      "explanation": "“见风就长”在文中是指肥皂泡在风的吹拂下变得越来越大。"
+      "explanation": "“见风就长”在文中是指肥皂泡在风的吹拂下变得越来越大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e87529d4e381595959703d254e1c933c12944ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/62/6274e3b196aca804c9be516b0a60156696d2d1ab.mp3"
+      }
     },
     {
       "id": 5,
@@ -27,7 +31,11 @@
       "question": "理解句子时，如果遇到不认识的字，只能通过查字典，不能联系上下文猜测。",
       "options": [],
       "answer": "错",
-      "explanation": "练习上下文是理解词句的重要方法之一，不仅仅是查字典。"
+      "explanation": "练习上下文是理解词句的重要方法之一，不仅仅是查字典。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e894e78fc13748f59ed3e0c9330c8f17f94f2d3e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f2/f2f1419a06379b60f9feec5b3be409c7b525ffcf.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "小孩子画上去的颜色"
       ],
       "answer": "太阳光折射出的色彩",
-      "explanation": "结合生活经验，肥皂泡在阳光下会产生像虹一样的斑斓色彩。"
+      "explanation": "结合生活经验，肥皂泡在阳光下会产生像虹一样的斑斓色彩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/49/491856d44a3bb22a2d64e48ebe1103a39f863035.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/44/44b4f1ebf61e400e8ad9196073515888278f5cc9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8cfee9eba930925ed14c23f1dc4403364a58814.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcf0a9e413f2c6829cac3bf557ebc1a04e86f1c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d46b20eca0df633111365282af4fabcfdfe85307.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06c492e7c4641f2a269da096e97e1db6145c6c92.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "害怕高处"
       ],
       "answer": "未来的向往",
-      "explanation": "风筝飞向蓝天象征着对梦想的追求和对未来的憧憬。"
+      "explanation": "风筝飞向蓝天象征着对梦想的追求和对未来的憧憬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/690960b9cf29b9a2b0bf6185eceb48be75464100.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7c4e559c77b135fc9d7749c40f807ca9f6485a90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfad93968a911d465a86819e730415fd5ad4a491.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b9f6e43f9531468986c0bd152728955b45df1d0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ad/adc011de63838d1c748936f905666cc30c546660.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d570083f9693db15b392e2f3df35e09c5246693b.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "“染”字赋予了溪水人的动作，生动表现了溪水的清绿。"
+      "explanation": "“染”字赋予了溪水人的动作，生动表现了溪水的清绿。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d6/d6b9b3246d9a3eeedb10d7a9c2473af28460fe30.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c78d2034f4242b863e0224263558e7c9066df744.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e0d1bdde402e9a2047f468b4610c9b32b46abc6.mp3"
+      }
     },
     {
       "id": 15,
@@ -91,7 +129,17 @@
         "查字典了解词的原意"
       ],
       "answer": "不管上下文直接猜",
-      "explanation": "必须“联系”上下文，不能脱离语境盲目猜测。"
+      "explanation": "必须“联系”上下文，不能脱离语境盲目猜测。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5c/5c182f0eb77e35012dc2caa12ae08aec478fd97c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/51/5178738dd899a658166628b7ae77bedf121c3eb3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16c5e58482e1ba059e26b159a5dc3f2c96f7acb4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2d8597ecf28c57ef81f1f35d17cecd4222321a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ee/ee23324c4b0a9954dd682083b8f809e22eacc77b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ae/ae899550b0d74a390815c47f0cec6252553c8de4.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "“垂柳把溪水当做大镜子”，这句话中把溪水比作了（ ）。",
       "options": [],
       "answer": "镜子",
-      "explanation": "这是一个明喻，将平静的溪水比作镜子。"
+      "explanation": "这是一个明喻，将平静的溪水比作镜子。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bdb7e6dd6e9702de6dc49574720895c545d84ed2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e0/e0c7ee863569e6b1bfdde41480b39c410b4f6ff4.mp3"
+      }
     },
     {
       "id": 21,
@@ -122,7 +174,21 @@
         "飞动"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "考察词义辨析：破裂-碎开，飘游-飞动，羞涩-害羞，胆怯-胆小。"
+      "explanation": "考察词义辨析：破裂-碎开，飘游-飞动，羞涩-害羞，胆怯-胆小。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/25/25a97d26de4202ff6e900ba40177d1d30fa785eb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/507a21e23b13abc195e7ed43f3fa2d6cce787571.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6abb2860f219195f7fd50afbaba983ea4b950d9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a7/a7c6baa871dbeb74506675efb9e96ec23684b7e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be62126b55ae5f04a576f42841293444f5fc8751.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/03637e9c844fe354c4b02593a88bbdb0843582e0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6b/6b40fc89d4bf2f9deed64a3b4a7709bec1fee7c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c8e626f101ed3cda6d47df1f4ed55bc62897e51.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89d17a532e135919ef59d2d64d3b0c11005a1301.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/65/6545d421dd345471b4b7e14bac9b3b665ec32495.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -133,6 +199,16 @@
       "脱离语境，仅凭字典上的意思生搬硬套。",
       "忽略句子中的比喻、拟人等修辞，导致理解过于死板。"
     ],
-    "tips": "遇到不懂的句子先划出来，读读上文，再读读下文，想象一下当时的画面。"
+    "tips": "遇到不懂的句子先划出来，读读上文，再读读下文，想象一下当时的画面。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/6c/6c0a2043f21dd9cba9165e88bb83ebb83b7cbe74.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/e2/e208ffacebbcf49dfddbc2d9860e06da465cbe0e.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a9/a91ac23961cdd442b5d2a68ca3f4e1a6259d331f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/70/7052a95d281066f65a45df92e00ab121b80eb533.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/5a/5a667f647b4f5d8722b0a97ec9b7f3a803576cdd.mp3",
+        "https://api.clthuanxie.cn/cc-audio/bb/bbc31e3d785805c9ce9318cc0d5220e82450e020.mp3"
+      ]
+    }
   }
 }

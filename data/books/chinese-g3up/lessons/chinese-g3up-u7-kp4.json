@@ -21,7 +21,17 @@
         "jínɡ"
       ],
       "answer": "qín",
-      "explanation": "“琴”的正确拼音是二声前鼻音。"
+      "explanation": "“琴”的正确拼音是二声前鼻音。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/585f7255f32309b2b3c153f5e037c5ef4f278017.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36ed17ebb45bf6ba62216b9181a38b20e8ae938f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/243067e0db34e49ec7ac8c4274314f312d931169.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cfe9d52c29a5aec4e239714148e9711a77a7ce3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa5ca3cb60312f9dc65f82f2ef93e5c6ef888bbd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79ff7c7236cd1d186a0883154cf6f9b53d21c92e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "driver"
       ],
       "answer": "postman",
-      "explanation": "在邮局(post office)工作的人是邮递员(postman)。"
+      "explanation": "在邮局(post office)工作的人是邮递员(postman)。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0857aecc2f4a7bc85dafdcac7e07a9e5d47e967.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f3/f3ba4d993e2dbcd87a6390a0cd67e6eab0b01a18.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1f0160076c9f42a157f0a8f0dcc68e02ff69045b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7e/7ec5f7e03481cdff78493115f3a939ec4f2ded5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdda0c46f953c1a45bdc520849be1e4edf4e228c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df338d32aa1799d740248a13f153ed7c9e751ad5.mp3"
+      }
     }
   ],
   "knowledge": null

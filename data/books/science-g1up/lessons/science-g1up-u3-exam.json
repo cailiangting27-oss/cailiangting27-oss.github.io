@@ -16,7 +16,11 @@
       "question": "比较高矮时，观察者必须蹲下来平视物体的顶部。",
       "options": [],
       "answer": "对",
-      "explanation": "平视可以减少视差造成的误差。"
+      "explanation": "平视可以减少视差造成的误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/71bcadb2430ad7892d91bbbf574074f9a247036d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a32a922eb4a671f06d21bd21538f96f8aaffef18.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "在测量较长的走廊时，用“步”测量比用“拃”测更方便。",
       "options": [],
       "answer": "对",
-      "explanation": "测量范围较大时应选择较大的单位工具。"
+      "explanation": "测量范围较大时应选择较大的单位工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e57cd2e3a312762ef894adaadcb9f03b4927ca1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/30/30aa085758cd20556ae73fa91c3143c84e728adb.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "塑料尺比纸带更容易变形，所以测量不准。",
       "options": [],
       "answer": "错",
-      "explanation": "塑料尺硬度大，不易拉伸变形，比纸带更精准。"
+      "explanation": "塑料尺硬度大，不易拉伸变形，比纸带更精准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e0f82e31e0173c9541d7f9c66e5d6e0b8586e724.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/47/4707f0188c9b5e2118a9f0e34f6fa860c14b7cfd.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "所有的测量工具都必须带刻度才能使用。",
       "options": [],
       "answer": "错",
-      "explanation": "电子工具（如体温枪）直接显示数字，不一定能看到实体刻度条。"
+      "explanation": "电子工具（如体温枪）直接显示数字，不一定能看到实体刻度条。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9c0639be71a4a6031881f16edbea44fe52f6e337.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/9833d95a584b614519540ad642c9752e0fd98d4a.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "只测一次就可以了"
       ],
       "answer": "测量多次，取相同的结果",
-      "explanation": "重复试验并取一致或平均值是科学精神的体现。"
+      "explanation": "重复试验并取一致或平均值是科学精神的体现。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00bafa6ca01bcdc7dfd4d18b8899f6feaebfd3b8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f2/f2abdafb9a43d507260d1ce125f491f20249b416.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17280868ee426ff9c7fefdee03fcf1b8ad73c016.mp3",
+          "https://api.clthuanxie.cn/cc-audio/33/33ff9f3747bc47045d47523e58934202eb846222.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d72e6f9e9bf05f54b0df04c1412bedb4d37aea5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/75/75fbcf699ea0653c70c210834f9a0c57fe109cc4.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "一个圆形的皮球"
       ],
       "answer": "一个一样大的小方块",
-      "explanation": "标准物必须形状固定、大小一致。"
+      "explanation": "标准物必须形状固定、大小一致。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/cebf515c4c8b81a900fbe9c1bd76b226a8746761.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f491ac3614f62bfe177f37551eca1c5797b88124.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34b4f4e2638de4243f9548f4ed3c9cbd593a5962.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a0b5fac8e83cd906bed9e4fe1d0c351ec0e6f40.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/066c2d0e81a67ef1481c174c128f27bf47da0828.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b7/b705f18e89fc1d545cae69b8f9f5ef648cd7c716.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "卷尺"
       ],
       "answer": "温度计",
-      "explanation": "温度计是专门测量冷热程度的工具。"
+      "explanation": "温度计是专门测量冷热程度的工具。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/ea790bb68f5821560cbcba5d4c0f42d0826c2539.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3b/3bfea5b380d7b3ac2b15741663a9d92bab92a6f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4926c142819ebe2beee6cf23c277f5a099c11d4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9fa2c0c088370c8db01837683d43fe768c63826a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f5b8dc6e976e2a888b47a2c6b83f8d53dcb3768.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb039114dcc0fa5aedf2073b8331e6b921211480.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "给它们涂上颜色"
       ],
       "answer": "统一对齐左端，观察右端",
-      "explanation": "必须建立统一的比较基准面（对齐一端）。"
+      "explanation": "必须建立统一的比较基准面（对齐一端）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/22/22e9a2bbc609059760930733e62410fe977906d4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/48/48ad14218fe142bdfdad1629522bfd3d0707b8f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/806ca8184454b9a01248dc66f3680f67cd9b649f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3c4127f3ab3e06d288742b8ae6cfa91ae233fe4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5a/5abe265e8c715a69ec1ebe977a176dcc3565f0a2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8169b3fffb51a025f1360599a8668cfa1d8f2f0c.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "围成一个圈"
       ],
       "answer": "紧挨着排成一条直线",
-      "explanation": "测量长度时，工具轨迹必须为直线且连续。"
+      "explanation": "测量长度时，工具轨迹必须为直线且连续。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/13/13224e15a603636b4fce0d32e4c1b4e20691e354.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/36/36cb19ddcff5c8656cbd6ac733f65eeecc617229.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4177496164d0ab6596c3e734d367e97ac09b4f08.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29fe60ee0cefd6210bd1f84f372bffa5220aa44d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce030c8ac943f6413e7b705e994d9c095e20bc1e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df2553cf2feec1b010639ab3d610b5354a62f15b.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "0个单位"
       ],
       "answer": "10个单位",
-      "explanation": "刻度值之差（10-0=10）即为长度数值。"
+      "explanation": "刻度值之差（10-0=10）即为长度数值。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a5/a53eb2640a5db36878383b86efa0a0fd3f04a2df.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/95/95df10b02f94604e60eae9e2c1930c09eadbeca8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5b/5b4c55beee3f4ed713d528df08d304a7141e43e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/34777d4f950bc62578c2cb8f4bd3974b7bc0f533.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00f76f48e64987771e1f3ae66daf9a886f495e32.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c537d149640ff510ad18c162340c6a0d99744e9.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "算它是10块"
       ],
       "answer": "记录为“7块半”或“7块多”",
-      "explanation": "科学记录要求真实反映客观情况，允许使用近似描述。"
+      "explanation": "科学记录要求真实反映客观情况，允许使用近似描述。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06b080425b5f43d83872d883d1de90cd68de0213.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/03/032b4261e82739ce24a5a60be083e34b471b1ef5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb7017d5e0f66fd0e665aa3421c661613c2c2dd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d1b157d692da87837835bccb4993f75f29d7278a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3480784308ab7f85b092ecab81e3ca1c6d6496a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0a/0abae1e2b662b9aab2c7b4023b583a4cbf15b24c.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "纸带比回形针测量更慢"
       ],
       "answer": "纸带比回形针测量更慢",
-      "explanation": "纸带集成化程度高，一次拉开即可读数，通常比逐个摆放回形针快。"
+      "explanation": "纸带集成化程度高，一次拉开即可读数，通常比逐个摆放回形针快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/6862ceb7a3e555f486d082a4e6e439f4a78d7a1c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/78/78a38bce207e01a78e477a10a38615cefcc01049.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e6b350d745790b77e14fd997012c90630534682.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/487cc8b7ce909370a16dc146ef02740d72fa1b61.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e50e2bd01fd28bdafb24108b7f4567c30f9c5d1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b105435d2ed89389b9e935bce2ffb2e8fc862339.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "一把标准的尺子，从刻度2到刻度9，中间的总长度是（___）个单位格。",
       "options": [],
       "answer": "7",
-      "explanation": "计算长度公式为：终点刻度减去起点刻度，9-2=7。"
+      "explanation": "计算长度公式为：终点刻度减去起点刻度，9-2=7。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c2d2aea8cc75c3ed73cab907c8c08b589a5e15b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ee/ee9300bcea508c1e05a454ce94c6e56203cc9a52.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "人的双手平伸时，左手中指到右手中指的距离大约相当于（___）个人的身高。",
       "options": [],
       "answer": "1",
-      "explanation": "这是一个著名的身体结构规律，臂展约等于身高。"
+      "explanation": "这是一个著名的身体结构规律，臂展约等于身高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/009722f3613a0f3c9a2386d23f930cb2bce095c0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2f2c786806dfb52e08be9c7fcfe117441526307.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "测量时，每个人的“拃”长短不同。在科学上，这种长短的差异叫做（___）。",
       "options": [],
       "answer": "误差",
-      "explanation": "由于工具或人为因素导致的结果不统一称为误差。"
+      "explanation": "由于工具或人为因素导致的结果不统一称为误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/94eb69684c0fb07df744821f6bcf38b939551a53.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b0/b0459b4cdf3e87a4da4457550c2b5daed93688fd.mp3"
+      }
     }
   ],
   "knowledge": null

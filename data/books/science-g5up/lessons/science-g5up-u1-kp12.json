@@ -21,7 +21,17 @@
         "雨后彩虹"
       ],
       "answer": "皮影戏",
-      "explanation": "皮影戏通过光照射不透明遮挡物形成影子，体现了光沿直线传播。"
+      "explanation": "皮影戏通过光照射不透明遮挡物形成影子，体现了光沿直线传播。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b0/b0a2f98006fb980669c86aa7da9319fc14880688.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/6289782fe87f7f36b7d8ca926d849a0ea631ea25.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3c/3cbe3ab3fc573606fd0d304b98f59e3d4df3479f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c2c0039bbf701419070c875917b166e68549bc5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0ec6fa57a4ff002c7ff7bd579470e4f3884ad1e0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4d/4dd651449fd08aa320e2f3384d3679ce9bcd56c6.mp3"
+      }
     }
   ],
   "knowledge": null

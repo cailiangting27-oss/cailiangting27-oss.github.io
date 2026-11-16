@@ -21,7 +21,17 @@
         "也是绿的"
       ],
       "answer": "风,是绿的,雨,也是绿的",
-      "explanation": "出自艾青的《绿》，体现诗人奇特而主观的感受。"
+      "explanation": "出自艾青的《绿》，体现诗人奇特而主观的感受。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afb0a0fded7556c61081c021d6197ca6ee0dd3d3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/53/534418ad36f925d1e9455904bf6f6e4f2393e753.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4b7c11081d3645baaa87e99220f11fc1e37541b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/8995b8979971e99abf52e3aacbd66754a06fa685.mp3",
+          "https://api.clthuanxie.cn/cc-audio/09/09a303ac421887b1d9b82383adfba64e41ae2e5b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b420b3487ac8a0f7268650f6b170ca33d284425.mp3"
+      }
     }
   ],
   "knowledge": null

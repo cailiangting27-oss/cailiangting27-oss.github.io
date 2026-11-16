@@ -25,7 +25,21 @@
         "看病"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "A.take a trip-3.去旅行; B.go hiking-1.去远足; C.see a doctor-4.看病; D.by subway-2.乘地铁。"
+      "explanation": "A.take a trip-3.去旅行; B.go hiking-1.去远足; C.see a doctor-4.看病; D.by subway-2.乘地铁。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/cd/cd194d80d48030dbb356d096ce93b3f73c8b44c0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bb55b3ff20b9c13cf5106e7cde34e721fea7460b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/088081b4415390c9309d287c20b44096888efbdd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0aba63c403a26eddc73b27b2cbcc812fa5085493.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d90ead97b8b2cfb28038423a2ccca0e7cb57031.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/171f6c916574f231e2333698cc59654c5e12d918.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8b19ff93e19f102b5a84bc0ca5c6fe15e718101b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5907474a53d1d6ec991ca4c1d0a408f2877dc0c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d89ae6fc0d55fc8b3043a600b83046a9f8d6ad5a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/01/01f3f41dd6005110b74bb18e3acf379aee970397.mp3"
+      }
     }
   ],
   "knowledge": null

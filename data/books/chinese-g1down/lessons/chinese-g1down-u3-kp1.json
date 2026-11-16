@@ -16,7 +16,11 @@
       "question": "用音序查字法查“河”字，应先找大写字母“H”。",
       "options": [],
       "answer": "对",
-      "explanation": "查字典第一步是找首字母大写，“河”的音节是he，首字母是H。"
+      "explanation": "查字典第一步是找首字母大写，“河”的音节是he，首字母是H。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b4/b48aa9952b39b48b01394741c3db535104e5bef4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/be/beea958ac04cf5754e83686e032956fc909888ba.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "在音序查字法中，字母“R”的后面一个是“T”。",
       "options": [],
       "answer": "错",
-      "explanation": "按照字母表顺序，R后面是S，T在S的后面。"
+      "explanation": "按照字母表顺序，R后面是S，T在S的后面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/696d2b6cdf5e519b34ec2de342d1afae68ad9998.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03e40645059aa196efc2fc541aa0755110a9bcb1.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "ne"
       ],
       "answer": "le",
-      "explanation": "音序L对应的音节首字母必须是l。"
+      "explanation": "音序L对应的音节首字母必须是l。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a86708cccdc0ba4c86360bdd3f4fe7f3aafc78db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/59/593b743b207e10ff55ec63e71a46c07909d0880a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f60d2a2f7993d5825671faef6f38d5d8a0c34130.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/19f43677518ff5d27cdffc497d07a85ac4a31be9.mp3"
+      }
     },
     {
       "id": 20,
@@ -63,7 +81,21 @@
         "r"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "考查大小写字母的一一对应。"
+      "explanation": "考查大小写字母的一一对应。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39b1e1bf466846bdc6f9fe6a572cba1b3e6c2ed4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a36a6718f54524d846894fb04b5b885b4e43e63b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7c/7cf184f4c67ad58283ecb19349720b0cae756829.mp3",
+          "https://api.clthuanxie.cn/cc-audio/06/06576556d1ad802f247cad11ae748be47b70cd9c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3156e00d3c2588c639e0d3cf6821258b05761c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27d5482eebd075de44389774fce28c69f45c8a75.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54fd1711209fb1c0781092374132c66e79e2241b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22ea1c649c82946aa6e479e1ffd321e4a318b1b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4dc7c9ec434ed06502767136789763ec11d2c4b7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86b4dad8fc061c8c519c51c37f7ee0bb98aa0c41.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -74,6 +106,16 @@
       "把小写字母当做音序",
       "字母表顺序不熟导致找错字母"
     ],
-    "tips": "可以背诵音序歌：A B C D E F G, H I J K L M N..."
+    "tips": "可以背诵音序歌：A B C D E F G, H I J K L M N...",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/98/980f615b259250de1594b36e4674c2a0cc169223.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/49/4948b16e61480fe7df187ad062ad6ad5439fac8c.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/a7/a708debf3da2a2d09d5482af2fd955a531cdb619.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/aa/aa74afe9c5eb51e74219fbe407b257d1a32e6545.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/05/0592e874421a548dd034f783d5026084b60bfcbe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/64/64e2e084bc0b06cbc5087e4751edb680d6819eae.mp3"
+      ]
+    }
   }
 }

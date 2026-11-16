@@ -16,7 +16,11 @@
       "question": "一个具有4个接线柱的接线盒，最多可以产生（ ）组不同的检测组合。",
       "options": [],
       "answer": "6",
-      "explanation": "组合数学：1-2, 1-3, 1-4, 2-3, 2-4, 3-4 共6组。"
+      "explanation": "组合数学：1-2, 1-3, 1-4, 2-3, 2-4, 3-4 共6组。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de32547439bd44594eb3f72cfaeba3f3141ca66c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/765dbe32fe0ce4c4865693d6d19ebbb146b09629.mp3"
+      }
     }
   ],
   "knowledge": null

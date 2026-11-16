@@ -21,7 +21,17 @@
         "at"
       ],
       "answer": "by",
-      "explanation": "by + 交通工具表示出行方式。"
+      "explanation": "by + 交通工具表示出行方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/54bf61f4482a2e61baa18c7fa141b610e495d9b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/40/408158643ed564c72fa0921826f8294d71ccbf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8fcd25a39d2037183044a8897e9a5333d727fded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a9/a9957647ec559b3f52109752b55d575c7b8e0887.mp3"
+      }
     }
   ],
   "knowledge": null

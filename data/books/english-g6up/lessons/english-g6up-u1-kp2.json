@@ -16,7 +16,11 @@
       "question": "'next to' 表示在...后面。",
       "options": [],
       "answer": "错",
-      "explanation": "next to 表示紧邻、在...旁边，而 behind 才是后面。"
+      "explanation": "next to 表示紧邻、在...旁边，而 behind 才是后面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06d91e43081bbd82085eb9dc63930ca768477d42.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53db303f9b4dfb1dd07a33c6abd06437e3a6612b.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "in"
       ],
       "answer": "next to",
-      "explanation": "side by side 描述的是相邻关系，用 next to。"
+      "explanation": "side by side 描述的是相邻关系，用 next to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/73/7369b8cbfcfddde4d79c6e87a34354c78291a6f6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/4b/4b8fd8727d3bddc84e98e7b827f72392f1d68066.mp3",
+          "https://api.clthuanxie.cn/cc-audio/db/db3d405b10675998c030223177d42e71b4e7a312.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/27e90dfa57c358acfaf470860f6f72c9282ce995.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af10ef20dd9060bbeead0afbc55381a66af442ef.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e7/e7012d673ae6bb71e76bb706741d20c66c8c685b.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "front"
       ],
       "answer": "next",
-      "explanation": "固定搭配 next to。"
+      "explanation": "固定搭配 next to。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e909713dab362eda64d4ef96b45cdcaccdc42a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d8/d8c46683a8f9c86808adc4afc876b3900a6dcca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ed/edee9402d198b04ac77dcf5dc9cc3dac44573782.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fb6dbd81382d78f0f0633759a9c6033858e445b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b78eb3be0ae3f0e1963a6a98ad72bdc7365d924.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d4/d431db50616635ee3459bd5fd90e3e539d3445cd.mp3"
+      }
     },
     {
       "id": 18,
@@ -59,7 +83,11 @@
       "question": "The hospital is ______ the bookstore. (在...后面)",
       "options": [],
       "answer": "behind",
-      "explanation": "behind 表示在...后面。"
+      "explanation": "behind 表示在...后面。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c6/c61549f8bc33922d87cfb92a2415662051788a12.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb6566a4a7495c89f40f3c3c3a8e111a39e70dcb.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "80"
       ],
       "answer": "70",
-      "explanation": "$24 + 16 = 40$，$40 + 30 = 70$。"
+      "explanation": "$24 + 16 = 40$，$40 + 30 = 70$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ae/aed9c4ae0d19ab65a274187146db0b1b95b310d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/39/39ad2c47b37fc4f58ddbe577edf5308d64e792db.mp3"
+      }
     },
     {
       "id": 15,
@@ -37,7 +47,17 @@
         "90 - 24"
       ],
       "answer": "36 + 24",
-      "explanation": "$90 - (36 + 24)$ 可以湊成整十数，$36+24=60$。"
+      "explanation": "$90 - (36 + 24)$ 可以湊成整十数，$36+24=60$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a4/a417f1af130c96bb61c68f8e4ba46d6f1915553a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5f/5f90dc9c7852867539d38db5fe1b22b92c05daf9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0c/0ca0473b3e1e2d26e59f3a1909ea0aea5d5dc388.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e8/e8ffa0020292217ce7c8c3de76e904c59b461db1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f26111f61cb25ac1cfa56b6c02578b837de02671.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/12/125a063debc010116f20ffb87d65eabeb5c3d0d3.mp3"
+      }
     },
     {
       "id": 18,
@@ -53,7 +73,17 @@
         "56"
       ],
       "answer": "80",
-      "explanation": "求短了多少即求一共剪去多少：$36 + 44 = 80$。"
+      "explanation": "求短了多少即求一共剪去多少：$36 + 44 = 80$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/78/78323cdbbe509452a3c719291fc76e8a07f6c0ac.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66c65175fecc3103b3b587be9b5b230889c8628.mp3",
+          "https://api.clthuanxie.cn/cc-audio/54/54ceb91256e8190e474aa752a6e0650a2df5ba37.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c1/c16f43616a4f800d475704ae3fba15cbb9134f8b.mp3"
+      }
     },
     {
       "id": 21,
@@ -64,7 +94,11 @@
       "question": "三个朋友跳绳，小红跳了 32 下，小军跳了 28 下，小刚跳了 35 下，他们一共跳了 ___ 下。",
       "options": [],
       "answer": "95",
-      "explanation": "$32 + 28 + 35 = 60 + 35 = 95$。"
+      "explanation": "$32 + 28 + 35 = 60 + 35 = 95$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c0/c06cce81232fbbe2ee1c99000301acdd4d6cd1a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f99f8020f78390fc3600ecaa4e13a46b9cbb5f3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "看错运算符号，把加法当成减法或反之",
       "两步计算中第一步算错导致最后结果错误"
     ],
-    "tips": "在计算连加时，寻找凑成整十的数（如4+6, 2+8）先加，可以提高速度。"
+    "tips": "在计算连加时，寻找凑成整十的数（如4+6, 2+8）先加，可以提高速度。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/93/93368fcc1fdfe1d9b0c074861281cd2f9776bbdf.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/61/6171e41b95da40ea210a6f24d69217d8c49bb92f.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/cf/cf7f176c4e856df08b958c61959ce10a53c94f6f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/1d/1d31aee180aab2f026d0e845f513209a964063f3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/99/9987234da1d54154fcb2f7a864f739fa4e1a5841.mp3",
+        "https://api.clthuanxie.cn/cc-audio/62/62b1a2c959e1ae7bc6e2bae463117ba812b135eb.mp3"
+      ]
+    }
   }
 }

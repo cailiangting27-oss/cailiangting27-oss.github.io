@@ -16,7 +16,11 @@
       "question": "邮政编码的前三位代表投递局。",
       "options": [],
       "answer": "错",
-      "explanation": "邮政编码的前两位代表省（直辖市、自治区），前三位代表邮区，第4位代表县（市），后两位代表投递局。"
+      "explanation": "邮政编码的前两位代表省（直辖市、自治区），前三位代表邮区，第4位代表县（市），后两位代表投递局。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3f/3f8829856b51787731b02ebfed2a5deb8a843c0f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c5/c5fba04be180afad17f926c7cb13276641f91993.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "同一个班级里，不同学生的学号通常是不一样的。",
       "options": [],
       "answer": "对",
-      "explanation": "数字编码具有唯一性，学号用于标识班级内唯一的学生身分。"
+      "explanation": "数字编码具有唯一性，学号用于标识班级内唯一的学生身分。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc3f1ce76d681402a5bfecc3ced4b3ed243b51c2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6a/6a3edcbb6f59524ffee836d797320dc2e2b3697a.mp3"
+      }
     },
     {
       "id": 7,
@@ -43,7 +51,17 @@
         "以上均错"
       ],
       "answer": "男性",
-      "explanation": "我国身份证第17位为性别标识码，奇数表示男性，偶数表示女性。"
+      "explanation": "我国身份证第17位为性别标识码，奇数表示男性，偶数表示女性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/4764c98b5c6a2e3bc73426e94118d8a6aa557b05.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/98/98ef09539013e00fa6351aaadebaeabba12ac62c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c66e98ce0735d7857daab611c18f7aa4bdd6a11e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9c32a4c3dda1c37ab78fe57a1fe60c62b1a81eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fb/fbbe8cd3589927f639b511009a2c203bc7b84733.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/49/495633c97d74b319a2e93529cd00231a119756b5.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "邮政编码在我国统一规定为6位阿拉伯数字组成。"
+      "explanation": "邮政编码在我国统一规定为6位阿拉伯数字组成。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3ec07d04e7064d93c5d60c59f550c1b7d02f6f96.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2a/2a5800b112dada3bc0d4a0a118083cdbf4d3a90f.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "15到18"
       ],
       "answer": "7到10",
-      "explanation": "身份证前6位是行政区划代码，7-10位是四位出生年份。"
+      "explanation": "身份证前6位是行政区划代码，7-10位是四位出生年份。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6fb26883bd11e99428d37d7a4ce45895222bf09.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/12/12cba7a99f2978a70569caa922e3bf4e113dd7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0d83078cc23654c996bb01ba6aebc73ee0024304.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e0/e023f5d43dc71f1943b458404fd4139fabd962eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/03/0346e0434c0b0ad7c940cc35cde22fb0d29b7231.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/559225a5cddee4577a61ce1a1188c6c5f825357b.mp3"
+      }
     },
     {
       "id": 16,
@@ -91,7 +129,17 @@
         "让数字更长"
       ],
       "answer": "科学管理和唯一定位",
-      "explanation": "编码通过特定逻辑包含信息，便于管理和精准查寻。"
+      "explanation": "编码通过特定逻辑包含信息，便于管理和精准查寻。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3a/3a222e03bb15377045da991b3ffc05d3496bb6ec.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5c/5c201766491c86e36a19e1fa7f8850b569749f71.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66083313fbe6830be9297849c5840f7b0239c97a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d350d47339568048a9ca4d20e0b7456503d532e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e3d8e254e045edd590a36e3f1b594947c52fc2b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/07/07a868730f93e6b2d23ba8af75ba9786e2f4e80a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -102,6 +150,16 @@
       "分不清身份证号码中哪几位是表示出生日期的",
       "错误地认为编码中的数字只是随机排列的流水号"
     ],
-    "tips": "记住身份证的关键位：7-14位是生日，第17位单数男、双数女。邮编是6位数字。"
+    "tips": "记住身份证的关键位：7-14位是生日，第17位单数男、双数女。邮编是6位数字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/78/781d3f6dbbf8b94fb5281ba0fd28b87c4f271dea.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1c/1c47c4f7cf25ceb9ab05bd1de54b2fba10980946.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3a/3aedcbab428d661ee23f54bdf96dee50a8a16e0e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/87/8709516ea593da3714376eb3cafe2eb5505902c7.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/9a/9ae9c5531b9b9a2846a45aff239876e3b72cecff.mp3",
+        "https://api.clthuanxie.cn/cc-audio/5f/5ff8ab8a3de0de219be5f512e922b85c938eb97c.mp3"
+      ]
+    }
   }
 }

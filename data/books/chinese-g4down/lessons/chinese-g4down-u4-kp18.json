@@ -22,7 +22,18 @@
         "一点东西"
       ],
       "answer": "它,发现,一点东西,放声,啼叫",
-      "explanation": "这是描写母鸡发现食物后呼唤小鸡的动作序列。"
+      "explanation": "这是描写母鸡发现食物后呼唤小鸡的动作序列。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ed340e1a99972dedb41be336be1639dfb154ad1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/19/1969106a8ffbb8714eb14b0a13023ce0b44a8e37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15ebe49c066545810f38226929879ed1999dea36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/000c60bd172fc89273e36739063f32fbbd078828.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/523e40a074ebe85d057abe949df1164df69883d2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1ce9a1f3373d4e9adc5cfacff72cfeec7e374ce6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/03/03b579589d060be3d5087d2a734aeb2497d13d39.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "‘邯郸学步’中‘邯郸’是地名，‘学步’的意思是学___________。",
       "options": [],
       "answer": "走路",
-      "explanation": "学步即学习走路。"
+      "explanation": "学步即学习走路。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88db36fd5382a88f337e4eab8c6fc9809ae2e234.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/2806e09742508c183d7272512df3f67c6fe9d398.mp3"
+      }
     }
   ],
   "knowledge": null

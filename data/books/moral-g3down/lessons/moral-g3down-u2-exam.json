@@ -21,7 +21,17 @@
         "不让座"
       ],
       "answer": "主动让座",
-      "explanation": "主动给有需要的人让座。"
+      "explanation": "主动给有需要的人让座。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/060d587d4914538a4579ac79a7a02039e73455c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61e8a148dacc67903aeb3e1b0c3730b6224e7195.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff4226b34ae719825a3054d2289797f7505aa75c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1c/1cf7a01add51e3c23683fae28084f058e8ffcc82.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b4/b4fe26545f515b50288113286b47ffe87c6c3b9d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35d31738369f2b4379f96174bff4728a4c176c56.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +42,11 @@
       "question": "不小心踩到别人要道歉。",
       "options": [],
       "answer": "对",
-      "explanation": "道歉是礼貌。"
+      "explanation": "道歉是礼貌。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bc/bc33372be3bb6f69324990b0fd17ef30a681a584.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/58/582487c38f962cd9e0215baa40e44dacd1489c3a.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "破坏路灯"
       ],
       "answer": "在书上写名字爱护课本",
-      "explanation": "爱护物品。"
+      "explanation": "爱护物品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5bb93a29c1c380315d831b1aec07250cfb66b89b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8d/8d19b508f6ceee61828049bffbbd11ee81503b2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/80/801879cbaad34e497f610397740261e8975947c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c07cc564b846045ae08ca378bbe4bedf7aab4d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/99/995b5ce4957e5833ff5186a58ea378e0b4e80ca9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4fc3a03b26c216ff4af7cac59f88da5cd82623ac.mp3"
+      }
     },
     {
       "id": 8,
@@ -59,7 +83,11 @@
       "question": "在公共场所不能大声喧哗。",
       "options": [],
       "answer": "对",
-      "explanation": "公共场所要安静。"
+      "explanation": "公共场所要安静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/881ccd655b06ca4e7653c0f7c3ba422e104d2453.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/76/76b76bf01da09131f81896e58b001fbb605757a5.mp3"
+      }
     }
   ],
   "knowledge": null

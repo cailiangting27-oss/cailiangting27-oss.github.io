@@ -16,7 +16,11 @@
       "question": "___ old are you?",
       "options": [],
       "answer": "how",
-      "explanation": "How old are you是询问年龄的固定短语。"
+      "explanation": "How old are you是询问年龄的固定短语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9a3ce0ec44d42e2be0c29f774deae14bcfddea1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f4a92b01465f5bfff3dc2dc3471de84c60554fcf.mp3"
+      }
     }
   ],
   "knowledge": null

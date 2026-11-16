@@ -16,7 +16,11 @@
       "question": "$480 16 5 = 480 16 5$ 无法简算，必须按顺序算。",
       "options": [],
       "answer": "错",
-      "explanation": "$480 16 5 = 480 5 16$ 或 $480 80$)。故错误。"
+      "explanation": "$480 16 5 = 480 5 16$ 或 $480 80$)。故错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/884d15206be200bfb2f0100cc790c1f487f7902a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4f/4f4fb1ce53ed4aa89544b1c57b41126c97f12485.mp3"
+      }
     },
     {
       "id": 10,
@@ -32,7 +36,17 @@
         "$700 \\div 25 \\times 4$"
       ],
       "answer": "$700 \\div (25 \\times 4)$",
-      "explanation": "连除性质：$a \\div b \\div c = a \\div (b \\times c)$。"
+      "explanation": "连除性质：$a \\div b \\div c = a \\div (b \\times c)$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e4/e42bd01ae8e6d12c2c2ffdb8b9fcaf033695ffa8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92809a04a6b1b81b172e7a08ac2aefbecbc902af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/3155911f0f6a8d0076f3b65820e1bdd247f6147a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/56/56547ee181643017d70219bea9156797fd0f804b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f9/f94337bf5e932c295ef8f190e18af81a89611044.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/28/28794e15f80897c7fd762d295f0ae3be9dc45c89.mp3"
+      }
     },
     {
       "id": 17,
@@ -48,7 +62,17 @@
         "60"
       ],
       "answer": "100",
-      "explanation": "$4000 \\div 8 \\div 5 = 4000 \\div (8 \\times 5) = 4000 \\div 40 = 100$。"
+      "explanation": "$4000 \\div 8 \\div 5 = 4000 \\div (8 \\times 5) = 4000 \\div 40 = 100$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d503504a7ea81d004341cd0a9ba53a20c79d385.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b8/b888b29826bb53dc531437e723738383d8339b56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb2dc2bdfcb9f7539df27983559dd2a5fc2d05c3.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "$3600 25 4 = ?$",
       "options": [],
       "answer": "36",
-      "explanation": "$3600 25 4) = 3600 100 = 36$。验算：$36 4 = 144, 144 25 = 3600$ ✓。"
+      "explanation": "$3600 25 4) = 3600 100 = 36$。验算：$36 4 = 144, 144 25 = 3600$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/17/173e8e9984407aece42b815a8b989c262dc8dd32.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bf/bf941c7a759436994b89a57eb0887ee62130c03b.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "去括号混淆。如 $a \\div (b \\times c)$ 写成 $a \\div b \\times c$。",
       "数字不适合使用性质时强行使用，如 $100 \\div 3 \\div 4$ 不适合转为 $100 \\div 12$。"
     ],
-    "tips": "除号后面加括号，括号内‘乘’变‘除’，‘除’变‘乘’。重点还是看能否拼出好算的‘整百数’。"
+    "tips": "除号后面加括号，括号内‘乘’变‘除’，‘除’变‘乘’。重点还是看能否拼出好算的‘整百数’。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/40/40b0bcdfc6042a5883d9bb4174753f0207ca1ff6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/83/83ce3758f03bfe8f02fcc6f3e181507ee8628647.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/5f/5f145ca56d520fc3cf9fce447ee45c07376a8a10.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5f/5fc6867f5895d020e5b4e43afc9147bfcc6ac3e3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f2/f2162976ac4ce6667f57f56e3b7f8c33f7a0957f.mp3",
+        "https://api.clthuanxie.cn/cc-audio/19/19f94ff1440a5b1e92fb182f99e7d79aaf913db5.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "器官"
       ],
       "answer": "细胞",
-      "explanation": "细胞是生物体基本的结构和功能单位。"
+      "explanation": "细胞是生物体基本的结构和功能单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/938f6f4f432cb7571e94afc7529facdf18c6d3b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90fbca3c5231b740c185489dbb024ef0f614d13d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdec8e5dd1d7e64a723116ef4ce17f2453ab3d83.mp3",
+          "https://api.clthuanxie.cn/cc-audio/47/4791d593697ce72fda672e552f2c2108dbafd508.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73bf06e4ba2d53db61cdf070964b32ce71ce8a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71b497d96c3a7de554af9353a541e0b91d7005fc.mp3"
+      }
     }
   ],
   "knowledge": null

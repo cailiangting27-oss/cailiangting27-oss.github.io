@@ -16,7 +16,11 @@
       "question": "同一个物体在同一个斜面上，其运动方式只能是滑行或滚动中的一种。",
       "options": [],
       "answer": "错",
-      "explanation": "由于放置方式不同（如正方体平放或立放），物体的运动方式可能发生改变。"
+      "explanation": "由于放置方式不同（如正方体平放或立放），物体的运动方式可能发生改变。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/26/26b53062ff5dd02d1acaaa0d2e0455f1b5666e00.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dd82355c6b87a3821ebe31fe6a2ffdb74624e6c.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "先滑动后静止"
       ],
       "answer": "滚动",
-      "explanation": "球形物体在斜面上因重力作用通常会向下滚动。"
+      "explanation": "球形物体在斜面上因重力作用通常会向下滚动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9d63886a0bb19f91d973a9fa1dcd98da339e566a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3723aab5a9b827f2773a69a17bc93aa47fc82341.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a95e93f23ae7f5722e32b270a163617166dc487.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/220e687c20900aebc48c14a9ef6c300ce0ecaf36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd9506d2c0e170c18a70a96ba3c3ec67535fedb7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac0f8e656c27b75dd242deec09076004a2b89d25.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "先变慢再变快"
       ],
       "answer": "变快",
-      "explanation": "斜面坡度越大，重力沿斜面的分力越大，物体下滑越快。"
+      "explanation": "斜面坡度越大，重力沿斜面的分力越大，物体下滑越快。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/43b5a291a9abd2c0bb5567ad764de7a728fc7782.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d48e7f660004f1b092ef389ffa8c8fdb1416a1fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ce/ce25a71c77ee74013c8ed1b8f032e9b6856a53a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7b/7befcb62f8e2ffdc15dab2c37831a1ac7727723b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5c/5c3012f0ace8fa82b4ee0b0868c0529537ea4971.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "跳跃"
       ],
       "answer": "滑动",
-      "explanation": "立方体各面平整，在斜面上更容易发生面与面之间的滑动。"
+      "explanation": "立方体各面平整，在斜面上更容易发生面与面之间的滑动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ec/ecbd0e2ca0f615c346a6c82fc590f2f0e609f1cf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/37/3723aab5a9b827f2773a69a17bc93aa47fc82341.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/220e687c20900aebc48c14a9ef6c300ce0ecaf36.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a69e51e50320894d03ae0212e5133d379f6125b2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb55b56b42ee523cdbbc4f6b78fe3bd8c1a595c7.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c069f6dc2ee770805b7988faaf94fc7e54aa491.mp3"
+      }
     },
     {
       "id": 22,
@@ -75,7 +109,11 @@
       "question": "像皮球在斜面上那样，物体整体向下移动且伴随自身旋转的运动方式叫（）。",
       "options": [],
       "answer": "滚动",
-      "explanation": "滚动是圆柱形或球形物体常见的运动方式。"
+      "explanation": "滚动是圆柱形或球形物体常见的运动方式。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/da/da3744d157a605f509f9b4d876db251dc31d4391.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/43/43f284941059707b0c727cf8b433f014e1fc2d97.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "认为所有物体放在斜面上都会动",
       "混淆滑动和滚动的定义"
     ],
-    "tips": "圆柱形、球形物体容易滚动；坡度越大，运动越快。"
+    "tips": "圆柱形、球形物体容易滚动；坡度越大，运动越快。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/5f/5faec232fe7ccca68d5af4b7447ae442e37f81c6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/17/175ef77e4a77991ceb0ca1adb9dda317664f8226.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/28/28395b203a863d4aec9814994956ccb5ec64201e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/f6/f60ca07b8278bec5182c9620ac969a3b78139688.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/6f/6f00691cad4b280fc0e074806d35a3f18fdac4ef.mp3",
+        "https://api.clthuanxie.cn/cc-audio/22/221d4a61264e349d01ccbd7bc6b22c019fec59c2.mp3"
+      ]
+    }
   }
 }

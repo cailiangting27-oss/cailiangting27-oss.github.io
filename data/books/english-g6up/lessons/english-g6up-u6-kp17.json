@@ -16,7 +16,11 @@
       "question": "When you are angry, you should ______ to ten.",
       "options": [],
       "answer": "count",
-      "explanation": "数到十的动词是count。"
+      "explanation": "数到十的动词是count。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fe/fe952b467a37b4f6ea9b58040d31035eaa72f81e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04aef3de520b1e11a9547f01a9a84efb16550b7a.mp3"
+      }
     }
   ],
   "knowledge": null

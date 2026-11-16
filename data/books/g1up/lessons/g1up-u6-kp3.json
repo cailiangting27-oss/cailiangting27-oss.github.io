@@ -16,7 +16,11 @@
       "question": "计算 $12 + 5$ 时，可以先算 $2 + 5 = 7$，再算 $10 + 7 = 17$。",
       "options": [],
       "answer": "对",
-      "explanation": "计算十几加几时，通常把个位上的数相加，再加上十。$2 + 5 = 7，10 + 7 = 17$。"
+      "explanation": "计算十几加几时，通常把个位上的数相加，再加上十。$2 + 5 = 7，10 + 7 = 17$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/1800030224f9c3442d86095baeda33e92c4301b4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25a7cee8017021ef190e66edb18c30e0cea2e42b.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "30"
       ],
       "answer": "13",
-      "explanation": "$10 + 3 = 13$。验算：$13 - 3 = 10$。"
+      "explanation": "$10 + 3 = 13$。验算：$13 - 3 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb7a11a97997abf58dd799b54fd773ea207ca10e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1b53cae5018fa8d9f0e7c4a13dbf94b53aeef1a.mp3"
+      }
     },
     {
       "id": 12,
@@ -48,7 +62,17 @@
         "0"
       ],
       "answer": "20",
-      "explanation": "列式：$10 + 10 = 20$。"
+      "explanation": "列式：$10 + 10 = 20$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5be7ecfab99cf9a2a9f3f62ed0bc4f3f81f94884.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/17ba0791499db908433b80f37c5fbc89b870084b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6589fc6ab0dc82cf12099d1c2d40ab994e8410c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/72/72ce6af103b03fe30e213daf7eb89047a5e4b730.mp3"
+      }
     },
     {
       "id": 13,
@@ -64,7 +88,17 @@
         "17"
       ],
       "answer": "19",
-      "explanation": "求比一个数多几的数用加法：$16 + 3 = 19$。"
+      "explanation": "求比一个数多几的数用加法：$16 + 3 = 19$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1bdfe2947ab682e013d8788142184f029f4c6ba8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bd/bd307a3ec329e10a2cff8fb87480823da114f8f4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e6a55b6b4563e652a23be9d623ca5055c356940.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/0716d9708d321ffb6a00818614779e779925365c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f38bee6dee7aedc341142eaa33e2371df1c93490.mp3"
+      }
     },
     {
       "id": 17,
@@ -80,7 +114,17 @@
         "被减数"
       ],
       "answer": "减数",
-      "explanation": "减法算式中，减号后面的数叫做减数。"
+      "explanation": "减法算式中，减号后面的数叫做减数。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c8/c8d04591bc75273aa7e22266c2f2f7f05174dc9b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/65/658607c9ce4f8811edde838db87250d93933bc54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9a3eb340971ffc2dd9cf4da3994078519f53a568.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa8367e672b2b2b83a502cb29cb3154cba4b24ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f26f4ecee91843ffbbd0de416f7981577072b9e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5285881cd3a13b10dd0b3d5cdd9a1a24b3cde9cb.mp3"
+      }
     },
     {
       "id": 20,
@@ -91,7 +135,11 @@
       "question": "小红这周要看 19 页绘本，已经看了 10 页，还剩 ___ 页。 ",
       "options": [],
       "answer": "9",
-      "explanation": "还剩下的页数 = 总页数 - 已看页数。$19 - 10 = 9$。验算：$9 + 10 = 19$。"
+      "explanation": "还剩下的页数 = 总页数 - 已看页数。$19 - 10 = 9$。验算：$9 + 10 = 19$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/586bfdfc481c2642634896b9d1e9733fe25f7563.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46ceabd72c754c0e007b2e56f7442e7370eeaf4a.mp3"
+      }
     },
     {
       "id": 22,
@@ -102,7 +150,11 @@
       "question": "$10 + 6 = ?$",
       "options": [],
       "answer": "16",
-      "explanation": "$10 + 6 = 16$。验算：$16 - 6 = 10$。"
+      "explanation": "$10 + 6 = 16$。验算：$16 - 6 = 10$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3b/3b8ba576e441308e5b4b634b4da3a4d19261ffda.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/339712122e5c772bf51a5eee583de2a17aff5d6f.mp3"
+      }
     },
     {
       "id": 23,
@@ -113,7 +165,11 @@
       "question": "$18 - 5 = ?$",
       "options": [],
       "answer": "13",
-      "explanation": "$18 - 5 = 13$。验算：$13 + 5 = 18$。"
+      "explanation": "$18 - 5 = 13$。验算：$13 + 5 = 18$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6792fde7d1a855e8b28bac69aa6c074177a26b50.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/8576fb91350aa12637f8ada9b107bfa716412196.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -124,6 +180,16 @@
       "计算 15-5 时错答为 1。",
       "加减混淆，看错运算符号导致计算错误。"
     ],
-    "tips": "计算时先看个位，个位加个位，减法时个位减个位，十位如果不动就照抄出来。"
+    "tips": "计算时先看个位，个位加个位，减法时个位减个位，十位如果不动就照抄出来。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/3b/3beef454fd31a40509372e2e92dc5cddc4cf0065.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/f7/f7b50c4cc3b78ead9311a540ef14caeaf1a12c8b.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/58/58606f8f44989b20115acc2171c3d00835684e47.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/de/de020a0de29c6ee0d4ac24f66b8b3fb354976fe5.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/00/00d5bd961eabc42c2eb95df9ef4e210eb112ccbe.mp3",
+        "https://api.clthuanxie.cn/cc-audio/52/52ecadf79251be7af2a6c9d5d67f7f10d26209ab.mp3"
+      ]
+    }
   }
 }

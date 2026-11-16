@@ -16,7 +16,11 @@
       "question": "“日”这个字在古代像是一个圆圆的太阳中间加一点。",
       "options": [],
       "answer": "对",
-      "explanation": "“日”是象形字，模拟的是太阳的形状。"
+      "explanation": "“日”是象形字，模拟的是太阳的形状。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de151a1d455eb08a90149e62fbb984987bf693b0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0ba144d0e4fd4fdd881e53d9d2f425ecd5ed5157.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "火"
       ],
       "answer": "水",
-      "explanation": "“水”字的字形模拟的是流动的水波纹。"
+      "explanation": "“水”字的字形模拟的是流动的水波纹。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e637099f08b05145f5e8f2ec2aeed614fb4d0458.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9b59879f3b83656682a13244a4690ff63728156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8ffbf192934ab70cfcd0ebfc589758044ceeb74b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb2620838c4f431a7d9e61441bd2445543f4731.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b359ab946a1306f68039f92d87d02d27c0e65051.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "花朵"
       ],
       "answer": "雪花",
-      "explanation": "古诗《咏雪》中描述雪花飞入梅花都不见的景象。"
+      "explanation": "古诗《咏雪》中描述雪花飞入梅花都不见的景象。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/977e892ab5f3457af622295be16e8ffbdf1d9278.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2f/2f1f46bd5a3f9b2ec00167e7b3f3599a4567d51e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a81ba94099cf500fb851ab8bb027588cdfb29ab7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca2a8d6cd94e5b85d2ca1a2b7e4cc3d1e92ae3a1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d24c64a8a8680a34c5ca8133ade81180ddc130e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/14/14f4d2d3a65bccf11049d5a8ecc4f630e2630c9d.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "点"
       ],
       "answer": "撇",
-      "explanation": "“月”字第一笔是撇（竖撇）。"
+      "explanation": "“月”字第一笔是撇（竖撇）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4d/4d3c568cd774642facd8f16cd800e3b79a40e8c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a7/a7d20fd2ebd685e079f0a3f758f29cca07636ca0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0b4cb1b1e55cfb0d06aaf5bfacea0c8accbdde0e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/85/850ac793aa04306f83faaf6385427cbfaeb9689b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1d/1d59ea7cbbee668712898e376a415569ef9dfa09.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/91cd50c91e776d2e98c61b78ee79d78ec3c4ca2a.mp3"
+      }
     },
     {
       "id": 17,
@@ -75,7 +109,11 @@
       "question": "“一、二、三、(  )、五。”",
       "options": [],
       "answer": "四",
-      "explanation": "考查数字汉字的顺序。"
+      "explanation": "考查数字汉字的顺序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/5369994cc63b400436585be74e04fc04be833fb4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a8/a8326d3db9854a90565d36969ec04f8494aaedca.mp3"
+      }
     },
     {
       "id": 19,
@@ -95,7 +133,21 @@
         "月亮"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "考察基础汉字的字义映射。"
+      "explanation": "考察基础汉字的字义映射。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44c2fa29ad2ce551f7b580810f4267bb412243ed.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15917f3b32616f3c61f1bd69a435a449c35fa12d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d9/d9b59879f3b83656682a13244a4690ff63728156.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0e/0e248e5603d3e908214e506d4c5fa3700b2ef7ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2380e6711d81ecc377004eb293e1006665a27c57.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2795f7fe81515c37338bed89d5e1fba96932d28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/89/89da31469ce67ef581474e041573d8c578a8a9c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a95b5c09226f62a485667fb11ecf23e0a9d12032.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a6a01d14a2b3e60b78e9fc98318090fb8347b764.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bd/bd852f47811841b0cfaada5c2311910db2d93b1a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -106,6 +158,16 @@
       "混淆“石”和“右”的字形",
       "写“田”字时漏掉了中间的横或竖"
     ],
-    "tips": "学习时可以将课本上的插图与文字放在一起观察，尝试在纸上画出物体的简笔画再写出对应的字。"
+    "tips": "学习时可以将课本上的插图与文字放在一起观察，尝试在纸上画出物体的简笔画再写出对应的字。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/ac/ac699f954771947b9920461e8a8e9e0139a722d4.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/bb/bb75fb5dff39cea5be38c9d16db3dd76e61dc475.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/67/673d0f20365873714950efa6a03899689812797f.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/a7/a789ac362306a619373b70f035a2241b235b0048.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/12/1240ebb844178e86c1ed3b9e5bf34cb8ecbac315.mp3",
+        "https://api.clthuanxie.cn/cc-audio/ee/ee80a20c86af73f8f77f6ea3d01240a8c310ab49.mp3"
+      ]
+    }
   }
 }

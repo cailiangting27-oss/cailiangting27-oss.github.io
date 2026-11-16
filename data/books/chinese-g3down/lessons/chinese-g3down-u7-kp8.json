@@ -21,7 +21,17 @@
         "平稳"
       ],
       "answer": "瞬息万变",
-      "explanation": "瞬息万变形容在极短的时间内发生了非常多的变化。"
+      "explanation": "瞬息万变形容在极短的时间内发生了非常多的变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1a39c49b09bc9c474563186a9b8c3b0d44adab4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3d/3d804257b96214c1d9f64c08ef52e2e07daafb5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/581d8ac8376308514c4e25fde77edc35c16cca45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6f/6fe9855c529f5dee245edb0f16753a2a624227a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9d/9d3b49bd99687ce00c6a028190ff8f68cd7862dd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/35efe50198f569a38872825fe2fbea88300d7f67.mp3"
+      }
     }
   ],
   "knowledge": null

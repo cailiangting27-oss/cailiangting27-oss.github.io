@@ -16,7 +16,11 @@
       "question": "蜘蛛开店时，第一个来的顾客是河马，蜘蛛为它织了一双袜子。",
       "options": [],
       "answer": "错",
-      "explanation": "蜘蛛为河马织的是口罩。"
+      "explanation": "蜘蛛为河马织的是口罩。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f8d14129e4bb98a15cc96a3f756af5b8e4e38063.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc497949a0c99ccfe397a9729451f2e4e946aef2.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "蜘蛛不想开了"
       ],
       "answer": "蜈蚣的腿太多了",
-      "explanation": "蜘蛛觉得给蜈蚣织袜子工作量太大。"
+      "explanation": "蜘蛛觉得给蜈蚣织袜子工作量太大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/ab419afc4f3425df481758a1ca8195ea178ec240.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7c/7cb93773b2a6bdd2a39bba7001eaec1b84251b88.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb08e51faea246ea64aec42d50ecfa8b783de7db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ba/ba46c9e43d8acada66b78c7d9715ccc26f9d8ff1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14ab19086ed0684e45cfdab99a1b0b6367df174f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d8/d8a3f711d2dd57c9d708c235c820b3aa99a53da8.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -43,6 +57,16 @@
       "续编故事时脱离“顾客特征决定编织难度”这一核心逻辑",
       "混淆三位顾客（河马、长颈鹿、蜈蚣）与其购买商品的对应关系"
     ],
-    "tips": "通过填空图表理清：河马-嘴大-口罩，长颈鹿-脖子长-围巾，蜈蚣-腿多-袜子。"
+    "tips": "通过填空图表理清：河马-嘴大-口罩，长颈鹿-脖子长-围巾，蜈蚣-腿多-袜子。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/09/097e396e2526b7a3c2c84fff5136c6a4fc680527.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/b5/b500eff5cc92875af14b747147113a4828ccdc72.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d1/d1cd2dbf02b440c417a8e6f20f9c97146d4f5e51.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/40/4014b75a039921ce2e4b7d31d6826d0c2046ef17.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/45/45224c3aa015f98c1ad56b77565932168c8d27d1.mp3",
+        "https://api.clthuanxie.cn/cc-audio/91/91876ff858b61eb31e6d90ab733b47f51c4e7998.mp3"
+      ]
+    }
   }
 }

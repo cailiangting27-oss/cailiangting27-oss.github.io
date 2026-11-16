@@ -21,7 +21,17 @@
         "船只颜色越深，载重量越大"
       ],
       "answer": "底面积越大，载重量通常越大",
-      "explanation": "底面积大通常意味着船舱体积大，排开水量多，载重能力强。"
+      "explanation": "底面积大通常意味着船舱体积大，排开水量多，载重能力强。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c9/c9c4b18a4366deee9b00bc34c3dc7b08e12cd95e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a65a877fc82e93735930afd553d0342437cf27ff.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/018f94734b4544bd3f938a1c42088794cff3d54f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/52/52c6305d04c66b2c4fcb9faefb0111f4ea948b98.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b35e3d89ac5e7ff0d174b264703bcc032734914.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ec5ead20c197d73a1e5a0822ed24239723e56b6.mp3"
+      }
     }
   ],
   "knowledge": null

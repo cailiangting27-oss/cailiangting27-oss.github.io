@@ -16,7 +16,11 @@
       "question": "公顷和平方米之间的进率是 100。",
       "options": [],
       "answer": "错",
-      "explanation": "$1$ 公顷 $= 10000$ 平方米，进率是 $10000$。"
+      "explanation": "$1$ 公顷 $= 10000$ 平方米，进率是 $10000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6d4456b5853739e6c108d33ce4f3c8f2218d751.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0c/0c1c4bb48430671a2ecb59e8e72093a2dbd7c7a5.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "我国的陆地领土面积约为 960 万平方千米。",
       "options": [],
       "answer": "对",
-      "explanation": "根据常识，中国陆地面积约为 $960$ 万平方千米。"
+      "explanation": "根据常识，中国陆地面积约为 $960$ 万平方千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de1e323b82d9e625d43ba924e13b8a0a7276b111.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/552336aedd8e236e2c6091d75d0f5ecc79bf899b.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "平方千米、公顷、平方米、平方分米中，每相邻两个单位间的进率都是 100。",
       "options": [],
       "answer": "错",
-      "explanation": "公顷与平方米之间的进率是 $10000$，不是 $100$。"
+      "explanation": "公顷与平方米之间的进率是 $10000$，不是 $100$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6a/6ab697993041cd20dfab69ea464c97e8d4d1c542.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad9d3e27b060ef804855e19688767597f801ad30.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "一个正方形操场的周长是 400 米，面积就是 1 公顷。",
       "options": [],
       "answer": "对",
-      "explanation": "边长 $100$ 米，面积 $100 \\times 100 = 10000$ 平方米 $= 1$ 公顷。"
+      "explanation": "边长 $100$ 米，面积 $100 \\times 100 = 10000$ 平方米 $= 1$ 公顷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b2/b24b9e63325340b892d07134a3ad3581399d8119.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6b/6b6b9ea86310b9b92731130416616eed784f1418.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "平方千米"
       ],
       "answer": "平方千米",
-      "explanation": "城市面积通常以平方千米为单位。"
+      "explanation": "城市面积通常以平方千米为单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b611c8ed0f993f982adf43847b6a1472c726a79a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe1c26a2c3c83d4f2e2548b2896c91232d26473e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28213b325f059ae9d2e8f5a23cceab5ce551ba07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9e8c3f5f92c0298b83db026d522fd36f866a54.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f9/f96d9352c251a6c22b57cd1eaa7f4d1de5273c2f.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "10000"
       ],
       "answer": "100",
-      "explanation": "$1$ 平方千米 $= 100$ 公顷，所以是 $100$ 倍。"
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，所以是 $100$ 倍。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1b/1b2caed059e9ab43f50c24acac02cc17ac4626bd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b1/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/31/310b86e0b62b828562fc91c7be5380a992b2786a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e3cbba8883fe746c6e35783c9404b4bc0c7ee9eb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8a/8a12a315082a345f1a9d3ad14b214cd36d310cf8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9c/9cc8d412efc9808fd103180be41134d6e224c4ab.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "平方分米"
       ],
       "answer": "公顷",
-      "explanation": "大型场馆占地面积用“公顷”合适。"
+      "explanation": "大型场馆占地面积用“公顷”合适。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad544286ea0be8e69e75296a30cc60118f4ff0ba.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28213b325f059ae9d2e8f5a23cceab5ce551ba07.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb9e8c3f5f92c0298b83db026d522fd36f866a54.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/98/98e3dd94c003b71df5e841562419e35c1700c158.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "36"
       ],
       "answer": "6",
-      "explanation": "因为 $6 \\times 6 = 36$，所以边长是 $6$ 千米。"
+      "explanation": "因为 $6 \\times 6 = 36$，所以边长是 $6$ 千米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61201cc0e61a617f22a0c9c8765cea9ed3354b27.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c1/c1dfd96eea8cc2b62785275bca38ac261256e278.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e6c3dd630428fd54834172b8fd2735fed9416da4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/35/355982e82693cc7e38604b731af3228ab7b99654.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,11 @@
         "≈"
       ],
       "answer": "<",
-      "explanation": "$7$ 公顷 $500$ 平方米 $= 70500$ 平方米，$70500 < 75000$。"
+      "explanation": "$7$ 公顷 $500$ 平方米 $= 70500$ 平方米，$70500 < 75000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d2/d24a5d279d2b83eabd247a8abc6b115898373353.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/55/55bbbb3765e49685af5477704f6f8f9d190dc624.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +205,17 @@
         "200"
       ],
       "answer": "50",
-      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 \\div 2 = 50$。"
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 \\div 2 = 50$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/64/64eef0882e19e585fefe8bc499306f6a230be736.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1822db470e60d090affd0956d743cb0e7cdf113.mp3",
+          "https://api.clthuanxie.cn/cc-audio/91/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1a/1a98af84f78edd41ab3c8bb1a82a24513b3a6547.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +231,17 @@
         "公顷"
       ],
       "answer": "平方分米",
-      "explanation": "手帕面积较小，常用平方分米。"
+      "explanation": "手帕面积较小，常用平方分米。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/03/03aaefb53ef0984db4f71185b4fe5897ae08f763.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba30e71d5f7b6bdcc8fca5c2589f778fb7a95fd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3dcf018f864bf7e7fd37341a8d63e07c982c596c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c3/c3dada2ee2199873bbc2a9fe47dd7ede63674ede.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28213b325f059ae9d2e8f5a23cceab5ce551ba07.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25755a2b27d0c3318a9849e78124a758565c2637.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +257,17 @@
         "320"
       ],
       "answer": "32",
-      "explanation": "长 $= 400 \\times 2 = 800$ 米，面积 $= 800 \\times 400 = 320000$ 平方米 $= 32$ 公顷。"
+      "explanation": "长 $= 400 \\times 2 = 800$ 米，面积 $= 800 \\times 400 = 320000$ 平方米 $= 32$ 公顷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0c/0cbe671892a3c37ad7b7c1d5184d957edf3802b6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1574bddb75c78a6fd2251d61e2993b5146201319.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fdec83a2662ffe53af456402cbaeafa380b15b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d705b8a55b917d7247408e493dd508c4228a0092.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +278,11 @@
       "question": "3000 公顷 = ___ 平方千米。",
       "options": [],
       "answer": "30",
-      "explanation": "$100$ 公顷 $= 1$ 平方千米，$3000 \\div 100 = 30$。"
+      "explanation": "$100$ 公顷 $= 1$ 平方千米，$3000 \\div 100 = 30$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/54/542430b44fd95d2c5bb96c5b12a053303f060336.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4b/4b701f24cc79fc8c9ad4c2d5d41f34826b76a14a.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +293,11 @@
       "question": "15 公顷 = ___ 平方米。",
       "options": [],
       "answer": "150000",
-      "explanation": "$15 \\times 10000 = 150000$。"
+      "explanation": "$15 \\times 10000 = 150000$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/95/95236868509b3df462f3805669908ce3e64a43cb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/53cd0af2f29dd316a64b52ce6b20ed57d00945d7.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +308,11 @@
       "question": "计算：$50000 \\div 10000 = ?$",
       "options": [],
       "answer": "5",
-      "explanation": "$50000 \\div 10000 = 5$。"
+      "explanation": "$50000 \\div 10000 = 5$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d1e8e6f051f256755ff7748d5e9f43d1bfbdfe0b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b42187ee75802225c5c7206a36ddf9a392ccb284.mp3"
+      }
     }
   ],
   "knowledge": null

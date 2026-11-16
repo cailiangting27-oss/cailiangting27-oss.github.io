@@ -16,7 +16,11 @@
       "question": "在解决环境问题时，我们需要平衡不同群体的利益并达成共识。",
       "options": [],
       "answer": "对",
-      "explanation": "复杂的环境问题需要多方参与，寻求经济与环保的平衡点。"
+      "explanation": "复杂的环境问题需要多方参与，寻求经济与环保的平衡点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/93/938355eb65ce571300208ee983a943bcbe5c9f1f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8109a1330c9cde6811f75ca3d12f1de95633ee6f.mp3"
+      }
     },
     {
       "id": 17,
@@ -32,7 +36,17 @@
         "增加捕鱼产量"
       ],
       "answer": "从源头减少水污染",
-      "explanation": "工业废水是大型水体最主要的污染来源之一。"
+      "explanation": "工业废水是大型水体最主要的污染来源之一。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b6/b6dfe16b3a3f5210cd9d6a5c7fe16575e894bcef.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d1/d121b0273a5ecf4e59780471ecbfe716415074a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9e/9e29b27534a4362dd7db0c823689a3fad733715b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4c51596db8d3c42c28348cf1006c02ae581c62f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cc/cc66f2ccff9d1cfeb998339d4aecf3619cd7a5c1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3f6b27a28f6d3698b77a269cb470a8c8836f306.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "'this one' 的中文意思是 '这个'。",
       "options": [],
       "answer": "对",
-      "explanation": "this one 指代近处的某个特定的人或物。"
+      "explanation": "this one 指代近处的某个特定的人或物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/743b27c1cd3fb6a33ef5298a0d42b6acfb5ec3f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5581275eb9e2e65416db8e3daa37ba4040a5fef.mp3"
+      }
     }
   ],
   "knowledge": null

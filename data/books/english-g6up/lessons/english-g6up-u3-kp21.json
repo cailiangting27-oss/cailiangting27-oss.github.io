@@ -25,7 +25,21 @@
         "去旅行"
       ],
       "answer": "A-3,B-2,C-4,D-1",
-      "explanation": "A对应3，B对应2，C对应4，D对应1。"
+      "explanation": "A对应3，B对应2，C对应4，D对应1。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/747d1d19f7de6a307a2ae191df0167b145dd9040.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/6c/6c717f9def53f5604b5805ad105dcbe68b61f66e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f359d50883313586766744c940317193036eed4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bb/bb55b3ff20b9c13cf5106e7cde34e721fea7460b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2bc31f820201c4427fc2f35540cb6eca7a41549c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa60947396468a1aeb85d2e8ec9c7d5ebee9335a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/74/7489939586f49a952ef5747b35f5ff1dd1dc15c4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c58b8a0121c36fe7a767367704f8e91eba2bee43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/5907474a53d1d6ec991ca4c1d0a408f2877dc0c9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6d2d4c2664b5fb87d51f98ef7dfdbabc3bf7295c.mp3"
+      }
     }
   ],
   "knowledge": null

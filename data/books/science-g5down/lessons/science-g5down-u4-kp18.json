@@ -21,7 +21,17 @@
         "能产生热量的材料"
       ],
       "answer": "热的不良导体",
-      "explanation": "塑料可以减缓杯子热量向上方的自然对流和传导散失。"
+      "explanation": "塑料可以减缓杯子热量向上方的自然对流和传导散失。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c4/c4e140a61dc1fa1403dbae1a077fa886c3d9d129.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/fc/fc9ee971ad485fbe2d800d0336bd2573922c3fba.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e1/e1901ddf40c6476438dc6f1754edc21858543d80.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/226b5b59b45052562b19f7e3225436b99b5a8dd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be84675f4857458052a2e1ccb6d76bfa5b085847.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fe/fe4af074a46462a4fd49546c26fae7bc23f4731c.mp3"
+      }
     }
   ],
   "knowledge": null

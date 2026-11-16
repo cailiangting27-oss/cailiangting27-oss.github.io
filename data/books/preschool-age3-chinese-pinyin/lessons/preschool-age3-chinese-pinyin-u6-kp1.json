@@ -26,7 +26,12 @@
         "kind": "两拼音节",
         "syllable": true
       },
-      "knowledge_point": "两拼音节 · 第1课"
+      "knowledge_point": "两拼音节 · 第1课",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/a7/a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/05/0595adefc8e39d301836fe0b5f45cb40120626a2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a732e56e22fb59b8879554d3b091aa7017ad6a9f.mp3"
+      }
     },
     {
       "id": 23,
@@ -47,7 +52,12 @@
         "kind": "两拼音节",
         "syllable": true
       },
-      "knowledge_point": "两拼音节 · 第1课"
+      "knowledge_point": "两拼音节 · 第1课",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/e3/e3918a99aa057ec83dcdc83e42860f1b76dccf71.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/e0/e07a335b0267b19e9ea5d425899ffba13ccc79f5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e3/e3918a99aa057ec83dcdc83e42860f1b76dccf71.mp3"
+      }
     },
     {
       "id": 24,
@@ -68,7 +78,12 @@
         "kind": "两拼音节",
         "syllable": true
       },
-      "knowledge_point": "两拼音节 · 第1课"
+      "knowledge_point": "两拼音节 · 第1课",
+      "audio": {
+        "demonstration": "https://api.clthuanxie.cn/cc-audio/cd/cdfd26daa23a845cb7eb28453ad3a439d19195b4.mp3",
+        "question": "https://api.clthuanxie.cn/cc-audio/d4/d42c164fec999f1ba6a3563a9a3fa060fd6a73bd.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cd/cdfd26daa23a845cb7eb28453ad3a439d19195b4.mp3"
+      }
     }
   ],
   "knowledge": null

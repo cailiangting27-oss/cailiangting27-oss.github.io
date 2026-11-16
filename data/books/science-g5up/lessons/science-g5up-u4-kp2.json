@@ -16,7 +16,11 @@
       "question": "骨骼可以独立完成运动，不需要肌肉参与。",
       "options": [],
       "answer": "错",
-      "explanation": "人体的运动需要骨、关节和肌肉的协同配合。"
+      "explanation": "人体的运动需要骨、关节和肌肉的协同配合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7e/7ea621d0af7c47d71f69585a925e544d8c45ace9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/04c00cc7f8277190e68211b75307225c492c84f0.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "没有变化"
       ],
       "answer": "肌肉舒张",
-      "explanation": "伸肘时，肱二头肌处于舒张状态。"
+      "explanation": "伸肘时，肱二头肌处于舒张状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dce310f5ca5ae4000395d992c681a2ca7d385113.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/54a4f2c7bc719a74ab554b4162f2488e23bb285c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be0eec776a2341e3744cf9cd4a2b13f58a199f6c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/63/63402f975ef1e356c9e3162e30d0d8bb0537245a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/832378553ee4ac4c03c46e0d3b7f6cc51b9b8871.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/33/3323713b5c4bccb2c9e772122705f7da1e10d4a0.mp3"
+      }
     },
     {
       "id": 11,
@@ -48,7 +62,17 @@
         "神经"
       ],
       "answer": "骨骼",
-      "explanation": "骨骼具有支撑、保护和运动的作用。"
+      "explanation": "骨骼具有支撑、保护和运动的作用。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/07/07002aa95fabae50e70edc78d922e48e7725f872.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5778aef9fab0c1b19b0c6979a63c292bf25590.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64a6abed212bc3b1d4af2bc54aa47b7f52778cd4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51d635be68198450951ddfc3366c42f22c62e909.mp3",
+          "https://api.clthuanxie.cn/cc-audio/00/00047f6b5648e28d4607d6fefbf597ab6a63b58c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d657533a9f2eb5340e5a2e85b1d1e3a9acdc1069.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "皮肤"
       ],
       "answer": "关节",
-      "explanation": "关节是运动的支点。"
+      "explanation": "关节是运动的支点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e2073eabf974c57d6b3d59d99fe78ccf419f953.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f75cc6fc19086220c026c919251236a32beea93c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/79/798f4be3185d6f7040eacc568d6539d24e3cce48.mp3",
+          "https://api.clthuanxie.cn/cc-audio/be/be7627c7dd1d27ddb9b947d8562ffdb6505f6bd1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd5778aef9fab0c1b19b0c6979a63c292bf25590.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fc/fc932dc1d3f0bd5c9535069aaab1ed08b2db6703.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "骨骼、关节和（___）组成了人体的运动系统。",
       "options": [],
       "answer": "肌肉",
-      "explanation": "运动系统三大组成部分：骨、关节、肌肉。"
+      "explanation": "运动系统三大组成部分：骨、关节、肌肉。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a0/a0d340f2551d346e6915b893d656b196ab54a4d5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2e/2e9e0fc79bcf677985f8e4ff1b5e145a9c873bc5.mp3"
+      }
     }
   ],
   "knowledge": null

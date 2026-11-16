@@ -16,7 +16,11 @@
       "question": "在田忌赛马的故事中，田忌用下等马对齐王的上等马是一种吃亏的策略，不可能赢。",
       "options": [],
       "answer": "错",
-      "explanation": "这是一种策略，虽然这一局输了，但消耗了对方最强的马，为后两局获胜创造了机会。验算：逻辑判断错误。"
+      "explanation": "这是一种策略，虽然这一局输了，但消耗了对方最强的马，为后两局获胜创造了机会。验算：逻辑判断错误。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8d/8d559fdf28913b9b746ff1c91739d191489985d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0b/0b48346b2f7f4121252774628b76d5721ff982e2.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "下-中，中-上，上-下"
       ],
       "answer": "下-上，上-中，中-下",
-      "explanation": "田忌用下等马对齐王上等马（输一局），上等马对中等马（赢一局），中等马对下等马（赢一局），最终2:1获胜。"
+      "explanation": "田忌用下等马对齐王上等马（输一局），上等马对中等马（赢一局），中等马对下等马（赢一局），最终2:1获胜。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fb/fb8ba5551e81fea672f7a1088c9e78070cbc0e25.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e4/e41e0de0ba0b574d3295497710a9fd2af2b4f13f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53323090475f9a75f408de44cf94a66413dbc9fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a7897a3cb8a448f96e2789c3a85292692f0dfb7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/49e30e5ff2e74df13d73a6dc62183993f5f6b34a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8aff5b4f406b21addfb155cac7ebe58f6c0a73d5.mp3"
+      }
     },
     {
       "id": 13,
@@ -48,7 +62,17 @@
         "8-5，6-7，3-9"
       ],
       "answer": "3-9，8-7，6-5",
-      "explanation": "最小3对对方最大9，用自己的8胜对方的7，用自己的6胜对方的5。验算：1输2赢 ✓。"
+      "explanation": "最小3对对方最大9，用自己的8胜对方的7，用自己的6胜对方的5。验算：1输2赢 ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/9958663028a2fe3c1823031062e53cfb41bac35b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15283afb214d32f3b6bb68748d3778a41229f3a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/75c370b596a666db5ae9152f36499a9287b72d53.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cff49587c022d616eadc750501664176013bc200.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d45163117e02ae9f20918f1c4829c52a1c526286.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1fab9231ad3a62451c4abd29c39e164ff3ac3b79.mp3"
+      }
     },
     {
       "id": 17,
@@ -64,7 +88,17 @@
         "140-180, 110-150, 170-120"
       ],
       "answer": "110-180, 170-150, 140-120",
-      "explanation": "110对180（输），170对150（赢），140对120（赢）。比分2:1。验算：$170>150$且$140>120$ ✓。"
+      "explanation": "110对180（输），170对150（赢），140对120（赢）。比分2:1。验算：$170>150$且$140>120$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f5/f5852081bf6120322894c7bdeb8fd6f332ee30e6.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0f/0f29f06b5316a9d25be4e65893b9ae650e13734f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13db7fe910c80fcdf45984260ec8c075a6286b34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b6/b6d97f3b49278c73864a6e6481764f8d7dbff485.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01ff58e07d9af224e5bdea9e9a2b5a9c4ec5c69f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fd/fd29cd6d5da6fe6bce0207b959c55856cd39e833.mp3"
+      }
     },
     {
       "id": 21,
@@ -75,7 +109,11 @@
       "question": "三局两胜制比赛。对方实力：A(100), B(80), C(60)。我方实力：a(90), b(70), c(50)。我方获胜只有1种对阵方案。如果我方c对对方A，我方a必须对阵对方等级为 ___ 的选手（填数值）才能赢一局。",
       "options": [],
       "answer": "80",
-      "explanation": "c(50)对A(100)输。要赢两局，a(90)必须对B(80)赢，b(70)对C(60)赢。所以a对80。验算：$90>80$ ✓。"
+      "explanation": "c(50)对A(100)输。要赢两局，a(90)必须对B(80)赢，b(70)对C(60)赢。所以a对80。验算：$90>80$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3c/3c232b94e1118fb83d886413ee311cc8f315bff2.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/25f577b1bbf10d90ee001ad118514ef30bcf1f0e.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -86,6 +124,16 @@
       "习惯性用自己的最强去拼对方的最强，结果造成三场皆输或虽然赢了一场但输了全局。",
       "不理解三局两胜制的规则，认为赢一局就是赢了。"
     ],
-    "tips": "田忌赛马的关键在于：在整体实力不如对手时，牺牲局部利益换取整体胜利。"
+    "tips": "田忌赛马的关键在于：在整体实力不如对手时，牺牲局部利益换取整体胜利。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/85/8545938c9031fbe28c0fb1e8f84edff1635e263e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/36/36b51cf25b6e730af9acbffec71429b877cda126.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/c1/c1e4803137e2bd502d8c66b2dee23c330af5bbaa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/bf/bfa6aca465aa9cdd3495e9ccb299cb1240f1eb4d.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d1/d1f98af42e6bedaf7acb02a6d6f1443a6854a515.mp3",
+        "https://api.clthuanxie.cn/cc-audio/81/816c5ed0c9beceeae3233d8383189f171f55e579.mp3"
+      ]
+    }
   }
 }

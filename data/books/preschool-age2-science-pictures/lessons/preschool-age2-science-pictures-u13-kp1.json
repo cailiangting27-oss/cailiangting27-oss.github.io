@@ -25,7 +25,11 @@
         "1个苹果",
         "2个苹果"
       ],
-      "knowledge_point": "一起数数 1、2、3"
+      "knowledge_point": "一起数数 1、2、3",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/85/85a6cdb2ac0663fdd47db5932a36cef5f943d343.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b3/b38a445a37a4d15cec32d781e748135d58a911e9.mp3"
+      }
     },
     {
       "id": 50,
@@ -45,7 +49,11 @@
         "2个苹果",
         "3个苹果"
       ],
-      "knowledge_point": "一起数数 1、2、3"
+      "knowledge_point": "一起数数 1、2、3",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/75/75d72afa32e47d2363f9a42032445362f91e933f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e74b79a09499e052be4126aa1aeb76b2ebbb535.mp3"
+      }
     },
     {
       "id": 51,
@@ -65,7 +73,11 @@
         "3个苹果",
         "4个苹果"
       ],
-      "knowledge_point": "一起数数 1、2、3"
+      "knowledge_point": "一起数数 1、2、3",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/674ab80728072e880710c9237268a48cd63a0613.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/94/943a3cea184a8f5326151189303dd205f6f549d9.mp3"
+      }
     }
   ],
   "knowledge": null

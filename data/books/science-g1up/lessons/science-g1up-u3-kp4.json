@@ -16,7 +16,11 @@
       "question": "测量纸带上的刻度格大小应该保持一致。",
       "options": [],
       "answer": "对",
-      "explanation": "测量工具的每一个单位长度（格）必须是等长的，才能作为标准。"
+      "explanation": "测量工具的每一个单位长度（格）必须是等长的，才能作为标准。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d0/d0d86c602e7a3d75c5670c10afe29b4694215f98.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3f4ccd112d7a65022b49d7362a6161e2f1e76fd4.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "小铁块"
       ],
       "answer": "测量纸带",
-      "explanation": "纸带具有柔韧性，可以弯曲，适合测量圆柱形物体的周长。"
+      "explanation": "纸带具有柔韧性，可以弯曲，适合测量圆柱形物体的周长。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/70255b84431ac1fafbd9d2b4147d75d51fe8282f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e3b10f36c578602eca99cbf5bfabc5c6248537b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c9dfe9a217d9ff642a05988877825e62d80a08e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6da9545cccd7f5ff0adf2cce4e959fc696607109.mp3",
+          "https://api.clthuanxie.cn/cc-audio/57/574852c8b6bd519bca717d107c8d6ca8162af5f6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e7f8f0b55ef47b07486cd8f1812e90fb9e1c611.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "可以随意撕断使用"
       ],
       "answer": "可以随意撕断使用",
-      "explanation": "尺子是固定精度的标准工具，不可随意撕毁，这不是优点。"
+      "explanation": "尺子是固定精度的标准工具，不可随意撕毁，这不是优点。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a8/a8410c55a04a07577f9cea6167d3227c14fc9a95.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f9/f998802bb64ed1fc3b7819c7fd0af915bcf62cf2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01604c68a17ce45a261748a3582b6902ea369c1b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/05/05e875a3d141419921045c10105a38dbff14b1e5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60b3cede9a3c1be3a396033d17c64552643b5994.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/79/79c28af416c4e498b1051a7bc662582aac96d9b6.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "每一格越长越好"
       ],
       "answer": "每一格的长度只要一样长就可以",
-      "explanation": "作为自制工具，首要准则是“统一标准”，即格长一致。"
+      "explanation": "作为自制工具，首要准则是“统一标准”，即格长一致。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/41/414c91e7013259c309a2a3e190f4ea710bcf8cc1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9e/9e8f3aafa8e4f3c9ffb51796fc882290665883f2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb654a2ff52ac226673d4ea29677c7effa0d4ce2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cbb664964cf82792c3ee30548ed4b265befaf920.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94a3fc5b36684bbd3495239e3ba81750a9d93eb8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/67/67d4f0764a6fa800fa3ca1933277a562187513b1.mp3"
+      }
     },
     {
       "id": 20,
@@ -75,7 +109,11 @@
       "question": "为了保证测量准确，我们通常要测量（___）次以上并取平均结果。",
       "options": [],
       "answer": "3",
-      "explanation": "科学实验中重复测量3次通常可以有效减少操作误差。"
+      "explanation": "科学实验中重复测量3次通常可以有效减少操作误差。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5e/5ee51ddef1ecf28fb486399eb05e31c01ff4205e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc320a708da4c3621cd8ebad54a8819e3de8b342.mp3"
+      }
     },
     {
       "id": 21,
@@ -86,7 +124,11 @@
       "question": "尺子上的标准单位通常包括毫米、厘米和（___）。",
       "options": [],
       "answer": "米",
-      "explanation": "米是国际通用的基本长度单位。"
+      "explanation": "米是国际通用的基本长度单位。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/afde81b2845e20b2d906de13647cd958d6329bae.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5ecda59ad7b492aae78df32da95884d3390d4814.mp3"
+      }
     }
   ],
   "knowledge": null

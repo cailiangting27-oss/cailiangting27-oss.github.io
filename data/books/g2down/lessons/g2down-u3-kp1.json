@@ -16,7 +16,11 @@
       "question": "长方形对折后，折痕两侧的部分能够完全重合。",
       "options": [],
       "answer": "对",
-      "explanation": "长方形是轴对称图形，对折后可以重合。验算：折痕即是对称轴。"
+      "explanation": "长方形是轴对称图形，对折后可以重合。验算：折痕即是对称轴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/57/57febcc227853041a0d80891c0a3b9bf48539350.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8ac71a9def0cbeb8f421909a865bec29e8e7216f.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "所有的字母都是轴对称图形。",
       "options": [],
       "answer": "错",
-      "explanation": "例如字母P、F、G对折后都无法重合。验算：字母A是，但P不是。"
+      "explanation": "例如字母P、F、G对折后都无法重合。验算：字母A是，但P不是。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/71/711ff15115529f31ee4db20d335bb3dcfb405c11.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff3d303cc10cfccb5405b1188e2c989d848588f4.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "游动的鱼"
       ],
       "answer": "螃蟹",
-      "explanation": "螃蟹左右两边基本对称。蜗牛有螺旋状壳不对称。侧面公鸡不重合。"
+      "explanation": "螃蟹左右两边基本对称。蜗牛有螺旋状壳不对称。侧面公鸡不重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e5ba15bbc9bf573059c618f481c9fa3198dcc57.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b8/b81dd8f2a241e7e6ab97d66848706d48a42448c1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5e/5e8ae50e21641ecd32acc5d4569e19ca9e802b37.mp3",
+          "https://api.clthuanxie.cn/cc-audio/01/01502b87da0224284c6b1abd01760ca392cb30a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19531ae5ef3c8b3a875286315105d56eec525cb9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0e2a829c60b48fd83f0c71b9f18eb0320bb1ec59.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "木"
       ],
       "answer": "玉",
-      "explanation": "“玉”去掉一点就是“王”，“王”是对称的。而“玉”有点不对称。"
+      "explanation": "“玉”去掉一点就是“王”，“王”是对称的。而“玉”有点不对称。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/bd/bd512882c51b4c776b99a852363141a1fcb3c755.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0b/0b2c440d0e6c45e3f6c1fb8e25bb4af07032670f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/08/0869071c92c0c11170ac87036bebedb52ea0c993.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/2081bbe07115ade34e649a8abff3e984f2108acc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/8294db3a2006ae4a321f7f24d76942cf922c6c2e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/efe72d56ce90d15d7deac68eb3f4c406cbd5417f.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "4"
       ],
       "answer": "4",
-      "explanation": "正方形有2条对角线和2条对边中点连线共4条对称轴。"
+      "explanation": "正方形有2条对角线和2条对边中点连线共4条对称轴。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/342cc31c23dc992884bc940a540abad80f011a75.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/35/356a192b7913b04c54574d18c28d46e6395428ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da4b9237bacccdf19c0760cab7aec4a8359010b0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1b/1b6453892473a467d07372d45eb05abc2031647a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cf/cfa8435bcfd5197e7bf04721a5769f730f9379c6.mp3"
+      }
     },
     {
       "id": 13,
@@ -91,7 +129,17 @@
         "8"
       ],
       "answer": "8",
-      "explanation": "数字“8”上下或左右对折可重合。其他数字折叠不重合。"
+      "explanation": "数字“8”上下或左右对折可重合。其他数字折叠不重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/14/14e256fec30a0d7a62185cb59b79fc7e0feccbe9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ac/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/902ba3cda1883801594b6e1b452790cc53948fda.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fe/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c7/c792ea0e2d94359f60d7e0f051c70fef538872cb.mp3"
+      }
     },
     {
       "id": 17,
@@ -107,7 +155,17 @@
         "杂乱无章"
       ],
       "answer": "轴对称",
-      "explanation": "通过对折后剪掉一部分，展开即得到对称图案。"
+      "explanation": "通过对折后剪掉一部分，展开即得到对称图案。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1f/1f5b5fc700a91910d09aaaebe1625f861172603c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ce332b14fbc1470ba313a307c3c7a72f376401a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e5859c143f18a25ee8605b4b7412bfdf56de3792.mp3",
+          "https://api.clthuanxie.cn/cc-audio/94/94f5972a6c614eed4a0f210ae607e20e52c0e47e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/589715daf1137cca10429deec9bc9cc285faf9b2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5da9ea73567d6c559746083bf92bc66cc5094f7e.mp3"
+      }
     },
     {
       "id": 19,
@@ -118,7 +176,11 @@
       "question": "等腰三角形中，一共有 ___ 条对称轴。",
       "options": [],
       "answer": "1",
-      "explanation": "等腰三角形只有一条过顶角和底边中点的对称轴。验算：折叠1次可重合。"
+      "explanation": "等腰三角形只有一条过顶角和底边中点的对称轴。验算：折叠1次可重合。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/68/687e85890d09ed7434fe3421d953b69f76f7f639.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c8/c8c3a2e9e1721c00177483643a5bcc42e5f295bf.mp3"
+      }
     },
     {
       "id": 20,
@@ -129,7 +191,11 @@
       "question": "长方形有 2 条对称轴，正方形有 4 条，这两个图形一共有 ___ 条对称轴。",
       "options": [],
       "answer": "6",
-      "explanation": "$2 + 4 = 6$。验算：$6 - 4 = 2$ ✓。"
+      "explanation": "$2 + 4 = 6$。验算：$6 - 4 = 2$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/79/794b43a05d0de6af1167947eeb52031098a038b0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/19/190b558668dfa6782992fc42990ed2bb07136cc9.mp3"
+      }
     },
     {
       "id": 21,
@@ -140,7 +206,11 @@
       "question": "小明在一张纸上画了 3 个对称图形，小红画的是小明的 3 倍，小红画了 ___ 个。",
       "options": [],
       "answer": "9",
-      "explanation": "$3 \times 3 = 9$。根据倍数关系计算。验算：$9 \times 3 = 3$ ✓。"
+      "explanation": "$3 \times 3 = 9$。根据倍数关系计算。验算：$9 \times 3 = 3$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed885dff50081770488f30a510b08589b62de656.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/dfe34a055ccc19000599a5c809d802bb9613c92d.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -151,6 +221,16 @@
       "认为只要能分成两半就是对称，忽略了必须“完全重合”。",
       "找不到对称轴的确切位置或数量，例如认为圆只有一条对称轴。"
     ],
-    "tips": "可以通过剪纸试验来理解：先将纸对折再剪出一半，展开后的图形一定是轴对称图形。"
+    "tips": "可以通过剪纸试验来理解：先将纸对折再剪出一半，展开后的图形一定是轴对称图形。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/43/4350f19bf9f8002a7bf3355f388ec0c6445ee546.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7f/7fada82f6dec71de8dd9ab2f1f0cfbf4d02e3a49.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/51/514c622bcbb6399f20a4d08436fbb4e2e1c6d285.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d4/d49ef903d82a7be33bf49007e219f3e66a99291e.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/1e/1e8bbeaea5dfbffc7537c144188b47e2f9d2c250.mp3",
+        "https://api.clthuanxie.cn/cc-audio/21/21610d1971932b6e051e15a58b90e55228d4e160.mp3"
+      ]
+    }
   }
 }

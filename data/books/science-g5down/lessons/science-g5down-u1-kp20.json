@@ -21,7 +21,17 @@
         "蝗虫"
       ],
       "answer": "水稻",
-      "explanation": "生产者是能通过光合作用制造有机物的植物。"
+      "explanation": "生产者是能通过光合作用制造有机物的植物。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8b/8b7b7fc6b6c5271c8be90c3bb952474fe5efd9af.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0c/0ca3884f94acb04eb5eec82a493ceb655d78b94f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3daaa92bcf8a1eca9f8fe4c1e086fe78821b0ae0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d71a077cd4e64b2ffdb11affdebcfb351efaf7c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c506d111fcea949bb5cb4a577d3ebf5063ab3496.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9d/9d0ef18910e1c8e7a873600a8b928b3bc1c97586.mp3"
+      }
     }
   ],
   "knowledge": null

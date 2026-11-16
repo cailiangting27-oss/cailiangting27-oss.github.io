@@ -16,7 +16,11 @@
       "question": "'the USA' 翻译为 '美国'。",
       "options": [],
       "answer": "对",
-      "explanation": "the USA 是 the United States of America 的缩写，意为美国。"
+      "explanation": "the USA 是 the United States of America 的缩写，意为美国。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/48/48426e84812d5ab4882fb8317895c7c9d209dd8e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/10/10e66c5b2116e8fe6b32477584d59599d5010d8f.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "'teacher' 指的是 '学生'。",
       "options": [],
       "answer": "错",
-      "explanation": "teacher 是老师，student 才是学生。"
+      "explanation": "teacher 是老师，student 才是学生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ce/ce0a04d58163f97d9d30d000ace5036a4ff4ab89.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/21/2178063929c84c72d92a96a576a066cea7756d26.mp3"
+      }
     },
     {
       "id": 5,
@@ -38,7 +46,11 @@
       "question": "介绍一位男生时应该用 'She is'。",
       "options": [],
       "answer": "错",
-      "explanation": "男生使用人称代词 he，女生使用 she。"
+      "explanation": "男生使用人称代词 he，女生使用 she。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4c/4c8dbef4cc072ed899d2d0733fa019036b61a38f.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/87/87a2985a8e0d2b70527a926f6b7c86bf4dacd387.mp3"
+      }
     },
     {
       "id": 7,
@@ -54,7 +66,17 @@
         "Teacher"
       ],
       "answer": "Teacher",
-      "explanation": "前三个是国家名，Teacher 是职业身份。"
+      "explanation": "前三个是国家名，Teacher 是职业身份。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0e/0e4aa8b023577b3a3112bac7c87788547f2d70e1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d2eaf2aa1512d6596e0a5bae633537c6b8e779a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cd6a7b8768528485a0dbcd459185091e80dc28ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18bc5956dbf1cc6c9a5baeb624c9e7e472a04c2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/da/da33ddcb584a57879dff33155f40a4dde93f3480.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ece839c551db746d16b4e5a043c56b11e3b07ca.mp3"
+      }
     },
     {
       "id": 8,
@@ -70,7 +92,17 @@
         "black"
       ],
       "answer": "back",
-      "explanation": "welcome back to... 欢迎回到..."
+      "explanation": "welcome back to... 欢迎回到...",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c09b95d721d2ce958c5526ff1e869b9a3c07a15.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/61bb8d29b5be7db307cb29005bff087ebe300454.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9b/9b4e473e4de7949c4ab8e441a7faa5e2b295b469.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e7e694c58cd50e0324ec96918800bc35cd17629b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/466bc8cef3e71de796ec483e212724a2c2044c68.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d54ff88885fca11c9f558947ba896b91d48d41fa.mp3"
+      }
     },
     {
       "id": 10,
@@ -86,7 +118,17 @@
         "i"
       ],
       "answer": "He",
-      "explanation": "Mr Jones 是男性，在句首需要大写 He。"
+      "explanation": "Mr Jones 是男性，在句首需要大写 He。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e5/e5f2c992c9c240bca9d9cdd44992ae17648917c9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b2/b2a03bf05d098c5287c901ed46ae2c8adeecda4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/53/53a417796c777851003b3f2431e8eef5625ec15b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/042dc4512fa3d391c5170cf3aa61e6a638f84342.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/09/09b0c098a5e30d812f42d4dfde0c901f6ef9d174.mp3"
+      }
     },
     {
       "id": 11,
@@ -102,7 +144,17 @@
         "teacher"
       ],
       "answer": "boys and girls",
-      "explanation": "常用 boys and girls 来称呼全体学生。"
+      "explanation": "常用 boys and girls 来称呼全体学生。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f4749f68a6f31f02e9df22a93d283de162fc41d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ce/ceac9b04aced67dceaf6577b30208737b9047093.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a6/a664f10b5e580cdde0ca6f4ae01ccf741592737a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf46f15b928e5ed21ca0c42e69c4939741a899db.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3a/3aafbe65ccba6a30e4b7b04cce72358caed9d67e.mp3"
+      }
     },
     {
       "id": 13,
@@ -118,7 +170,17 @@
         "she"
       ],
       "answer": "student",
-      "explanation": "由语境可知需填身份词 student。"
+      "explanation": "由语境可知需填身份词 student。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/40/40389b6c54d123b3ce536df301564e45b6b86668.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/20/204036a1ef6e7360e536300ea78c6aeb4a9333dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3ab9380fa2521f2d0d94fe931b79a1e1eaa91890.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fbff345d9d911c2b6758b2580630cc739d077493.mp3"
+      }
     },
     {
       "id": 18,
@@ -129,7 +191,11 @@
       "question": "I am a ___. (我是一名学生。)",
       "options": [],
       "answer": "student",
-      "explanation": "学生对应的英文单词是 student。"
+      "explanation": "学生对应的英文单词是 student。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a199777ad68655af570af774e3ceb9dd6364133d.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c0/c063dfe703a2d125082960229c7c944b67938a81.mp3"
+      }
     },
     {
       "id": 19,
@@ -140,7 +206,11 @@
       "question": "Nice ___ meet you.",
       "options": [],
       "answer": "to",
-      "explanation": "固定搭配 nice to meet you。"
+      "explanation": "固定搭配 nice to meet you。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc752d3864a1d8c7bbce33fc6af55ff2c79154e9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e9f76e7dca87eb8da058f758cacb1497e973a298.mp3"
+      }
     },
     {
       "id": 20,
@@ -160,7 +230,21 @@
         "中国"
       ],
       "answer": "A-3,B-4,C-1,D-2",
-      "explanation": "Canada-加拿大, China-中国, UK-英国, USA-美国。"
+      "explanation": "Canada-加拿大, China-中国, UK-英国, USA-美国。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1a/1affc5835013edead31378a38b753af773fd2a31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd6a7b8768528485a0dbcd459185091e80dc28ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d2eaf2aa1512d6596e0a5bae633537c6b8e779a3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/7770d04c7bfb791e7c95959f12d6797bee87a8d8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/18bc5956dbf1cc6c9a5baeb624c9e7e472a04c2e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ec/ec90e84c8fa409f0463e21aeabdfa849ebe573d7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2d10935506364f071b3c70bdf2eeb1f677f29c5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d8/d8a2b457be509a4718927acb3219dd51f69d10b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/101806f57c322fb403a9788c4c24b79650d02e77.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9e/9ed21faedaff29eb423a373c561212f60d384de9.mp3"
+      }
     },
     {
       "id": 21,
@@ -180,7 +264,21 @@
         "教师"
       ],
       "answer": "A-4,B-3,C-2,D-1",
-      "explanation": "teacher-教师, student-学生, he-他, she-她。"
+      "explanation": "teacher-教师, student-学生, he-他, she-她。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a2/a2c876b51f28d4e77b4ea5f70792374fa3abf962.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/20/204036a1ef6e7360e536300ea78c6aeb4a9333dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/30f088ea6673877c2e2c1edbe7513ff90eda9a6f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a240ec058b403b420ec3ba1b1c3acc6cadf3ac5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7f2fa5ddbee2c384a554f6ab18cbca5706a4a4ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e3/e31b569a0f1d9ff0c78f766cae3732af1be502da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b76783d38c00a7d57e25b25d12b23c760e616a42.mp3",
+          "https://api.clthuanxie.cn/cc-audio/aa/aa5533ff4a9d4f261e571a61c7342df5241e945e.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/74/743835781197deedfd7c3090a7f1d7f7af964df6.mp3"
+      }
     }
   ],
   "knowledge": null

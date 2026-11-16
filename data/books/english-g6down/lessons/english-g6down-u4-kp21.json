@@ -25,7 +25,21 @@
         "梦想"
       ],
       "answer": "A-3,B-1,C-4,D-2",
-      "explanation": "grass草地，star星星，dream梦想，internet互联网。"
+      "explanation": "grass草地，star星星，dream梦想，internet互联网。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37f83f329339f1dd0490686fe1cc285143ccdd0c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bb/bbc29b76c59b382aca12201c44929002ef1778ae.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4e3e01b9af84f54d95f94d24eeb0583332a85268.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f04a8843e6c2de610d1da9296cfa2c6169b4a7f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4d/4d0fb475b242228032cbdf6d53924d2538df037b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/81/81619aa654bd930da9f0d27cfd3d3b959ec1c143.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ed766e0c359ad72b34333401fbf8b198e76f6b8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e9247fd0e9aa664ec9e4891c5161f8e125ac81c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/27/274fc67590cda46e0247867590a6be6985f0568b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0d/0d3ede688973a656a17ddb07aeb740f2dc5e3087.mp3"
+      }
     }
   ],
   "knowledge": null

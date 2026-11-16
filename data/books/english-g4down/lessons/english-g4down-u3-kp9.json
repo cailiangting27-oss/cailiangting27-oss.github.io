@@ -21,7 +21,17 @@
         "rainy"
       ],
       "answer": "windy",
-      "explanation": "放风筝(fly a kite)需要有风(windy)的天气。"
+      "explanation": "放风筝(fly a kite)需要有风(windy)的天气。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88c8ba0bd5b9849011fe5139fdb2e902eb4980d9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/50/50de10bbeafd2b70ebedca8329d5bd1e93e19bd9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/45/45bf01a821bc1ef9778d0fdfc6135da58663d556.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4b/4bd8eddacb60b41280481c5acce7ea363d1162be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14beca199c7fac11b012cd2306f76fd3273ee5e1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/de/deadd136cff1de7057d0cbd72fc5ff948deb29f5.mp3"
+      }
     }
   ],
   "knowledge": null

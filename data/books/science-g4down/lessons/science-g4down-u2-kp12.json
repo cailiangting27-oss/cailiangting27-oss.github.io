@@ -21,7 +21,17 @@
         "电插头"
       ],
       "answer": "电池",
-      "explanation": "电池是电路的电源，负责提供能量。"
+      "explanation": "电池是电路的电源，负责提供能量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4f/4f1860fb2ecf84b03cea92efea4502604a00d691.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9f/9f8d394ef97ec7154c9543e9e25d03c8607815a0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/595d336967d3a3c30437d052691cc3cda063be7b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78e42e38cf11a3684eeba8cacdc688c66794c674.mp3",
+          "https://api.clthuanxie.cn/cc-audio/49/4942a289aae54b1bb04e703af567b1b168e0f8c2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/46/46de1dd1c8122933bafb53d57b64fe5c55a6aaeb.mp3"
+      }
     }
   ],
   "knowledge": null

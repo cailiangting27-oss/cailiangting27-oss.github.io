@@ -16,7 +16,11 @@
       "question": "在造纸术发明前，贝壳曾被当作货币使用。",
       "options": [],
       "answer": "对",
-      "explanation": "课文《“贝”的故事》中提到古人把贝壳作为钱币。"
+      "explanation": "课文《“贝”的故事》中提到古人把贝壳作为钱币。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0b/0b52588f448d270ac47709e287c60e35af5632e5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b18f6b4279ce60c661ffc9443f82b920472b44b2.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "端午节是为了纪念屈原而设立的，习俗有划龙舟。",
       "options": [],
       "answer": "对",
-      "explanation": "常识与课文内容结合，说法正确。"
+      "explanation": "常识与课文内容结合，说法正确。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/98/989d66e705b9c8680455f78c6cd09e1cef5a05e6.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/69/6975e8d3e698d1997d8e8f02190a6fa06452a647.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "长江是我们国家长度第一的长河。",
       "options": [],
       "answer": "对",
-      "explanation": "长江是亚洲第一、中国第一长河。"
+      "explanation": "长江是亚洲第一、中国第一长河。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/52/52fd6c3760709675943383cb321a666759e8653e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0f/0ff0e4cb8e56e8ef8d691ce98c0c6a16b6964f12.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "中秋节过完之后，下一个紧接着的传统节日是春节。",
       "options": [],
       "answer": "错",
-      "explanation": "中秋（八月十五）后还有重阳（九月初九）。"
+      "explanation": "中秋（八月十五）后还有重阳（九月初九）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c2/c2247f783c3979526bae9fb5f530e80224681417.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ed/ed0b47f346b84162815a96f16db85a2230897056.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "心情"
       ],
       "answer": "钱财",
-      "explanation": "根据形声字和象形字的演变，贝字旁多表示钱财。"
+      "explanation": "根据形声字和象形字的演变，贝字旁多表示钱财。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8e/8ef1043eb1f1b57174d23035fcf5ca12bb07eb20.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/17/17b7d656712ce926c0634bbd6b52232465f9e8ea.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3416342cdc14535adc5e35ac8a8e14913ce12f21.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76497704e37447959cf2f7f21878c083ba42fe8c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/30/300ee58e24cfd4c81b7d7ec54f38ddcd4823e99c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/8614c219f256b827289cd3a7e5f575244f154f25.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "七夕节"
       ],
       "answer": "中秋节",
-      "explanation": "中秋节的特点是赏月、团圆、吃月饼。"
+      "explanation": "中秋节的特点是赏月、团圆、吃月饼。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/24/24dfb3db4e710cecba716647054c975baedda9b7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92ba816fbb211b114ca22c2c0b7df224be0a055a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758c25cf8ac1dd10b249f982e9de434d95a40cfb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e73175416972573eadb56721e5fb245e30da3e84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd3502f506e74931c62e2649d0b959ab68f412cf.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/86ff9e15251ae262cdd10ccba2ee9297e0ef424d.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "刻苦学习"
       ],
       "answer": "民族团结",
-      "explanation": "情谊深、齐奋发描述了民族之间的紧密关系。"
+      "explanation": "情谊深、齐奋发描述了民族之间的紧密关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/58c92189da26b7d378f28237d1128efc5d6f93b3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e7/e7688a08da7e3b06e52fd1e6706938fab169cbdc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c75070008abd884863e1e51e39eca047843e2d34.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a1/a11041a907531b85eb847e4612b78f3ba77d8b5e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22cc69dbb1a68b642e39273d2669951ff6c5cd57.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4e8da979076e0f9c2eb2f2bcfc6179022689e28.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "元宵节"
       ],
       "answer": "清明节",
-      "explanation": "顺序：元宵-清明-端午-中秋。端午之前是清明。"
+      "explanation": "顺序：元宵-清明-端午-中秋。端午之前是清明。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/09/094f73289294518b1c4c8dd7203f82bce735c6fe.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/92/92ba816fbb211b114ca22c2c0b7df224be0a055a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e7/e73175416972573eadb56721e5fb245e30da3e84.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e22dd403d0a869dfc423d18aab6412d16e2cc17.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/758c25cf8ac1dd10b249f982e9de434d95a40cfb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/82/82d4246ed429eba5cb3717f2f201a277f0353acb.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "红烧肉"
       ],
       "answer": "油条",
-      "explanation": "油条是典型的油炸食品。"
+      "explanation": "油条是典型的油炸食品。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/62522d721ed2377f23eeaa991f7b4b5f56ba73cb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/e1/e1d61ab42437137f0e1015f8387b9bb859f8e89f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/59/59b148c0392f383be604c4de63b75b82ebff49da.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bd24c1fecf30deb326cd2b27a99e44fc842f8017.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/aeccfcca1da2cfb7d06c42b081df567d23f0917a.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ec9d3537dd07ac4fc311089948ff26fe71326bb.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "姓氏"
       ],
       "answer": "繁盛、美",
-      "explanation": "中国古称华夏，意为衣冠之美、礼仪之大。"
+      "explanation": "中国古称华夏，意为衣冠之美、礼仪之大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/27/27cca34f9ce3ee55deab9e2433cf47829649cb52.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d2/d24c64a8a8680a34c5ca8133ade81180ddc130e8.mp3",
+          "https://api.clthuanxie.cn/cc-audio/66/66fade6cbfe64d6131f2c56782b11e210b24451f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d19c721ba7a6e5363b189158b28db82bb20a093b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/8833895832f983479488faff03af459221cd05ba.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/54e7853960bfac7b9d8687d6025dd29f0b69a4b9.mp3"
+      }
     },
     {
       "id": 16,
@@ -156,7 +232,11 @@
       "question": "我们通常把长江和（___）称为中华民族的摇篮。",
       "options": [],
       "answer": "黄河",
-      "explanation": "黄河和长江是我们的两条母亲河。"
+      "explanation": "黄河和长江是我们的两条母亲河。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/47/47df3c58535f9342e87ee1543bd8939209ba5133.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e6/e654606f5e4354798af7820ff313d0d637d58879.mp3"
+      }
     },
     {
       "id": 17,
@@ -167,7 +247,11 @@
       "question": "端午节人们除了赛龙舟，还要吃（___）。",
       "options": [],
       "answer": "粽子",
-      "explanation": "端午吃粽子是核心习俗。"
+      "explanation": "端午吃粽子是核心习俗。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/06/06b7652a30adfc12ab0629c303c8e9f9c7f59cdb.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8f/8f30efb421344cef074dc9e2a6f1d3056fc770a7.mp3"
+      }
     },
     {
       "id": 19,
@@ -187,7 +271,21 @@
         "辛"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "财-贝；烧-火；辣-辛；鹅-鸟。"
+      "explanation": "财-贝；烧-火；辣-辛；鹅-鸟。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d34c6fd76dfd646cbe52af6f54f709900b53e79c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/6208a49446a082d3f570db8cdb4b0c72fe2c5920.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4a/4a1ca38519867e45071376e1682a41c2e6109d6a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e5/e50be909f385917a345d5c0ff8aba70858e08a67.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f6/f6baead2da5ced657489764ac861c369e2afa3fa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efb2620838c4f431a7d9e61441bd2445543f4731.mp3",
+          "https://api.clthuanxie.cn/cc-audio/48/48d834477477c8b10fe78bd320f71e6c9e03bda5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9acc91a1f9a59bac594e3299200ed76f328a7204.mp3",
+          "https://api.clthuanxie.cn/cc-audio/18/1815384af7d4d6328457140a1aff92e1f38a376c.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a0/a0b995852855d8e2a14715b1ab5db1a73be92b7e.mp3"
+      }
     },
     {
       "id": 20,
@@ -207,7 +305,21 @@
         "乞巧"
       ],
       "answer": "A-2,B-4,C-1,D-3",
-      "explanation": "清明祭祖，七夕乞巧，中秋赏月，重阳登高。"
+      "explanation": "清明祭祖，七夕乞巧，中秋赏月，重阳登高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d1/d19bc350433913ded4e4c5a34818b06403ebd1c2.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/79/7943ffd6ce792a2cd4745475f1e88e7380f1f884.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67825d429142d4933aa7a715230ca5088c6171a4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/68/68b903172e61b9efcfc5ff19217a7eee58734ad0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/02/02a0820164139649b71c6a56356642b65760b747.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/38b6348de99169d56cefc5ecf9e8ca810d09a5a2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/92/9270bb12aff456bcf16c32a4fd50817c71d56590.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e62e09f0b2e4b20d77e7a6694f470b7e899a4022.mp3",
+          "https://api.clthuanxie.cn/cc-audio/16/16eacf067f508ffa569dbdd979ba5880670549cb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ec/ecdc2a83ac9657b19808223037d0a25c9f21e5de.mp3"
+      }
     },
     {
       "id": 22,
@@ -223,7 +335,17 @@
         "人团圆"
       ],
       "answer": "中秋到,月儿圆,人团圆,吃月饼",
-      "explanation": "按照课文中的对仗结构排序。"
+      "explanation": "按照课文中的对仗结构排序。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/70/702856a1ee1d75741f42e9d2a1bb153e9418a1e0.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d4/d416158dd4b9a6f8230c2cc83c7db33b979697fe.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cf/cf757a57db985710fd507ff28d3b8b3c7e5c9232.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0a56268c4e247c380d8d3b877d63601eaf127a5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7d72a048169501665619210a7096b136db4926f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f3/f3dbcc5bf3458bae1788f7e5947895a73864044b.mp3"
+      }
     }
   ],
   "knowledge": null

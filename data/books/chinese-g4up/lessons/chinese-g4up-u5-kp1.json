@@ -16,7 +16,11 @@
       "question": "在写一件事的时候，要把起因、经过、结果交代清楚。",
       "options": [],
       "answer": "对",
-      "explanation": "记叙文六要素（时间、地点、人物、起因、经过、结果）是写清楚一件事情的基础。"
+      "explanation": "记叙文六要素（时间、地点、人物、起因、经过、结果）是写清楚一件事情的基础。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9c/9ca2d616cc28b26d53ebd5b9e990857c8cf6e068.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb732e27d08737bf4d8f94333a566412e4928642.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "写经过时，为了省事，我们可以把最有意思的部分写得简略一些。",
       "options": [],
       "answer": "错",
-      "explanation": "经过是事情的核心，必须重点描写，尤其是重要的细节。"
+      "explanation": "经过是事情的核心，必须重点描写，尤其是重要的细节。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7f56ea57d4e1dc0a72daf6bdbfc3d9e15d922b4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/08/08301b92a54af2f31ca17a1c64f52ccb1d7a1584.mp3"
+      }
     },
     {
       "id": 8,
@@ -43,7 +51,17 @@
         "外貌描写"
       ],
       "answer": "心理描写",
-      "explanation": "心理描写直接反映人物的内心世界。"
+      "explanation": "心理描写直接反映人物的内心世界。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e8/e847c8994c5c74b2b0df25d7a568e3f7e27adbaf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bb13a1b46e021d92f8d4490214df8a1e8ec4fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90402fdbca9742f5224a4a5719d16edf6a4c4ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3d568abdf402a96861ccf53684618a13dbbba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c7/c7fcc659c1963839dba0a4b902f6535eff51e808.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c2/c2dd618e5ebcd7bf485f86340509549af9d0120a.mp3"
+      }
     },
     {
       "id": 10,
@@ -59,7 +77,17 @@
         "动作和心理描写"
       ],
       "answer": "神态和动作描写",
-      "explanation": "“脸色发白”是神态，“握紧拳头”是动作。"
+      "explanation": "“脸色发白”是神态，“握紧拳头”是动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/4e/4e3bfdf2659717372d7bff3b3d42c5bac2f02721.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c8/c8ab96c523b8aa8b194dcac2d607c49256745f2c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83bb224a18f24604b5dcbc0e65e97dc6528067ef.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c8/c89680c44e1762f4e76426eb1fd2c135f3d69637.mp3",
+          "https://api.clthuanxie.cn/cc-audio/82/826b45fa562270bf92bb4177c0adf2cfcbcd8022.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/bb/bbdf865161471a9736de402dd6c2ce6f390a634b.mp3"
+      }
     },
     {
       "id": 11,
@@ -75,7 +103,17 @@
         "我的好朋友"
       ],
       "answer": "一次做家务的过程",
-      "explanation": "做家务包含洗、擦、拖等连续动作，最适宜动作描写。"
+      "explanation": "做家务包含洗、擦、拖等连续动作，最适宜动作描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d3/d3e46e40736c73ad6c81f3d31ad6368e692bab0e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/7e/7e7a85c10653cd07cf4740aa86be1ba4668e85cb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4f/4fa6f84a4e4123286041aefaeca0a1925f695306.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/768cd90f0fea013fdb4e6d7afe538e7bb2400948.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3474492e16b3af602506bc7a22d68f6c66c4a861.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f5/f59786bc16074ac3c1aab9969c6688ec3c92bf29.mp3"
+      }
     },
     {
       "id": 12,
@@ -91,7 +129,17 @@
         "总结全文"
       ],
       "answer": "交代背景或暗示心情好转",
-      "explanation": "天气的变化常用来衬托人物心情的变化。"
+      "explanation": "天气的变化常用来衬托人物心情的变化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f951d5c8c41f25800a29897ebe6367b77b3bee8e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3272fa78351934f0abc6dcd8a6f183b7ff45931.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/efe3de6e11fcabc79a0dc31e681e0333f02b113b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d10756e8bb514633c9cc1ac59dc371dc0b728011.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d01de1c846ad044f39bc28a5a167de0ecb017a71.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d6/d691ba9beb559ef4ec217b1128eeb0b02f885948.mp3"
+      }
     },
     {
       "id": 15,
@@ -107,7 +155,17 @@
         "写自己的缺点"
       ],
       "answer": "交代起因或点题",
-      "explanation": "好的开头能快速进入主题，吸引读者。"
+      "explanation": "好的开头能快速进入主题，吸引读者。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7d/7da5bd7f0f4dd491bb4185108cb2199be53d2020.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/67/670ec86071e4afdbe1a57f285c350e62fa4f347a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8ba4613486b9845479086409610595c39eba4fc1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdcff3c8b1481eaa901030b5a43eff5d7797bdc7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/14/14b56c6374ba52a4ea5e85c6b8a3a9a5e401b8d6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fa/facdeba2fba6fcebbe353888dbb1556bf427b85c.mp3"
+      }
     },
     {
       "id": 16,
@@ -118,7 +176,11 @@
       "question": "写事要交代清楚六要素，包括：时、地、人、起因、经过和（  ）。",
       "options": [],
       "answer": "结果",
-      "explanation": "记叙文完整性要求具备结果。"
+      "explanation": "记叙文完整性要求具备结果。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/b5/b5f8f292b5774c7c933284f89a23a022e774cf36.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d57009c67d790a955f5393c94de022f9ee901664.mp3"
+      }
     },
     {
       "id": 18,
@@ -129,7 +191,11 @@
       "question": "《爬天都峰》中，作者描写了“我”和（  ）一起爬山的事情。",
       "options": [],
       "answer": "老爷爷",
-      "explanation": "文中主要人物是“我”和老爷爷。"
+      "explanation": "文中主要人物是“我”和老爷爷。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e7/e7767acc10b12b376ff47910e6d8c457fe301752.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ad/ad4d7f4a57b6b6933529de0639cc5967a2a4865f.mp3"
+      }
     },
     {
       "id": 20,
@@ -149,7 +215,21 @@
         "手舞足蹈"
       ],
       "answer": "A-4,B-3,C-1,D-2",
-      "explanation": "手舞足蹈是动作，眉开眼笑是神态，心花怒放是心理，狂风骤雨是环境。"
+      "explanation": "手舞足蹈是动作，眉开眼笑是神态，心花怒放是心理，狂风骤雨是环境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/12/12361bca281b68db71962f2c72e05a097a32a17e.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bb13a1b46e021d92f8d4490214df8a1e8ec4fd3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/435fff592203fffed176e42d8a37eeac32493404.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ff/ff3d568abdf402a96861ccf53684618a13dbbba4.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a90402fdbca9742f5224a4a5719d16edf6a4c4ad.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/674bd11a2a1eeb636354dff4fe5499d1ef6893be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdf4bbba5567648f8642d01eeebae6a3e4b0cac2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6e/6e805c5ef1fe5c3a546177d4c364bd9873f1f5c5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e6/e690bbc79ddb065f223fd797d94a4c2bb2f74ab1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6f/6fdb400b27eb879e401b9a2905df4de0a22bdffc.mp3"
+      }
     },
     {
       "id": 21,
@@ -169,7 +249,21 @@
         "事情的结局"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "匹配文章结构及其功能。"
+      "explanation": "匹配文章结构及其功能。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d8/d82ea07ba60817aa16394d83115403f5fabb81db.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/25/25829b81c44f65a822b475dbdcaaad77448a323d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bf/bfc2cb157cb5b52e23f1c97788cf62e0e1e42a7d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0a/0a2c91cec6c8fb259482b99dde05c9438784dce9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/70/70ecfa4b711b2f55061ae73e5e453a725c2e7c2f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f454206b70c8be4e52bf7c4cfc10af951c11631c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0f37c951646f2efbcd1dc07900bff86763ea0d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c328bfcf745ddb91e8b1cc57ae52c210c87c879.mp3",
+          "https://api.clthuanxie.cn/cc-audio/10/10ba32c4caf83aeed5ff007be4c14338fa4db749.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/77/77685df15e0fc61f0dc022823c755047a3182b08.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -180,6 +274,16 @@
       "像记流水账，只记录了做了什么，没有具体的过程。",
       "丢失关键的起因或结果，导致读者看不清逻辑。"
     ],
-    "tips": "写作前可以先在草稿纸上简单画出‘情节梯’，一段写一个关键动作。"
+    "tips": "写作前可以先在草稿纸上简单画出‘情节梯’，一段写一个关键动作。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/77/77a3c0425688e96e6a5d55cc241df42b1ce4e143.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/d1/d1e2518bb555f881a8aa2ba182fb741173167f28.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/14/14d04644441cfaf1d4c75f86e16bb3e0203fd18e.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ce/ced8cc3a1c7c79a2a9dd6d25f1f728722818b2b3.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/cb/cbefae5187c89296b5b5425802ff9195a84a8fa2.mp3",
+        "https://api.clthuanxie.cn/cc-audio/d3/d30848548e30ec11c3ba00a5f0eee698f9d0d86a.mp3"
+      ]
+    }
   }
 }

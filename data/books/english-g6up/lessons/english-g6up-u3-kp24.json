@@ -23,7 +23,19 @@
         "."
       ],
       "answer": "I,am,going,to,study,.",
-      "explanation": "陈述句主语在前：I + am + going + to + 动词原形。"
+      "explanation": "陈述句主语在前：I + am + going + to + 动词原形。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7caac1e9c59bbf85efcea55cb337010686b1f9ca.mp3",
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/43/4374aaee247fb237ce6c97d5c8d64bbe474d16de.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca73ab65568cd125c2d27a22bbd9e863c10b675d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/885534c19d5f8389b4cc0a7fcd699206bacdbd86.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1a19851920cf9293c5e8bdcf5cd739b1d05c29aa.mp3",
+          null
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/54/5477314a2d238131822e9b153d91fd4ff3340218.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "我们喉咙里的声带振动时，发出了声音。",
       "options": [],
       "answer": "对",
-      "explanation": "人声是由声带振动产生的。"
+      "explanation": "人声是由声带振动产生的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ac/ac38c6ab9b4352896e4f5946937037fb2b14f12e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/53/5327274db77e94a29f3d7b20452a0b9ac43b8d4b.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "声音可以在气体中传播，但不能在液体中传播。",
       "options": [],
       "answer": "错",
-      "explanation": "声音可以在气、液、固三态物质中传播。"
+      "explanation": "声音可以在气、液、固三态物质中传播。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ad/ad6ff23a452333e1c9319d4a7139f296194c0906.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a2/a2289a56d594e483e354fa930aa9688445f7d244.mp3"
+      }
     },
     {
       "id": 4,
@@ -38,7 +46,11 @@
       "question": "钢尺伸出桌面越短，拨动时振动得越快。",
       "options": [],
       "answer": "对",
-      "explanation": "长度短其质量小，易于高频振动。"
+      "explanation": "长度短其质量小，易于高频振动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ed/ed1c135a9f6c8b74f5ac7fcd8616c19393bb30a0.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b1/b1f489575d246f95d3cb8d156f72e1552da0280b.mp3"
+      }
     },
     {
       "id": 5,
@@ -49,7 +61,11 @@
       "question": "物体不振动，也能通过传声介质发出微弱的声音。",
       "options": [],
       "answer": "错",
-      "explanation": "振动是声音产生的根本前提。"
+      "explanation": "振动是声音产生的根本前提。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/94/945cd8e5119391c77447ca39ccc0b1fc1019b89e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ef/ef164ab746fee86853255dce58b9e119c8df4327.mp3"
+      }
     },
     {
       "id": 7,
@@ -65,7 +81,17 @@
         "轻微拨动弦"
       ],
       "answer": "把弦调紧一些",
-      "explanation": "调紧弦能增加张力，提高振动频率，从而升高音调。"
+      "explanation": "调紧弦能增加张力，提高振动频率，从而升高音调。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/dc/dc9ed9b1a8d021b0afd7e3983aa1aa8014f61489.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/32/323ff617bcfb8ba115cf458ddc28c99a978aad74.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f2ab02f6df595a0243e857721e9737c1bd008d4c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8e76f6c5f893f3e633a5b25c60b645882a68ae76.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e2/e277c98e118094d0a3d7b43c3ac3aab546598e6d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7b/7bc71cf5e3c93aa9581970fde7e80ab22067ff2e.mp3"
+      }
     },
     {
       "id": 8,
@@ -81,7 +107,17 @@
         "玻璃罩隔音效果太好"
       ],
       "answer": "声音不能在真空中传播",
-      "explanation": "实验证明声音的传播需要空气等介质。"
+      "explanation": "实验证明声音的传播需要空气等介质。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/18/18be3e676183326f157189c1a364e88a0e59c725.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ab/abe7f9c8cf3b7ca141bc8fa41616d4856b971867.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d3/d3fe9afe5c93f1bb6f46b506429105512113f426.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/173f4144a139375311de2c7cd28325ead42f0ebc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cb/cb5e1bb300ff1268ad1a3ca1b097789435ecc471.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/06/06661ad58d16883950a093e549bca4f6369e540b.mp3"
+      }
     },
     {
       "id": 10,
@@ -97,7 +133,17 @@
         "产生音信号"
       ],
       "answer": "传送声波",
-      "explanation": "外耳道是声波从外部环境进入中耳的通道。"
+      "explanation": "外耳道是声波从外部环境进入中耳的通道。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/d9/d90941d7d410bec8e3b2be9c6b7cb90982a59afb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/05/05d6e977d1543420b420012b211593256fbc4edd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b1/b1da15617c53e6ef8db6daa5d56bf952fe02b296.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d3cb5602cb3da2e2d81eacaa5ec8873fc75148a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a8/a85defc9555f2e279397fe19e292cfe3136d2f62.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ff/ff9b13fd760930c22b73388aa6cbe270680fbdd8.mp3"
+      }
     },
     {
       "id": 11,
@@ -113,7 +159,17 @@
         "不变"
       ],
       "answer": "变高",
-      "explanation": "灌水时发声体是水壶内的空气柱。水越多空气柱越短，振动越快，音调越高。"
+      "explanation": "灌水时发声体是水壶内的空气柱。水越多空气柱越短，振动越快，音调越高。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/026cf943ffdffa4bd84a5736f102529eb017d74b.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/04/04111f1cc9215ae49114db2835819ee82ba99c8e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/3454d779027ed4ad9e1f69c6bba332dbe9e98f02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/883e0b16150ab2d547c0a686bf3b4be5f01a409b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46b24ed86cd0aeb958a3803ce92f73330c1a3ffe.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f1/f127ad7c19ef65be55db90d573fa979aa7554afd.mp3"
+      }
     },
     {
       "id": 13,
@@ -129,7 +185,17 @@
         "透明的"
       ],
       "answer": "固体",
-      "explanation": "声音透过墙壁（固体）传导到另一侧。"
+      "explanation": "声音透过墙壁（固体）传导到另一侧。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/37/37a361d478cae9c3e61db14e3d89ba7153c79f4c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cf/cf17047b4d5434029fda3bcd0f1e30b8ac5f9564.mp3",
+          "https://api.clthuanxie.cn/cc-audio/76/76ebdf68eebccb52fb8e89f8881c034bf088b9c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d2121fbc8cf4f5c01774836ae64111e0113e22c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d2/d25dd8317bdc324fcfe3696f8013ad572afcfe0d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/44/440c71e7889afb1e53befe2dfa266754a8d794ac.mp3"
+      }
     },
     {
       "id": 14,
@@ -145,7 +211,17 @@
         "远近"
       ],
       "answer": "音高",
-      "explanation": "“高音”“低音”指代的是音调的高低。 "
+      "explanation": "“高音”“低音”指代的是音调的高低。 ",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/99/99f854ecd4e7b8a9e7ffc1082b8b6170a48f4b5a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c4/c4301894a290bd434c5b8e12f861428770481d4e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bb6be0a7f941178f932bbabf74a7b14dfa9a18a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/bd/bda11a3c2d4f6c96dfd9c1bcc40a78175e747b4f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/9616756a04e49ae7c976dcf967f7a18f19e3de23.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1c/1c13506c245afa1264cc296e4ec535b83c846b5f.mp3"
+      }
     },
     {
       "id": 16,
@@ -161,7 +237,17 @@
         "只有金属能传"
       ],
       "answer": "能量和传播性",
-      "explanation": "声音产生及传递体现了振动能量的扩散。"
+      "explanation": "声音产生及传递体现了振动能量的扩散。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/58/586e57816c4cc752eca3ba1a7b6c889f0d4e68e3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3b7519c9691384905766252f123a5b8facc16bd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b74976af4dc9076c3309fd9f2dee7784afc7eb2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29c141eb5dcaa8306b53cd38a0728b3d7233f2e7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fcb6316f4e96b3c69d7fa81a63a973a5e195a4a5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6039fbd11ec143010aa88e24050aee336879f16.mp3"
+      }
     },
     {
       "id": 17,
@@ -177,7 +263,17 @@
         "一直呆在迪厅"
       ],
       "answer": "游泳时带上耳塞",
-      "explanation": "耳塞防污水进入外耳道，保护耳膜健康。"
+      "explanation": "耳塞防污水进入外耳道，保护耳膜健康。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5d/5d1e29fa5bab4ee7a38e17369ea8644155a0301c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b3/b3e481ad065bc6667e31c8c952fa672d615fbb85.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8f/8f00f7da8fb48e5d81ea1bf63fe2caa3a4a4be1a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d1/d10c3263b8dede9fa5d20ab213e622d6bbafa1ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a2/a2805771a53867600ae04768f64a89b8be694a7d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/83/8392a866a88b66fe128cd29623ba016f976ca37d.mp3"
+      }
     },
     {
       "id": 19,
@@ -188,7 +284,11 @@
       "question": "人类正常的听觉范围通常在 20 到 （___） 赫兹之间。（填数字）",
       "options": [],
       "answer": "20000",
-      "explanation": "人类能够听到的振动频率范围在20Hz到20000Hz之间。"
+      "explanation": "人类能够听到的振动频率范围在20Hz到20000Hz之间。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2c/2cae03bd466c35cdaa5e5152ba73153f2062cf3b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/85/85e1b7b1b7930be9834631cba04faecfc3b4c423.mp3"
+      }
     },
     {
       "id": 20,
@@ -199,7 +299,11 @@
       "question": "为了保护听力，建议声音环境不要超过（___）分贝。",
       "options": [],
       "answer": "80",
-      "explanation": "长时间超过80-90分贝会损伤听觉器官。"
+      "explanation": "长时间超过80-90分贝会损伤听觉器官。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2b/2bdada446a3bc97223ea6b5549f9c84ce46851a4.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8a/8a75a563b989ee4ff21afbe396af4373accf5ad4.mp3"
+      }
     },
     {
       "id": 22,
@@ -210,7 +314,11 @@
       "question": "声音的三个基本特性包括音调、响度和（___）。",
       "options": [],
       "answer": "音色",
-      "explanation": "音色是由发声体本身的材料和结构决定的特性。"
+      "explanation": "音色是由发声体本身的材料和结构决定的特性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3eb538564a8247538567dc1cc7f384346c318734.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c967efc9e0687b9a31c6672977033d79d5b380f6.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "应纳税额与各种收入的比率叫做税率。",
       "options": [],
       "answer": "对",
-      "explanation": "根据税率定义，应纳税额 = 营业额 × 税率，即税率 = 应纳税额 ÷ 营业额。"
+      "explanation": "根据税率定义，应纳税额 = 营业额 × 税率，即税率 = 应纳税额 ÷ 营业额。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c59d4549502a0f699b6085253663717405a736e.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5f/5fd5e7ab1057dba65cd8a2929ac3b7050a748124.mp3"
+      }
     },
     {
       "id": 9,
@@ -32,7 +36,17 @@
         "3"
       ],
       "answer": "1.5",
-      "explanation": "$30 \\times 5\\% = 30 \\times 0.05 = 1.5$（万元）。"
+      "explanation": "$30 \\times 5\\% = 30 \\times 0.05 = 1.5$（万元）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/af/af22fe5408ac241a8d46916ca18bea5e8e3cdc3c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/aa/aa8f289ebe6d4db1b4a1038b8931ec8c2b5399fb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1abd670358e036c31296e66b3b66c382ac00812.mp3",
+          "https://api.clthuanxie.cn/cc-audio/23/2379ba981a4ac78c66e560dd53d5ab19c9499f3f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/66/66fb5e56511d0a2f3e238dfdeed34ff9daa5b05b.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "3"
       ],
       "answer": "30",
-      "explanation": "超过部分为 $6000 - 5000 = 1000$ 元，$1000 \\times 3\\% = 30$ 元。"
+      "explanation": "超过部分为 $6000 - 5000 = 1000$ 元，$1000 \\times 3\\% = 30$ 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/23/231326c4a7469ef5bb7ab9140a8a6e4c4dc1e8c1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/ec/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/13/13682ac418603aa0966369d46bbf282f562acf47.mp3",
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/77de68daecd823babbb58edb1c8e14d7106e83bb.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e9/e959ff4c3a43db39ff2cb647a22d080579f701fd.mp3"
+      }
     },
     {
       "id": 23,
@@ -59,7 +83,11 @@
       "question": "计算：$4000 \\times 5\\% = ?$",
       "options": [],
       "answer": "200",
-      "explanation": "$4000 \\times 0.05 = 200$。验算：$200 \\div 0.05 = 4000$ ✓。"
+      "explanation": "$4000 \\times 0.05 = 200$。验算：$200 \\div 0.05 = 4000$ ✓。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5b/5ba99422d3aa02396f71540a06ad379c4ada6939.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/48/4895ec4de2ff882ce984381bbfb0a14052fc6163.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "混淆税率和应纳税额，计算时放错位置",
       "计算个人所得税时未减去起征点（免税额）"
     ],
-    "tips": "税率计算就是一个求一个数的百分之几是多少的应用题，关键是对应好数据。"
+    "tips": "税率计算就是一个求一个数的百分之几是多少的应用题，关键是对应好数据。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/d8/d83de90b423df6fb91db1e363013dc5c293fd2e3.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/1a/1a44292c8b68738b47752d151fa2fa7d6d119df0.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9b/9b18d51c1772a96c80d3798228c3eacfed844829.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/99/999ff14a66e32aa154be1835dd0e6487bedb5420.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d1/d106b1cdecb4f96dd991f33b8772575828110870.mp3",
+        "https://api.clthuanxie.cn/cc-audio/09/09fc6e873eb309373358bbb9ddf73910aedbcf24.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "trip"
       ],
       "answer": "postcard",
-      "explanation": "寄送明信片(postcard)是常见表达。"
+      "explanation": "寄送明信片(postcard)是常见表达。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/3e/3e5dd30acd7785f0d68f796cebc4277abb6d1df5.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/1a/1a5a9cecabd7476b9d2cfe2d0204968a9bce3861.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2f/2f3f8964eb7e3c1330e9406ab3e3e26aac496345.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f18bfb74e613afb11f36bdd80cf05cd5dfad98d6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fdd91fbac0e5654a70026a229cc8a5d869157b24.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e5/e55d88d300fd7c89cdd44d77951d6186397479ba.mp3"
+      }
     }
   ],
   "knowledge": null

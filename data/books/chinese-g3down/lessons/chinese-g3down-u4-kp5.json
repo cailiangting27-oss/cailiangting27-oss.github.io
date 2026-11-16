@@ -21,7 +21,17 @@
         "傍晚六点"
       ],
       "answer": "中午十二点左右",
-      "explanation": "课文描述午时花在中午十二点左右开花。"
+      "explanation": "课文描述午时花在中午十二点左右开花。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/c7/c76d5d4eb1f1ec8513701410f79fb0b0e914839d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/0d/0d753a2cccae8998cc6ae1c15f074cff3ef0a852.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6c/6c6f231aff6e569a366ad7f0a2b3ff5d72fcec6d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2b/2ba397ac751e0cac27789e409d7c4404a9d927c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ef/eff13d75ea8b56f4e6f3bb786b6239185ad15d44.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4e/4e2a10038ff3dc8e0a3374b0f370049adb34c7d8.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "Wait! These are ______ (我的短裤).",
       "options": [],
       "answer": "my shorts",
-      "explanation": "shorts是短裤，my是有主关系。"
+      "explanation": "shorts是短裤，my是有主关系。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/97/97314d839d8d4f35a0a038e470887f89fef796ce.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/fb/fb8646d494795391ed8ca3fb612c89811ec413b9.mp3"
+      }
     }
   ],
   "knowledge": null

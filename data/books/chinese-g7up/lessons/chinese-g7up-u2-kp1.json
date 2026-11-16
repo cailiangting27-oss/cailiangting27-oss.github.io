@@ -21,7 +21,15 @@
         "象征"
       ],
       "answer": "象征",
-      "explanation": "象征是表现手法。"
+      "explanation": "象征是表现手法。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f8095ed829cbdd43ff03209e2590491e02d56f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af2f709edb1699008b0015294973c1db7af52339.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d7/d7c53a0e123a05cea187c233b0829222aaf727aa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/1516c5ac3645eafe5efa5a045afe1480dc1bff2e.mp3"
+        ]
+      }
     },
     {
       "id": 2,
@@ -37,7 +45,15 @@
         "举例子"
       ],
       "answer": "列数字",
-      "explanation": "用具体数字说明。"
+      "explanation": "用具体数字说明。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/af/af2f709edb1699008b0015294973c1db7af52339.mp3",
+          "https://api.clthuanxie.cn/cc-audio/24/241d9edaf6a343a8009472eac44e6904a1ad4e2b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c6/c60628da601881e2a05ad57267f0422234c844f1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f1/f1f8095ed829cbdd43ff03209e2590491e02d56f.mp3"
+        ]
+      }
     },
     {
       "id": 3,

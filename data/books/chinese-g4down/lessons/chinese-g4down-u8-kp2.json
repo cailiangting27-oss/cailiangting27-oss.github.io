@@ -21,7 +21,17 @@
         "保护"
       ],
       "answer": "慰藉",
-      "explanation": "“慰藉”比“安慰”更有抚慰心理、寻找寄托的色彩，符合幻想情境。"
+      "explanation": "“慰藉”比“安慰”更有抚慰心理、寻找寄托的色彩，符合幻想情境。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f9/f9973e7cc45e99c63834c990d0fea581f9711dbd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/61/618b603dbfca8e02fa558a79d5c63e36091c5963.mp3",
+          "https://api.clthuanxie.cn/cc-audio/69/6985bf6c57ab84f1c15c51969291ac6e3b0d0e03.mp3",
+          "https://api.clthuanxie.cn/cc-audio/6d/6dca43095a565f4d38c80ccfd62f9b6320647228.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a9/a9eafe7f6f092d5577a982aae05e2a6f2e3f6eb5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/15/15409b65270be75c5c5078e091a01e79c8f21ef3.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -32,6 +42,16 @@
       "混淆口语词与书面语词的使用场景",
       "不区分感情褒贬而随意替换"
     ],
-    "tips": "记词时不仅要记意思，还要记它常跟哪个词“搭伙”出现。"
+    "tips": "记词时不仅要记意思，还要记它常跟哪个词“搭伙”出现。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/cb/cb887a7ecab5181d69a8f3e741308976ab611af6.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/fd/fda4cfbbe144343de7f4282a14b3bf0f6b1fdcc6.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f6/f6b9acb4d91ccae6b03fcf4965d96fc725b0edb7.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5a2342be4469ece3c73bb6f172d5d6f507e9a92c.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/f9/f941890e11c323595afecb10da834e0c9a802449.mp3",
+        "https://api.clthuanxie.cn/cc-audio/07/0734d8e9960db1a981e42ba1bfdfc3c726a927dd.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "Is it a bag?"
       ],
       "answer": "Where is my bag?",
-      "explanation": "寻找物品的疑问句式为Where is...?"
+      "explanation": "寻找物品的疑问句式为Where is...?",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/69/69d2368e3548bc328086aefc21337507374d6dcb.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/62/62db2fbe0d74a136cf7733cecd5b24506d3ec6c7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1e8b73714262c04144cf85e35a1047e504d49b52.mp3",
+          "https://api.clthuanxie.cn/cc-audio/42/4214d94e2f0207400b9dd8856441c95c967a768e.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a4/a4d04a38464fba3019b1949ab9b5b1a7d16709ea.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a3/a3061f34b34ebaf89ab306c53b1df5bdacc727b4.mp3"
+      }
     }
   ],
   "knowledge": null

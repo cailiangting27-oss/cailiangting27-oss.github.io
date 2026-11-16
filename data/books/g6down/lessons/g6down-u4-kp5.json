@@ -16,7 +16,11 @@
       "question": "加工零件总数一定，工作效率和工作时间成反比例。",
       "options": [],
       "answer": "对",
-      "explanation": "工作效率 $\times$ 工作时间 = 工作总量（一定）。乘积一定，成反比例。"
+      "explanation": "工作效率 $\times$ 工作时间 = 工作总量（一定）。乘积一定，成反比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/6705dda1033d94f4cb4c16dfece882f397f69c25.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f6/f68681a2d245f37178449fff27641ab5ff0c44b9.mp3"
+      }
     },
     {
       "id": 13,
@@ -32,7 +36,17 @@
         "120"
       ],
       "answer": "40",
-      "explanation": "单价一定，总价与数量成正比例。$12:3 = x:10$，解得 $x = 40$。验算：每本 $12 \times 3 = 4$ 元，$4 \times 10 = 40$ 元。"
+      "explanation": "单价一定，总价与数量成正比例。$12:3 = x:10$，解得 $x = 40$。验算：每本 $12 \times 3 = 4$ 元，$4 \times 10 = 40$ 元。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/91/915b613c13b2f204e8983963c16d628d96b481f3.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/22/22d200f8670dbdb3e253a90eee5098477c95c23d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fc/fc074d501302eb2b93e2554793fcaf50b3bf7291.mp3",
+          "https://api.clthuanxie.cn/cc-audio/af/af3e133428b9e25c55bc59fe534248e6a0c0f17b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/77/775bc5c30e27f0e562115d136e7f7edbd3cead89.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/df/df8b13dd9316e3a635b1cbd0e8d2bdda2ffc35d2.mp3"
+      }
     },
     {
       "id": 14,
@@ -48,7 +62,17 @@
         "800"
       ],
       "answer": "900",
-      "explanation": "面积一定成反比例。$3^2 \times 400 = 2^2 \times x$，即 $9 \times 400 = 4x$，$x = 900$。"
+      "explanation": "面积一定成反比例。$3^2 \times 400 = 2^2 \times x$，即 $9 \times 400 = 4x$，$x = 900$。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/029ab96ae5fb745623873ee08e891f1557a125d8.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/15/15aa0c7e8fbd2923db7041d012e8838d66b9572d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/28/28cc2209b234d9183848f1c6a8ff13e0311057b9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9f/9f9af029585ba014e07cd3910ca976cf56160616.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/290a52e4dd6282ca78bedde4f4d85b44e532cf99.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9f/9f1a2131698c0ef973edc3e8742ccbf2d64470fa.mp3"
+      }
     },
     {
       "id": 15,
@@ -64,7 +88,17 @@
         "无法确定"
       ],
       "answer": "反比例",
-      "explanation": "路程 = 速度 $\times$ 时间。路程一定，速度与时间成反比例。"
+      "explanation": "路程 = 速度 $\times$ 时间。路程一定，速度与时间成反比例。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e6683fcfe923681fd2d6da1ee5b2230e82a3a4e4.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/902f36fcbb5b74ae09c57d8ce60c588efebc6d93.mp3",
+          "https://api.clthuanxie.cn/cc-audio/96/967bff830f41b434e6dd2aecb1a10a35939b0190.mp3",
+          "https://api.clthuanxie.cn/cc-audio/17/1718749ae1b0f1efac6bf509d5b23b96b55d52f3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/37/37fe332de3d9e2a2d9f701147196667720933261.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -75,6 +109,16 @@
       "选错比例类型（把反比例题按正比例做）",
       "列比例式时对应位置放错"
     ],
-    "tips": "做题三步走：一判（判断正反比）、二列（列出比例方程）、三解（求出未知数）。"
+    "tips": "做题三步走：一判（判断正反比）、二列（列出比例方程）、三解（求出未知数）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/7f/7f4476ac572d6d0c67304ab1594289ffd7ba7c8e.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/4f/4faa5dba8bb343e86f577aaaa12d09e2dec760ab.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/d7/d71970756876b9ae768a24aae570bc6dabde4595.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/d9/d9e7f8ba51ca74a20006b8969fa5019e1a80ffec.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/dc/dc7cc28e9a897e79d4b7c60d24ec95f34587dbe8.mp3",
+        "https://api.clthuanxie.cn/cc-audio/29/29e62b9d492a61efd3f45d96d887f8dd61fcdd45.mp3"
+      ]
+    }
   }
 }

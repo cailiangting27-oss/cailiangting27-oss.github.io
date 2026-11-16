@@ -16,7 +16,11 @@
       "question": "鸡蛋内部的蛋黄将来发育成小鸡，而蛋白为胚胎发育提供营养和水分。",
       "options": [],
       "answer": "错",
-      "explanation": "蛋黄上有一个小白点叫胚盘，胚盘才发育成小鸡，蛋黄和蛋白提供营养。"
+      "explanation": "蛋黄上有一个小白点叫胚盘，胚盘才发育成小鸡，蛋黄和蛋白提供营养。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/60/60185da9502a2193155dfee4a722ab42f4ec8ec5.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/99/99e8208377b4842d795262ddb29da01bbc7b562e.mp3"
+      }
     },
     {
       "id": 6,
@@ -32,7 +36,17 @@
         "乌龟"
       ],
       "answer": "青蛙",
-      "explanation": "青蛙产在水里的卵是软的，没有硬壳保护。"
+      "explanation": "青蛙产在水里的卵是软的，没有硬壳保护。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/53/539f32e48438e973263c50eac7022dd3b5b45920.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/76/76cdb81bb9cc61afc7a841fade3106bea234f3e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51093a2d5833ecc0e47ba254e6a44877e2dc20b1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67bcd6875b71e391c3cc9268c8a6857129b7a8ed.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ae/ae42e755c948bc1776980fa4eff9c236bacd95b4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/86/868b31105bc4f0705666c627bcd2fb04d6a86a72.mp3"
+      }
     },
     {
       "id": 7,
@@ -48,7 +62,17 @@
         "空间"
       ],
       "answer": "空气",
-      "explanation": "气室储存空气供胚胎呼吸。"
+      "explanation": "气室储存空气供胚胎呼吸。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/77/7735beb42695d38c38acec33c0233654a8779e00.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/5d/5d72588a6ce39934428dcf325ee43107648c3718.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/516d3a32de9c621c07611c701aa7c6117d7e7817.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1e/1ee47403a457c865620ecab6c75b1ad7d9eaf92f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/8672661af62009491b381ec29d8f654e9af204b1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/6d/6dae922bb93c915653dbe6fd36ca43e4314548c8.mp3"
+      }
     },
     {
       "id": 14,
@@ -64,7 +88,17 @@
         "没有什么用"
       ],
       "answer": "透气",
-      "explanation": "蛋壳上的气孔保证胚胎与外界进行气体交换。"
+      "explanation": "蛋壳上的气孔保证胚胎与外界进行气体交换。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/39/39182548db55766477cd435259be1266d1879349.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f4/f4f4b17ae1d6fcf9e71534b22c70097a0ff319bb.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7ac8380fcf7cefa5168f1656c5adc473c00763e6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/4e/4ee3edd297a7b4b74f90332c4964720143bff978.mp3",
+          "https://api.clthuanxie.cn/cc-audio/58/582e97422ec1e7078e3234ef20d54d350c0f9878.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/0e/0ea837d888793bfb166fee098373d9ca1b16efee.mp3"
+      }
     }
   ],
   "knowledge": null

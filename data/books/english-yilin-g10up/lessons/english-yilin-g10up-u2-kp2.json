@@ -21,7 +21,15 @@
         "get up"
       ],
       "answer": "take part in",
-      "explanation": "take part in 参加。"
+      "explanation": "take part in 参加。",
+      "audio": {
+        "options": [
+          null,
+          "https://api.clthuanxie.cn/cc-audio/6d/6d490228d3ab2c890e7b18bede69b98cf66c9ac6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f44922b0d7b8b49361752e5791c28afb530a2ca6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3f/3f2d515e5af85306ababa38cd3ed56008f949ac8.mp3"
+        ]
+      }
     },
     {
       "id": 4,

@@ -16,7 +16,11 @@
       "question": "《山居秋暝》中“竹喧归浣女”一句属于动态描写。",
       "options": [],
       "answer": "对",
-      "explanation": "竹林里传来洗衣女归来的喧闹声，属于声音的动态描写。"
+      "explanation": "竹林里传来洗衣女归来的喧闹声，属于声音的动态描写。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/76/764c8105795f0968fb3c6c7f209f01138ccca1ec.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/e1/e143039de09cee6af5b3c0bef8594086d4ecdf99.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“清泉石上流”通过“流”字生动地展现了泉水的动态美。",
       "options": [],
       "answer": "对",
-      "explanation": "“流”字刻画了泉水流动的状态，属于动景。"
+      "explanation": "“流”字刻画了泉水流动的状态，属于动景。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6256ae03c46a501ff57e5f84268dd409b0c433e1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a6/a6fbea33da79d36d3f0c616582dc3ea47d5e8781.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "反问"
       ],
       "answer": "拟人",
-      "explanation": "“露出头”赋予了月亮人的动作，使静态的景观动态化。"
+      "explanation": "“露出头”赋予了月亮人的动作，使静态的景观动态化。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/1d/1df101d63ff0028c0258e65ff6d0e5e068a3cb95.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/73/73f520d9a1fffcf8eb81d945fca3cd2715921a50.mp3",
+          "https://api.clthuanxie.cn/cc-audio/86/86485979096949656e745f85f8e53a781ffc90c0.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7758e2a861cb519fac716d4230ac424134c621c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/20/20567778ef7ccb0cdf8a8370f43967fef51263b9.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d7/d78f719cec8ea3f511145f3f06e76a9fefea7a1e.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "大火熊熊燃烧"
       ],
       "answer": "月出惊山鸟，时鸣春涧中",
-      "explanation": "通过鸟鸣声反衬山间的幽静。"
+      "explanation": "通过鸟鸣声反衬山间的幽静。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ea/eacd08bab7e8a07cf2627824627dfa7557a5af7d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/2b/2bc9d41474ecec81695e19999194a0e3ee560b8a.mp3",
+          "https://api.clthuanxie.cn/cc-audio/39/3931e5cadd9b893232701e27dddda3c42d82704b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b3/b36921efd8c520830be74ba9c38f8a4d80206a35.mp3",
+          "https://api.clthuanxie.cn/cc-audio/65/65e14eee7ed313c3ff23cb774bbab272fe85e24d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/dd/dd0e8484dfb2e5d7d00950965698d1b9eadd4f01.mp3"
+      }
     },
     {
       "id": 12,
@@ -75,7 +103,17 @@
         "先动后静"
       ],
       "answer": "先静后动，动静结合",
-      "explanation": "“月照”为静，“泉流”为动。"
+      "explanation": "“月照”为静，“泉流”为动。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fedc76136b488e6ec523d7d83f080cb6b5c8b95.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/38/38c36e3c5e6b3530d193a45c65e75b86bc1b507c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/88/886a128203da105a1419a35f813f54e367cf61a6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ab/abcbf03013b3627dd12f80eac706b073e00dae45.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c583875ad99c6cc97d21669b4281087d6b7809e2.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a7/a776d0053bcc8f3966cea058b8703053ee22ea93.mp3"
+      }
     },
     {
       "id": 14,
@@ -91,7 +129,17 @@
         "细节描写"
       ],
       "answer": "静态描写",
-      "explanation": "这是对榕树颜色静态的刻画。"
+      "explanation": "这是对榕树颜色静态的刻画。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/0d/0d146d4caf95995d89c4f2c62e94001eb48f28e9.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/23/2349b821efdd031bb741318598f69d1181eecc78.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3a/3a4c55c6a28d25b86ec4343e5db5b329e972457c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5d/5d58e880008605112ebf9bfa71bf7454831a80c2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d05f33b134eb8150fc4ad4e8be77e3915d59dfa.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cc/cc8c54a2fdde46a0c650f35dd28ccb7646a2974c.mp3"
+      }
     },
     {
       "id": 18,
@@ -102,7 +150,11 @@
       "question": "描写景物时，既描绘静态画面又描写形态变化，这种方法叫（___）结合。",
       "options": [],
       "answer": "动静",
-      "explanation": "动静结合是本单元核心表达策略。"
+      "explanation": "动静结合是本单元核心表达策略。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/347782495d5cd395c1c09579eb012c88f7e66be8.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/42/42a3cb4fc4b10b43b61f6a616705402830fd046a.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -113,6 +165,16 @@
       "分不清什么是‘动态描写’（容易把描述颜色的形容词误认为是动的）",
       "在写作中只会罗列静物，缺乏让画面‘活’起来的动作描写"
     ],
-    "tips": "观察时可以先定格画面拍一张‘照片’（静态），再观察其中的风吹、草动、鸟鸣（动态）。"
+    "tips": "观察时可以先定格画面拍一张‘照片’（静态），再观察其中的风吹、草动、鸟鸣（动态）。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/66/667b4a210c1b764c2191494624a5e0dfdf8bec16.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/ed/ed13cc6a2e467c66d290203fe446cbf33a6c0f37.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9b/9b2283ace116010558eb3acb36322b18675610a3.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ed/ed7e6ed67bc24722fb8e5b68f46dc27953a28400.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/37/372a6554e7451763464c38635322fe31dbd86328.mp3",
+        "https://api.clthuanxie.cn/cc-audio/47/4757d49558ee2804b7873357175a5bccaff8e01d.mp3"
+      ]
+    }
   }
 }

@@ -21,7 +21,17 @@
         "ruler"
       ],
       "answer": "storybook",
-      "explanation": "故事书（storybook）里包含图画和故事。"
+      "explanation": "故事书（storybook）里包含图画和故事。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/de/de6ac887e1bfbbc7de69711a13de29cbe9fe52ee.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/cd/cd3d228328704dc7a1ecce5b55d0f45955c384ac.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b2/b242e7ba704668d059ba0143d671ee7aa3e39612.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8437193862b78daa12ee0660971b8b868a1e776.mp3",
+          "https://api.clthuanxie.cn/cc-audio/5f/5f55d09a513223a333b9ad3f05de98b03d5e262b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d5/d5de92f5ad6f22d016f85b6c23e0f10057e92a5f.mp3"
+      }
     }
   ],
   "knowledge": null

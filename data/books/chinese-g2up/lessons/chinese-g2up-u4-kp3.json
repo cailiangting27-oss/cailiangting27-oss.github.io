@@ -16,7 +16,11 @@
       "question": "写留言条时，自己的名字应该写在内容的开头部分。",
       "options": [],
       "answer": "错",
-      "explanation": "自己的名字（署名）应该写在右下角，不能写在开头。"
+      "explanation": "自己的名字（署名）应该写在右下角，不能写在开头。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7c/7c6ebd077ede9332cf5760b10f8fb54714afe6d1.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c305092a8f15e527e595dbcceb91fa79cbe6058.mp3"
+      }
     },
     {
       "id": 12,
@@ -32,7 +36,17 @@
         "留言条"
       ],
       "answer": "留言条",
-      "explanation": "留言条用于人不在家或不方便面谈时留下信息。"
+      "explanation": "留言条用于人不在家或不方便面谈时留下信息。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fc/fca6c2576d6f435c0aa01ece3c386503b5751437.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/bf/bf50d671381d2c434c36887c0fcad60947e6b4f5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1f/1fe9fd7f5c7f59f19319e4c594580fafac21f111.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7a/7a66c0d0363156136f2bb94180578ee9a567b66d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/e9/e945459fa882545c7ac7976ac2fed81eda2b6da0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/02/021800efd306f0b36a9e8c3475facdb2821a6a3e.mp3"
+      }
     },
     {
       "id": 15,
@@ -48,7 +62,17 @@
         "标题中间"
       ],
       "answer": "署名的正下方",
-      "explanation": "按照规范，日期写在名字下面，都在右下角。"
+      "explanation": "按照规范，日期写在名字下面，都在右下角。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9b/9b380f27c615f31bfeca07f57cf6cc57f02ca47f.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/56/560d08139421355c6c9d0f7dbbcfab818dd483b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/75/750a17a34678b5e313e925ed6765b660e7d21230.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b7/b7eaa64c567dc7890180cff2e9f1f91a050af09b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b5/b5f41ce41667f628147fe0d9d331cd9475ee19e8.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2f/2fb31ee3dda2f7f8d1588886fcf875944a78fc84.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "署名和日期的位置写反，或者姓名写在最前面",
       "忘记交待重要的时间或地点，导致信息无效"
     ],
-    "tips": "牢记“谁留的、留给谁、什么事、哪天留”四个核心要素即可不出错。"
+    "tips": "牢记“谁留的、留给谁、什么事、哪天留”四个核心要素即可不出错。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/1d/1de8951305faae78c3163672a688399097872ead.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/db/db157734b1eb6907285a32b38a01df1b5a5d041a.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/f0/f0f0fdeacac7a81c0ce86862dc105f79d01e9f51.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/29/29315561e45f0ee2d17dc1cc92321b949628879a.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/0f/0fbc5ee8265adae307d97351ffb642ef79ba4ab6.mp3",
+        "https://api.clthuanxie.cn/cc-audio/33/33430e4f8be8467889661cbdc459c79d22d81c9d.mp3"
+      ]
+    }
   }
 }

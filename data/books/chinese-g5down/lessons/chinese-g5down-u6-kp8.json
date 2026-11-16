@@ -21,7 +21,17 @@
         "吓虎"
       ],
       "answer": "赏赐",
-      "explanation": "矛循应为矛盾，船桅是对的，吓虎应为吓唬。"
+      "explanation": "矛循应为矛盾，船桅是对的，吓虎应为吓唬。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/00/00c17c34790f006bcbd2e81c2bb2cd6f8b26de86.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/54/5464f1d8624e0200703deffa6a660e5b086893b6.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9a/9acde40a1a1a387359c53c3263e547442d1530e2.mp3",
+          "https://api.clthuanxie.cn/cc-audio/cd/cdd1e8897786ae0823c2a17069a22343088c276d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c5/c52821ffe832f307d64ab730525b10e6782a376d.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/c9/c9815f32d280b7d01fa1348542aaf317287ced28.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -16,7 +16,11 @@
       "question": "海底世界是寂静无声的，没有任何声音。",
       "options": [],
       "answer": "错",
-      "explanation": "课文提到海底有各种动物发出的窃窃私语声。"
+      "explanation": "课文提到海底有各种动物发出的窃窃私语声。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/88/88edb29ad1824227670a9e89cb02428a77fee856.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/8e/8e52d6a58aa1f459900fec67266a3d0665a5cf9e.mp3"
+      }
     }
   ],
   "knowledge": null

@@ -21,7 +21,17 @@
         "无法判断"
       ],
       "answer": "从热水传向冰块",
-      "explanation": "热量从高温物体（热水）传向低温物体（冰块）。"
+      "explanation": "热量从高温物体（热水）传向低温物体（冰块）。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e6/e606afb88f3b94abecb01315df9139f2d6b096e7.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/49/495b484f2991e0534e449163c7fe0e858c0fd487.mp3",
+          "https://api.clthuanxie.cn/cc-audio/43/432f154186f24f2f41811f9f63790d701c83d02d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/2d/2df0a8de96e5248eca6d0baa01046dffd8587ae1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/b9/b9ef74ca6dab44744703d6268939592ba582953b.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5e/5e9a0df8209138e1157f99bc3391683c5b526d26.mp3"
+      }
     }
   ],
   "knowledge": null

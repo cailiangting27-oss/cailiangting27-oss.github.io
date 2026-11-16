@@ -16,7 +16,11 @@
       "question": "经常锻炼身体可以增强心脏的功能。",
       "options": [],
       "answer": "对",
-      "explanation": "强健的心脏每次搏动泵出的血液更多，有利于身体健康。"
+      "explanation": "强健的心脏每次搏动泵出的血液更多，有利于身体健康。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a10a2fe5bb529b7d2e22319c1c134c66f4e9fe4b.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/ac/ac6407129bef4bccb2876e715316a1e702a8ee65.mp3"
+      }
     },
     {
       "id": 7,
@@ -32,7 +36,17 @@
         "骨骼"
       ],
       "answer": "心脏",
-      "explanation": "心脏泵出的血液在全身流动，负责物质的输送。"
+      "explanation": "心脏泵出的血液在全身流动，负责物质的输送。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/44/44f31fd4be4d70dc8baa1f625232ed6a65400fbf.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/99/99fc575d7c945f07023a95217af339f79eb00ad7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/6015a44b79f94197c4b3db6be42e8a00b5e3697b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/ca/ca8c2f79bfbc75825af2ed485bca4a16ce329284.mp3",
+          "https://api.clthuanxie.cn/cc-audio/64/64a6abed212bc3b1d4af2bc54aa47b7f52778cd4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/71/71656d1cb9a988f4762f4939a6a73bf706b28a11.mp3"
+      }
     },
     {
       "id": 10,
@@ -48,7 +62,17 @@
         "两者没有关系"
       ],
       "answer": "它们通常是一致的",
-      "explanation": "每一轮心脏收缩引起的大血管搏动即为脉搏。"
+      "explanation": "每一轮心脏收缩引起的大血管搏动即为脉搏。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/6f/6fba8e6d96690f92c20f9bb4634bae467ac7542a.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a6/a667f3a06229b5415ecdabf6524e049a798bd6c3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/78/78cde4df09eed8734476682334d4009690b3b794.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/676deca1aaca247141be8e4ec7f441304671497b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0d/0dd156f5006871265e016b9e5f282ef44a296abd.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/25/253df6a080646f414e6ab6547a44914f046dd168.mp3"
+      }
     },
     {
       "id": 16,
@@ -64,7 +88,17 @@
         "睡觉时心率最快"
       ],
       "answer": "运动时心率会加快",
-      "explanation": "运动需要更多氧气，心脏会加速跳动以提高供血量。"
+      "explanation": "运动需要更多氧气，心脏会加速跳动以提高供血量。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/8c/8c01f1b1c33e08dc2eddc723608e54819ea59d30.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f8/f89a24f86e5b657655121cb509c995eab3579c00.mp3",
+          "https://api.clthuanxie.cn/cc-audio/51/51411f03bd1433d9e3e9445c7f76870b1915c225.mp3",
+          "https://api.clthuanxie.cn/cc-audio/38/3898b8663d7b0ca862fd1f21f42dee98fcd74711.mp3",
+          "https://api.clthuanxie.cn/cc-audio/9c/9c40146599f50f5c51a2b34484ced9de8d06ecd1.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/11/111b8b5d00497dcd09ee2ad69bd07f19645ae963.mp3"
+      }
     },
     {
       "id": 19,
@@ -75,7 +109,11 @@
       "question": "若心脏每分钟跳动75次，每搏输出量为80毫升，则该人每分钟输出量为（___）毫升。",
       "options": [],
       "answer": "6000",
-      "explanation": "75乘以80等于6000。"
+      "explanation": "75乘以80等于6000。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/2f/2f5f7ddff2a6f3a2b720e346e124577da4d3f716.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1f/1f09d7d2025525ebac33a2eb630ef7e410efaab3.mp3"
+      }
     },
     {
       "id": 22,
@@ -86,7 +124,11 @@
       "question": "人体内唯一一个像“泵”一样工作的器官是（___）。",
       "options": [],
       "answer": "心脏",
-      "explanation": "心脏通过收缩和舒张推动血液循环。"
+      "explanation": "心脏通过收缩和舒张推动血液循环。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/43/432cc3eafc6bb85c8d83e07543f97037dabf3781.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/52/5208ba79cc1eea539514885cbdcd40f215166dc9.mp3"
+      }
     }
   ],
   "knowledge": null

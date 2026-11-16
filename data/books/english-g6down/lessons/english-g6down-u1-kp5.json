@@ -16,7 +16,11 @@
       "question": "'kilogram' 翻译成中文是 '千克/公斤'。",
       "options": [],
       "answer": "对",
-      "explanation": "kilogram是质量单位千克。"
+      "explanation": "kilogram是质量单位千克。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e1/e176ab7e74440c313b4e38658cb6244333681386.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/57/5719ef3d6844339e73cc7dcec04377afa8581def.mp3"
+      }
     }
   ],
   "knowledge": null

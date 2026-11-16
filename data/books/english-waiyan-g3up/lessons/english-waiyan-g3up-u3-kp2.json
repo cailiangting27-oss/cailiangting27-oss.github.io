@@ -21,7 +21,17 @@
         "naugthy"
       ],
       "answer": "naughty",
-      "explanation": "naughty = 淘气的。"
+      "explanation": "naughty = 淘气的。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/34/342ab10df7975cfa917962fbadf850b4a6407f72.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/d5/d52d2540417af7940f01837b9a706a4341e92557.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fa/fa2b8b16f5eb3637f100686f8ef7c010be6a50e3.mp3",
+          "https://api.clthuanxie.cn/cc-audio/67/67d34e575c07ac0d6b7cf83e10099114712f4590.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7f/7fa5dc8962ad40501c9a45c61b57b6da60cc78de.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/91/913f28a4fd5cb686c2e32b225c5b4141333d0dbb.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -31,6 +41,15 @@
     "common_mistakes": [
       "duck 复数写成 duckes。"
     ],
-    "tips": "一般名词直接加 -s。"
+    "tips": "一般名词直接加 -s。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/53/5303bc0732c33180744a83a0bb87ce2da6fa6e14.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/14/14c70917a5c61c0f68034c7485555ded182c5bd7.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/9b/9b05765378c7ed0722958c86e3aae567688d1696.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/94/945d2e4cf312bde101dfe128ae9eea00afc0a322.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/a9/a9715530924ebb5d524a5c95a05e5adafafba905.mp3"
+      ]
+    }
   }
 }

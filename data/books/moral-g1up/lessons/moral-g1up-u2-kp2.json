@@ -21,7 +21,17 @@
         "大声放音乐"
       ],
       "answer": "给她倒杯水、捶捶背",
-      "explanation": "用实际行动关心家人。"
+      "explanation": "用实际行动关心家人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/9d/9dc08e03dc4eb133e514a1fbd20d6d8170cab355.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/94/94d2db0e0bc360f7bedb83bde20bc7fcd9f0ab28.mp3",
+          "https://api.clthuanxie.cn/cc-audio/1a/1aa6be2a5ae32b3e584702dce7f5b790c351fb14.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0f/0fa9cc13fac517f99c86815dd2ad95c5e2aa7633.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f4/f4d70d0f9e5b0894f6e26c4dc87c7c6990cf541f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/a5/a5943fbc4b040a4880a07c26ed81f5fe1fbb02be.mp3"
+      }
     },
     {
       "id": 4,
@@ -32,7 +42,11 @@
       "question": "家人的爱是无私的，我们要懂得感恩。",
       "options": [],
       "answer": "对",
-      "explanation": "要感恩家人。"
+      "explanation": "要感恩家人。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7f/7fa54c1c3c17f1b8e0acc84b38b26133e341f67a.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/81/8128c52b467dc6c06e5b7a0da742c8821465dfb1.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -42,6 +56,15 @@
     "common_mistakes": [
       "认为家人的照顾是理所当然。"
     ],
-    "tips": "爱要用行动表达。"
+    "tips": "爱要用行动表达。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/59/595448bea7a319acaa2987e8ea53b4280315fd75.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/5f/5ffb7eae2a29aa395e0804c63bc3a41705593e01.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/3f/3f1e571b418c41ca7d10e0ec3ad1ed43daff69d1.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/df/df19d1cf2dc6d5d00ec21e0bec51be9d6c1d6588.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/32/32b502970e92ae1e8bf65c1bbdb7480cf668b4c8.mp3"
+      ]
+    }
   }
 }

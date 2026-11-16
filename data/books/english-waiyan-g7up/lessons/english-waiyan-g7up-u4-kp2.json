@@ -21,7 +21,15 @@
         "much"
       ],
       "answer": "any",
-      "explanation": "疑问否定用 any。"
+      "explanation": "疑问否定用 any。",
+      "audio": {
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/c5/c5fe0200d1c7a5139bd18fd22268c4ca8bf45e90.mp3",
+          "https://api.clthuanxie.cn/cc-audio/eb/eb875812858d27b22cb2b75f992dffadc1b05c66.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f2/f25470201a131e127feab62862c4c9a8b033b071.mp3",
+          "https://api.clthuanxie.cn/cc-audio/7d/7d3f44729dc243885887b8da8c810ddd4154864f.mp3"
+        ]
+      }
     }
   ],
   "knowledge": {

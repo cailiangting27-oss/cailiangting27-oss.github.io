@@ -16,7 +16,11 @@
       "question": "一组数据的平均数代表了这组数据的平均水平，它不容易受极端值的影响。",
       "options": [],
       "answer": "错",
-      "explanation": "平均数非常容易受到极端值的影响，中位数才是较稳定的代表。"
+      "explanation": "平均数非常容易受到极端值的影响，中位数才是较稳定的代表。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/f8/f83b486bbe32bc46b7772a37929d03ee10fdb89c.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5d/5d066754c2d55a121b00db729ae4291defb25a6c.mp3"
+      }
     },
     {
       "id": 8,
@@ -32,7 +36,17 @@
         "统计表"
       ],
       "answer": "折线统计图",
-      "explanation": "折线统计图最擅长表现数量的增减变化趋势。"
+      "explanation": "折线统计图最擅长表现数量的增减变化趋势。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e3/e391264668bebaa107f8b2c9b04dd4b8c7d8bdbd.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9c/9c5193171a80eabb70473438ca91a38c92ae2866.mp3",
+          "https://api.clthuanxie.cn/cc-audio/c2/c2482f2ba5ef02cca86563793970ff87ae7200c9.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15e2062fbd306ba0decc8d020d0a766eb1c8d3dd.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc7f988e9964bccc2f62b1c602415c1fdd09c14.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/04/042d3fec2deb86a692afdd1bf6268954e1eb8193.mp3"
+      }
     },
     {
       "id": 16,
@@ -48,7 +62,17 @@
         "无法确定"
       ],
       "answer": "红球",
-      "explanation": "红球数量最多，摸到的概率为 5/10，最大。"
+      "explanation": "红球数量最多，摸到的概率为 5/10，最大。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/80/80cd7ae41468635b4969e758ad952118499083a1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/9b/9bfababfe9495fd30aa2133b2a005ac98b311b05.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/414bc4db96b17bd66ed4d7922c1d3dbd3ec77379.mp3",
+          "https://api.clthuanxie.cn/cc-audio/72/72955a304da5b0016ac372cd626dcfc215b37f06.mp3",
+          "https://api.clthuanxie.cn/cc-audio/32/329b024b333df18ba53c7d1e7915f2d8cc7788ac.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/31/3102afc769490083231a8f578f419bb02b8d6bb0.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -59,6 +83,16 @@
       "根据局部数据盲目预测趋势",
       "认为可能性小的事情就绝对不会发生"
     ],
-    "tips": "先看图例名和坐标单位再分析。平均数易受极端值（极大或极小）干扰。"
+    "tips": "先看图例名和坐标单位再分析。平均数易受极端值（极大或极小）干扰。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/c8/c88d9dd5a1770b210ca921730136fb61fdb3141d.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/96/9656b120b45ee43138cc87ac09b356f63f6f6a59.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/ae/ae4b23a4fd4973da2ac052cb4485f297f9d60daa.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/5a/5a5ff66255cfa7c3dc5885869a8450061fab1b45.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/d2/d2c453976a317dbdc5d00bd7723c44791e3e7b03.mp3",
+        "https://api.clthuanxie.cn/cc-audio/3f/3f02da02bd381d62826babf2048ed701b7337cda.mp3"
+      ]
+    }
   }
 }

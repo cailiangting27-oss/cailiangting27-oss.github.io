@@ -21,7 +21,17 @@
         "谁知盘中餐"
       ],
       "answer": "低头思故乡",
-      "explanation": "出自李白的《静夜思》：举头望明月，低头思故乡。"
+      "explanation": "出自李白的《静夜思》：举头望明月，低头思故乡。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/e9/e9c7da56555c3092865cde50407f046d92fc4e4d.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/b6/b683572ed4cc44baa5ce5d39c8f174c7408f57b5.mp3",
+          "https://api.clthuanxie.cn/cc-audio/04/0488c1217841ea1acc5e07523d5b2dc5058b14ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f8/f8599e0b24f2ee276e5ad1520bf6c21d672d44db.mp3",
+          "https://api.clthuanxie.cn/cc-audio/0b/0bd84c89cea9a02a040298466b2452c375a0a8e0.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/d3/d349411c30ec723d4908556e6b14ef243262d2c4.mp3"
+      }
     },
     {
       "id": 16,
@@ -32,7 +42,11 @@
       "question": "床前明月光，（ ）是地上霜。",
       "options": [],
       "answer": "疑",
-      "explanation": "考查《静夜思》名句积累。"
+      "explanation": "考查《静夜思》名句积累。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/67/672ab81df3994ff853cabf30a410148dbe620b93.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/cb/cb1d66aa2e3147aeb2e187b348224e0df4b05904.mp3"
+      }
     }
   ],
   "knowledge": null

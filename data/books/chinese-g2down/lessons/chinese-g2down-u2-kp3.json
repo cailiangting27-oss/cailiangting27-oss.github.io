@@ -16,7 +16,11 @@
       "question": "“碧绿碧绿”和“雪白雪白”都是表示颜色的词语。",
       "options": [],
       "answer": "对",
-      "explanation": "这两个词都是ABAB式表示颜色的词语。"
+      "explanation": "这两个词都是ABAB式表示颜色的词语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/ab/abbedaf9cd538428abd1f32f619d4ad934389c32.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/f4/f42eb34cd2039e0bca25de53f8519860b325fd31.mp3"
+      }
     },
     {
       "id": 2,
@@ -27,7 +31,11 @@
       "question": "“葱葱绿绿”可以用来形容田里的庄稼长得很好。",
       "options": [],
       "answer": "对",
-      "explanation": "葱葱绿绿形容草木苍翠茂盛。"
+      "explanation": "葱葱绿绿形容草木苍翠茂盛。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5f37ee2ab126b67040ef2a881bdd7221e5d09579.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3f/3fcf775392b2baed103f478e4823b81dbc87b343.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "黑乎乎"
       ],
       "answer": "绿油油",
-      "explanation": "绿油油常形容植物浓绿润泽。"
+      "explanation": "绿油油常形容植物浓绿润泽。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/fd/fdfb0ade44d5ba6b746ca1864e353b9536873466.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/f7/f7ab0380880031d9cecdcf0c61f0188d77ca460b.mp3",
+          "https://api.clthuanxie.cn/cc-audio/41/4174f47c65c8affa812e8c9209c84373aef23c0f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/12/127e0593481ba1fcd32e04f263c195b6d124c934.mp3",
+          "https://api.clthuanxie.cn/cc-audio/83/83b53a8f5a95f34c41631544eb771f31b6bfefd4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/b4/b4c38372dafa93301f56e17c1d2ab56540518ffd.mp3"
+      }
     },
     {
       "id": 11,
@@ -59,7 +77,17 @@
         "干干巴巴"
       ],
       "answer": "清新湿润",
-      "explanation": "描写郊外环境通常用清新湿润。"
+      "explanation": "描写郊外环境通常用清新湿润。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/74/74397a6d26609bcc9a1f6fac3bfae5f847f64353.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/90/90c3e632243e3c1819fee048336948b1f8470a43.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d4/d43a9f9448cc29bea00f0ce8dc7f40b182497198.mp3",
+          "https://api.clthuanxie.cn/cc-audio/19/19932d1c8db6ba72002c230f6f5aeaa0a720aa02.mp3",
+          "https://api.clthuanxie.cn/cc-audio/60/60a210dd0bf994ddc8c4eee36b6010497f3b05a6.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/1b/1beab7d7e3d29f115acb79085a57bea684f86ce2.mp3"
+      }
     },
     {
       "id": 13,
@@ -75,7 +103,17 @@
         "大小"
       ],
       "answer": "颜色",
-      "explanation": "红艳艳是描写颜色的词语。"
+      "explanation": "红艳艳是描写颜色的词语。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/61/61463172a99c316d6450ce5cbdde5313cf81df31.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/a3/a3ca3cca04e9f51932b93fb8ff6d8c3b9c227510.mp3",
+          "https://api.clthuanxie.cn/cc-audio/36/364bd1bf0580d2328e475cdd0ab24d0516a970a7.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8e/8ef4886033563ed64e136bb380e5179d05dc0af1.mp3",
+          "https://api.clthuanxie.cn/cc-audio/fd/fd20702c73d1ea928b166986ac524e0f24c7b89f.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/7a/7af6e21a2d5804968ac48728a2100f76b9acca37.mp3"
+      }
     },
     {
       "id": 16,
@@ -86,7 +124,11 @@
       "question": "形容天上的太阳红通通，形容地上的草（）。",
       "options": [],
       "answer": "绿油油",
-      "explanation": "考查ABB式颜色词的搭配。"
+      "explanation": "考查ABB式颜色词的搭配。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/02/02ba0770814d98728990f0a042ed6fc25b531c99.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/3b/3b904374477b2538b85deadc4ec1e173967b7351.mp3"
+      }
     },
     {
       "id": 20,
@@ -106,7 +148,21 @@
         "碧绿碧绿"
       ],
       "answer": "A-2,B-1,C-4,D-3",
-      "explanation": "对应关系为：稻子-金黄，桃花-粉红，小草-碧绿，云朵-雪白。"
+      "explanation": "对应关系为：稻子-金黄，桃花-粉红，小草-碧绿，云朵-雪白。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/a1/a1ed5cd7119151f2d853014dd96c44c7b2b30e8c.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/45/452b8ec061f025fb752e5c7826631f4cc36ebaaa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/d0/d0d3fc48506f99232d2edf0851abedaa5ad9912f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/90/90ec779ad29ded51dac7f31aea77beaeb9be1a56.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8b/8bc54e65af5fff38f4158a948f59a060d913d8be.mp3",
+          "https://api.clthuanxie.cn/cc-audio/44/44ba3b89fadd69442e4f657063fa9fe5222242fc.mp3",
+          "https://api.clthuanxie.cn/cc-audio/3d/3d38fba9691241067caeae3941dc14e321f10ded.mp3",
+          "https://api.clthuanxie.cn/cc-audio/34/342fe3b749296b50299f127c4aa8cd34409ce33d.mp3",
+          "https://api.clthuanxie.cn/cc-audio/f0/f0199334b94b7d70e283bc96b622c6cfdf3e86ec.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/9b/9bb6c5e0c6b2f091865db454d5dc476f0de92071.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -117,6 +173,16 @@
       "词语搭配不当，如“白茫茫的太阳”",
       "混淆ABB与AABB词语的使用场景"
     ],
-    "tips": "多积累生活中的颜色词，制作彩色词语卡片分类记忆。"
+    "tips": "多积累生活中的颜色词，制作彩色词语卡片分类记忆。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/37/3709ed6fcb7e7372429a9120cd032e55375ef459.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/53/53f33cda341140dcd5e8b29bddbb56aee98f5186.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/33/3382eaafd8bcfd45fc41eb03c16e97313cac2d3b.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/53/53c1eedb98a6d72aa5bc5ce22725bcb8f4255bb2.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/96/9642103398fb731b2173d76ca1adce067fc2177b.mp3",
+        "https://api.clthuanxie.cn/cc-audio/9c/9cf289cad2ca4eff5c3b33566f01f52bf8fbe005.mp3"
+      ]
+    }
   }
 }

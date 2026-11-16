@@ -16,7 +16,11 @@
       "question": "《蜜蜂》一文中，作者用“推、爬、飞”等动词生动地写出了蜜蜂受惊时的状态。",
       "options": [],
       "answer": "对",
-      "explanation": "文中使用连续动词准确还原了蜜蜂身体的灵活性。"
+      "explanation": "文中使用连续动词准确还原了蜜蜂身体的灵活性。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/62/6203d9ee247eb0d82ebfe1361ea52f186bdabab9.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/20/2029478004c14683eb0990b16e651d37fbc17728.mp3"
+      }
     },
     {
       "id": 4,
@@ -27,7 +31,11 @@
       "question": "“没过多久，它们就会搏斗起来”中，“搏斗”一词体现了观察的动态美。",
       "options": [],
       "answer": "对",
-      "explanation": "用拟人化的动词描述了虾的激烈动作。"
+      "explanation": "用拟人化的动词描述了虾的激烈动作。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/7b/7bcd13251c76e1e354ae9e7e820accefcd273272.mp3",
+        "explanation": "https://api.clthuanxie.cn/cc-audio/4c/4c0f17d778aadc1191b25b9f1c40bcd493cbf4b4.mp3"
+      }
     },
     {
       "id": 6,
@@ -43,7 +51,17 @@
         "缸里、水边、植物"
       ],
       "answer": "游来游去、划动、舞动",
-      "explanation": "这三个词体现了动作的动态过程。"
+      "explanation": "这三个词体现了动作的动态过程。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/36/36cae34c76d43b7210a17f0fc03f279bb324cbe1.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/3c/3c45927e859ae859dd1bc935a7b6f84470d63daa.mp3",
+          "https://api.clthuanxie.cn/cc-audio/15/15db92afe9c221f6abfb1f5c83632a4e085389af.mp3",
+          "https://api.clthuanxie.cn/cc-audio/46/46df0e2ad86650165b4e6cd38175ba1a325f8327.mp3",
+          "https://api.clthuanxie.cn/cc-audio/07/077a9a3939aa3bf43215ea9c340b092c88801ce5.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/5b/5b420b6288742cd05776ac67f9d1311d08f3997d.mp3"
+      }
     },
     {
       "id": 9,
@@ -59,7 +77,17 @@
         "触已经非常精准"
       ],
       "answer": "触已经非常精准",
-      "explanation": "触体现了轻微接触，符合蜜蜂当时的飞行状态。"
+      "explanation": "触体现了轻微接触，符合蜜蜂当时的飞行状态。",
+      "audio": {
+        "question": "https://api.clthuanxie.cn/cc-audio/5f/5fe8b5a5c21212e69c21d445345cdbea6d81dada.mp3",
+        "options": [
+          "https://api.clthuanxie.cn/cc-audio/46/4651eb29eac69d159689a732f58170c6687a80ab.mp3",
+          "https://api.clthuanxie.cn/cc-audio/a3/a33f9a4702cb37c605b0d5dfcf084388e64d914c.mp3",
+          "https://api.clthuanxie.cn/cc-audio/8d/8d2c07b4645f911ceb8fb90f1ac698ce02e2934f.mp3",
+          "https://api.clthuanxie.cn/cc-audio/29/29d1a43c912281981f1fbbd300f2a2b020b30bb4.mp3"
+        ],
+        "explanation": "https://api.clthuanxie.cn/cc-audio/2c/2c0c4c7a2b4d4942eb255a060556320ce2d45d68.mp3"
+      }
     }
   ],
   "knowledge": {
@@ -70,6 +98,16 @@
       "动词贫乏，反复使用“看、走、去”等泛化词语。",
       "观察不够仔细，无法捕捉到动作变化的瞬间。"
     ],
-    "tips": "在观察时，闭上眼睛回想动作的每一个小变化，给每一个变化配上一个最贴切的动作词。"
+    "tips": "在观察时，闭上眼睛回想动作的每一个小变化，给每一个变化配上一个最贴切的动作词。",
+    "audio": {
+      "point": "https://api.clthuanxie.cn/cc-audio/e8/e8190a50e2356902864bd795f70f4e5f31cd1983.mp3",
+      "core_concept": "https://api.clthuanxie.cn/cc-audio/7a/7aadee4e8701b1463169e738390a101bde39c3de.mp3",
+      "key_formula": "https://api.clthuanxie.cn/cc-audio/e2/e204818b4b730bb6e623ed1348a08ffd067646ee.mp3",
+      "tips": "https://api.clthuanxie.cn/cc-audio/ca/caa24c1831eb950af8696b9299069668651bb895.mp3",
+      "common_mistakes": [
+        "https://api.clthuanxie.cn/cc-audio/50/50ed6c4c24dd68b17cb78b546b0824f1bb202a27.mp3",
+        "https://api.clthuanxie.cn/cc-audio/aa/aa876f6e4655cfce137f953fd63792e00ded8774.mp3"
+      ]
+    }
   }
 }
